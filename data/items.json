@@ -1,21 +1,48 @@
 [
   {
+    "description": "A full-stack bioinformatics platform and AI control plane enabling reproducible, scalable genomic workflows across local",
+    "id": "man4ish/omnibioai-ecosystem",
+    "language": "Shell",
+    "name": "man4ish/omnibioai-ecosystem",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:49:38Z",
+    "url": "https://github.com/man4ish/omnibioai-ecosystem"
+  },
+  {
     "description": "Self-hostable, multi-LLM knowledge OS for individuals and teams. Gemini/Ollama, knowledge graph, real-time collaboration",
     "id": "Sungblab/opencairn-monorepo",
     "language": "TypeScript",
     "name": "Sungblab/opencairn-monorepo",
     "stars": 2,
-    "updated_at": "2026-05-24T19:44:45Z",
+    "updated_at": "2026-05-24T19:48:37Z",
     "url": "https://github.com/Sungblab/opencairn-monorepo"
   },
   {
-    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
-    "id": "Eliyce/paqad-ai",
-    "language": "TypeScript",
-    "name": "Eliyce/paqad-ai",
+    "description": "Governed, living memory for personal, professional, and enterprise AI agents.",
+    "id": "arnaudlopez/SuperMemory",
+    "language": "JavaScript",
+    "name": "arnaudlopez/SuperMemory",
     "stars": 0,
-    "updated_at": "2026-05-24T19:44:40Z",
-    "url": "https://github.com/Eliyce/paqad-ai"
+    "updated_at": "2026-05-24T19:47:21Z",
+    "url": "https://github.com/arnaudlopez/SuperMemory"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 1,
+    "updated_at": "2026-05-24T19:47:52Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "Interactive voice-controlled storyteller for Raspberry Pi (ReSpeaker) or PC: OpenAI STT/LLM/TTS, RAG worlds, substory dr",
+    "id": "marceld23/StoryTeller",
+    "language": "Python",
+    "name": "marceld23/StoryTeller",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:46:57Z",
+    "url": "https://github.com/marceld23/StoryTeller"
   },
   {
     "description": "AI sales-funnel engine \u2014 Telegram, WhatsApp & web widget, RAG, visa pipeline, admin UI, Postgres (monorepo)",
@@ -23,8 +50,71 @@
     "language": "TypeScript",
     "name": "chatman-media/lead-engine",
     "stars": 2,
-    "updated_at": "2026-05-24T19:44:20Z",
+    "updated_at": "2026-05-24T19:46:40Z",
     "url": "https://github.com/chatman-media/lead-engine"
+  },
+  {
+    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 5,
+    "updated_at": "2026-05-24T19:46:35Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
+    "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
+    "id": "adrianweidig/seafile-ragflow-connector",
+    "language": "Python",
+    "name": "adrianweidig/seafile-ragflow-connector",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:46:28Z",
+    "url": "https://github.com/adrianweidig/seafile-ragflow-connector"
+  },
+  {
+    "description": "LangGraph RAG agent with tool-call caching via CachePolicy: a single-lesson tutorial.",
+    "id": "sheldonlsides/langgraph-cache-aware-rag",
+    "language": "Jupyter Notebook",
+    "name": "sheldonlsides/langgraph-cache-aware-rag",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:46:31Z",
+    "url": "https://github.com/sheldonlsides/langgraph-cache-aware-rag"
+  },
+  {
+    "description": "Turn your documents into LLM-ready context. Grounding is a single-binary search server \u2014 index anything, retrieve what m",
+    "id": "gothammm/grounding",
+    "language": "Rust",
+    "name": "gothammm/grounding",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:46:00Z",
+    "url": "https://github.com/gothammm/grounding"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Spec-driven development framework \u2014 AI agents that think before they type",
+    "id": "Eliyce/paqad-ai",
+    "language": "TypeScript",
+    "name": "Eliyce/paqad-ai",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:45:55Z",
+    "url": "https://github.com/Eliyce/paqad-ai"
   },
   {
     "description": "Ruby's most capable AI runtime",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-24T19:43:32Z",
+    "updated_at": "2026-05-24T19:45:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -67,7 +157,7 @@
     "id": "safishamsi/graphify",
     "language": "Python",
     "name": "safishamsi/graphify",
-    "stars": 52956,
+    "stars": 52957,
     "updated_at": "2026-05-24T19:42:37Z",
     "url": "https://github.com/safishamsi/graphify"
   },
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "wazionapps/nexo",
     "stars": 22,
-    "updated_at": "2026-05-24T19:42:07Z",
+    "updated_at": "2026-05-24T19:45:32Z",
     "url": "https://github.com/wazionapps/nexo"
   },
   {
@@ -106,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-05-24T19:41:54Z",
     "url": "https://github.com/rajulbabel/learn-ai"
+  },
+  {
+    "description": "Assistant RAG multilingue FR/AR pour la veille r\u00e9glementaire cybers\u00e9curit\u00e9 marocaine",
+    "id": "najlaalarche/maghrebcyber-rag",
+    "language": "Python",
+    "name": "najlaalarche/maghrebcyber-rag",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:41:23Z",
+    "url": "https://github.com/najlaalarche/maghrebcyber-rag"
   },
   {
     "description": "LLM-powered document query system for HackRx 6.0 using FastAPI, Pinecone ,Cohere, and Google Embeddings. Built for high ",
@@ -142,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T19:40:09Z",
     "url": "https://github.com/eltu/idx"
-  },
-  {
-    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 5,
-    "updated_at": "2026-05-24T19:39:45Z",
-    "url": "https://github.com/fathom-lab/styxx"
   },
   {
     "description": "Baby Pulmo \u2014 AI Pediatric Cough Diagnostic for Rural Bangladesh (INFINITY AI BUILDFEST 2026)",
@@ -234,15 +324,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
-    "id": "adrianweidig/seafile-ragflow-connector",
-    "language": "Python",
-    "name": "adrianweidig/seafile-ragflow-connector",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:34:03Z",
-    "url": "https://github.com/adrianweidig/seafile-ragflow-connector"
-  },
-  {
     "description": "OctoVector AI is a high-performance RAG system that combines dense and sparse retrieval with fusion and cross-encoder re",
     "id": "Midhun1618/OctoVector-AI",
     "language": "Python",
@@ -259,24 +340,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T19:32:27Z",
     "url": "https://github.com/Nestallum/tech-news-rag-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Profile README",
@@ -378,15 +441,6 @@
     "url": "https://github.com/HKUDS/LightRAG"
   },
   {
-    "description": "LangGraph RAG agent with tool-call caching via CachePolicy: a single-lesson tutorial.",
-    "id": "sheldonlsides/langgraph-cache-aware-rag",
-    "language": "Jupyter Notebook",
-    "name": "sheldonlsides/langgraph-cache-aware-rag",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:41:50Z",
-    "url": "https://github.com/sheldonlsides/langgraph-cache-aware-rag"
-  },
-  {
     "description": "AI-powered security log analysis platform using RAG and LLMs",
     "id": "SudoXploit7/DefenSight-AI",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-05-24T19:17:19Z",
     "url": "https://github.com/SudoXploit7/DefenSight-AI"
-  },
-  {
-    "description": "Multi-repo AI RAG system with hybrid retrieval (vector, graph, plugin), streaming LLMs, and React-based visualization UI",
-    "id": "man4ish/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "man4ish/omnibioai-dev-hub",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:16:58Z",
-    "url": "https://github.com/man4ish/omnibioai-dev-hub"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 1,
-    "updated_at": "2026-05-24T19:33:10Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
-    "id": "tetherto/qvac",
-    "language": "JavaScript",
-    "name": "tetherto/qvac",
-    "stars": 186,
-    "updated_at": "2026-05-24T19:15:18Z",
-    "url": "https://github.com/tetherto/qvac"
-  },
-  {
-    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:15:14Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
-  },
-  {
-    "description": "A simple Docker based playground that brings together popular open source data and AI tools to help others get started w",
-    "id": "tarekabouzeid/data-lab-playground",
-    "language": "Jupyter Notebook",
-    "name": "tarekabouzeid/data-lab-playground",
-    "stars": 6,
-    "updated_at": "2026-05-24T19:16:45Z",
-    "url": "https://github.com/tarekabouzeid/data-lab-playground"
-  },
-  {
-    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
-    "id": "phonghhd/EvoNet-AI-Core",
-    "language": "Python",
-    "name": "phonghhd/EvoNet-AI-Core",
-    "stars": 3,
-    "updated_at": "2026-05-24T19:14:04Z",
-    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
   }
 ]
