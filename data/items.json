@@ -1,5 +1,167 @@
 [
   {
+    "description": "",
+    "id": "superninjv/synoros-pes",
+    "language": "Python",
+    "name": "superninjv/synoros-pes",
+    "stars": 1,
+    "updated_at": "2026-05-24T01:08:21Z",
+    "url": "https://github.com/superninjv/synoros-pes"
+  },
+  {
+    "description": "Enterprise AI HR policy assistant with RAG, governance controls, audit logging, escalation workflows, and AWS ECS deploy",
+    "id": "dennishanton0124-del/enterprise-hr-policy-assistant",
+    "language": "Python",
+    "name": "dennishanton0124-del/enterprise-hr-policy-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:07:32Z",
+    "url": "https://github.com/dennishanton0124-del/enterprise-hr-policy-assistant"
+  },
+  {
+    "description": "AI21 Labs \u2014 Jamba foundation models + enterprise AI",
+    "id": "api-evangelist/ai21-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ai21-labs",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:07:10Z",
+    "url": "https://github.com/api-evangelist/ai21-labs"
+  },
+  {
+    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
+    "id": "three-cubes/kairix",
+    "language": "Python",
+    "name": "three-cubes/kairix",
+    "stars": 2,
+    "updated_at": "2026-05-24T01:06:57Z",
+    "url": "https://github.com/three-cubes/kairix"
+  },
+  {
+    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
+    "id": "totobusnello/memoria-nox",
+    "language": "TypeScript",
+    "name": "totobusnello/memoria-nox",
+    "stars": 0,
+    "updated_at": "2026-05-24T01:06:45Z",
+    "url": "https://github.com/totobusnello/memoria-nox"
+  },
+  {
+    "description": "Local AI anywhere, for everyone \u2014 LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud,",
+    "id": "Light-Heart-Labs/DreamServer",
+    "language": "Shell",
+    "name": "Light-Heart-Labs/DreamServer",
+    "stars": 1649,
+    "updated_at": "2026-05-24T01:06:39Z",
+    "url": "https://github.com/Light-Heart-Labs/DreamServer"
+  },
+  {
+    "description": "AI skills and workflow templates for Claude Code, Copilot, Gemini, any AI tool that will ingest skills files.  ",
+    "id": "drewid74/ai_skills",
+    "language": "Python",
+    "name": "drewid74/ai_skills",
+    "stars": 8,
+    "updated_at": "2026-05-24T01:05:43Z",
+    "url": "https://github.com/drewid74/ai_skills"
+  },
+  {
+    "description": "This project implements a comprehensive framework for Knowledge Graph Retrieval Augmented Generation (KG-RAG). It focuse",
+    "id": "VectorInstitute/kg-rag",
+    "language": "Python",
+    "name": "VectorInstitute/kg-rag",
+    "stars": 39,
+    "updated_at": "2026-05-24T01:04:12Z",
+    "url": "https://github.com/VectorInstitute/kg-rag"
+  },
+  {
+    "description": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, Lang",
+    "id": "Haozhe-Xing/agent_learning",
+    "language": "HTML",
+    "name": "Haozhe-Xing/agent_learning",
+    "stars": 187,
+    "updated_at": "2026-05-24T01:03:03Z",
+    "url": "https://github.com/Haozhe-Xing/agent_learning"
+  },
+  {
+    "description": "Ruby's most capable AI runtime",
+    "id": "llmrb/llm.rb",
+    "language": "Ruby",
+    "name": "llmrb/llm.rb",
+    "stars": 131,
+    "updated_at": "2026-05-24T01:01:51Z",
+    "url": "https://github.com/llmrb/llm.rb"
+  },
+  {
+    "description": "A reasoning memory layer that gives AI agents and models persistent, grounded context across sessions.",
+    "id": "rememhq/remem",
+    "language": "Rust",
+    "name": "rememhq/remem",
+    "stars": 3,
+    "updated_at": "2026-05-24T01:01:38Z",
+    "url": "https://github.com/rememhq/remem"
+  },
+  {
+    "description": "Local-first persistent memory for AI coding agents (Claude Code/MCP). Reliable semantic recall \u2014 $0, offline, open sourc",
+    "id": "victorbjuliani/agentbrainsystem",
+    "language": "TypeScript",
+    "name": "victorbjuliani/agentbrainsystem",
+    "stars": 1,
+    "updated_at": "2026-05-24T01:01:00Z",
+    "url": "https://github.com/victorbjuliani/agentbrainsystem"
+  },
+  {
+    "description": "OpenAI-compatible API gateway with circuit breakers, RAG, MCP brokerage",
+    "id": "reverb256/ai-inference-gateway",
+    "language": "Python",
+    "name": "reverb256/ai-inference-gateway",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:59:21Z",
+    "url": "https://github.com/reverb256/ai-inference-gateway"
+  },
+  {
+    "description": "Real-time voice agent pipeline \u2014 Twilio to STT to MCP agent with vector retrieval to TTS to Twilio. Latency budget enfor",
+    "id": "reaatech/voice-agent-kit",
+    "language": "TypeScript",
+    "name": "reaatech/voice-agent-kit",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:59:13Z",
+    "url": "https://github.com/reaatech/voice-agent-kit"
+  },
+  {
+    "description": "Vellum \u2014 LLM platform for evaluation, deployment, monitoring",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:50:03Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "Amazon FSx for NetApp ONTAP \u3068 Amazon Bedrock \u3092\u4f7f\u3063\u3066\u3001\u30a2\u30af\u30bb\u30b9\u5236\u5fa1\u5bfe\u5fdc\u306e Agentic RAG \u3092 AWS CDK \u3067\u30c7\u30d7\u30ed\u30a4\u3059\u308b\u30b5\u30f3\u30d7\u30eb / AWS CDK sample for deplo",
+    "id": "Yoshiki0705/FSx-for-ONTAP-Agentic-Access-Aware-RAG",
+    "language": "TypeScript",
+    "name": "Yoshiki0705/FSx-for-ONTAP-Agentic-Access-Aware-RAG",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:49:16Z",
+    "url": "https://github.com/Yoshiki0705/FSx-for-ONTAP-Agentic-Access-Aware-RAG"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Professional AI Logic Hub: Accumulate, verify, and reuse high-quality code assets via MCP. Built for human liberation",
+    "id": "ayato-labs/LogicHive",
+    "language": "Python",
+    "name": "ayato-labs/LogicHive",
+    "stars": 2,
+    "updated_at": "2026-05-24T00:47:24Z",
+    "url": "https://github.com/ayato-labs/LogicHive"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T00:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Workflow reasoning engine for financial compliance documents. Hybrid RAG + structured agents with full audit trails.",
     "id": "clee12111/aether",
     "language": "Python",
@@ -7,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T00:45:02Z",
     "url": "https://github.com/clee12111/aether"
-  },
-  {
-    "description": "",
-    "id": "superninjv/synoros-pes",
-    "language": "Python",
-    "name": "superninjv/synoros-pes",
-    "stars": 1,
-    "updated_at": "2026-05-24T00:43:53Z",
-    "url": "https://github.com/superninjv/synoros-pes"
   },
   {
     "description": "ShellBrain. Long-term memory for AI agents.",
@@ -63,15 +216,6 @@
     "url": "https://github.com/juyterman1000/entroly"
   },
   {
-    "description": "Real-time voice agent pipeline \u2014 Twilio to STT to MCP agent with vector retrieval to TTS to Twilio. Latency budget enfor",
-    "id": "reaatech/voice-agent-kit",
-    "language": "TypeScript",
-    "name": "reaatech/voice-agent-kit",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:43:15Z",
-    "url": "https://github.com/reaatech/voice-agent-kit"
-  },
-  {
     "description": "One memory layer for every AI agent. Local-first, markdown source of truth, and CLI/HTTP/MCP native. Your agent forgot w",
     "id": "deeflect/dory",
     "language": "Python",
@@ -99,21 +243,12 @@
     "url": "https://github.com/swarmauri/swarmauri-sdk"
   },
   {
-    "description": "Amazon FSx for NetApp ONTAP \u3068 Amazon Bedrock \u3092\u4f7f\u3063\u3066\u3001\u30a2\u30af\u30bb\u30b9\u5236\u5fa1\u5bfe\u5fdc\u306e Agentic RAG \u3092 AWS CDK \u3067\u30c7\u30d7\u30ed\u30a4\u3059\u308b\u30b5\u30f3\u30d7\u30eb / AWS CDK sample for deplo",
-    "id": "Yoshiki0705/FSx-for-ONTAP-Agentic-Access-Aware-RAG",
-    "language": "TypeScript",
-    "name": "Yoshiki0705/FSx-for-ONTAP-Agentic-Access-Aware-RAG",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:26:58Z",
-    "url": "https://github.com/Yoshiki0705/FSx-for-ONTAP-Agentic-Access-Aware-RAG"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18441,
-    "updated_at": "2026-05-24T00:37:39Z",
+    "updated_at": "2026-05-24T00:46:14Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -142,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-05-24T00:21:18Z",
     "url": "https://github.com/leandro-michelino/oci-landingzones"
-  },
-  {
-    "description": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:36:15Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
   },
   {
     "description": "PostgreSQL-compatible SQL, graph, and vector database built from scratch in Rust.",
@@ -205,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T00:10:11Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "OpenAI-compatible API gateway with circuit breakers, RAG, MCP brokerage",
-    "id": "reverb256/ai-inference-gateway",
-    "language": "Python",
-    "name": "reverb256/ai-inference-gateway",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:08:19Z",
-    "url": "https://github.com/reverb256/ai-inference-gateway"
   },
   {
     "description": "Convert PDF documents to Markdown using local VLM inference services with this single Go binary.",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T00:05:11Z",
     "url": "https://github.com/Josiahxix957/1.0claude-kimi-cloud-workspace"
-  },
-  {
-    "description": "Shared cognition for teams of humans and AI agents. The open-source, MCP-native memory engine behind GrooveOS \u2014 every de",
-    "id": "mrboups/xbrain",
-    "language": "HTML",
-    "name": "mrboups/xbrain",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:04:53Z",
-    "url": "https://github.com/mrboups/xbrain"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:04:03Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
-    "id": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "language": "Python",
-    "name": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:54Z",
-    "url": "https://github.com/Hypertextsparrowhawk820/ask-your-annual-report"
-  },
-  {
-    "description": "Scrape and analyze Tor network data securely using LLMs for automated threat intelligence extraction.",
-    "id": "4turk2278/Scraper",
-    "language": "JavaScript",
-    "name": "4turk2278/Scraper",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:43Z",
-    "url": "https://github.com/4turk2278/Scraper"
-  },
-  {
-    "description": "Annotate Markdown and PDF files in Obsidian with overlay highlights and sticky notes that remain external to your origin",
-    "id": "Antony-bit375/axl-light",
-    "language": "TypeScript",
-    "name": "Antony-bit375/axl-light",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:42Z",
-    "url": "https://github.com/Antony-bit375/axl-light"
-  },
-  {
-    "description": "Provide MCP-native memory storage for LLMs and agents using a fast, local-first Rust binary.",
-    "id": "Vaginaldischargenewscaster673/mneme",
-    "language": "Rust",
-    "name": "Vaginaldischargenewscaster673/mneme",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:03:16Z",
-    "url": "https://github.com/Vaginaldischargenewscaster673/mneme"
-  },
-  {
-    "description": "Record product usage paths, analyze data with AI, and generate a structured knowledge base for RAG applications.",
-    "id": "Instinct-bone607/PathMind",
-    "language": "\u2014",
-    "name": "Instinct-bone607/PathMind",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:02:56Z",
-    "url": "https://github.com/Instinct-bone607/PathMind"
-  },
-  {
-    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
-    "id": "dgbac5672/LogN_DB-Core",
-    "language": "C++",
-    "name": "dgbac5672/LogN_DB-Core",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:02:40Z",
-    "url": "https://github.com/dgbac5672/LogN_DB-Core"
-  },
-  {
-    "description": "Synthesize contradictory research from your Zotero library using dialectical reasoning and LLaMA 3.1 to generate grounde",
-    "id": "CLODOALDO14/epistemic-conflict-engine",
-    "language": "Python",
-    "name": "CLODOALDO14/epistemic-conflict-engine",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:02:28Z",
-    "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
-  },
-  {
-    "description": "Orchestrate multi-agent teams using document-driven workflows, defined role boundaries, and standardized handoff contrac",
-    "id": "danilo1003/agent-team-orchestrator",
-    "language": "Python",
-    "name": "danilo1003/agent-team-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:02:21Z",
-    "url": "https://github.com/danilo1003/agent-team-orchestrator"
-  },
-  {
-    "description": "Evaluate autonomous AI memory systems using reproducible benchmarks and the LongMemEval-M dataset for Agent Brain.",
-    "id": "Bovirulent551/agentbrain-benchmarks",
-    "language": "Python",
-    "name": "Bovirulent551/agentbrain-benchmarks",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:02:07Z",
-    "url": "https://github.com/Bovirulent551/agentbrain-benchmarks"
-  },
-  {
-    "description": "Build a production-ready blog system with a high-performance Go backend, React frontend, and clean architecture.",
-    "id": "drillingmuduplifting7389/Solace",
-    "language": "\u2014",
-    "name": "drillingmuduplifting7389/Solace",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:02:02Z",
-    "url": "https://github.com/drillingmuduplifting7389/Solace"
-  },
-  {
-    "description": "Download public Epstein and Maxwell case documents, court filings, and FBI datasets using verified checksums from offici",
-    "id": "Nitosd1824/epstein-files",
-    "language": "Python",
-    "name": "Nitosd1824/epstein-files",
-    "stars": 0,
-    "updated_at": "2026-05-24T00:01:48Z",
-    "url": "https://github.com/Nitosd1824/epstein-files"
   }
 ]
