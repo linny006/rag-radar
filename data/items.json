@@ -1,5 +1,158 @@
 [
   {
+    "description": "Sankofa Health AI is a full-stack healthcare analytics platform built with FastAPI and Next.js for exploring healthcare ",
+    "id": "thealekhya/IDP_Ghana",
+    "language": "Python",
+    "name": "thealekhya/IDP_Ghana",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:17:59Z",
+    "url": "https://github.com/thealekhya/IDP_Ghana"
+  },
+  {
+    "description": "A safety-first, full-stack CV tailoring SaaS that utilizes contextual RAG with ChromaDB and multi-agent loops to dynamic",
+    "id": "lucaomul/CVShift",
+    "language": "Python",
+    "name": "lucaomul/CVShift",
+    "stars": 1,
+    "updated_at": "2026-05-24T17:17:11Z",
+    "url": "https://github.com/lucaomul/CVShift"
+  },
+  {
+    "description": "Self-hostable, multi-LLM knowledge OS for individuals and teams. Gemini/Ollama, knowledge graph, real-time collaboration",
+    "id": "Sungblab/opencairn-monorepo",
+    "language": "TypeScript",
+    "name": "Sungblab/opencairn-monorepo",
+    "stars": 2,
+    "updated_at": "2026-05-24T17:17:02Z",
+    "url": "https://github.com/Sungblab/opencairn-monorepo"
+  },
+  {
+    "description": "\ud83d\udd75\ufe0f Investigate data locally with ArkhamMirror, an AI-driven platform for journalists and researchers that organizes info",
+    "id": "1n3202/ArkhamMirror",
+    "language": "Python",
+    "name": "1n3202/ArkhamMirror",
+    "stars": 2,
+    "updated_at": "2026-05-24T17:16:37Z",
+    "url": "https://github.com/1n3202/ArkhamMirror"
+  },
+  {
+    "description": "\ud83d\udc14 Simplify AI orchestration by using agentic systems; spawn subagents like a hen with her chicks for seamless task manag",
+    "id": "iulieobraznic/agentic-ai-systems",
+    "language": "\u2014",
+    "name": "iulieobraznic/agentic-ai-systems",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:16:33Z",
+    "url": "https://github.com/iulieobraznic/agentic-ai-systems"
+  },
+  {
+    "description": "Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API",
+    "id": "bigint/rag.computer",
+    "language": "Python",
+    "name": "bigint/rag.computer",
+    "stars": 91,
+    "updated_at": "2026-05-24T17:16:31Z",
+    "url": "https://github.com/bigint/rag.computer"
+  },
+  {
+    "description": "Run a <400ms latency Voice Agent on just 4GB VRAM. Fully offline, no API keys required. Optimized for GTX 1650 and edge ",
+    "id": "pheonix-delta/axiom-voice-agent",
+    "language": "Python",
+    "name": "pheonix-delta/axiom-voice-agent",
+    "stars": 129,
+    "updated_at": "2026-05-24T17:16:18Z",
+    "url": "https://github.com/pheonix-delta/axiom-voice-agent"
+  },
+  {
+    "description": "Self-hosted AI workspace for local MLX and cloud LLMs, with web chat, VS Code, Telegram, MCP, and Graph RAG",
+    "id": "TaeSooPark-PTS/LatticeAI",
+    "language": "Python",
+    "name": "TaeSooPark-PTS/LatticeAI",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:16:17Z",
+    "url": "https://github.com/TaeSooPark-PTS/LatticeAI"
+  },
+  {
+    "description": "Plug-and-Play AI Knowledge Chatbot Backend with Memory + RAG (LangGraph + Redis + ChromaDB)",
+    "id": "hasandeveloper/chat-bot",
+    "language": "Python",
+    "name": "hasandeveloper/chat-bot",
+    "stars": 11,
+    "updated_at": "2026-05-24T17:15:54Z",
+    "url": "https://github.com/hasandeveloper/chat-bot"
+  },
+  {
+    "description": "AI-operable research workspace for Zotero, Obsidian, and NotebookLM. Use any two, or all three, through CLI, MCP, REST, ",
+    "id": "WenyuChiou/research-hub",
+    "language": "Python",
+    "name": "WenyuChiou/research-hub",
+    "stars": 17,
+    "updated_at": "2026-05-24T17:15:48Z",
+    "url": "https://github.com/WenyuChiou/research-hub"
+  },
+  {
+    "description": "GoRAG is a production-ready, high-performance RAG (Retrieval-Augmented Generation) framework built entirely in Go. Desig",
+    "id": "DotNetAge/gorag",
+    "language": "Go",
+    "name": "DotNetAge/gorag",
+    "stars": 3,
+    "updated_at": "2026-05-24T17:15:48Z",
+    "url": "https://github.com/DotNetAge/gorag"
+  },
+  {
+    "description": "\ud83d\udcac Build a powerful chatbot with LangChain and Streamlit, enabling seamless conversations and actionable insights from yo",
+    "id": "Shaymaa194/langchainv1-streamlit-chatbot",
+    "language": "Python",
+    "name": "Shaymaa194/langchainv1-streamlit-chatbot",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:15:44Z",
+    "url": "https://github.com/Shaymaa194/langchainv1-streamlit-chatbot"
+  },
+  {
+    "description": "Personal RAG engine \u2014 simple, fast, Rust. One binary, one DB, native collections. The anti-LangChain.",
+    "id": "lelabdev/rag-ferrite",
+    "language": "Rust",
+    "name": "lelabdev/rag-ferrite",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:15:41Z",
+    "url": "https://github.com/lelabdev/rag-ferrite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcca Automate financial analysis and forecasting with ForecastGPT, leveraging AI to extract insights from reports and strea",
+    "id": "elemsi/forecastgpt-financial-outlook-agent",
+    "language": "Python",
+    "name": "elemsi/forecastgpt-financial-outlook-agent",
+    "stars": 1,
+    "updated_at": "2026-05-24T17:15:22Z",
+    "url": "https://github.com/elemsi/forecastgpt-financial-outlook-agent"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:15:22Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T17:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udd16 Build a contextual chatbot using RAG with FastAPI, LangChain, and FAISS\u2014perfect for beginners and experienced develope",
     "id": "axiswone/rag-chatbot-demo",
     "language": "Python",
@@ -18,15 +171,6 @@
     "url": "https://github.com/kjgdgch65g/nl-rag-qdrant-legal"
   },
   {
-    "description": "Self-hostable, multi-LLM knowledge OS for individuals and teams. Gemini/Ollama, knowledge graph, real-time collaboration",
-    "id": "Sungblab/opencairn-monorepo",
-    "language": "TypeScript",
-    "name": "Sungblab/opencairn-monorepo",
-    "stars": 2,
-    "updated_at": "2026-05-24T17:14:58Z",
-    "url": "https://github.com/Sungblab/opencairn-monorepo"
-  },
-  {
     "description": "linked of  Romanian fiscal authority(MFP-ANAF-GOV-RO)",
     "id": "stefanache/MFP-ANAF-RO",
     "language": "PHP",
@@ -34,15 +178,6 @@
     "stars": 47,
     "updated_at": "2026-05-24T17:14:57Z",
     "url": "https://github.com/stefanache/MFP-ANAF-RO"
-  },
-  {
-    "description": "Run a <400ms latency Voice Agent on just 4GB VRAM. Fully offline, no API keys required. Optimized for GTX 1650 and edge ",
-    "id": "pheonix-delta/axiom-voice-agent",
-    "language": "Python",
-    "name": "pheonix-delta/axiom-voice-agent",
-    "stars": 129,
-    "updated_at": "2026-05-24T17:14:57Z",
-    "url": "https://github.com/pheonix-delta/axiom-voice-agent"
   },
   {
     "description": "\ud83d\udee0\ufe0f Build a flexible search and navigation tool for RimWorld\u2019s source code and XML definitions, enabling AI-assisted retr",
@@ -77,7 +212,7 @@
     "language": "Python",
     "name": "vasu-devs/JustHireMe",
     "stars": 1874,
-    "updated_at": "2026-05-24T17:13:26Z",
+    "updated_at": "2026-05-24T17:15:44Z",
     "url": "https://github.com/vasu-devs/JustHireMe"
   },
   {
@@ -131,7 +266,7 @@
     "language": "TypeScript",
     "name": "Ktulu-Analog/demeter",
     "stars": 4,
-    "updated_at": "2026-05-24T17:12:26Z",
+    "updated_at": "2026-05-24T17:16:54Z",
     "url": "https://github.com/Ktulu-Analog/demeter"
   },
   {
@@ -176,7 +311,7 @@
     "language": "Python",
     "name": "SciFit-Sync/scifit-sync",
     "stars": 0,
-    "updated_at": "2026-05-24T17:13:01Z",
+    "updated_at": "2026-05-24T17:18:05Z",
     "url": "https://github.com/SciFit-Sync/scifit-sync"
   },
   {
@@ -270,15 +405,6 @@
     "url": "https://github.com/Antonio-Prado/zautte"
   },
   {
-    "description": "Self-hosted AI workspace for local MLX and cloud LLMs, with web chat, VS Code, Telegram, MCP, and Graph RAG",
-    "id": "TaeSooPark-PTS/LatticeAI",
-    "language": "Python",
-    "name": "TaeSooPark-PTS/LatticeAI",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:09:23Z",
-    "url": "https://github.com/TaeSooPark-PTS/LatticeAI"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Convert PDF files to Markdown for LLM workflows with event-driven efficiency and optimized output, ensuring zero idle",
     "id": "jackise69/pdf-sentinel",
     "language": "JavaScript",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T17:07:36Z",
     "url": "https://github.com/upply-org/upply-backend"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-05-24T17:07:23Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "Chat with PDF documents using Google Gemini + LangChain + FAISS \u2014 RAG pipeline with streaming responses, source citation",
-    "id": "anam-aleena/rag-pdf-chatbot",
-    "language": "Python",
-    "name": "anam-aleena/rag-pdf-chatbot",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:07:17Z",
-    "url": "https://github.com/anam-aleena/rag-pdf-chatbot"
-  },
-  {
-    "description": "NEXO Brain \u2014 Shared brain for AI agents. Persistent memory, semantic RAG, natural forgetting, metacognitive guard, trust",
-    "id": "wazionapps/nexo",
-    "language": "Python",
-    "name": "wazionapps/nexo",
-    "stars": 22,
-    "updated_at": "2026-05-24T17:07:21Z",
-    "url": "https://github.com/wazionapps/nexo"
-  },
-  {
-    "description": "\ud83d\udcca Analyze and enhance GitHub repositories with a multi-agent system that delivers actionable recommendations for improvi",
-    "id": "florentnehyu/rt-aaidc-project2-multiagent",
-    "language": "Python",
-    "name": "florentnehyu/rt-aaidc-project2-multiagent",
-    "stars": 1,
-    "updated_at": "2026-05-24T17:06:57Z",
-    "url": "https://github.com/florentnehyu/rt-aaidc-project2-multiagent"
-  },
-  {
-    "description": "\ud83c\udfac AI-powered meeting intelligence - transcribe, summarise & chat with any video using RAG. Supports English (Whisper) + ",
-    "id": "priyanshu09102003/Meetflow-AI_Video_Assistant_with_RAG",
-    "language": "Python",
-    "name": "priyanshu09102003/Meetflow-AI_Video_Assistant_with_RAG",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:06:24Z",
-    "url": "https://github.com/priyanshu09102003/Meetflow-AI_Video_Assistant_with_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:06:20Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f Transform your documents into a voice assistant that answers your questions with accurate, context-aware information ",
-    "id": "sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval",
-    "language": "JavaScript",
-    "name": "sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:06:06Z",
-    "url": "https://github.com/sonofslaytin/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval"
-  },
-  {
-    "description": "\ud83d\udcc4 Process PDF documents intelligently with our AI agent, featuring a FastAPI backend and a user-friendly Streamlit web i",
-    "id": "mostafa-gode74/Servidor_api_agente_de_pdf",
-    "language": "Python",
-    "name": "mostafa-gode74/Servidor_api_agente_de_pdf",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:06:03Z",
-    "url": "https://github.com/mostafa-gode74/Servidor_api_agente_de_pdf"
-  },
-  {
-    "description": "\ud83d\udcca Streamline query-focused summarization by constructing knowledge graphs and extracting insights from document corpora ",
-    "id": "newspapercriticcontribution396/graphrag-query-summarization",
-    "language": "Python",
-    "name": "newspapercriticcontribution396/graphrag-query-summarization",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:06:02Z",
-    "url": "https://github.com/newspapercriticcontribution396/graphrag-query-summarization"
-  },
-  {
-    "description": "\ud83d\udcc4 Implement a RAG pipeline to query PDFs using Hugging Face embeddings, Pinecone storage, and contextual compression for",
-    "id": "moones29/Rag_init",
-    "language": "Jupyter Notebook",
-    "name": "moones29/Rag_init",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:05:58Z",
-    "url": "https://github.com/moones29/Rag_init"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized chatbots in just 5 cells using Colab and Groq, making AI visually appealing and user-friendly.",
-    "id": "milothoelen/AI-ChatBot",
-    "language": "Python",
-    "name": "milothoelen/AI-ChatBot",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:05:41Z",
-    "url": "https://github.com/milothoelen/AI-ChatBot"
-  },
-  {
-    "description": "\ud83e\udde0 Local-first knowledge system for LLM agents \u2014 sqlite-vec + ONNX embeddings, no cloud/Docker/PyTorch dependency",
-    "id": "zycaskevin/Vault-for-LLM",
-    "language": "Python",
-    "name": "zycaskevin/Vault-for-LLM",
-    "stars": 38,
-    "updated_at": "2026-05-24T17:05:40Z",
-    "url": "https://github.com/zycaskevin/Vault-for-LLM"
-  },
-  {
-    "description": "\ud83d\udcda Process PDF documents intelligently with this complete app using AgentOS, featuring a REST API and a web interface for",
-    "id": "samub6/Servidor_api_agente_de_pdf",
-    "language": "Python",
-    "name": "samub6/Servidor_api_agente_de_pdf",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:05:37Z",
-    "url": "https://github.com/samub6/Servidor_api_agente_de_pdf"
-  },
-  {
-    "description": "\ud83d\ude80 Build a secure, scalable Retrieval-Augmented Generation microservice with LangChain, AWS Bedrock, and Pinecone using s",
-    "id": "Dani36034550/langchain_bedrock_lambda",
-    "language": "Python",
-    "name": "Dani36034550/langchain_bedrock_lambda",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:05:33Z",
-    "url": "https://github.com/Dani36034550/langchain_bedrock_lambda"
   }
 ]
