@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 86,
+    "updated_at": "2026-05-24T16:15:14Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Self-hostable, multi-LLM knowledge OS for individuals and teams. Gemini/Ollama, knowledge graph, real-time collaboration",
+    "id": "Sungblab/opencairn-monorepo",
+    "language": "TypeScript",
+    "name": "Sungblab/opencairn-monorepo",
+    "stars": 2,
+    "updated_at": "2026-05-24T16:15:14Z",
+    "url": "https://github.com/Sungblab/opencairn-monorepo"
+  },
+  {
+    "description": "AI agent that helps users discover and get personalized workout recommendations.",
+    "id": "ayoub637/backend-api-fitflow",
+    "language": "TypeScript",
+    "name": "ayoub637/backend-api-fitflow",
+    "stars": 2,
+    "updated_at": "2026-05-24T16:15:12Z",
+    "url": "https://github.com/ayoub637/backend-api-fitflow"
+  },
+  {
+    "description": "Code search and session observability for coding agents. Hybrid BM25+semantic, optional cross-encoder rerank, self-bench",
+    "id": "sivru/sivru",
+    "language": "TypeScript",
+    "name": "sivru/sivru",
+    "stars": 4,
+    "updated_at": "2026-05-24T16:15:05Z",
+    "url": "https://github.com/sivru/sivru"
+  },
+  {
+    "description": "Evidence layer for AI agents you actually own \u2014 claims, contradictions, and citations on your infrastructure.",
+    "id": "felixgeelhaar/mnemos",
+    "language": "Go",
+    "name": "felixgeelhaar/mnemos",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:14:55Z",
+    "url": "https://github.com/felixgeelhaar/mnemos"
+  },
+  {
+    "description": "A Python library for generating high-quality question-answer pairs from PDF, DOCX, MD, and TXT files",
+    "id": "Bazinga23451/semantic-qa-gen",
+    "language": "Python",
+    "name": "Bazinga23451/semantic-qa-gen",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:14:47Z",
+    "url": "https://github.com/Bazinga23451/semantic-qa-gen"
+  },
+  {
+    "description": "This repo shows how foundational model hallucinates and how we can fix such hallucinations using fine-tuning them",
+    "id": "rafay123321/embedding-hallucinations",
+    "language": "Python",
+    "name": "rafay123321/embedding-hallucinations",
+    "stars": 1,
+    "updated_at": "2026-05-24T16:14:31Z",
+    "url": "https://github.com/rafay123321/embedding-hallucinations"
+  },
+  {
+    "description": "Stop hallucinations by verifying citations.",
+    "id": "DeepCitation/deepcitation",
+    "language": "TypeScript",
+    "name": "DeepCitation/deepcitation",
+    "stars": 10,
+    "updated_at": "2026-05-24T16:14:30Z",
+    "url": "https://github.com/DeepCitation/deepcitation"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T16:14:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
     "id": "zmwzmo11130/neuraldocs",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T16:12:16Z",
     "url": "https://github.com/Jocker-123/ChatQ"
-  },
-  {
-    "description": "Evidence layer for AI agents you actually own \u2014 claims, contradictions, and citations on your infrastructure.",
-    "id": "felixgeelhaar/mnemos",
-    "language": "Go",
-    "name": "felixgeelhaar/mnemos",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:11:16Z",
-    "url": "https://github.com/felixgeelhaar/mnemos"
   },
   {
     "description": "\ud83d\udd10 Local-first Graph-RAG with ontology, 3-stage security, self-evolution scaffold. 100% Ollama. MIT.",
@@ -169,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-05-24T16:07:34Z",
     "url": "https://github.com/charlieviettq/awesome-agent-skill"
-  },
-  {
-    "description": "Self-hostable, multi-LLM knowledge OS for individuals and teams. Gemini/Ollama, knowledge graph, real-time collaboration",
-    "id": "Sungblab/opencairn-monorepo",
-    "language": "TypeScript",
-    "name": "Sungblab/opencairn-monorepo",
-    "stars": 2,
-    "updated_at": "2026-05-24T16:07:33Z",
-    "url": "https://github.com/Sungblab/opencairn-monorepo"
   },
   {
     "description": "Qdrant database stand for AI course",
@@ -297,15 +360,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Agentic software development OS \u2014 plan, execute, and review projects with AI agents",
     "id": "nc-infotechconsults/telaios",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:55:08Z",
     "url": "https://github.com/ErenYanic/SEC-GenerativeSearch"
-  },
-  {
-    "description": "A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architectures. 50 qu",
-    "id": "ather-techie/rag-interview-questions",
-    "language": "\u2014",
-    "name": "ather-techie/rag-interview-questions",
-    "stars": 14,
-    "updated_at": "2026-05-24T15:53:27Z",
-    "url": "https://github.com/ather-techie/rag-interview-questions"
-  },
-  {
-    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies ",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 24599,
-    "updated_at": "2026-05-24T15:52:08Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Agentic AI platform for Snowflake \u2014 natural language querying, dbt semantic layer, pgvector RAG, and cost-aware warehous",
-    "id": "TechPopsicles/snowsense",
-    "language": "Python",
-    "name": "TechPopsicles/snowsense",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:49:16Z",
-    "url": "https://github.com/TechPopsicles/snowsense"
-  },
-  {
-    "description": "Open-source AI agent with brain-inspired long-term memory. Three-path fusion retrieval + hierarchical bubble compaction ",
-    "id": "luckincoco/bubble-agent-os",
-    "language": "TypeScript",
-    "name": "luckincoco/bubble-agent-os",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:49:09Z",
-    "url": "https://github.com/luckincoco/bubble-agent-os"
-  },
-  {
-    "description": "The trusted state layer for persistent AI agents. Structured cognition, audit-grade observability, MCP-native. Self-host",
-    "id": "HopiumLab/skymem-io",
-    "language": "JavaScript",
-    "name": "HopiumLab/skymem-io",
-    "stars": 9,
-    "updated_at": "2026-05-24T15:48:57Z",
-    "url": "https://github.com/HopiumLab/skymem-io"
-  },
-  {
-    "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
-    "id": "adrianweidig/seafile-ragflow-connector",
-    "language": "Python",
-    "name": "adrianweidig/seafile-ragflow-connector",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:48:19Z",
-    "url": "https://github.com/adrianweidig/seafile-ragflow-connector"
   }
 ]
