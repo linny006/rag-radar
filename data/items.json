@@ -1,12 +1,93 @@
 [
   {
+    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
+    "id": "vasu-devs/JustHireMe",
+    "language": "Python",
+    "name": "vasu-devs/JustHireMe",
+    "stars": 1874,
+    "updated_at": "2026-05-24T15:14:57Z",
+    "url": "https://github.com/vasu-devs/JustHireMe"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:14:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The most advanced Obsidian MCP \u2014 long-term memory for AI agents. Hybrid retrieval (BM25 + ML + BGE rerank, RRF-fused), H",
+    "id": "oomkapwn/enquire-mcp",
+    "language": "TypeScript",
+    "name": "oomkapwn/enquire-mcp",
+    "stars": 7,
+    "updated_at": "2026-05-24T15:14:19Z",
+    "url": "https://github.com/oomkapwn/enquire-mcp"
+  },
+  {
     "description": "linked of  Romanian fiscal authority(MFP-ANAF-GOV-RO)",
     "id": "stefanache/MFP-ANAF-RO",
     "language": "PHP",
     "name": "stefanache/MFP-ANAF-RO",
     "stars": 47,
-    "updated_at": "2026-05-24T15:10:53Z",
+    "updated_at": "2026-05-24T15:14:02Z",
     "url": "https://github.com/stefanache/MFP-ANAF-RO"
+  },
+  {
+    "description": "Personal GitHub profile showcasing expertise in AI/ML engineering, generative AI, data science, and scalable production-",
+    "id": "ananttripathi/ananttripathi",
+    "language": "\u2014",
+    "name": "ananttripathi/ananttripathi",
+    "stars": 11,
+    "updated_at": "2026-05-24T15:13:57Z",
+    "url": "https://github.com/ananttripathi/ananttripathi"
+  },
+  {
+    "description": "Evidence layer for AI agents you actually own \u2014 claims, contradictions, and citations on your infrastructure.",
+    "id": "felixgeelhaar/mnemos",
+    "language": "Go",
+    "name": "felixgeelhaar/mnemos",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:13:32Z",
+    "url": "https://github.com/felixgeelhaar/mnemos"
+  },
+  {
+    "description": "AI-native resume workspace \u2014 chat with an agent that edits your resume, design layouts with live preview, and practice m",
+    "id": "MengPaul07/resume-studio",
+    "language": "Python",
+    "name": "MengPaul07/resume-studio",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:13:26Z",
+    "url": "https://github.com/MengPaul07/resume-studio"
+  },
+  {
+    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
+    "id": "three-cubes/kairix",
+    "language": "Python",
+    "name": "three-cubes/kairix",
+    "stars": 2,
+    "updated_at": "2026-05-24T15:12:56Z",
+    "url": "https://github.com/three-cubes/kairix"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 80,
+    "updated_at": "2026-05-24T15:12:53Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI-powered mobile app design generator. Describe your app \u2192 get full UI screens instantly. Built with Next.js, FastAPI, ",
+    "id": "kandamukeshkumar4-cmyk/vibeui",
+    "language": "Python",
+    "name": "kandamukeshkumar4-cmyk/vibeui",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:12:31Z",
+    "url": "https://github.com/kandamukeshkumar4-cmyk/vibeui"
   },
   {
     "description": "AI sales-funnel engine \u2014 Telegram, WhatsApp & web widget, RAG, visa pipeline, admin UI, Postgres (monorepo)",
@@ -14,8 +95,44 @@
     "language": "TypeScript",
     "name": "chatman-media/lead-engine",
     "stars": 2,
-    "updated_at": "2026-05-24T15:10:07Z",
+    "updated_at": "2026-05-24T15:12:25Z",
     "url": "https://github.com/chatman-media/lead-engine"
+  },
+  {
+    "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
+    "id": "adrianweidig/seafile-ragflow-connector",
+    "language": "Python",
+    "name": "adrianweidig/seafile-ragflow-connector",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:12:43Z",
+    "url": "https://github.com/adrianweidig/seafile-ragflow-connector"
+  },
+  {
+    "description": "A simple portfolio website",
+    "id": "androyt1/portfolio",
+    "language": "TypeScript",
+    "name": "androyt1/portfolio",
+    "stars": 1,
+    "updated_at": "2026-05-24T15:12:18Z",
+    "url": "https://github.com/androyt1/portfolio"
+  },
+  {
+    "description": "Lokale KI-Infrastruktur f\u00fcr Seafile, RAGFlow und OpenWebUI mit Docker Compose, WSL2 und sicherer Test-/Prod-Trennung.",
+    "id": "adrianweidig/KI-Infra-SEU",
+    "language": "Shell",
+    "name": "adrianweidig/KI-Infra-SEU",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:11:20Z",
+    "url": "https://github.com/adrianweidig/KI-Infra-SEU"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:11:06Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Anti-Hallucination data layer for B2B Sourcing. Deep-verified global supply chain entities designed for RAG and LLM ",
@@ -72,15 +189,6 @@
     "url": "https://github.com/nageoffer/ragent"
   },
   {
-    "description": "Personal GitHub profile showcasing expertise in AI/ML engineering, generative AI, data science, and scalable production-",
-    "id": "ananttripathi/ananttripathi",
-    "language": "\u2014",
-    "name": "ananttripathi/ananttripathi",
-    "stars": 11,
-    "updated_at": "2026-05-24T15:08:08Z",
-    "url": "https://github.com/ananttripathi/ananttripathi"
-  },
-  {
     "description": "An agentic AI gift concierge platform that combines cognitive memory systems, RAG-powered product retrieval, specialist ",
     "id": "thilankadw/Kapruka_Gift_Concierge_Agent_-_Personalized_AI_Agent",
     "language": "Python",
@@ -126,13 +234,13 @@
     "url": "https://github.com/Dipraise1/Engram"
   },
   {
-    "description": "A simple portfolio website",
-    "id": "androyt1/portfolio",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "androyt1/portfolio",
-    "stars": 1,
-    "updated_at": "2026-05-24T15:06:27Z",
-    "url": "https://github.com/androyt1/portfolio"
+    "name": "promptfoo/promptfoo",
+    "stars": 21548,
+    "updated_at": "2026-05-24T15:06:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
@@ -160,24 +268,6 @@
     "stars": 2,
     "updated_at": "2026-05-24T15:05:25Z",
     "url": "https://github.com/nram-ai/nram"
-  },
-  {
-    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
-    "id": "vasu-devs/JustHireMe",
-    "language": "Python",
-    "name": "vasu-devs/JustHireMe",
-    "stars": 1874,
-    "updated_at": "2026-05-24T15:05:17Z",
-    "url": "https://github.com/vasu-devs/JustHireMe"
-  },
-  {
-    "description": "Evidence layer for AI agents you actually own \u2014 claims, contradictions, and citations on your infrastructure.",
-    "id": "felixgeelhaar/mnemos",
-    "language": "Go",
-    "name": "felixgeelhaar/mnemos",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:04:57Z",
-    "url": "https://github.com/felixgeelhaar/mnemos"
   },
   {
     "description": "Turn a PDF research paper into a structured, multi-format (DOCX/PDF/HTML/PPTX) bilingual deep analysis. Strategy KL comp",
@@ -243,15 +333,6 @@
     "url": "https://github.com/marceld23/StoryTeller"
   },
   {
-    "description": "The most advanced Obsidian MCP \u2014 long-term memory for AI agents. Hybrid retrieval (BM25 + ML + BGE rerank, RRF-fused), H",
-    "id": "oomkapwn/enquire-mcp",
-    "language": "TypeScript",
-    "name": "oomkapwn/enquire-mcp",
-    "stars": 7,
-    "updated_at": "2026-05-24T15:10:57Z",
-    "url": "https://github.com/oomkapwn/enquire-mcp"
-  },
-  {
     "description": "\u2615 Full-stack coffee sales analytics platform \u2014 EDA + ARIMA/SARIMAX forecasting + REST API + data-aware AI chatbot powere",
     "id": "houdhoudGH/CoffeeTime-Analytics",
     "language": "Jupyter Notebook",
@@ -268,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:01:41Z",
     "url": "https://github.com/Cerid-AI/cerid-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:01:12Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source self-hosted RAG knowledge base. Schema emerges from your data \u2014 no upfront modeling. Cited answers across PD",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-24T14:57:25Z",
     "url": "https://github.com/Sungblab/opencairn-monorepo"
-  },
-  {
-    "description": "NFlow is an intelligent document processing and knowledge management system that leverages vector embeddings and natural",
-    "id": "N2FlowJS/nflow",
-    "language": "TypeScript",
-    "name": "N2FlowJS/nflow",
-    "stars": 5,
-    "updated_at": "2026-05-24T14:57:03Z",
-    "url": "https://github.com/N2FlowJS/nflow"
-  },
-  {
-    "description": "\ud83d\udd78\ufe0f End-to-end NLP pipeline turning 300K+ telecom conversations into a knowledge graph-powered chatbot \u2014 spaCy NER \u2192 rela",
-    "id": "houdhoudGH/knowledge-GraphRAG-Telecom-Chatbot",
-    "language": "Jupyter Notebook",
-    "name": "houdhoudGH/knowledge-GraphRAG-Telecom-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:57:02Z",
-    "url": "https://github.com/houdhoudGH/knowledge-GraphRAG-Telecom-Chatbot"
-  },
-  {
-    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-    "id": "HKUDS/LightRAG",
-    "language": "Python",
-    "name": "HKUDS/LightRAG",
-    "stars": 35663,
-    "updated_at": "2026-05-24T14:56:56Z",
-    "url": "https://github.com/HKUDS/LightRAG"
-  },
-  {
-    "description": "AI-powered mobile app design generator. Describe your app \u2192 get full UI screens instantly. Built with Next.js, FastAPI, ",
-    "id": "kandamukeshkumar4-cmyk/vibeui",
-    "language": "Python",
-    "name": "kandamukeshkumar4-cmyk/vibeui",
-    "stars": 0,
-    "updated_at": "2026-05-24T14:56:52Z",
-    "url": "https://github.com/kandamukeshkumar4-cmyk/vibeui"
-  },
-  {
-    "description": "Local AI anywhere, for everyone \u2014 LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud,",
-    "id": "Light-Heart-Labs/DreamServer",
-    "language": "Shell",
-    "name": "Light-Heart-Labs/DreamServer",
-    "stars": 1660,
-    "updated_at": "2026-05-24T14:56:45Z",
-    "url": "https://github.com/Light-Heart-Labs/DreamServer"
-  },
-  {
-    "description": "\u9762\u5411\u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u7684 AI Native \u5f00\u6e90\u7cfb\u7edf\uff0c\u7528 Agent\u3001\u4e16\u754c\u89c2\u3001\u5199\u6cd5\u5f15\u64ce\u3001RAG \u548c\u6574\u672c\u751f\u4ea7\u5de5\u4f5c\u6d41\uff0c\u5e2e\u52a9\u65b0\u624b\u4ece\u4e00\u53e5\u7075\u611f\u8d70\u5230\u5b8c\u6574\u5c0f\u8bf4\u3002AI-native engine for end-to-end novel creation \u2014 ",
-    "id": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
-    "language": "TypeScript",
-    "name": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
-    "stars": 1371,
-    "updated_at": "2026-05-24T14:56:11Z",
-    "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant"
-  },
-  {
-    "description": "An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!",
-    "id": "your-papa/obsidian-Smart2Brain",
-    "language": "TypeScript",
-    "name": "your-papa/obsidian-Smart2Brain",
-    "stars": 1118,
-    "updated_at": "2026-05-24T14:55:50Z",
-    "url": "https://github.com/your-papa/obsidian-Smart2Brain"
-  },
-  {
-    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 80,
-    "updated_at": "2026-05-24T14:53:49Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   }
 ]
