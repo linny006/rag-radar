@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "faldys35/mcp-framework",
+    "language": "Rust",
+    "name": "faldys35/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-05-25T00:00:10Z",
+    "url": "https://github.com/faldys35/mcp-framework"
+  },
+  {
+    "description": "Zero-config Swifty RAG toolkit for iOS & macOS \u2014 PDF/text loaders, universal chunker, SQLite FTS5 (BM25), pluggable load",
+    "id": "taiwong2/Folio",
+    "language": "Swift",
+    "name": "taiwong2/Folio",
+    "stars": 1,
+    "updated_at": "2026-05-24T23:59:42Z",
+    "url": "https://github.com/taiwong2/Folio"
+  },
+  {
+    "description": "\ud83e\udd16 Build your own local Retrieval-Augmented Generation system for private, offline AI memory without ongoing costs or dat",
+    "id": "Carricacha/local-rag-system",
+    "language": "Python",
+    "name": "Carricacha/local-rag-system",
+    "stars": 2,
+    "updated_at": "2026-05-24T23:59:08Z",
+    "url": "https://github.com/Carricacha/local-rag-system"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-24T23:58:56Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcca Analyze and enhance GitHub repositories with a multi-agent system that delivers actionable recommendations for improvi",
+    "id": "florentnehyu/rt-aaidc-project2-multiagent",
+    "language": "Python",
+    "name": "florentnehyu/rt-aaidc-project2-multiagent",
+    "stars": 1,
+    "updated_at": "2026-05-24T23:58:50Z",
+    "url": "https://github.com/florentnehyu/rt-aaidc-project2-multiagent"
+  },
+  {
     "description": "\ud83d\udd2e AI-powered Oracle 23ai assistant. Natural language \u2192 SQL. Features RAG, LangChain, LoRA fine-tuning, MCP Server. Deplo",
     "id": "kjosh2008/ask-my-database",
     "language": "Python",
@@ -351,15 +396,6 @@
     "url": "https://github.com/treated-orris652/antonio-gemma3-evo-q4"
   },
   {
-    "description": "Zero-config Swifty RAG toolkit for iOS & macOS \u2014 PDF/text loaders, universal chunker, SQLite FTS5 (BM25), pluggable load",
-    "id": "taiwong2/Folio",
-    "language": "Swift",
-    "name": "taiwong2/Folio",
-    "stars": 1,
-    "updated_at": "2026-05-24T23:51:30Z",
-    "url": "https://github.com/taiwong2/Folio"
-  },
-  {
     "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
     "id": "hesamaria/rag-chatbot",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T23:49:09Z",
     "url": "https://github.com/klkbtw/acg_protocol"
-  },
-  {
-    "description": "Self-hosted web crawling and RAG pipeline with MCP tooling for scrape, crawl, ingest, embed, query, and ask workflows.",
-    "id": "jmagar/axon",
-    "language": "Rust",
-    "name": "jmagar/axon",
-    "stars": 2,
-    "updated_at": "2026-05-24T23:50:26Z",
-    "url": "https://github.com/jmagar/axon"
-  },
-  {
-    "description": "",
-    "id": "TheEspresso/prompt-engineering",
-    "language": "\u2014",
-    "name": "TheEspresso/prompt-engineering",
-    "stars": 1,
-    "updated_at": "2026-05-24T23:49:06Z",
-    "url": "https://github.com/TheEspresso/prompt-engineering"
-  },
-  {
-    "description": "\ud83d\udce7 Send personalized mass emails securely with Mailflow, a CLI tool built in Python using only standard libraries and no ",
-    "id": "Endrikapo1/mailflow",
-    "language": "Python",
-    "name": "Endrikapo1/mailflow",
-    "stars": 3,
-    "updated_at": "2026-05-24T23:49:06Z",
-    "url": "https://github.com/Endrikapo1/mailflow"
-  },
-  {
-    "description": "\ud83d\udd0d Automate digital footprint analysis with DeepSearch, using advanced Google search operators to gather insights from mu",
-    "id": "Eristsin/DeepSearch-",
-    "language": "\u2014",
-    "name": "Eristsin/DeepSearch-",
-    "stars": 4,
-    "updated_at": "2026-05-24T23:48:56Z",
-    "url": "https://github.com/Eristsin/DeepSearch-"
   }
 ]
