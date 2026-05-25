@@ -1,5 +1,41 @@
 [
   {
+    "description": "Experimental LLM-native memory-kernel prototype for persistent agent memory in quantized KV-cache latent space.",
+    "id": "Eldriss-Studio/tardigrade-db",
+    "language": "Python",
+    "name": "Eldriss-Studio/tardigrade-db",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:45:03Z",
+    "url": "https://github.com/Eldriss-Studio/tardigrade-db"
+  },
+  {
+    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
+    "id": "Peuqui/AIfred-Intelligence",
+    "language": "Python",
+    "name": "Peuqui/AIfred-Intelligence",
+    "stars": 31,
+    "updated_at": "2026-05-25T21:45:00Z",
+    "url": "https://github.com/Peuqui/AIfred-Intelligence"
+  },
+  {
+    "description": "Audit-grade RAG for regulated use: hash-chained signed query ledger, deterministic replay, and EU-AI-Act Article 50 repo",
+    "id": "mj-deving/audit-grade-rag",
+    "language": "TypeScript",
+    "name": "mj-deving/audit-grade-rag",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:44:32Z",
+    "url": "https://github.com/mj-deving/audit-grade-rag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T21:44:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Dali preserves the evidentiary chain behind AI generated work.",
     "id": "yenk/Dali",
     "language": "Python",
@@ -207,15 +243,6 @@
     "url": "https://github.com/IsaacAlves7/ai-architecture-stack"
   },
   {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 31,
-    "updated_at": "2026-05-25T21:32:03Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
     "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
     "id": "FaultMaven/faultmaven",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T21:30:37Z",
     "url": "https://github.com/yashyaadav/ollama-rag-api"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
@@ -396,15 +414,6 @@
     "url": "https://github.com/khurram-uworx/CodeMemory"
   },
   {
-    "description": "Experimental LLM-native memory-kernel prototype for persistent agent memory in quantized KV-cache latent space.",
-    "id": "Eldriss-Studio/tardigrade-db",
-    "language": "Python",
-    "name": "Eldriss-Studio/tardigrade-db",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:15:59Z",
-    "url": "https://github.com/Eldriss-Studio/tardigrade-db"
-  },
-  {
     "description": "Top Open-Source AI Agents 2026 \ud83e\udd16 | Best Autonomous Tools & Frameworks",
     "id": "salimfk619-jpg/open-ai-ecosystem",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 80,
     "updated_at": "2026-05-25T21:10:06Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:09:03Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
