@@ -1,5 +1,32 @@
 [
   {
+    "description": "An open-source 8-axis methodology + working tooling for evolving a personal Obsidian-vault into a self-improving knowled",
+    "id": "MyForgeLabs/myforge-vault-1111",
+    "language": "HTML",
+    "name": "MyForgeLabs/myforge-vault-1111",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:00:17Z",
+    "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
+  },
+  {
+    "description": "",
+    "id": "redocto/image-text-structurizer",
+    "language": "Python",
+    "name": "redocto/image-text-structurizer",
+    "stars": 0,
+    "updated_at": "2026-05-25T18:59:57Z",
+    "url": "https://github.com/redocto/image-text-structurizer"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T18:59:16Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "KaviSaliya/django-hawkeye",
     "language": "PHP",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "SolaceLabs/solace-agent-mesh",
     "stars": 4617,
-    "updated_at": "2026-05-25T18:58:55Z",
+    "updated_at": "2026-05-25T19:00:03Z",
     "url": "https://github.com/SolaceLabs/solace-agent-mesh"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 212,
     "updated_at": "2026-05-25T18:51:12Z",
     "url": "https://github.com/smaramwbc/statewave"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data",
-    "id": "sumit7235/Domfie",
-    "language": "Jupyter Notebook",
-    "name": "sumit7235/Domfie",
-    "stars": 0,
-    "updated_at": "2026-05-25T18:51:03Z",
-    "url": "https://github.com/sumit7235/Domfie"
-  },
-  {
-    "description": "\ud83e\ude7a Provide personalized health advice and doctor recommendations with this voice-enabled smart healthcare assistant, ensu",
-    "id": "ib199/Personal-health-assistant",
-    "language": "Python",
-    "name": "ib199/Personal-health-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-25T18:50:57Z",
-    "url": "https://github.com/ib199/Personal-health-assistant"
-  },
-  {
-    "description": "\ud83d\ude80 Create and automate n8n workflows easily with this starter kit, featuring four practical scenarios to enhance your bus",
-    "id": "Codimart/n8n-ai-agents-starter-kit",
-    "language": "\u2014",
-    "name": "Codimart/n8n-ai-agents-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-05-25T18:50:31Z",
-    "url": "https://github.com/Codimart/n8n-ai-agents-starter-kit"
   }
 ]
