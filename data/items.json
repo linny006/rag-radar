@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:44:36Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
+    "id": "FaultMaven/faultmaven",
+    "language": "Python",
+    "name": "FaultMaven/faultmaven",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:44:36Z",
+    "url": "https://github.com/FaultMaven/faultmaven"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T22:35:00Z",
     "url": "https://github.com/Pintaro/mem0"
-  },
-  {
-    "description": "LLM orchestrator stack layer of the Local Mind Foundation architecture \u2014 deploy a local AI assistant against your own va",
-    "id": "JaredMAllison/ariel",
-    "language": "Python",
-    "name": "JaredMAllison/ariel",
-    "stars": 0,
-    "updated_at": "2026-05-25T22:34:48Z",
-    "url": "https://github.com/JaredMAllison/ariel"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and explore memory mechanisms for Large and Multimodal Language Models through curated systems, benchmarks, a",
-    "id": "not-a-skid/Awesome-Agent-Memory",
-    "language": "\u2014",
-    "name": "not-a-skid/Awesome-Agent-Memory",
-    "stars": 2,
-    "updated_at": "2026-05-25T22:34:40Z",
-    "url": "https://github.com/not-a-skid/Awesome-Agent-Memory"
   }
 ]
