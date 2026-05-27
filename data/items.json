@@ -1,5 +1,32 @@
 [
   {
+    "description": "Multi-agent AI study assistant that generates personalized learning roadmaps, tutoring support, and curated resources.",
+    "id": "shobikasadhasivam/EduGenie-AI",
+    "language": "Python",
+    "name": "shobikasadhasivam/EduGenie-AI",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:44:25Z",
+    "url": "https://github.com/shobikasadhasivam/EduGenie-AI"
+  },
+  {
+    "description": "Persistent memory, retrieval, MCP server, logging, and QA framework for Cursor-based AI-assisted development workflows.",
+    "id": "lexmourao/cursor-memory-project",
+    "language": "Python",
+    "name": "lexmourao/cursor-memory-project",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:44:05Z",
+    "url": "https://github.com/lexmourao/cursor-memory-project"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:44:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Reusable .NET library that translates EF Core models into LLM-friendly schema descriptions and provides safe SQL query e",
     "id": "daniel3303/AgentQL",
     "language": "C#",
@@ -50,17 +77,8 @@
     "language": "Python",
     "name": "langchain-ai/langgraph",
     "stars": 33121,
-    "updated_at": "2026-05-27T14:41:55Z",
+    "updated_at": "2026-05-27T14:45:04Z",
     "url": "https://github.com/langchain-ai/langgraph"
-  },
-  {
-    "description": "Persistent memory, retrieval, MCP server, logging, and QA framework for Cursor-based AI-assisted development workflows.",
-    "id": "lexmourao/cursor-memory-project",
-    "language": "Python",
-    "name": "lexmourao/cursor-memory-project",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:41:09Z",
-    "url": "https://github.com/lexmourao/cursor-memory-project"
   },
   {
     "description": "Agentic RAG for Korean RFP intelligence \u2014 extractive grounded-answer pipeline with metadata-first retrieval, comparison-",
@@ -104,7 +122,7 @@
     "language": "\u2014",
     "name": "NuelLogics/ai-sales-knowledge-assistant",
     "stars": 0,
-    "updated_at": "2026-05-27T14:39:19Z",
+    "updated_at": "2026-05-27T14:45:18Z",
     "url": "https://github.com/NuelLogics/ai-sales-knowledge-assistant"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "three-cubes/kairix",
     "stars": 2,
-    "updated_at": "2026-05-27T14:39:01Z",
+    "updated_at": "2026-05-27T14:45:20Z",
     "url": "https://github.com/three-cubes/kairix"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:30:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
     "id": "VINAY7033/docu-query-assistant",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:24:44Z",
     "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Multi-agent research system \u2014 LangGraph + MCP + hybrid retrieval",
-    "id": "brandonmbehring-dev/research-agent",
-    "language": "Python",
-    "name": "brandonmbehring-dev/research-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:24:37Z",
-    "url": "https://github.com/brandonmbehring-dev/research-agent"
   }
 ]
