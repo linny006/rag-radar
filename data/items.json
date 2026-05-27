@@ -1,5 +1,104 @@
 [
   {
+    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
+    "id": "HybridAIOne/hybridclaw",
+    "language": "TypeScript",
+    "name": "HybridAIOne/hybridclaw",
+    "stars": 103,
+    "updated_at": "2026-05-27T11:36:01Z",
+    "url": "https://github.com/HybridAIOne/hybridclaw"
+  },
+  {
+    "description": "AI + Data, online. https://vespa.ai",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6926,
+    "updated_at": "2026-05-27T11:34:56Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Applied GenAI and RAG-style network knowledge assistant with a PySide6 GUI, provider switching, retrieval, citations and",
+    "id": "folk00/network-genai-knowledge-assistant",
+    "language": "Python",
+    "name": "folk00/network-genai-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:34:50Z",
+    "url": "https://github.com/folk00/network-genai-knowledge-assistant"
+  },
+  {
+    "description": "MCP Server for Novada \u2014 real-time web data API for AI agents",
+    "id": "Goldentrii/novada-mcp",
+    "language": "TypeScript",
+    "name": "Goldentrii/novada-mcp",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:34:12Z",
+    "url": "https://github.com/Goldentrii/novada-mcp"
+  },
+  {
+    "description": "Persistent memory, retrieval, MCP server, logging, and QA framework for Cursor-based AI-assisted development workflows.",
+    "id": "lexmourao/cursor-memory-project",
+    "language": "Python",
+    "name": "lexmourao/cursor-memory-project",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:34:08Z",
+    "url": "https://github.com/lexmourao/cursor-memory-project"
+  },
+  {
+    "description": "Rust library for generating vector embeddings, reranking locally!",
+    "id": "Anush008/fastembed-rs",
+    "language": "Rust",
+    "name": "Anush008/fastembed-rs",
+    "stars": 903,
+    "updated_at": "2026-05-27T11:32:47Z",
+    "url": "https://github.com/Anush008/fastembed-rs"
+  },
+  {
+    "description": "Production-focused full-stack RAG system with hybrid retrieval, citations, traces, evals, FastAPI, and Next.js.",
+    "id": "Yashsh101/trace-rag-system",
+    "language": "Python",
+    "name": "Yashsh101/trace-rag-system",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:32:19Z",
+    "url": "https://github.com/Yashsh101/trace-rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:30:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LightweightEmbeddings is a fast, free, and unlimited API service for multilingual embeddings and reranking, with support",
+    "id": "lh0x00/lightweight-embeddings",
+    "language": "Python",
+    "name": "lh0x00/lightweight-embeddings",
+    "stars": 24,
+    "updated_at": "2026-05-27T11:30:08Z",
+    "url": "https://github.com/lh0x00/lightweight-embeddings"
+  },
+  {
+    "description": "Allows to red-team your AI systems through adversarial probing. It is simple, effective, and requires minimal setup.",
+    "id": "kelkalot/simpleaudit",
+    "language": "Python",
+    "name": "kelkalot/simpleaudit",
+    "stars": 17,
+    "updated_at": "2026-05-27T11:29:48Z",
+    "url": "https://github.com/kelkalot/simpleaudit"
+  },
+  {
     "description": "Open-source self-hosted RAG knowledge base. Schema emerges from your data \u2014 no upfront modeling. Cited answers across PD",
     "id": "AniketTati/emerging-kb",
     "language": "Python",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "gzion2719/priority-kb",
     "stars": 0,
-    "updated_at": "2026-05-27T11:26:29Z",
+    "updated_at": "2026-05-27T11:35:56Z",
     "url": "https://github.com/gzion2719/priority-kb"
   },
   {
@@ -79,24 +178,6 @@
     "stars": 31,
     "updated_at": "2026-05-27T11:26:07Z",
     "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "AI + Data, online. https://vespa.ai",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6926,
-    "updated_at": "2026-05-27T11:25:24Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "MCP Server for Novada \u2014 real-time web data API for AI agents",
-    "id": "Goldentrii/novada-mcp",
-    "language": "TypeScript",
-    "name": "Goldentrii/novada-mcp",
-    "stars": 1,
-    "updated_at": "2026-05-27T11:24:56Z",
-    "url": "https://github.com/Goldentrii/novada-mcp"
   },
   {
     "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
@@ -149,7 +230,7 @@
     "language": "Python",
     "name": "SciFit-Sync/scifit-sync",
     "stars": 0,
-    "updated_at": "2026-05-27T11:28:30Z",
+    "updated_at": "2026-05-27T11:33:55Z",
     "url": "https://github.com/SciFit-Sync/scifit-sync"
   },
   {
@@ -184,7 +265,7 @@
     "id": "safishamsi/graphify",
     "language": "Python",
     "name": "safishamsi/graphify",
-    "stars": 54672,
+    "stars": 54677,
     "updated_at": "2026-05-27T11:20:31Z",
     "url": "https://github.com/safishamsi/graphify"
   },
@@ -266,7 +347,7 @@
     "language": "Rust",
     "name": "Edwinexd/minerva",
     "stars": 2,
-    "updated_at": "2026-05-27T11:15:45Z",
+    "updated_at": "2026-05-27T11:35:33Z",
     "url": "https://github.com/Edwinexd/minerva"
   },
   {
@@ -277,24 +358,6 @@
     "stars": 4994,
     "updated_at": "2026-05-27T11:21:27Z",
     "url": "https://github.com/the-open-agent/openagent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your agent does not need memory. It needs a knowledge architecture.",
@@ -311,7 +374,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21645,
-    "updated_at": "2026-05-27T11:27:56Z",
+    "updated_at": "2026-05-27T11:34:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -319,8 +382,8 @@
     "id": "mem0ai/mem0",
     "language": "Python",
     "name": "mem0ai/mem0",
-    "stars": 56866,
-    "updated_at": "2026-05-27T11:14:54Z",
+    "stars": 56867,
+    "updated_at": "2026-05-27T11:35:50Z",
     "url": "https://github.com/mem0ai/mem0"
   },
   {
@@ -383,70 +446,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 142844,
-    "updated_at": "2026-05-27T11:21:00Z",
+    "updated_at": "2026-05-27T11:31:40Z",
     "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
-    "id": "HybridAIOne/hybridclaw",
-    "language": "TypeScript",
-    "name": "HybridAIOne/hybridclaw",
-    "stars": 103,
-    "updated_at": "2026-05-27T11:21:36Z",
-    "url": "https://github.com/HybridAIOne/hybridclaw"
-  },
-  {
-    "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
-    "id": "vstorm-co/full-stack-ai-agent-template",
-    "language": "Python",
-    "name": "vstorm-co/full-stack-ai-agent-template",
-    "stars": 1298,
-    "updated_at": "2026-05-27T11:22:50Z",
-    "url": "https://github.com/vstorm-co/full-stack-ai-agent-template"
-  },
-  {
-    "description": "Allows to red-team your AI systems through adversarial probing. It is simple, effective, and requires minimal setup.",
-    "id": "kelkalot/simpleaudit",
-    "language": "Python",
-    "name": "kelkalot/simpleaudit",
-    "stars": 17,
-    "updated_at": "2026-05-27T11:29:48Z",
-    "url": "https://github.com/kelkalot/simpleaudit"
-  },
-  {
-    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 120,
-    "updated_at": "2026-05-27T11:03:14Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Read books the way Feynman did \u2014 along with a continuously evolving network of agent-simulated great minds",
-    "id": "steveyeow/Feynman",
-    "language": "Python",
-    "name": "steveyeow/Feynman",
-    "stars": 149,
-    "updated_at": "2026-05-27T11:02:15Z",
-    "url": "https://github.com/steveyeow/Feynman"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:02:05Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "transform repositories into queryable intelligence",
-    "id": "khurram-uworx/CodeMemory",
-    "language": "C#",
-    "name": "khurram-uworx/CodeMemory",
-    "stars": 1,
-    "updated_at": "2026-05-27T11:01:28Z",
-    "url": "https://github.com/khurram-uworx/CodeMemory"
   }
 ]
