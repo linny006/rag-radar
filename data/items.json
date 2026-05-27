@@ -1,11 +1,83 @@
 [
   {
+    "description": "Code intelligence + RAG for AI agents. Semantic search, call graphs, impact, type deps, context assembly - in single too",
+    "id": "jamie8johnson/cqs",
+    "language": "Rust",
+    "name": "jamie8johnson/cqs",
+    "stars": 7,
+    "updated_at": "2026-05-27T22:15:20Z",
+    "url": "https://github.com/jamie8johnson/cqs"
+  },
+  {
+    "description": "Fully local AI shell \u2014 no cloud, no API keys. Ollama + GGUF + RAG + voice + scheduler. Windows, macOS, Linux, Chromebook",
+    "id": "psfr4590-afk/ANARCHY",
+    "language": "Python",
+    "name": "psfr4590-afk/ANARCHY",
+    "stars": 3,
+    "updated_at": "2026-05-27T22:14:01Z",
+    "url": "https://github.com/psfr4590-afk/ANARCHY"
+  },
+  {
+    "description": "HyperClarity is a Spring Boot RAG platform for document ingestion, semantic search, and LLM-powered answers.",
+    "id": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "language": "Java",
+    "name": "Backend-Lab-SR/hyperclarity-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:13:09Z",
+    "url": "https://github.com/Backend-Lab-SR/hyperclarity-rag-platform"
+  },
+  {
+    "description": "Persistent memory, retrieval, MCP server, logging, and QA framework for Cursor-based AI-assisted development workflows.",
+    "id": "lexmourao/cursor-memory-project",
+    "language": "Python",
+    "name": "lexmourao/cursor-memory-project",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:12:52Z",
+    "url": "https://github.com/lexmourao/cursor-memory-project"
+  },
+  {
+    "description": "Personal knowledge base with hybrid search and read/write access for AI agents",
+    "id": "fstamatelopoulos/cerefox",
+    "language": "Python",
+    "name": "fstamatelopoulos/cerefox",
+    "stars": 9,
+    "updated_at": "2026-05-27T22:12:22Z",
+    "url": "https://github.com/fstamatelopoulos/cerefox"
+  },
+  {
+    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 5,
+    "updated_at": "2026-05-27T22:11:47Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
+    "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
+    "id": "strikersam/local-llm-server",
+    "language": "Python",
+    "name": "strikersam/local-llm-server",
+    "stars": 4,
+    "updated_at": "2026-05-27T22:11:32Z",
+    "url": "https://github.com/strikersam/local-llm-server"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:10:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udd10 Local-first Graph-RAG with ontology, 3-stage security, self-evolution scaffold. 100% Ollama. MIT.",
     "id": "Hashevolution/James-RAG-Evol",
     "language": "Python",
     "name": "Hashevolution/James-RAG-Evol",
     "stars": 13,
-    "updated_at": "2026-05-27T22:09:55Z",
+    "updated_at": "2026-05-27T22:13:58Z",
     "url": "https://github.com/Hashevolution/James-RAG-Evol"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "ebongard/renfield",
     "stars": 5,
-    "updated_at": "2026-05-27T22:09:51Z",
+    "updated_at": "2026-05-27T22:12:28Z",
     "url": "https://github.com/ebongard/renfield"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "srfrog/goldie-mcp",
     "stars": 3,
-    "updated_at": "2026-05-27T22:08:20Z",
+    "updated_at": "2026-05-27T22:11:09Z",
     "url": "https://github.com/srfrog/goldie-mcp"
   },
   {
@@ -45,13 +117,13 @@
     "url": "https://github.com/yubingz/memtest"
   },
   {
-    "description": "Persistent memory, retrieval, MCP server, logging, and QA framework for Cursor-based AI-assisted development workflows.",
-    "id": "lexmourao/cursor-memory-project",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
     "language": "Python",
-    "name": "lexmourao/cursor-memory-project",
-    "stars": 0,
-    "updated_at": "2026-05-27T22:07:05Z",
-    "url": "https://github.com/lexmourao/cursor-memory-project"
+    "name": "onyx-dot-app/onyx",
+    "stars": 29845,
+    "updated_at": "2026-05-27T22:07:59Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
     "description": "",
@@ -198,15 +270,6 @@
     "url": "https://github.com/ChunkyTortoise/EnterpriseHub"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-27T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Assistant IA \u00e0 m\u00e9moire persistante et croissance organique",
     "id": "kidshadow79/Ogma",
     "language": "Python",
@@ -214,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-05-27T21:59:43Z",
     "url": "https://github.com/kidshadow79/Ogma"
-  },
-  {
-    "description": "Fully local AI shell \u2014 no cloud, no API keys. Ollama + GGUF + RAG + voice + scheduler. Windows, macOS, Linux, Chromebook",
-    "id": "psfr4590-afk/ANARCHY",
-    "language": "Python",
-    "name": "psfr4590-afk/ANARCHY",
-    "stars": 3,
-    "updated_at": "2026-05-27T21:57:53Z",
-    "url": "https://github.com/psfr4590-afk/ANARCHY"
   },
   {
     "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
@@ -247,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 60686,
+    "stars": 60687,
     "updated_at": "2026-05-27T21:53:23Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -304,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:49:10Z",
     "url": "https://github.com/sadvi11/bedrock-rag-app"
-  },
-  {
-    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 5,
-    "updated_at": "2026-05-27T21:48:32Z",
-    "url": "https://github.com/fathom-lab/styxx"
   },
   {
     "description": "c4 GenAI Suite",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T21:39:33Z",
     "url": "https://github.com/lelabdev/rag-ferrite"
-  },
-  {
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
-    "id": "safishamsi/graphify",
-    "language": "Python",
-    "name": "safishamsi/graphify",
-    "stars": 54957,
-    "updated_at": "2026-05-27T21:39:01Z",
-    "url": "https://github.com/safishamsi/graphify"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 29844,
-    "updated_at": "2026-05-27T22:07:59Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Comparative evaluation of RAG retrieval strategies using Haystack, Milvus, and Ollama on a synthetic enterprise corpus",
-    "id": "nkalogirou/Thesis",
-    "language": "Jupyter Notebook",
-    "name": "nkalogirou/Thesis",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:38:57Z",
-    "url": "https://github.com/nkalogirou/Thesis"
-  },
-  {
-    "description": "One brain for all your agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 240,
-    "updated_at": "2026-05-27T21:38:55Z",
-    "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": "MASTERd \u2014 Rust-first document intelligence platform. Multi-stage ingestion, embedded LFM2.5 GGUF inference, ColBERT rera",
-    "id": "carlosfundora/masterd-rs",
-    "language": "Rust",
-    "name": "carlosfundora/masterd-rs",
-    "stars": 0,
-    "updated_at": "2026-05-27T21:36:53Z",
-    "url": "https://github.com/carlosfundora/masterd-rs"
   }
 ]
