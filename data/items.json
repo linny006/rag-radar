@@ -1,5 +1,77 @@
 [
   {
+    "description": "12-week, project-driven Obsidian curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Companion narrative + intervi",
+    "id": "shaneliuyx/agent-development-curriculum",
+    "language": "Python",
+    "name": "shaneliuyx/agent-development-curriculum",
+    "stars": 2,
+    "updated_at": "2026-05-28T09:59:32Z",
+    "url": "https://github.com/shaneliuyx/agent-development-curriculum"
+  },
+  {
+    "description": "MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format pars",
+    "id": "arthurpanhku/DocSentinel",
+    "language": "Python",
+    "name": "arthurpanhku/DocSentinel",
+    "stars": 88,
+    "updated_at": "2026-05-28T09:58:53Z",
+    "url": "https://github.com/arthurpanhku/DocSentinel"
+  },
+  {
+    "description": "\ud83d\udcf0 Must-read papers and blogs on LLM based Long Context Modeling \ud83d\udd25",
+    "id": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+    "language": "\u2014",
+    "name": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+    "stars": 2103,
+    "updated_at": "2026-05-28T09:58:35Z",
+    "url": "https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling"
+  },
+  {
+    "description": "Local-first AI coding assistant. Single C++17 binary, 51 tools, GPU-accelerated LLM inference, RAG, multi-agent. Privacy",
+    "id": "Blitzball996/CloseCrab-Unified",
+    "language": "C++",
+    "name": "Blitzball996/CloseCrab-Unified",
+    "stars": 1,
+    "updated_at": "2026-05-28T09:58:19Z",
+    "url": "https://github.com/Blitzball996/CloseCrab-Unified"
+  },
+  {
+    "description": "Agentic RAG for Korean RFP intelligence \u2014 extractive grounded-answer pipeline with metadata-first retrieval, comparison-",
+    "id": "hskim-solv/BidMate-DocAgent",
+    "language": "Python",
+    "name": "hskim-solv/BidMate-DocAgent",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:58:24Z",
+    "url": "https://github.com/hskim-solv/BidMate-DocAgent"
+  },
+  {
+    "description": "Claude Code\uc758 \uc601\uad6c \uae30\uc5b5 \uc2dc\uc2a4\ud15c \u2014 4-layer \ud30c\uc774\ud504\ub77c\uc778 (\uc138\uc158 \uac80\uc0c9 + \uba54\ubaa8\ub9ac \ud68c\uc218 + Memory Compiler). Karpathy LLM-as-Compiler \ud328\ud134 \uc2e4\uc99d\ud310.",
+    "id": "etinpres/mindvault-v3",
+    "language": "Python",
+    "name": "etinpres/mindvault-v3",
+    "stars": 3,
+    "updated_at": "2026-05-28T09:57:36Z",
+    "url": "https://github.com/etinpres/mindvault-v3"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T09:57:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "12-week lab-driven curriculum: cloud/infra engineer \u2192 AI Agent/LLM engineer. Local-first MLX stack, measured engineering",
+    "id": "shaneliuyx/agent-prep",
+    "language": "Python",
+    "name": "shaneliuyx/agent-prep",
+    "stars": 2,
+    "updated_at": "2026-05-28T09:57:14Z",
+    "url": "https://github.com/shaneliuyx/agent-prep"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
@@ -121,7 +193,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21671,
+    "stars": 21672,
     "updated_at": "2026-05-28T09:51:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:45:30Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:45:23Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
-    "id": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "language": "Python",
-    "name": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:45:17Z",
-    "url": "https://github.com/Hypertextsparrowhawk820/ask-your-annual-report"
-  },
-  {
-    "description": "Scrape and analyze Tor network data securely using LLMs for automated threat intelligence extraction.",
-    "id": "4turk2278/Scraper",
-    "language": "JavaScript",
-    "name": "4turk2278/Scraper",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:45:04Z",
-    "url": "https://github.com/4turk2278/Scraper"
-  },
-  {
-    "description": "Annotate Markdown and PDF files in Obsidian with overlay highlights and sticky notes that remain external to your origin",
-    "id": "Antony-bit375/axl-light",
-    "language": "TypeScript",
-    "name": "Antony-bit375/axl-light",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:45:03Z",
-    "url": "https://github.com/Antony-bit375/axl-light"
-  },
-  {
-    "description": "Production-ready RAG backend with FastAPI, pgvector, hybrid retrieval, eval gates, observability, RBAC, async exports, a",
-    "id": "ictup/production-rag-assistant",
-    "language": "Python",
-    "name": "ictup/production-rag-assistant",
-    "stars": 2,
-    "updated_at": "2026-05-28T09:45:01Z",
-    "url": "https://github.com/ictup/production-rag-assistant"
-  },
-  {
-    "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
-    "id": "adrianweidig/seafile-ragflow-connector",
-    "language": "Python",
-    "name": "adrianweidig/seafile-ragflow-connector",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:44:57Z",
-    "url": "https://github.com/adrianweidig/seafile-ragflow-connector"
-  },
-  {
-    "description": "Provide MCP-native memory storage for LLMs and agents using a fast, local-first Rust binary.",
-    "id": "Vaginaldischargenewscaster673/mneme",
-    "language": "Rust",
-    "name": "Vaginaldischargenewscaster673/mneme",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:44:33Z",
-    "url": "https://github.com/Vaginaldischargenewscaster673/mneme"
   }
 ]
