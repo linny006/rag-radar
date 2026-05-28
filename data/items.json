@@ -1,5 +1,32 @@
 [
   {
+    "description": "Assistant IA \u00e0 m\u00e9moire persistante et croissance organique",
+    "id": "kidshadow79/Ogma",
+    "language": "Python",
+    "name": "kidshadow79/Ogma",
+    "stars": 5,
+    "updated_at": "2026-05-28T23:13:28Z",
+    "url": "https://github.com/kidshadow79/Ogma"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-28T23:13:12Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-05-28T23:13:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Operator UI for the Meridian governed AI platform \u2014 RAG, Ops Copilot, Runtime Provisioning",
     "id": "tvprasad/meridian-studio",
     "language": "TypeScript",
@@ -157,7 +184,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 79403,
+    "stars": 79404,
     "updated_at": "2026-05-28T23:01:09Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T23:00:28Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-28T23:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T22:36:33Z",
     "url": "https://github.com/Delphian-paiute721/interfaze_ocr_viewer"
-  },
-  {
-    "description": "Fine-tune large language models on local hardware using a web interface with QLoRA training and GGUF export support.",
-    "id": "yelenaunstimulating676/NeuralForge",
-    "language": "Python",
-    "name": "yelenaunstimulating676/NeuralForge",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:36:02Z",
-    "url": "https://github.com/yelenaunstimulating676/NeuralForge"
-  },
-  {
-    "description": "Connect n8n Cloud to local Ollama models using ngrok for secure, private AI agent orchestration and workflow automation.",
-    "id": "Deafened-spare644/ollama-ai-agent-n8n",
-    "language": "\u2014",
-    "name": "Deafened-spare644/ollama-ai-agent-n8n",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:35:58Z",
-    "url": "https://github.com/Deafened-spare644/ollama-ai-agent-n8n"
   }
 ]
