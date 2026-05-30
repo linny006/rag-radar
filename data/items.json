@@ -1,5 +1,86 @@
 [
   {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 1,
+    "updated_at": "2026-05-30T11:01:17Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "Manage stateful, persistent agent workloads with Cloudflare Durable Objects for efficient, scalable real-time communicat",
+    "id": "pertamaxxx/agents",
+    "language": "TypeScript",
+    "name": "pertamaxxx/agents",
+    "stars": 2,
+    "updated_at": "2026-05-30T11:01:12Z",
+    "url": "https://github.com/pertamaxxx/agents"
+  },
+  {
+    "description": "Implement Recursive Language Models using Deno and Pyodide to enable scalable, code-driven prompt processing with modula",
+    "id": "thien24642/fast-rlm",
+    "language": "TypeScript",
+    "name": "thien24642/fast-rlm",
+    "stars": 1,
+    "updated_at": "2026-05-30T11:01:09Z",
+    "url": "https://github.com/thien24642/fast-rlm"
+  },
+  {
+    "description": "Manage and automate research tasks using a persistent LangGraph agent with PostgreSQL state and a Telegram interface for",
+    "id": "spider7811/openshrimp",
+    "language": "Python",
+    "name": "spider7811/openshrimp",
+    "stars": 0,
+    "updated_at": "2026-05-30T11:01:05Z",
+    "url": "https://github.com/spider7811/openshrimp"
+  },
+  {
+    "description": "Provide a curated list of tools, resources, and best practices for adopting AI-driven autonomous software development wi",
+    "id": "ahmedelhamoly/awesome-agentic-engineering",
+    "language": "\u2014",
+    "name": "ahmedelhamoly/awesome-agentic-engineering",
+    "stars": 1,
+    "updated_at": "2026-05-30T11:01:02Z",
+    "url": "https://github.com/ahmedelhamoly/awesome-agentic-engineering"
+  },
+  {
+    "description": "Deploy a local, multi-user RAG system to query PDF and DOCX documents using a local LLM without cloud or API dependencie",
+    "id": "umiii100/local-rag-server",
+    "language": "Python",
+    "name": "umiii100/local-rag-server",
+    "stars": 2,
+    "updated_at": "2026-05-30T11:00:39Z",
+    "url": "https://github.com/umiii100/local-rag-server"
+  },
+  {
+    "description": "A terminal-native, zero-infrastructure local RAG pipeline and developer intelligence hub powered by OpenAI Codex, Chroma",
+    "id": "prem22k/adviser-cli-tool",
+    "language": "Python",
+    "name": "prem22k/adviser-cli-tool",
+    "stars": 2,
+    "updated_at": "2026-05-30T11:00:32Z",
+    "url": "https://github.com/prem22k/adviser-cli-tool"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T11:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T11:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Build a local-first AI assistant using retrieval-augmented generation, agents, and tool calling, powered by Rust for sec",
     "id": "moymoytoto/shodhRAG",
     "language": "\u2014",
@@ -257,7 +338,7 @@
     "language": "Python",
     "name": "HumanBean17/java-codebase-rag",
     "stars": 3,
-    "updated_at": "2026-05-30T10:56:05Z",
+    "updated_at": "2026-05-30T11:00:18Z",
     "url": "https://github.com/HumanBean17/java-codebase-rag"
   },
   {
@@ -347,7 +428,7 @@
     "language": "TypeScript",
     "name": "webdevcom01-cell/agent-studio",
     "stars": 3,
-    "updated_at": "2026-05-30T10:57:06Z",
+    "updated_at": "2026-05-30T11:00:52Z",
     "url": "https://github.com/webdevcom01-cell/agent-studio"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T10:54:26Z",
     "url": "https://github.com/fatsed/self-rag-evidence-assistant"
-  },
-  {
-    "description": "Rosmarium \u2014 open-source, AI-native headless content repository",
-    "id": "orchestrator-dev/rosmarium",
-    "language": "TypeScript",
-    "name": "orchestrator-dev/rosmarium",
-    "stars": 1,
-    "updated_at": "2026-05-30T10:54:11Z",
-    "url": "https://github.com/orchestrator-dev/rosmarium"
-  },
-  {
-    "description": "\ud83e\ude7a Deliver safe, compliance-grade AI localization for embedded medical devices with glossary control and screen-fit valid",
-    "id": "7302henry744/medilingua-core",
-    "language": "TypeScript",
-    "name": "7302henry744/medilingua-core",
-    "stars": 0,
-    "updated_at": "2026-05-30T10:53:58Z",
-    "url": "https://github.com/7302henry744/medilingua-core"
-  },
-  {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 31,
-    "updated_at": "2026-05-30T10:53:47Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "",
-    "id": "kaliphon/yks-ai-rag",
-    "language": "Python",
-    "name": "kaliphon/yks-ai-rag",
-    "stars": 0,
-    "updated_at": "2026-05-30T10:53:44Z",
-    "url": "https://github.com/kaliphon/yks-ai-rag"
-  },
-  {
-    "description": "\ud83c\udfad Build a local RAG assistant that answers cultural event questions using OpenAgenda data, FAISS, and Mistral AI for fas",
-    "id": "Fran-Vazquez/cultural-events-rag-assistant",
-    "language": "Python",
-    "name": "Fran-Vazquez/cultural-events-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-30T10:53:35Z",
-    "url": "https://github.com/Fran-Vazquez/cultural-events-rag-assistant"
-  },
-  {
-    "description": "\ud83e\udd16 Build a full-stack AI customer service platform for e-commerce with intent recognition, multimodal data parsing, and a",
-    "id": "kooperchap/zhiwei-ecommerce-cs-agent",
-    "language": "Python",
-    "name": "kooperchap/zhiwei-ecommerce-cs-agent",
-    "stars": 1,
-    "updated_at": "2026-05-30T10:53:31Z",
-    "url": "https://github.com/kooperchap/zhiwei-ecommerce-cs-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Provide local-first persistent memory for AI coding workflows, indexing notes to deliver relevant context in new sessi",
-    "id": "rerecoy123/statelessagent",
-    "language": "Go",
-    "name": "rerecoy123/statelessagent",
-    "stars": 0,
-    "updated_at": "2026-05-30T10:53:29Z",
-    "url": "https://github.com/rerecoy123/statelessagent"
-  },
-  {
-    "description": "\ud83d\udcf0 Detect fake news using ML, NLP, and knowledge graphs with explainable insights through an interactive Streamlit app.",
-    "id": "ytdjthhjr/Fake-News-detection-knowledge-graph",
-    "language": "Jupyter Notebook",
-    "name": "ytdjthhjr/Fake-News-detection-knowledge-graph",
-    "stars": 1,
-    "updated_at": "2026-05-30T10:53:25Z",
-    "url": "https://github.com/ytdjthhjr/Fake-News-detection-knowledge-graph"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Automate web app pentesting with AI to find real exploits before attackers do, enhancing your app\u2019s security proactiv",
-    "id": "lowwkezer/shannon",
-    "language": "TypeScript",
-    "name": "lowwkezer/shannon",
-    "stars": 14,
-    "updated_at": "2026-05-30T10:53:24Z",
-    "url": "https://github.com/lowwkezer/shannon"
   }
 ]
