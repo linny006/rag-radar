@@ -1,5 +1,104 @@
 [
   {
+    "description": "",
+    "id": "TSP-Jacob/coach-c",
+    "language": "TypeScript",
+    "name": "TSP-Jacob/coach-c",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:08:10Z",
+    "url": "https://github.com/TSP-Jacob/coach-c"
+  },
+  {
+    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 5,
+    "updated_at": "2026-05-30T19:07:31Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 29,
+    "updated_at": "2026-05-30T19:06:01Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Agent-driven knowledge base for Priority ERP with cited retrieval. Hebrew + English.",
+    "id": "gzion2719/priority-kb",
+    "language": "TypeScript",
+    "name": "gzion2719/priority-kb",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:03:28Z",
+    "url": "https://github.com/gzion2719/priority-kb"
+  },
+  {
+    "description": "Personal RAG. Local-first. Drop a folder, ask a question.",
+    "id": "cosmicflow-space/mnemos",
+    "language": "TypeScript",
+    "name": "cosmicflow-space/mnemos",
+    "stars": 9,
+    "updated_at": "2026-05-30T19:03:24Z",
+    "url": "https://github.com/cosmicflow-space/mnemos"
+  },
+  {
+    "description": "Evaluation Framework for LLM applications in Java and Kotlin",
+    "id": "dokimos-dev/dokimos",
+    "language": "Java",
+    "name": "dokimos-dev/dokimos",
+    "stars": 35,
+    "updated_at": "2026-05-30T19:06:09Z",
+    "url": "https://github.com/dokimos-dev/dokimos"
+  },
+  {
+    "description": "fu7ur3pr00f \u2014 AI career agent with 41 tools, 12 MCP clients, and 5 specialists. Gathers LinkedIn/GitHub/GitLab data, bui",
+    "id": "juanmanueldaza/fu7ur3pr00f",
+    "language": "Python",
+    "name": "juanmanueldaza/fu7ur3pr00f",
+    "stars": 3,
+    "updated_at": "2026-05-30T19:01:55Z",
+    "url": "https://github.com/juanmanueldaza/fu7ur3pr00f"
+  },
+  {
+    "description": "Hands-on workshop for building vector search applications with IBM Bob, Milvus, and embedding models. Learn semantic sea",
+    "id": "mukoubuchi/vector-search-hands-on",
+    "language": "Python",
+    "name": "mukoubuchi/vector-search-hands-on",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:01:42Z",
+    "url": "https://github.com/mukoubuchi/vector-search-hands-on"
+  },
+  {
+    "description": "A local AI agent that shows its work \u2014 every search, edit, and reason, on your machine. Nothing leaves.",
+    "id": "Mughal-Baig/local-ai-agent",
+    "language": "JavaScript",
+    "name": "Mughal-Baig/local-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:01:27Z",
+    "url": "https://github.com/Mughal-Baig/local-ai-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T19:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native interface and orchestration layer for the Banzami ecosystem.",
     "id": "banza-protocol/banzai",
     "language": "TypeScript",
@@ -68,17 +167,8 @@
     "language": "TypeScript",
     "name": "Sungblab/opencairn-monorepo",
     "stars": 8,
-    "updated_at": "2026-05-30T18:56:46Z",
+    "updated_at": "2026-05-30T19:08:05Z",
     "url": "https://github.com/Sungblab/opencairn-monorepo"
-  },
-  {
-    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 5,
-    "updated_at": "2026-05-30T18:56:44Z",
-    "url": "https://github.com/fathom-lab/styxx"
   },
   {
     "description": "Evaluation-first RAG system for technical documentation QA with retrieval benchmarking, agent trajectory analysis, and r",
@@ -126,24 +216,6 @@
     "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
   },
   {
-    "description": "Evaluation Framework for LLM applications in Java and Kotlin",
-    "id": "dokimos-dev/dokimos",
-    "language": "Java",
-    "name": "dokimos-dev/dokimos",
-    "stars": 35,
-    "updated_at": "2026-05-30T18:59:16Z",
-    "url": "https://github.com/dokimos-dev/dokimos"
-  },
-  {
-    "description": "A local AI agent that shows its work \u2014 every search, edit, and reason, on your machine. Nothing leaves.",
-    "id": "Mughal-Baig/local-ai-agent",
-    "language": "JavaScript",
-    "name": "Mughal-Baig/local-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:52:52Z",
-    "url": "https://github.com/Mughal-Baig/local-ai-agent"
-  },
-  {
     "description": "Local, token-free, graph-based project memory for Claude \u2014 turn your documents into a knowledge graph + interactive mind",
     "id": "GRU-953/mnemo-mcp",
     "language": "Python",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:51:29Z",
     "url": "https://github.com/HadeedTariq-475/RAG-Orchestration"
-  },
-  {
-    "description": "Agent-driven knowledge base for Priority ERP with cited retrieval. Hebrew + English.",
-    "id": "gzion2719/priority-kb",
-    "language": "TypeScript",
-    "name": "gzion2719/priority-kb",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:57:13Z",
-    "url": "https://github.com/gzion2719/priority-kb"
   },
   {
     "description": "About Modular AI assistant \u2014 60 built-in tools, multi-provider LLM support (Ollama, OpenAI, Anthropic, Gemini), hybrid m",
@@ -198,15 +261,6 @@
     "url": "https://github.com/Kisai-DG-SLU/SophIA"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 29,
-    "updated_at": "2026-05-30T18:47:51Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -234,24 +288,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-agent AI support system built with LangGraph, RAG, and Groq. Classifies, answers, and evaluates support tickets en",
     "id": "dharmicreddy/enterprise-ai-support-agent",
     "language": "Python",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "mem0ai/mem0",
     "stars": 57151,
-    "updated_at": "2026-05-30T18:44:02Z",
+    "updated_at": "2026-05-30T19:04:28Z",
     "url": "https://github.com/mem0ai/mem0"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:41:20Z",
     "url": "https://github.com/kenhglee/ai-supply-chain-risk-agent"
-  },
-  {
-    "description": "Personal RAG. Local-first. Drop a folder, ask a question.",
-    "id": "cosmicflow-space/mnemos",
-    "language": "TypeScript",
-    "name": "cosmicflow-space/mnemos",
-    "stars": 9,
-    "updated_at": "2026-05-30T18:53:52Z",
-    "url": "https://github.com/cosmicflow-space/mnemos"
   },
   {
     "description": "Multi-agent LangGraph RAG for financial Q&A \u2014 72.7% on FinanceBench under \u03ba=0.932 calibrated judge. RBAC at the vector l",
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-05-30T18:53:20Z",
+    "updated_at": "2026-05-30T19:03:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-30T18:30:12Z",
     "url": "https://github.com/Alex72-py/openplex"
-  },
-  {
-    "description": "Multi-tenant AI customer support SaaS with RAG-powered chatbot. Built with Next.js 16, React 19, FastAPI, PostgreSQL + p",
-    "id": "PuriphatXXVII/SmartDesk-AI",
-    "language": "TypeScript",
-    "name": "PuriphatXXVII/SmartDesk-AI",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:29:40Z",
-    "url": "https://github.com/PuriphatXXVII/SmartDesk-AI"
-  },
-  {
-    "description": "Solo-built conversational AI framework: 143K LoC, 3,250+ tests, 5-tier memory system with cross-encoder reranking, FAISS",
-    "id": "lukehalleran/ai-assistant-framework",
-    "language": "Python",
-    "name": "lukehalleran/ai-assistant-framework",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:27:23Z",
-    "url": "https://github.com/lukehalleran/ai-assistant-framework"
-  },
-  {
-    "description": "",
-    "id": "TSP-Jacob/coach-c",
-    "language": "TypeScript",
-    "name": "TSP-Jacob/coach-c",
-    "stars": 0,
-    "updated_at": "2026-05-30T18:27:02Z",
-    "url": "https://github.com/TSP-Jacob/coach-c"
   }
 ]
