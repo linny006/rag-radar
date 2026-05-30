@@ -1,5 +1,104 @@
 [
   {
+    "description": "Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compressi",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 123,
+    "updated_at": "2026-05-30T04:16:47Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "",
+    "id": "redocto/image-text-structurizer",
+    "language": "Python",
+    "name": "redocto/image-text-structurizer",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:16:34Z",
+    "url": "https://github.com/redocto/image-text-structurizer"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "HTML",
+    "name": "alex-place/lantern-os",
+    "stars": 1,
+    "updated_at": "2026-05-30T04:16:17Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Production ML pipeline predicting bank term deposit subscriptions \u2014 LightGBM + FastAPI + Streamlit + LlamaIndex RAG",
+    "id": "nikaergemlidze1/finsight-ai",
+    "language": "Jupyter Notebook",
+    "name": "nikaergemlidze1/finsight-ai",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:16:11Z",
+    "url": "https://github.com/nikaergemlidze1/finsight-ai"
+  },
+  {
+    "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 56,
+    "updated_at": "2026-05-30T04:16:08Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "",
+    "id": "KaviSaliya/django-hawkeye",
+    "language": "PHP",
+    "name": "KaviSaliya/django-hawkeye",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:15:55Z",
+    "url": "https://github.com/KaviSaliya/django-hawkeye"
+  },
+  {
+    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
+    "id": "mowael07/Awesome-RAG-Production",
+    "language": "Python",
+    "name": "mowael07/Awesome-RAG-Production",
+    "stars": 2,
+    "updated_at": "2026-05-30T04:15:45Z",
+    "url": "https://github.com/mowael07/Awesome-RAG-Production"
+  },
+  {
+    "description": "\ud83e\udde0 Store and search your notes effectively with Git-native memory storage, enhancing productivity for Claude Code users.",
+    "id": "fnbdesign/git-notes-memory",
+    "language": "Python",
+    "name": "fnbdesign/git-notes-memory",
+    "stars": 2,
+    "updated_at": "2026-05-30T04:15:41Z",
+    "url": "https://github.com/fnbdesign/git-notes-memory"
+  },
+  {
+    "description": "\ud83d\ude80 Implement HTTP handling in Spring Boot, focusing on secure requests, input validation, and REST API development for ro",
+    "id": "komechan0602/LAB10",
+    "language": "Java",
+    "name": "komechan0602/LAB10",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:15:32Z",
+    "url": "https://github.com/komechan0602/LAB10"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T04:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udd12 Protect sensitive files during streams with Theo Hide, ensuring no accidental leaks by showing a \u201cRestricted Access\u201d s",
     "id": "enesdanis00/theo-hide",
     "language": "TypeScript",
@@ -288,15 +387,6 @@
     "url": "https://github.com/acipaaa/context-llm-chunks"
   },
   {
-    "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 56,
-    "updated_at": "2026-05-30T04:09:40Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Build a versatile MCP server with RAG capabilities, supporting multiple document formats using LangChain and ChromaDB",
     "id": "rexnzm/MCP-rag-with-Chromadb",
     "language": "Python",
@@ -333,15 +423,6 @@
     "url": "https://github.com/Codimart/n8n-ai-agents-starter-kit"
   },
   {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "HTML",
-    "name": "alex-place/lantern-os",
-    "stars": 1,
-    "updated_at": "2026-05-30T04:08:39Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
     "description": "Agente RAG especializado en normativa aduanera chilena. Combina fuentes oficiales con documentos internos del cliente.",
     "id": "Seropeto/agente_aduanas",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-30T04:07:39Z",
     "url": "https://github.com/jeanj19/ai-chat-agent"
-  },
-  {
-    "description": "\ud83d\uded2 Explore the AI Shopping Agent to compare prices and generate smart purchase reports across top e-commerce platforms ef",
-    "id": "victorRT3868/shopping-agent-ai",
-    "language": "Python",
-    "name": "victorRT3868/shopping-agent-ai",
-    "stars": 2,
-    "updated_at": "2026-05-30T04:07:21Z",
-    "url": "https://github.com/victorRT3868/shopping-agent-ai"
-  },
-  {
-    "description": "\ud83d\udcdd Generate AI-driven quiz questions effortlessly, enhancing educators' content creation with diverse formats and customi",
-    "id": "dminh0502/AI-Powered-Question-Generation",
-    "language": "Java",
-    "name": "dminh0502/AI-Powered-Question-Generation",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:07:17Z",
-    "url": "https://github.com/dminh0502/AI-Powered-Question-Generation"
-  },
-  {
-    "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
-    "id": "titit-star/ethora-sdk-swift",
-    "language": "Swift",
-    "name": "titit-star/ethora-sdk-swift",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:07:12Z",
-    "url": "https://github.com/titit-star/ethora-sdk-swift"
-  },
-  {
-    "description": "\ud83d\udee0 Enhance LLM prompts effortlessly with RPI, a tool for testing, improving, and managing prompts across various AI provi",
-    "id": "gafaar22/recursive-prompt-improver",
-    "language": "JavaScript",
-    "name": "gafaar22/recursive-prompt-improver",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:07:11Z",
-    "url": "https://github.com/gafaar22/recursive-prompt-improver"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:07:01Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:06:59Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:06:33Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "\u26a1 Build an AI assistant with LLM and document search support, working seamlessly through Telegram for a fully local expe",
-    "id": "HASSANE098/tor-telegram-llm-bot",
-    "language": "Python",
-    "name": "HASSANE098/tor-telegram-llm-bot",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:06:22Z",
-    "url": "https://github.com/HASSANE098/tor-telegram-llm-bot"
-  },
-  {
-    "description": "\ud83e\udd85 Open-source AI agent runtime in Rust \u2014 Self-hostable with persistent memory, self-improving skills, MCP support, built",
-    "id": "garudust-org/garudust-agent",
-    "language": "Rust",
-    "name": "garudust-org/garudust-agent",
-    "stars": 22,
-    "updated_at": "2026-05-30T04:06:21Z",
-    "url": "https://github.com/garudust-org/garudust-agent"
   }
 ]
