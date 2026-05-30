@@ -1,5 +1,77 @@
 [
   {
+    "description": "Public case study of an agentic verification workflow for systems engineering with RAG-grounded review.",
+    "id": "camirian/agentic-systems-verifier-case-study",
+    "language": "\u2014",
+    "name": "camirian/agentic-systems-verifier-case-study",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:14:32Z",
+    "url": "https://github.com/camirian/agentic-systems-verifier-case-study"
+  },
+  {
+    "description": "HTML-first persistent memory for AI coding agents. 94% fewer tokens than Markdown.",
+    "id": "LazyGod75/LazyBrain",
+    "language": "TypeScript",
+    "name": "LazyGod75/LazyBrain",
+    "stars": 2,
+    "updated_at": "2026-05-30T00:13:54Z",
+    "url": "https://github.com/LazyGod75/LazyBrain"
+  },
+  {
+    "description": "Private AI for your Synology NAS \u2014 local LLM chat with optional cloud fallback. Multi-user, full Arabic + English UI, Op",
+    "id": "filamind-app/filamind-ai",
+    "language": "Python",
+    "name": "filamind-app/filamind-ai",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:11:09Z",
+    "url": "https://github.com/filamind-app/filamind-ai"
+  },
+  {
+    "description": "Local-first Agentic Memory Layer Framework for MCP Agents and Multiple Computers \u2022 Over 60 tools \u2022 Hybrid search (FTS5 +",
+    "id": "skynetcmd/m3-memory",
+    "language": "Python",
+    "name": "skynetcmd/m3-memory",
+    "stars": 11,
+    "updated_at": "2026-05-30T00:10:34Z",
+    "url": "https://github.com/skynetcmd/m3-memory"
+  },
+  {
+    "description": "trackly",
+    "id": "Vswashah/Trackly",
+    "language": "JavaScript",
+    "name": "Vswashah/Trackly",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:09:54Z",
+    "url": "https://github.com/Vswashah/Trackly"
+  },
+  {
+    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
+    "id": "StarTrail-org/PixelRAG",
+    "language": "JSON",
+    "name": "StarTrail-org/PixelRAG",
+    "stars": 25,
+    "updated_at": "2026-05-30T00:08:59Z",
+    "url": "https://github.com/StarTrail-org/PixelRAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:07:39Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agent-first knowledge base for documents. Built on kglite + BAAI/bge-m3. Multi-format ingest, cross-checked summaries, r",
+    "id": "kkollsga/kglite-docs",
+    "language": "Python",
+    "name": "kkollsga/kglite-docs",
+    "stars": 0,
+    "updated_at": "2026-05-30T00:10:35Z",
+    "url": "https://github.com/kkollsga/kglite-docs"
+  },
+  {
     "description": "Medical knowledge graph from 47K PubMed articles with RAG-powered clinical Q&A (Neo4j, Python)",
     "id": "SaeMind/medical_knowledge_graph",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "bug-ops/zeph",
     "stars": 37,
-    "updated_at": "2026-05-30T00:06:44Z",
+    "updated_at": "2026-05-30T00:09:55Z",
     "url": "https://github.com/bug-ops/zeph"
   },
   {
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "FlowiseAI/Flowise",
     "stars": 53207,
-    "updated_at": "2026-05-30T00:06:01Z",
+    "updated_at": "2026-05-30T00:15:14Z",
     "url": "https://github.com/FlowiseAI/Flowise"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T00:05:23Z",
     "url": "https://github.com/FriendlyKirby/privacy-aware-document-assistant"
-  },
-  {
-    "description": "HTML-first persistent memory for AI coding agents. 94% fewer tokens than Markdown.",
-    "id": "LazyGod75/LazyBrain",
-    "language": "TypeScript",
-    "name": "LazyGod75/LazyBrain",
-    "stars": 2,
-    "updated_at": "2026-05-30T00:04:22Z",
-    "url": "https://github.com/LazyGod75/LazyBrain"
   },
   {
     "description": "Govern your documents like code. MCP server that indexes .md/.docx/.html/.pdf into a SQLite knowledge graph and runs dri",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "cosmicflow-space/mnemos",
     "stars": 9,
-    "updated_at": "2026-05-30T00:00:56Z",
+    "updated_at": "2026-05-30T00:11:21Z",
     "url": "https://github.com/cosmicflow-space/mnemos"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T00:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent orchestration platform with RAG, LangGraph workflows, observability, and evaluation",
     "id": "kernelpanic09/agents-platform",
     "language": "JavaScript",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 29894,
-    "updated_at": "2026-05-30T00:03:14Z",
+    "updated_at": "2026-05-30T00:11:51Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/jsharma1105/Koshi"
   },
   {
-    "description": "Private AI for your Synology NAS \u2014 local LLM chat with optional cloud fallback. Multi-user, full Arabic + English UI, Op",
-    "id": "filamind-app/filamind-ai",
-    "language": "HTML",
-    "name": "filamind-app/filamind-ai",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:54:14Z",
-    "url": "https://github.com/filamind-app/filamind-ai"
-  },
-  {
     "description": "A composable agentic framework on atomr actors and atomr-infer. Channelled state with checkpointing, dynamic HITL, retri",
     "id": "rustakka/atomr-agents",
     "language": "Rust",
@@ -241,6 +286,15 @@
     "stars": 2,
     "updated_at": "2026-05-29T23:53:56Z",
     "url": "https://github.com/rustakka/atomr-agents"
+  },
+  {
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 28641,
+    "updated_at": "2026-05-30T00:12:48Z",
+    "url": "https://github.com/simstudioai/sim"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -369,15 +423,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 28640,
-    "updated_at": "2026-05-29T23:50:01Z",
-    "url": "https://github.com/simstudioai/sim"
-  },
-  {
     "description": "Self-learning AI agent that gets smarter and cheaper over time. Routes between local and cloud LLMs, learns from every i",
     "id": "BuffaloTechRider/Autodidact",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T23:33:30Z",
     "url": "https://github.com/cheto5144/pdf2md"
-  },
-  {
-    "description": "Add Simplified Chinese support to Claude Desktop on Windows and macOS with this maintained language pack featuring autom",
-    "id": "Territanned15/Claude_zh-CN_LanguagePack",
-    "language": "Python",
-    "name": "Territanned15/Claude_zh-CN_LanguagePack",
-    "stars": 1,
-    "updated_at": "2026-05-29T23:33:24Z",
-    "url": "https://github.com/Territanned15/Claude_zh-CN_LanguagePack"
-  },
-  {
-    "description": "Convert methodology books from Anna's Archive into Claude Code skills using the Model Context Protocol.",
-    "id": "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill",
-    "language": "TypeScript",
-    "name": "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:33:03Z",
-    "url": "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
-  },
-  {
-    "description": "View interfaze.ai OCR data by overlaying bounding boxes and text directly onto PDF documents in your browser.",
-    "id": "Delphian-paiute721/interfaze_ocr_viewer",
-    "language": "HTML",
-    "name": "Delphian-paiute721/interfaze_ocr_viewer",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:32:59Z",
-    "url": "https://github.com/Delphian-paiute721/interfaze_ocr_viewer"
-  },
-  {
-    "description": "Fine-tune large language models on local hardware using a web interface with QLoRA training and GGUF export support.",
-    "id": "yelenaunstimulating676/NeuralForge",
-    "language": "Python",
-    "name": "yelenaunstimulating676/NeuralForge",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:32:28Z",
-    "url": "https://github.com/yelenaunstimulating676/NeuralForge"
-  },
-  {
-    "description": "Connect n8n Cloud to local Ollama models using ngrok for secure, private AI agent orchestration and workflow automation.",
-    "id": "Deafened-spare644/ollama-ai-agent-n8n",
-    "language": "\u2014",
-    "name": "Deafened-spare644/ollama-ai-agent-n8n",
-    "stars": 0,
-    "updated_at": "2026-05-29T23:32:10Z",
-    "url": "https://github.com/Deafened-spare644/ollama-ai-agent-n8n"
   }
 ]
