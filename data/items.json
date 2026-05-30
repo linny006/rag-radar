@@ -1,5 +1,158 @@
 [
   {
+    "description": "",
+    "id": "KaviSaliya/django-hawkeye",
+    "language": "PHP",
+    "name": "KaviSaliya/django-hawkeye",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:45:06Z",
+    "url": "https://github.com/KaviSaliya/django-hawkeye"
+  },
+  {
+    "description": "\ud83d\ude80 Build and scale reliable Retrieval-Augmented Generation (RAG) systems with this curated collection of tools, framework",
+    "id": "mowael07/Awesome-RAG-Production",
+    "language": "Python",
+    "name": "mowael07/Awesome-RAG-Production",
+    "stars": 2,
+    "updated_at": "2026-05-30T16:44:49Z",
+    "url": "https://github.com/mowael07/Awesome-RAG-Production"
+  },
+  {
+    "description": "\ud83e\udde0 Store and search your notes effectively with Git-native memory storage, enhancing productivity for Claude Code users.",
+    "id": "fnbdesign/git-notes-memory",
+    "language": "Python",
+    "name": "fnbdesign/git-notes-memory",
+    "stars": 2,
+    "updated_at": "2026-05-30T16:44:41Z",
+    "url": "https://github.com/fnbdesign/git-notes-memory"
+  },
+  {
+    "description": "\ud83d\ude80 Implement HTTP handling in Spring Boot, focusing on secure requests, input validation, and REST API development for ro",
+    "id": "komechan0602/LAB10",
+    "language": "Java",
+    "name": "komechan0602/LAB10",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:44:22Z",
+    "url": "https://github.com/komechan0602/LAB10"
+  },
+  {
+    "description": "A local AI agent that shows its work \u2014 every search, edit, and reason, on your machine. Nothing leaves.",
+    "id": "Mughal-Baig/local-ai-agent",
+    "language": "JavaScript",
+    "name": "Mughal-Baig/local-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:44:22Z",
+    "url": "https://github.com/Mughal-Baig/local-ai-agent"
+  },
+  {
+    "description": "\ud83d\udd12 Protect sensitive files during streams with Theo Hide, ensuring no accidental leaks by showing a \u201cRestricted Access\u201d s",
+    "id": "enesdanis00/theo-hide",
+    "language": "TypeScript",
+    "name": "enesdanis00/theo-hide",
+    "stars": 1,
+    "updated_at": "2026-05-30T16:44:10Z",
+    "url": "https://github.com/enesdanis00/theo-hide"
+  },
+  {
+    "description": "\ud83e\udd16 Transform AI text into engaging, human-like content that improves readability and boosts SEO performance for creators ",
+    "id": "kizmocuDev/content-humanizer",
+    "language": "\u2014",
+    "name": "kizmocuDev/content-humanizer",
+    "stars": 2,
+    "updated_at": "2026-05-30T16:43:36Z",
+    "url": "https://github.com/kizmocuDev/content-humanizer"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:43:35Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\ude7a Analyze skin lesions with an AI system that combines OpenCV, Vision Language Models, and literature retrieval for prec",
+    "id": "lucas-itup/Multimodal-AI-Dermatological-Diagnosis-System",
+    "language": "HTML",
+    "name": "lucas-itup/Multimodal-AI-Dermatological-Diagnosis-System",
+    "stars": 2,
+    "updated_at": "2026-05-30T16:43:35Z",
+    "url": "https://github.com/lucas-itup/Multimodal-AI-Dermatological-Diagnosis-System"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-05-30T16:43:32Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "\ud83e\udd16 Create your private AI companion on your wrist for local, emotionally aware assistance with no internet required. Cust",
+    "id": "gskrishna3838/Whisperer-on-Wirst",
+    "language": "C++",
+    "name": "gskrishna3838/Whisperer-on-Wirst",
+    "stars": 1,
+    "updated_at": "2026-05-30T16:43:31Z",
+    "url": "https://github.com/gskrishna3838/Whisperer-on-Wirst"
+  },
+  {
+    "description": "\ud83d\ude80 Explore tools and resources to run large language models locally, enhancing efficiency and control over your AI applic",
+    "id": "Payton2cool4/LLMs-local",
+    "language": "\u2014",
+    "name": "Payton2cool4/LLMs-local",
+    "stars": 1,
+    "updated_at": "2026-05-30T16:43:27Z",
+    "url": "https://github.com/Payton2cool4/LLMs-local"
+  },
+  {
+    "description": "\ud83e\udd16 Discover the latest research papers on ArXiv tailored to your interests using AI-powered analysis and smart search fea",
+    "id": "azizkode/ArXiv-Agent",
+    "language": "Python",
+    "name": "azizkode/ArXiv-Agent",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:43:20Z",
+    "url": "https://github.com/azizkode/ArXiv-Agent"
+  },
+  {
+    "description": "A dual-interface AI system for hospitality: a guest-facing concierge chatbot handling FAQs, room requests, and local rec",
+    "id": "MichelleLuyenga/ai-concierge-staff-assistant",
+    "language": "TypeScript",
+    "name": "MichelleLuyenga/ai-concierge-staff-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:43:17Z",
+    "url": "https://github.com/MichelleLuyenga/ai-concierge-staff-assistant"
+  },
+  {
+    "description": "Server configuration for a local LLM running on a laptop that can be used with companion apps",
+    "id": "mabaeyens/mira-core",
+    "language": "Python",
+    "name": "mabaeyens/mira-core",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:43:03Z",
+    "url": "https://github.com/mabaeyens/mira-core"
+  },
+  {
+    "description": "\ud83e\udd16 Build deep learning systems for vision, language, and real-world data as an AI & ML Engineer dedicated to advancing te",
+    "id": "Ruelbernal03/Yigtwxx",
+    "language": "\u2014",
+    "name": "Ruelbernal03/Yigtwxx",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:42:59Z",
+    "url": "https://github.com/Ruelbernal03/Yigtwxx"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:42:50Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udd27 Connect your local LLM to 82 tools, enabling natural language requests to automate tasks and generate reports seamless",
     "id": "ALBERT70000/r",
     "language": "Python",
@@ -198,6 +351,15 @@
     "url": "https://github.com/tshephosekhu/semantic-memory"
   },
   {
+    "description": "AI Career Mentor Agent \u2014 An intelligent agentic AI tool built with LangGraph, Groq LLM & Tavily that generates personali",
+    "id": "mr-basu-singh/AICareerMentorAgent",
+    "language": "Python",
+    "name": "mr-basu-singh/AICareerMentorAgent",
+    "stars": 0,
+    "updated_at": "2026-05-30T16:37:43Z",
+    "url": "https://github.com/mr-basu-singh/AICareerMentorAgent"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Build a versatile MCP server with RAG capabilities, supporting multiple document formats using LangChain and ChromaDB",
     "id": "rexnzm/MCP-rag-with-Chromadb",
     "language": "Python",
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T16:35:16Z",
     "url": "https://github.com/dminh0502/AI-Powered-Question-Generation"
-  },
-  {
-    "description": "\ud83d\uded2 Explore the AI Shopping Agent to compare prices and generate smart purchase reports across top e-commerce platforms ef",
-    "id": "victorRT3868/shopping-agent-ai",
-    "language": "Python",
-    "name": "victorRT3868/shopping-agent-ai",
-    "stars": 2,
-    "updated_at": "2026-05-30T16:35:15Z",
-    "url": "https://github.com/victorRT3868/shopping-agent-ai"
-  },
-  {
-    "description": "\ud83d\udee0 Enhance LLM prompts effortlessly with RPI, a tool for testing, improving, and managing prompts across various AI provi",
-    "id": "gafaar22/recursive-prompt-improver",
-    "language": "JavaScript",
-    "name": "gafaar22/recursive-prompt-improver",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:35:12Z",
-    "url": "https://github.com/gafaar22/recursive-prompt-improver"
-  },
-  {
-    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
-    "id": "don12345673434/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "don12345673434/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:34:59Z",
-    "url": "https://github.com/don12345673434/mjsushanth.github.io"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:34:56Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\u26a1 Build an AI assistant with LLM and document search support, working seamlessly through Telegram for a fully local expe",
-    "id": "HASSANE098/tor-telegram-llm-bot",
-    "language": "Python",
-    "name": "HASSANE098/tor-telegram-llm-bot",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:34:19Z",
-    "url": "https://github.com/HASSANE098/tor-telegram-llm-bot"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 1,
-    "updated_at": "2026-05-30T16:34:03Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "A fully local, offline Retrieval-Augmented Generation (RAG) chat application. Ask natural-language questions against you",
-    "id": "hongminglow/my-llm",
-    "language": "Python",
-    "name": "hongminglow/my-llm",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:34:00Z",
-    "url": "https://github.com/hongminglow/my-llm"
-  },
-  {
-    "description": "\ud83d\udcda Simplify knowledge management with a self-hosting kit that integrates document processing and advanced search for effi",
-    "id": "astirix1/Knowledge-Base-Self-Hosting-Kit",
-    "language": "Python",
-    "name": "astirix1/Knowledge-Base-Self-Hosting-Kit",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:33:09Z",
-    "url": "https://github.com/astirix1/Knowledge-Base-Self-Hosting-Kit"
-  },
-  {
-    "description": "AI + LLM Evaluation \u00b7 5-dimension rubric for a two-pass grounded-retrieval system (jak.ma)",
-    "id": "Samielakkad/AI-LLM-Evaluation-JakMa",
-    "language": "Python",
-    "name": "Samielakkad/AI-LLM-Evaluation-JakMa",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:33:05Z",
-    "url": "https://github.com/Samielakkad/AI-LLM-Evaluation-JakMa"
-  },
-  {
-    "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
-    "id": "strikersam/local-llm-server",
-    "language": "Python",
-    "name": "strikersam/local-llm-server",
-    "stars": 4,
-    "updated_at": "2026-05-30T16:33:07Z",
-    "url": "https://github.com/strikersam/local-llm-server"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents effortlessly with a streamlined framework using Python, Vue.js, and Docker for scalable developm",
-    "id": "qssalim/AI-Agents-Orchestrator",
-    "language": "EJS",
-    "name": "qssalim/AI-Agents-Orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:32:53Z",
-    "url": "https://github.com/qssalim/AI-Agents-Orchestrator"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance industrial operations with safe, observable LLM agents for sectors like aerospace and manufacturing\u2014complete w",
-    "id": "brightboateng/.Industrial-LLM-Agents",
-    "language": "Python",
-    "name": "brightboateng/.Industrial-LLM-Agents",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:32:34Z",
-    "url": "https://github.com/brightboateng/.Industrial-LLM-Agents"
-  },
-  {
-    "description": "\ud83e\udde0 Analyze market trends with AI to forecast investments and enhance decision-making using real-time data and advanced an",
-    "id": "vieta123456/ai-market",
-    "language": "Python",
-    "name": "vieta123456/ai-market",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:32:33Z",
-    "url": "https://github.com/vieta123456/ai-market"
-  },
-  {
-    "description": "\ud83d\ude80 Experience the fastest AI memory system with Helixir, now deprecated for Python. Switch to the Rust version for superi",
-    "id": "Adaliimmm/helixir-py",
-    "language": "Python",
-    "name": "Adaliimmm/helixir-py",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:32:16Z",
-    "url": "https://github.com/Adaliimmm/helixir-py"
-  },
-  {
-    "description": "World building RAG + AI gen plataform",
-    "id": "sergiogonzalezch/loremaster",
-    "language": "Python",
-    "name": "sergiogonzalezch/loremaster",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:32:10Z",
-    "url": "https://github.com/sergiogonzalezch/loremaster"
-  },
-  {
-    "description": "single-executable / library which combines llama.cpp, whisper.cpp, and stable-diffusion.cpp",
-    "id": "shakfu/chimera",
-    "language": "C++",
-    "name": "shakfu/chimera",
-    "stars": 5,
-    "updated_at": "2026-05-30T16:31:58Z",
-    "url": "https://github.com/shakfu/chimera"
-  },
-  {
-    "description": "Personal RAG. Local-first. Drop a folder, ask a question.",
-    "id": "cosmicflow-space/mnemos",
-    "language": "TypeScript",
-    "name": "cosmicflow-space/mnemos",
-    "stars": 9,
-    "updated_at": "2026-05-30T16:31:57Z",
-    "url": "https://github.com/cosmicflow-space/mnemos"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 0,
-    "updated_at": "2026-05-30T16:31:46Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
   }
 ]
