@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18476,
+    "updated_at": "2026-05-30T05:59:49Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Context engineering toolkit for AI agents. 24 MCP tools across retrieval, memory, context, and team telemetry. .NET 10. ",
+    "id": "jsharma1105/Koshi",
+    "language": "C#",
+    "name": "jsharma1105/Koshi",
+    "stars": 2,
+    "updated_at": "2026-05-30T05:59:43Z",
+    "url": "https://github.com/jsharma1105/Koshi"
+  },
+  {
+    "description": "Buddhist Digital Text Platform \u2014 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text se",
+    "id": "xr843/fojin",
+    "language": "Python",
+    "name": "xr843/fojin",
+    "stars": 305,
+    "updated_at": "2026-05-30T05:59:38Z",
+    "url": "https://github.com/xr843/fojin"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "HTML",
+    "name": "alex-place/lantern-os",
+    "stars": 1,
+    "updated_at": "2026-05-30T05:57:47Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 5,
+    "updated_at": "2026-05-30T05:56:38Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
+    "description": "Multimodal RAG for source-backed AI answers MCP Server",
+    "id": "calypso-so/calypso-mcp-server",
+    "language": "TypeScript",
+    "name": "calypso-so/calypso-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-30T05:55:20Z",
+    "url": "https://github.com/calypso-so/calypso-mcp-server"
+  },
+  {
+    "description": "transform repositories into queryable intelligence",
+    "id": "khurram-uworx/CodeMemory",
+    "language": "C#",
+    "name": "khurram-uworx/CodeMemory",
+    "stars": 1,
+    "updated_at": "2026-05-30T05:59:35Z",
+    "url": "https://github.com/khurram-uworx/CodeMemory"
+  },
+  {
+    "description": "\u26a1\ufe0fnext-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and co",
+    "id": "the-open-agent/openagent",
+    "language": "Go",
+    "name": "the-open-agent/openagent",
+    "stars": 5086,
+    "updated_at": "2026-05-30T05:53:55Z",
+    "url": "https://github.com/the-open-agent/openagent"
+  },
+  {
+    "description": "Production-ready Conversational RAG system using FastAPI, LangChain, FAISS, Groq/Gemini, Docker, AWS ECS Fargate, and La",
+    "id": "Ahamed-Safnas/MultiDocChat",
+    "language": "Jupyter Notebook",
+    "name": "Ahamed-Safnas/MultiDocChat",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:55:45Z",
+    "url": "https://github.com/Ahamed-Safnas/MultiDocChat"
+  },
+  {
+    "description": "Self-hosted AI gateway in Go \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek, Ollama and 40+ provider",
+    "id": "flowork-os/flowork_Router",
+    "language": "Go",
+    "name": "flowork-os/flowork_Router",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:51:30Z",
+    "url": "https://github.com/flowork-os/flowork_Router"
+  },
+  {
+    "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 56,
+    "updated_at": "2026-05-30T05:45:22Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The most advanced Obsidian MCP \u2014 long-term memory for AI agents. Hybrid retrieval (BM25 + ML + BGE rerank, RRF-fused), H",
     "id": "oomkapwn/enquire-mcp",
     "language": "TypeScript",
@@ -45,13 +162,13 @@
     "url": "https://github.com/mukoubuchi/vector-search-hands-on"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
     "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18476,
-    "updated_at": "2026-05-30T05:42:54Z",
-    "url": "https://github.com/elizaOS/eliza"
+    "name": "langgenius/dify",
+    "stars": 143137,
+    "updated_at": "2026-05-30T05:59:58Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Grounded RAG v1 specification with abstain/partial semantics",
@@ -90,6 +207,15 @@
     "url": "https://github.com/CONSTELLATION-ENGINE/constellation-engine"
   },
   {
+    "description": "Hybrid-search RAG over the Kubernetes docs, with end-to-end evaluation and citation verification.",
+    "id": "Darren221/KubeRAG",
+    "language": "Python",
+    "name": "Darren221/KubeRAG",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:40:26Z",
+    "url": "https://github.com/Darren221/KubeRAG"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -117,21 +243,12 @@
     "url": "https://github.com/tomnguyen103/AI_Financial_Platform"
   },
   {
-    "description": "Cognitive observability for LLM agents. Cognometric instruments + self-healing reflex (F10) + MCP server. Pure-Python, M",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 5,
-    "updated_at": "2026-05-30T05:37:51Z",
-    "url": "https://github.com/fathom-lab/styxx"
-  },
-  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 29898,
-    "updated_at": "2026-05-30T05:36:58Z",
+    "updated_at": "2026-05-30T05:59:03Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -142,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:34:31Z",
     "url": "https://github.com/xushui-bit/test-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:34:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Zero-dep Agent Library. git clone. No server. No deps.           ",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 56,
-    "updated_at": "2026-05-30T05:33:34Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Baby Pulmo \u2014 AI Pediatric Cough Diagnostic for Rural Bangladesh (INFINITY AI BUILDFEST 2026)",
@@ -178,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:30:38Z",
     "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Convert PDF documents to Markdown using local VLM inference services with this single Go binary.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T05:26:08Z",
     "url": "https://github.com/Instinct-bone607/PathMind"
-  },
-  {
-    "description": "\ud83e\udde0 Local-first general-purpose RAG with an MCP server, CLI, and web console \u2014 point it at your files, search by meaning",
-    "id": "sinwoo0225/Localbrain",
-    "language": "HTML",
-    "name": "sinwoo0225/Localbrain",
-    "stars": 1,
-    "updated_at": "2026-05-30T05:26:01Z",
-    "url": "https://github.com/sinwoo0225/Localbrain"
-  },
-  {
-    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
-    "id": "dgbac5672/LogN_DB-Core",
-    "language": "C++",
-    "name": "dgbac5672/LogN_DB-Core",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:50Z",
-    "url": "https://github.com/dgbac5672/LogN_DB-Core"
-  },
-  {
-    "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider \u2014 30 second",
-    "id": "juyterman1000/entroly",
-    "language": "Python",
-    "name": "juyterman1000/entroly",
-    "stars": 402,
-    "updated_at": "2026-05-30T05:25:42Z",
-    "url": "https://github.com/juyterman1000/entroly"
-  },
-  {
-    "description": "Synthesize contradictory research from your Zotero library using dialectical reasoning and LLaMA 3.1 to generate grounde",
-    "id": "CLODOALDO14/epistemic-conflict-engine",
-    "language": "Python",
-    "name": "CLODOALDO14/epistemic-conflict-engine",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:41Z",
-    "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
-  },
-  {
-    "description": "Orchestrate multi-agent teams using document-driven workflows, defined role boundaries, and standardized handoff contrac",
-    "id": "danilo1003/agent-team-orchestrator",
-    "language": "Python",
-    "name": "danilo1003/agent-team-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:38Z",
-    "url": "https://github.com/danilo1003/agent-team-orchestrator"
-  },
-  {
-    "description": "Evaluate autonomous AI memory systems using reproducible benchmarks and the LongMemEval-M dataset for Agent Brain.",
-    "id": "Bovirulent551/agentbrain-benchmarks",
-    "language": "Python",
-    "name": "Bovirulent551/agentbrain-benchmarks",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:18Z",
-    "url": "https://github.com/Bovirulent551/agentbrain-benchmarks"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:15Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build a production-ready blog system with a high-performance Go backend, React frontend, and clean architecture.",
-    "id": "drillingmuduplifting7389/Solace",
-    "language": "\u2014",
-    "name": "drillingmuduplifting7389/Solace",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:09Z",
-    "url": "https://github.com/drillingmuduplifting7389/Solace"
-  },
-  {
-    "description": "Download public Epstein and Maxwell case documents, court filings, and FBI datasets using verified checksums from offici",
-    "id": "Nitosd1824/epstein-files",
-    "language": "Python",
-    "name": "Nitosd1824/epstein-files",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:06Z",
-    "url": "https://github.com/Nitosd1824/epstein-files"
-  },
-  {
-    "description": "Define engineering standards for Generative Engine Optimization to improve brand visibility in the AI search era.",
-    "id": "Unremedied-panhandler7820/geo-whitepaper",
-    "language": "\u2014",
-    "name": "Unremedied-panhandler7820/geo-whitepaper",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:25:05Z",
-    "url": "https://github.com/Unremedied-panhandler7820/geo-whitepaper"
   }
 ]
