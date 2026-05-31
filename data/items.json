@@ -1,11 +1,137 @@
 [
   {
+    "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability.",
+    "id": "ebongard/renfield",
+    "language": "Python",
+    "name": "ebongard/renfield",
+    "stars": 5,
+    "updated_at": "2026-05-31T11:16:48Z",
+    "url": "https://github.com/ebongard/renfield"
+  },
+  {
+    "description": "Self-hosted, zero-trust RAG with role-based access control enforced at the database level.",
+    "id": "iknowkungfubar/ring-fenced-rag",
+    "language": "Python",
+    "name": "iknowkungfubar/ring-fenced-rag",
+    "stars": 1,
+    "updated_at": "2026-05-31T11:16:40Z",
+    "url": "https://github.com/iknowkungfubar/ring-fenced-rag"
+  },
+  {
+    "description": "Open-source Python toolkit to inspect, test, secure, optimize, and operationalize GenAI applications before production.",
+    "id": "TravelXML/GenAIScope",
+    "language": "Jupyter Notebook",
+    "name": "TravelXML/GenAIScope",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:16:56Z",
+    "url": "https://github.com/TravelXML/GenAIScope"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:16:16Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent conversations with the AI Chat Agent, a full-stack app using FastAPI and Next.js powered by OpenAI's",
+    "id": "jeanj19/ai-chat-agent",
+    "language": "TypeScript",
+    "name": "jeanj19/ai-chat-agent",
+    "stars": 2,
+    "updated_at": "2026-05-31T11:16:11Z",
+    "url": "https://github.com/jeanj19/ai-chat-agent"
+  },
+  {
+    "description": "\ud83d\uded2 Explore the AI Shopping Agent to compare prices and generate smart purchase reports across top e-commerce platforms ef",
+    "id": "victorRT3868/shopping-agent-ai",
+    "language": "Python",
+    "name": "victorRT3868/shopping-agent-ai",
+    "stars": 2,
+    "updated_at": "2026-05-31T11:15:46Z",
+    "url": "https://github.com/victorRT3868/shopping-agent-ai"
+  },
+  {
+    "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
+    "id": "titit-star/ethora-sdk-swift",
+    "language": "Swift",
+    "name": "titit-star/ethora-sdk-swift",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:45Z",
+    "url": "https://github.com/titit-star/ethora-sdk-swift"
+  },
+  {
+    "description": "\ud83d\udcdd Generate AI-driven quiz questions effortlessly, enhancing educators' content creation with diverse formats and customi",
+    "id": "dminh0502/AI-Powered-Question-Generation",
+    "language": "Java",
+    "name": "dminh0502/AI-Powered-Question-Generation",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:44Z",
+    "url": "https://github.com/dminh0502/AI-Powered-Question-Generation"
+  },
+  {
+    "description": "\ud83d\udee0 Enhance LLM prompts effortlessly with RPI, a tool for testing, improving, and managing prompts across various AI provi",
+    "id": "gafaar22/recursive-prompt-improver",
+    "language": "JavaScript",
+    "name": "gafaar22/recursive-prompt-improver",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:41Z",
+    "url": "https://github.com/gafaar22/recursive-prompt-improver"
+  },
+  {
+    "description": "\ud83c\udf10 Build and share your personal website with ease using mjsushanth.github.io, a simple and effective static site generat",
+    "id": "don12345673434/mjsushanth.github.io",
+    "language": "HTML",
+    "name": "don12345673434/mjsushanth.github.io",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:29Z",
+    "url": "https://github.com/don12345673434/mjsushanth.github.io"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Fast code and text search CLI for Git repositories, powered by BM25 and per-directory indexes.",
+    "id": "eltu/idx",
+    "language": "Go",
+    "name": "eltu/idx",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:27Z",
+    "url": "https://github.com/eltu/idx"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-05-31T11:15:20Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "An AI chatbot with tool calling that answers questions about your professional portfolio using AI Agents and RAG running",
     "id": "prakharpd/Agentic-Portfolio",
     "language": "Python",
     "name": "prakharpd/Agentic-Portfolio",
     "stars": 0,
-    "updated_at": "2026-05-31T11:15:14Z",
+    "updated_at": "2026-05-31T11:16:56Z",
     "url": "https://github.com/prakharpd/Agentic-Portfolio"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T11:14:49Z",
     "url": "https://github.com/HASSANE098/tor-telegram-llm-bot"
-  },
-  {
-    "description": "Self-hosted, zero-trust RAG with role-based access control enforced at the database level.",
-    "id": "iknowkungfubar/ring-fenced-rag",
-    "language": "Python",
-    "name": "iknowkungfubar/ring-fenced-rag",
-    "stars": 1,
-    "updated_at": "2026-05-31T11:14:48Z",
-    "url": "https://github.com/iknowkungfubar/ring-fenced-rag"
   },
   {
     "description": "Open source, local first AI medical scribe for desktop and web.",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T11:05:58Z",
     "url": "https://github.com/lpr021/redteam-ai-benchmark"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance LLMs with Memlayer for intelligent, contextual memory and fast retrieval\u2014streamline agents with just 3 lines o",
-    "id": "breninfps/memlayer",
-    "language": "Python",
-    "name": "breninfps/memlayer",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:05:58Z",
-    "url": "https://github.com/breninfps/memlayer"
-  },
-  {
-    "description": "\ud83c\udf1f Enhance image understanding through a RAG-based approach, combining multimodal retrieval and context-aware generation ",
-    "id": "medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding",
-    "language": "Jupyter Notebook",
-    "name": "medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:05:53Z",
-    "url": "https://github.com/medazizsaaadallah/Knowledge-Infused-Multimodal-Retrieval-A-RAG-Based-Approach-for-Context-Aware-Image-Understanding"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4314,
-    "updated_at": "2026-05-31T11:11:58Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:05:19Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
-    "id": "lemmaoracle/lemma",
-    "language": "HTML",
-    "name": "lemmaoracle/lemma",
-    "stars": 1,
-    "updated_at": "2026-05-31T11:12:27Z",
-    "url": "https://github.com/lemmaoracle/lemma"
-  },
-  {
-    "description": "",
-    "id": "kastiglia/raptor",
-    "language": "Rust",
-    "name": "kastiglia/raptor",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:05:13Z",
-    "url": "https://github.com/kastiglia/raptor"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:05:13Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "\ud83e\ude7a Build a hybrid AI expert system for accurate medical diagnosis using rule-based logic, retrieval-augmented knowledge, ",
-    "id": "Mahdivu1/expert-system-medical-diagnosis",
-    "language": "Python",
-    "name": "Mahdivu1/expert-system-medical-diagnosis",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:04:31Z",
-    "url": "https://github.com/Mahdivu1/expert-system-medical-diagnosis"
-  },
-  {
-    "description": "\ud83d\ude80 Optimize AI context retrieval with OrionGraphDB, a powerful engine that respects token budgets and delivers diverse, r",
-    "id": "lemoal-t/oriongraphdb",
-    "language": "Rust",
-    "name": "lemoal-t/oriongraphdb",
-    "stars": 1,
-    "updated_at": "2026-05-31T11:04:20Z",
-    "url": "https://github.com/lemoal-t/oriongraphdb"
-  },
-  {
-    "description": "\u26a1\ufe0fnext-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and co",
-    "id": "the-open-agent/openagent",
-    "language": "Go",
-    "name": "the-open-agent/openagent",
-    "stars": 5097,
-    "updated_at": "2026-05-31T11:09:51Z",
-    "url": "https://github.com/the-open-agent/openagent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Convert PDF files to Markdown for LLM workflows with event-driven efficiency and optimized output, ensuring zero idle",
-    "id": "jackise69/pdf-sentinel",
-    "language": "JavaScript",
-    "name": "jackise69/pdf-sentinel",
-    "stars": 2,
-    "updated_at": "2026-05-31T11:03:56Z",
-    "url": "https://github.com/jackise69/pdf-sentinel"
-  },
-  {
-    "description": "",
-    "id": "faldys35/mcp-framework",
-    "language": "Rust",
-    "name": "faldys35/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:03:20Z",
-    "url": "https://github.com/faldys35/mcp-framework"
-  },
-  {
-    "description": "Fast code and text search CLI for Git repositories, powered by BM25 and per-directory indexes.",
-    "id": "eltu/idx",
-    "language": "Go",
-    "name": "eltu/idx",
-    "stars": 0,
-    "updated_at": "2026-05-31T11:03:13Z",
-    "url": "https://github.com/eltu/idx"
   }
 ]
