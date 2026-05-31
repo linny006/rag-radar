@@ -1,19 +1,181 @@
 [
   {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 2,
+    "updated_at": "2026-05-31T01:00:08Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "nlp4j-local-search",
+    "id": "oyahiroki/nlp4j-local-search",
+    "language": "Python",
+    "name": "oyahiroki/nlp4j-local-search",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:59:57Z",
+    "url": "https://github.com/oyahiroki/nlp4j-local-search"
+  },
+  {
+    "description": "A grounding firewall that fact-checks AI-generated text against the live web, claim by claim, with primary-source receip",
+    "id": "ronoktanvir/Bedrock",
+    "language": "Python",
+    "name": "ronoktanvir/Bedrock",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:59:54Z",
+    "url": "https://github.com/ronoktanvir/Bedrock"
+  },
+  {
+    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
+    "id": "selmanays/nodrat",
+    "language": "Python",
+    "name": "selmanays/nodrat",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:57:36Z",
+    "url": "https://github.com/selmanays/nodrat"
+  },
+  {
+    "description": "\u26a1 Vectro: Lightning-fast embedding quantization. Hit 12M+ vec/s throughput (4.85\u00d7 faster than FAISS C++) while drastical",
+    "id": "konjoai/vectro",
+    "language": "Rust",
+    "name": "konjoai/vectro",
+    "stars": 8,
+    "updated_at": "2026-05-31T00:57:32Z",
+    "url": "https://github.com/konjoai/vectro"
+  },
+  {
+    "description": "ChromaDB Explorer for MacOS",
+    "id": "stepandel/chroma-explorer",
+    "language": "TypeScript",
+    "name": "stepandel/chroma-explorer",
+    "stars": 45,
+    "updated_at": "2026-05-31T00:57:22Z",
+    "url": "https://github.com/stepandel/chroma-explorer"
+  },
+  {
+    "description": "Run local AI models, search your files and code, and crawl the web, all in one program. Cited answers, local-first, with",
+    "id": "tobocop2/lilbee",
+    "language": "Python",
+    "name": "tobocop2/lilbee",
+    "stars": 19,
+    "updated_at": "2026-05-31T00:55:36Z",
+    "url": "https://github.com/tobocop2/lilbee"
+  },
+  {
+    "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider \u2014 30 second",
+    "id": "juyterman1000/entroly",
+    "language": "Python",
+    "name": "juyterman1000/entroly",
+    "stars": 402,
+    "updated_at": "2026-05-31T00:54:41Z",
+    "url": "https://github.com/juyterman1000/entroly"
+  },
+  {
+    "description": "A cross-platform Markdown AI note-taking software.",
+    "id": "codexu/note-gen",
+    "language": "TypeScript",
+    "name": "codexu/note-gen",
+    "stars": 11996,
+    "updated_at": "2026-05-31T00:54:29Z",
+    "url": "https://github.com/codexu/note-gen"
+  },
+  {
+    "description": "MemTest \u2014 Universal Evaluation Toolkit for AI Memory Systems | Zero-dependency, adapter-pattern, 6-dimension benchmark",
+    "id": "yubingz/memtest",
+    "language": "Python",
+    "name": "yubingz/memtest",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:51:25Z",
+    "url": "https://github.com/yubingz/memtest"
+  },
+  {
+    "description": "Personal RAG engine \u2014 simple, fast, Rust. One binary (15 MB), one DB, native collections. MCP-native.",
+    "id": "lelabdev/rag-ferrite",
+    "language": "Rust",
+    "name": "lelabdev/rag-ferrite",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:49:19Z",
+    "url": "https://github.com/lelabdev/rag-ferrite"
+  },
+  {
     "description": "",
     "id": "moe-the-goat/rag-document-assistant",
     "language": "Python",
     "name": "moe-the-goat/rag-document-assistant",
     "stars": 0,
-    "updated_at": "2026-05-31T00:45:12Z",
+    "updated_at": "2026-05-31T00:48:49Z",
     "url": "https://github.com/moe-the-goat/rag-document-assistant"
+  },
+  {
+    "description": "Incremental engine for long horizon agents \ud83c\udf1f Star if you like it!",
+    "id": "cocoindex-io/cocoindex",
+    "language": "Python",
+    "name": "cocoindex-io/cocoindex",
+    "stars": 10119,
+    "updated_at": "2026-05-31T00:47:46Z",
+    "url": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18484,
+    "updated_at": "2026-05-31T00:56:34Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4314,
+    "updated_at": "2026-05-31T00:48:47Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 270,
+    "updated_at": "2026-05-31T00:46:06Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
+    "id": "three-cubes/kairix",
+    "language": "Python",
+    "name": "three-cubes/kairix",
+    "stars": 2,
+    "updated_at": "2026-05-31T00:45:18Z",
+    "url": "https://github.com/three-cubes/kairix"
   },
   {
     "description": "\ud83e\udde0 Understand AI in minutes \u2014 32 core AI concepts explained with simple visuals + everyday analogies, for technical and n",
     "id": "behnia137/ai-for-beginners-visual",
     "language": "\u2014",
     "name": "behnia137/ai-for-beginners-visual",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T00:44:18Z",
     "url": "https://github.com/behnia137/ai-for-beginners-visual"
   },
@@ -27,15 +189,6 @@
     "url": "https://github.com/pabstmp/offline-ai-chat"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18484,
-    "updated_at": "2026-05-31T00:43:19Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "",
     "id": "jagoff/memo",
     "language": "Python",
@@ -43,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:41:55Z",
     "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "A cross-platform Markdown AI note-taking software.",
-    "id": "codexu/note-gen",
-    "language": "TypeScript",
-    "name": "codexu/note-gen",
-    "stars": 11996,
-    "updated_at": "2026-05-31T00:40:59Z",
-    "url": "https://github.com/codexu/note-gen"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -72,24 +216,6 @@
     "url": "https://github.com/lemmaoracle/lemma"
   },
   {
-    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
-    "id": "selmanays/nodrat",
-    "language": "Python",
-    "name": "selmanays/nodrat",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:38:12Z",
-    "url": "https://github.com/selmanays/nodrat"
-  },
-  {
-    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
-    "id": "three-cubes/kairix",
-    "language": "Python",
-    "name": "three-cubes/kairix",
-    "stars": 2,
-    "updated_at": "2026-05-31T00:37:19Z",
-    "url": "https://github.com/three-cubes/kairix"
-  },
-  {
     "description": "Production ML pipeline predicting bank term deposit subscriptions \u2014 LightGBM + FastAPI + Streamlit + LlamaIndex RAG",
     "id": "nikaergemlidze1/finsight-ai",
     "language": "Jupyter Notebook",
@@ -108,21 +234,12 @@
     "url": "https://github.com/asb-42/danwa"
   },
   {
-    "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider \u2014 30 second",
-    "id": "juyterman1000/entroly",
-    "language": "Python",
-    "name": "juyterman1000/entroly",
-    "stars": 402,
-    "updated_at": "2026-05-31T00:36:24Z",
-    "url": "https://github.com/juyterman1000/entroly"
-  },
-  {
     "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
     "id": "engram-app/Engram",
     "language": "Elixir",
     "name": "engram-app/Engram",
     "stars": 4,
-    "updated_at": "2026-05-31T00:35:26Z",
+    "updated_at": "2026-05-31T00:51:40Z",
     "url": "https://github.com/engram-app/Engram"
   },
   {
@@ -167,7 +284,7 @@
     "language": "Zig",
     "name": "antflydb/antfly",
     "stars": 381,
-    "updated_at": "2026-05-31T00:35:03Z",
+    "updated_at": "2026-05-31T00:55:28Z",
     "url": "https://github.com/antflydb/antfly"
   },
   {
@@ -214,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:32:45Z",
     "url": "https://github.com/shakfu/infer-app"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, vectors, hybrid search, knowledge graphs, and sessions.",
@@ -288,15 +387,6 @@
     "url": "https://github.com/glenlouis8/audit-ai"
   },
   {
-    "description": "A grounding firewall that fact-checks AI-generated text against the live web, claim by claim, with primary-source receip",
-    "id": "ronoktanvir/Bedrock",
-    "language": "Python",
-    "name": "ronoktanvir/Bedrock",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:29:58Z",
-    "url": "https://github.com/ronoktanvir/Bedrock"
-  },
-  {
     "description": "Multi-agent lawn-care advisory for Zeon Zoysia. Pulls live weather and soil temperature, retrieves cited passages from a",
     "id": "mattlawck/lawn-agents",
     "language": "Python",
@@ -324,15 +414,6 @@
     "url": "https://github.com/gergchen/astock-market-engine"
   },
   {
-    "description": "MemTest \u2014 Universal Evaluation Toolkit for AI Memory Systems | Zero-dependency, adapter-pattern, 6-dimension benchmark",
-    "id": "yubingz/memtest",
-    "language": "Python",
-    "name": "yubingz/memtest",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:25:55Z",
-    "url": "https://github.com/yubingz/memtest"
-  },
-  {
     "description": "Internal Slack knowledge bot \u2014 per-user ACL-filtered retrieval over Notion/Confluence/Drive, Bedrock Claude, shipped as ",
     "id": "nanohype/slack-knowledge-bot",
     "language": "TypeScript",
@@ -340,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:25:30Z",
     "url": "https://github.com/nanohype/slack-knowledge-bot"
-  },
-  {
-    "description": "ChromaDB Explorer for MacOS",
-    "id": "stepandel/chroma-explorer",
-    "language": "TypeScript",
-    "name": "stepandel/chroma-explorer",
-    "stars": 45,
-    "updated_at": "2026-05-31T00:37:58Z",
-    "url": "https://github.com/stepandel/chroma-explorer"
   },
   {
     "description": "AI-operable research workspace for Zotero, Obsidian, and NotebookLM. Use any two, or all three, through CLI, MCP, REST, ",
@@ -376,77 +448,5 @@
     "stars": 9,
     "updated_at": "2026-05-31T00:22:16Z",
     "url": "https://github.com/fstamatelopoulos/cerefox"
-  },
-  {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 28656,
-    "updated_at": "2026-05-31T00:36:06Z",
-    "url": "https://github.com/simstudioai/sim"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:17:45Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:17:30Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 138058,
-    "updated_at": "2026-05-31T00:17:11Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 270,
-    "updated_at": "2026-05-31T00:17:10Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Build and operate production-grade AI agent systems through this 22-chapter technical course designed for collaborative ",
-    "id": "120th-westgermany829/agentic-ai-system-course",
-    "language": "Shell",
-    "name": "120th-westgermany829/agentic-ai-system-course",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:16:03Z",
-    "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
-  },
-  {
-    "description": "single-executable / library which combines llama.cpp, whisper.cpp, and stable-diffusion.cpp",
-    "id": "shakfu/chimera",
-    "language": "C++",
-    "name": "shakfu/chimera",
-    "stars": 5,
-    "updated_at": "2026-05-31T00:15:52Z",
-    "url": "https://github.com/shakfu/chimera"
-  },
-  {
-    "description": "Convert PDF documents to Markdown using local VLM inference services with this single Go binary.",
-    "id": "cheto5144/pdf2md",
-    "language": "\u2014",
-    "name": "cheto5144/pdf2md",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:15:43Z",
-    "url": "https://github.com/cheto5144/pdf2md"
   }
 ]
