@@ -1,5 +1,77 @@
 [
   {
+    "description": "VibeCoded Tools - Orchestrator: improve your Claude Code!",
+    "id": "hotak92/vibecoded-orchestrator",
+    "language": "Python",
+    "name": "hotak92/vibecoded-orchestrator",
+    "stars": 2,
+    "updated_at": "2026-05-31T12:59:34Z",
+    "url": "https://github.com/hotak92/vibecoded-orchestrator"
+  },
+  {
+    "description": "Operon is an advanced autonomous AI Terminal Cockpit, combining the best of OpenClaw and Hermes Agent. Built for autonom",
+    "id": "OperonAgent/Operon",
+    "language": "Python",
+    "name": "OperonAgent/Operon",
+    "stars": 3,
+    "updated_at": "2026-05-31T12:59:22Z",
+    "url": "https://github.com/OperonAgent/Operon"
+  },
+  {
+    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
+    "id": "lemmaoracle/lemma",
+    "language": "HTML",
+    "name": "lemmaoracle/lemma",
+    "stars": 1,
+    "updated_at": "2026-05-31T12:58:43Z",
+    "url": "https://github.com/lemmaoracle/lemma"
+  },
+  {
+    "description": "\u5f00\u7bb1\u5373\u7528\u7684AI\u6807\u4e66\u7f16\u5199\u5de5\u5177\uff0c\u6807\u4e66AI\u751f\u6210\u5de5\u5177\uff0c\u6295\u6807\u5de5\u5177\u7bb1\u3001\u77e5\u8bc6\u5e93\u3001\u6807\u4e66\u67e5\u91cd\u3001\u5e9f\u6807\u9879\u68c0\u67e5\uff0c\u5b8c\u5168\u5f00\u6e90\u514d\u8d39\uff0c\u6b22\u8fce\u4f7f\u7528",
+    "id": "FB208/OpenBidKit_Yibiao",
+    "language": "JavaScript",
+    "name": "FB208/OpenBidKit_Yibiao",
+    "stars": 492,
+    "updated_at": "2026-05-31T12:57:56Z",
+    "url": "https://github.com/FB208/OpenBidKit_Yibiao"
+  },
+  {
+    "description": "Muhammad Awais \u2014 Python projects repository covering beginner to advanced. Includes AI/ML, Computer Vision, NLP, LLM, RA",
+    "id": "ik-awais/Python_Projects",
+    "language": "Python",
+    "name": "ik-awais/Python_Projects",
+    "stars": 0,
+    "updated_at": "2026-05-31T12:57:37Z",
+    "url": "https://github.com/ik-awais/Python_Projects"
+  },
+  {
+    "description": "Framework-agnostic RAG pipeline SDK. Plug in any component, swap any stage, configure everything in YAML.",
+    "id": "kevinrawal/nexrag",
+    "language": "Python",
+    "name": "kevinrawal/nexrag",
+    "stars": 2,
+    "updated_at": "2026-05-31T12:57:19Z",
+    "url": "https://github.com/kevinrawal/nexrag"
+  },
+  {
+    "description": "",
+    "id": "srdasdev/Agentic-RAG",
+    "language": "Python",
+    "name": "srdasdev/Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-05-31T12:56:40Z",
+    "url": "https://github.com/srdasdev/Agentic-RAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T12:56:36Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-hosted long-term memory substrate for any LLM-using tool. Hybrid vector + lexical recall with MMR reranking, auto-e",
     "id": "nram-ai/nram",
     "language": "Go",
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:53:06Z",
     "url": "https://github.com/Mughal-Baig/local-ai-agent"
-  },
-  {
-    "description": "Muhammad Awais \u2014 Python projects repository covering beginner to advanced. Includes AI/ML, Computer Vision, NLP, LLM, RA",
-    "id": "ik-awais/Python_Projects",
-    "language": "Python",
-    "name": "ik-awais/Python_Projects",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:53:06Z",
-    "url": "https://github.com/ik-awais/Python_Projects"
   },
   {
     "description": "Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access pol",
@@ -162,15 +225,6 @@
     "url": "https://github.com/andrepester/rag-search-mcp"
   },
   {
-    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
-    "id": "lemmaoracle/lemma",
-    "language": "HTML",
-    "name": "lemmaoracle/lemma",
-    "stars": 1,
-    "updated_at": "2026-05-31T12:55:51Z",
-    "url": "https://github.com/lemmaoracle/lemma"
-  },
-  {
     "description": "Multi-tenant AI customer support SaaS with RAG-powered chatbot. Built with Next.js 16, React 19, FastAPI, PostgreSQL + p",
     "id": "PuriphatXXVII/SmartDesk-AI",
     "language": "TypeScript",
@@ -234,6 +288,15 @@
     "url": "https://github.com/totobusnello/memoria-nox"
   },
   {
+    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 35995,
+    "updated_at": "2026-05-31T12:45:32Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -250,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:45:22Z",
     "url": "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source agentic workspace for professional knowledge work with project memory, client memory, skills, and knowledge ",
@@ -387,15 +441,6 @@
     "url": "https://github.com/SeydinaBANE/react-agent"
   },
   {
-    "description": "Operon is an advanced autonomous AI Terminal Cockpit, combining the best of OpenClaw and Hermes Agent. Built for autonom",
-    "id": "OperonAgent/Operon",
-    "language": "Python",
-    "name": "OperonAgent/Operon",
-    "stars": 3,
-    "updated_at": "2026-05-31T12:42:57Z",
-    "url": "https://github.com/OperonAgent/Operon"
-  },
-  {
     "description": "Cloudflare-native multimodal AI playground in one Worker: chat, vision, image gen, TTS, with R2 storage and Access auth.",
     "id": "SkyPhusion/skyphusion-llm-public",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:42:57Z",
     "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
-  },
-  {
-    "description": "The local context engine for AI \u2014 index your disk once, serve grounded context to any cloud or local model without burni",
-    "id": "harf-promo/indexa",
-    "language": "Rust",
-    "name": "harf-promo/indexa",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:42:49Z",
-    "url": "https://github.com/harf-promo/indexa"
-  },
-  {
-    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 12 tools with ToolAnnotations",
-    "id": "EtanHey/brainlayer",
-    "language": "Python",
-    "name": "EtanHey/brainlayer",
-    "stars": 7,
-    "updated_at": "2026-05-31T12:42:43Z",
-    "url": "https://github.com/EtanHey/brainlayer"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:42:35Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
-    "id": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "language": "Python",
-    "name": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:42:23Z",
-    "url": "https://github.com/Hypertextsparrowhawk820/ask-your-annual-report"
-  },
-  {
-    "description": "Clouisle is an enterprise-grade knowledge base and intelligent AI Agent platform built on a distributed architecture. It",
-    "id": "clouisle/Clouisle",
-    "language": "TypeScript",
-    "name": "clouisle/Clouisle",
-    "stars": 5,
-    "updated_at": "2026-05-31T12:42:19Z",
-    "url": "https://github.com/clouisle/Clouisle"
   }
 ]
