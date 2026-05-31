@@ -1,5 +1,149 @@
 [
   {
+    "description": "Simple html ollama chatbot that is easy to install. Simply copy the html file on your computer and run it.",
+    "id": "crossin124A/Simple-Ollama-Chatbot",
+    "language": "HTML",
+    "name": "crossin124A/Simple-Ollama-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-05-31T21:00:03Z",
+    "url": "https://github.com/crossin124A/Simple-Ollama-Chatbot"
+  },
+  {
+    "description": "A Generative AI-based framework for automating and optimizing employee onboarding processes using NLP and reinforcement ",
+    "id": "yenibilgisayarci/employee-onboarding-ai",
+    "language": "\u2014",
+    "name": "yenibilgisayarci/employee-onboarding-ai",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:59:50Z",
+    "url": "https://github.com/yenibilgisayarci/employee-onboarding-ai"
+  },
+  {
+    "description": "This is a golden path (opinionated shortcut) to explore AI from local homelab to PROD using OSS for technological indepe",
+    "id": "cryptokid980/homelab-2-prod-ai-golden-path",
+    "language": "\u2014",
+    "name": "cryptokid980/homelab-2-prod-ai-golden-path",
+    "stars": 5,
+    "updated_at": "2026-05-31T20:59:34Z",
+    "url": "https://github.com/cryptokid980/homelab-2-prod-ai-golden-path"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "PowerShell",
+    "name": "alex-place/lantern-os",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:59:29Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Open source, local first AI medical scribe for desktop and web.",
+    "id": "bloodworks-io/phlox",
+    "language": "JavaScript",
+    "name": "bloodworks-io/phlox",
+    "stars": 82,
+    "updated_at": "2026-05-31T20:59:27Z",
+    "url": "https://github.com/bloodworks-io/phlox"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 272,
+    "updated_at": "2026-05-31T20:59:02Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Experimenting with Pinecone as vector data continues to take center stage in AI-native systems. The purpose of this proj",
+    "id": "Kauxtubh/pinecone",
+    "language": "Python",
+    "name": "Kauxtubh/pinecone",
+    "stars": 3,
+    "updated_at": "2026-05-31T20:58:53Z",
+    "url": "https://github.com/Kauxtubh/pinecone"
+  },
+  {
+    "description": "AI/RAG powered job posting and CV analysis",
+    "id": "evokateur/cv-joint",
+    "language": "Python",
+    "name": "evokateur/cv-joint",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:58:46Z",
+    "url": "https://github.com/evokateur/cv-joint"
+  },
+  {
+    "description": "AI agent that helps users discover and get personalized workout recommendations.",
+    "id": "ayoub637/backend-api-fitflow",
+    "language": "TypeScript",
+    "name": "ayoub637/backend-api-fitflow",
+    "stars": 2,
+    "updated_at": "2026-05-31T20:58:05Z",
+    "url": "https://github.com/ayoub637/backend-api-fitflow"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 87,
+    "updated_at": "2026-05-31T20:58:01Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Photography, design & AI art portfolio by \u0141ukasz Grochal",
+    "id": "LucasGraphic/lucasgraphic",
+    "language": "\u2014",
+    "name": "LucasGraphic/lucasgraphic",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:58:00Z",
+    "url": "https://github.com/LucasGraphic/lucasgraphic"
+  },
+  {
+    "description": "A Python library for generating high-quality question-answer pairs from PDF, DOCX, MD, and TXT files",
+    "id": "Bazinga23451/semantic-qa-gen",
+    "language": "Python",
+    "name": "Bazinga23451/semantic-qa-gen",
+    "stars": 2,
+    "updated_at": "2026-05-31T20:57:44Z",
+    "url": "https://github.com/Bazinga23451/semantic-qa-gen"
+  },
+  {
+    "description": "This repo shows how foundational model hallucinates and how we can fix such hallucinations using fine-tuning them",
+    "id": "rafay123321/embedding-hallucinations",
+    "language": "Python",
+    "name": "rafay123321/embedding-hallucinations",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:57:24Z",
+    "url": "https://github.com/rafay123321/embedding-hallucinations"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:57:01Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3188,
+    "updated_at": "2026-05-31T20:56:57Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T20:56:36Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A system that combines Retrieval-Augmented Generation (RAG), the Claude Sonet 3.5 LLM, and the Pathway framework to anal",
     "id": "Dono1901/RAG-LLM-using-AI-Pipeline-with-streamlit-interface",
     "language": "Python",
@@ -72,13 +216,13 @@
     "url": "https://github.com/mishodzuliashvili/cc-mem"
   },
   {
-    "description": "Open source, local first AI medical scribe for desktop and web.",
-    "id": "bloodworks-io/phlox",
-    "language": "JavaScript",
-    "name": "bloodworks-io/phlox",
-    "stars": 82,
-    "updated_at": "2026-05-31T20:54:33Z",
-    "url": "https://github.com/bloodworks-io/phlox"
+    "description": "Production RAG engine in Java/Python. Hand-rolled HNSW vector index, BM25+dense hybrid retrieval with RRF fusion, LRU ca",
+    "id": "sameer-sde/vektr",
+    "language": "Java",
+    "name": "sameer-sde/vektr",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:54:32Z",
+    "url": "https://github.com/sameer-sde/vektr"
   },
   {
     "description": "Self-hosted memory layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP / CLI, evid",
@@ -115,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:51:35Z",
     "url": "https://github.com/harf-promo/indexa"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3188,
-    "updated_at": "2026-05-31T20:51:21Z",
-    "url": "https://github.com/neomjs/neo"
   },
   {
     "description": "Pipeline de ingest\u00e3o e busca sem\u00e2ntica de documentos para RAG \u2014 com rate limiting, circuit breaker e fila  resiliente.",
@@ -189,15 +324,6 @@
     "url": "https://github.com/your-papa/obsidian-Smart2Brain"
   },
   {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "PowerShell",
-    "name": "alex-place/lantern-os",
-    "stars": 1,
-    "updated_at": "2026-05-31T20:53:09Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -205,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "VibeCoded Tools - Orchestrator: improve your Claude Code!",
@@ -275,7 +392,7 @@
     "language": "Python",
     "name": "sabihusman/job-assist",
     "stars": 0,
-    "updated_at": "2026-05-31T20:41:11Z",
+    "updated_at": "2026-05-31T20:59:57Z",
     "url": "https://github.com/sabihusman/job-assist"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T20:34:25Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:31:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:31:21Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "AlcoaBase (ALC) is a 100% local, open-source Document & Knowledge Management System. It unites ALCOA+ data integrity wit",
-    "id": "hapi-ds/ALC",
-    "language": "Python",
-    "name": "hapi-ds/ALC",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:31:11Z",
-    "url": "https://github.com/hapi-ds/ALC"
-  },
-  {
-    "description": "Production-grade alternative-data hedge fund Telegram bot. 3 systemd services, 6 cron agents, 15 NL intents, 5 hallucina",
-    "id": "YuhanWang03/ai-hedge-fund-altdata",
-    "language": "Python",
-    "name": "YuhanWang03/ai-hedge-fund-altdata",
-    "stars": 1,
-    "updated_at": "2026-05-31T20:31:08Z",
-    "url": "https://github.com/YuhanWang03/ai-hedge-fund-altdata"
-  },
-  {
-    "description": "Bilingual (EN/AR) Islamic finance RAG service \u2014 FastAPI backend for TadqeeqAI v4",
-    "id": "M-AlAteegi/tadqeeq-backend",
-    "language": "Python",
-    "name": "M-AlAteegi/tadqeeq-backend",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:30:42Z",
-    "url": "https://github.com/M-AlAteegi/tadqeeq-backend"
-  },
-  {
-    "description": "Deux agents IA internes d\u00e9ploy\u00e9s sur Mac mini M4 \u2014 Dev Senior (code, architecture, review) & Business Manager (SEO, mark",
-    "id": "SeydinaBANE/Dev-Senior",
-    "language": "Python",
-    "name": "SeydinaBANE/Dev-Senior",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:29:22Z",
-    "url": "https://github.com/SeydinaBANE/Dev-Senior"
-  },
-  {
-    "description": "The most advanced Obsidian MCP \u2014 long-term memory for AI agents. Hybrid retrieval (BM25 + ML + BGE rerank, RRF-fused), H",
-    "id": "oomkapwn/enquire-mcp",
-    "language": "TypeScript",
-    "name": "oomkapwn/enquire-mcp",
-    "stars": 8,
-    "updated_at": "2026-05-31T20:28:26Z",
-    "url": "https://github.com/oomkapwn/enquire-mcp"
-  },
-  {
-    "description": "Cloudflare-native multimodal AI playground in one Worker: chat, vision, image gen, TTS, with R2 storage and Access auth.",
-    "id": "SkyPhusion/skyphusion-llm-public",
-    "language": "TypeScript",
-    "name": "SkyPhusion/skyphusion-llm-public",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:27:06Z",
-    "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
-  },
-  {
-    "description": "Simple TypeScript library with RAG primitives for embeddings, chunking, storage, and semantic retrieval.",
-    "id": "marvinified/voctar",
-    "language": "TypeScript",
-    "name": "marvinified/voctar",
-    "stars": 6,
-    "updated_at": "2026-05-31T20:26:13Z",
-    "url": "https://github.com/marvinified/voctar"
-  },
-  {
-    "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation",
-    "id": "guaardvark/guaardvark",
-    "language": "Python",
-    "name": "guaardvark/guaardvark",
-    "stars": 45,
-    "updated_at": "2026-05-31T20:26:05Z",
-    "url": "https://github.com/guaardvark/guaardvark"
-  },
-  {
-    "description": "A customizable Python CLI tool for interacting with local Language Models, ensuring data privacy while providing convers",
-    "id": "jeromeboivin/ollama-chat",
-    "language": "Python",
-    "name": "jeromeboivin/ollama-chat",
-    "stars": 22,
-    "updated_at": "2026-05-31T20:24:55Z",
-    "url": "https://github.com/jeromeboivin/ollama-chat"
-  },
-  {
-    "description": "Production-style RAG backend with FastAPI, PostgreSQL, Redis, Qdrant, Docker, OpenAI, hybrid retrieval, file upload, and",
-    "id": "mohamad-assaad/smart-rag-platform",
-    "language": "Python",
-    "name": "mohamad-assaad/smart-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-05-31T20:23:34Z",
-    "url": "https://github.com/mohamad-assaad/smart-rag-platform"
-  },
-  {
-    "description": "Pipeline RAG em Python para ingest\u00e3o de documentos (PDF, DOCX, XLSX, PPTX, HTML) com chunking e indexa\u00e7\u00e3o vetorial no Ch",
-    "id": "S0gitare/knowledge-indexer",
-    "language": "Python",
-    "name": "S0gitare/knowledge-indexer",
-    "stars": 1,
-    "updated_at": "2026-05-31T20:27:58Z",
-    "url": "https://github.com/S0gitare/knowledge-indexer"
   }
 ]
