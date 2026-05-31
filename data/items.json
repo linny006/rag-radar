@@ -1,21 +1,93 @@
 [
   {
+    "description": "A Retrieval-Augmented Generation (RAG) based AI assistant for answering questions using video transcript chunks, featuri",
+    "id": "wahibkhannn/RAG_Based_AI_Course_Assistant",
+    "language": "Python",
+    "name": "wahibkhannn/RAG_Based_AI_Course_Assistant",
+    "stars": 1,
+    "updated_at": "2026-05-31T20:00:01Z",
+    "url": "https://github.com/wahibkhannn/RAG_Based_AI_Course_Assistant"
+  },
+  {
+    "description": "Cloudflare-native multimodal AI playground in one Worker: chat, vision, image gen, TTS, with R2 storage and Access auth.",
+    "id": "SkyPhusion/skyphusion-llm-public",
+    "language": "TypeScript",
+    "name": "SkyPhusion/skyphusion-llm-public",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:59:59Z",
+    "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
+  },
+  {
     "description": "Local-first Agentic Memory Layer Framework for MCP Agents and Multiple Computers \u2022 Over 60 tools \u2022 Hybrid search (FTS5 +",
     "id": "skynetcmd/m3-memory",
     "language": "Python",
     "name": "skynetcmd/m3-memory",
     "stars": 12,
-    "updated_at": "2026-05-31T19:54:52Z",
+    "updated_at": "2026-05-31T19:58:50Z",
     "url": "https://github.com/skynetcmd/m3-memory"
+  },
+  {
+    "description": "Rosmarium \u2014 open-source, AI-native headless content repository",
+    "id": "orchestrator-dev/rosmarium",
+    "language": "TypeScript",
+    "name": "orchestrator-dev/rosmarium",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:58:21Z",
+    "url": "https://github.com/orchestrator-dev/rosmarium"
+  },
+  {
+    "description": "AI-Assisted Support Ticket Routing Platform \u2022 Spring Boot, Kafka, Vertex AI, RAG",
+    "id": "avisheksingha/ai-support-system",
+    "language": "Java",
+    "name": "avisheksingha/ai-support-system",
+    "stars": 3,
+    "updated_at": "2026-05-31T19:57:28Z",
+    "url": "https://github.com/avisheksingha/ai-support-system"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6934,
+    "updated_at": "2026-05-31T19:57:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Context Engineering: Building Consistent, Accurate, Predictable AI Systems",
+    "id": "bonigarcia/context-engineering",
+    "language": "Python",
+    "name": "bonigarcia/context-engineering",
+    "stars": 65,
+    "updated_at": "2026-05-31T19:56:33Z",
+    "url": "https://github.com/bonigarcia/context-engineering"
   },
   {
     "description": "Pipeline RAG em Python para ingest\u00e3o de documentos (PDF, DOCX, XLSX, PPTX, HTML) com chunking e indexa\u00e7\u00e3o vetorial no Ch",
     "id": "S0gitare/knowledge-indexer",
     "language": "Python",
     "name": "S0gitare/knowledge-indexer",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:54:44Z",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:56:32Z",
     "url": "https://github.com/S0gitare/knowledge-indexer"
+  },
+  {
+    "description": "Self-hosted, zero-trust RAG with role-based access control enforced at the database level.",
+    "id": "iknowkungfubar/ring-fenced-rag",
+    "language": "Python",
+    "name": "iknowkungfubar/ring-fenced-rag",
+    "stars": 2,
+    "updated_at": "2026-05-31T19:58:39Z",
+    "url": "https://github.com/iknowkungfubar/ring-fenced-rag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:55:15Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-based AI documentation assistant \u2014 ingest any PDF or URL and query it with semantic search, source citations, and ha",
@@ -40,18 +112,9 @@
     "id": "mayflower/pgturbohybrid",
     "language": "C",
     "name": "mayflower/pgturbohybrid",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-05-31T19:54:17Z",
     "url": "https://github.com/mayflower/pgturbohybrid"
-  },
-  {
-    "description": "Cloudflare-native multimodal AI playground in one Worker: chat, vision, image gen, TTS, with R2 storage and Access auth.",
-    "id": "SkyPhusion/skyphusion-llm-public",
-    "language": "TypeScript",
-    "name": "SkyPhusion/skyphusion-llm-public",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:54:14Z",
-    "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
   },
   {
     "description": "Research Engine is an LLM-driven local-first and privacy-focused deep research application.",
@@ -59,7 +122,7 @@
     "language": "C#",
     "name": "EAValov/research-engine",
     "stars": 0,
-    "updated_at": "2026-05-31T19:53:58Z",
+    "updated_at": "2026-05-31T19:55:37Z",
     "url": "https://github.com/EAValov/research-engine"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4315,
-    "updated_at": "2026-05-31T19:53:49Z",
+    "updated_at": "2026-05-31T19:55:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -76,7 +139,7 @@
     "id": "gefsikatsinelou/MetaSearchMCP",
     "language": "Python",
     "name": "gefsikatsinelou/MetaSearchMCP",
-    "stars": 44,
+    "stars": 45,
     "updated_at": "2026-05-31T19:53:21Z",
     "url": "https://github.com/gefsikatsinelou/MetaSearchMCP"
   },
@@ -85,9 +148,18 @@
     "id": "shreyasshelar/AegisPay",
     "language": "Java",
     "name": "shreyasshelar/AegisPay",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:53:18Z",
     "url": "https://github.com/shreyasshelar/AegisPay"
+  },
+  {
+    "description": "",
+    "id": "Ritikesh11/secure-rag-assistant",
+    "language": "Python",
+    "name": "Ritikesh11/secure-rag-assistant",
+    "stars": 3,
+    "updated_at": "2026-05-31T19:52:48Z",
+    "url": "https://github.com/Ritikesh11/secure-rag-assistant"
   },
   {
     "description": "\uc2a4\ud3ec\uce20 \uacfc\ud559 \ub17c\ubb38 RAG \uae30\ubc18 \uac1c\uc778 \ub9de\ucda4\ud615 \uc6b4\ub3d9 \ub8e8\ud2f4 \uc0dd\uc131 \uc571",
@@ -108,20 +180,11 @@
     "url": "https://github.com/xyjk0511/codex-services-portfolio"
   },
   {
-    "description": "Context Engineering: Building Consistent, Accurate, Predictable AI Systems",
-    "id": "bonigarcia/context-engineering",
-    "language": "Python",
-    "name": "bonigarcia/context-engineering",
-    "stars": 64,
-    "updated_at": "2026-05-31T19:51:58Z",
-    "url": "https://github.com/bonigarcia/context-engineering"
-  },
-  {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
     "id": "GoodbyePlanet/semcode",
     "language": "Python",
     "name": "GoodbyePlanet/semcode",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:50:04Z",
     "url": "https://github.com/GoodbyePlanet/semcode"
   },
@@ -135,21 +198,12 @@
     "url": "https://github.com/Amani-shikh-Alashra/NutriOS"
   },
   {
-    "description": "AI-Assisted Support Ticket Routing Platform \u2022 Spring Boot, Kafka, Vertex AI, RAG",
-    "id": "avisheksingha/ai-support-system",
-    "language": "Java",
-    "name": "avisheksingha/ai-support-system",
-    "stars": 2,
-    "updated_at": "2026-05-31T19:48:25Z",
-    "url": "https://github.com/avisheksingha/ai-support-system"
-  },
-  {
     "description": "Nextcloud MCP Server",
     "id": "cbcoutinho/nextcloud-mcp-server",
     "language": "Python",
     "name": "cbcoutinho/nextcloud-mcp-server",
     "stars": 246,
-    "updated_at": "2026-05-31T19:48:14Z",
+    "updated_at": "2026-05-31T19:56:21Z",
     "url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
   },
   {
@@ -175,7 +229,7 @@
     "id": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
     "language": "TypeScript",
     "name": "hoangsonww/EstateWise-Chapel-Hill-Chatbot",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-05-31T19:45:25Z",
     "url": "https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot"
   },
@@ -189,20 +243,11 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-grade alternative-data hedge fund Telegram bot. 3 systemd services, 6 cron agents, 15 NL intents, 5 hallucina",
     "id": "YuhanWang03/ai-hedge-fund-altdata",
     "language": "Python",
     "name": "YuhanWang03/ai-hedge-fund-altdata",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:45:05Z",
     "url": "https://github.com/YuhanWang03/ai-hedge-fund-altdata"
   },
@@ -220,7 +265,7 @@
     "id": "nram-ai/nram",
     "language": "Go",
     "name": "nram-ai/nram",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-05-31T19:44:46Z",
     "url": "https://github.com/nram-ai/nram"
   },
@@ -283,9 +328,18 @@
     "id": "120th-westgermany829/agentic-ai-system-course",
     "language": "Shell",
     "name": "120th-westgermany829/agentic-ai-system-course",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:40:29Z",
     "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
+  },
+  {
+    "description": "Production-grade AI research platform: multi-provider LLMs, hybrid RAG, GPU acceleration, evaluation harness, and CI qua",
+    "id": "JAGHDHEEP/research-buddy-nextgen",
+    "language": "Python",
+    "name": "JAGHDHEEP/research-buddy-nextgen",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:40:09Z",
+    "url": "https://github.com/JAGHDHEEP/research-buddy-nextgen"
   },
   {
     "description": "Convert PDF documents to Markdown using local VLM inference services with this single Go binary.",
@@ -306,20 +360,11 @@
     "url": "https://github.com/Territanned15/Claude_zh-CN_LanguagePack"
   },
   {
-    "description": "Production-grade AI research platform: multi-provider LLMs, hybrid RAG, GPU acceleration, evaluation harness, and CI qua",
-    "id": "JAGHDHEEP/research-buddy-nextgen",
-    "language": "Python",
-    "name": "JAGHDHEEP/research-buddy-nextgen",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:40:09Z",
-    "url": "https://github.com/JAGHDHEEP/research-buddy-nextgen"
-  },
-  {
     "description": "Convert methodology books from Anna's Archive into Claude Code skills using the Model Context Protocol.",
     "id": "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill",
     "language": "TypeScript",
     "name": "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:39:27Z",
     "url": "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
   },
@@ -328,7 +373,7 @@
     "id": "firefly-operationOS/flycanon",
     "language": "Python",
     "name": "firefly-operationOS/flycanon",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:39:19Z",
     "url": "https://github.com/firefly-operationOS/flycanon"
   },
@@ -346,7 +391,7 @@
     "id": "yelenaunstimulating676/NeuralForge",
     "language": "Python",
     "name": "yelenaunstimulating676/NeuralForge",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:39:09Z",
     "url": "https://github.com/yelenaunstimulating676/NeuralForge"
   },
@@ -356,7 +401,7 @@
     "language": "Go",
     "name": "felixgeelhaar/mnemos",
     "stars": 1,
-    "updated_at": "2026-05-31T19:39:03Z",
+    "updated_at": "2026-05-31T19:59:21Z",
     "url": "https://github.com/felixgeelhaar/mnemos"
   },
   {
@@ -382,7 +427,7 @@
     "id": "terraform-ibm-modules/stack-ibm-retrieval-augmented-generation",
     "language": "Go",
     "name": "terraform-ibm-modules/stack-ibm-retrieval-augmented-generation",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-05-31T19:38:24Z",
     "url": "https://github.com/terraform-ibm-modules/stack-ibm-retrieval-augmented-generation"
   },
@@ -391,7 +436,7 @@
     "id": "Detective-XH/DocGraph",
     "language": "Go",
     "name": "Detective-XH/DocGraph",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-31T19:38:19Z",
     "url": "https://github.com/Detective-XH/DocGraph"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:38:17Z",
     "url": "https://github.com/arelfruitful261/PersonaLingo"
-  },
-  {
-    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
-    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "language": "TypeScript",
-    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:38:17Z",
-    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Mirror Supabase project metadata and data into local SQLite for fast search, inspection, and read-only SQL queries.",
-    "id": "agathetec5068/supacrawl",
-    "language": "Go",
-    "name": "agathetec5068/supacrawl",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:38:16Z",
-    "url": "https://github.com/agathetec5068/supacrawl"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:38:10Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Deploy a web-based chat interface for Kimi K2.6 using a Docker container on Hugging Face.",
-    "id": "Josiahxix957/1.0claude-kimi-cloud-workspace",
-    "language": "\u2014",
-    "name": "Josiahxix957/1.0claude-kimi-cloud-workspace",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:38:01Z",
-    "url": "https://github.com/Josiahxix957/1.0claude-kimi-cloud-workspace"
-  },
-  {
-    "description": "A full-stack AI-Powered Document Learning Platform",
-    "id": "Hikmahx/QuizMe",
-    "language": "TypeScript",
-    "name": "Hikmahx/QuizMe",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:37:25Z",
-    "url": "https://github.com/Hikmahx/QuizMe"
   }
 ]
