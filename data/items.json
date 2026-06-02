@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T06:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production-grade event-driven fintech platform \u2014 10 microservices, Saga + CQRS, Kafka, AWS EKS, GitOps, AI fraud copilot",
+    "id": "shreyasshelar/AegisPay",
+    "language": "Java",
+    "name": "shreyasshelar/AegisPay",
+    "stars": 1,
+    "updated_at": "2026-06-02T06:45:27Z",
+    "url": "https://github.com/shreyasshelar/AegisPay"
+  },
+  {
+    "description": "Local RAG pipeline for JW.org publications \u2014 EPUB extraction, semantic chunking, vector embeddings (ChromaDB), and inter",
+    "id": "camster91/jw-rag-pipeline",
+    "language": "Python",
+    "name": "camster91/jw-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-02T06:45:21Z",
+    "url": "https://github.com/camster91/jw-rag-pipeline"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T06:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "the memory layer of your codebase. Knows the WHY, the WHAT, the WHERE-IT-BREAKS.",
     "id": "patsa2561-art/mneme-ai",
     "language": "TypeScript",
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 143476,
-    "updated_at": "2026-06-02T06:41:49Z",
+    "updated_at": "2026-06-02T06:46:16Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T06:33:37Z",
     "url": "https://github.com/Unremedied-panhandler7820/geo-whitepaper"
-  },
-  {
-    "description": "Build a production-ready blog system with a high-performance Go backend, React frontend, and clean architecture.",
-    "id": "drillingmuduplifting7389/Solace",
-    "language": "\u2014",
-    "name": "drillingmuduplifting7389/Solace",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:33:27Z",
-    "url": "https://github.com/drillingmuduplifting7389/Solace"
-  },
-  {
-    "description": "AI-powered Indian legal intelligence platform \u2014 multi-agent LangGraph system with hybrid RAG, 6-layer memory architectur",
-    "id": "anantha037/lexshield-ai",
-    "language": "Python",
-    "name": "anantha037/lexshield-ai",
-    "stars": 2,
-    "updated_at": "2026-06-02T06:33:27Z",
-    "url": "https://github.com/anantha037/lexshield-ai"
-  },
-  {
-    "description": "Download public Epstein and Maxwell case documents, court filings, and FBI datasets using verified checksums from offici",
-    "id": "Nitosd1824/epstein-files",
-    "language": "Python",
-    "name": "Nitosd1824/epstein-files",
-    "stars": 1,
-    "updated_at": "2026-06-02T06:33:20Z",
-    "url": "https://github.com/Nitosd1824/epstein-files"
-  },
-  {
-    "description": "Run open LLMs locally on Apple Silicon using Apple MLX for private, offline chat.",
-    "id": "More-controlrod669/Ka1zen",
-    "language": "\u2014",
-    "name": "More-controlrod669/Ka1zen",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:33:15Z",
-    "url": "https://github.com/More-controlrod669/Ka1zen"
   }
 ]
