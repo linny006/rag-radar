@@ -1,5 +1,77 @@
 [
   {
+    "description": "Program that lets you ask questions about your documents, audio, and video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 367,
+    "updated_at": "2026-06-02T22:03:17Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "AI agent orchestration platform with RAG, LangGraph workflows, observability, and evaluation",
+    "id": "kernelpanic09/agents-platform",
+    "language": "JavaScript",
+    "name": "kernelpanic09/agents-platform",
+    "stars": 1,
+    "updated_at": "2026-06-02T22:03:09Z",
+    "url": "https://github.com/kernelpanic09/agents-platform"
+  },
+  {
+    "description": "AI-powered ERP agent for Odoo. Features a 21-node LangGraph backend with safe CRUD confirmation gates, SSE streaming, an",
+    "id": "martinpercu/Odoo-AI-Agent",
+    "language": "TypeScript",
+    "name": "martinpercu/Odoo-AI-Agent",
+    "stars": 1,
+    "updated_at": "2026-06-02T22:02:42Z",
+    "url": "https://github.com/martinpercu/Odoo-AI-Agent"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:02:07Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 29977,
+    "updated_at": "2026-06-02T22:03:05Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 34,
+    "updated_at": "2026-06-02T22:01:39Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Unit tests for AI agents that browse the web.",
     "id": "Vinaya-Sharma/AgentRoyale",
     "language": "Python",
@@ -108,15 +180,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 367,
-    "updated_at": "2026-06-02T21:55:03Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
     "id": "Manuelgr928/rusty-beaker",
     "language": "HTML",
@@ -144,15 +207,6 @@
     "url": "https://github.com/grassman23gith/athena-nexus"
   },
   {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 29977,
-    "updated_at": "2026-06-02T21:58:23Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T21:52:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI agent orchestration platform with RAG, LangGraph workflows, observability, and evaluation",
-    "id": "kernelpanic09/agents-platform",
-    "language": "JavaScript",
-    "name": "kernelpanic09/agents-platform",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:52:28Z",
-    "url": "https://github.com/kernelpanic09/agents-platform"
   },
   {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
@@ -297,24 +342,6 @@
     "url": "https://github.com/AGRubicon/N8N-AI-NOTES-AUTOMATION-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
     "id": "alex-place/lantern-os",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T21:37:28Z",
     "url": "https://github.com/LucasGraphic/nonsequitur"
-  },
-  {
-    "description": "Production-grade LLMOps platform for RAG-based AI assistants: LLM gateway, eval gates, observability, cost controls, fal",
-    "id": "narek-mosisian/llm-reliability-platform",
-    "language": "\u2014",
-    "name": "narek-mosisian/llm-reliability-platform",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:36:50Z",
-    "url": "https://github.com/narek-mosisian/llm-reliability-platform"
-  },
-  {
-    "description": "Local-first GenAI lab with a React frontend and Spring Boot backend, supporting Ollama, Amazon Bedrock, Hugging Face, RA",
-    "id": "jrodolfo/local-genai-lab",
-    "language": "Java",
-    "name": "jrodolfo/local-genai-lab",
-    "stars": 5,
-    "updated_at": "2026-06-02T21:36:28Z",
-    "url": "https://github.com/jrodolfo/local-genai-lab"
-  },
-  {
-    "description": "",
-    "id": "agentic-devops/pipelineandprompts-labs",
-    "language": "Python",
-    "name": "agentic-devops/pipelineandprompts-labs",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:35:29Z",
-    "url": "https://github.com/agentic-devops/pipelineandprompts-labs"
   }
 ]
