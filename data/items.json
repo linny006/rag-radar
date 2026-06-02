@@ -1,11 +1,92 @@
 [
   {
+    "description": "Go-based MCP retrieval service for RAG: semantic search across docs and code using Ollama and Chroma.",
+    "id": "andrepester/rag-search-mcp",
+    "language": "Go",
+    "name": "andrepester/rag-search-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:14:36Z",
+    "url": "https://github.com/andrepester/rag-search-mcp"
+  },
+  {
+    "description": "Cloudflare-native multimodal AI playground in one Worker: chat, vision, image gen, TTS, with R2 storage and Access auth.",
+    "id": "SkyPhusion/skyphusion-llm-public",
+    "language": "TypeScript",
+    "name": "SkyPhusion/skyphusion-llm-public",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:13:23Z",
+    "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3194,
+    "updated_at": "2026-06-02T22:14:54Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Synthetic internal AI agent evaluation lab for grounded retrieval, safety, tool governance, and observability",
+    "id": "rosscyking1115/internal-ai-agent-eval-lab",
+    "language": "Python",
+    "name": "rosscyking1115/internal-ai-agent-eval-lab",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:12:56Z",
+    "url": "https://github.com/rosscyking1115/internal-ai-agent-eval-lab"
+  },
+  {
+    "description": "Local-first GenAI lab with a React frontend and Spring Boot backend, supporting Ollama, Amazon Bedrock, Hugging Face, RA",
+    "id": "jrodolfo/local-genai-lab",
+    "language": "Java",
+    "name": "jrodolfo/local-genai-lab",
+    "stars": 5,
+    "updated_at": "2026-06-02T22:12:54Z",
+    "url": "https://github.com/jrodolfo/local-genai-lab"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 1,
+    "updated_at": "2026-06-02T22:11:53Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
+    "id": "adrianweidig/seafile-ragflow-connector",
+    "language": "Python",
+    "name": "adrianweidig/seafile-ragflow-connector",
+    "stars": 1,
+    "updated_at": "2026-06-02T22:11:46Z",
+    "url": "https://github.com/adrianweidig/seafile-ragflow-connector"
+  },
+  {
+    "description": "Self-hosted, privacy-first Personal AI Knowledge Companion with RAG-powered retrieval, intelligent agents, and extensibl",
+    "id": "Cerid-AI/cerid-ai",
+    "language": "Python",
+    "name": "Cerid-AI/cerid-ai",
+    "stars": 2,
+    "updated_at": "2026-06-02T22:11:08Z",
+    "url": "https://github.com/Cerid-AI/cerid-ai"
+  },
+  {
+    "description": "One library to split them all: Sentence, Code, Docs. Chunk smarter, not harder \u2014 built for LLMs, RAG pipelines, and beyo",
+    "id": "speedyk-005/chunklet-py",
+    "language": "Python",
+    "name": "speedyk-005/chunklet-py",
+    "stars": 78,
+    "updated_at": "2026-06-02T22:12:00Z",
+    "url": "https://github.com/speedyk-005/chunklet-py"
+  },
+  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
     "name": "BBC-Esq/VectorDB-Plugin",
     "stars": 367,
-    "updated_at": "2026-06-02T22:03:17Z",
+    "updated_at": "2026-06-02T22:07:12Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
@@ -14,8 +95,35 @@
     "language": "JavaScript",
     "name": "kernelpanic09/agents-platform",
     "stars": 1,
-    "updated_at": "2026-06-02T22:03:09Z",
+    "updated_at": "2026-06-02T22:06:05Z",
     "url": "https://github.com/kernelpanic09/agents-platform"
+  },
+  {
+    "description": "Local MCP server that gives AI coding agents persistent, searchable memory of your codebase",
+    "id": "TheWinci/mimirs",
+    "language": "TypeScript",
+    "name": "TheWinci/mimirs",
+    "stars": 18,
+    "updated_at": "2026-06-02T22:04:29Z",
+    "url": "https://github.com/TheWinci/mimirs"
+  },
+  {
+    "description": "Portafolio tecnico Full Stack + IA: implementaciones de referencia, ejecutables, de cada tecnologia del stack (FastAPI, ",
+    "id": "rodrigo17312016-jpg/fullstack-ai-portfolio",
+    "language": "Python",
+    "name": "rodrigo17312016-jpg/fullstack-ai-portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:03:35Z",
+    "url": "https://github.com/rodrigo17312016-jpg/fullstack-ai-portfolio"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:03:30Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered ERP agent for Odoo. Features a 21-node LangGraph backend with safe CRUD confirmation gates, SSE streaming, an",
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "martinpercu/Odoo-AI-Agent",
     "stars": 1,
-    "updated_at": "2026-06-02T22:02:42Z",
+    "updated_at": "2026-06-02T22:03:27Z",
     "url": "https://github.com/martinpercu/Odoo-AI-Agent"
   },
   {
@@ -63,15 +171,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-02T22:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Unit tests for AI agents that browse the web.",
     "id": "Vinaya-Sharma/AgentRoyale",
     "language": "Python",
@@ -86,7 +185,7 @@
     "language": "Java",
     "name": "dokimos-dev/dokimos",
     "stars": 36,
-    "updated_at": "2026-06-02T21:58:06Z",
+    "updated_at": "2026-06-02T22:04:47Z",
     "url": "https://github.com/dokimos-dev/dokimos"
   },
   {
@@ -140,17 +239,8 @@
     "language": "Python",
     "name": "ChunkyTortoise/EnterpriseHub",
     "stars": 4,
-    "updated_at": "2026-06-02T21:56:26Z",
+    "updated_at": "2026-06-02T22:13:51Z",
     "url": "https://github.com/ChunkyTortoise/EnterpriseHub"
-  },
-  {
-    "description": "Synthetic internal AI agent evaluation lab for grounded retrieval, safety, tool governance, and observability",
-    "id": "rosscyking1115/internal-ai-agent-eval-lab",
-    "language": "Python",
-    "name": "rosscyking1115/internal-ai-agent-eval-lab",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:56:12Z",
-    "url": "https://github.com/rosscyking1115/internal-ai-agent-eval-lab"
   },
   {
     "description": "Local-first AI job search dashboard that discovers and scores roles, manages candidate evidence, generates truthful appl",
@@ -176,7 +266,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 21812,
-    "updated_at": "2026-06-02T21:56:15Z",
+    "updated_at": "2026-06-02T22:12:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -333,33 +423,6 @@
     "url": "https://github.com/totobusnello/memoria-nox"
   },
   {
-    "description": "Self-hosted AI notes automation lab with Docker Compose, n8n, Wiki.js, Qdrant, Ollama, and local RAG.",
-    "id": "AGRubicon/N8N-AI-NOTES-AUTOMATION-RAG",
-    "language": "Python",
-    "name": "AGRubicon/N8N-AI-NOTES-AUTOMATION-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:45:40Z",
-    "url": "https://github.com/AGRubicon/N8N-AI-NOTES-AUTOMATION-RAG"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:45:14Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3194,
-    "updated_at": "2026-06-02T21:43:14Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "One brain for all your agents",
     "id": "activeloopai/hivemind",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T21:42:01Z",
     "url": "https://github.com/Pra0809/Cold-Email-Generator"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:39:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Single-host ASP.NET Core app for local structured memory management \u2014 Blazor UI, MCP endpoint, hybrid search, and chat/a",
-    "id": "TheMasonX/MemorySmith",
-    "language": "C#",
-    "name": "TheMasonX/MemorySmith",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:39:23Z",
-    "url": "https://github.com/TheMasonX/MemorySmith"
-  },
-  {
-    "description": "Fully local LLM chat + PDF RAG stack on WSL/Docker. Open WebUI chat front-ends Ollama (Gemma/Qwen/Llama/DeepSeek + nomic",
-    "id": "goodacre-manchester/local-llm",
-    "language": "Python",
-    "name": "goodacre-manchester/local-llm",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:39:10Z",
-    "url": "https://github.com/goodacre-manchester/local-llm"
-  },
-  {
-    "description": "Local-first RAG over your own document library (PDFs, papers, books, notes) \u2014 grounded answers with inline citations, an",
-    "id": "ldele/doc_assistant",
-    "language": "Python",
-    "name": "ldele/doc_assistant",
-    "stars": 2,
-    "updated_at": "2026-06-02T21:38:58Z",
-    "url": "https://github.com/ldele/doc_assistant"
-  },
-  {
-    "description": "Ask natural-language questions over your own notes, PDFs, and docs. Hybrid semantic+keyword search, auto-tuned fusion, m",
-    "id": "monahand1023/corpus",
-    "language": "Python",
-    "name": "monahand1023/corpus",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:38:58Z",
-    "url": "https://github.com/monahand1023/corpus"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:38:57Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Self-hosted autonomous research & publishing platform \u2014 local LLMs (Ollama/qwen3.5), hybrid RAG with Qdrant, BM25/RRF fu",
-    "id": "LucasGraphic/nonsequitur",
-    "language": "\u2014",
-    "name": "LucasGraphic/nonsequitur",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:37:28Z",
-    "url": "https://github.com/LucasGraphic/nonsequitur"
   }
 ]
