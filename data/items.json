@@ -1,12 +1,138 @@
 [
   {
-    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 AI \u5e94\u7528\u5de5\u7a0b\u5e08\u5b66\u4e60\u8def\u7ebf\uff1a\u4ece LLM\u3001Prompt\u3001RAG\u3001Agent\u3001MCP \u5230\u4e0a\u7ebf\u90e8\u7f72",
-    "id": "YanpengQi7/ai-application-engineer-roadmap",
-    "language": "\u2014",
-    "name": "YanpengQi7/ai-application-engineer-roadmap",
+    "description": "Find near-duplicate documents before you embed them \u2014 fast lexical (MinHash/LSH) dedup for RAG pipelines.",
+    "id": "egrilmez/JasCan",
+    "language": "Python",
+    "name": "egrilmez/JasCan",
     "stars": 0,
-    "updated_at": "2026-06-03T22:00:17Z",
-    "url": "https://github.com/YanpengQi7/ai-application-engineer-roadmap"
+    "updated_at": "2026-06-03T22:04:32Z",
+    "url": "https://github.com/egrilmez/JasCan"
+  },
+  {
+    "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability.",
+    "id": "ebongard/renfield",
+    "language": "Python",
+    "name": "ebongard/renfield",
+    "stars": 5,
+    "updated_at": "2026-06-03T22:03:41Z",
+    "url": "https://github.com/ebongard/renfield"
+  },
+  {
+    "description": "Production AI SaaS: multi-LLM thesis & document assistant. Next.js, Supabase, payments, rate limiting. Live: tezai.com.t",
+    "id": "Kemalyavas/tez-asistani",
+    "language": "TypeScript",
+    "name": "Kemalyavas/tez-asistani",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:02:54Z",
+    "url": "https://github.com/Kemalyavas/tez-asistani"
+  },
+  {
+    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 34,
+    "updated_at": "2026-06-03T22:02:35Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "RAG-based AI assistant for analyzing scientific papers",
+    "id": "wayniez/Research-paper-Q-A-Assistant",
+    "language": "Jupyter Notebook",
+    "name": "wayniez/Research-paper-Q-A-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:02:20Z",
+    "url": "https://github.com/wayniez/Research-paper-Q-A-Assistant"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 AI \u5e94\u7528\u5de5\u7a0b\u5e08\u5b66\u4e60\u8def\u7ebf\uff1a\u4ece LLM\u3001Prompt\u3001RAG\u3001Agent\u3001MCP \u5230\u4e0a\u7ebf\u90e8\u7f72",
+    "id": "YanpengQi7/awesome-ai-application-engineer",
+    "language": "\u2014",
+    "name": "YanpengQi7/awesome-ai-application-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:02:17Z",
+    "url": "https://github.com/YanpengQi7/awesome-ai-application-engineer"
+  },
+  {
+    "description": "AI study system that plans what to study, when, and how \u2014 multi-agent scheduling, FSRS spaced repetition, and a Claude t",
+    "id": "arshawnarbabi/Cogni",
+    "language": "TypeScript",
+    "name": "arshawnarbabi/Cogni",
+    "stars": 3,
+    "updated_at": "2026-06-03T22:01:55Z",
+    "url": "https://github.com/arshawnarbabi/Cogni"
+  },
+  {
+    "description": "Make AI agents follow instructions reliably and prove what they did. State machine engine with evidence chains, multi-ag",
+    "id": "sensigo-hq/realm",
+    "language": "TypeScript",
+    "name": "sensigo-hq/realm",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:01:53Z",
+    "url": "https://github.com/sensigo-hq/realm"
+  },
+  {
+    "description": "Agentic RAG for Korean RFP intelligence \u2014 extractive grounded-answer pipeline with metadata-first retrieval, comparison-",
+    "id": "hskim-solv/BidMate-DocAgent",
+    "language": "Python",
+    "name": "hskim-solv/BidMate-DocAgent",
+    "stars": 1,
+    "updated_at": "2026-06-03T22:01:46Z",
+    "url": "https://github.com/hskim-solv/BidMate-DocAgent"
+  },
+  {
+    "description": "Local-first RAG for code & docs with Persistent Session-Chat Memory for AI agents \u2014 BM25, vector, GraphRAG and hybrid se",
+    "id": "bxw91/brainpalace",
+    "language": "Python",
+    "name": "bxw91/brainpalace",
+    "stars": 2,
+    "updated_at": "2026-06-03T22:01:36Z",
+    "url": "https://github.com/bxw91/brainpalace"
+  },
+  {
+    "description": "GenesisPod \u2014 open-source, enterprise-grade platform for AI deep research, content production, and multi-agent collaborat",
+    "id": "genesis-agents/GenesisPod",
+    "language": "TypeScript",
+    "name": "genesis-agents/GenesisPod",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:01:33Z",
+    "url": "https://github.com/genesis-agents/GenesisPod"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 29997,
+    "updated_at": "2026-06-03T22:05:00Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-03T22:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 1,
+    "updated_at": "2026-06-03T22:00:23Z",
+    "url": "https://github.com/alex-place/lantern-os"
   },
   {
     "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
@@ -34,24 +160,6 @@
     "stars": 113,
     "updated_at": "2026-06-03T21:58:49Z",
     "url": "https://github.com/ScrapeGraphAI/Scrapegraph-demo"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 29996,
-    "updated_at": "2026-06-03T22:00:03Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Agentic RAG for Korean RFP intelligence \u2014 extractive grounded-answer pipeline with metadata-first retrieval, comparison-",
-    "id": "hskim-solv/BidMate-DocAgent",
-    "language": "Python",
-    "name": "hskim-solv/BidMate-DocAgent",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:58:24Z",
-    "url": "https://github.com/hskim-solv/BidMate-DocAgent"
   },
   {
     "description": "C# SDK for the Tavily API -- AI-powered search and extraction",
@@ -86,7 +194,7 @@
     "language": "TypeScript",
     "name": "SkyPhusion/skyphusion-llm-public",
     "stars": 0,
-    "updated_at": "2026-06-03T21:57:09Z",
+    "updated_at": "2026-06-03T22:00:38Z",
     "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
   },
   {
@@ -104,7 +212,7 @@
     "language": "Python",
     "name": "ui-insight/vandalizer",
     "stars": 7,
-    "updated_at": "2026-06-03T21:55:16Z",
+    "updated_at": "2026-06-03T22:00:31Z",
     "url": "https://github.com/ui-insight/vandalizer"
   },
   {
@@ -189,15 +297,6 @@
     "url": "https://github.com/Juanllenato/plataforma-bienestar-ai"
   },
   {
-    "description": "GenesisPod \u2014 open-source, enterprise-grade platform for AI deep research, content production, and multi-agent collaborat",
-    "id": "genesis-agents/GenesisPod",
-    "language": "TypeScript",
-    "name": "genesis-agents/GenesisPod",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:51:05Z",
-    "url": "https://github.com/genesis-agents/GenesisPod"
-  },
-  {
     "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
     "id": "oigrex666/mcp-context-chronicler",
     "language": "HTML",
@@ -207,15 +306,6 @@
     "url": "https://github.com/oigrex666/mcp-context-chronicler"
   },
   {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:50:16Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
     "description": "Pure Rust PDF library for AI/RAG: structure-aware chunking, no ML, no C deps.",
     "id": "bzsanti/oxidizePdf",
     "language": "Rust",
@@ -223,15 +313,6 @@
     "stars": 173,
     "updated_at": "2026-06-03T21:52:51Z",
     "url": "https://github.com/bzsanti/oxidizePdf"
-  },
-  {
-    "description": "AI study system that plans what to study, when, and how \u2014 multi-agent scheduling, FSRS spaced repetition, and a Claude t",
-    "id": "arshawnarbabi/Cogni",
-    "language": "TypeScript",
-    "name": "arshawnarbabi/Cogni",
-    "stars": 3,
-    "updated_at": "2026-06-03T21:49:05Z",
-    "url": "https://github.com/arshawnarbabi/Cogni"
   },
   {
     "description": "MCP server: embedding pipeline ops + drift detection for production RAG. Assert query encoder matches index manifest; co",
@@ -279,24 +360,6 @@
     "url": "https://github.com/Medalcode/Nitido"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Nextcloud MCP Server",
     "id": "cbcoutinho/nextcloud-mcp-server",
     "language": "Python",
@@ -322,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T21:44:08Z",
     "url": "https://github.com/lemmaoracle/lemma"
-  },
-  {
-    "description": "RAG-based AI assistant for analyzing scientific papers",
-    "id": "wayniez/Research-paper-Q-A-Assistant",
-    "language": "Jupyter Notebook",
-    "name": "wayniez/Research-paper-Q-A-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:43:29Z",
-    "url": "https://github.com/wayniez/Research-paper-Q-A-Assistant"
   },
   {
     "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:34:28Z",
     "url": "https://github.com/vhynze6241/OpenDocu"
-  },
-  {
-    "description": "Auditable multi-agent debate platform that uses AI agents to analyze, critique, and optimize arguments through structure",
-    "id": "asb-42/danwa",
-    "language": "Python",
-    "name": "asb-42/danwa",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:34:10Z",
-    "url": "https://github.com/asb-42/danwa"
-  },
-  {
-    "description": "\ud83e\udde0 Multimodal Agentic RAG system for medical imaging \u2014 UNet-ResNet34 segmentation + BioBERT RAG + LangGraph reasoning \u2192 s",
-    "id": "niyatikapadia/MediVision-AI-Agent",
-    "language": "Python",
-    "name": "niyatikapadia/MediVision-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:33:43Z",
-    "url": "https://github.com/niyatikapadia/MediVision-AI-Agent"
-  },
-  {
-    "description": "Production AI SaaS: multi-LLM thesis & document assistant. Next.js, Supabase, payments, rate limiting. Live: tezai.com.t",
-    "id": "Kemalyavas/tez-asistani",
-    "language": "TypeScript",
-    "name": "Kemalyavas/tez-asistani",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:33:16Z",
-    "url": "https://github.com/Kemalyavas/tez-asistani"
-  },
-  {
-    "description": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/et",
-    "id": "apocas/restai",
-    "language": "Python",
-    "name": "apocas/restai",
-    "stars": 509,
-    "updated_at": "2026-06-03T21:31:02Z",
-    "url": "https://github.com/apocas/restai"
-  },
-  {
-    "description": "Multi-agent AI platform that automates healthcare prior-authorization decisions. RAG-grounded, harness-engineered, obser",
-    "id": "drdgreed/pacca",
-    "language": "Python",
-    "name": "drdgreed/pacca",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:30:29Z",
-    "url": "https://github.com/drdgreed/pacca"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:27:36Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
   }
 ]
