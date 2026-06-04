@@ -1,5 +1,59 @@
 [
   {
+    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
+    "id": "CiphemonJY/LISA_FTM",
+    "language": "Python",
+    "name": "CiphemonJY/LISA_FTM",
+    "stars": 1,
+    "updated_at": "2026-06-04T21:30:03Z",
+    "url": "https://github.com/CiphemonJY/LISA_FTM"
+  },
+  {
+    "description": "Local RAG chatbot over Broadcom / VMware Cloud Foundation techdocs PDFs. Page-accurate citations, any OpenAI-compatible ",
+    "id": "hook-365/vcfbot",
+    "language": "Python",
+    "name": "hook-365/vcfbot",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:29:14Z",
+    "url": "https://github.com/hook-365/vcfbot"
+  },
+  {
+    "description": "\ud83d\ude80 Explore GraphRAG by building customized retrievers and agents using Neo4j for advanced semantic and hybrid search solu",
+    "id": "JessEnterprise/graphRAG-retrievers-agents",
+    "language": "Jupyter Notebook",
+    "name": "JessEnterprise/graphRAG-retrievers-agents",
+    "stars": 1,
+    "updated_at": "2026-06-04T21:29:04Z",
+    "url": "https://github.com/JessEnterprise/graphRAG-retrievers-agents"
+  },
+  {
+    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 65,
+    "updated_at": "2026-06-04T21:28:57Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Local-first memory runtime for AI agents. One command to connect Claude Code, Codex, ChatGPT, MCP workflows, and local a",
+    "id": "michielhdoteth/squish",
+    "language": "TypeScript",
+    "name": "michielhdoteth/squish",
+    "stars": 4,
+    "updated_at": "2026-06-04T21:28:51Z",
+    "url": "https://github.com/michielhdoteth/squish"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T21:28:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multimodal AI playground in one Cloudflare Worker: speak to & hear all 35 chat models (hands-free voice chat), plus imag",
     "id": "SkyPhusion/skyphusion-llm-public",
     "language": "TypeScript",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 30018,
-    "updated_at": "2026-06-04T21:28:00Z",
+    "updated_at": "2026-06-04T21:28:53Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 18,
     "updated_at": "2026-06-04T21:28:02Z",
     "url": "https://github.com/GioiaZheng/msmarco-genqa"
-  },
-  {
-    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
-    "id": "CiphemonJY/LISA_FTM",
-    "language": "Python",
-    "name": "CiphemonJY/LISA_FTM",
-    "stars": 1,
-    "updated_at": "2026-06-04T21:25:02Z",
-    "url": "https://github.com/CiphemonJY/LISA_FTM"
   },
   {
     "description": "Production-grade RAG over docs: hybrid retrieval (BM25 + semantic + RRF + cross-encoder rerank), FastAPI, ChromaDB, and ",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-04T21:20:19Z",
     "url": "https://github.com/Miguelcomemtslk/ai-chaos-awesome"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) application for documents. [WIP]",
-    "id": "arkp1/docu-rag",
-    "language": "Python",
-    "name": "arkp1/docu-rag",
-    "stars": 0,
-    "updated_at": "2026-06-04T21:20:06Z",
-    "url": "https://github.com/arkp1/docu-rag"
-  },
-  {
-    "description": "A fast, modular Rust implementation of GraphRAG (graph-based retrieval-augmented generation) \u2014 runs natively, in a serve",
-    "id": "stevedores-org/oxidizedRAG",
-    "language": "Rust",
-    "name": "stevedores-org/oxidizedRAG",
-    "stars": 0,
-    "updated_at": "2026-06-04T21:19:59Z",
-    "url": "https://github.com/stevedores-org/oxidizedRAG"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 0,
-    "updated_at": "2026-06-04T21:19:53Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents, audio, and video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 367,
-    "updated_at": "2026-06-04T21:19:46Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
-    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "language": "HTML",
-    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-04T21:19:40Z",
-    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
   }
 ]
