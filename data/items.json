@@ -1,5 +1,50 @@
 [
   {
+    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
+    "id": "CiphemonJY/LISA_FTM",
+    "language": "Python",
+    "name": "CiphemonJY/LISA_FTM",
+    "stars": 1,
+    "updated_at": "2026-06-04T17:45:03Z",
+    "url": "https://github.com/CiphemonJY/LISA_FTM"
+  },
+  {
+    "description": "Local-first open-source meeting intelligence and project memory tool for transcripts, protocols, decisions, action items",
+    "id": "Anatoliy-Sysoev/MeetingAgent",
+    "language": "Python",
+    "name": "Anatoliy-Sysoev/MeetingAgent",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:44:43Z",
+    "url": "https://github.com/Anatoliy-Sysoev/MeetingAgent"
+  },
+  {
+    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
+    "id": "phonghhd/EvoNet-AI-Core",
+    "language": "Python",
+    "name": "phonghhd/EvoNet-AI-Core",
+    "stars": 4,
+    "updated_at": "2026-06-04T17:44:24Z",
+    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
+  },
+  {
+    "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
+    "id": "zakky8/TENET",
+    "language": "TypeScript",
+    "name": "zakky8/TENET",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:44:18Z",
+    "url": "https://github.com/zakky8/TENET"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-04T17:44:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Applied AI literature search and source-grounded research synthesis tool",
     "id": "adamfbentley/academic-literature-search",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T17:42:57Z",
     "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
-    "id": "CiphemonJY/LISA_FTM",
-    "language": "Python",
-    "name": "CiphemonJY/LISA_FTM",
-    "stars": 1,
-    "updated_at": "2026-06-04T17:42:03Z",
-    "url": "https://github.com/CiphemonJY/LISA_FTM"
   },
   {
     "description": "Synthetic internal AI agent evaluation lab for grounded retrieval, safety, tool governance, and observability",
@@ -153,15 +189,6 @@
     "url": "https://github.com/SkyPhusion/skyphusion-llm-public"
   },
   {
-    "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
-    "id": "zakky8/TENET",
-    "language": "TypeScript",
-    "name": "zakky8/TENET",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:36:56Z",
-    "url": "https://github.com/zakky8/TENET"
-  },
-  {
     "description": "Tu segundo cerebro para proyectos e investigacion. Asistente de conocimiento local-first sobre n8n + RAG con citas exact",
     "id": "JunTierSS/coworkeria",
     "language": "TypeScript",
@@ -220,7 +247,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 11989,
+    "stars": 11990,
     "updated_at": "2026-06-04T17:35:55Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -229,7 +256,7 @@
     "id": "langchain-ai/langgraph",
     "language": "Python",
     "name": "langchain-ai/langgraph",
-    "stars": 33880,
+    "stars": 33881,
     "updated_at": "2026-06-04T17:35:36Z",
     "url": "https://github.com/langchain-ai/langgraph"
   },
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1052,
-    "updated_at": "2026-06-04T17:34:51Z",
+    "updated_at": "2026-06-04T17:45:14Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 30017,
-    "updated_at": "2026-06-04T17:39:29Z",
+    "updated_at": "2026-06-04T17:44:06Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T17:30:25Z",
     "url": "https://github.com/MarkDanile/MetaEduBase"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Launch-readiness workbench for customer-specific AI website agents: knowledge coverage, grounded answers, content routin",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T17:26:06Z",
     "url": "https://github.com/finktheartist/glyph-brain"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 138498,
-    "updated_at": "2026-06-04T17:25:29Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:25:22Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
