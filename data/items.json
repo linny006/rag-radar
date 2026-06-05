@@ -1,5 +1,68 @@
 [
   {
+    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
+    "id": "CiphemonJY/LISA_FTM",
+    "language": "Python",
+    "name": "CiphemonJY/LISA_FTM",
+    "stars": 1,
+    "updated_at": "2026-06-05T23:45:03Z",
+    "url": "https://github.com/CiphemonJY/LISA_FTM"
+  },
+  {
+    "description": "",
+    "id": "antflydb/antfly",
+    "language": "Zig",
+    "name": "antflydb/antfly",
+    "stars": 384,
+    "updated_at": "2026-06-05T23:44:00Z",
+    "url": "https://github.com/antflydb/antfly"
+  },
+  {
+    "description": "Turn your Obsidian vault into a searchable AI knowledge base \u2014 local LLMs, hybrid RAG, web dashboard, 160+ skills. pip i",
+    "id": "paulholland511/atlas-os",
+    "language": "Python",
+    "name": "paulholland511/atlas-os",
+    "stars": 1,
+    "updated_at": "2026-06-05T23:42:56Z",
+    "url": "https://github.com/paulholland511/atlas-os"
+  },
+  {
+    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
+    "id": "generalbots/generalbots",
+    "language": "Rust",
+    "name": "generalbots/generalbots",
+    "stars": 79,
+    "updated_at": "2026-06-05T23:42:40Z",
+    "url": "https://github.com/generalbots/generalbots"
+  },
+  {
+    "description": "Enterprise Retrieval-Augmented Generation platform: a two-service (ingestion + Q&A) RAG system on Azure OpenAI, AI Searc",
+    "id": "MaanavA26/TocDoc---Enterprise-RAG",
+    "language": "Python",
+    "name": "MaanavA26/TocDoc---Enterprise-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:42:20Z",
+    "url": "https://github.com/MaanavA26/TocDoc---Enterprise-RAG"
+  },
+  {
+    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
+    "id": "bug-ops/zeph",
+    "language": "Rust",
+    "name": "bug-ops/zeph",
+    "stars": 41,
+    "updated_at": "2026-06-05T23:41:38Z",
+    "url": "https://github.com/bug-ops/zeph"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:39:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A Research Cortex. A research companion for Claude. Your library, notes & memory stay on your machine; answers cited fro",
     "id": "SVerITG/Metis_PH",
     "language": "Python",
@@ -41,17 +104,17 @@
     "language": "TypeScript",
     "name": "chatman-media/lead-engine",
     "stars": 3,
-    "updated_at": "2026-06-05T23:37:58Z",
+    "updated_at": "2026-06-05T23:44:35Z",
     "url": "https://github.com/chatman-media/lead-engine"
   },
   {
-    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
-    "id": "CiphemonJY/LISA_FTM",
-    "language": "Python",
-    "name": "CiphemonJY/LISA_FTM",
-    "stars": 1,
-    "updated_at": "2026-06-05T23:35:02Z",
-    "url": "https://github.com/CiphemonJY/LISA_FTM"
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18515,
+    "updated_at": "2026-06-05T23:35:42Z",
+    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Offline-first Seafile to RAGFlow sync orchestrator for Portainer deployments",
@@ -108,21 +171,12 @@
     "url": "https://github.com/Hashevolution/James-RAG-Evol"
   },
   {
-    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
-    "id": "bug-ops/zeph",
-    "language": "Rust",
-    "name": "bug-ops/zeph",
-    "stars": 41,
-    "updated_at": "2026-06-05T23:34:09Z",
-    "url": "https://github.com/bug-ops/zeph"
-  },
-  {
     "description": "Personal knowledge base with hybrid search and read/write access for AI agents",
     "id": "fstamatelopoulos/cerefox",
     "language": "TypeScript",
     "name": "fstamatelopoulos/cerefox",
     "stars": 10,
-    "updated_at": "2026-06-05T23:31:12Z",
+    "updated_at": "2026-06-05T23:39:26Z",
     "url": "https://github.com/fstamatelopoulos/cerefox"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Tlamatini is a self-hosted AI developer assistant that runs entirely on your machine. It combines hybrid RAG retrieval o",
     "id": "XAIHT/Tlamatini",
     "language": "Python",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 30039,
-    "updated_at": "2026-06-05T23:37:09Z",
+    "updated_at": "2026-06-05T23:40:34Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 140208,
     "updated_at": "2026-06-05T23:36:38Z",
     "url": "https://github.com/open-webui/open-webui"
-  },
-  {
-    "description": "Enterprise Retrieval-Augmented Generation platform: a two-service (ingestion + Q&A) RAG system on Azure OpenAI, AI Searc",
-    "id": "MaanavA26/TocDoc---Enterprise-RAG",
-    "language": "Python",
-    "name": "MaanavA26/TocDoc---Enterprise-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:38:14Z",
-    "url": "https://github.com/MaanavA26/TocDoc---Enterprise-RAG"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -346,7 +382,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 14476,
+    "stars": 14478,
     "updated_at": "2026-06-05T23:16:34Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -412,41 +448,5 @@
     "stars": 77,
     "updated_at": "2026-06-05T23:11:56Z",
     "url": "https://github.com/adrianliechti/wingman"
-  },
-  {
-    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
-    "id": "kimsanguine/AI_Human",
-    "language": "Shell",
-    "name": "kimsanguine/AI_Human",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:10:48Z",
-    "url": "https://github.com/kimsanguine/AI_Human"
-  },
-  {
-    "description": "Glean \u2014 AI-powered enterprise work assistant + search",
-    "id": "api-evangelist/glean",
-    "language": "\u2014",
-    "name": "api-evangelist/glean",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:09:18Z",
-    "url": "https://github.com/api-evangelist/glean"
-  },
-  {
-    "description": "Typed, provenance-tracked memory layer for LLM agents: consolidation, supersession, and an audit log that keep retrieval",
-    "id": "axiom-orion/agent-memory-service",
-    "language": "Python",
-    "name": "axiom-orion/agent-memory-service",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:08:34Z",
-    "url": "https://github.com/axiom-orion/agent-memory-service"
-  },
-  {
-    "description": "Flowise is an open-source, low-code visual builder for LangChain-based LLM workflows and AI agents. Built on Node.js and",
-    "id": "api-evangelist/flowise",
-    "language": "\u2014",
-    "name": "api-evangelist/flowise",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:07:46Z",
-    "url": "https://github.com/api-evangelist/flowise"
   }
 ]
