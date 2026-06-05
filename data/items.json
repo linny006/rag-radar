@@ -1,5 +1,104 @@
 [
   {
+    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
+    "id": "CiphemonJY/LISA_FTM",
+    "language": "Python",
+    "name": "CiphemonJY/LISA_FTM",
+    "stars": 1,
+    "updated_at": "2026-06-05T14:45:03Z",
+    "url": "https://github.com/CiphemonJY/LISA_FTM"
+  },
+  {
+    "description": "AI Architecture & Blueprint Generator, turns business problems into safe, simple and maintainable AI architecture bluepr",
+    "id": "saleem07861/solutionpath-ai",
+    "language": "TypeScript",
+    "name": "saleem07861/solutionpath-ai",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:44:48Z",
+    "url": "https://github.com/saleem07861/solutionpath-ai"
+  },
+  {
+    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
+    "id": "phonghhd/EvoNet-AI-Core",
+    "language": "Python",
+    "name": "phonghhd/EvoNet-AI-Core",
+    "stars": 4,
+    "updated_at": "2026-06-05T14:44:31Z",
+    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
+  },
+  {
+    "description": "Local-first document corpus pipeline for grounded AI agents",
+    "id": "andyliszewski/grounding-ai",
+    "language": "Python",
+    "name": "andyliszewski/grounding-ai",
+    "stars": 1,
+    "updated_at": "2026-06-05T14:44:27Z",
+    "url": "https://github.com/andyliszewski/grounding-ai"
+  },
+  {
+    "description": "Decades trivia study app on AWS (Bedrock + Lambda + DynamoDB). Pick a decade, 'all', or 'this week in history'; quiz acr",
+    "id": "illinigirl/decades-trivia",
+    "language": "Python",
+    "name": "illinigirl/decades-trivia",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:44:27Z",
+    "url": "https://github.com/illinigirl/decades-trivia"
+  },
+  {
+    "description": "Enterprise Retrieval-Augmented Generation platform: a two-service (ingestion + Q&A) RAG system on Azure OpenAI, AI Searc",
+    "id": "MaanavA26/TocDoc---Enterprise-RAG",
+    "language": "Python",
+    "name": "MaanavA26/TocDoc---Enterprise-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:44:07Z",
+    "url": "https://github.com/MaanavA26/TocDoc---Enterprise-RAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:44:06Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unlimited context for Ollama \u2014 give any local LLM a billion-token memory. Open-source, local-first context + memory engi",
+    "id": "DBarr3/Unlimited-Context-LLM",
+    "language": "Python",
+    "name": "DBarr3/Unlimited-Context-LLM",
+    "stars": 3,
+    "updated_at": "2026-06-05T14:44:05Z",
+    "url": "https://github.com/DBarr3/Unlimited-Context-LLM"
+  },
+  {
+    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
+    "id": "selmanays/nodrat",
+    "language": "Python",
+    "name": "selmanays/nodrat",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:43:59Z",
+    "url": "https://github.com/selmanays/nodrat"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18513,
+    "updated_at": "2026-06-05T14:43:58Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "RAG-based AI assistant for analyzing scientific papers",
+    "id": "wayniez/Research-paper-Q-A-Assistant",
+    "language": "Jupyter Notebook",
+    "name": "wayniez/Research-paper-Q-A-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:43:42Z",
+    "url": "https://github.com/wayniez/Research-paper-Q-A-Assistant"
+  },
+  {
     "description": "Local MCP server that gives AI coding agents persistent, searchable memory of your codebase",
     "id": "TheWinci/mimirs",
     "language": "TypeScript",
@@ -45,6 +144,15 @@
     "url": "https://github.com/automatiabcn/abs"
   },
   {
+    "description": "\u57fa\u4e8erag\u6587\u6863\u5206\u6790\u52a9\u624b",
+    "id": "xiang1qiao/rag-research-agent",
+    "language": "Python",
+    "name": "xiang1qiao/rag-research-agent",
+    "stars": 1,
+    "updated_at": "2026-06-05T14:42:15Z",
+    "url": "https://github.com/xiang1qiao/rag-research-agent"
+  },
+  {
     "description": "Self-hosted corporate AI assistant: 12 messengers, RAG, monitors, coding tools, RBAC. Python/TS/Go/Rust stack. Privacy-f",
     "id": "ssrjkk/raven",
     "language": "Python",
@@ -54,15 +162,6 @@
     "url": "https://github.com/ssrjkk/raven"
   },
   {
-    "description": "Enterprise Retrieval-Augmented Generation platform: a two-service (ingestion + Q&A) RAG system on Azure OpenAI, AI Searc",
-    "id": "MaanavA26/TocDoc---Enterprise-RAG",
-    "language": "Python",
-    "name": "MaanavA26/TocDoc---Enterprise-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:43:30Z",
-    "url": "https://github.com/MaanavA26/TocDoc---Enterprise-RAG"
-  },
-  {
     "description": "Hand-drawn flashcards on how LLMs work. 19 free sample cards from the 180-card deck.",
     "id": "llmsresearch/llm-flashcards",
     "language": "\u2014",
@@ -70,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-06-05T14:41:34Z",
     "url": "https://github.com/llmsresearch/llm-flashcards"
-  },
-  {
-    "description": "Privacy-preserving federated fine-tuning of clinical LLMs: hospitals train on their own FHIR data with on-device semanti",
-    "id": "CiphemonJY/LISA_FTM",
-    "language": "Python",
-    "name": "CiphemonJY/LISA_FTM",
-    "stars": 1,
-    "updated_at": "2026-06-05T14:41:21Z",
-    "url": "https://github.com/CiphemonJY/LISA_FTM"
   },
   {
     "description": "Auditable multi-agent debate platform that uses AI agents to analyze, critique, and optimize arguments through structure",
@@ -157,7 +247,7 @@
     "id": "tetherto/qvac",
     "language": "TypeScript",
     "name": "tetherto/qvac",
-    "stars": 208,
+    "stars": 209,
     "updated_at": "2026-06-05T14:38:30Z",
     "url": "https://github.com/tetherto/qvac"
   },
@@ -180,13 +270,13 @@
     "url": "https://github.com/tolvi-labs/tolvi"
   },
   {
-    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
-    "id": "selmanays/nodrat",
-    "language": "Python",
-    "name": "selmanays/nodrat",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:43:59Z",
-    "url": "https://github.com/selmanays/nodrat"
+    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
+    "id": "AnalyseDeCircuit/oxideterm",
+    "language": "Rust",
+    "name": "AnalyseDeCircuit/oxideterm",
+    "stars": 779,
+    "updated_at": "2026-06-05T14:36:57Z",
+    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Revornix is an open-source, local-first AI information/markdown workspace. It helps you collect fragmented inputs, turn ",
@@ -252,15 +342,6 @@
     "url": "https://github.com/holzerjm/Bulk2NotebookLM"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18512,
-    "updated_at": "2026-06-05T14:43:58Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "A private, fully-local RAG over your own PDFs: BGE-M3 + embedded Qdrant + a local LLM via Ollama. ~150 lines, nothing le",
     "id": "shoo99/paper-rag",
     "language": "Python",
@@ -279,15 +360,6 @@
     "url": "https://github.com/jrollin/cartog"
   },
   {
-    "description": "RAG-based AI assistant for analyzing scientific papers",
-    "id": "wayniez/Research-paper-Q-A-Assistant",
-    "language": "Jupyter Notebook",
-    "name": "wayniez/Research-paper-Q-A-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:43:42Z",
-    "url": "https://github.com/wayniez/Research-paper-Q-A-Assistant"
-  },
-  {
     "description": "AI study system that plans what to study, when, and how \u2014 multi-agent scheduling, FSRS spaced repetition, and a Claude t",
     "id": "arshawnarbabi/Cogni",
     "language": "TypeScript",
@@ -304,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T14:30:30Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory platform for AI Agents in 6 lines of code",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T14:25:53Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Hands-on labs for building multi-agent apps with Microsoft Agent Framework (Python) and GitHub Copilot CLI, on Microsoft",
-    "id": "junwoojeong100/copilot-cli-agent-framework",
-    "language": "Python",
-    "name": "junwoojeong100/copilot-cli-agent-framework",
-    "stars": 0,
-    "updated_at": "2026-06-05T14:25:40Z",
-    "url": "https://github.com/junwoojeong100/copilot-cli-agent-framework"
-  },
-  {
-    "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
-    "id": "engram-app/Engram",
-    "language": "Elixir",
-    "name": "engram-app/Engram",
-    "stars": 4,
-    "updated_at": "2026-06-05T14:25:46Z",
-    "url": "https://github.com/engram-app/Engram"
-  },
-  {
-    "description": "AKB \u2014 Agent Knowledgebase. Organizational memory for AI agents: vault-scoped docs / tables / files unified by URI graph,",
-    "id": "dnotitia/akb",
-    "language": "Python",
-    "name": "dnotitia/akb",
-    "stars": 45,
-    "updated_at": "2026-06-05T14:25:20Z",
-    "url": "https://github.com/dnotitia/akb"
-  },
-  {
-    "description": "AD Companion Robot Dog with RAG Memory + SLAM Navigation + LLM Dialogue",
-    "id": "cmw-creator/RememberDog",
-    "language": "Python",
-    "name": "cmw-creator/RememberDog",
-    "stars": 7,
-    "updated_at": "2026-06-05T14:25:10Z",
-    "url": "https://github.com/cmw-creator/RememberDog"
-  },
-  {
-    "description": "An end-to-end, production-style Retrieval-Augmented Generation system over the GitLab Handbook with agentic actions, aut",
-    "id": "ingo-stallknecht/enterprise-knowledge-agent",
-    "language": "Python",
-    "name": "ingo-stallknecht/enterprise-knowledge-agent",
-    "stars": 1,
-    "updated_at": "2026-06-05T14:24:11Z",
-    "url": "https://github.com/ingo-stallknecht/enterprise-knowledge-agent"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 21921,
-    "updated_at": "2026-06-05T14:23:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Your First LLM-Wiki Conversation Knowledge Base",
-    "id": "Beever-AI/beever-atlas",
-    "language": "Python",
-    "name": "Beever-AI/beever-atlas",
-    "stars": 373,
-    "updated_at": "2026-06-05T14:22:52Z",
-    "url": "https://github.com/Beever-AI/beever-atlas"
   }
 ]
