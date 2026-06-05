@@ -1,5 +1,122 @@
 [
   {
+    "description": "Extract text, answer questions, and pull structured data from PDFs and scans with local RAG and OCR for German and Engli",
+    "id": "unamerican-bias763/rag-document-intelligence",
+    "language": "Python",
+    "name": "unamerican-bias763/rag-document-intelligence",
+    "stars": 3,
+    "updated_at": "2026-06-05T22:14:53Z",
+    "url": "https://github.com/unamerican-bias763/rag-document-intelligence"
+  },
+  {
+    "description": "Host a self-hosted PDF reader with offline AI chat, local files, and full data control on your own machine",
+    "id": "Noreenf929/NimbusPDF",
+    "language": "Rust",
+    "name": "Noreenf929/NimbusPDF",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:14:49Z",
+    "url": "https://github.com/Noreenf929/NimbusPDF"
+  },
+  {
+    "description": "Track your macOS activity with a local AI assistant that monitors windows, clipboard, and productivity using Ollama and ",
+    "id": "Crucial-spicecake41/context-assistant",
+    "language": "TypeScript",
+    "name": "Crucial-spicecake41/context-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:14:38Z",
+    "url": "https://github.com/Crucial-spicecake41/context-assistant"
+  },
+  {
+    "description": "Build a privacy-first Hinglish AI voice agent that controls your PC, runs on 4GB VRAM, and uses secure signed commands",
+    "id": "Jumpedup-xanthopsia174/CHAARI_2.0",
+    "language": "Python",
+    "name": "Jumpedup-xanthopsia174/CHAARI_2.0",
+    "stars": 1,
+    "updated_at": "2026-06-05T22:14:35Z",
+    "url": "https://github.com/Jumpedup-xanthopsia174/CHAARI_2.0"
+  },
+  {
+    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
+    "id": "Previous-shunt800/claude-code-pet-system-analysis",
+    "language": "\u2014",
+    "name": "Previous-shunt800/claude-code-pet-system-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:14:34Z",
+    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
+  },
+  {
+    "description": "Search and recommend HuggingFace ML models from plain English queries using RAG, fine-tuning, and LLM evaluation",
+    "id": "Keeterete513/llm-model-search-recommendation",
+    "language": "Python",
+    "name": "Keeterete513/llm-model-search-recommendation",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:14:15Z",
+    "url": "https://github.com/Keeterete513/llm-model-search-recommendation"
+  },
+  {
+    "description": "Shift Claude Code\u2019s 5-hour window reset with a scheduled warmup message so you avoid dead time and keep working longer",
+    "id": "educationinsightofficial/claude-warmup",
+    "language": "\u2014",
+    "name": "educationinsightofficial/claude-warmup",
+    "stars": 2,
+    "updated_at": "2026-06-05T22:14:11Z",
+    "url": "https://github.com/educationinsightofficial/claude-warmup"
+  },
+  {
+    "description": "Explore Claude Code CLI architecture and implementation with a clear technical guide from startup flow to advanced query",
+    "id": "ptolemaic-programmemusic151/claude-code-book",
+    "language": "\u2014",
+    "name": "ptolemaic-programmemusic151/claude-code-book",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:14:09Z",
+    "url": "https://github.com/ptolemaic-programmemusic151/claude-code-book"
+  },
+  {
+    "description": "Explore Claude Code source notes for deep architecture analysis, interview prep, and practical insight into a top AI age",
+    "id": "Tdam5942/claude-code-notes",
+    "language": "\u2014",
+    "name": "Tdam5942/claude-code-notes",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:13:59Z",
+    "url": "https://github.com/Tdam5942/claude-code-notes"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:13:56Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build AI software architecture with 6 specialist agents, 15 modes, and parallel planning from idea to infrastructure",
+    "id": "snowbound-jewelorchid364/ArchonAI",
+    "language": "Python",
+    "name": "snowbound-jewelorchid364/ArchonAI",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:13:54Z",
+    "url": "https://github.com/snowbound-jewelorchid364/ArchonAI"
+  },
+  {
+    "description": "Convert anime illustrations into layered 2.5D PSDs for Live2D workflows with depth-based layer splitting and export tool",
+    "id": "Bellpepperknuthamsun280/ComfyUI-See-through",
+    "language": "\u2014",
+    "name": "Bellpepperknuthamsun280/ComfyUI-See-through",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:13:52Z",
+    "url": "https://github.com/Bellpepperknuthamsun280/ComfyUI-See-through"
+  },
+  {
+    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
+    "id": "Defiladeboarfish90/agent-memory",
+    "language": "TypeScript",
+    "name": "Defiladeboarfish90/agent-memory",
+    "stars": 1,
+    "updated_at": "2026-06-05T22:13:52Z",
+    "url": "https://github.com/Defiladeboarfish90/agent-memory"
+  },
+  {
     "description": "Orchestrate TypeScript multi-agent teams with one runTeam() call, zero config, and three runtime dependencies for Node.j",
     "id": "jerseyknapweedaar793/open-multi-agent",
     "language": "TypeScript",
@@ -331,122 +448,5 @@
     "stars": 94,
     "updated_at": "2026-06-05T22:09:38Z",
     "url": "https://github.com/VeriTeknik/pluggedin-app"
-  },
-  {
-    "description": "Generate prompts for VeoScript AI Studio apps with a simple local workflow and Gemini API support",
-    "id": "dape8318/veoscript-prompt-generator",
-    "language": "TypeScript",
-    "name": "dape8318/veoscript-prompt-generator",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:09:33Z",
-    "url": "https://github.com/dape8318/veoscript-prompt-generator"
-  },
-  {
-    "description": "\u672c\u9879\u76ee\u662f\u4e00\u4e2a\u57fa\u4e8e RAG \u7684\u751f\u732a\u5065\u5eb7\u7ba1\u7406\u667a\u6167\u533b\u836f\u7cfb\u7edf\uff0c\u96c6\u6210\u4e86 AI \u517d\u533b\u8bca\u65ad\u3001\u75be\u75c5\u7ba1\u7406\u3001\u836f\u54c1\u7ba1\u7406\u3001\u6587\u7ae0\u8d44\u8baf\u7ba1\u7406\u7b49\u529f\u80fd\u6a21\u5757\uff0c\u65e8\u5728\u901a\u8fc7\u6570\u5b57\u5316\u624b\u6bb5\u63d0\u5347\u751f\u732a\u517b\u6b96\u7684\u533b\u7597\u7ba1\u7406\u6c34\u5e73\u3002\u7cfb\u7edf\u57fa\u4e8e Spring Boot 3 + Spring AI + Mil",
-    "id": "linyshdhhcb/PigHealthSmartMedicine",
-    "language": "Vue",
-    "name": "linyshdhhcb/PigHealthSmartMedicine",
-    "stars": 160,
-    "updated_at": "2026-06-05T22:09:30Z",
-    "url": "https://github.com/linyshdhhcb/PigHealthSmartMedicine"
-  },
-  {
-    "description": "Provide a safe phishing drill platform for security training, host monitoring, and desktop screenshots to assess user aw",
-    "id": "cele9529/LingxiFish",
-    "language": "EJS",
-    "name": "cele9529/LingxiFish",
-    "stars": 1,
-    "updated_at": "2026-06-05T22:09:28Z",
-    "url": "https://github.com/cele9529/LingxiFish"
-  },
-  {
-    "description": "Evaluate B2B vendors by talking to AI agents and verifying claims against independent sources to score what is true and ",
-    "id": "Zorineinsupportable217/buyer-eval-skill",
-    "language": "Shell",
-    "name": "Zorineinsupportable217/buyer-eval-skill",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:09:19Z",
-    "url": "https://github.com/Zorineinsupportable217/buyer-eval-skill"
-  },
-  {
-    "description": "Build Claude Code skills for computational design, parametric modeling, simulation, BIM scripting, and fabrication in AE",
-    "id": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
-    "language": "Python",
-    "name": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
-    "stars": 1,
-    "updated_at": "2026-06-05T22:09:08Z",
-    "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
-  },
-  {
-    "description": "Capture TikTok livestream speech as real-time captions with transcription, translation, and speaker ID in any language, ",
-    "id": "sunnypatel1122/tiktok-live-captions",
-    "language": "TypeScript",
-    "name": "sunnypatel1122/tiktok-live-captions",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:09:01Z",
-    "url": "https://github.com/sunnypatel1122/tiktok-live-captions"
-  },
-  {
-    "description": "Document TikTool API docs for real-time TikTok Live data, WebSocket, REST, captions, SDKs, and integrations",
-    "id": "selfsacrificing-bath465/docs",
-    "language": "MDX",
-    "name": "selfsacrificing-bath465/docs",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:08:57Z",
-    "url": "https://github.com/selfsacrificing-bath465/docs"
-  },
-  {
-    "description": "Build effective context for AI agents and LLM apps with 35 practical patterns, benchmarks, and Python and TypeScript exa",
-    "id": "shannenseeded61/context-engineering-handbook",
-    "language": "Python",
-    "name": "shannenseeded61/context-engineering-handbook",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:08:51Z",
-    "url": "https://github.com/shannenseeded61/context-engineering-handbook"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-06-05T22:08:44Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Build a RAG engine with hybrid search, reranking, and RAGAS evaluation for fast, accurate retrieval and generation",
-    "id": "matomed9259/ragcore",
-    "language": "Python",
-    "name": "matomed9259/ragcore",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:08:43Z",
-    "url": "https://github.com/matomed9259/ragcore"
-  },
-  {
-    "description": "Capture AI coding decisions and dead ends in a self-hosted memory store for your codebase and agents",
-    "id": "kuldeepsuryawanshi56-del/pulse-ai",
-    "language": "TypeScript",
-    "name": "kuldeepsuryawanshi56-del/pulse-ai",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:08:26Z",
-    "url": "https://github.com/kuldeepsuryawanshi56-del/pulse-ai"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 32628,
-    "updated_at": "2026-06-05T22:08:22Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "",
-    "id": "Cash4478/design-system-skill",
-    "language": "\u2014",
-    "name": "Cash4478/design-system-skill",
-    "stars": 2,
-    "updated_at": "2026-06-05T22:08:16Z",
-    "url": "https://github.com/Cash4478/design-system-skill"
   }
 ]
