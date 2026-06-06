@@ -1,5 +1,140 @@
 [
   {
+    "description": "Build Real-Time Knowledge Graphs for AI Agents",
+    "id": "getzep/graphiti",
+    "language": "Python",
+    "name": "getzep/graphiti",
+    "stars": 27109,
+    "updated_at": "2026-06-06T23:40:33Z",
+    "url": "https://github.com/getzep/graphiti"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4318,
+    "updated_at": "2026-06-06T23:41:27Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Rust-native universal retrieval layer for humans and AI agents \u2014 search, extract, rank, and synthesize the web. CLI + RE",
+    "id": "zuhabul/Fetchium",
+    "language": "Rust",
+    "name": "zuhabul/Fetchium",
+    "stars": 4,
+    "updated_at": "2026-06-06T23:38:59Z",
+    "url": "https://github.com/zuhabul/Fetchium"
+  },
+  {
+    "description": "Self-hosted RAG prototype to ingest PDFs/HTML and chat with them via a local UI",
+    "id": "SamD/selfhosted-rag-doc-chat-prototype",
+    "language": "Python",
+    "name": "SamD/selfhosted-rag-doc-chat-prototype",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:41:32Z",
+    "url": "https://github.com/SamD/selfhosted-rag-doc-chat-prototype"
+  },
+  {
+    "description": "Convert HTML tables into flat, self-contained facts for LLMs and RAG pipelines.",
+    "id": "PebbleRoad/table2rules",
+    "language": "Python",
+    "name": "PebbleRoad/table2rules",
+    "stars": 2,
+    "updated_at": "2026-06-06T23:37:51Z",
+    "url": "https://github.com/PebbleRoad/table2rules"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18516,
+    "updated_at": "2026-06-06T23:35:00Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "A.I.M. \u2013 Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents",
+    "id": "BrianV1981/aim",
+    "language": "Python",
+    "name": "BrianV1981/aim",
+    "stars": 12,
+    "updated_at": "2026-06-06T23:34:54Z",
+    "url": "https://github.com/BrianV1981/aim"
+  },
+  {
+    "description": "Glyph \u2014 ask questions about any codebase and get answers grounded in the real code, with file:line citations. RAG over a",
+    "id": "Gauthambinoy20/Glyph",
+    "language": "Python",
+    "name": "Gauthambinoy20/Glyph",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:33:35Z",
+    "url": "https://github.com/Gauthambinoy20/Glyph"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:32:27Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Local-first, provider-agnostic agentic AI coding assistant in Rust \u2014 TUI, web UI, an always-on gateway, and a Flutter ph",
+    "id": "ankurCES/blumi-cli",
+    "language": "Rust",
+    "name": "ankurCES/blumi-cli",
+    "stars": 3,
+    "updated_at": "2026-06-06T23:32:04Z",
+    "url": "https://github.com/ankurCES/blumi-cli"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:31:26Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Build a local, versioned documentation store to power deterministic retrieval for coding agents.",
+    "id": "vhynze6241/OpenDocu",
+    "language": "JavaScript",
+    "name": "vhynze6241/OpenDocu",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:30:33Z",
+    "url": "https://github.com/vhynze6241/OpenDocu"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Manage enterprise AI agents, models, prompts, and knowledge bases with this self-hosted platform for governance, workflo",
+    "id": "Lifefoo3142/aiaget-platform",
+    "language": "\u2014",
+    "name": "Lifefoo3142/aiaget-platform",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:30:15Z",
+    "url": "https://github.com/Lifefoo3142/aiaget-platform"
+  },
+  {
     "description": "Prepare DeepSeek configuration assets for OpenClaw locally. Generate onboarding commands and redacted snippets without s",
     "id": "Xymenesaccretive256/deepseek-openclaw",
     "language": "HTML",
@@ -88,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T23:28:19Z",
     "url": "https://github.com/samee2612/MergeFlow-AI"
-  },
-  {
-    "description": "A.I.M. \u2013 Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents",
-    "id": "BrianV1981/aim",
-    "language": "Python",
-    "name": "BrianV1981/aim",
-    "stars": 12,
-    "updated_at": "2026-06-06T23:28:17Z",
-    "url": "https://github.com/BrianV1981/aim"
   },
   {
     "description": "Convert PDF documents to Markdown using local VLM inference services with this single Go binary.",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T23:23:27Z",
     "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
-  },
-  {
-    "description": "Evaluate autonomous AI memory systems using reproducible benchmarks and the LongMemEval-M dataset for Agent Brain.",
-    "id": "Bovirulent551/agentbrain-benchmarks",
-    "language": "Python",
-    "name": "Bovirulent551/agentbrain-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:23:12Z",
-    "url": "https://github.com/Bovirulent551/agentbrain-benchmarks"
-  },
-  {
-    "description": "Build a production-ready blog system with a high-performance Go backend, React frontend, and clean architecture.",
-    "id": "drillingmuduplifting7389/Solace",
-    "language": "\u2014",
-    "name": "drillingmuduplifting7389/Solace",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:22:54Z",
-    "url": "https://github.com/drillingmuduplifting7389/Solace"
-  },
-  {
-    "description": "Download public Epstein and Maxwell case documents, court filings, and FBI datasets using verified checksums from offici",
-    "id": "Nitosd1824/epstein-files",
-    "language": "Python",
-    "name": "Nitosd1824/epstein-files",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:22:49Z",
-    "url": "https://github.com/Nitosd1824/epstein-files"
-  },
-  {
-    "description": "Define engineering standards for Generative Engine Optimization to improve brand visibility in the AI search era.",
-    "id": "Unremedied-panhandler7820/geo-whitepaper",
-    "language": "\u2014",
-    "name": "Unremedied-panhandler7820/geo-whitepaper",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:22:47Z",
-    "url": "https://github.com/Unremedied-panhandler7820/geo-whitepaper"
-  },
-  {
-    "description": "Run open LLMs locally on Apple Silicon using Apple MLX for private, offline chat.",
-    "id": "More-controlrod669/Ka1zen",
-    "language": "\u2014",
-    "name": "More-controlrod669/Ka1zen",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:22:42Z",
-    "url": "https://github.com/More-controlrod669/Ka1zen"
-  },
-  {
-    "description": "Chat with your Obsidian vault using a local LLM (LM Studio, Ollama) or the Claude Code CLI. On-device retrieval, streami",
-    "id": "zaemyung/yunseul",
-    "language": "TypeScript",
-    "name": "zaemyung/yunseul",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:22:40Z",
-    "url": "https://github.com/zaemyung/yunseul"
-  },
-  {
-    "description": "Enable local semantic search for personal documents using Python, ChromaDB, and the Model Context Protocol.",
-    "id": "Timesukkumnerd/resonant-archive",
-    "language": "Python",
-    "name": "Timesukkumnerd/resonant-archive",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:22:17Z",
-    "url": "https://github.com/Timesukkumnerd/resonant-archive"
-  },
-  {
-    "description": "Implement a high-recall local memory system for Node.js using verbatim storage and pluggable vector backends without clo",
-    "id": "limggamepro/mempalace-node",
-    "language": "\u2014",
-    "name": "limggamepro/mempalace-node",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:22:12Z",
-    "url": "https://github.com/limggamepro/mempalace-node"
-  },
-  {
-    "description": "Extend your MemPalace local memory workflow with document ingestion, image storage, folder monitoring, and MCP integrati",
-    "id": "Torrspecified9094/mempalace-extended",
-    "language": "Python",
-    "name": "Torrspecified9094/mempalace-extended",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:22:09Z",
-    "url": "https://github.com/Torrspecified9094/mempalace-extended"
-  },
-  {
-    "description": "Benchmark performance of RAG and RLM-based MCP servers for 1C codebases using automated E2E testing to optimize AI assis",
-    "id": "jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp",
-    "language": "\u2014",
-    "name": "jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:21:56Z",
-    "url": "https://github.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp"
-  },
-  {
-    "description": "Evaluate, monitor, and secure LLM deployments with Python tools designed to reduce hallucinations and improve production",
-    "id": "pofaced-unattractiveness6700/llm-production-toolkit",
-    "language": "Python",
-    "name": "pofaced-unattractiveness6700/llm-production-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:21:49Z",
-    "url": "https://github.com/pofaced-unattractiveness6700/llm-production-toolkit"
-  },
-  {
-    "description": "Provide persistent memory for LLM runtimes, agents, and IDEs with zero installation.",
-    "id": "bachh8770/gr0m_mem",
-    "language": "Python",
-    "name": "bachh8770/gr0m_mem",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:21:47Z",
-    "url": "https://github.com/bachh8770/gr0m_mem"
-  },
-  {
-    "description": "Provide persistent local memory for AI agents using a hybrid-retrieval store. Build an offline knowledge base with this ",
-    "id": "Mohdar1277/engram-cli",
-    "language": "Rust",
-    "name": "Mohdar1277/engram-cli",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:21:46Z",
-    "url": "https://github.com/Mohdar1277/engram-cli"
-  },
-  {
-    "description": "Simulate Chinese tech company LLM interviews with project deep-dives, continuous follow-up questions, and performance di",
-    "id": "Pouuuu2012/llm-interview-coach",
-    "language": "\u2014",
-    "name": "Pouuuu2012/llm-interview-coach",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:21:45Z",
-    "url": "https://github.com/Pouuuu2012/llm-interview-coach"
   }
 ]
