@@ -1,5 +1,68 @@
 [
   {
+    "description": "High-fidelity Topological Memory Palace SDK. Uses Bit Drift & TDA Meshes via the Sovereign Omni Math kernel. Optimized f",
+    "id": "cloudcover95/JuniorMemSys-Suite",
+    "language": "Python",
+    "name": "cloudcover95/JuniorMemSys-Suite",
+    "stars": 1,
+    "updated_at": "2026-06-06T05:45:13Z",
+    "url": "https://github.com/cloudcover95/JuniorMemSys-Suite"
+  },
+  {
+    "description": "A.I.M. \u2013 Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents",
+    "id": "BrianV1981/aim",
+    "language": "Python",
+    "name": "BrianV1981/aim",
+    "stars": 12,
+    "updated_at": "2026-06-06T05:43:45Z",
+    "url": "https://github.com/BrianV1981/aim"
+  },
+  {
+    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
+    "id": "felladrin/MiniSearch",
+    "language": "TypeScript",
+    "name": "felladrin/MiniSearch",
+    "stars": 570,
+    "updated_at": "2026-06-06T05:43:21Z",
+    "url": "https://github.com/felladrin/MiniSearch"
+  },
+  {
+    "description": "Auditable, self-improving knowledge & memory for AI agents over MCP. Zero-key & multilingual by default \u00b7 citation-enfor",
+    "id": "Moai-Team-LLC/AgenticMind",
+    "language": "TypeScript",
+    "name": "Moai-Team-LLC/AgenticMind",
+    "stars": 2,
+    "updated_at": "2026-06-06T05:43:01Z",
+    "url": "https://github.com/Moai-Team-LLC/AgenticMind"
+  },
+  {
+    "description": "Self-verifying AI competitive intelligence tool for PMM/GTM teams \u2014 every claim sourced, unverifiable claims cut and log",
+    "id": "uroshp/scout-ci",
+    "language": "Python",
+    "name": "uroshp/scout-ci",
+    "stars": 0,
+    "updated_at": "2026-06-06T05:42:38Z",
+    "url": "https://github.com/uroshp/scout-ci"
+  },
+  {
+    "description": "Safe local execution layer for AI agent tools. Build, validate, and publish MCP tools with a no-pass-no-run workflow \u2014 c",
+    "id": "spring-ai-community/spring-ai-playground",
+    "language": "Java",
+    "name": "spring-ai-community/spring-ai-playground",
+    "stars": 121,
+    "updated_at": "2026-06-06T05:40:40Z",
+    "url": "https://github.com/spring-ai-community/spring-ai-playground"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T05:40:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI sales-funnel engine \u2014 Telegram, WhatsApp & web widget, RAG, visa pipeline, admin UI, Postgres (monorepo)",
     "id": "chatman-media/lead-engine",
     "language": "TypeScript",
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "lightfeed/extractor",
     "stars": 318,
-    "updated_at": "2026-06-06T05:32:53Z",
+    "updated_at": "2026-06-06T05:42:48Z",
     "url": "https://github.com/lightfeed/extractor"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T05:30:57Z",
     "url": "https://github.com/AnshBajpai05/Cortexa"
-  },
-  {
-    "description": "Self-verifying AI competitive intelligence tool for PMM/GTM teams \u2014 every claim sourced, unverifiable claims cut and log",
-    "id": "uroshp/scout-ci",
-    "language": "Python",
-    "name": "uroshp/scout-ci",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:30:49Z",
-    "url": "https://github.com/uroshp/scout-ci"
   },
   {
     "description": "Lumen \u2014 learner-owned AI education platform. Tell the AI what you want to learn: it builds you a private course in ~a mi",
@@ -144,15 +198,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -166,7 +211,7 @@
     "id": "anthony80188/medical-rag-chatbot",
     "language": "TypeScript",
     "name": "anthony80188/medical-rag-chatbot",
-    "stars": 2,
+    "stars": 8,
     "updated_at": "2026-06-06T05:29:07Z",
     "url": "https://github.com/anthony80188/medical-rag-chatbot"
   },
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 51,
-    "updated_at": "2026-06-06T05:30:44Z",
+    "updated_at": "2026-06-06T05:42:51Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T05:20:32Z",
     "url": "https://github.com/Josiahxix957/1.0claude-kimi-cloud-workspace"
-  },
-  {
-    "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
-    "id": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "language": "Python",
-    "name": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:19:27Z",
-    "url": "https://github.com/Hypertextsparrowhawk820/ask-your-annual-report"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:19:19Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Annotate Markdown and PDF files in Obsidian with overlay highlights and sticky notes that remain external to your origin",
-    "id": "Antony-bit375/axl-light",
-    "language": "TypeScript",
-    "name": "Antony-bit375/axl-light",
-    "stars": 1,
-    "updated_at": "2026-06-06T05:19:01Z",
-    "url": "https://github.com/Antony-bit375/axl-light"
-  },
-  {
-    "description": "Scrape and analyze Tor network data securely using LLMs for automated threat intelligence extraction.",
-    "id": "4turk2278/Scraper",
-    "language": "JavaScript",
-    "name": "4turk2278/Scraper",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:18:59Z",
-    "url": "https://github.com/4turk2278/Scraper"
-  },
-  {
-    "description": "RedHop \u2014 a reasoning-aware retrieval & context runtime for RAG (in-process, no vector DB). Light weight alternative to l",
-    "id": "vysakh0/redhop",
-    "language": "Rust",
-    "name": "vysakh0/redhop",
-    "stars": 8,
-    "updated_at": "2026-06-06T05:18:59Z",
-    "url": "https://github.com/vysakh0/redhop"
   }
 ]
