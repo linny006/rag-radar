@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI-powered educational assessment platform using RAG, LangGraph multi-agent workflows, FastAPI, React, Expo, and Postgre",
-    "id": "ovoowovo1/polyu-fyp",
+    "description": "Lisa \u2014 Real-time Voice Assistant. Offline stack: Nemotron ASR, Gemma 4, XTTS, RAG, vision.",
+    "id": "rootveda/lisa-realtime-voice-assistant",
     "language": "Python",
-    "name": "ovoowovo1/polyu-fyp",
+    "name": "rootveda/lisa-realtime-voice-assistant",
+    "stars": 1,
+    "updated_at": "2026-06-06T13:30:10Z",
+    "url": "https://github.com/rootveda/lisa-realtime-voice-assistant"
+  },
+  {
+    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
+    "id": "apod-1/ZoltarFinancial",
+    "language": "Python",
+    "name": "apod-1/ZoltarFinancial",
+    "stars": 3,
+    "updated_at": "2026-06-06T13:29:35Z",
+    "url": "https://github.com/apod-1/ZoltarFinancial"
+  },
+  {
+    "description": "Evidence-based veterinary behavior agent for cats: Claude Code/Codex skill, local PubMed corpus retrieval, optional Zote",
+    "id": "agentenatalie/cat-behavior-vet-agent",
+    "language": "Python",
+    "name": "agentenatalie/cat-behavior-vet-agent",
     "stars": 0,
-    "updated_at": "2026-06-06T13:25:17Z",
-    "url": "https://github.com/ovoowovo1/polyu-fyp"
+    "updated_at": "2026-06-06T13:29:22Z",
+    "url": "https://github.com/agentenatalie/cat-behavior-vet-agent"
+  },
+  {
+    "description": "This is a RAG based smart search tool for recommending free online courses for upskilling",
+    "id": "parvShah22/Rag_free_cources_assisstant",
+    "language": "Python",
+    "name": "parvShah22/Rag_free_cources_assisstant",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:29:15Z",
+    "url": "https://github.com/parvShah22/Rag_free_cources_assisstant"
+  },
+  {
+    "description": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "id": "rish-1997/wsl-assistant",
+    "language": "Shell",
+    "name": "rish-1997/wsl-assistant",
+    "stars": 5,
+    "updated_at": "2026-06-06T13:29:05Z",
+    "url": "https://github.com/rish-1997/wsl-assistant"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -14,8 +50,80 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3199,
-    "updated_at": "2026-06-06T13:24:56Z",
+    "updated_at": "2026-06-06T13:29:02Z",
     "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "\uc2a4\ud3ec\uce20 \uacfc\ud559 \ub17c\ubb38 RAG \uae30\ubc18 \uac1c\uc778 \ub9de\ucda4\ud615 \uc6b4\ub3d9 \ub8e8\ud2f4 \uc0dd\uc131 \uc571",
+    "id": "SciFit-Sync/scifit-sync",
+    "language": "Python",
+    "name": "SciFit-Sync/scifit-sync",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:28:05Z",
+    "url": "https://github.com/SciFit-Sync/scifit-sync"
+  },
+  {
+    "description": "Enterprise-style hybrid AI assistant combining structured climate analytics, RAG, hybrid retrieval, reranking, and conve",
+    "id": "dimitrisl99/climate-energy-hybrid-assistant",
+    "language": "Python",
+    "name": "dimitrisl99/climate-energy-hybrid-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:27:19Z",
+    "url": "https://github.com/dimitrisl99/climate-energy-hybrid-assistant"
+  },
+  {
+    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
+    "id": "phonghhd/EvoNet-AI-Core",
+    "language": "Python",
+    "name": "phonghhd/EvoNet-AI-Core",
+    "stars": 4,
+    "updated_at": "2026-06-06T13:26:45Z",
+    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
+  },
+  {
+    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
+    "id": "AnalyseDeCircuit/oxideterm",
+    "language": "Rust",
+    "name": "AnalyseDeCircuit/oxideterm",
+    "stars": 787,
+    "updated_at": "2026-06-06T13:26:03Z",
+    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:25:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GenesisPod \u2014 open-source, enterprise-grade platform for AI deep research, content production, and multi-agent collaborat",
+    "id": "genesis-agents/GenesisPod",
+    "language": "TypeScript",
+    "name": "genesis-agents/GenesisPod",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:25:57Z",
+    "url": "https://github.com/genesis-agents/GenesisPod"
+  },
+  {
+    "description": "memory you can hold. a small, calm memory layer for AI agents \u2014 hybrid BM25 + vector search, LLM curation, markdown on d",
+    "id": "999cleo/bowerbird",
+    "language": "Go",
+    "name": "999cleo/bowerbird",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:25:56Z",
+    "url": "https://github.com/999cleo/bowerbird"
+  },
+  {
+    "description": "AI-powered educational assessment platform using RAG, LangGraph multi-agent workflows, FastAPI, React, Expo, and Postgre",
+    "id": "ovoowovo1/polyu-fyp",
+    "language": "Python",
+    "name": "ovoowovo1/polyu-fyp",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:25:17Z",
+    "url": "https://github.com/ovoowovo1/polyu-fyp"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -63,15 +171,6 @@
     "url": "https://github.com/KenKaiii/noledge"
   },
   {
-    "description": "Lisa \u2014 Real-time Voice Assistant. Offline stack: Nemotron ASR, Gemma 4, XTTS, RAG, vision.",
-    "id": "rootveda/lisa-realtime-voice-assistant",
-    "language": "Python",
-    "name": "rootveda/lisa-realtime-voice-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-06T13:21:26Z",
-    "url": "https://github.com/rootveda/lisa-realtime-voice-assistant"
-  },
-  {
     "description": "Revornix is an open-source, local-first AI information/markdown workspace. It helps you collect fragmented inputs, turn ",
     "id": "Qingyon-AI/Revornix",
     "language": "TypeScript",
@@ -95,17 +194,8 @@
     "language": "Jupyter Notebook",
     "name": "VashuTheGreat/Multi-Rag",
     "stars": 0,
-    "updated_at": "2026-06-06T13:19:06Z",
+    "updated_at": "2026-06-06T13:27:41Z",
     "url": "https://github.com/VashuTheGreat/Multi-Rag"
-  },
-  {
-    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
-    "id": "AnalyseDeCircuit/oxideterm",
-    "language": "Rust",
-    "name": "AnalyseDeCircuit/oxideterm",
-    "stars": 787,
-    "updated_at": "2026-06-06T13:18:52Z",
-    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Multi-agent AI that researches Reddit + expert reviews to recommend the genuinely best product for your needs - determin",
@@ -135,15 +225,6 @@
     "url": "https://github.com/RK0297/Generative-AI-and-RAG-Coursework"
   },
   {
-    "description": "Evidence-based veterinary behavior agent for cats: Claude Code/Codex skill, local PubMed corpus retrieval, optional Zote",
-    "id": "agentenatalie/cat-behavior-vet-agent",
-    "language": "Python",
-    "name": "agentenatalie/cat-behavior-vet-agent",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:15:58Z",
-    "url": "https://github.com/agentenatalie/cat-behavior-vet-agent"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -151,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-06T13:15:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A Claude Code plugin for Obsidian \u2014 Karpathy's LLM Wiki shipped as a four-layer, hook-enforced agent stack with multi-ag",
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "EverMind-AI/EverOS",
     "stars": 7003,
-    "updated_at": "2026-06-06T13:24:41Z",
+    "updated_at": "2026-06-06T13:28:08Z",
     "url": "https://github.com/EverMind-AI/EverOS"
   },
   {
@@ -223,15 +295,6 @@
     "stars": 41,
     "updated_at": "2026-06-06T13:22:55Z",
     "url": "https://github.com/bug-ops/zeph"
-  },
-  {
-    "description": "GenesisPod \u2014 open-source, enterprise-grade platform for AI deep research, content production, and multi-agent collaborat",
-    "id": "genesis-agents/GenesisPod",
-    "language": "TypeScript",
-    "name": "genesis-agents/GenesisPod",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:17:10Z",
-    "url": "https://github.com/genesis-agents/GenesisPod"
   },
   {
     "description": "Persistent, queryable memory for AI agents with semantic recall, layered storage, snapshots, and multi-agent scoping",
@@ -301,7 +364,7 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 144130,
+    "stars": 144131,
     "updated_at": "2026-06-06T13:06:49Z",
     "url": "https://github.com/langgenius/dify"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T13:00:53Z",
     "url": "https://github.com/lemmaoracle/lemma"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 0,
-    "updated_at": "2026-06-06T13:00:01Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "Convert HTML tables into flat, self-contained facts for LLMs and RAG pipelines.",
-    "id": "PebbleRoad/table2rules",
-    "language": "Python",
-    "name": "PebbleRoad/table2rules",
-    "stars": 2,
-    "updated_at": "2026-06-06T13:03:26Z",
-    "url": "https://github.com/PebbleRoad/table2rules"
-  },
-  {
-    "description": "Your First LLM-Wiki Conversation Knowledge Base",
-    "id": "Beever-AI/beever-atlas",
-    "language": "Python",
-    "name": "Beever-AI/beever-atlas",
-    "stars": 375,
-    "updated_at": "2026-06-06T12:59:11Z",
-    "url": "https://github.com/Beever-AI/beever-atlas"
-  },
-  {
-    "description": "A rag + rag-graph native code intelligence layer for Java microservice estates, exposed to LLM agents via the Model Cont",
-    "id": "HumanBean17/java-codebase-rag",
-    "language": "Python",
-    "name": "HumanBean17/java-codebase-rag",
-    "stars": 3,
-    "updated_at": "2026-06-06T13:18:50Z",
-    "url": "https://github.com/HumanBean17/java-codebase-rag"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:58:44Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Multi-agent orchestrator with cyclic personal-to-org memory \u00b7 Apache 2.0 \u00b7 Python 3.11+",
-    "id": "praxia-dev/praxia",
-    "language": "Python",
-    "name": "praxia-dev/praxia",
-    "stars": 8,
-    "updated_at": "2026-06-06T12:58:42Z",
-    "url": "https://github.com/praxia-dev/praxia"
-  },
-  {
-    "description": "Microservice AI platform for culturally contextual mental-health support: a Spring Boot + Postgres core API paired with ",
-    "id": "Zshiva/neurohelp",
-    "language": "Java",
-    "name": "Zshiva/neurohelp",
-    "stars": 0,
-    "updated_at": "2026-06-06T12:57:42Z",
-    "url": "https://github.com/Zshiva/neurohelp"
   }
 ]
