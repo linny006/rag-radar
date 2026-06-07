@@ -1,5 +1,185 @@
 [
   {
+    "description": "Aplica\u00e7\u00e3o full stack de IA para consulta inteligente de PDFs com RAG, LangGraph, FastAPI, Next.js, PostgreSQL + pgvector",
+    "id": "fredtamashiro/smartdocs-ai",
+    "language": "Python",
+    "name": "fredtamashiro/smartdocs-ai",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:00:07Z",
+    "url": "https://github.com/fredtamashiro/smartdocs-ai"
+  },
+  {
+    "description": "Glyph \u2014 ask questions about any codebase and get answers grounded in the real code, with file:line citations. RAG over a",
+    "id": "Gauthambinoy20/Glyph",
+    "language": "Python",
+    "name": "Gauthambinoy20/Glyph",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:59:43Z",
+    "url": "https://github.com/Gauthambinoy20/Glyph"
+  },
+  {
+    "description": "Science-based barbell form coaching \u2014 MediaPipe CV pipeline, LangGraph RAG coaching agent, and MC/DC-tested (DO-178C Lev",
+    "id": "atharva6905/spelix",
+    "language": "Python",
+    "name": "atharva6905/spelix",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:58:31Z",
+    "url": "https://github.com/atharva6905/spelix"
+  },
+  {
+    "description": "AI-generated summaries for the Building Agentic AI Applications for Beginners bootcamp",
+    "id": "MustafaAlshehab/agentic_ai_bootcamp_notes",
+    "language": "\u2014",
+    "name": "MustafaAlshehab/agentic_ai_bootcamp_notes",
+    "stars": 2,
+    "updated_at": "2026-06-06T23:58:03Z",
+    "url": "https://github.com/MustafaAlshehab/agentic_ai_bootcamp_notes"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30052,
+    "updated_at": "2026-06-06T23:58:18Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:57:15Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Inference Hub for AI at Scale",
+    "id": "adrianliechti/wingman",
+    "language": "Go",
+    "name": "adrianliechti/wingman",
+    "stars": 77,
+    "updated_at": "2026-06-06T23:56:12Z",
+    "url": "https://github.com/adrianliechti/wingman"
+  },
+  {
+    "description": "Document, columnar, KV, Graph, Vector, Array - The only all-in-one database that you need.",
+    "id": "NodeDB-Lab/nodedb",
+    "language": "Rust",
+    "name": "NodeDB-Lab/nodedb",
+    "stars": 150,
+    "updated_at": "2026-06-06T23:55:55Z",
+    "url": "https://github.com/NodeDB-Lab/nodedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:54:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Self-hosted web crawling and RAG pipeline with MCP tooling for scrape, crawl, ingest, embed, query, and ask workflows.",
+    "id": "jmagar/axon",
+    "language": "Rust",
+    "name": "jmagar/axon",
+    "stars": 2,
+    "updated_at": "2026-06-06T23:59:27Z",
+    "url": "https://github.com/jmagar/axon"
+  },
+  {
+    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
+    "id": "makoy-daniot2001/agent-session-mirror",
+    "language": "HTML",
+    "name": "makoy-daniot2001/agent-session-mirror",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:52:55Z",
+    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
+  },
+  {
+    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
+    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "language": "HTML",
+    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:52:51Z",
+    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
+  },
+  {
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 28710,
+    "updated_at": "2026-06-06T23:50:37Z",
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "description": "Real-time LLM hallucination guardrail \u2014 NLI + RAG fact-checking with token-level streaming halt. Drop-in for any LLM bac",
+    "id": "anulum/director-ai",
+    "language": "Python",
+    "name": "anulum/director-ai",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:48:25Z",
+    "url": "https://github.com/anulum/director-ai"
+  },
+  {
+    "description": "Memory layer MCP for AI coding agents \u2014 durable save/recall/update on Gemini embeddings + embedded LanceDB hybrid retrie",
+    "id": "anand-92/gemdex",
+    "language": "TypeScript",
+    "name": "anand-92/gemdex",
+    "stars": 2,
+    "updated_at": "2026-06-06T23:54:08Z",
+    "url": "https://github.com/anand-92/gemdex"
+  },
+  {
+    "description": "Hands-on labs for building multi-agent apps with Microsoft Agent Framework (Python) on Microsoft Foundry.",
+    "id": "junwoojeong100/agent-framework-labs",
+    "language": "Python",
+    "name": "junwoojeong100/agent-framework-labs",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:48:00Z",
+    "url": "https://github.com/junwoojeong100/agent-framework-labs"
+  },
+  {
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
+    "id": "safishamsi/graphify",
+    "language": "Python",
+    "name": "safishamsi/graphify",
+    "stars": 60606,
+    "updated_at": "2026-06-06T23:47:29Z",
+    "url": "https://github.com/safishamsi/graphify"
+  },
+  {
+    "description": "Chat with your Obsidian vault using a local LLM (LM Studio, Ollama) or the Claude Code CLI. On-device retrieval, streami",
+    "id": "zaemyung/yunseul",
+    "language": "TypeScript",
+    "name": "zaemyung/yunseul",
+    "stars": 1,
+    "updated_at": "2026-06-06T23:47:24Z",
+    "url": "https://github.com/zaemyung/yunseul"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-06T23:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
     "id": "engram-app/Engram",
     "language": "Elixir",
@@ -9,66 +189,21 @@
     "url": "https://github.com/engram-app/Engram"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:44:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted LLM/RAG stack in one command \u2014 AMD Strix Halo / x86_64 (ROCm/Vulkan, Docker Compose)",
     "id": "botAGI/AGmind64",
     "language": "Python",
     "name": "botAGI/AGmind64",
     "stars": 0,
-    "updated_at": "2026-06-06T23:44:50Z",
+    "updated_at": "2026-06-06T23:47:24Z",
     "url": "https://github.com/botAGI/AGmind64"
-  },
-  {
-    "description": "Chat with your Obsidian vault using a local LLM (LM Studio, Ollama) or the Claude Code CLI. On-device retrieval, streami",
-    "id": "zaemyung/yunseul",
-    "language": "TypeScript",
-    "name": "zaemyung/yunseul",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:44:35Z",
-    "url": "https://github.com/zaemyung/yunseul"
-  },
-  {
-    "description": "Science-based barbell form coaching \u2014 MediaPipe CV pipeline, LangGraph RAG coaching agent, and MC/DC-tested (DO-178C Lev",
-    "id": "atharva6905/spelix",
-    "language": "Python",
-    "name": "atharva6905/spelix",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:44:34Z",
-    "url": "https://github.com/atharva6905/spelix"
-  },
-  {
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
-    "id": "safishamsi/graphify",
-    "language": "Python",
-    "name": "safishamsi/graphify",
-    "stars": 60599,
-    "updated_at": "2026-06-06T23:43:39Z",
-    "url": "https://github.com/safishamsi/graphify"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:43:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Build Real-Time Knowledge Graphs for AI Agents",
     "id": "getzep/graphiti",
     "language": "Python",
     "name": "getzep/graphiti",
-    "stars": 27109,
-    "updated_at": "2026-06-06T23:40:33Z",
+    "stars": 27110,
+    "updated_at": "2026-06-06T23:59:47Z",
     "url": "https://github.com/getzep/graphiti"
   },
   {
@@ -126,15 +261,6 @@
     "url": "https://github.com/BrianV1981/aim"
   },
   {
-    "description": "Glyph \u2014 ask questions about any codebase and get answers grounded in the real code, with file:line citations. RAG over a",
-    "id": "Gauthambinoy20/Glyph",
-    "language": "Python",
-    "name": "Gauthambinoy20/Glyph",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:33:35Z",
-    "url": "https://github.com/Gauthambinoy20/Glyph"
-  },
-  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -148,7 +274,7 @@
     "id": "ankurCES/blumi-cli",
     "language": "Rust",
     "name": "ankurCES/blumi-cli",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-06T23:32:04Z",
     "url": "https://github.com/ankurCES/blumi-cli"
   },
@@ -322,131 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-06T23:27:27Z",
     "url": "https://github.com/strikersam/local-llm-server"
-  },
-  {
-    "description": "Fine-tune large language models on local hardware using a web interface with QLoRA training and GGUF export support.",
-    "id": "yelenaunstimulating676/NeuralForge",
-    "language": "Python",
-    "name": "yelenaunstimulating676/NeuralForge",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:27:04Z",
-    "url": "https://github.com/yelenaunstimulating676/NeuralForge"
-  },
-  {
-    "description": "Connect n8n Cloud to local Ollama models using ngrok for secure, private AI agent orchestration and workflow automation.",
-    "id": "Deafened-spare644/ollama-ai-agent-n8n",
-    "language": "\u2014",
-    "name": "Deafened-spare644/ollama-ai-agent-n8n",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:26:46Z",
-    "url": "https://github.com/Deafened-spare644/ollama-ai-agent-n8n"
-  },
-  {
-    "description": "Chat with PDF documents using local AI models. Run private RAG workflows offline with Ollama, Weaviate, and Next.js.",
-    "id": "hispaniolan-princecharles417/pocket-rag",
-    "language": "TypeScript",
-    "name": "hispaniolan-princecharles417/pocket-rag",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:26:43Z",
-    "url": "https://github.com/hispaniolan-princecharles417/pocket-rag"
-  },
-  {
-    "description": "Mirror Supabase project metadata and data into local SQLite for fast search, inspection, and read-only SQL queries.",
-    "id": "agathetec5068/supacrawl",
-    "language": "Go",
-    "name": "agathetec5068/supacrawl",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:26:35Z",
-    "url": "https://github.com/agathetec5068/supacrawl"
-  },
-  {
-    "description": "Integrate a library of 38,000 product marketing insights into your AI agents using this Model Context Protocol server.",
-    "id": "sareebubbly763/pmmsherpa-mcp",
-    "language": "\u2014",
-    "name": "sareebubbly763/pmmsherpa-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:26:34Z",
-    "url": "https://github.com/sareebubbly763/pmmsherpa-mcp"
-  },
-  {
-    "description": "Streamline academic research and automate data analysis with this AI-powered assistant built for efficient literature re",
-    "id": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "language": "TypeScript",
-    "name": "Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:26:30Z",
-    "url": "https://github.com/Ramseydispensed499/ScholarAI-AI-Powered-Research-Assistant"
-  },
-  {
-    "description": "Generate personalized IELTS speaking corpora using AI and RAG technology to improve preparation and target specific band",
-    "id": "arelfruitful261/PersonaLingo",
-    "language": "\u2014",
-    "name": "arelfruitful261/PersonaLingo",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:26:29Z",
-    "url": "https://github.com/arelfruitful261/PersonaLingo"
-  },
-  {
-    "description": "Deploy a web-based chat interface for Kimi K2.6 using a Docker container on Hugging Face.",
-    "id": "Josiahxix957/1.0claude-kimi-cloud-workspace",
-    "language": "\u2014",
-    "name": "Josiahxix957/1.0claude-kimi-cloud-workspace",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:26:16Z",
-    "url": "https://github.com/Josiahxix957/1.0claude-kimi-cloud-workspace"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:25:11Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
-    "id": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "language": "Python",
-    "name": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:25:03Z",
-    "url": "https://github.com/Hypertextsparrowhawk820/ask-your-annual-report"
-  },
-  {
-    "description": "Scrape and analyze Tor network data securely using LLMs for automated threat intelligence extraction.",
-    "id": "4turk2278/Scraper",
-    "language": "JavaScript",
-    "name": "4turk2278/Scraper",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:24:48Z",
-    "url": "https://github.com/4turk2278/Scraper"
-  },
-  {
-    "description": "Annotate Markdown and PDF files in Obsidian with overlay highlights and sticky notes that remain external to your origin",
-    "id": "Antony-bit375/axl-light",
-    "language": "TypeScript",
-    "name": "Antony-bit375/axl-light",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:24:47Z",
-    "url": "https://github.com/Antony-bit375/axl-light"
-  },
-  {
-    "description": "My Chisa wifey\ud83d\udc45",
-    "id": "HoanBuCon/Kuchiba-Chisa",
-    "language": "Python",
-    "name": "HoanBuCon/Kuchiba-Chisa",
-    "stars": 1,
-    "updated_at": "2026-06-06T23:24:34Z",
-    "url": "https://github.com/HoanBuCon/Kuchiba-Chisa"
-  },
-  {
-    "description": "Provide MCP-native memory storage for LLMs and agents using a fast, local-first Rust binary.",
-    "id": "Vaginaldischargenewscaster673/mneme",
-    "language": "Rust",
-    "name": "Vaginaldischargenewscaster673/mneme",
-    "stars": 2,
-    "updated_at": "2026-06-06T23:24:22Z",
-    "url": "https://github.com/Vaginaldischargenewscaster673/mneme"
   }
 ]
