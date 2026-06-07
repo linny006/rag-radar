@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognitive observability for LLM agents - read a model from the inside. Catches when it lies, drifts, or stops meaning wh",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 12,
+    "updated_at": "2026-06-07T18:00:16Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
     "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability.",
     "id": "ebongard/renfield",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "LUV-07/multi-agent-rag",
     "stars": 0,
-    "updated_at": "2026-06-07T17:59:51Z",
+    "updated_at": "2026-06-07T18:01:10Z",
     "url": "https://github.com/LUV-07/multi-agent-rag"
   },
   {
@@ -169,24 +196,6 @@
     "stars": 18525,
     "updated_at": "2026-06-07T17:49:45Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-07T17:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Mira \u2014 the AI property manager residents can call or text. Grounded in the real lease via Moss, on LiveKit, Qwen, MiniMa",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T17:30:17Z",
     "url": "https://github.com/Aldeia-IT/anytype-llm-wiki"
-  },
-  {
-    "description": "Open-source agent platform for Global \u00d7 China enterprises \u2014 wire every system through one agent core. Self-hosted, any L",
-    "id": "fim-ai/fim-one",
-    "language": "Python",
-    "name": "fim-ai/fim-one",
-    "stars": 1240,
-    "updated_at": "2026-06-07T17:30:15Z",
-    "url": "https://github.com/fim-ai/fim-one"
   }
 ]
