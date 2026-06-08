@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "pironjulien/codex-npu-context",
     "stars": 1,
-    "updated_at": "2026-06-08T18:14:26Z",
+    "updated_at": "2026-06-08T18:23:06Z",
     "url": "https://github.com/pironjulien/codex-npu-context"
+  },
+  {
+    "description": "Production-grade RAG over SEC 10-K and 10-Q filings \u2014 hybrid retrieval, reranking, structured citations, and rigorous ev",
+    "id": "Rahul-Kushal-Anchi/sec-rag-assistant",
+    "language": "Python",
+    "name": "Rahul-Kushal-Anchi/sec-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:23:06Z",
+    "url": "https://github.com/Rahul-Kushal-Anchi/sec-rag-assistant"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 18436,
+    "updated_at": "2026-06-08T18:21:29Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "The private memory & agent layer for your local AI. Ingest your life, ask across it with citations \u2014 100% local.",
+    "id": "BobbyAngelo/Rudder",
+    "language": "TypeScript",
+    "name": "BobbyAngelo/Rudder",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:21:24Z",
+    "url": "https://github.com/BobbyAngelo/Rudder"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22018,
+    "updated_at": "2026-06-08T18:23:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 138,
+    "updated_at": "2026-06-08T18:20:24Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Persistent memory and RAG for AI coding agents. Episodic memories with decay + durable concept graphs. MCP server + CLI.",
+    "id": "basidiocarp/hyphae",
+    "language": "Rust",
+    "name": "basidiocarp/hyphae",
+    "stars": 1,
+    "updated_at": "2026-06-08T18:19:52Z",
+    "url": "https://github.com/basidiocarp/hyphae"
+  },
+  {
+    "description": "Retrieval-Augmented Generation system for querying 3000+ long-read sequencing papers from PubMed/PMC",
+    "id": "piplus2/longreads-rag",
+    "language": "Python",
+    "name": "piplus2/longreads-rag",
+    "stars": 1,
+    "updated_at": "2026-06-08T18:19:25Z",
+    "url": "https://github.com/piplus2/longreads-rag"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 277,
+    "updated_at": "2026-06-08T18:18:08Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Weave is a high-performance, multi-agent LLM orchestration system designed for reliability and observability. Weave prov",
+    "id": "ksploitx/Weave",
+    "language": "Python",
+    "name": "ksploitx/Weave",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:16:48Z",
+    "url": "https://github.com/ksploitx/Weave"
+  },
+  {
+    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+    "id": "alvinreal/awesome-opensource-ai",
+    "language": "Python",
+    "name": "alvinreal/awesome-opensource-ai",
+    "stars": 3824,
+    "updated_at": "2026-06-08T18:16:30Z",
+    "url": "https://github.com/alvinreal/awesome-opensource-ai"
+  },
+  {
+    "description": "The GitHub Action for Promptfoo.  Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability sca",
+    "id": "promptfoo/promptfoo-action",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo-action",
+    "stars": 69,
+    "updated_at": "2026-06-08T18:16:52Z",
+    "url": "https://github.com/promptfoo/promptfoo-action"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 138833,
+    "updated_at": "2026-06-08T18:19:52Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
+    "id": "selmanays/nodrat",
+    "language": "Python",
+    "name": "selmanays/nodrat",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:15:49Z",
+    "url": "https://github.com/selmanays/nodrat"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -14,8 +131,26 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3199,
-    "updated_at": "2026-06-08T18:14:00Z",
+    "updated_at": "2026-06-08T18:15:32Z",
     "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "3 hours of expert product research in ~85 seconds. 12 agents read Reddit threads + expert reviews, count every recommend",
@@ -32,7 +167,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 30080,
-    "updated_at": "2026-06-08T18:14:33Z",
+    "updated_at": "2026-06-08T18:16:21Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -90,15 +225,6 @@
     "url": "https://github.com/Videoa7917/ClaudeSec"
   },
   {
-    "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-    "id": "alvinreal/awesome-opensource-ai",
-    "language": "Python",
-    "name": "alvinreal/awesome-opensource-ai",
-    "stars": 3824,
-    "updated_at": "2026-06-08T18:11:15Z",
-    "url": "https://github.com/alvinreal/awesome-opensource-ai"
-  },
-  {
     "description": "Chatbot berbasis RAG yang dirancang untuk membantu karyawan baru memahami dokumen internal perusahaan secara interaktif.",
     "id": "whddarmadi/RAG-Onboarding-Chatbot",
     "language": "Jupyter Notebook",
@@ -106,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-06-08T18:11:10Z",
     "url": "https://github.com/whddarmadi/RAG-Onboarding-Chatbot"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 138833,
-    "updated_at": "2026-06-08T18:11:54Z",
-    "url": "https://github.com/langchain-ai/langchain"
   },
   {
     "description": "The AI search platform",
@@ -185,7 +302,7 @@
     "language": "Python",
     "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "stars": 1535,
-    "updated_at": "2026-06-08T18:10:04Z",
+    "updated_at": "2026-06-08T18:22:21Z",
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
@@ -221,7 +338,7 @@
     "language": "Python",
     "name": "robayedl/DocuMind",
     "stars": 2,
-    "updated_at": "2026-06-08T18:09:15Z",
+    "updated_at": "2026-06-08T18:18:49Z",
     "url": "https://github.com/robayedl/DocuMind"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T18:07:36Z",
     "url": "https://github.com/giovanicavila/RAG_Project"
-  },
-  {
-    "description": "LexonGraph is a log-structured semantic index that stores embeddings as immutable blocks in navigable vector graph. It s",
-    "id": "Alan-Jowett/LexonGraph",
-    "language": "Rust",
-    "name": "Alan-Jowett/LexonGraph",
-    "stars": 2,
-    "updated_at": "2026-06-08T18:07:25Z",
-    "url": "https://github.com/Alan-Jowett/LexonGraph"
-  },
-  {
-    "description": "Replace vector databases with binary document intelligence for efficient multimodal data search without GPUs.",
-    "id": "Monkish-jewishryebread665/NodeMind",
-    "language": "HTML",
-    "name": "Monkish-jewishryebread665/NodeMind",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:06:47Z",
-    "url": "https://github.com/Monkish-jewishryebread665/NodeMind"
-  },
-  {
-    "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
-    "id": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "language": "Python",
-    "name": "Hypertextsparrowhawk820/ask-your-annual-report",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:06:33Z",
-    "url": "https://github.com/Hypertextsparrowhawk820/ask-your-annual-report"
-  },
-  {
-    "description": "Annotate Markdown and PDF files in Obsidian with overlay highlights and sticky notes that remain external to your origin",
-    "id": "Antony-bit375/axl-light",
-    "language": "TypeScript",
-    "name": "Antony-bit375/axl-light",
-    "stars": 1,
-    "updated_at": "2026-06-08T18:06:25Z",
-    "url": "https://github.com/Antony-bit375/axl-light"
-  },
-  {
-    "description": "Scrape and analyze Tor network data securely using LLMs for automated threat intelligence extraction.",
-    "id": "4turk2278/Scraper",
-    "language": "JavaScript",
-    "name": "4turk2278/Scraper",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:06:19Z",
-    "url": "https://github.com/4turk2278/Scraper"
-  },
-  {
-    "description": "MCP server for Obsidian vaults \u2014 plugin-free search, memory, and full vault access for any AI agent",
-    "id": "aliasunder/vault-cortex",
-    "language": "TypeScript",
-    "name": "aliasunder/vault-cortex",
-    "stars": 1,
-    "updated_at": "2026-06-08T18:06:17Z",
-    "url": "https://github.com/aliasunder/vault-cortex"
-  },
-  {
-    "description": "Offline AI assistant - chat with your documents locally. No cloud, no API key, no data leaks. Built with Python + FastAP",
-    "id": "imDarshanGK/localmind",
-    "language": "Python",
-    "name": "imDarshanGK/localmind",
-    "stars": 5,
-    "updated_at": "2026-06-08T18:06:06Z",
-    "url": "https://github.com/imDarshanGK/localmind"
-  },
-  {
-    "description": "Provide MCP-native memory storage for LLMs and agents using a fast, local-first Rust binary.",
-    "id": "Vaginaldischargenewscaster673/mneme",
-    "language": "Rust",
-    "name": "Vaginaldischargenewscaster673/mneme",
-    "stars": 2,
-    "updated_at": "2026-06-08T18:05:49Z",
-    "url": "https://github.com/Vaginaldischargenewscaster673/mneme"
-  },
-  {
-    "description": "Semantic search and Q&A Telegram bot for Google Drive, backed by Qdrant and an optional OpenAI-compatible LLM.",
-    "id": "hu553in/gdrive-assistant-bot",
-    "language": "Python",
-    "name": "hu553in/gdrive-assistant-bot",
-    "stars": 2,
-    "updated_at": "2026-06-08T18:05:34Z",
-    "url": "https://github.com/hu553in/gdrive-assistant-bot"
-  },
-  {
-    "description": "Record product usage paths, analyze data with AI, and generate a structured knowledge base for RAG applications.",
-    "id": "Instinct-bone607/PathMind",
-    "language": "\u2014",
-    "name": "Instinct-bone607/PathMind",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:05:34Z",
-    "url": "https://github.com/Instinct-bone607/PathMind"
-  },
-  {
-    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
-    "id": "dgbac5672/LogN_DB-Core",
-    "language": "C++",
-    "name": "dgbac5672/LogN_DB-Core",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:05:11Z",
-    "url": "https://github.com/dgbac5672/LogN_DB-Core"
-  },
-  {
-    "description": "Persistent memory system for AI coding assistants. Captures decisions, learnings, and context from coding sessions. Feat",
-    "id": "zircote/subcog",
-    "language": "Rust",
-    "name": "zircote/subcog",
-    "stars": 24,
-    "updated_at": "2026-06-08T18:05:11Z",
-    "url": "https://github.com/zircote/subcog"
-  },
-  {
-    "description": "Synthesize contradictory research from your Zotero library using dialectical reasoning and LLaMA 3.1 to generate grounde",
-    "id": "CLODOALDO14/epistemic-conflict-engine",
-    "language": "Python",
-    "name": "CLODOALDO14/epistemic-conflict-engine",
-    "stars": 0,
-    "updated_at": "2026-06-08T18:04:54Z",
-    "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
   }
 ]
