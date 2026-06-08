@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T02:00:07Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udd75\ufe0f Investigate data locally with ArkhamMirror, an AI-driven platform for journalists and researchers that organizes info",
     "id": "1n3202/ArkhamMirror",
     "language": "Python",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "asb-42/danwa",
     "stars": 0,
-    "updated_at": "2026-06-08T01:57:01Z",
+    "updated_at": "2026-06-08T02:00:17Z",
     "url": "https://github.com/asb-42/danwa"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "arpon-kapuria/scalable-agentic-rag-pipeline",
     "stars": 0,
-    "updated_at": "2026-06-08T01:59:36Z",
+    "updated_at": "2026-06-08T02:00:10Z",
     "url": "https://github.com/arpon-kapuria/scalable-agentic-rag-pipeline"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T01:49:58Z",
     "url": "https://github.com/lukas121212112/AgentGuide"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f Transform documents into a smart voice assistant that answers your questions naturally, delivering accurate insights ",
-    "id": "Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval",
-    "language": "JavaScript",
-    "name": "Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval",
-    "stars": 0,
-    "updated_at": "2026-06-08T01:49:52Z",
-    "url": "https://github.com/Truman120/VoiceRAG-AI-Powered-Voice-Assistant-with-Knowledge-Retrieval"
   }
 ]
