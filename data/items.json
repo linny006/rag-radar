@@ -1,5 +1,95 @@
 [
   {
+    "description": "Clouisle is an enterprise-grade knowledge base and intelligent AI Agent platform built on a distributed architecture. It",
+    "id": "clouisle/Clouisle",
+    "language": "TypeScript",
+    "name": "clouisle/Clouisle",
+    "stars": 5,
+    "updated_at": "2026-06-08T06:59:33Z",
+    "url": "https://github.com/clouisle/Clouisle"
+  },
+  {
+    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents.  \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
+    "id": "1Panel-dev/MaxKB",
+    "language": "Python",
+    "name": "1Panel-dev/MaxKB",
+    "stars": 21170,
+    "updated_at": "2026-06-08T06:59:06Z",
+    "url": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
+    "description": "RAGnar - private RAG proxy for any LLM",
+    "id": "monajemi-arman/ragnar",
+    "language": "Rust",
+    "name": "monajemi-arman/ragnar",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:58:01Z",
+    "url": "https://github.com/monajemi-arman/ragnar"
+  },
+  {
+    "description": "Open-source AI customer support system. AI-first support, human-ready operations.",
+    "id": "huabeitech/agent-desk",
+    "language": "Go",
+    "name": "huabeitech/agent-desk",
+    "stars": 104,
+    "updated_at": "2026-06-08T06:57:24Z",
+    "url": "https://github.com/huabeitech/agent-desk"
+  },
+  {
+    "description": "The open source agentic content system to make your contents alive. Self-hosted on any platform. \u25d1",
+    "id": "MatrixAges/polywise",
+    "language": "TypeScript",
+    "name": "MatrixAges/polywise",
+    "stars": 680,
+    "updated_at": "2026-06-08T06:57:12Z",
+    "url": "https://github.com/MatrixAges/polywise"
+  },
+  {
+    "description": "The open-source benchmark for LLM memory decay. Measure how Naive, RAG, Chunked RAG, Cascading, and SummaryMemory degrad",
+    "id": "Neal006/memorylens",
+    "language": "Python",
+    "name": "Neal006/memorylens",
+    "stars": 6,
+    "updated_at": "2026-06-08T06:57:01Z",
+    "url": "https://github.com/Neal006/memorylens"
+  },
+  {
+    "description": "140+ curated, RAG-ready Stack Overflow pandas Q&A pairs (accepted answers, code blocks intact, per-record CC BY-SA attri",
+    "id": "DaanHoeven/rag-ready-stackoverflow-dataset",
+    "language": "\u2014",
+    "name": "DaanHoeven/rag-ready-stackoverflow-dataset",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:56:46Z",
+    "url": "https://github.com/DaanHoeven/rag-ready-stackoverflow-dataset"
+  },
+  {
+    "description": "Context-sharing MCP Gateway on Cloudflare",
+    "id": "stevenn/ctxlayer",
+    "language": "TypeScript",
+    "name": "stevenn/ctxlayer",
+    "stars": 3,
+    "updated_at": "2026-06-08T06:56:43Z",
+    "url": "https://github.com/stevenn/ctxlayer"
+  },
+  {
+    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-06-08T06:56:18Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-08T06:55:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
     "id": "infiniflow/ragflow",
     "language": "Python",
@@ -25,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-06-08T06:53:38Z",
     "url": "https://github.com/chatman-media/lead-engine"
-  },
-  {
-    "description": "Open-source AI customer support system. AI-first support, human-ready operations.",
-    "id": "huabeitech/agent-desk",
-    "language": "Go",
-    "name": "huabeitech/agent-desk",
-    "stars": 104,
-    "updated_at": "2026-06-08T06:53:34Z",
-    "url": "https://github.com/huabeitech/agent-desk"
   },
   {
     "description": "Production-grade RAG chatbot to learn AI/ML concepts, built with LlamaIndex, ChromaDB, Groq LLM, FastAPI & React. Includ",
@@ -121,7 +202,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 17334,
+    "stars": 17341,
     "updated_at": "2026-06-08T06:49:48Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -158,7 +239,7 @@
     "language": "Python",
     "name": "HKUDS/LightRAG",
     "stars": 36273,
-    "updated_at": "2026-06-08T06:45:56Z",
+    "updated_at": "2026-06-08T06:58:39Z",
     "url": "https://github.com/HKUDS/LightRAG"
   },
   {
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-08T06:45:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-08T06:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
     "stars": 1,
-    "updated_at": "2026-06-08T06:43:04Z",
+    "updated_at": "2026-06-08T07:00:17Z",
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
   },
   {
@@ -279,15 +351,6 @@
     "url": "https://github.com/shinshekai/Deep"
   },
   {
-    "description": "High-performance LLM observability and evaluation platform with automated instrumentation, stateful chat orchestration, ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-06-08T06:40:58Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "A general-purpose second-brain engine that auto-captures conversations and recalls them via semantic search + linked not",
     "id": "alsgur9865-sketch/second-brain-engine",
     "language": "Python",
@@ -302,7 +365,7 @@
     "language": "TypeScript",
     "name": "Limeload/mcp-for-database",
     "stars": 10,
-    "updated_at": "2026-06-08T06:53:19Z",
+    "updated_at": "2026-06-08T06:58:34Z",
     "url": "https://github.com/Limeload/mcp-for-database"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T06:37:22Z",
     "url": "https://github.com/knowledgestack/ks-sdk-python"
-  },
-  {
-    "description": "Revornix is an open-source, local-first AI information/markdown workspace. It helps you collect fragmented inputs, turn ",
-    "id": "Qingyon-AI/Revornix",
-    "language": "TypeScript",
-    "name": "Qingyon-AI/Revornix",
-    "stars": 183,
-    "updated_at": "2026-06-08T06:37:13Z",
-    "url": "https://github.com/Qingyon-AI/Revornix"
-  },
-  {
-    "description": "A rag + rag-graph native code intelligence layer for Java microservice estates, exposed to LLM agents via the Model Cont",
-    "id": "HumanBean17/java-codebase-rag",
-    "language": "Python",
-    "name": "HumanBean17/java-codebase-rag",
-    "stars": 3,
-    "updated_at": "2026-06-08T06:49:58Z",
-    "url": "https://github.com/HumanBean17/java-codebase-rag"
-  },
-  {
-    "description": "Python library that converts Word, Excel, PowerPoint, PDF, and Google Docs to clean, token-efficient Markdown, built for",
-    "id": "lakshgk/distill",
-    "language": "Python",
-    "name": "lakshgk/distill",
-    "stars": 2,
-    "updated_at": "2026-06-08T06:36:11Z",
-    "url": "https://github.com/lakshgk/distill"
-  },
-  {
-    "description": "Buddhist Digital Text Platform \u2014 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text se",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 309,
-    "updated_at": "2026-06-08T06:36:10Z",
-    "url": "https://github.com/xr843/fojin"
-  },
-  {
-    "description": "Context-sharing MCP Gateway on Cloudflare",
-    "id": "stevenn/ctxlayer",
-    "language": "TypeScript",
-    "name": "stevenn/ctxlayer",
-    "stars": 3,
-    "updated_at": "2026-06-08T06:35:57Z",
-    "url": "https://github.com/stevenn/ctxlayer"
-  },
-  {
-    "description": "Personal learning system fusing Obsidian vault authoring, FSRS spaced repetition (brain.db), ChromaDB semantic search, a",
-    "id": "Kadenvh/cortex-design",
-    "language": "C++",
-    "name": "Kadenvh/cortex-design",
-    "stars": 1,
-    "updated_at": "2026-06-08T06:35:39Z",
-    "url": "https://github.com/Kadenvh/cortex-design"
-  },
-  {
-    "description": "The open source agentic content system to make your contents alive. Self-hosted on any platform. \u25d1",
-    "id": "MatrixAges/polywise",
-    "language": "TypeScript",
-    "name": "MatrixAges/polywise",
-    "stars": 680,
-    "updated_at": "2026-06-08T06:33:10Z",
-    "url": "https://github.com/MatrixAges/polywise"
   }
 ]
