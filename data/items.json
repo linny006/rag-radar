@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udde0 Build a flexible, production-ready memory system for AI agents, offering session-only, persistent, or hybrid deploymen",
+    "id": "l7n102031/go-agent-memory",
+    "language": "Go",
+    "name": "l7n102031/go-agent-memory",
+    "stars": 3,
+    "updated_at": "2026-06-09T20:31:46Z",
+    "url": "https://github.com/l7n102031/go-agent-memory"
+  },
+  {
+    "description": "AI study app that decides what to study \u2014 persistent tutor memory, grade tracking with a 'what do I need on the final' c",
+    "id": "arshawnarbabi/Cogni",
+    "language": "TypeScript",
+    "name": "arshawnarbabi/Cogni",
+    "stars": 3,
+    "updated_at": "2026-06-09T20:31:40Z",
+    "url": "https://github.com/arshawnarbabi/Cogni"
+  },
+  {
+    "description": "\ud83d\ude86 Enhance your metro experience with MITHRA, a multilingual voice bot for navigation and ticket booking in Chennai Metro",
+    "id": "databaseisleaked/MITHRA-Voice-Bot",
+    "language": "Python",
+    "name": "databaseisleaked/MITHRA-Voice-Bot",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:31:14Z",
+    "url": "https://github.com/databaseisleaked/MITHRA-Voice-Bot"
+  },
+  {
+    "description": "Grounded RAG over arXiv papers ,hybrid retrieval, cross-encoder reranking, and confidence-based abstention. Cites its so",
+    "id": "Saviour5538/Grounded_RAG",
+    "language": "Python",
+    "name": "Saviour5538/Grounded_RAG",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:31:01Z",
+    "url": "https://github.com/Saviour5538/Grounded_RAG"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
+    "id": "raineislam/mcp-framework",
+    "language": "Python",
+    "name": "raineislam/mcp-framework",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:30:46Z",
+    "url": "https://github.com/raineislam/mcp-framework"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 5,
+    "updated_at": "2026-06-09T20:30:26Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GenesisPod \u2014 open-source, enterprise-grade platform for AI deep research, content production, and multi-agent collaborat",
+    "id": "genesis-agents/GenesisPod",
+    "language": "TypeScript",
+    "name": "genesis-agents/GenesisPod",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:30:23Z",
+    "url": "https://github.com/genesis-agents/GenesisPod"
+  },
+  {
+    "description": "\ud83c\udf0a Enhance your Go applications with Surf, a robust HTTP client library for easy and efficient handling of HTTP requests.",
+    "id": "mehdimin11/surf",
+    "language": "Go",
+    "name": "mehdimin11/surf",
+    "stars": 2,
+    "updated_at": "2026-06-09T20:30:21Z",
+    "url": "https://github.com/mehdimin11/surf"
+  },
+  {
     "description": "A continual-learning harness for open-weight LLMs: base + skill-LoRAs + RAG + an offline learning loop, behind an OpenAI",
     "id": "RajaNarsimham/engram",
     "language": "Python",
@@ -157,7 +247,7 @@
     "id": "RyanCodrai/turbovec",
     "language": "Python",
     "name": "RyanCodrai/turbovec",
-    "stars": 10054,
+    "stars": 10055,
     "updated_at": "2026-06-09T20:25:22Z",
     "url": "https://github.com/RyanCodrai/turbovec"
   },
@@ -351,15 +441,6 @@
     "url": "https://github.com/crossin124A/Simple-Ollama-Chatbot"
   },
   {
-    "description": "Grounded RAG over arXiv papers ,hybrid retrieval, cross-encoder reranking, and confidence-based abstention. Cites its so",
-    "id": "Saviour5538/Grounded_RAG",
-    "language": "Python",
-    "name": "Saviour5538/Grounded_RAG",
-    "stars": 0,
-    "updated_at": "2026-06-09T20:19:57Z",
-    "url": "https://github.com/Saviour5538/Grounded_RAG"
-  },
-  {
     "description": "A Generative AI-based framework for automating and optimizing employee onboarding processes using NLP and reinforcement ",
     "id": "yenibilgisayarci/employee-onboarding-ai",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T20:19:50Z",
     "url": "https://github.com/yenibilgisayarci/employee-onboarding-ai"
-  },
-  {
-    "description": "Self-hosted environmental intelligence platform that detects anomalies in real-time climate data, then generates causal ",
-    "id": "mason-cao/aeris",
-    "language": "Python",
-    "name": "mason-cao/aeris",
-    "stars": 2,
-    "updated_at": "2026-06-09T20:19:46Z",
-    "url": "https://github.com/mason-cao/aeris"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3199,
-    "updated_at": "2026-06-09T20:19:34Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "This is a golden path (opinionated shortcut) to explore AI from local homelab to PROD using OSS for technological indepe",
-    "id": "cryptokid980/homelab-2-prod-ai-golden-path",
-    "language": "\u2014",
-    "name": "cryptokid980/homelab-2-prod-ai-golden-path",
-    "stars": 5,
-    "updated_at": "2026-06-09T20:19:32Z",
-    "url": "https://github.com/cryptokid980/homelab-2-prod-ai-golden-path"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-09T20:18:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Experimenting with Pinecone as vector data continues to take center stage in AI-native systems. The purpose of this proj",
-    "id": "Kauxtubh/pinecone",
-    "language": "Python",
-    "name": "Kauxtubh/pinecone",
-    "stars": 3,
-    "updated_at": "2026-06-09T20:18:43Z",
-    "url": "https://github.com/Kauxtubh/pinecone"
-  },
-  {
-    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
-    "id": "apod-1/ZoltarFinancial",
-    "language": "Python",
-    "name": "apod-1/ZoltarFinancial",
-    "stars": 3,
-    "updated_at": "2026-06-09T20:18:25Z",
-    "url": "https://github.com/apod-1/ZoltarFinancial"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 2,
-    "updated_at": "2026-06-09T20:18:18Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "AI competitive-intelligence platform tracking 5 contract manufacturers across 405+ SEC filings, earnings calls, patents ",
-    "id": "sjagannathan17/Flex-Practicum-Project-2026",
-    "language": "Python",
-    "name": "sjagannathan17/Flex-Practicum-Project-2026",
-    "stars": 2,
-    "updated_at": "2026-06-09T20:18:11Z",
-    "url": "https://github.com/sjagannathan17/Flex-Practicum-Project-2026"
-  },
-  {
-    "description": "Chat with your PDFs using local AI \u2013 a RAG app with React, FastAPI, Ollama, and ChromaDB, fully Dockerized.",
-    "id": "VeeSeven/RapidSummarize",
-    "language": "JavaScript",
-    "name": "VeeSeven/RapidSummarize",
-    "stars": 0,
-    "updated_at": "2026-06-09T20:18:06Z",
-    "url": "https://github.com/VeeSeven/RapidSummarize"
   }
 ]
