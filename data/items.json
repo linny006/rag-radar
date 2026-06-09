@@ -1,5 +1,41 @@
 [
   {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:45:06Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30182,
+    "updated_at": "2026-06-09T23:44:52Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T23:44:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
+    "id": "bug-ops/zeph",
+    "language": "Rust",
+    "name": "bug-ops/zeph",
+    "stars": 40,
+    "updated_at": "2026-06-09T23:44:55Z",
+    "url": "https://github.com/bug-ops/zeph"
+  },
+  {
     "description": "Reproducible research lab for hybrid answer lanes in browser-local small-model RAG: separating deterministic evidence-fi",
     "id": "dpan538/browser-local-hybrid-rag-lanes",
     "language": "Python",
@@ -72,21 +108,12 @@
     "url": "https://github.com/11pyo/Third-Party-Brain"
   },
   {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30182,
-    "updated_at": "2026-06-09T23:42:24Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
     "id": "AgentsKit-io/agentskit",
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 9,
-    "updated_at": "2026-06-09T23:43:17Z",
+    "updated_at": "2026-06-09T23:44:42Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-06-09T23:36:08Z",
     "url": "https://github.com/graphlit/graphlit-client-typescript"
-  },
-  {
-    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
-    "id": "bug-ops/zeph",
-    "language": "Rust",
-    "name": "bug-ops/zeph",
-    "stars": 40,
-    "updated_at": "2026-06-09T23:44:35Z",
-    "url": "https://github.com/bug-ops/zeph"
   },
   {
     "description": "Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms",
@@ -238,7 +256,7 @@
     "id": "langchain-ai/langchain",
     "language": "Python",
     "name": "langchain-ai/langchain",
-    "stars": 138899,
+    "stars": 138900,
     "updated_at": "2026-06-09T23:30:40Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T23:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agentic clinical variant interpretation copilot: drafts ACMG/AMP classifications with cited evidence, evaluated against ",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-09T23:18:45Z",
     "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "Production AI automation: a Telegram bot that prices product recipes in ~30s (was ~30min). Claude agent + RAG (Qdrant) o",
-    "id": "lunev51/ai-recipe-cost-estimation",
-    "language": "\u2014",
-    "name": "lunev51/ai-recipe-cost-estimation",
-    "stars": 0,
-    "updated_at": "2026-06-09T23:18:38Z",
-    "url": "https://github.com/lunev51/ai-recipe-cost-estimation"
   }
 ]
