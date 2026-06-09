@@ -1,5 +1,77 @@
 [
   {
+    "description": "Enable DSPy to authenticate using Pi-style credentials and ChatGPT subscriptions for efficient local and cloud language ",
+    "id": "indivisible-receivedpronunciation624/dspy-lm-auth",
+    "language": "Python",
+    "name": "indivisible-receivedpronunciation624/dspy-lm-auth",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:30:12Z",
+    "url": "https://github.com/indivisible-receivedpronunciation624/dspy-lm-auth"
+  },
+  {
+    "description": "AI-powered healthcare platform combining Machine Learning for multi-disease prediction (Diabetes, Heart, Liver, Kidney, ",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 30,
+    "updated_at": "2026-06-09T18:29:56Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Deliver a local desktop platform for strategy development, backtesting, and simulation using a PTrade-compatible API wit",
+    "id": "lewfyt/SimTradeDesk",
+    "language": "\u2014",
+    "name": "lewfyt/SimTradeDesk",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:29:55Z",
+    "url": "https://github.com/lewfyt/SimTradeDesk"
+  },
+  {
+    "description": "The retrieval layer for production AI systems. Lightning-fast (<10ms) search without vector databases. Built for browser",
+    "id": "usemoss/moss",
+    "language": "Python",
+    "name": "usemoss/moss",
+    "stars": 411,
+    "updated_at": "2026-06-09T18:29:50Z",
+    "url": "https://github.com/usemoss/moss"
+  },
+  {
+    "description": "Provide community-built automation skills for OpenClaw agents to enhance task handling through browser and API integrati",
+    "id": "Calliopeperpendicular906/openclaw-skills",
+    "language": "Python",
+    "name": "Calliopeperpendicular906/openclaw-skills",
+    "stars": 1,
+    "updated_at": "2026-06-09T18:29:39Z",
+    "url": "https://github.com/Calliopeperpendicular906/openclaw-skills"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents. SQLite + sqlite-vec. Semantic search, graph relationships, anti-hallucinati",
+    "id": "sophiacave/sovereign-brain",
+    "language": "Python",
+    "name": "sophiacave/sovereign-brain",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:29:36Z",
+    "url": "https://github.com/sophiacave/sovereign-brain"
+  },
+  {
+    "description": "Aggregate and search over 9,200 Buddhist texts in multiple languages with full-text access, AI Q&A, annotations, and mul",
+    "id": "Naturestudyperinatologist466/fojin",
+    "language": "\u2014",
+    "name": "Naturestudyperinatologist466/fojin",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:29:26Z",
+    "url": "https://github.com/Naturestudyperinatologist466/fojin"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 0,
+    "updated_at": "2026-06-09T18:29:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
     "id": "Arthrocentesisgenusphylloxera328/rag-forge",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T18:23:41Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Sync real-time data between PostgreSQL and frontends using a reactive graph engine with built-in WebSocket support for G",
-    "id": "syed-sadiq-hussaini/Arcana",
-    "language": "Go",
-    "name": "syed-sadiq-hussaini/Arcana",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:23:38Z",
-    "url": "https://github.com/syed-sadiq-hussaini/Arcana"
-  },
-  {
-    "description": "A minimal RAG application to mimic the development of real life production level AI systems.",
-    "id": "zayed95/mini-RAG",
-    "language": "Python",
-    "name": "zayed95/mini-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:23:38Z",
-    "url": "https://github.com/zayed95/mini-RAG"
-  },
-  {
-    "description": "Agent OS & Harness AI runtime for governed multi-agent workflows - Nexus orchestration, skills, RAG, tools, and modaliti",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 3,
-    "updated_at": "2026-06-09T18:23:28Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Process your books offline to generate reports, presentations, summaries, and answers with an AI study assistant.",
-    "id": "gmygpt/lama-loca",
-    "language": "Python",
-    "name": "gmygpt/lama-loca",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:22:59Z",
-    "url": "https://github.com/gmygpt/lama-loca"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:22:52Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Provide tools and redacted documents for community research and governance of automated license plate recognition system",
-    "id": "Xswexx/flock-alpr-toolkit",
-    "language": "\u2014",
-    "name": "Xswexx/flock-alpr-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:22:48Z",
-    "url": "https://github.com/Xswexx/flock-alpr-toolkit"
-  },
-  {
-    "description": "Build and manage recursive language model workflows with a stateful, resumable graph based on LangGraph 1.x for clearer ",
-    "id": "aayushhh17/rlm-langgraph",
-    "language": "Python",
-    "name": "aayushhh17/rlm-langgraph",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:22:35Z",
-    "url": "https://github.com/aayushhh17/rlm-langgraph"
-  },
-  {
-    "description": "Universal memory layer for AI Agents",
-    "id": "mem0ai/mem0",
-    "language": "Python",
-    "name": "mem0ai/mem0",
-    "stars": 58184,
-    "updated_at": "2026-06-09T18:27:24Z",
-    "url": "https://github.com/mem0ai/mem0"
   }
 ]
