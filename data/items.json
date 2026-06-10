@@ -1,12 +1,48 @@
 [
   {
+    "description": "Inference Hub for AI at Scale",
+    "id": "adrianliechti/wingman",
+    "language": "Go",
+    "name": "adrianliechti/wingman",
+    "stars": 77,
+    "updated_at": "2026-06-10T14:01:30Z",
+    "url": "https://github.com/adrianliechti/wingman"
+  },
+  {
     "description": "Genie- your favourite local RAG companion.",
     "id": "wcspmgc/Genie",
     "language": "JavaScript",
     "name": "wcspmgc/Genie",
     "stars": 1,
-    "updated_at": "2026-06-10T14:00:31Z",
+    "updated_at": "2026-06-10T14:01:02Z",
     "url": "https://github.com/wcspmgc/Genie"
+  },
+  {
+    "description": "SmartLearn AI \u2014 RAG-based chatbot with PDF Q&A using FastAPI, React, Groq (LLaMA 3), and FAISS.",
+    "id": "Nav33dCodes/smartLearn-AI",
+    "language": "JavaScript",
+    "name": "Nav33dCodes/smartLearn-AI",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:00:42Z",
+    "url": "https://github.com/Nav33dCodes/smartLearn-AI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:00:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Three-tier semantic memory for local AI agents \u2014 Claude Code, Gemini CLI, and LM Studio sharing one persistent brain (Po",
@@ -27,6 +63,15 @@
     "url": "https://github.com/Yusuprozimemet/LearnX-Radar"
   },
   {
+    "description": "About Modular AI assistant \u2014 60 built-in tools, multi-provider LLM support (Ollama, OpenAI, Anthropic, Gemini), hybrid m",
+    "id": "NorthlandPositronics/Cogtrix",
+    "language": "Python",
+    "name": "NorthlandPositronics/Cogtrix",
+    "stars": 20,
+    "updated_at": "2026-06-10T13:59:05Z",
+    "url": "https://github.com/NorthlandPositronics/Cogtrix"
+  },
+  {
     "description": "A minimalistic AI system that curates context-aware Q&A designed to make you think ",
     "id": "Hardhikman/IntrepidQ",
     "language": "TypeScript",
@@ -34,6 +79,24 @@
     "stars": 0,
     "updated_at": "2026-06-10T13:59:00Z",
     "url": "https://github.com/Hardhikman/IntrepidQ"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:58:23Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "A trust layer for enterprise AI agents: answers traceable to their evidence, with a score for how much to trust them.",
+    "id": "robert-vetter/tessera",
+    "language": "Python",
+    "name": "robert-vetter/tessera",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:58:20Z",
+    "url": "https://github.com/robert-vetter/tessera"
   },
   {
     "description": "Two-modal code search (lexical + semantic) for AI coding agents, over MCP.",
@@ -61,15 +124,6 @@
     "stars": 246,
     "updated_at": "2026-06-10T13:57:27Z",
     "url": "https://github.com/tetherto/qvac"
-  },
-  {
-    "description": "Inference Hub for AI at Scale",
-    "id": "adrianliechti/wingman",
-    "language": "Go",
-    "name": "adrianliechti/wingman",
-    "stars": 77,
-    "updated_at": "2026-06-10T13:59:05Z",
-    "url": "https://github.com/adrianliechti/wingman"
   },
   {
     "description": "An open-source project designed to provide an educational and collaborative AI-powered platform",
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22081,
-    "updated_at": "2026-06-10T13:51:47Z",
+    "updated_at": "2026-06-10T14:01:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "Cheewye/iuri-react-codex",
     "stars": 1,
-    "updated_at": "2026-06-10T13:57:59Z",
+    "updated_at": "2026-06-10T14:01:37Z",
     "url": "https://github.com/Cheewye/iuri-react-codex"
   },
   {
@@ -304,24 +358,6 @@
     "stars": 1,
     "updated_at": "2026-06-10T13:45:43Z",
     "url": "https://github.com/knowledgestack/ks-docs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:45:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-10T13:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Knowledge Stack TypeScript/JavaScript SDK (@knowledge-stack/ksapi) \u2014 auto-generated from the OpenAPI spec. For most agen",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T13:41:46Z",
     "url": "https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase"
-  },
-  {
-    "description": "Geospatial Knowledge Graph: PostGIS + pgvector + Neo4j + Spatial-RAG + Kart versioning + MapLibre UI. Companion del volu",
-    "id": "agent-engineering-studio/geo-knowledge-graph",
-    "language": "Python",
-    "name": "agent-engineering-studio/geo-knowledge-graph",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:41:20Z",
-    "url": "https://github.com/agent-engineering-studio/geo-knowledge-graph"
-  },
-  {
-    "description": "About Modular AI assistant \u2014 60 built-in tools, multi-provider LLM support (Ollama, OpenAI, Anthropic, Gemini), hybrid m",
-    "id": "NorthlandPositronics/Cogtrix",
-    "language": "Python",
-    "name": "NorthlandPositronics/Cogtrix",
-    "stars": 20,
-    "updated_at": "2026-06-10T13:59:05Z",
-    "url": "https://github.com/NorthlandPositronics/Cogtrix"
-  },
-  {
-    "description": "Practical retrieval, reranking, evaluation, and deployment patterns for reliable RAG systems.",
-    "id": "prarthitmehta/rag-patterns",
-    "language": "\u2014",
-    "name": "prarthitmehta/rag-patterns",
-    "stars": 0,
-    "updated_at": "2026-06-10T13:40:46Z",
-    "url": "https://github.com/prarthitmehta/rag-patterns"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 123,
-    "updated_at": "2026-06-10T13:39:53Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   }
 ]
