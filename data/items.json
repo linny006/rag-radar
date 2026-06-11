@@ -1,5 +1,68 @@
 [
   {
+    "description": "A Python benchmark tool for profiling local GPU VRAM usage, vector search latency, and LLM inference speed on RTX 3090 s",
+    "id": "sajad-bana-zadeh/local-gpu-sla-profiler",
+    "language": "Python",
+    "name": "sajad-bana-zadeh/local-gpu-sla-profiler",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:33:30Z",
+    "url": "https://github.com/sajad-bana-zadeh/local-gpu-sla-profiler"
+  },
+  {
+    "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 51,
+    "updated_at": "2026-06-11T21:33:50Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30249,
+    "updated_at": "2026-06-11T21:33:43Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "AI-powered deal analysis and investment memo generation for institutional credit investing",
+    "id": "JoshKappler/memo-engine",
+    "language": "TypeScript",
+    "name": "JoshKappler/memo-engine",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:32:18Z",
+    "url": "https://github.com/JoshKappler/memo-engine"
+  },
+  {
+    "description": "Consola RAG local air-gapped + memoria para agentes (MCP). Base vectorial cuantizada en 3 bits (Rust/WASM, ~21x), embedd",
+    "id": "MauricioPerera/JS-PotatoRAG",
+    "language": "JavaScript",
+    "name": "MauricioPerera/JS-PotatoRAG",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:31:11Z",
+    "url": "https://github.com/MauricioPerera/JS-PotatoRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T21:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T21:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Build a local, versioned documentation store to power deterministic retrieval for coding agents.",
     "id": "vhynze6241/OpenDocu",
     "language": "JavaScript",
@@ -58,7 +121,7 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 81817,
+    "stars": 81818,
     "updated_at": "2026-06-11T21:29:02Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "theogyeezy/friesenlabs",
     "stars": 0,
-    "updated_at": "2026-06-11T21:28:57Z",
+    "updated_at": "2026-06-11T21:32:59Z",
     "url": "https://github.com/theogyeezy/friesenlabs"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/Vaginaldischargenewscaster673/mneme"
   },
   {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30249,
-    "updated_at": "2026-06-11T21:29:35Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
     "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
     "id": "Sachin23991/dreamflow-rag-updater",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:23:34Z",
     "url": "https://github.com/Instinct-bone607/PathMind"
-  },
-  {
-    "description": "Local-first RAG over engineering documents (PDF/DOCX/DOC/MD/TXT), exposed via MCP to Cursor/Claude and so on. MIT.",
-    "id": "gvtret/doc-rag-mcp-server",
-    "language": "Python",
-    "name": "gvtret/doc-rag-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:24:12Z",
-    "url": "https://github.com/gvtret/doc-rag-mcp-server"
-  },
-  {
-    "description": "Build vector database engines in C++ with HNSW, KD-Tree, and brute force algorithms to understand internal search archit",
-    "id": "dgbac5672/LogN_DB-Core",
-    "language": "C++",
-    "name": "dgbac5672/LogN_DB-Core",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:23:16Z",
-    "url": "https://github.com/dgbac5672/LogN_DB-Core"
-  },
-  {
-    "description": "Local-first persistent memory for AI coding agents via MCP. Semantic search and session context for Claude Code, Cursor,",
-    "id": "ymeiri/engram",
-    "language": "Rust",
-    "name": "ymeiri/engram",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:23:09Z",
-    "url": "https://github.com/ymeiri/engram"
-  },
-  {
-    "description": "Synthesize contradictory research from your Zotero library using dialectical reasoning and LLaMA 3.1 to generate grounde",
-    "id": "CLODOALDO14/epistemic-conflict-engine",
-    "language": "Python",
-    "name": "CLODOALDO14/epistemic-conflict-engine",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:23:03Z",
-    "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
-  },
-  {
-    "description": "Orchestrate multi-agent teams using document-driven workflows, defined role boundaries, and standardized handoff contrac",
-    "id": "danilo1003/agent-team-orchestrator",
-    "language": "Python",
-    "name": "danilo1003/agent-team-orchestrator",
-    "stars": 2,
-    "updated_at": "2026-06-11T21:23:00Z",
-    "url": "https://github.com/danilo1003/agent-team-orchestrator"
-  },
-  {
-    "description": "Evaluate autonomous AI memory systems using reproducible benchmarks and the LongMemEval-M dataset for Agent Brain.",
-    "id": "Bovirulent551/agentbrain-benchmarks",
-    "language": "Python",
-    "name": "Bovirulent551/agentbrain-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-06-11T21:22:43Z",
-    "url": "https://github.com/Bovirulent551/agentbrain-benchmarks"
   }
 ]
