@@ -1,5 +1,95 @@
 [
   {
+    "description": "",
+    "id": "offline-pixel/offline-pixel.github.io",
+    "language": "HTML",
+    "name": "offline-pixel/offline-pixel.github.io",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:37:08Z",
+    "url": "https://github.com/offline-pixel/offline-pixel.github.io"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:36:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A RAG app to breakdown complex technical documents ",
+    "id": "Kaynaaf/NanoRAG",
+    "language": "Python",
+    "name": "Kaynaaf/NanoRAG",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:36:46Z",
+    "url": "https://github.com/Kaynaaf/NanoRAG"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 2,
+    "updated_at": "2026-06-11T03:33:56Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 339,
+    "updated_at": "2026-06-11T03:32:41Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 144771,
+    "updated_at": "2026-06-11T03:37:43Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Buddhist Digital Text Platform \u2014 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text se",
+    "id": "xr843/fojin",
+    "language": "Python",
+    "name": "xr843/fojin",
+    "stars": 310,
+    "updated_at": "2026-06-11T03:31:59Z",
+    "url": "https://github.com/xr843/fojin"
+  },
+  {
+    "description": "AI \u539f\u751f\u591a\u79df\u6237 SaaS \u5f00\u53d1\u6846\u67b6 \u2014 FastAPI + Vue 3 + PostgreSQL\uff0c\u5185\u7f6e AI Agent\u3001RAG\u3001\u63d2\u4ef6\u7cfb\u7edf\u3001RBAC\u3001\u5f02\u6b65\u4efb\u52a1\u7b49\u6838\u5fc3\u80fd\u529b\uff0c\u52a9\u529b\u5feb\u901f\u6784\u5efa\u884c\u4e1a SaaS \u5e94\u7528\u3002",
+    "id": "yzxingtu/novusai-saas",
+    "language": "Python",
+    "name": "yzxingtu/novusai-saas",
+    "stars": 2,
+    "updated_at": "2026-06-11T03:31:28Z",
+    "url": "https://github.com/yzxingtu/novusai-saas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-11T03:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-11T03:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "INNOMCP \u2014 Manus-style personal AI agent workspace. Free, open source, Thai-first. Multi-agent + MCP tools + 10+ provider",
     "id": "mdes-innova-th/innomcp",
     "language": "TypeScript",
@@ -49,9 +139,18 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 21929,
+    "stars": 21940,
     "updated_at": "2026-06-11T03:25:57Z",
     "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "\u26a1 Blazing-fast GPU vector search for PostgreSQL powered by NVIDIA cuVS.",
+    "id": "ysys143/pg_cuvs",
+    "language": "C",
+    "name": "ysys143/pg_cuvs",
+    "stars": 2,
+    "updated_at": "2026-06-11T03:37:26Z",
+    "url": "https://github.com/ysys143/pg_cuvs"
   },
   {
     "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
@@ -61,15 +160,6 @@
     "stars": 9,
     "updated_at": "2026-06-11T03:25:25Z",
     "url": "https://github.com/johnnichev/selectools"
-  },
-  {
-    "description": "Buddhist Digital Text Platform \u2014 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text se",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 310,
-    "updated_at": "2026-06-11T03:29:41Z",
-    "url": "https://github.com/xr843/fojin"
   },
   {
     "description": "Apple-native iPhone app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, and",
@@ -126,15 +216,6 @@
     "url": "https://github.com/eltu/idx"
   },
   {
-    "description": "Production-ready platform for agentic workflow development.",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 144770,
-    "updated_at": "2026-06-11T03:24:55Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
     "description": "Reproducible research lab for browser-local small-model RAG with WebGPU/WebLLM runtimes, evidence-packet compression, la",
     "id": "dpan538/browser-local-rag-lab",
     "language": "JavaScript",
@@ -149,7 +230,7 @@
     "language": "TypeScript",
     "name": "MemTensor/MemOS",
     "stars": 9745,
-    "updated_at": "2026-06-11T03:22:11Z",
+    "updated_at": "2026-06-11T03:38:10Z",
     "url": "https://github.com/MemTensor/MemOS"
   },
   {
@@ -225,24 +306,6 @@
     "url": "https://github.com/shamantao/aitao"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-11T03:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-11T03:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Full-stack AI contract analyzer using RAG and vector embeddings \u2014 detects red flags, extracts key clauses, and answers q",
     "id": "shanaczane/contract-assistant",
     "language": "TypeScript",
@@ -270,15 +333,6 @@
     "url": "https://github.com/knowledgestack/ks-docs"
   },
   {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 2,
-    "updated_at": "2026-06-11T03:14:17Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
     "description": "Knowledge Stack TypeScript/JavaScript SDK (@knowledge-stack/ksapi) \u2014 auto-generated from the OpenAPI spec. For most agen",
     "id": "knowledgestack/ks-sdk-ts",
     "language": "TypeScript",
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "theogyeezy/friesenlabs",
     "stars": 0,
-    "updated_at": "2026-06-11T03:13:36Z",
+    "updated_at": "2026-06-11T03:35:17Z",
     "url": "https://github.com/theogyeezy/friesenlabs"
   },
   {
@@ -313,15 +367,6 @@
     "stars": 119,
     "updated_at": "2026-06-11T03:12:30Z",
     "url": "https://github.com/BingoWon/apple-rag-mcp"
-  },
-  {
-    "description": "GPU-accelerated vector search for PostgreSQL via NVIDIA cuVS \u2014 a pgvector-compatible GPU acceleration layer",
-    "id": "ysys143/pg_cuvs",
-    "language": "C",
-    "name": "ysys143/pg_cuvs",
-    "stars": 2,
-    "updated_at": "2026-06-11T03:25:32Z",
-    "url": "https://github.com/ysys143/pg_cuvs"
   },
   {
     "description": "Self-healing AI operations platform \u2014 Discord bot + RAG + Insight Layer + 99 automation scripts. Runs 24/7, fixes itself",
@@ -403,50 +448,5 @@
     "stars": 9774,
     "updated_at": "2026-06-11T03:04:28Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 138997,
-    "updated_at": "2026-06-11T03:06:59Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "Multimodal AI playground in one Cloudflare Worker: speak to & hear all 35 chat models (hands-free voice chat), plus imag",
-    "id": "skyphusion-labs/skyphusion-llm-public",
-    "language": "TypeScript",
-    "name": "skyphusion-labs/skyphusion-llm-public",
-    "stars": 0,
-    "updated_at": "2026-06-11T03:26:20Z",
-    "url": "https://github.com/skyphusion-labs/skyphusion-llm-public"
-  },
-  {
-    "description": "SEAS: frontier research engine that earns findings via an emission gate. Argo: live agentic Telegram scout that turns kn",
-    "id": "yiyaw-lab/seas",
-    "language": "Python",
-    "name": "yiyaw-lab/seas",
-    "stars": 1,
-    "updated_at": "2026-06-11T03:02:30Z",
-    "url": "https://github.com/yiyaw-lab/seas"
-  },
-  {
-    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
-    "id": "aiKunalBisht/Transcript-ai",
-    "language": "Python",
-    "name": "aiKunalBisht/Transcript-ai",
-    "stars": 3,
-    "updated_at": "2026-06-11T03:02:09Z",
-    "url": "https://github.com/aiKunalBisht/Transcript-ai"
-  },
-  {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 28754,
-    "updated_at": "2026-06-11T03:14:52Z",
-    "url": "https://github.com/simstudioai/sim"
   }
 ]
