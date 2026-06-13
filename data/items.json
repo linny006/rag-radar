@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T08:29:15Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A CI evaluation framework for RAG and AI agents \u2014 gate every deploy on groundedness, retrieval quality, hallucination, c",
     "id": "martian7777/rag-agent-eval-ci",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 0,
-    "updated_at": "2026-06-13T08:29:09Z",
+    "updated_at": "2026-06-13T08:29:53Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -216,6 +225,15 @@
     "url": "https://github.com/farozerolabs/fococontext"
   },
   {
+    "description": "",
+    "id": "ananyarajkamal/LexiVault",
+    "language": "TypeScript",
+    "name": "ananyarajkamal/LexiVault",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:23:09Z",
+    "url": "https://github.com/ananyarajkamal/LexiVault"
+  },
+  {
     "description": "\u5c3d\u8c03\u6709\u9b42\uff0c\u6570\u636e\u4e0d\u80e1\u8bcc \u00b7 13-agent concurrent AI crew | platform-agnostic v1.0 | due diligence/OSINT/risk assessment/people investiga",
     "id": "Dear-Ded/wallstreet-tieling",
     "language": "Python",
@@ -351,15 +369,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T08:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "On-prem NL\u2192SQL for factory ops, answers in seconds \u2014 LangGraph agent, Gemma 3 12B, ChromaDB/pgvector, 4-layer read-only ",
     "id": "Pawansingh3889/OpsMind",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-13T08:13:40Z",
     "url": "https://github.com/Sagargupta16/ai-project-template"
-  },
-  {
-    "description": "AI-native interface and orchestration layer for the Banzami ecosystem.",
-    "id": "banza-protocol/banzai",
-    "language": "TypeScript",
-    "name": "banza-protocol/banzai",
-    "stars": 0,
-    "updated_at": "2026-06-13T08:07:41Z",
-    "url": "https://github.com/banza-protocol/banzai"
   }
 ]
