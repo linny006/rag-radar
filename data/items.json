@@ -1,5 +1,32 @@
 [
   {
+    "description": "Production-grade platform for building agentic IM bots - \u751f\u4ea7\u7ea7\u591a\u5e73\u53f0\u667a\u80fd\u673a\u5668\u4eba\u5f00\u53d1\u5e73\u53f0/ Agent\u3001\u77e5\u8bc6\u5e93\u7f16\u6392\u3001\u63d2\u4ef6\u7cfb\u7edf / Bots for Discord / Slack / ",
+    "id": "langbot-app/LangBot",
+    "language": "Python",
+    "name": "langbot-app/LangBot",
+    "stars": 16319,
+    "updated_at": "2026-06-13T05:00:02Z",
+    "url": "https://github.com/langbot-app/LangBot"
+  },
+  {
+    "description": "\ud83c\udfac Discover movies effortlessly with CineRAG, a RAG system that combines natural language queries and intelligent retriev",
+    "id": "hamzaideators/cinerag",
+    "language": "Python",
+    "name": "hamzaideators/cinerag",
+    "stars": 3,
+    "updated_at": "2026-06-13T04:59:49Z",
+    "url": "https://github.com/hamzaideators/cinerag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T04:59:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udcca Transform documents into a smart knowledge base using Neo4j and Azure AI for efficient, intelligent searching and answ",
     "id": "PDewangan/neo4j-agentframework",
     "language": "Python",
@@ -378,15 +405,6 @@
     "url": "https://github.com/gbvk312/telecom_rag"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T04:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -409,7 +427,7 @@
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 24990,
+    "stars": 24991,
     "updated_at": "2026-06-13T04:44:17Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T04:44:02Z",
     "url": "https://github.com/Sanika73/ai-research-platform"
-  },
-  {
-    "description": "Production-grade RAG pipeline for enterprise knowledge bases",
-    "id": "jinno-ai/enterprise-rag-system",
-    "language": "Python",
-    "name": "jinno-ai/enterprise-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:43:51Z",
-    "url": "https://github.com/jinno-ai/enterprise-rag-system"
-  },
-  {
-    "description": "\ud83d\udee0 Build enterprise-grade AI agents with MaxKB, an open-source platform designed for simplicity and performance.",
-    "id": "carglezfer/MaxKB",
-    "language": "Python",
-    "name": "carglezfer/MaxKB",
-    "stars": 1,
-    "updated_at": "2026-06-13T04:43:00Z",
-    "url": "https://github.com/carglezfer/MaxKB"
   }
 ]
