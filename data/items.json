@@ -1,12 +1,66 @@
 [
   {
+    "description": "A continual-learning harness for open-weight LLMs: base + skill-LoRAs + RAG + an offline learning loop, behind an OpenAI",
+    "id": "RajaNarsimham/engram",
+    "language": "Python",
+    "name": "RajaNarsimham/engram",
+    "stars": 1,
+    "updated_at": "2026-06-13T14:59:39Z",
+    "url": "https://github.com/RajaNarsimham/engram"
+  },
+  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3203,
-    "updated_at": "2026-06-13T14:58:02Z",
+    "updated_at": "2026-06-13T14:59:38Z",
     "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Private. Free. Local. \u2014 Memory engine for personal AI agents. AES-256-GCM encrypted, 73.7% on LoCoMo (beats Mem0), 156\u00b5s",
+    "id": "gambletan/cortex",
+    "language": "Rust",
+    "name": "gambletan/cortex",
+    "stars": 16,
+    "updated_at": "2026-06-13T14:59:19Z",
+    "url": "https://github.com/gambletan/cortex"
+  },
+  {
+    "description": "Persistent, queryable memory for AI agents with semantic recall, layered storage, snapshots, and multi-agent scoping",
+    "id": "darks0l/remem",
+    "language": "TypeScript",
+    "name": "darks0l/remem",
+    "stars": 18,
+    "updated_at": "2026-06-13T14:59:19Z",
+    "url": "https://github.com/darks0l/remem"
+  },
+  {
+    "description": "AI contract analysis: clause extraction, risk flagging, and cited Q&A \u2014 honestly evaluated against lawyer annotations (C",
+    "id": "Volodymyr4K/clauselens",
+    "language": "Python",
+    "name": "Volodymyr4K/clauselens",
+    "stars": 0,
+    "updated_at": "2026-06-13T14:58:58Z",
+    "url": "https://github.com/Volodymyr4K/clauselens"
+  },
+  {
+    "description": "Personal Portfolio Website of Dhruv Mishra. A sketchbook style website, with details about me. It also has a feedback se",
+    "id": "Dhruv-Mishra/portfolioWebsite",
+    "language": "TypeScript",
+    "name": "Dhruv-Mishra/portfolioWebsite",
+    "stars": 2,
+    "updated_at": "2026-06-13T14:58:35Z",
+    "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-13T14:58:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open a tab, install nothing. A private, local-first AI knowledge base \u2014 on-device LLM chat (WebGPU), semantic search, an",
@@ -61,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-06-13T14:56:23Z",
     "url": "https://github.com/memtomem/memtomem"
-  },
-  {
-    "description": "AI contract analysis: clause extraction, risk flagging, and cited Q&A \u2014 honestly evaluated against lawyer annotations (C",
-    "id": "Volodymyr4K/clauselens",
-    "language": "Python",
-    "name": "Volodymyr4K/clauselens",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:55:25Z",
-    "url": "https://github.com/Volodymyr4K/clauselens"
   },
   {
     "description": "AI agent in Delphi Object Pascal",
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "pushkar-anand/JN-66",
     "stars": 3,
-    "updated_at": "2026-06-13T14:49:36Z",
+    "updated_at": "2026-06-13T14:59:41Z",
     "url": "https://github.com/pushkar-anand/JN-66"
   },
   {
@@ -315,20 +360,11 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-13T14:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
     "id": "HKUDS/LightRAG",
     "language": "Python",
     "name": "HKUDS/LightRAG",
-    "stars": 36524,
+    "stars": 36525,
     "updated_at": "2026-06-13T14:44:38Z",
     "url": "https://github.com/HKUDS/LightRAG"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T14:41:49Z",
     "url": "https://github.com/venkathub/atlas-compliance-copilot"
-  },
-  {
-    "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
-    "id": "strikersam/autonomous-ai-agency",
-    "language": "Python",
-    "name": "strikersam/autonomous-ai-agency",
-    "stars": 4,
-    "updated_at": "2026-06-13T14:54:34Z",
-    "url": "https://github.com/strikersam/autonomous-ai-agency"
-  },
-  {
-    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
-    "id": "felladrin/MiniSearch",
-    "language": "TypeScript",
-    "name": "felladrin/MiniSearch",
-    "stars": 572,
-    "updated_at": "2026-06-13T14:41:42Z",
-    "url": "https://github.com/felladrin/MiniSearch"
-  },
-  {
-    "description": "Production-ready Python framework for AI agents with built-in guardrails, audit logging, cost tracking, and hybrid RAG. ",
-    "id": "johnnichev/selectools",
-    "language": "Python",
-    "name": "johnnichev/selectools",
-    "stars": 9,
-    "updated_at": "2026-06-13T14:41:27Z",
-    "url": "https://github.com/johnnichev/selectools"
-  },
-  {
-    "description": "RAG system with + mcp",
-    "id": "UshurbakiyevDavlat/Personal-Knowledge-Agent",
-    "language": "Python",
-    "name": "UshurbakiyevDavlat/Personal-Knowledge-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-13T14:40:45Z",
-    "url": "https://github.com/UshurbakiyevDavlat/Personal-Knowledge-Agent"
   }
 ]
