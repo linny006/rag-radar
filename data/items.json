@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83c\udf0d Explore Saudi Arabia's rich heritage and tourism through a seamless digital platform that enhances visitor experiences",
+    "id": "knackwursthand910/Sawwah",
+    "language": "Jupyter Notebook",
+    "name": "knackwursthand910/Sawwah",
+    "stars": 0,
+    "updated_at": "2026-06-14T12:15:15Z",
+    "url": "https://github.com/knackwursthand910/Sawwah"
+  },
+  {
+    "description": "RAG FABRIC: Fictional & Actual Benchmark for Robust Inference & Context",
+    "id": "Abhimanyu8/RAG-FABRIC-Dataset",
+    "language": "Python",
+    "name": "Abhimanyu8/RAG-FABRIC-Dataset",
+    "stars": 1,
+    "updated_at": "2026-06-14T12:14:47Z",
+    "url": "https://github.com/Abhimanyu8/RAG-FABRIC-Dataset"
+  },
+  {
+    "description": "Self-histed multi-agent AI framework (LLM orchestrator) - web UI, voice, code & design studio, Home assistant, MCP plugi",
+    "id": "faelnor92/Athena",
+    "language": "Python",
+    "name": "faelnor92/Athena",
+    "stars": 0,
+    "updated_at": "2026-06-14T12:14:46Z",
+    "url": "https://github.com/faelnor92/Athena"
+  },
+  {
+    "description": "",
+    "id": "Plastic-mechanicaldrawing282/RAG-Based-ChatBot",
+    "language": "Python",
+    "name": "Plastic-mechanicaldrawing282/RAG-Based-ChatBot",
+    "stars": 3,
+    "updated_at": "2026-06-14T12:14:32Z",
+    "url": "https://github.com/Plastic-mechanicaldrawing282/RAG-Based-ChatBot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T12:14:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udd16 Automate document indexing and enable intelligent Q&A with this real-time Telegram bot using OpenAI GPT-4 and Pinecone",
     "id": "nooksandcrannieslgb937/ai-chatbot",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T12:13:33Z",
     "url": "https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook"
-  },
-  {
-    "description": "RAG FABRIC: Fictional & Actual Benchmark for Robust Inference & Context",
-    "id": "Abhimanyu8/RAG-FABRIC-Dataset",
-    "language": "Python",
-    "name": "Abhimanyu8/RAG-FABRIC-Dataset",
-    "stars": 1,
-    "updated_at": "2026-06-14T12:13:24Z",
-    "url": "https://github.com/Abhimanyu8/RAG-FABRIC-Dataset"
   },
   {
     "description": "Unified brain plugin \u2014 single SQLite DB for RAG search, memory, and knowledge base",
@@ -252,15 +288,6 @@
     "url": "https://github.com/bakhliustov/askgraph"
   },
   {
-    "description": "Self-histed multi-agent AI framework (LLM orchestrator) - web UI, voice, code & design studio, Home assistant, MCP plugi",
-    "id": "faelnor92/Athena",
-    "language": "Python",
-    "name": "faelnor92/Athena",
-    "stars": 0,
-    "updated_at": "2026-06-14T12:11:07Z",
-    "url": "https://github.com/faelnor92/Athena"
-  },
-  {
     "description": "\ud83d\udd0d Create AI experts on-demand for multi-agent conversations with real-time web research and intelligent context manageme",
     "id": "joshualegado008/claude-agent-chat",
     "language": "Python",
@@ -268,6 +295,15 @@
     "stars": 4,
     "updated_at": "2026-06-14T12:08:18Z",
     "url": "https://github.com/joshualegado008/claude-agent-chat"
+  },
+  {
+    "description": "Portfolio of Generative AI, LLM Engineering, NLP, RAG, AI Agents, Fine-Tuning, Machine Learning, PyTorch, LangChain, Vec",
+    "id": "Hadeer-Nabil/Gen-AI-LLM-Engineering-Portfolio",
+    "language": "\u2014",
+    "name": "Hadeer-Nabil/Gen-AI-LLM-Engineering-Portfolio",
+    "stars": 0,
+    "updated_at": "2026-06-14T12:08:13Z",
+    "url": "https://github.com/Hadeer-Nabil/Gen-AI-LLM-Engineering-Portfolio"
   },
   {
     "description": "\ud83d\udcac Engage in continuous chat while dynamically building a JSONL playbook, enhancing insights and strategies with each int",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-14T12:05:31Z",
     "url": "https://github.com/Saritaa2710/SurfSense"
-  },
-  {
-    "description": "\ud83d\ude80 Transform your skills with 70 hands-on projects in Generative AI, guiding you from beginner to production-ready archit",
-    "id": "Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects",
-    "language": "\u2014",
-    "name": "Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects",
-    "stars": 4,
-    "updated_at": "2026-06-14T12:05:21Z",
-    "url": "https://github.com/Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-06-14T12:05:12Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "\u95ee\u955c\uff08Agentic Interviewer\uff09\uff1a\u57fa\u4e8e LangGraph \u7684\u53ef\u8ffd\u8d23 AI \u6a21\u62df\u9762\u8bd5\u4e0e\u590d\u76d8\u8bad\u7ec3\u7cfb\u7edf\uff0c\u5b9e\u8df5\u8bc4\u5206\u5408\u540c\u3001\u4e0a\u4e0b\u6587\u6cbb\u7406\u3001Trace \u56de\u653e\u4e0e\u4ea7\u54c1\u63a7\u5236\u9762",
-    "id": "liuhan-agent/Agentic_Interviewer",
-    "language": "Python",
-    "name": "liuhan-agent/Agentic_Interviewer",
-    "stars": 1,
-    "updated_at": "2026-06-14T12:05:02Z",
-    "url": "https://github.com/liuhan-agent/Agentic_Interviewer"
-  },
-  {
-    "description": "\ud83d\ude80 Unify engineering principles and processes with a flexible framework that promotes clarity, consistency, and long-term",
-    "id": "Suwopfrmda8/engineering-system-framework",
-    "language": "\u2014",
-    "name": "Suwopfrmda8/engineering-system-framework",
-    "stars": 1,
-    "updated_at": "2026-06-14T12:05:01Z",
-    "url": "https://github.com/Suwopfrmda8/engineering-system-framework"
   }
 ]
