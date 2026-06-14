@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udf93 AI-powered Telegram RAG bot for university admission support",
+    "id": "Il101/admission-rag-bot",
+    "language": "Python",
+    "name": "Il101/admission-rag-bot",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:47:46Z",
+    "url": "https://github.com/Il101/admission-rag-bot"
+  },
+  {
+    "description": "Onyx-like, cloud-codable AI agent service \u2014 knowledge chat, tools, conversations/participants, schema-driven WebSockets.",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:47:42Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "RAG agent with SGR, smart indexing and reranking, metadata enrichment, parent document extraction",
+    "id": "arterm-sedov/cmw-rag",
+    "language": "Python",
+    "name": "arterm-sedov/cmw-rag",
+    "stars": 4,
+    "updated_at": "2026-06-14T17:46:58Z",
+    "url": "https://github.com/arterm-sedov/cmw-rag"
+  },
+  {
+    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
+    "id": "mabaeyens/mira-core",
+    "language": "Python",
+    "name": "mabaeyens/mira-core",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:46:13Z",
+    "url": "https://github.com/mabaeyens/mira-core"
+  },
+  {
+    "description": "Vault-native, accountable memory for Claude Code and MCP clients. Markdown is the source of truth, no LLM on the Stop pa",
+    "id": "TheGoatPsy/mneme",
+    "language": "Python",
+    "name": "TheGoatPsy/mneme",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:45:35Z",
+    "url": "https://github.com/TheGoatPsy/mneme"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-14T17:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-14T17:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Reference architecture for securely deploying clinical AI systems with LLM security, SOC monitoring, and adversarial tes",
     "id": "MohsenBah/MedSecLab",
     "language": "\u2014",
@@ -16,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-06-14T17:44:36Z",
     "url": "https://github.com/jmahiswara1/bki-rag-chatbot"
+  },
+  {
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 28763,
+    "updated_at": "2026-06-14T17:44:05Z",
+    "url": "https://github.com/simstudioai/sim"
   },
   {
     "description": "Multi-layer Intelligent Evaluation for Smart Contracts \u2014 35 analysis modules, 9 defense layers, one command. Pre-audit t",
@@ -162,15 +234,6 @@
     "url": "https://github.com/neuronaline/flask-ai-agent-studio"
   },
   {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 28762,
-    "updated_at": "2026-06-14T17:44:05Z",
-    "url": "https://github.com/simstudioai/sim"
-  },
-  {
     "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and P",
     "id": "tale-project/tale",
     "language": "TypeScript",
@@ -216,15 +279,6 @@
     "url": "https://github.com/nitesht2/second-brain-ai"
   },
   {
-    "description": "Onyx-like, cloud-codable AI agent service \u2014 knowledge chat, tools, conversations/participants, schema-driven WebSockets.",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:39:20Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "Azure AI Services platform for camera-driven threat intelligence: weapon detection + school lockdown orchestration, crim",
     "id": "QuyDu/Xavier",
     "language": "Python",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:35:18Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Vault-native, accountable memory for Claude Code and MCP clients. Markdown is the source of truth, no LLM on the Stop pa",
-    "id": "TheGoatPsy/mneme",
-    "language": "Python",
-    "name": "TheGoatPsy/mneme",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:35:06Z",
-    "url": "https://github.com/TheGoatPsy/mneme"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -333,24 +378,6 @@
     "url": "https://github.com/dev-core-busy/jarvis"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-14T17:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent in Delphi Object Pascal",
     "id": "FMXExpress/PasClaw",
     "language": "Pascal",
@@ -358,15 +385,6 @@
     "stars": 24,
     "updated_at": "2026-06-14T17:37:05Z",
     "url": "https://github.com/FMXExpress/PasClaw"
-  },
-  {
-    "description": "RAG agent with SGR, smart indexing and reranking, metadata enrichment, parent document extraction",
-    "id": "arterm-sedov/cmw-rag",
-    "language": "Python",
-    "name": "arterm-sedov/cmw-rag",
-    "stars": 4,
-    "updated_at": "2026-06-14T17:29:25Z",
-    "url": "https://github.com/arterm-sedov/cmw-rag"
   },
   {
     "description": "Local-first persistent memory for AI coding agents via MCP. Semantic search and session context for Claude Code, Cursor,",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T17:26:12Z",
     "url": "https://github.com/Paul-Orlando/n8n-mcp-server-agentic-rag"
-  },
-  {
-    "description": "End-to-end Retrieval-Augmented Generation (RAG) workflow/agents for cezzis.com cocktails. Built with Python, Qdrant, Oll",
-    "id": "mtnvencenzo/cezzis-com-ingestion-agentic-wf",
-    "language": "Python",
-    "name": "mtnvencenzo/cezzis-com-ingestion-agentic-wf",
-    "stars": 0,
-    "updated_at": "2026-06-14T17:25:12Z",
-    "url": "https://github.com/mtnvencenzo/cezzis-com-ingestion-agentic-wf"
-  },
-  {
-    "description": "Cross-Document RAG eval dataset generator with Confluence crawler and LLM-powered question generation using clean archit",
-    "id": "4thel00z/slurp",
-    "language": "Python",
-    "name": "4thel00z/slurp",
-    "stars": 2,
-    "updated_at": "2026-06-14T17:30:27Z",
-    "url": "https://github.com/4thel00z/slurp"
   }
 ]
