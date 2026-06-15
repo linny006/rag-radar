@@ -1,5 +1,59 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 28724,
+    "updated_at": "2026-06-15T21:30:28Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "An episodic-memory diagnostic for LLM context systems \u2014 pre-registered, deterministic, fork-and-run",
+    "id": "compresh/tbench",
+    "language": "Python",
+    "name": "compresh/tbench",
+    "stars": 0,
+    "updated_at": "2026-06-15T21:30:27Z",
+    "url": "https://github.com/compresh/tbench"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-15T21:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-15T21:30:08Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based compliance document analyzer \u2014 grounded Q&A, checklist generation, and gap analysis. Python \u00b7 Streamlit \u00b7 Chro",
+    "id": "manasaghattamaneni/complianceiq",
+    "language": "Python",
+    "name": "manasaghattamaneni/complianceiq",
+    "stars": 0,
+    "updated_at": "2026-06-15T21:30:04Z",
+    "url": "https://github.com/manasaghattamaneni/complianceiq"
+  },
+  {
+    "description": "\ud83d\ude80 Build and deploy advanced multimodal retrieval-augmented generation systems with RAG-Anything, your all-in-one framewo",
+    "id": "junior99wa/RAG-Anything",
+    "language": "Python",
+    "name": "junior99wa/RAG-Anything",
+    "stars": 2,
+    "updated_at": "2026-06-15T21:29:46Z",
+    "url": "https://github.com/junior99wa/RAG-Anything"
+  },
+  {
     "description": "\ud83d\udc19 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
     "id": "airbytehq/airbyte-agent-sdk",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 780,
     "updated_at": "2026-06-15T21:28:10Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 61636,
-    "updated_at": "2026-06-15T21:20:19Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5183,
-    "updated_at": "2026-06-15T21:19:51Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "\ud83e\udd16 Build a production-ready generative AI chatbot with RAG, LangChain, and Azure for accurate, context-aware conversation",
-    "id": "Lp7X/azure-genai-chatbot-rag-langchain",
-    "language": "Python",
-    "name": "Lp7X/azure-genai-chatbot-rag-langchain",
-    "stars": 2,
-    "updated_at": "2026-06-15T21:19:47Z",
-    "url": "https://github.com/Lp7X/azure-genai-chatbot-rag-langchain"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI agents to transform businesses and create powerful software with this comprehensive masterclass. Dive into pr",
-    "id": "daboi2331/ai-agents-masterclass",
-    "language": "Python",
-    "name": "daboi2331/ai-agents-masterclass",
-    "stars": 3,
-    "updated_at": "2026-06-15T21:19:41Z",
-    "url": "https://github.com/daboi2331/ai-agents-masterclass"
-  },
-  {
-    "description": "\ud83e\udd16 Build agent-integrated systems easily with the AI-Agent-Framework, a Python library that offers a flexible API for cus",
-    "id": "Thiagoopro/AI-Agent-Framework",
-    "language": "Python",
-    "name": "Thiagoopro/AI-Agent-Framework",
-    "stars": 1,
-    "updated_at": "2026-06-15T21:19:39Z",
-    "url": "https://github.com/Thiagoopro/AI-Agent-Framework"
-  },
-  {
-    "description": "",
-    "id": "giortechnology/ai-code-helper",
-    "language": "Vue",
-    "name": "giortechnology/ai-code-helper",
-    "stars": 1,
-    "updated_at": "2026-06-15T21:19:39Z",
-    "url": "https://github.com/giortechnology/ai-code-helper"
   }
 ]
