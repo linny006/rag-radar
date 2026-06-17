@@ -1,5 +1,122 @@
 [
   {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3206,
+    "updated_at": "2026-06-17T23:07:37Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "iOS & watchOS speech-to-text app with AI voice keyboard, on-device RAG, and chat with your notes - powered by Apple Foun",
+    "id": "n0an/VivaDicta",
+    "language": "Swift",
+    "name": "n0an/VivaDicta",
+    "stars": 81,
+    "updated_at": "2026-06-17T23:07:15Z",
+    "url": "https://github.com/n0an/VivaDicta"
+  },
+  {
+    "description": "AI document review agent with PII protection, Pydantic structured outputs, and Langfuse observability. FastAPI backend +",
+    "id": "ygyzys83/Document_Review_Agent",
+    "language": "Python",
+    "name": "ygyzys83/Document_Review_Agent",
+    "stars": 2,
+    "updated_at": "2026-06-17T23:06:34Z",
+    "url": "https://github.com/ygyzys83/Document_Review_Agent"
+  },
+  {
+    "description": "Memory-aware conversational RAG engine that returns the single best podcast clip or episode for a natural-language quest",
+    "id": "akira231097/echofind",
+    "language": "Python",
+    "name": "akira231097/echofind",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:05:38Z",
+    "url": "https://github.com/akira231097/echofind"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-17T23:06:09Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "MOOTx01 Community Edition",
+    "id": "codedaptive/mootx01-ce",
+    "language": "Swift",
+    "name": "codedaptive/mootx01-ce",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:05:26Z",
+    "url": "https://github.com/codedaptive/mootx01-ce"
+  },
+  {
+    "description": "Mention-driven hybrid-RAG assistant that recommends the single best podcast clip for a question. Query understanding + H",
+    "id": "akira231097/clipopedia",
+    "language": "Python",
+    "name": "akira231097/clipopedia",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:05:14Z",
+    "url": "https://github.com/akira231097/clipopedia"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-17T23:03:11Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18595,
+    "updated_at": "2026-06-17T23:03:08Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
+    "id": "gokhantos/opencrow",
+    "language": "TypeScript",
+    "name": "gokhantos/opencrow",
+    "stars": 18,
+    "updated_at": "2026-06-17T23:02:23Z",
+    "url": "https://github.com/gokhantos/opencrow"
+  },
+  {
+    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:02:10Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Suite A2A con 18 agentes (se pueden crear +) enfocados en  ciberseguridad ofensiva Red-Team sobre Claude Code: Orquestac",
     "id": "devPruebaDataunix/Data-Attack-Offensive-Tools",
     "language": "Python",
@@ -18,30 +135,12 @@
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
   },
   {
-    "description": "Memory-aware conversational RAG engine that returns the single best podcast clip or episode for a natural-language quest",
-    "id": "akira231097/echofind",
-    "language": "Python",
-    "name": "akira231097/echofind",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:59:40Z",
-    "url": "https://github.com/akira231097/echofind"
-  },
-  {
-    "description": "Mention-driven hybrid-RAG assistant that recommends the single best podcast clip for a question. Query understanding + H",
-    "id": "akira231097/clipopedia",
-    "language": "Python",
-    "name": "akira231097/clipopedia",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:59:34Z",
-    "url": "https://github.com/akira231097/clipopedia"
-  },
-  {
     "description": "Real-time LLM hallucination guardrail \u2014 NLI + RAG fact-checking with token-level streaming halt. Drop-in for any LLM bac",
     "id": "anulum/director-ai",
     "language": "Python",
     "name": "anulum/director-ai",
     "stars": 1,
-    "updated_at": "2026-06-17T22:59:33Z",
+    "updated_at": "2026-06-17T23:07:49Z",
     "url": "https://github.com/anulum/director-ai"
   },
   {
@@ -50,17 +149,8 @@
     "language": "Go",
     "name": "hallelx2/vectorless-engine",
     "stars": 3,
-    "updated_at": "2026-06-17T22:59:26Z",
+    "updated_at": "2026-06-17T23:01:48Z",
     "url": "https://github.com/hallelx2/vectorless-engine"
-  },
-  {
-    "description": "Meta-harness compiler for AI agents. Compile one crewhaus.yaml into a CLI, channel bot, RAG pipeline, multi-agent crew, ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:59:58Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -97,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-17T22:56:33Z",
     "url": "https://github.com/Cerid-AI/cerid-ai"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18595,
-    "updated_at": "2026-06-17T22:56:21Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "AI-powered document intelligence platform for research administration",
@@ -153,15 +234,6 @@
     "url": "https://github.com/tecno-consultores/ISP-Copilot"
   },
   {
-    "description": "iOS & watchOS speech-to-text app with AI voice keyboard, on-device RAG, and chat with your notes - powered by Apple Foun",
-    "id": "n0an/VivaDicta",
-    "language": "Swift",
-    "name": "n0an/VivaDicta",
-    "stars": 81,
-    "updated_at": "2026-06-17T22:51:24Z",
-    "url": "https://github.com/n0an/VivaDicta"
-  },
-  {
     "description": "visual AI agent builder with multi-agent orchestration, RAG pipeline, MCP/A2A protocols, and continuous learning",
     "id": "webdevcom01-cell/agent-studio",
     "language": "TypeScript",
@@ -169,24 +241,6 @@
     "stars": 3,
     "updated_at": "2026-06-17T22:53:22Z",
     "url": "https://github.com/webdevcom01-cell/agent-studio"
-  },
-  {
-    "description": "AI document review agent with PII protection, Pydantic structured outputs, and Langfuse observability. FastAPI backend +",
-    "id": "ygyzys83/Document_Review_Agent",
-    "language": "Python",
-    "name": "ygyzys83/Document_Review_Agent",
-    "stars": 2,
-    "updated_at": "2026-06-17T22:49:43Z",
-    "url": "https://github.com/ygyzys83/Document_Review_Agent"
-  },
-  {
-    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
-    "id": "gokhantos/opencrow",
-    "language": "TypeScript",
-    "name": "gokhantos/opencrow",
-    "stars": 18,
-    "updated_at": "2026-06-17T22:49:29Z",
-    "url": "https://github.com/gokhantos/opencrow"
   },
   {
     "description": "Natural-language to validated GMAT .script \u2014 RAG-grounded generation, lint-checked against gmat-script, with a model-agn",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T22:48:25Z",
     "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:47:03Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One-click knowledge system for documents, internal bots, and AI agents",
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "chatman-media/lead-engine",
     "stars": 4,
-    "updated_at": "2026-06-17T22:54:50Z",
+    "updated_at": "2026-06-17T23:06:46Z",
     "url": "https://github.com/chatman-media/lead-engine"
   },
   {
@@ -266,17 +311,8 @@
     "language": "JavaScript",
     "name": "RapidFireAI/rapidfireai",
     "stars": 165,
-    "updated_at": "2026-06-17T22:45:20Z",
+    "updated_at": "2026-06-17T23:06:16Z",
     "url": "https://github.com/RapidFireAI/rapidfireai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Find and govern AI attack surfaces in application code at PR time. Free, OSS, runs offline.",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "Taleef7/jobops-copilot",
     "stars": 0,
-    "updated_at": "2026-06-17T22:39:05Z",
+    "updated_at": "2026-06-17T23:07:14Z",
     "url": "https://github.com/Taleef7/jobops-copilot"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 30391,
-    "updated_at": "2026-06-17T22:55:08Z",
+    "updated_at": "2026-06-17T23:02:43Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -385,24 +421,6 @@
     "stars": 23,
     "updated_at": "2026-06-17T22:40:42Z",
     "url": "https://github.com/raintree-technology/docpull"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 11,
-    "updated_at": "2026-06-17T22:38:36Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "MOOTx01 Community Edition",
-    "id": "codedaptive/mootx01-ce",
-    "language": "Swift",
-    "name": "codedaptive/mootx01-ce",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:36:47Z",
-    "url": "https://github.com/codedaptive/mootx01-ce"
   },
   {
     "description": "Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files ",
@@ -430,23 +448,5 @@
     "stars": 1269,
     "updated_at": "2026-06-17T22:34:33Z",
     "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": " Build an AI agent platform for healthcare-adjacent case management across Personal Injury attorney cases and Commercial",
-    "id": "tomnguyen103/Case-Operation",
-    "language": "Python",
-    "name": "tomnguyen103/Case-Operation",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:59:13Z",
-    "url": "https://github.com/tomnguyen103/Case-Operation"
-  },
-  {
-    "description": "Auto-updated ATO Legal Database exports \u2014 public rulings, edited private advice, interpretative decisions & PCGs in mach",
-    "id": "simplelex/ATO-Australian-Tax-Law-Dataset",
-    "language": "\u2014",
-    "name": "simplelex/ATO-Australian-Tax-Law-Dataset",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:32:50Z",
-    "url": "https://github.com/simplelex/ATO-Australian-Tax-Law-Dataset"
   }
 ]
