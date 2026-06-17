@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI tabletop system for long-running DND campaigns",
+    "id": "dajiaohuang/dnd-dm-agent",
+    "language": "Python",
+    "name": "dajiaohuang/dnd-dm-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:15:09Z",
+    "url": "https://github.com/dajiaohuang/dnd-dm-agent"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:15:02Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:13:53Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:13:40Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 161,
+    "updated_at": "2026-06-17T23:13:27Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "",
+    "id": "antflydb/antfly",
+    "language": "Zig",
+    "name": "antflydb/antfly",
+    "stars": 395,
+    "updated_at": "2026-06-17T23:12:55Z",
+    "url": "https://github.com/antflydb/antfly"
+  },
+  {
+    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
+    "id": "makoy-daniot2001/agent-session-mirror",
+    "language": "HTML",
+    "name": "makoy-daniot2001/agent-session-mirror",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:12:44Z",
+    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
+  },
+  {
+    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
+    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "language": "HTML",
+    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:12:29Z",
+    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
+  },
+  {
+    "description": "A retrieval engine that reasons over document structure \u2014 not embeddings. No chunking, no top-K, no vector DB.",
+    "id": "hallelx2/vectorless-engine",
+    "language": "Go",
+    "name": "hallelx2/vectorless-engine",
+    "stars": 3,
+    "updated_at": "2026-06-17T23:12:22Z",
+    "url": "https://github.com/hallelx2/vectorless-engine"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:11:06Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Real-time LLM hallucination guardrail \u2014 NLI + RAG fact-checking with token-level streaming halt. Drop-in for any LLM bac",
+    "id": "anulum/director-ai",
+    "language": "Python",
+    "name": "anulum/director-ai",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:10:07Z",
+    "url": "https://github.com/anulum/director-ai"
+  },
+  {
+    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 35,
+    "updated_at": "2026-06-17T23:09:41Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "Mention-driven hybrid-RAG assistant that recommends the single best podcast clip for a question. Query understanding + H",
+    "id": "akira231097/clipopedia",
+    "language": "Python",
+    "name": "akira231097/clipopedia",
+    "stars": 0,
+    "updated_at": "2026-06-17T23:08:07Z",
+    "url": "https://github.com/akira231097/clipopedia"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T23:07:54Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
@@ -54,15 +180,6 @@
     "url": "https://github.com/codedaptive/mootx01-ce"
   },
   {
-    "description": "Mention-driven hybrid-RAG assistant that recommends the single best podcast clip for a question. Query understanding + H",
-    "id": "akira231097/clipopedia",
-    "language": "Python",
-    "name": "akira231097/clipopedia",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:05:14Z",
-    "url": "https://github.com/akira231097/clipopedia"
-  },
-  {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
     "id": "Dakera-AI/dakera-deploy",
     "language": "JavaScript",
@@ -77,8 +194,17 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18595,
-    "updated_at": "2026-06-17T23:03:08Z",
+    "updated_at": "2026-06-17T23:13:48Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "This project demonstrates a real-time AI \"Meeting Coach\" showcasing the use of Confluent Cloud for Apache Flink AI Infer",
+    "id": "confluentinc/flink-sql-ai-meetingcoach-azure",
+    "language": "Shell",
+    "name": "confluentinc/flink-sql-ai-meetingcoach-azure",
+    "stars": 7,
+    "updated_at": "2026-06-17T23:03:04Z",
+    "url": "https://github.com/confluentinc/flink-sql-ai-meetingcoach-azure"
   },
   {
     "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
@@ -86,7 +212,7 @@
     "language": "TypeScript",
     "name": "gokhantos/opencrow",
     "stars": 18,
-    "updated_at": "2026-06-17T23:02:23Z",
+    "updated_at": "2026-06-17T23:11:10Z",
     "url": "https://github.com/gokhantos/opencrow"
   },
   {
@@ -108,15 +234,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Suite A2A con 18 agentes (se pueden crear +) enfocados en  ciberseguridad ofensiva Red-Team sobre Claude Code: Orquestac",
     "id": "devPruebaDataunix/Data-Attack-Offensive-Tools",
     "language": "Python",
@@ -133,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T22:59:40Z",
     "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
-    "description": "Real-time LLM hallucination guardrail \u2014 NLI + RAG fact-checking with token-level streaming halt. Drop-in for any LLM bac",
-    "id": "anulum/director-ai",
-    "language": "Python",
-    "name": "anulum/director-ai",
-    "stars": 1,
-    "updated_at": "2026-06-17T23:07:49Z",
-    "url": "https://github.com/anulum/director-ai"
-  },
-  {
-    "description": "A retrieval engine that reasons over document structure \u2014 not embeddings. No chunking, no top-K, no vector DB.",
-    "id": "hallelx2/vectorless-engine",
-    "language": "Go",
-    "name": "hallelx2/vectorless-engine",
-    "stars": 3,
-    "updated_at": "2026-06-17T23:01:48Z",
-    "url": "https://github.com/hallelx2/vectorless-engine"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -196,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-06-17T22:55:52Z",
     "url": "https://github.com/ui-insight/vandalizer"
-  },
-  {
-    "description": "AI tabletop system for long-running DND campaigns",
-    "id": "dajiaohuang/dnd-dm-agent",
-    "language": "Python",
-    "name": "dajiaohuang/dnd-dm-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:55:36Z",
-    "url": "https://github.com/dajiaohuang/dnd-dm-agent"
   },
   {
     "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
@@ -333,15 +423,6 @@
     "url": "https://github.com/phonghhd/EvoNet-AI-Core"
   },
   {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 160,
-    "updated_at": "2026-06-17T22:43:38Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
     "description": "Memento \u2014 structured, sourced, living knowledge substrate for AI agents, via MCP. Typed blocks, propose-validate loop. A",
     "id": "otomata-tech/memento-core",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 3894,
     "updated_at": "2026-06-17T22:39:42Z",
     "url": "https://github.com/alvinreal/awesome-opensource-ai"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:39:22Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 12 tools with ToolAnnotations",
-    "id": "EtanHey/brainlayer",
-    "language": "Python",
-    "name": "EtanHey/brainlayer",
-    "stars": 8,
-    "updated_at": "2026-06-17T22:50:45Z",
-    "url": "https://github.com/EtanHey/brainlayer"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 9,
-    "updated_at": "2026-06-17T22:39:30Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "AI-agent operations platform for the job search \u2014 multi-provider LLMs, RAG over pgvector, multi-step LangChain agents, a",
-    "id": "Taleef7/jobops-copilot",
-    "language": "TypeScript",
-    "name": "Taleef7/jobops-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:07:14Z",
-    "url": "https://github.com/Taleef7/jobops-copilot"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30391,
-    "updated_at": "2026-06-17T23:02:43Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Convert the public web into AI-ready Markdown with a local Python CLI/SDK/MCP crawler.",
-    "id": "raintree-technology/docpull",
-    "language": "Python",
-    "name": "raintree-technology/docpull",
-    "stars": 23,
-    "updated_at": "2026-06-17T22:40:42Z",
-    "url": "https://github.com/raintree-technology/docpull"
-  },
-  {
-    "description": "Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files ",
-    "id": "memtomem/memtomem",
-    "language": "Python",
-    "name": "memtomem/memtomem",
-    "stars": 7,
-    "updated_at": "2026-06-17T22:35:51Z",
-    "url": "https://github.com/memtomem/memtomem"
-  },
-  {
-    "description": "Agent-safe code retrieval for MCP coding agents: runtime-first search, exact reads, call graph context, and fresh repo e",
-    "id": "ham-zax/satori",
-    "language": "TypeScript",
-    "name": "ham-zax/satori",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:34:25Z",
-    "url": "https://github.com/ham-zax/satori"
-  },
-  {
-    "description": "Hivemind turns your traces into reusable skills across agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 1269,
-    "updated_at": "2026-06-17T22:34:33Z",
-    "url": "https://github.com/activeloopai/hivemind"
   }
 ]
