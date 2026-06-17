@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI agent in Delphi Object Pascal",
+    "id": "FMXExpress/PasClaw",
+    "language": "Pascal",
+    "name": "FMXExpress/PasClaw",
+    "stars": 26,
+    "updated_at": "2026-06-17T05:17:04Z",
+    "url": "https://github.com/FMXExpress/PasClaw"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6959,
+    "updated_at": "2026-06-17T05:16:50Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 36674,
+    "updated_at": "2026-06-17T05:17:02Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "description": "Self-histed multi-agent AI framework (LLM orchestrator) - web UI, voice, code & design studio, Home assistant, MCP plugi",
+    "id": "faelnor92/Athena",
+    "language": "Python",
+    "name": "faelnor92/Athena",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:16:28Z",
+    "url": "https://github.com/faelnor92/Athena"
+  },
+  {
+    "description": "Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Co",
+    "id": "EverMind-AI/EverOS",
+    "language": "Python",
+    "name": "EverMind-AI/EverOS",
+    "stars": 7599,
+    "updated_at": "2026-06-17T05:16:02Z",
+    "url": "https://github.com/EverMind-AI/EverOS"
+  },
+  {
+    "description": "Your screen history, searchable and automated - Windows OCR + REST API + AI + RAG",
+    "id": "nicolasestrem/screensearch",
+    "language": "Rust",
+    "name": "nicolasestrem/screensearch",
+    "stars": 6,
+    "updated_at": "2026-06-17T05:17:54Z",
+    "url": "https://github.com/nicolasestrem/screensearch"
+  },
+  {
+    "description": "\uc2e0\uad6c\ub300\ud559\uad50 \ud559\uc0dd \uc804\uc6a9 \ucee4\ubba4\ub2c8\ud2f0 \uc571 | React Native + Expo + Supabase + Gemini AI",
+    "id": "dnf98083-cmyk/uni-app",
+    "language": "TypeScript",
+    "name": "dnf98083-cmyk/uni-app",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:15:37Z",
+    "url": "https://github.com/dnf98083-cmyk/uni-app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T05:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Run and manage local AI models, search your files and code, and crawl the web, all in one program. Cited answers, local-",
+    "id": "tobocop2/lilbee",
+    "language": "Python",
+    "name": "tobocop2/lilbee",
+    "stars": 24,
+    "updated_at": "2026-06-17T05:16:52Z",
+    "url": "https://github.com/tobocop2/lilbee"
+  },
+  {
     "description": "Official implementation of EvoEmbedding: Evolvable embedding for long-context retrieval and agentic memory.",
     "id": "Clare-Nie/EvoEmbedding",
     "language": "\u2014",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "EazyHood/avorag",
     "stars": 0,
-    "updated_at": "2026-06-17T05:13:44Z",
+    "updated_at": "2026-06-17T05:18:00Z",
     "url": "https://github.com/EazyHood/avorag"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/avp0122/ats-resume-builder"
   },
   {
-    "description": "Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Co",
-    "id": "EverMind-AI/EverOS",
-    "language": "Python",
-    "name": "EverMind-AI/EverOS",
-    "stars": 7599,
-    "updated_at": "2026-06-17T05:11:32Z",
-    "url": "https://github.com/EverMind-AI/EverOS"
-  },
-  {
     "description": "Voice-enabled Retrieval-Augmented Generation (RAG) assistant built with Python, Groq LLM, Whisper for speech-to-text, em",
     "id": "ujjwal540/Voice-RAG-Assistant",
     "language": "Python",
@@ -104,7 +185,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 145543,
-    "updated_at": "2026-06-17T05:11:12Z",
+    "updated_at": "2026-06-17T05:17:47Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -131,7 +212,7 @@
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 189,
-    "updated_at": "2026-06-17T05:11:23Z",
+    "updated_at": "2026-06-17T05:15:58Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -140,7 +221,7 @@
     "language": "TypeScript",
     "name": "giselles-ai/giselle",
     "stars": 535,
-    "updated_at": "2026-06-17T05:10:18Z",
+    "updated_at": "2026-06-17T05:15:54Z",
     "url": "https://github.com/giselles-ai/giselle"
   },
   {
@@ -158,7 +239,7 @@
     "language": "Python",
     "name": "rrodenas3/ai-native-capabilities",
     "stars": 0,
-    "updated_at": "2026-06-17T05:14:44Z",
+    "updated_at": "2026-06-17T05:17:40Z",
     "url": "https://github.com/rrodenas3/ai-native-capabilities"
   },
   {
@@ -306,33 +387,6 @@
     "url": "https://github.com/siddharthanagula3/agiagentautomation"
   },
   {
-    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-    "id": "HKUDS/LightRAG",
-    "language": "Python",
-    "name": "HKUDS/LightRAG",
-    "stars": 36674,
-    "updated_at": "2026-06-17T05:15:10Z",
-    "url": "https://github.com/HKUDS/LightRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T05:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T05:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "GenAI SOC 2026 projects including RAG applications, prompt engineering, vector databases, agents, and LLM integrations.",
     "id": "vishnu-g4947/genai-soc-2026",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:56:21Z",
     "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "MCP server that actively probes, scores, and certifies RAG pipeline compliance \u2014 EU AI Act, GDPR/DPDP, HIPAA, SEBI/RBI",
-    "id": "aakash2410/MCP_RAG_Compliance",
-    "language": "Python",
-    "name": "aakash2410/MCP_RAG_Compliance",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:54:52Z",
-    "url": "https://github.com/aakash2410/MCP_RAG_Compliance"
-  },
-  {
-    "description": "RAG research-paper assistant with claim-level citation verification, cross-paper comparison, an AI peer-review panel, an",
-    "id": "ankitkumartiwari-web/citecheck",
-    "language": "Python",
-    "name": "ankitkumartiwari-web/citecheck",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:54:22Z",
-    "url": "https://github.com/ankitkumartiwari-web/citecheck"
-  },
-  {
-    "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
-    "id": "BriarDevv/Ynara",
-    "language": "Python",
-    "name": "BriarDevv/Ynara",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:53:48Z",
-    "url": "https://github.com/BriarDevv/Ynara"
-  },
-  {
-    "description": "The distilled, portfolio-grade core of NodeBench AI. A cross-collaborative agent that gathers live room context, finds t",
-    "id": "HomenShum/NodeAgent",
-    "language": "TypeScript",
-    "name": "HomenShum/NodeAgent",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:53:12Z",
-    "url": "https://github.com/HomenShum/NodeAgent"
-  },
-  {
-    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information ",
-    "id": "kreuzberg-dev/kreuzberg",
-    "language": "Rust",
-    "name": "kreuzberg-dev/kreuzberg",
-    "stars": 8497,
-    "updated_at": "2026-06-17T05:07:22Z",
-    "url": "https://github.com/kreuzberg-dev/kreuzberg"
-  },
-  {
-    "description": "Production RAG chatbot that indexes SharePoint docs, generates cited answers via Amazon Bedrock (Claude + Titan), and se",
-    "id": "c0debyeric/enterprise-rag-chatbot",
-    "language": "Python",
-    "name": "c0debyeric/enterprise-rag-chatbot",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:50:53Z",
-    "url": "https://github.com/c0debyeric/enterprise-rag-chatbot"
   }
 ]
