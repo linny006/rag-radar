@@ -1,11 +1,83 @@
 [
   {
+    "description": "Self-hosted, modular, local-first personal-assistant platform \u2014 an AI agent plus pluggable integration modules.",
+    "id": "baakhoff/epicurus",
+    "language": "Python",
+    "name": "baakhoff/epicurus",
+    "stars": 1,
+    "updated_at": "2026-06-17T21:33:50Z",
+    "url": "https://github.com/baakhoff/epicurus"
+  },
+  {
+    "description": "Universal TUI & web agent that connects to any llama.cpp server and uses RAG + semantic memory to research, write, and r",
+    "id": "pedjaurosevic/scribe-llm",
+    "language": "Python",
+    "name": "pedjaurosevic/scribe-llm",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:33:11Z",
+    "url": "https://github.com/pedjaurosevic/scribe-llm"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 6962,
+    "updated_at": "2026-06-17T21:32:54Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30391,
+    "updated_at": "2026-06-17T21:33:55Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1268,
+    "updated_at": "2026-06-17T21:31:36Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
+    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
+    "id": "lemmaoracle/lemma",
+    "language": "Astro",
+    "name": "lemmaoracle/lemma",
+    "stars": 2,
+    "updated_at": "2026-06-17T21:30:37Z",
+    "url": "https://github.com/lemmaoracle/lemma"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T21:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T21:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Governed shared memory for AI agent fleets \u2014 multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audi",
     "id": "caura-ai/caura-memclaw",
     "language": "Python",
     "name": "caura-ai/caura-memclaw",
     "stars": 127,
-    "updated_at": "2026-06-17T21:30:05Z",
+    "updated_at": "2026-06-17T21:31:56Z",
     "url": "https://github.com/caura-ai/caura-memclaw"
   },
   {
@@ -18,15 +90,6 @@
     "url": "https://github.com/imosudi/litsynthese"
   },
   {
-    "description": "Self-hosted, modular, local-first personal-assistant platform \u2014 an AI agent plus pluggable integration modules.",
-    "id": "baakhoff/epicurus",
-    "language": "Python",
-    "name": "baakhoff/epicurus",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:30:13Z",
-    "url": "https://github.com/baakhoff/epicurus"
-  },
-  {
     "description": "AI tabletop system for long-running DND campaigns",
     "id": "dajiaohuang/dnd-dm-agent",
     "language": "Python",
@@ -34,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:28:39Z",
     "url": "https://github.com/dajiaohuang/dnd-dm-agent"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18595,
+    "updated_at": "2026-06-17T21:28:26Z",
+    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "AI-powered document intelligence platform for research administration",
@@ -203,7 +275,7 @@
     "language": "TypeScript",
     "name": "carlwelchdesign/jobsearch-dashboard-ai",
     "stars": 2,
-    "updated_at": "2026-06-17T21:16:12Z",
+    "updated_at": "2026-06-17T21:32:45Z",
     "url": "https://github.com/carlwelchdesign/jobsearch-dashboard-ai"
   },
   {
@@ -214,24 +286,6 @@
     "stars": 612,
     "updated_at": "2026-06-17T21:15:41Z",
     "url": "https://github.com/heymrun/heym"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T21:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ClozeHive \u2014 wardrobe intelligence platform: digital closet, FANI AI stylist (LangGraph agent + MCP tools), RAG insights ",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T21:13:51Z",
     "url": "https://github.com/IsaacClarke2/provenant"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18596,
-    "updated_at": "2026-06-17T21:28:26Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Turn a topic into a real, verified course \u2014 an agentic course-synthesis engine with deterministic prerequisite-ordering ",
@@ -333,15 +378,6 @@
     "url": "https://github.com/BriarDevv/Ynara"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 6962,
-    "updated_at": "2026-06-17T21:09:04Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
     "id": "oigrex666/mcp-context-chronicler",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T21:01:55Z",
     "url": "https://github.com/automatiabcn/abs"
-  },
-  {
-    "description": "\ud83d\ude80 RAG CV Creator \u2014 Gera\u00e7\u00e3o Inteligente de Curr\u00edculos com IA (Claude, GPT, Gemini). Utilize RAG para conectar suas experi",
-    "id": "teuzowebdeveloper9/cv-creator-with-rag",
-    "language": "Python",
-    "name": "teuzowebdeveloper9/cv-creator-with-rag",
-    "stars": 1,
-    "updated_at": "2026-06-17T21:01:54Z",
-    "url": "https://github.com/teuzowebdeveloper9/cv-creator-with-rag"
-  },
-  {
-    "description": "Deterministic code-graph (GraphRAG) over your repo for LLM agents \u2014 local-first, git-native, zero-infra, served via MCP.",
-    "id": "reposkein/reposkein",
-    "language": "TypeScript",
-    "name": "reposkein/reposkein",
-    "stars": 2,
-    "updated_at": "2026-06-17T21:00:39Z",
-    "url": "https://github.com/reposkein/reposkein"
-  },
-  {
-    "description": "Generate hands-on, accurate HOWTO guides for the Reltio platform \u2014 powered by Claude Code and grounded in official Relti",
-    "id": "reltio-ai/reltio-ai-ready-howtos",
-    "language": "HTML",
-    "name": "reltio-ai/reltio-ai-ready-howtos",
-    "stars": 0,
-    "updated_at": "2026-06-17T20:59:15Z",
-    "url": "https://github.com/reltio-ai/reltio-ai-ready-howtos"
-  },
-  {
-    "description": "Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector + keyword retrieval",
-    "id": "eleboucher/memini",
-    "language": "Go",
-    "name": "eleboucher/memini",
-    "stars": 5,
-    "updated_at": "2026-06-17T20:57:15Z",
-    "url": "https://github.com/eleboucher/memini"
   }
 ]
