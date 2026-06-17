@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI tabletop system for long-running DND campaigns",
+    "id": "dajiaohuang/dnd-dm-agent",
+    "language": "Python",
+    "name": "dajiaohuang/dnd-dm-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:34:01Z",
+    "url": "https://github.com/dajiaohuang/dnd-dm-agent"
+  },
+  {
+    "description": "End-to-end AI audit tool combining SHAP explainability, Fairlearn fairness metrics, and a RAG pipeline (EU AI Act, NIST ",
+    "id": "adilh333/AI-Governance-Explainability-Copilot",
+    "language": "Python",
+    "name": "adilh333/AI-Governance-Explainability-Copilot",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:33:58Z",
+    "url": "https://github.com/adilh333/AI-Governance-Explainability-Copilot"
+  },
+  {
+    "description": "Cloud-native Retrieval-Augmented Generation (RAG) system using ASP.NET Core, Azure OpenAI, Azure AI Search, and Azure Bl",
+    "id": "nashsparrow/azure-c-sharp-rag-assistant",
+    "language": "C#",
+    "name": "nashsparrow/azure-c-sharp-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:32:53Z",
+    "url": "https://github.com/nashsparrow/azure-c-sharp-rag-assistant"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:32:13Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "\u5b89\u9759\u7684\u9605\u8bfb\u5668 \u2014\u2014 Markdown/PDF \u9605\u8bfb + \u9690\u8eab AI \u52a9\u624b\uff08\u672c\u5730 RAG\uff09",
+    "id": "huang-huaichao/quiet-reader",
+    "language": "TypeScript",
+    "name": "huang-huaichao/quiet-reader",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:32:04Z",
+    "url": "https://github.com/huang-huaichao/quiet-reader"
+  },
+  {
+    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 35,
+    "updated_at": "2026-06-17T19:31:42Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-17T19:32:05Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Ask HackerNews anything: a Vercel Eve + Upstash Redis Search demo agent.",
+    "id": "upstash/eve-example",
+    "language": "TypeScript",
+    "name": "upstash/eve-example",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:30:45Z",
+    "url": "https://github.com/upstash/eve-example"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-17T19:30:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T19:30:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "EvacuAIDi: AI-Driven Evacuation Framework - PhD Dissertation Presentation",
     "id": "pozapas/evacuaidi",
     "language": "HTML",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-17T19:30:01Z",
+    "updated_at": "2026-06-17T19:32:21Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -34,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T19:29:31Z",
     "url": "https://github.com/AmirrezaGhiasvand/ielts-essay-score-ai"
-  },
-  {
-    "description": "End-to-end AI audit tool combining SHAP explainability, Fairlearn fairness metrics, and a RAG pipeline (EU AI Act, NIST ",
-    "id": "adilh333/AI-Governance-Explainability-Copilot",
-    "language": "Python",
-    "name": "adilh333/AI-Governance-Explainability-Copilot",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:28:56Z",
-    "url": "https://github.com/adilh333/AI-Governance-Explainability-Copilot"
-  },
-  {
-    "description": "AI tabletop system for long-running DND campaigns",
-    "id": "dajiaohuang/dnd-dm-agent",
-    "language": "Python",
-    "name": "dajiaohuang/dnd-dm-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:28:56Z",
-    "url": "https://github.com/dajiaohuang/dnd-dm-agent"
   },
   {
     "description": "AI-powered support documentation chatbot using FLAN-T5, FAISS, and semantic search for intelligent knowledge retrieval.",
@@ -151,15 +223,6 @@
     "stars": 30389,
     "updated_at": "2026-06-17T19:29:08Z",
     "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-06-17T19:26:15Z",
-    "url": "https://github.com/alex-place/lantern-os"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "theogyeezy/friesenlabs",
     "stars": 0,
-    "updated_at": "2026-06-17T19:19:29Z",
+    "updated_at": "2026-06-17T19:34:31Z",
     "url": "https://github.com/theogyeezy/friesenlabs"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/EtanHey/brainlayer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:15:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
     "id": "makoy-daniot2001/agent-session-mirror",
     "language": "HTML",
@@ -387,15 +441,6 @@
     "url": "https://github.com/kirtan0515/resume-ai-builder"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The AI Operating System for Delphi. 100% native framework with RAG 2.0, autonomous agents, MCP protocol, and universal L",
     "id": "gustavoeenriquez/MakerAi",
     "language": "Pascal",
@@ -403,50 +448,5 @@
     "stars": 184,
     "updated_at": "2026-06-17T19:14:55Z",
     "url": "https://github.com/gustavoeenriquez/MakerAi"
-  },
-  {
-    "description": "Real-time F1 driver intelligence platform \u2014 RAG-powered multi-agent system for tire strategy, telemetry analysis, and ER",
-    "id": "adrianzevenster/driver-intelligence",
-    "language": "Python",
-    "name": "adrianzevenster/driver-intelligence",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:14:49Z",
-    "url": "https://github.com/adrianzevenster/driver-intelligence"
-  },
-  {
-    "description": "\ud83c\udf3f Production-grade Go framework for conversational AI agents \u2014 LLM abstraction, RAG, memory, WhatsApp, scheduling & obse",
-    "id": "wmulabs/eywa",
-    "language": "Go",
-    "name": "wmulabs/eywa",
-    "stars": 6,
-    "updated_at": "2026-06-17T19:14:40Z",
-    "url": "https://github.com/wmulabs/eywa"
-  },
-  {
-    "description": "Local-first AI student assistant built with C#, ASP.NET Core, SQLite, Ollama, and Microsoft Agent Framework.",
-    "id": "kennynguyen216/Alfred-AI-Student-Assistant",
-    "language": "C#",
-    "name": "kennynguyen216/Alfred-AI-Student-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:12:49Z",
-    "url": "https://github.com/kennynguyen216/Alfred-AI-Student-Assistant"
-  },
-  {
-    "description": " 100% local MCP server for semantic code search: AST-aware chunking, hybrid BM25+dense retrieval, code knowledge graph",
-    "id": "lorenzo-cambiaghi/LynxMCP",
-    "language": "Python",
-    "name": "lorenzo-cambiaghi/LynxMCP",
-    "stars": 3,
-    "updated_at": "2026-06-17T19:12:39Z",
-    "url": "https://github.com/lorenzo-cambiaghi/LynxMCP"
-  },
-  {
-    "description": "AI academic assistant for UofT students \u2014 grade calculator, syllabus parsing, and natural language chat",
-    "id": "Armaan204/uoft-agent",
-    "language": "Python",
-    "name": "Armaan204/uoft-agent",
-    "stars": 3,
-    "updated_at": "2026-06-17T19:12:32Z",
-    "url": "https://github.com/Armaan204/uoft-agent"
   }
 ]
