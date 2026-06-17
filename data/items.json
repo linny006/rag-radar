@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI agent platform \u2014 custom from-scratch ReAct engine (no LangChain), RAG pipeline, and real-time execution tracing. Fast",
-    "id": "SamaelHugo/agentforge",
-    "language": "Python",
-    "name": "SamaelHugo/agentforge",
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 11,
+    "updated_at": "2026-06-17T10:15:11Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Experimental C#/.Net project for tests and research",
+    "id": "LeoAlexandrov/AI-Chat-with-RAG",
+    "language": "C#",
+    "name": "LeoAlexandrov/AI-Chat-with-RAG",
     "stars": 0,
-    "updated_at": "2026-06-17T10:13:16Z",
-    "url": "https://github.com/SamaelHugo/agentforge"
+    "updated_at": "2026-06-17T10:13:54Z",
+    "url": "https://github.com/LeoAlexandrov/AI-Chat-with-RAG"
+  },
+  {
+    "description": "AI-powered PR reviewer with organizational memory that learns from incidents and postmortems to prevent recurring failur",
+    "id": "piyush0706/PRISM",
+    "language": "Python",
+    "name": "piyush0706/PRISM",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:13:52Z",
+    "url": "https://github.com/piyush0706/PRISM"
   },
   {
     "description": " A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "Buffden/rag-document-engine",
     "stars": 0,
-    "updated_at": "2026-06-17T10:13:06Z",
+    "updated_at": "2026-06-17T10:13:41Z",
     "url": "https://github.com/Buffden/rag-document-engine"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-17T10:13:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Anvilry \u2014 a Sairam's engineering portfolio with three switchable experiences over one content source: a classic SSG site",
+    "id": "sairam0424/anvilry",
+    "language": "TypeScript",
+    "name": "sairam0424/anvilry",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:13:17Z",
+    "url": "https://github.com/sairam0424/anvilry"
+  },
+  {
+    "description": "AI agent platform \u2014 custom from-scratch ReAct engine (no LangChain), RAG pipeline, and real-time execution tracing. Fast",
+    "id": "SamaelHugo/agentforge",
+    "language": "Python",
+    "name": "SamaelHugo/agentforge",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:13:16Z",
+    "url": "https://github.com/SamaelHugo/agentforge"
   },
   {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
@@ -108,20 +153,11 @@
     "url": "https://github.com/timzaak/rwiki"
   },
   {
-    "description": "Anvilry \u2014 a Sairam's engineering portfolio with three switchable experiences over one content source: a classic SSG site",
-    "id": "sairam0424/anvilry",
-    "language": "TypeScript",
-    "name": "sairam0424/anvilry",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:13:17Z",
-    "url": "https://github.com/sairam0424/anvilry"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 1471,
+    "stars": 1472,
     "updated_at": "2026-06-17T10:08:55Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 145594,
-    "updated_at": "2026-06-17T10:11:53Z",
+    "updated_at": "2026-06-17T10:13:38Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "steveyeow/Feynman",
     "stars": 154,
-    "updated_at": "2026-06-17T10:06:40Z",
+    "updated_at": "2026-06-17T10:15:03Z",
     "url": "https://github.com/steveyeow/Feynman"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T10:00:30Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-17T10:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-agent AI runtime with OS-inspired primitives \u2014 job scheduling, DAG orchestration, memory, tool execution and real-",
@@ -421,32 +448,5 @@
     "stars": 6276,
     "updated_at": "2026-06-17T09:56:48Z",
     "url": "https://github.com/dataease/SQLBot"
-  },
-  {
-    "description": "AI real-estate automation platform: Telegram bot, RAG, apartment search, CRM workflows, voice agent, Langfuse observabil",
-    "id": "yastman/rag",
-    "language": "Python",
-    "name": "yastman/rag",
-    "stars": 9,
-    "updated_at": "2026-06-17T10:08:43Z",
-    "url": "https://github.com/yastman/rag"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 161,
-    "updated_at": "2026-06-17T09:55:58Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "LocaI 3D Scene Discovery & Volumetric AI Object Retrieval Engine",
-    "id": "ayadav348/spatial-telemetry-engine",
-    "language": "Python",
-    "name": "ayadav348/spatial-telemetry-engine",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:55:35Z",
-    "url": "https://github.com/ayadav348/spatial-telemetry-engine"
   }
 ]
