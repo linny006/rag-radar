@@ -1,5 +1,131 @@
 [
   {
+    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
+    "id": "selmanays/nodrat",
+    "language": "Python",
+    "name": "selmanays/nodrat",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:44:53Z",
+    "url": "https://github.com/selmanays/nodrat"
+  },
+  {
+    "description": "Anvilry \u2014 a Sairam's engineering portfolio with three switchable experiences over one content source: a classic SSG site",
+    "id": "sairam0424/anvilry",
+    "language": "TypeScript",
+    "name": "sairam0424/anvilry",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:44:39Z",
+    "url": "https://github.com/sairam0424/anvilry"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18601,
+    "updated_at": "2026-06-18T19:44:21Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "RAG chatbot that answers questions grounded in your own course notes, with inline PDF source rendering.",
+    "id": "RyanTandean/CourseChat",
+    "language": "Python",
+    "name": "RyanTandean/CourseChat",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:44:18Z",
+    "url": "https://github.com/RyanTandean/CourseChat"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 1,
+    "updated_at": "2026-06-18T19:44:12Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Turn a creator's public output into a queryable knowledge-graph 'brain' \u2014 typed atom/edge reasoning graph, distilled wik",
+    "id": "LucasXCoder/engram",
+    "language": "Python",
+    "name": "LucasXCoder/engram",
+    "stars": 1,
+    "updated_at": "2026-06-18T19:43:18Z",
+    "url": "https://github.com/LucasXCoder/engram"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-18T19:43:16Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Two focused demos exploring agentic RAG, MCP, tool calling, and Agent Skills \u2014 built around failure matrices, not happy ",
+    "id": "ktajpuri/ai-agent-demos",
+    "language": "HTML",
+    "name": "ktajpuri/ai-agent-demos",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:42:18Z",
+    "url": "https://github.com/ktajpuri/ai-agent-demos"
+  },
+  {
+    "description": "Self-evolving AI maturity platform \u2014 an autonomous Evolution Agent researches new standards, proposes checkpoints, and g",
+    "id": "jonasarmbrust/AIStrategyHub",
+    "language": "JavaScript",
+    "name": "jonasarmbrust/AIStrategyHub",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:41:45Z",
+    "url": "https://github.com/jonasarmbrust/AIStrategyHub"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30413,
+    "updated_at": "2026-06-18T19:44:37Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Open-source AI agent that parses messy RFQ emails, PDFs, and spreadsheets into structured, priced, human-reviewed quotes",
+    "id": "Distill-AI/distill-ai",
+    "language": "TypeScript",
+    "name": "Distill-AI/distill-ai",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:41:19Z",
+    "url": "https://github.com/Distill-AI/distill-ai"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:40:50Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 139651,
+    "updated_at": "2026-06-18T19:43:16Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T19:40:14Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multimodal RAG engine with rigorous benchmarks \u2014 Live: https://mosaic-rag.vercel.app",
     "id": "jahidbappi/mosaic-rag",
     "language": "Python",
@@ -18,33 +144,6 @@
     "url": "https://github.com/shhahhussain/mnemo-benchmarks"
   },
   {
-    "description": "Open-source AI agent that parses messy RFQ emails, PDFs, and spreadsheets into structured, priced, human-reviewed quotes",
-    "id": "Distill-AI/distill-ai",
-    "language": "TypeScript",
-    "name": "Distill-AI/distill-ai",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:40:01Z",
-    "url": "https://github.com/Distill-AI/distill-ai"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18601,
-    "updated_at": "2026-06-18T19:39:53Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Self-evolving AI maturity platform \u2014 an autonomous Evolution Agent researches new standards, proposes checkpoints, and g",
-    "id": "jonasarmbrust/AIStrategyHub",
-    "language": "JavaScript",
-    "name": "jonasarmbrust/AIStrategyHub",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:39:21Z",
-    "url": "https://github.com/jonasarmbrust/AIStrategyHub"
-  },
-  {
     "description": "Natural-language to validated GMAT .script \u2014 RAG-grounded generation, lint-checked against gmat-script, with a model-agn",
     "id": "astro-tools/gmat-copilot",
     "language": "Python",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:39:12Z",
     "url": "https://github.com/astro-tools/gmat-copilot"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30412,
-    "updated_at": "2026-06-18T19:40:01Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
     "description": "Live FastAPI AI/RAG workflow backend: Google Drive intake, transcripts, Telegram approval callbacks, Bitrix24 outbox, Do",
@@ -99,15 +189,6 @@
     "url": "https://github.com/bejranonda/ExternalBrain"
   },
   {
-    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
-    "id": "selmanays/nodrat",
-    "language": "Python",
-    "name": "selmanays/nodrat",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:38:06Z",
-    "url": "https://github.com/selmanays/nodrat"
-  },
-  {
     "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
     "id": "alex-place/lantern-os",
     "language": "Python",
@@ -115,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T19:37:28Z",
     "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 1,
-    "updated_at": "2026-06-18T19:36:35Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Full AI context layer for coding agents \u2014 code-map, document RAG, shared memory, web crawl, git history. 300+ languages,",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "codecentric/c4-genai-suite",
     "stars": 171,
-    "updated_at": "2026-06-18T19:37:08Z",
+    "updated_at": "2026-06-18T19:40:23Z",
     "url": "https://github.com/codecentric/c4-genai-suite"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/queelius/dreamlog"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T19:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
     "id": "oigrex666/mcp-context-chronicler",
     "language": "HTML",
@@ -268,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T19:29:40Z",
     "url": "https://github.com/sopanmunde/trivisionx-ai"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 139650,
-    "updated_at": "2026-06-18T19:39:41Z",
-    "url": "https://github.com/langchain-ai/langchain"
   },
   {
     "description": "Multimodal AI agent for industrial quality inspection with vision, standards RAG, severity judgment, and structured repo",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:22:19Z",
     "url": "https://github.com/Vaish1005/MEDLENS"
-  },
-  {
-    "description": "Self-verifying AI competitive intelligence tool for PMM/GTM teams \u2014 every claim sourced, unverifiable claims cut and log",
-    "id": "uroshp/scout-ci",
-    "language": "Python",
-    "name": "uroshp/scout-ci",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:22:17Z",
-    "url": "https://github.com/uroshp/scout-ci"
-  },
-  {
-    "description": "Assistant GenAI multimodal on-premise pour le reporting ESG/CSRD : extraction vision, taxonomie ESRS, bilan carbone dete",
-    "id": "SeydinaBANE/empreinte",
-    "language": "\u2014",
-    "name": "SeydinaBANE/empreinte",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:21:55Z",
-    "url": "https://github.com/SeydinaBANE/empreinte"
-  },
-  {
-    "description": "Fast, private, client-side developer tools and clear references \u2014 plus explainers on modern AI infrastructure (context w",
-    "id": "damnepic/kbcafe",
-    "language": "Astro",
-    "name": "damnepic/kbcafe",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:21:55Z",
-    "url": "https://github.com/damnepic/kbcafe"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:21:17Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22355,
-    "updated_at": "2026-06-18T19:24:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 782,
-    "updated_at": "2026-06-18T19:19:48Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
