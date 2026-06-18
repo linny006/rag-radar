@@ -1,5 +1,68 @@
 [
   {
+    "description": "Offline AI assistant - chat with your documents locally. No cloud, no API key, no data leaks. Built with Python + FastAP",
+    "id": "imDarshanGK/localmind",
+    "language": "Python",
+    "name": "imDarshanGK/localmind",
+    "stars": 6,
+    "updated_at": "2026-06-18T17:29:57Z",
+    "url": "https://github.com/imDarshanGK/localmind"
+  },
+  {
+    "description": "Multimodal AI agent for industrial quality inspection with vision, standards RAG, severity judgment, and structured repo",
+    "id": "peige-guo/Multimodal_Industrial_Inspection_Agent",
+    "language": "Python",
+    "name": "peige-guo/Multimodal_Industrial_Inspection_Agent",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:29:40Z",
+    "url": "https://github.com/peige-guo/Multimodal_Industrial_Inspection_Agent"
+  },
+  {
+    "description": "An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!",
+    "id": "your-papa/obsidian-Smart2Brain",
+    "language": "TypeScript",
+    "name": "your-papa/obsidian-Smart2Brain",
+    "stars": 1131,
+    "updated_at": "2026-06-18T17:29:37Z",
+    "url": "https://github.com/your-papa/obsidian-Smart2Brain"
+  },
+  {
+    "description": "By Muhammad Awais | AI Engineer @ AI GenMat | FAST-NUCES | Full-fledge C++ & Python projects , compiler pipelines, game ",
+    "id": "ik-awais/Projects",
+    "language": "C++",
+    "name": "ik-awais/Projects",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:30:21Z",
+    "url": "https://github.com/ik-awais/Projects"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T17:28:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12668,
+    "updated_at": "2026-06-18T17:28:38Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30412,
+    "updated_at": "2026-06-18T17:29:39Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
     "description": "Production-grade autonomous AI orchestration \u2014 multi-agent pipelines, council deliberation, 15-provider LLM gateway, pgv",
     "id": "Yash-Awasthi/Nexus",
     "language": "TypeScript",
@@ -9,20 +72,11 @@
     "url": "https://github.com/Yash-Awasthi/Nexus"
   },
   {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30412,
-    "updated_at": "2026-06-18T17:28:37Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "chopratejas/headroom",
     "language": "Python",
     "name": "chopratejas/headroom",
-    "stars": 33462,
+    "stars": 33469,
     "updated_at": "2026-06-18T17:27:04Z",
     "url": "https://github.com/chopratejas/headroom"
   },
@@ -43,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T17:27:01Z",
     "url": "https://github.com/uroshp/scout-ci"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44837,
+    "updated_at": "2026-06-18T17:26:25Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI agentic orchestration platform + flagship AI agentic trading crew. Official SDKs in 9 languages over an in-house Rust",
@@ -333,15 +396,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T17:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Alpha \u00b7 Tier 1 \u2014 \u4e2d\u6587 AI \u5de5\u7a0b\u5e2b\u65e5\u5831 + \u9762\u8a66\u984c\u81ea\u52d5\u751f\u6210\u5668 + on-prem RAG \u77e5\u8b58\u5eab. RSS \u2192 Gemini Flash \u2192 FTS5 pipeline on phantom-mesh.",
     "id": "markl-a/phantom-ai-feed",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/Jigar710/LearnNLP2Agents"
   },
   {
-    "description": "Offline AI assistant - chat with your documents locally. No cloud, no API key, no data leaks. Built with Python + FastAP",
-    "id": "imDarshanGK/localmind",
-    "language": "Python",
-    "name": "imDarshanGK/localmind",
-    "stars": 6,
-    "updated_at": "2026-06-18T17:14:38Z",
-    "url": "https://github.com/imDarshanGK/localmind"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 76,
     "updated_at": "2026-06-18T17:13:05Z",
     "url": "https://github.com/buptlg/fireagent"
-  },
-  {
-    "description": "Production-ready local AI agent stack for NVIDIA DGX Spark / ASUS GB10. Gemma 4 31B NVFP4 + bge-m3 embeddings + OpenClaw",
-    "id": "chestercs/dgx-openclaw-stack",
-    "language": "Python",
-    "name": "chestercs/dgx-openclaw-stack",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:12:45Z",
-    "url": "https://github.com/chestercs/dgx-openclaw-stack"
-  },
-  {
-    "description": "AION \u2014 super-agente de IA 100% local con mente observable: conciencia funcional (GWT + \u00edndice \u03a6), memoria darwiniana, gr",
-    "id": "aamunozm/aion-superagente",
-    "language": "Rust",
-    "name": "aamunozm/aion-superagente",
-    "stars": 1,
-    "updated_at": "2026-06-18T17:12:37Z",
-    "url": "https://github.com/aamunozm/aion-superagente"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:12:32Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "",
-    "id": "antflydb/antfly",
-    "language": "Zig",
-    "name": "antflydb/antfly",
-    "stars": 398,
-    "updated_at": "2026-06-18T17:24:42Z",
-    "url": "https://github.com/antflydb/antfly"
-  },
-  {
-    "description": "AI-powered Restaurant Chatbot built with Python, SQLite, LangChain, OpenAI and Gradio.",
-    "id": "abenrefaelgmailcom/restaurant-chatbot",
-    "language": "Python",
-    "name": "abenrefaelgmailcom/restaurant-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-18T17:10:53Z",
-    "url": "https://github.com/abenrefaelgmailcom/restaurant-chatbot"
   }
 ]
