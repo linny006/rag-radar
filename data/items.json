@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "YoonSuHyeon/mindcairn",
     "stars": 0,
-    "updated_at": "2026-06-18T06:28:05Z",
+    "updated_at": "2026-06-18T06:30:09Z",
     "url": "https://github.com/YoonSuHyeon/mindcairn"
+  },
+  {
+    "description": "Hot-hatch hybrid vector + BM25 search for PostgreSQL on top of pgvector",
+    "id": "mayflower/pgturbohybrid",
+    "language": "C",
+    "name": "mayflower/pgturbohybrid",
+    "stars": 7,
+    "updated_at": "2026-06-18T06:29:48Z",
+    "url": "https://github.com/mayflower/pgturbohybrid"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-18T06:29:47Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents.  \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
+    "id": "1Panel-dev/MaxKB",
+    "language": "Python",
+    "name": "1Panel-dev/MaxKB",
+    "stars": 21358,
+    "updated_at": "2026-06-18T06:29:11Z",
+    "url": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "chopratejas/headroom",
+    "language": "Python",
+    "name": "chopratejas/headroom",
+    "stars": 32030,
+    "updated_at": "2026-06-18T06:29:11Z",
+    "url": "https://github.com/chopratejas/headroom"
+  },
+  {
+    "description": "Real-time meeting transcription + multilingual RAG for chief-of-staff workflows. Local-first; on-device audio; hermetic ",
+    "id": "BinHsu/aegis-core",
+    "language": "Go",
+    "name": "BinHsu/aegis-core",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:28:36Z",
+    "url": "https://github.com/BinHsu/aegis-core"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-18T06:28:28Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Budget-aware weekly meal planner with hybrid RAG, constraint-satisfaction planning, and automated evals. Live demo + 26-",
@@ -121,7 +175,7 @@
     "id": "infiniflow/ragflow",
     "language": "Python",
     "name": "infiniflow/ragflow",
-    "stars": 83074,
+    "stars": 83075,
     "updated_at": "2026-06-18T06:24:10Z",
     "url": "https://github.com/infiniflow/ragflow"
   },
@@ -153,15 +207,6 @@
     "url": "https://github.com/mem0ai/mem0"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 32029,
-    "updated_at": "2026-06-18T06:23:04Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
     "description": "Turn a creator's public output into a queryable knowledge-graph 'brain' \u2014 typed atom/edge reasoning graph, distilled wik",
     "id": "LucasXCoder/engram",
     "language": "Python",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 145667,
-    "updated_at": "2026-06-18T06:27:10Z",
+    "updated_at": "2026-06-18T06:30:17Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -187,6 +232,15 @@
     "stars": 14,
     "updated_at": "2026-06-18T06:21:55Z",
     "url": "https://github.com/SoluDevTech/mcp-raganything"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 44826,
+    "updated_at": "2026-06-18T06:21:51Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
@@ -212,7 +266,7 @@
     "language": "TypeScript",
     "name": "chatman-media/lead-engine",
     "stars": 4,
-    "updated_at": "2026-06-18T06:24:15Z",
+    "updated_at": "2026-06-18T06:29:18Z",
     "url": "https://github.com/chatman-media/lead-engine"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information ",
     "id": "kreuzberg-dev/kreuzberg",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 84,
     "updated_at": "2026-06-18T06:08:19Z",
     "url": "https://github.com/bonigarcia/context-engineering"
-  },
-  {
-    "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmark",
-    "id": "modelscope/evalscope",
-    "language": "Python",
-    "name": "modelscope/evalscope",
-    "stars": 2960,
-    "updated_at": "2026-06-18T06:06:41Z",
-    "url": "https://github.com/modelscope/evalscope"
-  },
-  {
-    "description": "FastAPI backend blueprint for AI agent apps: DDD, SQLAlchemy, Taskiq, admin UI, RAG infra, and Claude/Codex collaboratio",
-    "id": "Mr-DooSun/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "Mr-DooSun/fastapi-agent-blueprint",
-    "stars": 21,
-    "updated_at": "2026-06-18T06:15:06Z",
-    "url": "https://github.com/Mr-DooSun/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
-    "id": "ModelEngine-Group/nexent",
-    "language": "Python",
-    "name": "ModelEngine-Group/nexent",
-    "stars": 5141,
-    "updated_at": "2026-06-18T06:27:59Z",
-    "url": "https://github.com/ModelEngine-Group/nexent"
-  },
-  {
-    "description": "\u4e2d\u6587 RAG \u5f15\u64ce - \u6df7\u5408\u68c0\u7d22 + \u8bc4\u4f30\u95e8\u7981 + 92% \u8986\u76d6\u7387 | Hybrid search, evaluation gate, async Python 3.13",
-    "id": "nathanprogsun/rag-pipeline",
-    "language": "Python",
-    "name": "nathanprogsun/rag-pipeline",
-    "stars": 1,
-    "updated_at": "2026-06-18T06:06:12Z",
-    "url": "https://github.com/nathanprogsun/rag-pipeline"
-  },
-  {
-    "description": "Self-hosted AI agent and RAG platform. Index your code, docs, and data into Qdrant and answer over them, run a tool-call",
-    "id": "bulletinmybeard/agent-forge",
-    "language": "Python",
-    "name": "bulletinmybeard/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:06:49Z",
-    "url": "https://github.com/bulletinmybeard/agent-forge"
   }
 ]
