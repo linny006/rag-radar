@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T19:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-correcting RAG with a trainable critic model that detects and fixes hallucinations grounded in source documents.",
     "id": "PROSTO4ELUwU/self-correcting-rag",
     "language": "Python",
@@ -59,7 +77,7 @@
     "language": "JavaScript",
     "name": "frootai/frootai",
     "stars": 7,
-    "updated_at": "2026-06-19T19:43:21Z",
+    "updated_at": "2026-06-19T19:45:24Z",
     "url": "https://github.com/frootai/frootai"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "aamunozm/aion-superagente",
     "stars": 1,
-    "updated_at": "2026-06-19T19:33:15Z",
+    "updated_at": "2026-06-19T19:45:27Z",
     "url": "https://github.com/aamunozm/aion-superagente"
   },
   {
@@ -340,24 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T19:31:01Z",
     "url": "https://github.com/HiAi-gg/hiai-docs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T19:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
