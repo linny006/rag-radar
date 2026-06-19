@@ -1,5 +1,68 @@
 [
   {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-06-19T22:15:03Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "Karpathy's LLM Wiki, batteries-included and measured. An LLM-maintained second brain with a knowledge graph (graphify), ",
+    "id": "maystudios/better-second-brain",
+    "language": "Python",
+    "name": "maystudios/better-second-brain",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:14:57Z",
+    "url": "https://github.com/maystudios/better-second-brain"
+  },
+  {
+    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
+    "id": "mabaeyens/mira-core",
+    "language": "Python",
+    "name": "mabaeyens/mira-core",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:14:34Z",
+    "url": "https://github.com/mabaeyens/mira-core"
+  },
+  {
+    "description": "Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector + keyword retrieval",
+    "id": "eleboucher/memini",
+    "language": "Go",
+    "name": "eleboucher/memini",
+    "stars": 6,
+    "updated_at": "2026-06-19T22:14:25Z",
+    "url": "https://github.com/eleboucher/memini"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 139713,
+    "updated_at": "2026-06-19T22:14:09Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "SOPHIA \u2014 Sovereign Orchestrator Platform for Holistic Intelligence Architecture.",
+    "id": "Kisai-DG-SLU/sophia-platform",
+    "language": "Dockerfile",
+    "name": "Kisai-DG-SLU/sophia-platform",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:13:33Z",
+    "url": "https://github.com/Kisai-DG-SLU/sophia-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:13:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Bring-your-own-key desktop app to build custom AI personas, give them personal knowledge bases, chain them into workflow",
     "id": "Kallamo/Kallamo",
     "language": "JavaScript",
@@ -16,15 +79,6 @@
     "stars": 23,
     "updated_at": "2026-06-19T22:11:24Z",
     "url": "https://github.com/omarfarouk228/togolm"
-  },
-  {
-    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
-    "id": "mabaeyens/mira-core",
-    "language": "Python",
-    "name": "mabaeyens/mira-core",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:10:53Z",
-    "url": "https://github.com/mabaeyens/mira-core"
   },
   {
     "description": "From the Roots to the Fruits ! ",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Microindustry/TITANIUM_OS"
   },
   {
-    "description": "Karpathy's LLM Wiki, batteries-included and measured. An LLM-maintained second brain with a knowledge graph (graphify), ",
-    "id": "maystudios/better-second-brain",
-    "language": "Python",
-    "name": "maystudios/better-second-brain",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:06:26Z",
-    "url": "https://github.com/maystudios/better-second-brain"
-  },
-  {
     "description": "Local-first GenAI lab with a React frontend and Spring Boot backend, supporting Ollama, Amazon Bedrock, Hugging Face, RA",
     "id": "jrodolfo/local-genai-lab",
     "language": "Java",
@@ -160,15 +205,6 @@
     "stars": 18606,
     "updated_at": "2026-06-19T22:05:55Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector + keyword retrieval",
-    "id": "eleboucher/memini",
-    "language": "Go",
-    "name": "eleboucher/memini",
-    "stars": 6,
-    "updated_at": "2026-06-19T22:04:54Z",
-    "url": "https://github.com/eleboucher/memini"
   },
   {
     "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
@@ -270,15 +306,6 @@
     "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
     "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
     "language": "HTML",
@@ -340,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:53:29Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "SOPHIA \u2014 Sovereign Orchestrator Platform for Holistic Intelligence Architecture.",
-    "id": "Kisai-DG-SLU/sophia-platform",
-    "language": "Dockerfile",
-    "name": "Kisai-DG-SLU/sophia-platform",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:53:23Z",
-    "url": "https://github.com/Kisai-DG-SLU/sophia-platform"
   },
   {
     "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies ",
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-19T21:49:14Z",
     "url": "https://github.com/VforVitorio/F1-StratLab"
-  },
-  {
-    "description": "SelfHostedContextCrafter acts as an automated architectural team that runs completely on your local hardware by orchestr",
-    "id": "dramirezbe/SelfHostedContextCrafter",
-    "language": "\u2014",
-    "name": "dramirezbe/SelfHostedContextCrafter",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:46:36Z",
-    "url": "https://github.com/dramirezbe/SelfHostedContextCrafter"
-  },
-  {
-    "description": "Bare-metal performance engineer \u2014 hand-written CUDA/Rust/C++ for physics, quantum & neuro. Benchmarks I can defend.",
-    "id": "QuantumDrizzy/QuantumDrizzy",
-    "language": "\u2014",
-    "name": "QuantumDrizzy/QuantumDrizzy",
-    "stars": 1,
-    "updated_at": "2026-06-19T21:46:24Z",
-    "url": "https://github.com/QuantumDrizzy/QuantumDrizzy"
   }
 ]
