@@ -1,12 +1,147 @@
 [
   {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:14:58Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Self-hosted web crawling and RAG pipeline with MCP tooling for scrape, crawl, ingest, embed, query, and ask workflows.",
+    "id": "jmagar/axon",
+    "language": "Rust",
+    "name": "jmagar/axon",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:14:22Z",
+    "url": "https://github.com/jmagar/axon"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18606,
+    "updated_at": "2026-06-19T21:14:13Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 11,
+    "updated_at": "2026-06-19T21:13:59Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Logic programming with LLM integration and wake-sleep learning cycles",
+    "id": "queelius/dreamlog",
+    "language": "Python",
+    "name": "queelius/dreamlog",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:13:47Z",
+    "url": "https://github.com/queelius/dreamlog"
+  },
+  {
+    "description": "Jina AI-compatible reranker REST API backed by LiteLLM",
+    "id": "Fidonis/jina-reranker-api",
+    "language": "Python",
+    "name": "Fidonis/jina-reranker-api",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:14:14Z",
+    "url": "https://github.com/Fidonis/jina-reranker-api"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 0,
-    "updated_at": "2026-06-19T21:06:29Z",
+    "updated_at": "2026-06-19T21:12:54Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Karpathy's LLM Wiki, batteries-included and measured. An LLM-maintained second brain with a knowledge graph (graphify), ",
+    "id": "maystudios/better-second-brain",
+    "language": "Python",
+    "name": "maystudios/better-second-brain",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:11:58Z",
+    "url": "https://github.com/maystudios/better-second-brain"
+  },
+  {
+    "description": "Uplift: a multi-tenant agentic CRM with a Moveworks-style conversational front door. Claude Managed Agents for the reaso",
+    "id": "theogyeezy/friesenlabs",
+    "language": "Python",
+    "name": "theogyeezy/friesenlabs",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:11:09Z",
+    "url": "https://github.com/theogyeezy/friesenlabs"
+  },
+  {
+    "description": "Persistent memory & RAG engine for AI agents \u2014 SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi-",
+    "id": "aksika/abmind",
+    "language": "TypeScript",
+    "name": "aksika/abmind",
+    "stars": 19,
+    "updated_at": "2026-06-19T21:10:28Z",
+    "url": "https://github.com/aksika/abmind"
+  },
+  {
+    "description": "MCP-enabled evaluation and claim-grounding toolkit for long-document RAG systems - retrieval evaluation (5 methods), cla",
+    "id": "Mormolykos/longbook-rag-eval-lab",
+    "language": "Python",
+    "name": "Mormolykos/longbook-rag-eval-lab",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:10:20Z",
+    "url": "https://github.com/Mormolykos/longbook-rag-eval-lab"
+  },
+  {
+    "description": " The Explicit GraphQL Framework for the LLM Era  Simple patterns. High performance. PostgreSQL at the center..",
+    "id": "fraiseql/fraiseql-python",
+    "language": "Python",
+    "name": "fraiseql/fraiseql-python",
+    "stars": 21,
+    "updated_at": "2026-06-19T21:12:17Z",
+    "url": "https://github.com/fraiseql/fraiseql-python"
+  },
+  {
+    "description": "AI-powered IELTS writing scorer using local LLMs, RAG, and official band descriptors. Built with FastAPI, LangChain, Chr",
+    "id": "AmirrezaGhiasvand/ielts-essay-score-ai",
+    "language": "TypeScript",
+    "name": "AmirrezaGhiasvand/ielts-essay-score-ai",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:08:39Z",
+    "url": "https://github.com/AmirrezaGhiasvand/ielts-essay-score-ai"
+  },
+  {
+    "description": "Agentic AI research analyst for equities and crypto - multi-agent orchestration, MCP tools, streaming. Educational/resea",
+    "id": "andreasN78/agora",
+    "language": "Python",
+    "name": "andreasN78/agora",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:08:19Z",
+    "url": "https://github.com/andreasN78/agora"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:07:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TriVisionX \u2013 Enterprise-grade AI Research Assistant powered by Advanced RAG, LangGraph Multi-Agent Workflows, Gemini LLM",
+    "id": "sopanmunde/trivisionx-ai",
+    "language": "TypeScript",
+    "name": "sopanmunde/trivisionx-ai",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:07:24Z",
+    "url": "https://github.com/sopanmunde/trivisionx-ai"
   },
   {
     "description": "Local NotebookLM for Claude Code via Google Antigravity (agy / Gemini 3.x): /agy:notebook turns a folder of documents in",
@@ -43,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:05:57Z",
     "url": "https://github.com/nashsparrow/azure-c-sharp-rag-assistant"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18606,
-    "updated_at": "2026-06-19T21:05:30Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Documenting my journey of understanding modern AI concepts\u2014from Transformers and LLMs to RAG, Agents, Embeddings, Vector",
@@ -117,15 +243,6 @@
     "url": "https://github.com/srfrog/goldie-mcp"
   },
   {
-    "description": "Self-hosted web crawling and RAG pipeline with MCP tooling for scrape, crawl, ingest, embed, query, and ask workflows.",
-    "id": "jmagar/axon",
-    "language": "Rust",
-    "name": "jmagar/axon",
-    "stars": 2,
-    "updated_at": "2026-06-19T21:00:42Z",
-    "url": "https://github.com/jmagar/axon"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -133,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:00:29Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-19T21:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
@@ -230,7 +338,7 @@
     "language": "Python",
     "name": "yiyaw-lab/seas",
     "stars": 1,
-    "updated_at": "2026-06-19T20:56:46Z",
+    "updated_at": "2026-06-19T21:15:12Z",
     "url": "https://github.com/yiyaw-lab/seas"
   },
   {
@@ -259,24 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:54:59Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Logic programming with LLM integration and wake-sleep learning cycles",
-    "id": "queelius/dreamlog",
-    "language": "Python",
-    "name": "queelius/dreamlog",
-    "stars": 1,
-    "updated_at": "2026-06-19T20:54:54Z",
-    "url": "https://github.com/queelius/dreamlog"
-  },
-  {
-    "description": " The Explicit GraphQL Framework for the LLM Era  Simple patterns. High performance. PostgreSQL at the center..",
-    "id": "fraiseql/fraiseql-python",
-    "language": "Python",
-    "name": "fraiseql/fraiseql-python",
-    "stars": 21,
-    "updated_at": "2026-06-19T21:01:27Z",
-    "url": "https://github.com/fraiseql/fraiseql-python"
   },
   {
     "description": "Persistent memory for AI coding agents. Local-first. Zero cloud. MCP-compatible.",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:42:35Z",
     "url": "https://github.com/VINAY7033/docu-query-assistant"
-  },
-  {
-    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
-    "id": "tetherto/qvac",
-    "language": "TypeScript",
-    "name": "tetherto/qvac",
-    "stars": 260,
-    "updated_at": "2026-06-19T20:40:54Z",
-    "url": "https://github.com/tetherto/qvac"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-06-19T20:40:53Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
-    "id": "Studnicky/Dagonizer",
-    "language": "TypeScript",
-    "name": "Studnicky/Dagonizer",
-    "stars": 3,
-    "updated_at": "2026-06-19T20:49:23Z",
-    "url": "https://github.com/Studnicky/Dagonizer"
-  },
-  {
-    "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-    "id": "TeleAI-UAGI/Awesome-Agent-Memory",
-    "language": "Python",
-    "name": "TeleAI-UAGI/Awesome-Agent-Memory",
-    "stars": 479,
-    "updated_at": "2026-06-19T20:39:59Z",
-    "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
-  },
-  {
-    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
-    "id": "HybridAIOne/hybridclaw",
-    "language": "TypeScript",
-    "name": "HybridAIOne/hybridclaw",
-    "stars": 116,
-    "updated_at": "2026-06-19T20:52:21Z",
-    "url": "https://github.com/HybridAIOne/hybridclaw"
-  },
-  {
-    "description": "The measurement layer for machine minds. Reads what a model means and whether it holds the truth, certifies that every c",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 13,
-    "updated_at": "2026-06-19T20:38:11Z",
-    "url": "https://github.com/fathom-lab/styxx"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:37:56Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "An immutable knowledge base your AI agent queries over MCP. Wiki-link graph, fused search, 74 MCP tools, runs local. htt",
-    "id": "immutlex/immutlex",
-    "language": "\u2014",
-    "name": "immutlex/immutlex",
-    "stars": 2,
-    "updated_at": "2026-06-19T20:37:40Z",
-    "url": "https://github.com/immutlex/immutlex"
-  },
-  {
-    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
-    "id": "harf-promo/indexa",
-    "language": "Rust",
-    "name": "harf-promo/indexa",
-    "stars": 2,
-    "updated_at": "2026-06-19T20:35:26Z",
-    "url": "https://github.com/harf-promo/indexa"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 165,
-    "updated_at": "2026-06-19T20:35:23Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
