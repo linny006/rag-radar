@@ -1,5 +1,86 @@
 [
   {
+    "description": "Grounded RAG assistant for public 5G, O-RAN, and 3GPP specifications.",
+    "id": "mlguyYT/Telco-Spec-Assistant",
+    "language": "Python",
+    "name": "mlguyYT/Telco-Spec-Assistant",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:49:10Z",
+    "url": "https://github.com/mlguyYT/Telco-Spec-Assistant"
+  },
+  {
+    "description": "your glass-box company brain \u2014 tells you what it doesn't know (deterministic gap analysis). MIT core \u00b7 MCP \u00b7 PGLite\u2192Post",
+    "id": "ahmetvural79/Vitrus",
+    "language": "TypeScript",
+    "name": "ahmetvural79/Vitrus",
+    "stars": 6,
+    "updated_at": "2026-06-20T23:49:03Z",
+    "url": "https://github.com/ahmetvural79/Vitrus"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-20T23:48:31Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
+    "id": "BriarDevv/Ynara",
+    "language": "Python",
+    "name": "BriarDevv/Ynara",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:48:26Z",
+    "url": "https://github.com/BriarDevv/Ynara"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:48:22Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
+    "id": "CGFixIT/CyClaw",
+    "language": "Python",
+    "name": "CGFixIT/CyClaw",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:47:18Z",
+    "url": "https://github.com/CGFixIT/CyClaw"
+  },
+  {
+    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
+    "id": "lemmaoracle/lemma",
+    "language": "Astro",
+    "name": "lemmaoracle/lemma",
+    "stars": 2,
+    "updated_at": "2026-06-20T23:45:49Z",
+    "url": "https://github.com/lemmaoracle/lemma"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T23:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "One library to split them all: Sentence, Code, Docs. Chunk smarter, not harder \u2014 built for LLMs, RAG pipelines, and beyo",
     "id": "speedyk-005/chunklet-py",
     "language": "Python",
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "furkandogmus/kuberag",
     "stars": 0,
-    "updated_at": "2026-06-20T23:43:32Z",
+    "updated_at": "2026-06-20T23:45:38Z",
     "url": "https://github.com/furkandogmus/kuberag"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T23:43:24Z",
     "url": "https://github.com/carrasquelalex1/hipocampo"
-  },
-  {
-    "description": "Grounded RAG assistant for public 5G, O-RAN, and 3GPP specifications.",
-    "id": "mlguyYT/Telco-Spec-Assistant",
-    "language": "Python",
-    "name": "mlguyYT/Telco-Spec-Assistant",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:43:23Z",
-    "url": "https://github.com/mlguyYT/Telco-Spec-Assistant"
   },
   {
     "description": "The pretty much \"official\" DSPy framework for Typescript",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-06-20T23:43:23Z",
+    "updated_at": "2026-06-20T23:45:22Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:42:26Z",
     "url": "https://github.com/darrshangovender/rag-eval-harness"
-  },
-  {
-    "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
-    "id": "BriarDevv/Ynara",
-    "language": "Python",
-    "name": "BriarDevv/Ynara",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:42:08Z",
-    "url": "https://github.com/BriarDevv/Ynara"
   },
   {
     "description": "Global \u540e\u7aef\u9879\u76ee\uff1aClaude Agent \u534f\u4f5c\u89c4\u8303\u3001Symphony/Linear \u5de5\u4f5c\u6d41\u3001OpenSpec/SDD \u4e0e TDD/RAG \u9a8c\u8bc1\u95e8\u7981\u3002",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "Keljian/JSE",
     "stars": 10,
-    "updated_at": "2026-06-20T23:40:28Z",
+    "updated_at": "2026-06-20T23:49:23Z",
     "url": "https://github.com/Keljian/JSE"
   },
   {
@@ -180,15 +243,6 @@
     "url": "https://github.com/aachtenberg/cfoperator"
   },
   {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "CGFixIT/CyClaw",
-    "language": "Python",
-    "name": "CGFixIT/CyClaw",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:40:47Z",
-    "url": "https://github.com/CGFixIT/CyClaw"
-  },
-  {
     "description": "SH-Jarvis: selbst gehostetes, deutschsprachiges KI-Assistenz-Oekosystem - Orchestrator/FastAPI, lokale LLM/STT/TTS, Geda",
     "id": "bmetallica/JARVIS",
     "language": "Python",
@@ -198,15 +252,6 @@
     "url": "https://github.com/bmetallica/JARVIS"
   },
   {
-    "description": "your glass-box company brain \u2014 tells you what it doesn't know (deterministic gap analysis). MIT core \u00b7 MCP \u00b7 PGLite\u2192Post",
-    "id": "ahmetvural79/Vitrus",
-    "language": "TypeScript",
-    "name": "ahmetvural79/Vitrus",
-    "stars": 6,
-    "updated_at": "2026-06-20T23:38:47Z",
-    "url": "https://github.com/ahmetvural79/Vitrus"
-  },
-  {
     "description": "Open-source private-document AI assistant with Laravel, Python RAG, ChromaDB, and document workflows.",
     "id": "Hasbi1605/ISTA-AI",
     "language": "PHP",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:38:41Z",
     "url": "https://github.com/Hasbi1605/ISTA-AI"
-  },
-  {
-    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
-    "id": "lemmaoracle/lemma",
-    "language": "Astro",
-    "name": "lemmaoracle/lemma",
-    "stars": 2,
-    "updated_at": "2026-06-20T23:43:13Z",
-    "url": "https://github.com/lemmaoracle/lemma"
   },
   {
     "description": "SEAS: frontier research engine that earns findings via an emission gate. Argo: live agentic Telegram scout that turns kn",
@@ -238,7 +274,7 @@
     "id": "langchain-ai/langchain",
     "language": "Python",
     "name": "langchain-ai/langchain",
-    "stars": 139771,
+    "stars": 139772,
     "updated_at": "2026-06-20T23:37:58Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "gokhantos/opencrow",
     "stars": 21,
-    "updated_at": "2026-06-20T23:33:18Z",
+    "updated_at": "2026-06-20T23:49:15Z",
     "url": "https://github.com/gokhantos/opencrow"
   },
   {
@@ -322,24 +358,6 @@
     "stars": 32,
     "updated_at": "2026-06-20T23:32:32Z",
     "url": "https://github.com/kkollsga/kglite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T23:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agentic Chatbot is a friend, with multi-level memory, reminders, voice support, MCP skills and tools. Communication chan",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T23:20:15Z",
     "url": "https://github.com/gamal1osama/Production-RAG-System"
-  },
-  {
-    "description": "\ud83c\udf5c Hawker Hunt \u2014 a multi-agent RAG system that finds the best Singapore hawker stall for you right now. Built with Claude",
-    "id": "vivekmisra15/sg-hawker-hunt",
-    "language": "Python",
-    "name": "vivekmisra15/sg-hawker-hunt",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:19:00Z",
-    "url": "https://github.com/vivekmisra15/sg-hawker-hunt"
-  },
-  {
-    "description": "Text embeddings and reranking for Swift \u2014 one protocol, providers for Voyage, Jina, Cohere, and OpenAI. No dependencies,",
-    "id": "Dean151/swift-embeddings",
-    "language": "Swift",
-    "name": "Dean151/swift-embeddings",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:14:40Z",
-    "url": "https://github.com/Dean151/swift-embeddings"
   }
 ]
