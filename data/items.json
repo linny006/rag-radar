@@ -1,12 +1,75 @@
 [
   {
+    "description": "Local document Q&A assistant with Spring Boot, Ollama, and PostgreSQL pgvector.",
+    "id": "Hyun-Kim95/rag-assistant",
+    "language": "Java",
+    "name": "Hyun-Kim95/rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:02:31Z",
+    "url": "https://github.com/Hyun-Kim95/rag-assistant"
+  },
+  {
+    "description": "AgentNexus \u662f\u4e00\u4e2a\u4e8b\u4ef6\u9a71\u52a8\u7684 ReAct (Thought\u2192Action\u2192Observe) AI Agent \u6846\u67b6\uff0c\u62e5\u6709\u5b8c\u6574\u7684\u5de5\u5177\u7cfb\u7edf\u3001\u8bb0\u5fc6\u7ba1\u7406\u3001RAG \u77e5\u8bc6\u5e93\u3001\u53ef\u89c2\u6d4b\u6027\u4f53\u7cfb\u548cTUI/GUI\u754c\u9762\u3002",
+    "id": "paipaipai666/agent-nexus",
+    "language": "Python",
+    "name": "paipaipai666/agent-nexus",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:02:12Z",
+    "url": "https://github.com/paipaipai666/agent-nexus"
+  },
+  {
     "description": "",
     "id": "unusdon/ai-chatbot-saas",
     "language": "TypeScript",
     "name": "unusdon/ai-chatbot-saas",
     "stars": 0,
-    "updated_at": "2026-06-20T05:59:47Z",
+    "updated_at": "2026-06-20T06:02:05Z",
     "url": "https://github.com/unusdon/ai-chatbot-saas"
+  },
+  {
+    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
+    "id": "furkandogmus/kuberag",
+    "language": "Go",
+    "name": "furkandogmus/kuberag",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:02:02Z",
+    "url": "https://github.com/furkandogmus/kuberag"
+  },
+  {
+    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
+    "id": "CGFixIT/CyClaw",
+    "language": "Python",
+    "name": "CGFixIT/CyClaw",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:02:01Z",
+    "url": "https://github.com/CGFixIT/CyClaw"
+  },
+  {
+    "description": "Transform complex legal documents into clear, actionable insights with AI-powered analysis.",
+    "id": "lvndry/clausea",
+    "language": "Python",
+    "name": "lvndry/clausea",
+    "stars": 8,
+    "updated_at": "2026-06-20T06:00:39Z",
+    "url": "https://github.com/lvndry/clausea"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Adaptive memory for AI agents & teams \u2014 beyond RAG. Self-hosted MCP server that gets smarter every time you search: hybr",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:59:09Z",
     "url": "https://github.com/augmentableai/tpsreport-obsidian-sync"
-  },
-  {
-    "description": "Kubernetes-native RAG operator: declarative knowledge bases (CRDs) with GitHub/S3/web sources, Qdrant/pgvector/Milvus st",
-    "id": "furkandogmus/kuberag",
-    "language": "Go",
-    "name": "furkandogmus/kuberag",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:58:43Z",
-    "url": "https://github.com/furkandogmus/kuberag"
   },
   {
     "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool mult",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "ctt444123-maker/AI_Workers",
     "stars": 0,
-    "updated_at": "2026-06-20T05:54:28Z",
+    "updated_at": "2026-06-20T06:01:09Z",
     "url": "https://github.com/ctt444123-maker/AI_Workers"
   },
   {
@@ -205,24 +259,6 @@
     "stars": 18,
     "updated_at": "2026-06-20T05:45:57Z",
     "url": "https://github.com/evepupil/CloudMind"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T05:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Spanish-language F1 analysis tool powered by FastF1 + Claude Sonnet + Supabase. Chat with telemetry, race strategy, pit ",
@@ -369,15 +405,6 @@
     "url": "https://github.com/jmagar/axon"
   },
   {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "CGFixIT/CyClaw",
-    "language": "Python",
-    "name": "CGFixIT/CyClaw",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:58:42Z",
-    "url": "https://github.com/CGFixIT/CyClaw"
-  },
-  {
     "description": "Multi-agent AI orchestration platform \u2014 107 TypeScript packages, 15 LLM providers, council deliberation, pgvector memory",
     "id": "Yash-Awasthi/Nexus",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T05:33:03Z",
     "url": "https://github.com/sangmorg1-debug/latticememory"
-  },
-  {
-    "description": "Triage every RAG trace. Name the failure. Get the fix. One decorator.",
-    "id": "SrijanShekhar21/VeralithAI",
-    "language": "Python",
-    "name": "SrijanShekhar21/VeralithAI",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:31:37Z",
-    "url": "https://github.com/SrijanShekhar21/VeralithAI"
-  },
-  {
-    "description": "Autonomous AI Desktop Agent for Linux \u2013 Multi-LLM, Desktop Control via VNC, WhatsApp Integration, RAG Knowledge Base, Op",
-    "id": "dev-core-busy/jarvis",
-    "language": "Python",
-    "name": "dev-core-busy/jarvis",
-    "stars": 9,
-    "updated_at": "2026-06-20T05:31:30Z",
-    "url": "https://github.com/dev-core-busy/jarvis"
-  },
-  {
-    "description": "A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework.",
-    "id": "rudrankriyam/Foundation-Models-Framework-Lab",
-    "language": "Swift",
-    "name": "rudrankriyam/Foundation-Models-Framework-Lab",
-    "stars": 1121,
-    "updated_at": "2026-06-20T05:31:21Z",
-    "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Lab"
   }
 ]
