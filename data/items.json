@@ -1,12 +1,12 @@
 [
   {
-    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
-    "id": "gokhantos/opencrow",
-    "language": "TypeScript",
-    "name": "gokhantos/opencrow",
-    "stars": 21,
-    "updated_at": "2026-06-20T18:08:14Z",
-    "url": "https://github.com/gokhantos/opencrow"
+    "description": "AI real-estate automation platform: Telegram bot, RAG, apartment search, CRM workflows, voice agent, Langfuse observabil",
+    "id": "yastman/rag",
+    "language": "Python",
+    "name": "yastman/rag",
+    "stars": 10,
+    "updated_at": "2026-06-20T18:14:39Z",
+    "url": "https://github.com/yastman/rag"
   },
   {
     "description": "Open source agentic operating system",
@@ -14,8 +14,98 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18609,
-    "updated_at": "2026-06-20T18:07:24Z",
+    "updated_at": "2026-06-20T18:12:44Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
+    "id": "oigrex666/mcp-context-chronicler",
+    "language": "HTML",
+    "name": "oigrex666/mcp-context-chronicler",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:12:43Z",
+    "url": "https://github.com/oigrex666/mcp-context-chronicler"
+  },
+  {
+    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
+    "id": "bj-qizhi/trigix",
+    "language": "Rust",
+    "name": "bj-qizhi/trigix",
+    "stars": 2,
+    "updated_at": "2026-06-20T18:12:16Z",
+    "url": "https://github.com/bj-qizhi/trigix"
+  },
+  {
+    "description": "Template catalog and SDK for AI subsystems \u2014 agents, RAG, MCP servers, eval harnesses, infrastructure. Part of the nanoh",
+    "id": "nanohype/nanohype",
+    "language": "TypeScript",
+    "name": "nanohype/nanohype",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:12:04Z",
+    "url": "https://github.com/nanohype/nanohype"
+  },
+  {
+    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
+    "id": "gokhantos/opencrow",
+    "language": "TypeScript",
+    "name": "gokhantos/opencrow",
+    "stars": 21,
+    "updated_at": "2026-06-20T18:10:58Z",
+    "url": "https://github.com/gokhantos/opencrow"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:10:43Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Unified registry & router for agent skills, MCP servers, and Claude Code plugins.",
+    "id": "sheep-programmer/AIForge",
+    "language": "TypeScript",
+    "name": "sheep-programmer/AIForge",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:10:13Z",
+    "url": "https://github.com/sheep-programmer/AIForge"
+  },
+  {
+    "description": "Transform complex legal documents into clear, actionable insights with AI-powered analysis.",
+    "id": "lvndry/clausea",
+    "language": "Python",
+    "name": "lvndry/clausea",
+    "stars": 8,
+    "updated_at": "2026-06-20T18:09:43Z",
+    "url": "https://github.com/lvndry/clausea"
+  },
+  {
+    "description": "Ontario leases routinely include clauses void under the Residential Tenancies Act. Most tenants sign without knowing. Le",
+    "id": "parthiv-2006/lease-guard",
+    "language": "TypeScript",
+    "name": "parthiv-2006/lease-guard",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:09:09Z",
+    "url": "https://github.com/parthiv-2006/lease-guard"
+  },
+  {
+    "description": "100% local research agent for your papers - ask PDFs on your machine, page-accurate verified citations, cross-paper synt",
+    "id": "Baldwinzc/citelocal-agent",
+    "language": "Python",
+    "name": "Baldwinzc/citelocal-agent",
+    "stars": 15,
+    "updated_at": "2026-06-20T18:08:42Z",
+    "url": "https://github.com/Baldwinzc/citelocal-agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:08:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Korean accounting and tax benchmark for evaluating evidence-grounded AI systems",
@@ -99,15 +189,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "FEED \u2014 a self-bootstrapping, AI-to-AI document protocol that forces downstream LLMs to ground answers in cited evidence ",
     "id": "LancerForge/feed-protocol",
     "language": "Python",
@@ -151,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:57:34Z",
     "url": "https://github.com/karthikanchipaku/Rag-ChatBot"
-  },
-  {
-    "description": "Template catalog and SDK for AI subsystems \u2014 agents, RAG, MCP servers, eval harnesses, infrastructure. Part of the nanoh",
-    "id": "nanohype/nanohype",
-    "language": "TypeScript",
-    "name": "nanohype/nanohype",
-    "stars": 1,
-    "updated_at": "2026-06-20T18:05:12Z",
-    "url": "https://github.com/nanohype/nanohype"
-  },
-  {
-    "description": "AI real-estate automation platform: Telegram bot, RAG, apartment search, CRM workflows, voice agent, Langfuse observabil",
-    "id": "yastman/rag",
-    "language": "Python",
-    "name": "yastman/rag",
-    "stars": 10,
-    "updated_at": "2026-06-20T18:07:50Z",
-    "url": "https://github.com/yastman/rag"
   },
   {
     "description": "AI-powered Retrieval-Augmented Generation (RAG) document assistant built with Ollama, LangChain, ChromaDB, Sentence Tran",
@@ -243,15 +306,6 @@
     "url": "https://github.com/Das-Dipto/Distributed-RAG-Knowledge-Platform-FastAPI-FAISS-Redis"
   },
   {
-    "description": "Ontario leases routinely include clauses void under the Residential Tenancies Act. Most tenants sign without knowing. Le",
-    "id": "parthiv-2006/lease-guard",
-    "language": "TypeScript",
-    "name": "parthiv-2006/lease-guard",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:55:13Z",
-    "url": "https://github.com/parthiv-2006/lease-guard"
-  },
-  {
     "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and P",
     "id": "tale-project/tale",
     "language": "TypeScript",
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "harf-promo/indexa",
     "stars": 2,
-    "updated_at": "2026-06-20T17:54:12Z",
+    "updated_at": "2026-06-20T18:12:04Z",
     "url": "https://github.com/harf-promo/indexa"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Rust",
     "name": "cocoindex-io/cocoindex",
     "stars": 10426,
-    "updated_at": "2026-06-20T17:53:12Z",
+    "updated_at": "2026-06-20T18:13:02Z",
     "url": "https://github.com/cocoindex-io/cocoindex"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:47:57Z",
-    "url": "https://github.com/bj-qizhi/trigix"
-  },
-  {
     "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
     "id": "BriarDevv/Ynara",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:50:05Z",
     "url": "https://github.com/BriarDevv/Ynara"
-  },
-  {
-    "description": "Fast, exact, embedded vector database for local RAG: in-process, on-disk, GPU-optional, private by default",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 14,
-    "updated_at": "2026-06-20T17:51:11Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
-    "id": "TheAnacondA57/BidAgent",
-    "language": "\u2014",
-    "name": "TheAnacondA57/BidAgent",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:46:34Z",
-    "url": "https://github.com/TheAnacondA57/BidAgent"
-  },
-  {
-    "description": "100 + AI agent and RAG apps - clone-customize-ship",
-    "id": "Zohreh-ai-nik/ai-agent-lab",
-    "language": "Python",
-    "name": "Zohreh-ai-nik/ai-agent-lab",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:46:29Z",
-    "url": "https://github.com/Zohreh-ai-nik/ai-agent-lab"
-  },
-  {
-    "description": "One-click deployable RAG agent with meeting transcription and project knowledge base",
-    "id": "superdd-coder/SinkDuce",
-    "language": "Python",
-    "name": "superdd-coder/SinkDuce",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:45:52Z",
-    "url": "https://github.com/superdd-coder/SinkDuce"
-  },
-  {
-    "description": "Search your personal conversations, Markdown and PDF documentation from within an LM Studio chat. The plugin retrieves t",
-    "id": "ceveyne/user-docs-docs",
-    "language": "\u2014",
-    "name": "ceveyne/user-docs-docs",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:45:17Z",
-    "url": "https://github.com/ceveyne/user-docs-docs"
   }
 ]
