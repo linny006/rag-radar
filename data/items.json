@@ -1,5 +1,122 @@
 [
   {
+    "description": "SuperDuperDB / Superduper \u2014 bring AI to existing databases",
+    "id": "api-evangelist/superduperdb",
+    "language": "\u2014",
+    "name": "api-evangelist/superduperdb",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:34:45Z",
+    "url": "https://github.com/api-evangelist/superduperdb"
+  },
+  {
+    "description": "Enterprise Decision Intelligence System \u2014 a real-time, AI-powered platform that ingests cross-system enterprise data, de",
+    "id": "jaswanthsurya007-source/enterprise-decision-intelligence",
+    "language": "Python",
+    "name": "jaswanthsurya007-source/enterprise-decision-intelligence",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:33:54Z",
+    "url": "https://github.com/jaswanthsurya007-source/enterprise-decision-intelligence"
+  },
+  {
+    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
+    "id": "lemmaoracle/lemma",
+    "language": "Astro",
+    "name": "lemmaoracle/lemma",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:33:24Z",
+    "url": "https://github.com/lemmaoracle/lemma"
+  },
+  {
+    "description": "Synthetic datasets from a Yucatecan real estate company for RAG Security eval. Ideal for AI Safety research",
+    "id": "notyorch/Meridiana",
+    "language": "HTML",
+    "name": "notyorch/Meridiana",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:33:09Z",
+    "url": "https://github.com/notyorch/Meridiana"
+  },
+  {
+    "description": "API Evangelist profile of Refact.ai \u2014 self-hostable AI coding assistant and Refact Agent",
+    "id": "api-evangelist/refact-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/refact-ai",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:32:30Z",
+    "url": "https://github.com/api-evangelist/refact-ai"
+  },
+  {
+    "description": "Open-source LLM/RAG evaluation framework.",
+    "id": "api-evangelist/ragas",
+    "language": "\u2014",
+    "name": "api-evangelist/ragas",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:32:18Z",
+    "url": "https://github.com/api-evangelist/ragas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:32:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Promptfoo \u2014 open-source LLM evaluation and red-teaming CLI/library",
+    "id": "api-evangelist/prompt-foo",
+    "language": "\u2014",
+    "name": "api-evangelist/prompt-foo",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:31:52Z",
+    "url": "https://github.com/api-evangelist/prompt-foo"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18606,
+    "updated_at": "2026-06-20T01:31:36Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework.",
+    "id": "rudrankriyam/Foundation-Models-Framework-Lab",
+    "language": "Swift",
+    "name": "rudrankriyam/Foundation-Models-Framework-Lab",
+    "stars": 1117,
+    "updated_at": "2026-06-20T01:34:06Z",
+    "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Lab"
+  },
+  {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:30:48Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "Opik APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:30:26Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "User-friendly UI for local and self-hosted LLMs.",
     "id": "api-evangelist/open-webui",
     "language": "\u2014",
@@ -142,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T01:25:42Z",
     "url": "https://github.com/tealinuxos/hojicha-AI"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18606,
-    "updated_at": "2026-06-20T01:25:04Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Hebbia \u2014 Matrix AI for unstructured enterprise data",
@@ -297,15 +405,6 @@
     "url": "https://github.com/ax-llm/ax"
   },
   {
-    "description": "Synthetic datasets from a Yucatecan real estate company for RAG Security eval. Ideal for AI Safety research",
-    "id": "notyorch/Meridiana",
-    "language": "HTML",
-    "name": "notyorch/Meridiana",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:18:28Z",
-    "url": "https://github.com/notyorch/Meridiana"
-  },
-  {
     "description": "A production-ready FastAPI platform with modular components and a built-in control plane.",
     "id": "lbedner/aegis-stack",
     "language": "Python",
@@ -342,15 +441,6 @@
     "url": "https://github.com/onflow/Flow-Data-Sources"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms",
     "id": "roryford/ManifoldKit",
     "language": "Swift",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T01:15:28Z",
     "url": "https://github.com/roryford/ManifoldKit"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Enterprise Decision Intelligence System \u2014 a real-time, AI-powered platform that ingests cross-system enterprise data, de",
-    "id": "jaswanthsurya007-source/enterprise-decision-intelligence",
-    "language": "Python",
-    "name": "jaswanthsurya007-source/enterprise-decision-intelligence",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:14:49Z",
-    "url": "https://github.com/jaswanthsurya007-source/enterprise-decision-intelligence"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "chopratejas/headroom",
-    "language": "Python",
-    "name": "chopratejas/headroom",
-    "stars": 38780,
-    "updated_at": "2026-06-20T01:14:44Z",
-    "url": "https://github.com/chopratejas/headroom"
-  },
-  {
-    "description": "AI Agent SDK designed for Go developers",
-    "id": "liliang-cn/agent-go",
-    "language": "Go",
-    "name": "liliang-cn/agent-go",
-    "stars": 7,
-    "updated_at": "2026-06-20T01:14:18Z",
-    "url": "https://github.com/liliang-cn/agent-go"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "CGFixIT/CyClaw",
-    "language": "Python",
-    "name": "CGFixIT/CyClaw",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:22:05Z",
-    "url": "https://github.com/CGFixIT/CyClaw"
-  },
-  {
-    "description": "Local-first GraphRAG workbench for ingesting large document corpora into vector search and Neo4j knowledge graphs with r",
-    "id": "Kingsley-Cyber/polymath_v3.3",
-    "language": "Python",
-    "name": "Kingsley-Cyber/polymath_v3.3",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:13:17Z",
-    "url": "https://github.com/Kingsley-Cyber/polymath_v3.3"
-  },
-  {
-    "description": "A free, rigorous, implementation-first online book on modern AI: machine learning, deep learning, LLMs, RAG, and AI agen",
-    "id": "mikenguyen13/ai_in_action",
-    "language": "HTML",
-    "name": "mikenguyen13/ai_in_action",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:12:04Z",
-    "url": "https://github.com/mikenguyen13/ai_in_action"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:11:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30438,
-    "updated_at": "2026-06-20T01:11:11Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Budget-aware weekly meal planner with hybrid RAG, constraint-satisfaction planning, and automated evals. Live demo + 26-",
-    "id": "Malzbro/meal_planner",
-    "language": "Python",
-    "name": "Malzbro/meal_planner",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:10:46Z",
-    "url": "https://github.com/Malzbro/meal_planner"
   }
 ]
