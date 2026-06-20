@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI tabletop system for long-running DND campaigns",
+    "id": "dajiaohuang/SagaSmith-agent",
+    "language": "Python",
+    "name": "dajiaohuang/SagaSmith-agent",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:00:03Z",
+    "url": "https://github.com/dajiaohuang/SagaSmith-agent"
+  },
+  {
+    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
+    "id": "harf-promo/indexa",
+    "language": "Rust",
+    "name": "harf-promo/indexa",
+    "stars": 2,
+    "updated_at": "2026-06-20T19:59:56Z",
+    "url": "https://github.com/harf-promo/indexa"
+  },
+  {
+    "description": "Production-grade monitoring, tracing, and CI regression-gating for RAG pipelines",
+    "id": "Ashok007-cmd/rag-observability-layer",
+    "language": "Python",
+    "name": "Ashok007-cmd/rag-observability-layer",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:58:58Z",
+    "url": "https://github.com/Ashok007-cmd/rag-observability-layer"
+  },
+  {
+    "description": "Ethos by DocuShell is an open-source citation-grounding verifier for document AI, RAG, and agents, with a deterministic ",
+    "id": "docushell/ethos",
+    "language": "Rust",
+    "name": "docushell/ethos",
+    "stars": 3,
+    "updated_at": "2026-06-20T19:58:51Z",
+    "url": "https://github.com/docushell/ethos"
+  },
+  {
+    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
+    "id": "CGFixIT/CyClaw",
+    "language": "Python",
+    "name": "CGFixIT/CyClaw",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:58:27Z",
+    "url": "https://github.com/CGFixIT/CyClaw"
+  },
+  {
+    "description": "Give Claude a private, token-free memory of your files \u2014 100% local, no API keys. Converts any attachment (PDF/Office in",
+    "id": "GRU-953/memorised-them-all",
+    "language": "Python",
+    "name": "GRU-953/memorised-them-all",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:58:16Z",
+    "url": "https://github.com/GRU-953/memorised-them-all"
+  },
+  {
+    "description": "AI-powered IELTS writing scorer using local LLMs, RAG, and official band descriptors. Built with FastAPI, LangChain, Chr",
+    "id": "AmirrezaGhiasvand/ielts-essay-score-ai",
+    "language": "TypeScript",
+    "name": "AmirrezaGhiasvand/ielts-essay-score-ai",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:57:52Z",
+    "url": "https://github.com/AmirrezaGhiasvand/ielts-essay-score-ai"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-20T19:58:05Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 0,
+    "updated_at": "2026-06-20T19:56:52Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T19:56:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Agent Fusion is a local RAG semantic search engine that gives AI agents instant access to your code, documentation (Mar",
+    "id": "krokozyab/Agent-Fusion",
+    "language": "Kotlin",
+    "name": "krokozyab/Agent-Fusion",
+    "stars": 69,
+    "updated_at": "2026-06-20T19:56:22Z",
+    "url": "https://github.com/krokozyab/Agent-Fusion"
+  },
+  {
     "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
     "id": "strikersam/autonomous-ai-agency",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/yiyaw-lab/seas"
   },
   {
-    "description": "Production-grade monitoring, tracing, and CI regression-gating for RAG pipelines",
-    "id": "Ashok007-cmd/rag-observability-layer",
-    "language": "Python",
-    "name": "Ashok007-cmd/rag-observability-layer",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:53:45Z",
-    "url": "https://github.com/Ashok007-cmd/rag-observability-layer"
-  },
-  {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
     "id": "atishay-kasliwal/atriveo-app",
     "language": "TypeScript",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:53:19Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-06-20T19:53:08Z",
-    "url": "https://github.com/alex-place/lantern-os"
   },
   {
     "description": "A free, rigorous, implementation-first online book on modern AI: machine learning, deep learning, LLMs, RAG, and AI agen",
@@ -117,21 +198,12 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "AI-powered IELTS writing scorer using local LLMs, RAG, and official band descriptors. Built with FastAPI, LangChain, Chr",
-    "id": "AmirrezaGhiasvand/ielts-essay-score-ai",
-    "language": "TypeScript",
-    "name": "AmirrezaGhiasvand/ielts-essay-score-ai",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:49:04Z",
-    "url": "https://github.com/AmirrezaGhiasvand/ielts-essay-score-ai"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18609,
-    "updated_at": "2026-06-20T19:55:57Z",
+    "updated_at": "2026-06-20T19:59:28Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "tobocop2/lilbee",
     "stars": 26,
-    "updated_at": "2026-06-20T19:46:20Z",
+    "updated_at": "2026-06-20T19:57:37Z",
     "url": "https://github.com/tobocop2/lilbee"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/WeLikeCode/mint-mory"
   },
   {
-    "description": "Ethos by DocuShell is an open-source citation-grounding verifier for document AI, RAG, and agents, with a deterministic ",
-    "id": "docushell/ethos",
-    "language": "Rust",
-    "name": "docushell/ethos",
-    "stars": 2,
-    "updated_at": "2026-06-20T19:45:38Z",
-    "url": "https://github.com/docushell/ethos"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T19:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Profile README",
@@ -232,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:46:23Z",
     "url": "https://github.com/gonzalonao/boe-rag-assistant"
-  },
-  {
-    "description": " Agent Fusion is a local RAG semantic search engine that gives AI agents instant access to your code, documentation (Mar",
-    "id": "krokozyab/Agent-Fusion",
-    "language": "Kotlin",
-    "name": "krokozyab/Agent-Fusion",
-    "stars": 69,
-    "updated_at": "2026-06-20T19:56:22Z",
-    "url": "https://github.com/krokozyab/Agent-Fusion"
   },
   {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
@@ -297,15 +342,6 @@
     "url": "https://github.com/sairam0424/Inkforge"
   },
   {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "CGFixIT/CyClaw",
-    "language": "Python",
-    "name": "CGFixIT/CyClaw",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:53:51Z",
-    "url": "https://github.com/CGFixIT/CyClaw"
-  },
-  {
     "description": "visual AI agent builder with multi-agent orchestration, RAG pipeline, MCP/A2A protocols, and continuous learning",
     "id": "webdevcom01-cell/agent-studio",
     "language": "TypeScript",
@@ -324,21 +360,12 @@
     "url": "https://github.com/finessehumxn/medcompanion-ai"
   },
   {
-    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
-    "id": "harf-promo/indexa",
-    "language": "Rust",
-    "name": "harf-promo/indexa",
-    "stars": 2,
-    "updated_at": "2026-06-20T19:43:16Z",
-    "url": "https://github.com/harf-promo/indexa"
-  },
-  {
     "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
     "id": "selmanays/nodrat",
     "language": "Python",
     "name": "selmanays/nodrat",
     "stars": 0,
-    "updated_at": "2026-06-20T19:41:04Z",
+    "updated_at": "2026-06-20T19:57:33Z",
     "url": "https://github.com/selmanays/nodrat"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T19:32:55Z",
     "url": "https://github.com/Hikmahx/QuizMe"
-  },
-  {
-    "description": "Pre-market briefing platform: ingests ~130 symbols, computes RSI/MA indicators, generates Gemini 2.5 Flash commentary, R",
-    "id": "prabhathv07/finsight",
-    "language": "Python",
-    "name": "prabhathv07/finsight",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:32:09Z",
-    "url": "https://github.com/prabhathv07/finsight"
-  },
-  {
-    "description": "SH-Jarvis: selbst gehostetes, deutschsprachiges KI-Assistenz-Oekosystem - Orchestrator/FastAPI, lokale LLM/STT/TTS, Geda",
-    "id": "bmetallica/JARVIS",
-    "language": "Python",
-    "name": "bmetallica/JARVIS",
-    "stars": 2,
-    "updated_at": "2026-06-20T19:31:31Z",
-    "url": "https://github.com/bmetallica/JARVIS"
-  },
-  {
-    "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
-    "id": "bj-qizhi/trigix",
-    "language": "Rust",
-    "name": "bj-qizhi/trigix",
-    "stars": 2,
-    "updated_at": "2026-06-20T19:29:48Z",
-    "url": "https://github.com/bj-qizhi/trigix"
   }
 ]
