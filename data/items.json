@@ -1,5 +1,149 @@
 [
   {
+    "description": "CrawlLama \ud83e\udd99 is an  local AI agent that answers questions via Ollama and integrates web- and RAG-based research.",
+    "id": "arn-c0de/Crawllama",
+    "language": "Python",
+    "name": "arn-c0de/Crawllama",
+    "stars": 63,
+    "updated_at": "2026-06-20T09:45:17Z",
+    "url": "https://github.com/arn-c0de/Crawllama"
+  },
+  {
+    "description": "Personal always-on AI agent with long-term memory \u2014 one-command install, minimal setup, just works.",
+    "id": "smixs/iva",
+    "language": "Python",
+    "name": "smixs/iva",
+    "stars": 7,
+    "updated_at": "2026-06-20T09:45:12Z",
+    "url": "https://github.com/smixs/iva"
+  },
+  {
+    "description": "AI tabletop system for long-running DND campaigns",
+    "id": "dajiaohuang/dnd-dm-agent",
+    "language": "Python",
+    "name": "dajiaohuang/dnd-dm-agent",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:44:54Z",
+    "url": "https://github.com/dajiaohuang/dnd-dm-agent"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3207,
+    "updated_at": "2026-06-20T09:44:54Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-20T09:44:45Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "AI sales-funnel engine \u2014 Telegram, WhatsApp & web widget, RAG, visa pipeline, admin UI, Postgres (monorepo)",
+    "id": "chatman-media/lead-engine",
+    "language": "TypeScript",
+    "name": "chatman-media/lead-engine",
+    "stars": 4,
+    "updated_at": "2026-06-20T09:43:35Z",
+    "url": "https://github.com/chatman-media/lead-engine"
+  },
+  {
+    "description": "Hallucination Detection for Vietnamese Medical RAG Systems using Hybrid Retrieval and Transformer-based Judge Models",
+    "id": "TrungpdtE/Hallucination-Detection-for-Vietnamese-Medical-RA",
+    "language": "Python",
+    "name": "TrungpdtE/Hallucination-Detection-for-Vietnamese-Medical-RA",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:43:26Z",
+    "url": "https://github.com/TrungpdtE/Hallucination-Detection-for-Vietnamese-Medical-RA"
+  },
+  {
+    "description": "AI-powered document question answering system using FastAPI, Qdrant, BM25, Gemini, and Retrieval-Augmented Generation (R",
+    "id": "pragathijp/DocQuest_AI",
+    "language": "Python",
+    "name": "pragathijp/DocQuest_AI",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:43:10Z",
+    "url": "https://github.com/pragathijp/DocQuest_AI"
+  },
+  {
+    "description": "AI-friendly project scaffold & knowledge architecture for AI coding agents (Claude Code, Cursor, Copilot, Codex, Gemini)",
+    "id": "hellOoSaksit/ai-project-scaffold",
+    "language": "HTML",
+    "name": "hellOoSaksit/ai-project-scaffold",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:42:33Z",
+    "url": "https://github.com/hellOoSaksit/ai-project-scaffold"
+  },
+  {
+    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
+    "id": "harf-promo/indexa",
+    "language": "Rust",
+    "name": "harf-promo/indexa",
+    "stars": 2,
+    "updated_at": "2026-06-20T09:42:31Z",
+    "url": "https://github.com/harf-promo/indexa"
+  },
+  {
+    "description": "Automated financial forensics on S&P 500 stocks. Computes Graham, Buffett, and Munger quality metrics deterministically.",
+    "id": "rajeshsub/stockforensics",
+    "language": "Python",
+    "name": "rajeshsub/stockforensics",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:42:21Z",
+    "url": "https://github.com/rajeshsub/stockforensics"
+  },
+  {
+    "description": "AI-powered document analysis platform. Upload PDFs, chat with your documents using RAG, and extract insights instantly. ",
+    "id": "laavanjan/docIQ",
+    "language": "Python",
+    "name": "laavanjan/docIQ",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:41:43Z",
+    "url": "https://github.com/laavanjan/docIQ"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:41:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
+    "id": "Vaibhav170216/llm-zoomcamp-2026",
+    "language": "Jupyter Notebook",
+    "name": "Vaibhav170216/llm-zoomcamp-2026",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:41:20Z",
+    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
+  },
+  {
+    "description": "AI Systems Platform featuring Agentic Workflows, RAG, Conversational Memory, Research Agents, Developer Tools and Autono",
+    "id": "Devrajj-Singh/Omni-AgentOS",
+    "language": "TypeScript",
+    "name": "Devrajj-Singh/Omni-AgentOS",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:39:40Z",
+    "url": "https://github.com/Devrajj-Singh/Omni-AgentOS"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T09:39:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Models for Strategy Recommendations in Formula 1 races. Final Thesis Project of UIE Intelligent Systems Engineering (",
     "id": "VforVitorio/F1-StratLab",
     "language": "Jupyter Notebook",
@@ -25,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T09:38:48Z",
     "url": "https://github.com/remem-io/remem"
-  },
-  {
-    "description": "CrawlLama \ud83e\udd99 is an  local AI agent that answers questions via Ollama and integrates web- and RAG-based research.",
-    "id": "arn-c0de/Crawllama",
-    "language": "Python",
-    "name": "arn-c0de/Crawllama",
-    "stars": 63,
-    "updated_at": "2026-06-20T09:38:28Z",
-    "url": "https://github.com/arn-c0de/Crawllama"
   },
   {
     "description": "Production\u2011ready Retrieval\u2011Augmented Generation (RAG) system built for scalability, modularity, and real\u2011world deploymen",
@@ -72,15 +207,6 @@
     "url": "https://github.com/hansikadev/RAG-Medical-AI-Assistant"
   },
   {
-    "description": "AI tabletop system for long-running DND campaigns",
-    "id": "dajiaohuang/dnd-dm-agent",
-    "language": "Python",
-    "name": "dajiaohuang/dnd-dm-agent",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:36:35Z",
-    "url": "https://github.com/dajiaohuang/dnd-dm-agent"
-  },
-  {
     "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
     "id": "HybridAIOne/hybridclaw",
     "language": "TypeScript",
@@ -97,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-06-20T09:36:21Z",
     "url": "https://github.com/imDarshanGK/localmind"
-  },
-  {
-    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
-    "id": "harf-promo/indexa",
-    "language": "Rust",
-    "name": "harf-promo/indexa",
-    "stars": 2,
-    "updated_at": "2026-06-20T09:36:15Z",
-    "url": "https://github.com/harf-promo/indexa"
   },
   {
     "description": "Harness AI & Agent OS for governed multi-agent systems in Python \u2014 Nexus orchestration, policy, tools, skills, RAG & mul",
@@ -153,15 +270,6 @@
     "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
   },
   {
-    "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
-    "id": "Vaibhav170216/llm-zoomcamp-2026",
-    "language": "Jupyter Notebook",
-    "name": "Vaibhav170216/llm-zoomcamp-2026",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:32:40Z",
-    "url": "https://github.com/Vaibhav170216/llm-zoomcamp-2026"
-  },
-  {
     "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
     "id": "mabaeyens/mira-core",
     "language": "Python",
@@ -180,24 +288,6 @@
     "url": "https://github.com/uroshp/scout-ci"
   },
   {
-    "description": "AI-friendly project scaffold & knowledge architecture for AI coding agents (Claude Code, Cursor, Copilot, Codex, Gemini)",
-    "id": "hellOoSaksit/ai-project-scaffold",
-    "language": "HTML",
-    "name": "hellOoSaksit/ai-project-scaffold",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:39:05Z",
-    "url": "https://github.com/hellOoSaksit/ai-project-scaffold"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Personal, free-for-life, single-user LLM second brain: a chat UI over an auto-maintained markdown wiki + knowledge graph",
     "id": "Varun-Patkar/second-brain-varun-patkar",
     "language": "TypeScript",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T09:30:25Z",
     "url": "https://github.com/Varun-Patkar/second-brain-varun-patkar"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T09:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory and deterministic state control for any LLM, in two tiers. Tier 1: a single markdown spec you paste in",
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T09:29:49Z",
     "url": "https://github.com/lansanyue031018-rgb/Uni-rag-tool"
-  },
-  {
-    "description": "Automated financial forensics on S&P 500 stocks. Computes Graham, Buffett, and Munger quality metrics deterministically.",
-    "id": "rajeshsub/stockforensics",
-    "language": "Python",
-    "name": "rajeshsub/stockforensics",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:29:05Z",
-    "url": "https://github.com/rajeshsub/stockforensics"
   },
   {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
@@ -277,15 +349,6 @@
     "stars": 25,
     "updated_at": "2026-06-20T09:26:11Z",
     "url": "https://github.com/Goldziher/basemind"
-  },
-  {
-    "description": "AI sales-funnel engine \u2014 Telegram, WhatsApp & web widget, RAG, visa pipeline, admin UI, Postgres (monorepo)",
-    "id": "chatman-media/lead-engine",
-    "language": "TypeScript",
-    "name": "chatman-media/lead-engine",
-    "stars": 4,
-    "updated_at": "2026-06-20T09:27:19Z",
-    "url": "https://github.com/chatman-media/lead-engine"
   },
   {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T09:21:13Z",
     "url": "https://github.com/damnepic/kbcafe"
-  },
-  {
-    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo",
-    "id": "onestardao/WFGY",
-    "language": "Jupyter Notebook",
-    "name": "onestardao/WFGY",
-    "stars": 1758,
-    "updated_at": "2026-06-20T09:20:40Z",
-    "url": "https://github.com/onestardao/WFGY"
-  },
-  {
-    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
-    "id": "gokhantos/opencrow",
-    "language": "TypeScript",
-    "name": "gokhantos/opencrow",
-    "stars": 21,
-    "updated_at": "2026-06-20T09:20:23Z",
-    "url": "https://github.com/gokhantos/opencrow"
-  },
-  {
-    "description": "Multimodal Fake News Detection system leveraging Vision-Language Models (VLM), OCR, Retrieval-Augmented Generation (RAG)",
-    "id": "jagannadharao8/Fake-news-detection-using-GENAI-ML-DL-XAI",
-    "language": "Python",
-    "name": "jagannadharao8/Fake-news-detection-using-GENAI-ML-DL-XAI",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:19:53Z",
-    "url": "https://github.com/jagannadharao8/Fake-news-detection-using-GENAI-ML-DL-XAI"
-  },
-  {
-    "description": "Repository containing weekly assignments, projects, and learning materials completed as part of the Celebal Technologies",
-    "id": "Atul-SyntexError/Celebal-Technologies-Internship",
-    "language": "Jupyter Notebook",
-    "name": "Atul-SyntexError/Celebal-Technologies-Internship",
-    "stars": 0,
-    "updated_at": "2026-06-20T09:19:53Z",
-    "url": "https://github.com/Atul-SyntexError/Celebal-Technologies-Internship"
-  },
-  {
-    "description": "Context drive for your AI agents",
-    "id": "puppyone-ai/puppyone",
-    "language": "TypeScript",
-    "name": "puppyone-ai/puppyone",
-    "stars": 399,
-    "updated_at": "2026-06-20T09:19:17Z",
-    "url": "https://github.com/puppyone-ai/puppyone"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-06-20T09:27:03Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 69,
-    "updated_at": "2026-06-20T09:21:44Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
