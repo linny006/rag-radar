@@ -1,5 +1,113 @@
 [
   {
+    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
+    "id": "gokhantos/opencrow",
+    "language": "TypeScript",
+    "name": "gokhantos/opencrow",
+    "stars": 21,
+    "updated_at": "2026-06-20T18:08:14Z",
+    "url": "https://github.com/gokhantos/opencrow"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18609,
+    "updated_at": "2026-06-20T18:07:24Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Korean accounting and tax benchmark for evaluating evidence-grounded AI systems",
+    "id": "lumatic2/korean-tax-accounting-ax-benchmark",
+    "language": "Python",
+    "name": "lumatic2/korean-tax-accounting-ax-benchmark",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:06:55Z",
+    "url": "https://github.com/lumatic2/korean-tax-accounting-ax-benchmark"
+  },
+  {
+    "description": "AI-native markdown knowledge base with semantic search, RAG, and MCP server",
+    "id": "apresai/2ndbrain",
+    "language": "Go",
+    "name": "apresai/2ndbrain",
+    "stars": 2,
+    "updated_at": "2026-06-20T18:04:41Z",
+    "url": "https://github.com/apresai/2ndbrain"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-20T18:04:18Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.",
+    "id": "sowmiyan-s/GUARD-RAG",
+    "language": "Python",
+    "name": "sowmiyan-s/GUARD-RAG",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:04:08Z",
+    "url": "https://github.com/sowmiyan-s/GUARD-RAG"
+  },
+  {
+    "description": "Interview-ready local hybrid RAG knowledge base with Chroma, BM25, RRF, citations, incremental indexing, and ModelScope ",
+    "id": "wjh4sg/personal-rag-knowledge-base",
+    "language": "Python",
+    "name": "wjh4sg/personal-rag-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:05:44Z",
+    "url": "https://github.com/wjh4sg/personal-rag-knowledge-base"
+  },
+  {
+    "description": "Production-grade RAG PDF Chatbot built with FastAPI, LangChain, OpenAI GPT-4o, and ChromaDB.",
+    "id": "Anujzdv/RAG-PDF-ChatBot",
+    "language": "Python",
+    "name": "Anujzdv/RAG-PDF-ChatBot",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:00:53Z",
+    "url": "https://github.com/Anujzdv/RAG-PDF-ChatBot"
+  },
+  {
+    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 282,
+    "updated_at": "2026-06-20T18:00:42Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Structured conversational memory framework for LLM chatbots with semantic recall, memory grafting, and graph-based topic",
+    "id": "mayhemking007/memo-grafter",
+    "language": "TypeScript",
+    "name": "mayhemking007/memo-grafter",
+    "stars": 4,
+    "updated_at": "2026-06-20T18:00:24Z",
+    "url": "https://github.com/mayhemking007/memo-grafter"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T18:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "FEED \u2014 a self-bootstrapping, AI-to-AI document protocol that forces downstream LLMs to ground answers in cited evidence ",
     "id": "LancerForge/feed-protocol",
     "language": "Python",
@@ -16,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:59:05Z",
     "url": "https://github.com/conjfrnk/memovox"
-  },
-  {
-    "description": "GUARD-RAG is a RAG chatbot tool that runs as a Python package and operates completely offline.",
-    "id": "sowmiyan-s/GUARD-RAG",
-    "language": "Python",
-    "name": "sowmiyan-s/GUARD-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:58:48Z",
-    "url": "https://github.com/sowmiyan-s/GUARD-RAG"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-06-20T18:00:08Z",
-    "url": "https://github.com/alex-place/lantern-os"
   },
   {
     "description": "A full-stack equity research platform pairing retrieval-augmented filing analysis with a deterministic quantitative engi",
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "nanohype/nanohype",
     "stars": 1,
-    "updated_at": "2026-06-20T17:57:25Z",
+    "updated_at": "2026-06-20T18:05:12Z",
     "url": "https://github.com/nanohype/nanohype"
   },
   {
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "yastman/rag",
     "stars": 10,
-    "updated_at": "2026-06-20T17:57:11Z",
+    "updated_at": "2026-06-20T18:07:50Z",
     "url": "https://github.com/yastman/rag"
   },
   {
@@ -216,15 +306,6 @@
     "url": "https://github.com/GRID-INTELLIGENCE/GRID"
   },
   {
-    "description": "Interview-ready local hybrid RAG knowledge base with Chroma, BM25, RRF, citations, incremental indexing, and ModelScope ",
-    "id": "wjh4sg/personal-rag-knowledge-base",
-    "language": "Python",
-    "name": "wjh4sg/personal-rag-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:52:35Z",
-    "url": "https://github.com/wjh4sg/personal-rag-knowledge-base"
-  },
-  {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
     "id": "atishay-kasliwal/atriveo-app",
     "language": "TypeScript",
@@ -252,15 +333,6 @@
     "url": "https://github.com/alirezadir/Agentic-AI-Systems"
   },
   {
-    "description": "A self-hosted AI infrastructure for private RAG and multi-model applications.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 282,
-    "updated_at": "2026-06-20T17:50:30Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Multi-Agent Clinical Evidence Intelligence System using RAG and LLM-powered clinical reasoning.",
     "id": "Vaish1005/MEDLENS",
     "language": "JavaScript",
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:49:57Z",
     "url": "https://github.com/Vaish1005/MEDLENS"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18609,
-    "updated_at": "2026-06-20T17:49:49Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Persistent Telegram memory for AI agents \u2014 search, digests, decisions via MCP/REST API. TON payments. OpenClaw skill ava",
@@ -322,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:47:59Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
-  },
-  {
-    "description": "AI-native markdown knowledge base with semantic search, RAG, and MCP server",
-    "id": "apresai/2ndbrain",
-    "language": "Go",
-    "name": "apresai/2ndbrain",
-    "stars": 2,
-    "updated_at": "2026-06-20T17:47:59Z",
-    "url": "https://github.com/apresai/2ndbrain"
   },
   {
     "description": "AI-native workflow automation platform \u2014 Rust execution engine, 180 node types, visual canvas",
@@ -387,33 +441,6 @@
     "url": "https://github.com/superdd-coder/SinkDuce"
   },
   {
-    "description": "Korean accounting and tax benchmark for evaluating evidence-grounded AI systems",
-    "id": "lumatic2/korean-tax-accounting-ax-benchmark",
-    "language": "Python",
-    "name": "lumatic2/korean-tax-accounting-ax-benchmark",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:45:31Z",
-    "url": "https://github.com/lumatic2/korean-tax-accounting-ax-benchmark"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T17:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Search your personal conversations, Markdown and PDF documentation from within an LM Studio chat. The plugin retrieves t",
     "id": "ceveyne/user-docs-docs",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:45:17Z",
     "url": "https://github.com/ceveyne/user-docs-docs"
-  },
-  {
-    "description": "Production-grade RAG PDF Chatbot built with FastAPI, LangChain, OpenAI GPT-4o, and ChromaDB.",
-    "id": "Anujzdv/RAG-PDF-ChatBot",
-    "language": "Python",
-    "name": "Anujzdv/RAG-PDF-ChatBot",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:45:13Z",
-    "url": "https://github.com/Anujzdv/RAG-PDF-ChatBot"
-  },
-  {
-    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 12 tools with ToolAnnotations",
-    "id": "EtanHey/brainlayer",
-    "language": "Python",
-    "name": "EtanHey/brainlayer",
-    "stars": 8,
-    "updated_at": "2026-06-20T17:45:01Z",
-    "url": "https://github.com/EtanHey/brainlayer"
-  },
-  {
-    "description": "Capstone: RAG + SQL agent with FastAPI, Streamlit and Docker",
-    "id": "delcenjo/ai-insight-assistant",
-    "language": "Python",
-    "name": "delcenjo/ai-insight-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:43:48Z",
-    "url": "https://github.com/delcenjo/ai-insight-assistant"
   }
 ]
