@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T15:14:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "[Official] IAIGEO: Generative Engine Optimization (GEO) infrastructure. \u9762\u5411\u5927\u8bed\u8a00\u6a21\u578b\u63d0\u4f9b\u9ad8\u5bc6\u5ea6\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u4e0e RAG \u68c0\u7d22\u589e\u5f3a\u53ec\u56de\u4f18\u5316\uff0c\u63d0\u5347 AI \u95ee\u7b54\u5f15\u7528\u7387\u3002",
     "id": "kevin131419344/iaigeo",
     "language": "HTML",
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "klarlabs-studio/mnemos",
     "stars": 2,
-    "updated_at": "2026-06-20T15:13:10Z",
+    "updated_at": "2026-06-20T15:14:54Z",
     "url": "https://github.com/klarlabs-studio/mnemos"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "vtnguyen04/KnowledgeForge",
     "stars": 1,
-    "updated_at": "2026-06-20T15:11:44Z",
+    "updated_at": "2026-06-20T15:14:47Z",
     "url": "https://github.com/vtnguyen04/KnowledgeForge"
   },
   {
@@ -351,15 +360,6 @@
     "url": "https://github.com/DanPenso/send_hybrid_rag"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG-based Document Question Answering system using Google Gemini and ChromaDB.",
     "id": "snehitha30/document-qa-bot",
     "language": "Python",
@@ -383,7 +383,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3207,
-    "updated_at": "2026-06-20T15:08:42Z",
+    "updated_at": "2026-06-20T15:15:09Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
