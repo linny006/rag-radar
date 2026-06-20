@@ -1,5 +1,41 @@
 [
   {
+    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
+    "id": "lemmaoracle/lemma",
+    "language": "Astro",
+    "name": "lemmaoracle/lemma",
+    "stars": 2,
+    "updated_at": "2026-06-20T22:45:06Z",
+    "url": "https://github.com/lemmaoracle/lemma"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18609,
+    "updated_at": "2026-06-20T22:42:18Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Production-grade RAG assistant over your documents: async ingestion into pgvector, semantic search, streaming LLM answer",
+    "id": "txltedxgod/docassist",
+    "language": "Python",
+    "name": "txltedxgod/docassist",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:40:54Z",
+    "url": "https://github.com/txltedxgod/docassist"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T22:40:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Tell it everything. It can't tell anyone. \u2014 The AI assistant that's actually yours: answers from your own notes & files ",
     "id": "wlsdks/Muse",
     "language": "TypeScript",
@@ -25,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-06-20T22:37:56Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18609,
-    "updated_at": "2026-06-20T22:37:33Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T22:33:15Z",
     "url": "https://github.com/chisom-cyprian/rag-document-chatbot"
-  },
-  {
-    "description": "Production-grade RAG assistant over your documents: async ingestion into pgvector, semantic search, streaming LLM answer",
-    "id": "txltedxgod/docassist",
-    "language": "Python",
-    "name": "txltedxgod/docassist",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:33:07Z",
-    "url": "https://github.com/txltedxgod/docassist"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -167,7 +185,7 @@
     "language": "Swift",
     "name": "roryford/ManifoldKit",
     "stars": 1,
-    "updated_at": "2026-06-20T22:30:57Z",
+    "updated_at": "2026-06-20T22:41:26Z",
     "url": "https://github.com/roryford/ManifoldKit"
   },
   {
@@ -189,21 +207,12 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T22:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
     "id": "CGFixIT/CyClaw",
     "language": "Python",
     "name": "CGFixIT/CyClaw",
     "stars": 0,
-    "updated_at": "2026-06-20T22:33:07Z",
+    "updated_at": "2026-06-20T22:42:51Z",
     "url": "https://github.com/CGFixIT/CyClaw"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T22:23:47Z",
     "url": "https://github.com/usefolklore/folklore"
-  },
-  {
-    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
-    "id": "lemmaoracle/lemma",
-    "language": "Astro",
-    "name": "lemmaoracle/lemma",
-    "stars": 2,
-    "updated_at": "2026-06-20T22:37:04Z",
-    "url": "https://github.com/lemmaoracle/lemma"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
