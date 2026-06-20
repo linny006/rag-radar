@@ -1,5 +1,230 @@
 [
   {
+    "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
+    "id": "shiyao222333-afk/citrinitas",
+    "language": "Python",
+    "name": "shiyao222333-afk/citrinitas",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:45:11Z",
+    "url": "https://github.com/shiyao222333-afk/citrinitas"
+  },
+  {
+    "description": "Stability-first operations CLI for long-running AI agent workspaces.",
+    "id": "JDeun/Helm",
+    "language": "Python",
+    "name": "JDeun/Helm",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:45:15Z",
+    "url": "https://github.com/JDeun/Helm"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3207,
+    "updated_at": "2026-06-20T01:44:54Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Auditable multi-agent debate platform that uses AI agents to analyze, critique, and optimize arguments through structure",
+    "id": "asb-42/danwa",
+    "language": "Python",
+    "name": "asb-42/danwa",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:44:39Z",
+    "url": "https://github.com/asb-42/danwa"
+  },
+  {
+    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
+    "id": "jazz1x/ohmyboring",
+    "language": "Rust",
+    "name": "jazz1x/ohmyboring",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:44:37Z",
+    "url": "https://github.com/jazz1x/ohmyboring"
+  },
+  {
+    "description": "",
+    "id": "jagoff/memo",
+    "language": "Python",
+    "name": "jagoff/memo",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:44:07Z",
+    "url": "https://github.com/jagoff/memo"
+  },
+  {
+    "description": "Discovery engine that surfaces the best repos, papers, and tools to quick start your next build, kept fresh by live craw",
+    "id": "sumedh-aerram/Trove",
+    "language": "Python",
+    "name": "sumedh-aerram/Trove",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:43:48Z",
+    "url": "https://github.com/sumedh-aerram/Trove"
+  },
+  {
+    "description": "Multi-agent AI task runner \u2014 LangGraph \u00b7 FastAPI \u00b7 Next.js 14 \u00b7 RAG \u00b7 GitHub automation \u00b7 Docker sandboxed code executio",
+    "id": "Vansh-codi/Multi_Agent_Orchestration",
+    "language": "TypeScript",
+    "name": "Vansh-codi/Multi_Agent_Orchestration",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:43:23Z",
+    "url": "https://github.com/Vansh-codi/Multi_Agent_Orchestration"
+  },
+  {
+    "description": "Budget-aware weekly meal planner with hybrid RAG, constraint-satisfaction planning, and automated evals. Live demo + 26-",
+    "id": "Malzbro/meal_planner",
+    "language": "Python",
+    "name": "Malzbro/meal_planner",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:42:28Z",
+    "url": "https://github.com/Malzbro/meal_planner"
+  },
+  {
+    "description": "Local-first GraphRAG workbench for ingesting large document corpora into vector search and Neo4j knowledge graphs with r",
+    "id": "Kingsley-Cyber/polymath_v3.3",
+    "language": "Python",
+    "name": "Kingsley-Cyber/polymath_v3.3",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:41:15Z",
+    "url": "https://github.com/Kingsley-Cyber/polymath_v3.3"
+  },
+  {
+    "description": "TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes \u29bf State machine lifecycle \u29bf N",
+    "id": "Studnicky/Dagonizer",
+    "language": "TypeScript",
+    "name": "Studnicky/Dagonizer",
+    "stars": 3,
+    "updated_at": "2026-06-20T01:44:45Z",
+    "url": "https://github.com/Studnicky/Dagonizer"
+  },
+  {
+    "description": "A channel layer that turns physical documents into trustworthy digital data \u2014 OCR + Markdown + metadata + optional field",
+    "id": "dignite-projects/dignite-extract",
+    "language": "C#",
+    "name": "dignite-projects/dignite-extract",
+    "stars": 5,
+    "updated_at": "2026-06-20T01:40:31Z",
+    "url": "https://github.com/dignite-projects/dignite-extract"
+  },
+  {
+    "description": "AgentTrust IQ: reliability layer for Microsoft Reasoning Agents with groundedness, citation, hallucination, safety, late",
+    "id": "Electricpaper77/ai-rag-eval-platform",
+    "language": "Python",
+    "name": "Electricpaper77/ai-rag-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:39:12Z",
+    "url": "https://github.com/Electricpaper77/ai-rag-eval-platform"
+  },
+  {
+    "description": "An immutable knowledge base your AI agent queries over MCP. Wiki-link graph, fused search, 74 MCP tools, runs local. htt",
+    "id": "immutlex/immutlex",
+    "language": "\u2014",
+    "name": "immutlex/immutlex",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:37:13Z",
+    "url": "https://github.com/immutlex/immutlex"
+  },
+  {
+    "description": "Voyage AI (MongoDB) \u2014 embedding + reranker models for RAG",
+    "id": "api-evangelist/voyage-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/voyage-ai",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:36:44Z",
+    "url": "https://github.com/api-evangelist/voyage-ai"
+  },
+  {
+    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
+    "id": "jaylfc/taosmd",
+    "language": "Python",
+    "name": "jaylfc/taosmd",
+    "stars": 47,
+    "updated_at": "2026-06-20T01:36:42Z",
+    "url": "https://github.com/jaylfc/taosmd"
+  },
+  {
+    "description": "Vellum \u2014 LLM platform for evaluation, deployment, monitoring",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:36:32Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "Vectara \u2014 RAG-as-a-service platform with grounded generation",
+    "id": "api-evangelist/vectara",
+    "language": "\u2014",
+    "name": "api-evangelist/vectara",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:36:31Z",
+    "url": "https://github.com/api-evangelist/vectara"
+  },
+  {
+    "description": "Unstructured APIs.json profile for API Evangelist catalog",
+    "id": "api-evangelist/unstructured",
+    "language": "\u2014",
+    "name": "api-evangelist/unstructured",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:36:15Z",
+    "url": "https://github.com/api-evangelist/unstructured"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18606,
+    "updated_at": "2026-06-20T01:42:41Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "turbopuffer \u2014 serverless vector + full-text search on object storage",
+    "id": "api-evangelist/turbopuffer",
+    "language": "\u2014",
+    "name": "api-evangelist/turbopuffer",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:35:45Z",
+    "url": "https://github.com/api-evangelist/turbopuffer"
+  },
+  {
+    "description": "AI observability and evaluation (acquired by Snowflake).",
+    "id": "api-evangelist/truera",
+    "language": "\u2014",
+    "name": "api-evangelist/truera",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:35:41Z",
+    "url": "https://github.com/api-evangelist/truera"
+  },
+  {
+    "description": "Trieve \u2014 open-source search-as-a-service with hybrid + RAG",
+    "id": "api-evangelist/trieve",
+    "language": "\u2014",
+    "name": "api-evangelist/trieve",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:35:37Z",
+    "url": "https://github.com/api-evangelist/trieve"
+  },
+  {
+    "description": "Theta EdgeCloud \u2014 distributed AI/GPU compute and video cloud on the Theta blockchain",
+    "id": "api-evangelist/theta-edge",
+    "language": "\u2014",
+    "name": "api-evangelist/theta-edge",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:35:14Z",
+    "url": "https://github.com/api-evangelist/theta-edge"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:34:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "SuperDuperDB / Superduper \u2014 bring AI to existing databases",
     "id": "api-evangelist/superduperdb",
     "language": "\u2014",
@@ -72,15 +297,6 @@
     "url": "https://github.com/api-evangelist/prompt-foo"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18606,
-    "updated_at": "2026-06-20T01:31:36Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "A practical lab for building, testing, and evaluating apps with Apple's Foundation Models framework.",
     "id": "rudrankriyam/Foundation-Models-Framework-Lab",
     "language": "Swift",
@@ -106,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:30:26Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "User-friendly UI for local and self-hosted LLMs.",
@@ -151,15 +358,6 @@
     "stars": 418,
     "updated_at": "2026-06-20T01:29:23Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "",
-    "id": "jagoff/memo",
-    "language": "Python",
-    "name": "jagoff/memo",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:28:56Z",
-    "url": "https://github.com/jagoff/memo"
   },
   {
     "description": "API Evangelist profile of Mixedbread - embeddings and reranking API",
@@ -250,203 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:26:25Z",
     "url": "https://github.com/api-evangelist/kaito"
-  },
-  {
-    "description": "Hi, My name is Hojicha, I'm TealinuxOS AI",
-    "id": "tealinuxos/hojicha-AI",
-    "language": "Rust",
-    "name": "tealinuxos/hojicha-AI",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:25:42Z",
-    "url": "https://github.com/tealinuxos/hojicha-AI"
-  },
-  {
-    "description": "Hebbia \u2014 Matrix AI for unstructured enterprise data",
-    "id": "api-evangelist/hebbia",
-    "language": "\u2014",
-    "name": "api-evangelist/hebbia",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:24:59Z",
-    "url": "https://github.com/api-evangelist/hebbia"
-  },
-  {
-    "description": "Offline AI voice assistant with semantic memory, wake-word detection, local LLM inference, streaming TTS, and modular to",
-    "id": "Shaan-alpha/jarvis-py",
-    "language": "Python",
-    "name": "Shaan-alpha/jarvis-py",
-    "stars": 3,
-    "updated_at": "2026-06-20T01:24:52Z",
-    "url": "https://github.com/Shaan-alpha/jarvis-py"
-  },
-  {
-    "description": "Glean \u2014 AI-powered enterprise work assistant + search",
-    "id": "api-evangelist/glean",
-    "language": "\u2014",
-    "name": "api-evangelist/glean",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:23:54Z",
-    "url": "https://github.com/api-evangelist/glean"
-  },
-  {
-    "description": "Flowise is an open-source, low-code visual builder for LangChain-based LLM workflows and AI agents. Built on Node.js and",
-    "id": "api-evangelist/flowise",
-    "language": "\u2014",
-    "name": "api-evangelist/flowise",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:23:16Z",
-    "url": "https://github.com/api-evangelist/flowise"
-  },
-  {
-    "description": "A local-first multimodal video-to-knowledge engine.",
-    "id": "conjfrnk/memovox",
-    "language": "Python",
-    "name": "conjfrnk/memovox",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:23:07Z",
-    "url": "https://github.com/conjfrnk/memovox"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u8bfb\u5199\u4ee3\u7801\u3001\u64cd\u63a7\u7ec8\u7aef\u4e0e\u7f51\u9875\u7684\u684c\u9762 AI \u667a\u80fd\u4f53\uff08Electron + Python\uff09\u3002A desktop AI agent that reads your code, runs your terminal, and drives the",
-    "id": "linyeping/Metis",
-    "language": "Python",
-    "name": "linyeping/Metis",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:22:52Z",
-    "url": "https://github.com/linyeping/Metis"
-  },
-  {
-    "description": "Semantic cache for LLMs: 32x compressed E8-lattice keys give O(1) hits on repeat/paraphrase queries, cutting API costs. ",
-    "id": "sangmorg1-debug/latticememory",
-    "language": "Python",
-    "name": "sangmorg1-debug/latticememory",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:22:41Z",
-    "url": "https://github.com/sangmorg1-debug/latticememory"
-  },
-  {
-    "description": "Discovery engine that surfaces the best repos, papers, and tools to quick start your next build, kept fresh by live craw",
-    "id": "sumedh-aerram/Trove",
-    "language": "Python",
-    "name": "sumedh-aerram/Trove",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:22:35Z",
-    "url": "https://github.com/sumedh-aerram/Trove"
-  },
-  {
-    "description": "VelesDB is a local\u2011first AI data engine written in Rust that unifies vectors, full\u2011text and graph in a single file with ",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 68,
-    "updated_at": "2026-06-20T01:22:36Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Dust \u2014 Paris-based enterprise AI agent platform (knowledge agents, custom workflows, MCP)",
-    "id": "api-evangelist/dust-tt",
-    "language": "\u2014",
-    "name": "api-evangelist/dust-tt",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:22:04Z",
-    "url": "https://github.com/api-evangelist/dust-tt"
-  },
-  {
-    "description": "Docling \u2014 IBM/LF AI & Data open-source document parsing toolkit for generative AI",
-    "id": "api-evangelist/docling",
-    "language": "\u2014",
-    "name": "api-evangelist/docling",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:21:47Z",
-    "url": "https://github.com/api-evangelist/docling"
-  },
-  {
-    "description": "Context engineering is the practice of curating the information that large language models receive at inference time so ",
-    "id": "api-evangelist/context-engineering",
-    "language": "\u2014",
-    "name": "api-evangelist/context-engineering",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:20:20Z",
-    "url": "https://github.com/api-evangelist/context-engineering"
-  },
-  {
-    "description": "AgentTrust IQ: reliability layer for Microsoft Reasoning Agents with groundedness, citation, hallucination, safety, late",
-    "id": "Electricpaper77/ai-rag-eval-platform",
-    "language": "Python",
-    "name": "Electricpaper77/ai-rag-eval-platform",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:20:03Z",
-    "url": "https://github.com/Electricpaper77/ai-rag-eval-platform"
-  },
-  {
-    "description": "Cognee APIs.json profile for API Evangelist catalog",
-    "id": "api-evangelist/cognee",
-    "language": "\u2014",
-    "name": "api-evangelist/cognee",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:19:59Z",
-    "url": "https://github.com/api-evangelist/cognee"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:19:33Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "The pretty much \"official\" DSPy framework for Typescript",
-    "id": "ax-llm/ax",
-    "language": "TypeScript",
-    "name": "ax-llm/ax",
-    "stars": 2778,
-    "updated_at": "2026-06-20T01:25:10Z",
-    "url": "https://github.com/ax-llm/ax"
-  },
-  {
-    "description": "A production-ready FastAPI platform with modular components and a built-in control plane.",
-    "id": "lbedner/aegis-stack",
-    "language": "Python",
-    "name": "lbedner/aegis-stack",
-    "stars": 122,
-    "updated_at": "2026-06-20T01:17:25Z",
-    "url": "https://github.com/lbedner/aegis-stack"
-  },
-  {
-    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
-    "id": "Ohswedd/vincio",
-    "language": "Python",
-    "name": "Ohswedd/vincio",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:17:06Z",
-    "url": "https://github.com/Ohswedd/vincio"
-  },
-  {
-    "description": "Local-first AI product analyst \u2014 RAG-grounded Q&A over your data, KPI dashboards, automated PM reports, and a rigorous L",
-    "id": "pz0227/kapi",
-    "language": "Python",
-    "name": "pz0227/kapi",
-    "stars": 0,
-    "updated_at": "2026-06-20T01:16:33Z",
-    "url": "https://github.com/pz0227/kapi"
-  },
-  {
-    "description": "RAG-optimized documentation and data sources for AI-native development on the Flow network. Ground LLMs in accurate Flow",
-    "id": "onflow/Flow-Data-Sources",
-    "language": "Python",
-    "name": "onflow/Flow-Data-Sources",
-    "stars": 4,
-    "updated_at": "2026-06-20T01:16:28Z",
-    "url": "https://github.com/onflow/Flow-Data-Sources"
-  },
-  {
-    "description": "Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms",
-    "id": "roryford/ManifoldKit",
-    "language": "Swift",
-    "name": "roryford/ManifoldKit",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:15:28Z",
-    "url": "https://github.com/roryford/ManifoldKit"
   }
 ]
