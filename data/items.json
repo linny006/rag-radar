@@ -1,12 +1,39 @@
 [
   {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3207,
+    "updated_at": "2026-06-21T03:59:36Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "LexonGraph is a log-structured semantic index that stores embeddings as immutable blocks in navigable vector graph. It s",
+    "id": "Alan-Jowett/LexonGraph",
+    "language": "Rust",
+    "name": "Alan-Jowett/LexonGraph",
     "stars": 2,
-    "updated_at": "2026-06-21T03:52:17Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
+    "updated_at": "2026-06-21T03:58:52Z",
+    "url": "https://github.com/Alan-Jowett/LexonGraph"
+  },
+  {
+    "description": "The open-source Claude Desktop alternative \u2014 34 tools, local RAG (FTS5+vector+RRF), Prompt Caching, MCP/LSP/Skill/Hook, ",
+    "id": "quanzefeng/AideAgent",
+    "language": "JavaScript",
+    "name": "quanzefeng/AideAgent",
+    "stars": 3,
+    "updated_at": "2026-06-21T03:58:26Z",
+    "url": "https://github.com/quanzefeng/AideAgent"
+  },
+  {
+    "description": "An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://disco",
+    "id": "MODSetter/SurfSense",
+    "language": "Python",
+    "name": "MODSetter/SurfSense",
+    "stars": 15039,
+    "updated_at": "2026-06-21T03:57:42Z",
+    "url": "https://github.com/MODSetter/SurfSense"
   },
   {
     "description": "Tell it everything. It can't tell anyone. \u2014 The AI assistant that's actually yours: answers from your own notes & files ",
@@ -14,8 +41,71 @@
     "language": "TypeScript",
     "name": "wlsdks/Muse",
     "stars": 2,
-    "updated_at": "2026-06-21T03:52:09Z",
+    "updated_at": "2026-06-21T03:57:24Z",
     "url": "https://github.com/wlsdks/Muse"
+  },
+  {
+    "description": "Local-first GraphRAG workbench for ingesting large document corpora into vector search and Neo4j knowledge graphs with r",
+    "id": "Kingsley-Cyber/polymath_v3.3",
+    "language": "Python",
+    "name": "Kingsley-Cyber/polymath_v3.3",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:57:16Z",
+    "url": "https://github.com/Kingsley-Cyber/polymath_v3.3"
+  },
+  {
+    "description": "A RAG system for querying SEC 10-K MD&A sections with hybrid retrieval and citation grounding.",
+    "id": "AndyYTHsiao/sec-mdna-rag",
+    "language": "Python",
+    "name": "AndyYTHsiao/sec-mdna-rag",
+    "stars": 0,
+    "updated_at": "2026-06-21T03:56:28Z",
+    "url": "https://github.com/AndyYTHsiao/sec-mdna-rag"
+  },
+  {
+    "description": "Ethos by DocuShell is an open-source citation-grounding verifier for document AI, RAG, and agents, with a deterministic ",
+    "id": "docushell/ethos",
+    "language": "Rust",
+    "name": "docushell/ethos",
+    "stars": 3,
+    "updated_at": "2026-06-21T03:55:18Z",
+    "url": "https://github.com/docushell/ethos"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18608,
+    "updated_at": "2026-06-21T03:55:12Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
+    "id": "phonghhd/EvoNet-AI-Core",
+    "language": "Python",
+    "name": "phonghhd/EvoNet-AI-Core",
+    "stars": 4,
+    "updated_at": "2026-06-21T03:53:34Z",
+    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T03:52:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-06-21T03:52:17Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
     "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
@@ -36,21 +126,12 @@
     "url": "https://github.com/Kaynaaf/NanoRAG"
   },
   {
-    "description": "Local-first GraphRAG workbench for ingesting large document corpora into vector search and Neo4j knowledge graphs with r",
-    "id": "Kingsley-Cyber/polymath_v3.3",
-    "language": "Python",
-    "name": "Kingsley-Cyber/polymath_v3.3",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:49:47Z",
-    "url": "https://github.com/Kingsley-Cyber/polymath_v3.3"
-  },
-  {
     "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
     "id": "BriarDevv/Ynara",
     "language": "Python",
     "name": "BriarDevv/Ynara",
     "stars": 0,
-    "updated_at": "2026-06-21T03:49:11Z",
+    "updated_at": "2026-06-21T03:54:03Z",
     "url": "https://github.com/BriarDevv/Ynara"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/alex-place/lantern-os"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18608,
-    "updated_at": "2026-06-21T03:49:02Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "WJH interview portfolio \u2014 Agent engineering and RAG engineering projects",
     "id": "wjh4sg/interview-portfolio",
     "language": "CSS",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T03:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T03:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Onyx-like, cloud-codable AI agent service \u2014 knowledge chat, tools, conversations/participants, schema-driven WebSockets.",
@@ -283,7 +346,7 @@
     "id": "cocoindex-io/cocoindex",
     "language": "Rust",
     "name": "cocoindex-io/cocoindex",
-    "stars": 10432,
+    "stars": 10433,
     "updated_at": "2026-06-21T03:37:31Z",
     "url": "https://github.com/cocoindex-io/cocoindex"
   },
@@ -295,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T03:36:01Z",
     "url": "https://github.com/apresai/2ndbrain"
-  },
-  {
-    "description": "The open-source Claude Desktop alternative \u2014 34 tools, local RAG (FTS5+vector+RRF), Prompt Caching, MCP/LSP/Skill/Hook, ",
-    "id": "quanzefeng/AideAgent",
-    "language": "JavaScript",
-    "name": "quanzefeng/AideAgent",
-    "stars": 3,
-    "updated_at": "2026-06-21T03:35:15Z",
-    "url": "https://github.com/quanzefeng/AideAgent"
   },
   {
     "description": "SEAS: frontier research engine that earns findings via an emission gate. Argo: live agentic Telegram scout that turns kn",
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 1,
-    "updated_at": "2026-06-21T03:30:47Z",
+    "updated_at": "2026-06-21T03:56:41Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/hejun789/docintel"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3207,
-    "updated_at": "2026-06-21T03:50:53Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "A free, rigorous, implementation-first online book on modern AI: machine learning, deep learning, LLMs, RAG, and AI agen",
     "id": "mikenguyen13/ai_in_action",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-21T03:28:16Z",
     "url": "https://github.com/kagura-ai/memory-cloud"
-  },
-  {
-    "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
-    "id": "Gunnarguy/OpenIntelligence",
-    "language": "Swift",
-    "name": "Gunnarguy/OpenIntelligence",
-    "stars": 18,
-    "updated_at": "2026-06-21T03:27:37Z",
-    "url": "https://github.com/Gunnarguy/OpenIntelligence"
-  },
-  {
-    "description": "Local-first AI document-intelligence desktop app for Windows (.NET 8 / WinUI 3). Turns your documents into a queryable, ",
-    "id": "Git-Rocky-Stack/Agent-X",
-    "language": "C#",
-    "name": "Git-Rocky-Stack/Agent-X",
-    "stars": 2,
-    "updated_at": "2026-06-21T03:26:39Z",
-    "url": "https://github.com/Git-Rocky-Stack/Agent-X"
-  },
-  {
-    "description": "Production-grade RAG over SEC 10-K and 10-Q filings \u2014 hybrid retrieval, reranking, structured citations, and rigorous ev",
-    "id": "Rahul-Kushal-Anchi/sec-rag-assistant",
-    "language": "Python",
-    "name": "Rahul-Kushal-Anchi/sec-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:26:14Z",
-    "url": "https://github.com/Rahul-Kushal-Anchi/sec-rag-assistant"
-  },
-  {
-    "description": "\u57fa\u4e8e\u73b0\u4ee3\u524d\u7aef\u4e0e AI \u6280\u672f\u6808\u6784\u5efa\u7684\u4e2a\u6027\u5316 Notion \u5e94\u7528",
-    "id": "HaveNiceDa/My-Notion",
-    "language": "TypeScript",
-    "name": "HaveNiceDa/My-Notion",
-    "stars": 10,
-    "updated_at": "2026-06-21T03:22:45Z",
-    "url": "https://github.com/HaveNiceDa/My-Notion"
-  },
-  {
-    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG over your codebase, a 79-tool mult",
-    "id": "XAIHT/Tlamatini",
-    "language": "Python",
-    "name": "XAIHT/Tlamatini",
-    "stars": 11,
-    "updated_at": "2026-06-21T03:21:48Z",
-    "url": "https://github.com/XAIHT/Tlamatini"
   }
 ]
