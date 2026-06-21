@@ -1,5 +1,59 @@
 [
   {
+    "description": "Provenance-aware reasoning toward AGI \u2014 an OKF/LLM-Wiki belief graph, agent platform, and AGI-candidate proof package. W",
+    "id": "tomyimkc/sophia-agi",
+    "language": "Python",
+    "name": "tomyimkc/sophia-agi",
+    "stars": 0,
+    "updated_at": "2026-06-21T08:30:11Z",
+    "url": "https://github.com/tomyimkc/sophia-agi"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18609,
+    "updated_at": "2026-06-21T08:29:47Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
+    "id": "sdsrss/claude-mem-lite",
+    "language": "JavaScript",
+    "name": "sdsrss/claude-mem-lite",
+    "stars": 45,
+    "updated_at": "2026-06-21T08:28:46Z",
+    "url": "https://github.com/sdsrss/claude-mem-lite"
+  },
+  {
+    "description": "FastMCP 3.2 server for Calibre e-book library management \u2014 AI-assisted search, RAG, and agentic workflows). MCP server f",
+    "id": "sandraschi/calibremcp",
+    "language": "Python",
+    "name": "sandraschi/calibremcp",
+    "stars": 15,
+    "updated_at": "2026-06-21T08:28:38Z",
+    "url": "https://github.com/sandraschi/calibremcp"
+  },
+  {
+    "description": "Delphi-native, MIT-licensed RAG + linter for Delphi/Pascal source code. Symbol-exact + fuzzy + tree-sitter lint. Pure De",
+    "id": "Alexl-git/Delphi-RAG-Lint",
+    "language": "Pascal",
+    "name": "Alexl-git/Delphi-RAG-Lint",
+    "stars": 5,
+    "updated_at": "2026-06-21T08:28:08Z",
+    "url": "https://github.com/Alexl-git/Delphi-RAG-Lint"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T08:27:56Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The Complete AI Development Toolkit for Claude Code \u2014 103 skills, 36 agents, 172 hooks. Production-ready patterns for fu",
     "id": "yonatangross/orchestkit",
     "language": "TypeScript",
@@ -36,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Provenance-aware reasoning toward AGI \u2014 an OKF/LLM-Wiki belief graph, agent platform, and AGI-candidate proof package. W",
-    "id": "tomyimkc/sophia-agi",
-    "language": "Python",
-    "name": "tomyimkc/sophia-agi",
-    "stars": 0,
-    "updated_at": "2026-06-21T08:26:33Z",
-    "url": "https://github.com/tomyimkc/sophia-agi"
-  },
-  {
     "description": "Learns you, not the world.",
     "id": "wlsdks/Muse",
     "language": "TypeScript",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "strikersam/autonomous-ai-agency",
     "stars": 4,
-    "updated_at": "2026-06-21T08:25:45Z",
+    "updated_at": "2026-06-21T08:28:57Z",
     "url": "https://github.com/strikersam/autonomous-ai-agency"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/harf-promo/indexa"
   },
   {
-    "description": "Delphi-native, MIT-licensed RAG + linter for Delphi/Pascal source code. Symbol-exact + fuzzy + tree-sitter lint. Pure De",
-    "id": "Alexl-git/Delphi-RAG-Lint",
-    "language": "Pascal",
-    "name": "Alexl-git/Delphi-RAG-Lint",
-    "stars": 5,
-    "updated_at": "2026-06-21T08:21:48Z",
-    "url": "https://github.com/Alexl-git/Delphi-RAG-Lint"
-  },
-  {
     "description": "Evidence-only RAG + MCP server for Vietnamese banking & fintech regulation \u2014 exact \u0110i\u1ec1u/Kho\u1ea3n citations, validity status",
     "id": "dannyota/banhmi",
     "language": "Go",
@@ -189,15 +225,6 @@
     "url": "https://github.com/tynab/rag-agent-platform"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18609,
-    "updated_at": "2026-06-21T08:18:11Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "\u672c\u5730 RAG \u79c1\u4eba\u77e5\u8bc6\u5e93\uff08Streamlit + LangChain + Chroma\uff09",
     "id": "YeeKuson/my_local_knowledge_base",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T08:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-21T08:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local Graph RAG system for Supply Chain Management using Neo4j AuraDB + Weaviate + Groq + LangGraph + PostgreSQL + Strea",
@@ -405,6 +423,15 @@
     "url": "https://github.com/FaultMaven/faultmaven"
   },
   {
+    "description": "Hivemind turns your traces into reusable skills across agents",
+    "id": "activeloopai/hivemind",
+    "language": "TypeScript",
+    "name": "activeloopai/hivemind",
+    "stars": 1347,
+    "updated_at": "2026-06-21T07:52:19Z",
+    "url": "https://github.com/activeloopai/hivemind"
+  },
+  {
     "description": "Anvilry \u2014 a Sairam's engineering portfolio with three switchable experiences over one content source: a classic SSG site",
     "id": "sairam0424/anvilry",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 5651,
     "updated_at": "2026-06-21T07:51:56Z",
     "url": "https://github.com/xerrors/Yuxi"
-  },
-  {
-    "description": "Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms",
-    "id": "roryford/ManifoldKit",
-    "language": "Swift",
-    "name": "roryford/ManifoldKit",
-    "stars": 1,
-    "updated_at": "2026-06-21T08:22:23Z",
-    "url": "https://github.com/roryford/ManifoldKit"
-  },
-  {
-    "description": "NeuroLens is a premium, state-of-the-art Document Retrieval-Augmented Generation (RAG) system. It combines an immersive,",
-    "id": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
-    "language": "JavaScript",
-    "name": "udityamerit/NeuroLens-Knowledge-Retrieval-Engine",
-    "stars": 12,
-    "updated_at": "2026-06-21T07:51:27Z",
-    "url": "https://github.com/udityamerit/NeuroLens-Knowledge-Retrieval-Engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:51:25Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
