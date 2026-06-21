@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "beepboop2025/palimpsest",
     "stars": 3,
-    "updated_at": "2026-06-21T13:25:25Z",
+    "updated_at": "2026-06-21T13:30:09Z",
     "url": "https://github.com/beepboop2025/palimpsest"
+  },
+  {
+    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
+    "id": "gokhantos/opencrow",
+    "language": "TypeScript",
+    "name": "gokhantos/opencrow",
+    "stars": 21,
+    "updated_at": "2026-06-21T13:29:46Z",
+    "url": "https://github.com/gokhantos/opencrow"
+  },
+  {
+    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
+    "id": "HybridAIOne/hybridclaw",
+    "language": "TypeScript",
+    "name": "HybridAIOne/hybridclaw",
+    "stars": 118,
+    "updated_at": "2026-06-21T13:29:09Z",
+    "url": "https://github.com/HybridAIOne/hybridclaw"
   },
   {
     "description": "Humanities Engineering research infrastructure \u2014 Artificial Nature Theory & AGI",
@@ -14,8 +32,71 @@
     "language": "\u2014",
     "name": "icerain-cmd/humanities-ai-research",
     "stars": 1,
-    "updated_at": "2026-06-21T13:25:18Z",
+    "updated_at": "2026-06-21T13:28:29Z",
     "url": "https://github.com/icerain-cmd/humanities-ai-research"
+  },
+  {
+    "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
+    "id": "selmanays/nodrat",
+    "language": "Python",
+    "name": "selmanays/nodrat",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:28:40Z",
+    "url": "https://github.com/selmanays/nodrat"
+  },
+  {
+    "description": "Deterministic LangGraph support triage with Qdrant retrieval, grounded responses, evaluation, and an inspectable React c",
+    "id": "Praciller/customer-support-rag-triage-agent",
+    "language": "Python",
+    "name": "Praciller/customer-support-rag-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:27:23Z",
+    "url": "https://github.com/Praciller/customer-support-rag-triage-agent"
+  },
+  {
+    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
+    "id": "jaylfc/taosmd",
+    "language": "Python",
+    "name": "jaylfc/taosmd",
+    "stars": 47,
+    "updated_at": "2026-06-21T13:27:11Z",
+    "url": "https://github.com/jaylfc/taosmd"
+  },
+  {
+    "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
+    "id": "sdsrss/claude-mem-lite",
+    "language": "JavaScript",
+    "name": "sdsrss/claude-mem-lite",
+    "stars": 45,
+    "updated_at": "2026-06-21T13:27:06Z",
+    "url": "https://github.com/sdsrss/claude-mem-lite"
+  },
+  {
+    "description": "Capstone: RAG + SQL agent with FastAPI, Streamlit and Docker",
+    "id": "delcenjo/ai-insight-assistant",
+    "language": "Python",
+    "name": "delcenjo/ai-insight-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-21T13:26:35Z",
+    "url": "https://github.com/delcenjo/ai-insight-assistant"
+  },
+  {
+    "description": "Open-source web search API for AI agents. Tavily-compatible. Apache 2.0, self-hostable on Cloudflare Workers. 10\u00d7 cheape",
+    "id": "Rakesh1002/unsearch",
+    "language": "Python",
+    "name": "Rakesh1002/unsearch",
+    "stars": 5,
+    "updated_at": "2026-06-21T13:25:44Z",
+    "url": "https://github.com/Rakesh1002/unsearch"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-21T13:25:32Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
@@ -52,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T13:23:55Z",
     "url": "https://github.com/automatiabcn/abs"
-  },
-  {
-    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
-    "id": "jaylfc/taosmd",
-    "language": "Python",
-    "name": "jaylfc/taosmd",
-    "stars": 47,
-    "updated_at": "2026-06-21T13:23:53Z",
-    "url": "https://github.com/jaylfc/taosmd"
   },
   {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T13:22:36Z",
     "url": "https://github.com/Kemalyavas/tez-asistani"
-  },
-  {
-    "description": "Self-hosted multi-agent AI platform, orchestrate specialized agents across Telegram, WhatsApp, and web with 90+ tools, 1",
-    "id": "gokhantos/opencrow",
-    "language": "TypeScript",
-    "name": "gokhantos/opencrow",
-    "stars": 21,
-    "updated_at": "2026-06-21T13:22:02Z",
-    "url": "https://github.com/gokhantos/opencrow"
   },
   {
     "description": "Obsidian plugin \u2014 offline related-notes, semantic search, local RAG chat, and IMG\u2192MD vision transcription. Canonical hom",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T13:17:01Z",
     "url": "https://github.com/Lifefoo3142/aiaget-platform"
-  },
-  {
-    "description": "Index local files for semantic search and reranking using an MCP server, CLI, or web console on your machine.",
-    "id": "Tamariskwhisper962/Localbrain",
-    "language": "HTML",
-    "name": "Tamariskwhisper962/Localbrain",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:16:37Z",
-    "url": "https://github.com/Tamariskwhisper962/Localbrain"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:16:28Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Cla",
-    "id": "hjxwz123/Aurelia",
-    "language": "TypeScript",
-    "name": "hjxwz123/Aurelia",
-    "stars": 1,
-    "updated_at": "2026-06-21T13:16:22Z",
-    "url": "https://github.com/hjxwz123/Aurelia"
-  },
-  {
-    "description": "Enforce citation-first research with Claude to verify facts, identify uncertainty, and eliminate hallucinations through ",
-    "id": "Out-treatyofversailles910/grounded-research",
-    "language": "\u2014",
-    "name": "Out-treatyofversailles910/grounded-research",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:16:02Z",
-    "url": "https://github.com/Out-treatyofversailles910/grounded-research"
-  },
-  {
-    "description": "Deploy a local AI assistant on Windows using NVIDIA ChatRTX for private, efficient, and offline document interaction wit",
-    "id": "singular-ornithogalumthyrsoides521/nvidia-chatrtx",
-    "language": "\u2014",
-    "name": "singular-ornithogalumthyrsoides521/nvidia-chatrtx",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:15:59Z",
-    "url": "https://github.com/singular-ornithogalumthyrsoides521/nvidia-chatrtx"
-  },
-  {
-    "description": "End-to-end Retrieval-Augmented Generation (RAG) pipeline utilizing LangChain, Hugging Face Transformers, and VectorDBs f",
-    "id": "shivkhurana/intelligent-rag-document-engine",
-    "language": "Python",
-    "name": "shivkhurana/intelligent-rag-document-engine",
-    "stars": 0,
-    "updated_at": "2026-06-21T13:15:58Z",
-    "url": "https://github.com/shivkhurana/intelligent-rag-document-engine"
-  },
-  {
-    "description": "Build and operate production-grade AI agent systems through this 22-chapter technical course designed for collaborative ",
-    "id": "120th-westgermany829/agentic-ai-system-course",
-    "language": "Shell",
-    "name": "120th-westgermany829/agentic-ai-system-course",
-    "stars": 2,
-    "updated_at": "2026-06-21T13:15:35Z",
-    "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
   }
 ]
