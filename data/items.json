@@ -1,11 +1,146 @@
 [
   {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "Python",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-06-22T07:04:04Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "A reproducible benchmark testing whether deterministic decision-grounding makes a coding agent follow a team's prior dec",
+    "id": "itsthelore/decisiongrounding",
+    "language": "Python",
+    "name": "itsthelore/decisiongrounding",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:03:36Z",
+    "url": "https://github.com/itsthelore/decisiongrounding"
+  },
+  {
+    "description": "Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions fro",
+    "id": "Eshaan-Nair/ArcRift",
+    "language": "TypeScript",
+    "name": "Eshaan-Nair/ArcRift",
+    "stars": 238,
+    "updated_at": "2026-06-22T07:03:29Z",
+    "url": "https://github.com/Eshaan-Nair/ArcRift"
+  },
+  {
+    "description": "Experimenting with Pinecone as vector data continues to take center stage in AI-native systems. The purpose of this proj",
+    "id": "Kauxtubh/pinecone",
+    "language": "Python",
+    "name": "Kauxtubh/pinecone",
+    "stars": 3,
+    "updated_at": "2026-06-22T07:03:10Z",
+    "url": "https://github.com/Kauxtubh/pinecone"
+  },
+  {
+    "description": "Retrieval-augmented generation pipeline using image embeddings and visual context",
+    "id": "SharvenRane/visual-rag",
+    "language": "Python",
+    "name": "SharvenRane/visual-rag",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:02:43Z",
+    "url": "https://github.com/SharvenRane/visual-rag"
+  },
+  {
+    "description": "AI agent that helps users discover and get personalized workout recommendations.",
+    "id": "ayoub637/backend-api-fitflow",
+    "language": "TypeScript",
+    "name": "ayoub637/backend-api-fitflow",
+    "stars": 2,
+    "updated_at": "2026-06-22T07:02:35Z",
+    "url": "https://github.com/ayoub637/backend-api-fitflow"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 89,
+    "updated_at": "2026-06-22T07:02:31Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Multi-agent RAG system built with LangGraph \u2014 semantic document search, relevance grading, and automatic web search fall",
+    "id": "KasraRasi/researchmind",
+    "language": "Python",
+    "name": "KasraRasi/researchmind",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:02:18Z",
+    "url": "https://github.com/KasraRasi/researchmind"
+  },
+  {
+    "description": "Free AI Engineering curriculum for Afghan students \u2014 powered by Ollama, 100% offline, zero cost",
+    "id": "jafarimurtaza/afghan-geeks-edu-ai-engineering-cohort",
+    "language": "\u2014",
+    "name": "jafarimurtaza/afghan-geeks-edu-ai-engineering-cohort",
+    "stars": 2,
+    "updated_at": "2026-06-22T07:02:15Z",
+    "url": "https://github.com/jafarimurtaza/afghan-geeks-edu-ai-engineering-cohort"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-22T07:01:48Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "An AI knowledge base for you and your agent \u2014 everything you read in one place, searched and answered by AI, with citati",
+    "id": "oakreader/oakreader",
+    "language": "Swift",
+    "name": "oakreader/oakreader",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:01:17Z",
+    "url": "https://github.com/oakreader/oakreader"
+  },
+  {
+    "description": "Chat bot for questions related to FCSE and similar based in LangChain",
+    "id": "finki-hub/chat-bot",
+    "language": "Python",
+    "name": "finki-hub/chat-bot",
+    "stars": 1,
+    "updated_at": "2026-06-22T07:01:04Z",
+    "url": "https://github.com/finki-hub/chat-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-22T07:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "the memory layer of your codebase. Knows the WHY, the WHAT, the WHERE-IT-BREAKS.",
+    "id": "patsa2561-art/mneme-ai",
+    "language": "TypeScript",
+    "name": "patsa2561-art/mneme-ai",
+    "stars": 5,
+    "updated_at": "2026-06-22T07:00:22Z",
+    "url": "https://github.com/patsa2561-art/mneme-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-22T07:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production-ready platform for agentic workflow development.",
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 146102,
-    "updated_at": "2026-06-22T06:59:53Z",
+    "stars": 146103,
+    "updated_at": "2026-06-22T07:02:45Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -99,15 +234,6 @@
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
-    "description": "the memory layer of your codebase. Knows the WHY, the WHAT, the WHERE-IT-BREAKS.",
-    "id": "patsa2561-art/mneme-ai",
-    "language": "TypeScript",
-    "name": "patsa2561-art/mneme-ai",
-    "stars": 5,
-    "updated_at": "2026-06-22T06:57:50Z",
-    "url": "https://github.com/patsa2561-art/mneme-ai"
-  },
-  {
     "description": "Learning and building production-ready LLM applications through the LLM Zoomcamp program.",
     "id": "Vaibhav170216/llm-zoomcamp-2026",
     "language": "Jupyter Notebook",
@@ -135,6 +261,15 @@
     "url": "https://github.com/Anmolbhattarai-AI/medical-rag-chatbot"
   },
   {
+    "description": "RAG-powered Notes Q&A Bot \u2014 ask questions from your study notes, get answers with source citations. Built with LangChain",
+    "id": "palkinsuneja/notes-rag-bot",
+    "language": "Python",
+    "name": "palkinsuneja/notes-rag-bot",
+    "stars": 0,
+    "updated_at": "2026-06-22T06:55:20Z",
+    "url": "https://github.com/palkinsuneja/notes-rag-bot"
+  },
+  {
     "description": "Persistent memory for AI coding agents #self-hostable MCP server + webapp that turns Claude Code / Cursor / Windsurf ses",
     "id": "bejranonda/ExternalBrain",
     "language": "TypeScript",
@@ -158,7 +293,7 @@
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 193,
-    "updated_at": "2026-06-22T06:54:47Z",
+    "updated_at": "2026-06-22T07:00:46Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -205,6 +340,15 @@
     "stars": 40,
     "updated_at": "2026-06-22T06:53:07Z",
     "url": "https://github.com/labring/fastgpt-plugin"
+  },
+  {
+    "description": "End-to-end fraud detection & BI platform \u2014 FAISS-based RAG, FastAPI backend, Docker deployment, and a Streamlit dashboar",
+    "id": "Blitzhac/sentineliq",
+    "language": "Jupyter Notebook",
+    "name": "Blitzhac/sentineliq",
+    "stars": 0,
+    "updated_at": "2026-06-22T06:53:06Z",
+    "url": "https://github.com/Blitzhac/sentineliq"
   },
   {
     "description": "Multi-agent AI platform that analyzes GitHub repos \u2014 architecture diagrams, security audits, CVE scanning, RAG chat, PR ",
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T06:55:16Z",
     "url": "https://github.com/dfki-ebls/hivegent"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 44881,
-    "updated_at": "2026-06-22T06:46:43Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 5,
-    "updated_at": "2026-06-22T06:46:59Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "AI-powered RAG chatbot built with FastAPI, React, LangChain, FAISS, and Groq.",
-    "id": "Samiran006/industry-chatbot",
-    "language": "JavaScript",
-    "name": "Samiran006/industry-chatbot",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:45:33Z",
-    "url": "https://github.com/Samiran006/industry-chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-22T06:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Open-source AI agent that parses messy RFQ emails, PDFs, and spreadsheets into structured, priced, human-reviewed quotes",
-    "id": "Distill-AI/distill-ai",
-    "language": "TypeScript",
-    "name": "Distill-AI/distill-ai",
-    "stars": 1,
-    "updated_at": "2026-06-22T06:45:17Z",
-    "url": "https://github.com/Distill-AI/distill-ai"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:45:02Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:44:37Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Pack local repositories into dense semantic maps for Claude Opus 4.8 and Fable 5 to reduce token bloat and improve reaso",
-    "id": "Veronika0306/claude-opus48-context-packer",
-    "language": "\u2014",
-    "name": "Veronika0306/claude-opus48-context-packer",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:44:33Z",
-    "url": "https://github.com/Veronika0306/claude-opus48-context-packer"
-  },
-  {
-    "description": "Persistent local memory layer for AI. ArcRift uses a extension and a native MCP server to sync context and decisions fro",
-    "id": "Eshaan-Nair/ArcRift",
-    "language": "TypeScript",
-    "name": "Eshaan-Nair/ArcRift",
-    "stars": 238,
-    "updated_at": "2026-06-22T06:44:30Z",
-    "url": "https://github.com/Eshaan-Nair/ArcRift"
-  },
-  {
-    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies ",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 25882,
-    "updated_at": "2026-06-22T06:44:29Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Retrieve biomedical data across decentralized hospital nodes using federated learning and differential privacy to enable",
-    "id": "Sean9582/FedRAG",
-    "language": "\u2014",
-    "name": "Sean9582/FedRAG",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:44:05Z",
-    "url": "https://github.com/Sean9582/FedRAG"
-  },
-  {
-    "description": "Build RAG systems to combine large language models with external documents for accurate, grounded, and factual responses",
-    "id": "yeicaicedo-19/What-Is-RAG",
-    "language": "Jupyter Notebook",
-    "name": "yeicaicedo-19/What-Is-RAG",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:43:56Z",
-    "url": "https://github.com/yeicaicedo-19/What-Is-RAG"
-  },
-  {
-    "description": "Query Wikipedia ZIM archives offline with a hybrid RAG system using Llama.cpp. Build local indexes for private, internet",
-    "id": "Zile1147/wikipedia-agent",
-    "language": "Python",
-    "name": "Zile1147/wikipedia-agent",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:43:53Z",
-    "url": "https://github.com/Zile1147/wikipedia-agent"
-  },
-  {
-    "description": "Chat with your Obsidian notes using local LLMs to find insights in your knowledge base.",
-    "id": "Bourbonshootingrange132/yunseul",
-    "language": "TypeScript",
-    "name": "Bourbonshootingrange132/yunseul",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:43:53Z",
-    "url": "https://github.com/Bourbonshootingrange132/yunseul"
-  },
-  {
-    "description": "Medical RAG assistant for PCOS \u00d7 Neurodivergence research \u2014 grounded in peer-reviewed papers",
-    "id": "mistyvisty/pcos-neurodivergence-rag",
-    "language": "Jupyter Notebook",
-    "name": "mistyvisty/pcos-neurodivergence-rag",
-    "stars": 0,
-    "updated_at": "2026-06-22T06:43:52Z",
-    "url": "https://github.com/mistyvisty/pcos-neurodivergence-rag"
   }
 ]
