@@ -1,5 +1,104 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-06-24T16:16:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Build an enterprise-grade smart assistant that processes documents, indexes data, and answers queries with cited sources",
+    "id": "anditaadhi/-Smart-Assistant-RAG-Pipeline-Project",
+    "language": "Python",
+    "name": "anditaadhi/-Smart-Assistant-RAG-Pipeline-Project",
+    "stars": 0,
+    "updated_at": "2026-06-24T16:16:43Z",
+    "url": "https://github.com/anditaadhi/-Smart-Assistant-RAG-Pipeline-Project"
+  },
+  {
+    "description": "Ethos by DocuShell is an open-source citation-grounding verifier for document AI, RAG, and agents, with a deterministic ",
+    "id": "docushell/ethos",
+    "language": "Rust",
+    "name": "docushell/ethos",
+    "stars": 5,
+    "updated_at": "2026-06-24T16:16:32Z",
+    "url": "https://github.com/docushell/ethos"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18636,
+    "updated_at": "2026-06-24T16:16:18Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Demonstrate a proof-of-concept exploit for CVE-2026-2441, a high-risk Chrome use-after-free vulnerability in the Blink C",
+    "id": "fartlover37/CVE-2026-2441-PoC",
+    "language": "\u2014",
+    "name": "fartlover37/CVE-2026-2441-PoC",
+    "stars": 1,
+    "updated_at": "2026-06-24T16:15:57Z",
+    "url": "https://github.com/fartlover37/CVE-2026-2441-PoC"
+  },
+  {
+    "description": "Detect underpriced products by scraping deals and using AI models to estimate fair prices for profit opportunity identif",
+    "id": "stathis0074/Agentic-AI-Project-Find-Deal-Opportunities",
+    "language": "Jupyter Notebook",
+    "name": "stathis0074/Agentic-AI-Project-Find-Deal-Opportunities",
+    "stars": 1,
+    "updated_at": "2026-06-24T16:15:53Z",
+    "url": "https://github.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities"
+  },
+  {
+    "description": "Provide a clear, step-by-step guide to enable Secure Boot with module signature enforcement on Arch Linux using rEFInd a",
+    "id": "purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd",
+    "language": "\u2014",
+    "name": "purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd",
+    "stars": 0,
+    "updated_at": "2026-06-24T16:15:31Z",
+    "url": "https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T16:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T16:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic memory built on Postgres",
+    "id": "timescale/memory-engine",
+    "language": "TypeScript",
+    "name": "timescale/memory-engine",
+    "stars": 19,
+    "updated_at": "2026-06-24T16:14:44Z",
+    "url": "https://github.com/timescale/memory-engine"
+  },
+  {
+    "description": "Persistent semantic memory for AI agents \u2014 100% local on Apple Silicon (MLX). Markdown source of truth + sqlite-vec hybr",
+    "id": "jagoff/memo",
+    "language": "Python",
+    "name": "jagoff/memo",
+    "stars": 0,
+    "updated_at": "2026-06-24T16:14:37Z",
+    "url": "https://github.com/jagoff/memo"
+  },
+  {
     "description": " Multi-agent RAG Telegram bot for international students - LangGraph routing to domain agents over Qdrant.",
     "id": "PranavC225/early-companion",
     "language": "Python",
@@ -9,12 +108,21 @@
     "url": "https://github.com/PranavC225/early-companion"
   },
   {
+    "description": "Full AI context layer for coding agents \u2014 code-map, document RAG, shared memory, web crawl, git history. 300+ languages,",
+    "id": "Goldziher/basemind",
+    "language": "Rust",
+    "name": "Goldziher/basemind",
+    "stars": 32,
+    "updated_at": "2026-06-24T16:14:23Z",
+    "url": "https://github.com/Goldziher/basemind"
+  },
+  {
     "description": "Athanor `u00b7 RongZhi / MindForge - Personal knowledge management with LLM-powered RAG",
     "id": "shiyao222333-afk/citrinitas",
     "language": "Python",
     "name": "shiyao222333-afk/citrinitas",
     "stars": 0,
-    "updated_at": "2026-06-24T16:14:20Z",
+    "updated_at": "2026-06-24T16:16:45Z",
     "url": "https://github.com/shiyao222333-afk/citrinitas"
   },
   {
@@ -25,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-06-24T16:14:05Z",
     "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, d",
+    "id": "khoj-ai/khoj",
+    "language": "Python",
+    "name": "khoj-ai/khoj",
+    "stars": 35281,
+    "updated_at": "2026-06-24T16:14:03Z",
+    "url": "https://github.com/khoj-ai/khoj"
   },
   {
     "description": "SEAS: frontier research engine that earns findings via an emission gate. Argo: live agentic Telegram scout that turns kn",
@@ -142,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T16:12:50Z",
     "url": "https://github.com/royemandefroh-dot/docu-mind"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18636,
-    "updated_at": "2026-06-24T16:15:11Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "\ud83d\udcda Build and evaluate RAG pipelines to ingest, embed, retrieve, and answer questions with metrics for accuracy and releva",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T16:10:13Z",
     "url": "https://github.com/kenzoprime/claude-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Build advanced AI agents with a collection of production-ready applications using modern frameworks for single and mul",
-    "id": "Irsa070501/Advanced-AI-Agents",
-    "language": "Python",
-    "name": "Irsa070501/Advanced-AI-Agents",
-    "stars": 4,
-    "updated_at": "2026-06-24T16:10:07Z",
-    "url": "https://github.com/Irsa070501/Advanced-AI-Agents"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:09:59Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "Persistent semantic memory for AI agents \u2014 100% local on Apple Silicon (MLX). Markdown source of truth + sqlite-vec hybr",
-    "id": "jagoff/memo",
-    "language": "Python",
-    "name": "jagoff/memo",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:14:37Z",
-    "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
-    "id": "tetherto/qvac",
-    "language": "TypeScript",
-    "name": "tetherto/qvac",
-    "stars": 262,
-    "updated_at": "2026-06-24T16:09:27Z",
-    "url": "https://github.com/tetherto/qvac"
-  },
-  {
-    "description": "Karpathy-style LLM Wiki \u2014 manage multiple wikis, embed, search, lint. Single Rust binary, no database.",
-    "id": "Git-Fg/llmwiki",
-    "language": "Rust",
-    "name": "Git-Fg/llmwiki",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:11:58Z",
-    "url": "https://github.com/Git-Fg/llmwiki"
-  },
-  {
-    "description": "\ud83c\udf10 Build AI agents effortlessly with WrenAI, the open-source GenBI tool that streamlines development and enhances functio",
-    "id": "fvckhack/WrenAI",
-    "language": "TypeScript",
-    "name": "fvckhack/WrenAI",
-    "stars": 1,
-    "updated_at": "2026-06-24T16:09:16Z",
-    "url": "https://github.com/fvckhack/WrenAI"
-  },
-  {
-    "description": "\ud83d\udd0d Search Epstein court documents for mentions of your LinkedIn connections to uncover relevant insights into your networ",
-    "id": "Papotewii/EpsteIn",
-    "language": "Python",
-    "name": "Papotewii/EpsteIn",
-    "stars": 3,
-    "updated_at": "2026-06-24T16:09:14Z",
-    "url": "https://github.com/Papotewii/EpsteIn"
-  },
-  {
-    "description": "\ud83d\udd2c Chat with research papers using AI, extracting insights and summaries through advanced semantic search and Retrieval-A",
-    "id": "xxxsoekarno-lab/ai-research-copilot",
-    "language": "Python",
-    "name": "xxxsoekarno-lab/ai-research-copilot",
-    "stars": 1,
-    "updated_at": "2026-06-24T16:09:05Z",
-    "url": "https://github.com/xxxsoekarno-lab/ai-research-copilot"
-  },
-  {
-    "description": "RAG-based SEC 10-K Intelligence Assistant using Streamlit, ChromaDB, OpenAI embeddings, and public SEC EDGAR filings.",
-    "id": "praneethkorada-1998/sec-10k-rag-assistant-v1",
-    "language": "Python",
-    "name": "praneethkorada-1998/sec-10k-rag-assistant-v1",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:08:54Z",
-    "url": "https://github.com/praneethkorada-1998/sec-10k-rag-assistant-v1"
-  },
-  {
-    "description": "\ud83d\udc57 Deliver personalized outfit suggestions using AI, enhancing your wardrobe choices with tailored fashion recommendation",
-    "id": "kaletek/AI-Fashion-Recommendation-System",
-    "language": "\u2014",
-    "name": "kaletek/AI-Fashion-Recommendation-System",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:08:52Z",
-    "url": "https://github.com/kaletek/AI-Fashion-Recommendation-System"
-  },
-  {
-    "description": "Local-first desktop app (macOS & Windows) to chat with your own projects \u2014 offline RAG over your files, grounded answers",
-    "id": "tonkonozhenko-mi/ai_private_workspace",
-    "language": "Python",
-    "name": "tonkonozhenko-mi/ai_private_workspace",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:08:51Z",
-    "url": "https://github.com/tonkonozhenko-mi/ai_private_workspace"
-  },
-  {
-    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
-    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "language": "HTML",
-    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:08:50Z",
-    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
   }
 ]
