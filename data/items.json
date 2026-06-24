@@ -1,21 +1,66 @@
 [
   {
-    "description": "Selfhosted AI-Platform for using Local LLMs.",
-    "id": "MosesCommitsFraud/Talos",
-    "language": "Python",
-    "name": "MosesCommitsFraud/Talos",
-    "stars": 1,
-    "updated_at": "2026-06-24T23:00:10Z",
-    "url": "https://github.com/MosesCommitsFraud/Talos"
-  },
-  {
     "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
     "id": "SmooAI/smooth-operator",
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-06-24T23:00:01Z",
+    "updated_at": "2026-06-24T23:01:43Z",
     "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Selfhosted AI-Platform for using Local LLMs.",
+    "id": "MosesCommitsFraud/Talos",
+    "language": "Python",
+    "name": "MosesCommitsFraud/Talos",
+    "stars": 1,
+    "updated_at": "2026-06-24T23:01:49Z",
+    "url": "https://github.com/MosesCommitsFraud/Talos"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-24T23:01:03Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "id": "rish-1997/wsl-assistant",
+    "language": "Shell",
+    "name": "rish-1997/wsl-assistant",
+    "stars": 5,
+    "updated_at": "2026-06-24T23:00:31Z",
+    "url": "https://github.com/rish-1997/wsl-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The measurement layer for machine minds. Reads what a model means and whether it holds the truth, certifies that every c",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 13,
+    "updated_at": "2026-06-24T23:00:22Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-24T23:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent brain framework for autonomous AI agents powered by 0G.",
@@ -25,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-24T22:58:56Z",
     "url": "https://github.com/Surojit012/memos"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30522,
+    "updated_at": "2026-06-24T22:58:52Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
     "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
@@ -68,8 +122,17 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18640,
-    "updated_at": "2026-06-24T22:57:18Z",
+    "updated_at": "2026-06-24T23:00:30Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Mount Linux memory dumps as filesystems to investigate processes, files, and kernel state using standard command-line to",
+    "id": "stanleyjoy1980/MemNixFS",
+    "language": "C++",
+    "name": "stanleyjoy1980/MemNixFS",
+    "stars": 0,
+    "updated_at": "2026-06-24T22:57:05Z",
+    "url": "https://github.com/stanleyjoy1980/MemNixFS"
   },
   {
     "description": "A hands-on AI security project demonstrating prompt injection, data exfiltration, and defense strategies in Retrieval-Au",
@@ -81,21 +144,12 @@
     "url": "https://github.com/HPBhoir/secure-rag-redteam-lab"
   },
   {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30521,
-    "updated_at": "2026-06-24T22:58:52Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
     "description": "AI assistant with chat, workflow automation, and semantic search (RAG). Powered by Gemini API.",
     "id": "takeshy/obsidian-gemini-helper",
     "language": "TypeScript",
     "name": "takeshy/obsidian-gemini-helper",
     "stars": 96,
-    "updated_at": "2026-06-24T22:56:43Z",
+    "updated_at": "2026-06-24T23:01:03Z",
     "url": "https://github.com/takeshy/obsidian-gemini-helper"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T22:54:21Z",
     "url": "https://github.com/OpenDIKW/dikw-core"
-  },
-  {
-    "description": "The measurement layer for machine minds. Reads what a model means and whether it holds the truth, certifies that every c",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 13,
-    "updated_at": "2026-06-24T22:54:10Z",
-    "url": "https://github.com/fathom-lab/styxx"
   },
   {
     "description": "Local text embeddings for RAG + DuckDB VSS (Python, fastembed/ONNX)",
@@ -225,15 +270,6 @@
     "url": "https://github.com/nram-ai/nram"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-24T22:52:12Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "Universal memory layer for AI Agents",
     "id": "mem0ai/mem0",
     "language": "Python",
@@ -304,24 +340,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T22:45:44Z",
     "url": "https://github.com/JoyciAkira/memento"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-24T22:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Hot Dev: Hot Language and AI Workflow/Agents Platform",
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "zycaskevin/Vault-for-LLM",
     "stars": 40,
-    "updated_at": "2026-06-24T22:38:30Z",
+    "updated_at": "2026-06-24T23:00:29Z",
     "url": "https://github.com/zycaskevin/Vault-for-LLM"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T22:35:52Z",
     "url": "https://github.com/Query-farm/vgi-tiktoken"
-  },
-  {
-    "description": "Unlimited context for Ai \u2014 give any LLM a billion-token memory. Open-source, local-first context + memory engine for age",
-    "id": "DBarr3/Unlimited-Context-LLM",
-    "language": "Python",
-    "name": "DBarr3/Unlimited-Context-LLM",
-    "stars": 13,
-    "updated_at": "2026-06-24T22:34:56Z",
-    "url": "https://github.com/DBarr3/Unlimited-Context-LLM"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:33:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
