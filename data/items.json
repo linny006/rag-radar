@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udd27 Manage and monitor your homelab infrastructure efficiently with Model Context Protocol (MCP) servers through Claude De",
+    "id": "myraffy/homelab-mcp",
+    "language": "Python",
+    "name": "myraffy/homelab-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-26T20:46:28Z",
+    "url": "https://github.com/myraffy/homelab-mcp"
+  },
+  {
+    "description": "Release-readiness gates for AI agents \u2014 replay known incidents, apply policy-as-code gates, and produce ship/warn/block ",
+    "id": "rosscyking1115/agent-release-gates",
+    "language": "Python",
+    "name": "rosscyking1115/agent-release-gates",
+    "stars": 2,
+    "updated_at": "2026-06-26T20:46:20Z",
+    "url": "https://github.com/rosscyking1115/agent-release-gates"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18646,
+    "updated_at": "2026-06-26T20:46:03Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "\ud83c\udf10 Rethink Multimodal Large Language Models design and scaling under data constraints with NaViL, enhancing efficiency an",
+    "id": "ajgarciaj/NaViL",
+    "language": "\u2014",
+    "name": "ajgarciaj/NaViL",
+    "stars": 0,
+    "updated_at": "2026-06-26T20:45:56Z",
+    "url": "https://github.com/ajgarciaj/NaViL"
+  },
+  {
+    "description": "These projects are a collection of open-source AI infrastructure systems designed to be modular, secure, and fully self-",
+    "id": "openarsenalspecs/AI-Infrastructure",
+    "language": "\u2014",
+    "name": "openarsenalspecs/AI-Infrastructure",
+    "stars": 0,
+    "updated_at": "2026-06-26T20:45:32Z",
+    "url": "https://github.com/openarsenalspecs/AI-Infrastructure"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T20:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Mini LLM platform for learning!",
+    "id": "thompsy/mini-llm-platform",
+    "language": "Python",
+    "name": "thompsy/mini-llm-platform",
+    "stars": 0,
+    "updated_at": "2026-06-26T20:45:23Z",
+    "url": "https://github.com/thompsy/mini-llm-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T20:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance your research with SurfSense, a customizable AI agent that connects to multiple platforms for smarter, effecti",
+    "id": "Saritaa2710/SurfSense",
+    "language": "Python",
+    "name": "Saritaa2710/SurfSense",
+    "stars": 4,
+    "updated_at": "2026-06-26T20:45:19Z",
+    "url": "https://github.com/Saritaa2710/SurfSense"
+  },
+  {
     "description": "\ud83d\ude80 Transform your skills with 70 hands-on projects in Generative AI, guiding you from beginner to production-ready archit",
     "id": "Brucewaynehatake/GenAI-Architect-70-Hands-On-Projects",
     "language": "\u2014",
@@ -106,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-06-26T20:42:03Z",
     "url": "https://github.com/kapilkaushik1/second-brain-stack"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18646,
-    "updated_at": "2026-06-26T20:41:44Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Personal second brain \u2014 capture URLs, chat with your knowledge, remember people, search the web",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-26T20:34:28Z",
     "url": "https://github.com/3trilla/ayesha-portfolio"
-  },
-  {
-    "description": "Agentic system for non-expert users to interact with LLMs guided by experience",
-    "id": "dfki-ebls/hivegent",
-    "language": "TypeScript",
-    "name": "dfki-ebls/hivegent",
-    "stars": 1,
-    "updated_at": "2026-06-26T20:34:25Z",
-    "url": "https://github.com/dfki-ebls/hivegent"
-  },
-  {
-    "description": "Production-style AI knowledge platform for research papers using FastAPI, React, PostgreSQL/pgvector, Ollama, Docling, h",
-    "id": "builtbysubu/ai-research-assistant",
-    "language": "Python",
-    "name": "builtbysubu/ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-26T20:34:22Z",
-    "url": "https://github.com/builtbysubu/ai-research-assistant"
-  },
-  {
-    "description": "RAG trust & regression lab \u2014 retrieval recall, grounding, prompt-injection following, and poisoned-doc exposure, compare",
-    "id": "chohyerinn/rag-trust-lab",
-    "language": "Python",
-    "name": "chohyerinn/rag-trust-lab",
-    "stars": 0,
-    "updated_at": "2026-06-26T20:34:21Z",
-    "url": "https://github.com/chohyerinn/rag-trust-lab"
-  },
-  {
-    "description": "\ud83e\udde9 Enhance RAG processes with SmartChunk, a Python package that creates quality text chunks while preserving structure an",
-    "id": "tainmou/SmartChunk",
-    "language": "\u2014",
-    "name": "tainmou/SmartChunk",
-    "stars": 0,
-    "updated_at": "2026-06-26T20:34:14Z",
-    "url": "https://github.com/tainmou/SmartChunk"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Manage and utilize local context for Claude, enhancing applications with tailored insights and improving user experie",
-    "id": "shreyashKilledar1/claude-context-local",
-    "language": "Python",
-    "name": "shreyashKilledar1/claude-context-local",
-    "stars": 1,
-    "updated_at": "2026-06-26T20:34:09Z",
-    "url": "https://github.com/shreyashKilledar1/claude-context-local"
-  },
-  {
-    "description": "\ud83d\uddfa\ufe0f Visualize and explore large embeddings interactively, enabling easy navigation, clustering, and density analysis of y",
-    "id": "asswinthedann/embedding-atlas",
-    "language": "Java",
-    "name": "asswinthedann/embedding-atlas",
-    "stars": 0,
-    "updated_at": "2026-06-26T20:34:01Z",
-    "url": "https://github.com/asswinthedann/embedding-atlas"
-  },
-  {
-    "description": "\ud83e\udde0 Manage semantic memory for AI agents with this production-ready Model Context Protocol server, enabling efficient stor",
-    "id": "ronie-aduana/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ronie-aduana/mcp-ai-memory",
-    "stars": 2,
-    "updated_at": "2026-06-26T20:33:47Z",
-    "url": "https://github.com/ronie-aduana/mcp-ai-memory"
-  },
-  {
-    "description": "An intelligent AI assistant powered by FastAPI, Hugging Face, Retrieval-Augmented Generation (RAG), and modern LLM techn",
-    "id": "imranparthib/edgemind",
-    "language": "Python",
-    "name": "imranparthib/edgemind",
-    "stars": 1,
-    "updated_at": "2026-06-26T20:33:33Z",
-    "url": "https://github.com/imranparthib/edgemind"
   }
 ]
