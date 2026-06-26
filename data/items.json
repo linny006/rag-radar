@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
-    "id": "titit-star/ethora-sdk-swift",
-    "language": "Swift",
-    "name": "titit-star/ethora-sdk-swift",
-    "stars": 1,
-    "updated_at": "2026-06-26T14:44:56Z",
-    "url": "https://github.com/titit-star/ethora-sdk-swift"
+    "description": "\ud83d\uddc2\ufe0f Build a versatile MCP server with RAG capabilities, supporting multiple document formats using LangChain and ChromaDB",
+    "id": "rexnzm/MCP-rag-with-Chromadb",
+    "language": "Python",
+    "name": "rexnzm/MCP-rag-with-Chromadb",
+    "stars": 2,
+    "updated_at": "2026-06-26T14:46:55Z",
+    "url": "https://github.com/rexnzm/MCP-rag-with-Chromadb"
+  },
+  {
+    "description": "Pixel-native visual RAG ported to Rust on the ruvector ANN substrate (HNSW + IVF-Flat) \u2014 screenshot/document retrieval o",
+    "id": "ruvnet/rupixel",
+    "language": "Rust",
+    "name": "ruvnet/rupixel",
+    "stars": 8,
+    "updated_at": "2026-06-26T14:46:39Z",
+    "url": "https://github.com/ruvnet/rupixel"
   },
   {
     "description": "Sistema de Memoria Dual con B\u00fasqueda Integrada por Relevancia Expansiva (BIRE) \u2014 PostgreSQL + pgvector + Gemini Embeddin",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "carrasquelalex1/hipocampo",
     "stars": 2,
-    "updated_at": "2026-06-26T14:44:53Z",
+    "updated_at": "2026-06-26T14:46:35Z",
     "url": "https://github.com/carrasquelalex1/hipocampo"
+  },
+  {
+    "description": "Automate IT helpdesk triage and resolve technical issues locally using RAG, SQLite, and Ollama.",
+    "id": "puppetrygenusscilla672/10_ai_it_support_assistant",
+    "language": "Python",
+    "name": "puppetrygenusscilla672/10_ai_it_support_assistant",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:45:49Z",
+    "url": "https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:45:46Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Token-efficient MCP doc-router \u2014 one canonical doc per query for your coding agents.",
+    "id": "TsukumoHQ/trovex",
+    "language": "HTML",
+    "name": "TsukumoHQ/trovex",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:45:25Z",
+    "url": "https://github.com/TsukumoHQ/trovex"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:45:25Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-26T14:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
+    "id": "titit-star/ethora-sdk-swift",
+    "language": "Swift",
+    "name": "titit-star/ethora-sdk-swift",
+    "stars": 1,
+    "updated_at": "2026-06-26T14:44:56Z",
+    "url": "https://github.com/titit-star/ethora-sdk-swift"
   },
   {
     "description": "\ud83d\udee0 Enhance LLM prompts effortlessly with RPI, a tool for testing, improving, and managing prompts across various AI provi",
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "GioiaZheng/rag-observatory",
     "stars": 0,
-    "updated_at": "2026-06-26T14:42:06Z",
+    "updated_at": "2026-06-26T14:46:51Z",
     "url": "https://github.com/GioiaZheng/rag-observatory"
   },
   {
@@ -252,15 +324,6 @@
     "url": "https://github.com/brej-29/rag-agent-workbench"
   },
   {
-    "description": "Pixel-native visual RAG ported to Rust on the ruvector ANN substrate (HNSW + IVF-Flat) \u2014 screenshot/document retrieval o",
-    "id": "ruvnet/rupixel",
-    "language": "Rust",
-    "name": "ruvnet/rupixel",
-    "stars": 8,
-    "updated_at": "2026-06-26T14:40:27Z",
-    "url": "https://github.com/ruvnet/rupixel"
-  },
-  {
     "description": "\ud83d\udcca Automate financial analysis and forecasting with ForecastGPT, leveraging AI to extract insights from reports and strea",
     "id": "elemsi/forecastgpt-financial-outlook-agent",
     "language": "Python",
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "strikersam/autonomous-ai-agency",
     "stars": 4,
-    "updated_at": "2026-06-26T14:39:49Z",
+    "updated_at": "2026-06-26T14:45:45Z",
     "url": "https://github.com/strikersam/autonomous-ai-agency"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-26T14:38:21Z",
     "url": "https://github.com/JallinskyLuca/ai-etl-anomaly-detection"
-  },
-  {
-    "description": "\ud83c\udf1f Discover and explore essential Arabic NLP resources, including research, models, datasets, and tools to enhance your p",
-    "id": "Pac-Man-PT/Awesome_Arabic_NLP",
-    "language": "\u2014",
-    "name": "Pac-Man-PT/Awesome_Arabic_NLP",
-    "stars": 3,
-    "updated_at": "2026-06-26T14:38:18Z",
-    "url": "https://github.com/Pac-Man-PT/Awesome_Arabic_NLP"
-  },
-  {
-    "description": "LLM-friendly web crawler & scraper with a dedicated Reddit engine, built on Crawl4AI \u2014 Open WebUI compatible",
-    "id": "kinorai/omnifeed",
-    "language": "Go",
-    "name": "kinorai/omnifeed",
-    "stars": 4,
-    "updated_at": "2026-06-26T14:38:18Z",
-    "url": "https://github.com/kinorai/omnifeed"
-  },
-  {
-    "description": "MongoDB Atlas-backed memory capability for Pydantic AI: durable cross-session agent memory with Voyage 3.5 embeddings an",
-    "id": "mongodb-developer/pydantic-ai-mongodb-memory",
-    "language": "Python",
-    "name": "mongodb-developer/pydantic-ai-mongodb-memory",
-    "stars": 0,
-    "updated_at": "2026-06-26T14:37:44Z",
-    "url": "https://github.com/mongodb-developer/pydantic-ai-mongodb-memory"
-  },
-  {
-    "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
-    "id": "lpr021/redteam-ai-benchmark",
-    "language": "Python",
-    "name": "lpr021/redteam-ai-benchmark",
-    "stars": 2,
-    "updated_at": "2026-06-26T14:37:34Z",
-    "url": "https://github.com/lpr021/redteam-ai-benchmark"
-  },
-  {
-    "description": "C# SDK for the Brave Search API -- web, image, video, and news search with AI-powered summaries",
-    "id": "tryAGI/BraveSearch",
-    "language": "C#",
-    "name": "tryAGI/BraveSearch",
-    "stars": 0,
-    "updated_at": "2026-06-26T14:37:30Z",
-    "url": "https://github.com/tryAGI/BraveSearch"
-  },
-  {
-    "description": "Self-hosted personal AI knowledge brain -- hybrid (vector + keyword + entity-graph) search over your notes and code, ser",
-    "id": "timurgaleev/memex",
-    "language": "TypeScript",
-    "name": "timurgaleev/memex",
-    "stars": 1,
-    "updated_at": "2026-06-26T14:37:19Z",
-    "url": "https://github.com/timurgaleev/memex"
-  },
-  {
-    "description": "Production-ready platform for agentic workflow development.",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 146654,
-    "updated_at": "2026-06-26T14:37:02Z",
-    "url": "https://github.com/langgenius/dify"
   }
 ]
