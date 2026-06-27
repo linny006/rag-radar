@@ -1,5 +1,50 @@
 [
   {
+    "description": "Retrieval-augmented generation service with grounded answers, inline source citations and token budgeting.",
+    "id": "rovidev95/rovidev-rag-agent",
+    "language": "Python",
+    "name": "rovidev95/rovidev-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:15:53Z",
+    "url": "https://github.com/rovidev95/rovidev-rag-agent"
+  },
+  {
+    "description": "# elizaA Rust implementation of common encryption and decryption algorithms, designed for reference. This project allows",
+    "id": "krishnan188/eliza",
+    "language": "\u2014",
+    "name": "krishnan188/eliza",
+    "stars": 1,
+    "updated_at": "2026-06-27T08:15:48Z",
+    "url": "https://github.com/krishnan188/eliza"
+  },
+  {
+    "description": "temThis repository contains Gen AI projects that performs different tasks",
+    "id": "Bradox54/Generative-AI-Projects",
+    "language": "\u2014",
+    "name": "Bradox54/Generative-AI-Projects",
+    "stars": 5,
+    "updated_at": "2026-06-27T08:15:25Z",
+    "url": "https://github.com/Bradox54/Generative-AI-Projects"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-27T08:15:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T08:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A fine-tuned Qwen2.5-1.5B model that breaks complex multi-hop questions into atomic sub-queries with dependency graphs, ",
     "id": "amareshhebbar/AtomicRAG",
     "language": "Python",
@@ -306,30 +351,12 @@
     "url": "https://github.com/krrishapatel/Ragchat"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-27T08:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T08:00:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
     "id": "ModelEngine-Group/nexent",
     "language": "Python",
     "name": "ModelEngine-Group/nexent",
     "stars": 5330,
-    "updated_at": "2026-06-27T08:00:10Z",
+    "updated_at": "2026-06-27T08:15:33Z",
     "url": "https://github.com/ModelEngine-Group/nexent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 247,
     "updated_at": "2026-06-27T07:51:45Z",
     "url": "https://github.com/sachitrafa/YourMemory"
-  },
-  {
-    "description": "Universal memory layer for AI Agents",
-    "id": "mem0ai/mem0",
-    "language": "Python",
-    "name": "mem0ai/mem0",
-    "stars": 59551,
-    "updated_at": "2026-06-27T07:50:39Z",
-    "url": "https://github.com/mem0ai/mem0"
-  },
-  {
-    "description": "Graph-based RAG: documents -> LLM-extracted knowledge graph -> multi-hop, cited answers with an interactive network view",
-    "id": "AnkitSaxena-AI/graphrag-explorer",
-    "language": "Python",
-    "name": "AnkitSaxena-AI/graphrag-explorer",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:50:37Z",
-    "url": "https://github.com/AnkitSaxena-AI/graphrag-explorer"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:50:12Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
