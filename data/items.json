@@ -1,5 +1,95 @@
 [
   {
+    "description": "A high-reliability, local-first, policy-governed AI coding agent written in pure Rust. Features native Iced desktop UI, ",
+    "id": "NefaroXX/OpenCode-rs",
+    "language": "Rust",
+    "name": "NefaroXX/OpenCode-rs",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:31:24Z",
+    "url": "https://github.com/NefaroXX/OpenCode-rs"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-06-27T10:31:22Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3217,
+    "updated_at": "2026-06-27T10:31:01Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "WikiMind: An end-to-end Hybrid RAG pipeline featuring multi-modal retrieval (vectored dense - sparse search, and vectorl",
+    "id": "JayacharanR/WikiMind-End-to-End-Hybrid-RAG-Pipeline",
+    "language": "Python",
+    "name": "JayacharanR/WikiMind-End-to-End-Hybrid-RAG-Pipeline",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:30:56Z",
+    "url": "https://github.com/JayacharanR/WikiMind-End-to-End-Hybrid-RAG-Pipeline"
+  },
+  {
+    "description": "Persistent dynamic memory for AI agents: vector search, wave-field priority, SQLite persistence.",
+    "id": "CaspianG/wavemind",
+    "language": "Python",
+    "name": "CaspianG/wavemind",
+    "stars": 6,
+    "updated_at": "2026-06-27T10:30:47Z",
+    "url": "https://github.com/CaspianG/wavemind"
+  },
+  {
+    "description": "\ud83c\udfc6 Discover essential tools and frameworks to enhance your hackathon experience, from pitching ideas to deploying your pr",
+    "id": "rahavshukla/Hackathon-Tools",
+    "language": "\u2014",
+    "name": "rahavshukla/Hackathon-Tools",
+    "stars": 6,
+    "updated_at": "2026-06-27T10:30:40Z",
+    "url": "https://github.com/rahavshukla/Hackathon-Tools"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform your PDF documents into actionable insights with this RAG-based Question-Answering App for efficient and acc",
+    "id": "rupamsamanta123/PDF-QA-RAG-System",
+    "language": "Python",
+    "name": "rupamsamanta123/PDF-QA-RAG-System",
+    "stars": 4,
+    "updated_at": "2026-06-27T10:30:31Z",
+    "url": "https://github.com/rupamsamanta123/PDF-QA-RAG-System"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance data queries with SQLBot, an intelligent system that combines advanced models and RAG for seamless integration",
+    "id": "FlareIgnis/SQLBot",
+    "language": "Python",
+    "name": "FlareIgnis/SQLBot",
+    "stars": 2,
+    "updated_at": "2026-06-27T10:30:23Z",
+    "url": "https://github.com/FlareIgnis/SQLBot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-27T10:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T10:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-powered website chatbot - crawl any website and ask questions using RAG, Groq LLaMA3 and ChromaDB",
     "id": "subasreebhoopesh/RAG---AI-WEBSITE-CHATBOOT",
     "language": "HTML",
@@ -9,15 +99,6 @@
     "url": "https://github.com/subasreebhoopesh/RAG---AI-WEBSITE-CHATBOOT"
   },
   {
-    "description": "A high-reliability, local-first, policy-governed AI coding agent written in pure Rust. Features native Iced desktop UI, ",
-    "id": "NefaroXX/OpenCode-rs",
-    "language": "Rust",
-    "name": "NefaroXX/OpenCode-rs",
-    "stars": 0,
-    "updated_at": "2026-06-27T10:28:58Z",
-    "url": "https://github.com/NefaroXX/OpenCode-rs"
-  },
-  {
     "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
     "id": "Iammilansoni/MiningNiti",
     "language": "TypeScript",
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T10:28:37Z",
     "url": "https://github.com/Iammilansoni/MiningNiti"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3217,
-    "updated_at": "2026-06-27T10:28:28Z",
-    "url": "https://github.com/neomjs/neo"
   },
   {
     "description": "\ud83c\udfaf Optimize retrieval with TriStage-RAG, a 3-stage pipeline that enhances document discovery while overcoming the limits ",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-27T10:20:33Z",
     "url": "https://github.com/Fahadfk/AI_deployment"
-  },
-  {
-    "description": "Agentic RAG Streamlit app for Cobb County building and fire code Q&A using local PDFs, Chroma, LangChain, and web fallba",
-    "id": "helsharif/cobb-county-code-rag-assistant",
-    "language": "Python",
-    "name": "helsharif/cobb-county-code-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-27T10:20:21Z",
-    "url": "https://github.com/helsharif/cobb-county-code-rag-assistant"
-  },
-  {
-    "description": "\u57fa\u4e8e Next.js\u3001Supabase\u3001pgvector \u548c LLM provider \u7684\u5168\u6808 RAG \u6587\u6863\u95ee\u7b54\u4f5c\u54c1\u96c6\u9879\u76ee\u3002",
-    "id": "AZ123IT/ai-document-chat",
-    "language": "TypeScript",
-    "name": "AZ123IT/ai-document-chat",
-    "stars": 0,
-    "updated_at": "2026-06-27T10:19:46Z",
-    "url": "https://github.com/AZ123IT/ai-document-chat"
-  },
-  {
-    "description": "Build a robust, production-ready RAG system with effective data preparation, anonymization, and LLM integration. Explore",
-    "id": "Megaboy12346/complex-RAG-guide",
-    "language": "Jupyter Notebook",
-    "name": "Megaboy12346/complex-RAG-guide",
-    "stars": 2,
-    "updated_at": "2026-06-27T10:19:40Z",
-    "url": "https://github.com/Megaboy12346/complex-RAG-guide"
-  },
-  {
-    "description": "Effortlessly manage your PDFs with the PDF Toolkit. Merge, split, and extract text securely in your browser. \ud83c\udf10\ud83d\udcc4 Explore ",
-    "id": "helptrader/pdf-toolkit-app",
-    "language": "JavaScript",
-    "name": "helptrader/pdf-toolkit-app",
-    "stars": 0,
-    "updated_at": "2026-06-27T10:19:35Z",
-    "url": "https://github.com/helptrader/pdf-toolkit-app"
-  },
-  {
-    "description": "# elizaA Rust implementation of common encryption and decryption algorithms, designed for reference. This project allows",
-    "id": "krishnan188/eliza",
-    "language": "\u2014",
-    "name": "krishnan188/eliza",
-    "stars": 1,
-    "updated_at": "2026-06-27T10:18:26Z",
-    "url": "https://github.com/krishnan188/eliza"
-  },
-  {
-    "description": "AI-powered RAG chatbot for PDFs and websites using LangChain, FAISS, Hugging Face Embeddings, Gemini AI, and Streamlit.",
-    "id": "Abhilash-bheri/AI-RAG-Assistant",
-    "language": "Python",
-    "name": "Abhilash-bheri/AI-RAG-Assistant",
-    "stars": 2,
-    "updated_at": "2026-06-27T10:18:17Z",
-    "url": "https://github.com/Abhilash-bheri/AI-RAG-Assistant"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-06-27T10:18:08Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "temThis repository contains Gen AI projects that performs different tasks",
-    "id": "Bradox54/Generative-AI-Projects",
-    "language": "\u2014",
-    "name": "Bradox54/Generative-AI-Projects",
-    "stars": 5,
-    "updated_at": "2026-06-27T10:18:03Z",
-    "url": "https://github.com/Bradox54/Generative-AI-Projects"
   }
 ]
