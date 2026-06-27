@@ -1,5 +1,230 @@
 [
   {
+    "description": "ODW Vault \u2014 self-hosted RAG platform with pre-flight pipeline, hybrid retrieval, and full offline capability",
+    "id": "OnDemandWorld/odw-vault",
+    "language": "Python",
+    "name": "OnDemandWorld/odw-vault",
+    "stars": 0,
+    "updated_at": "2026-06-27T03:15:10Z",
+    "url": "https://github.com/OnDemandWorld/odw-vault"
+  },
+  {
+    "description": "Operational doctrine for practical AI systems design.",
+    "id": "Stunspot/stunspots-guide-to-ai-systems",
+    "language": "\u2014",
+    "name": "Stunspot/stunspots-guide-to-ai-systems",
+    "stars": 33,
+    "updated_at": "2026-06-27T03:14:52Z",
+    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
+  },
+  {
+    "description": "Experimenting with Pinecone as vector data continues to take center stage in AI-native systems. The purpose of this proj",
+    "id": "Kauxtubh/pinecone",
+    "language": "Python",
+    "name": "Kauxtubh/pinecone",
+    "stars": 3,
+    "updated_at": "2026-06-27T03:14:08Z",
+    "url": "https://github.com/Kauxtubh/pinecone"
+  },
+  {
+    "description": "Cognee Rust - fast and performant AI memory engine",
+    "id": "topoteretes/cognee-rs",
+    "language": "Rust",
+    "name": "topoteretes/cognee-rs",
+    "stars": 2,
+    "updated_at": "2026-06-27T03:14:54Z",
+    "url": "https://github.com/topoteretes/cognee-rs"
+  },
+  {
+    "description": "ODW Desk - Self-hosted, WhatsApp-first AI customer support agent with full data sovereignty. Production-ready with PII d",
+    "id": "OnDemandWorld/odw-desk",
+    "language": "Python",
+    "name": "OnDemandWorld/odw-desk",
+    "stars": 0,
+    "updated_at": "2026-06-27T03:13:43Z",
+    "url": "https://github.com/OnDemandWorld/odw-desk"
+  },
+  {
+    "description": "AI agent that helps users discover and get personalized workout recommendations.",
+    "id": "ayoub637/backend-api-fitflow",
+    "language": "TypeScript",
+    "name": "ayoub637/backend-api-fitflow",
+    "stars": 2,
+    "updated_at": "2026-06-27T03:13:34Z",
+    "url": "https://github.com/ayoub637/backend-api-fitflow"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 89,
+    "updated_at": "2026-06-27T03:13:30Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 1,
+    "updated_at": "2026-06-27T03:12:44Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18644,
+    "updated_at": "2026-06-27T03:12:38Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "\u540e\u7aef\u5de5\u7a0b\u5e08\u8f6c\u578b AI \u7684\u5b66\u4e60\u624b\u8d26 \u00b7 RAG / Agent / MCP / AI \u7f16\u7a0b \u00b7 \u540c\u8def\u4eba\u7b14\u8bb0,\u4fdd\u7559\u56f0\u60d1\u3001\u8ffd\u95ee\u4e0e\u8d70\u8fc7\u7684\u5f2f\u8def",
+    "id": "bob798/learn-ai-engineering",
+    "language": "Jupyter Notebook",
+    "name": "bob798/learn-ai-engineering",
+    "stars": 1,
+    "updated_at": "2026-06-27T03:12:26Z",
+    "url": "https://github.com/bob798/learn-ai-engineering"
+  },
+  {
+    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
+    "id": "aiKunalBisht/Transcript-ai",
+    "language": "Python",
+    "name": "aiKunalBisht/Transcript-ai",
+    "stars": 3,
+    "updated_at": "2026-06-27T03:11:06Z",
+    "url": "https://github.com/aiKunalBisht/Transcript-ai"
+  },
+  {
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 146686,
+    "updated_at": "2026-06-27T03:09:59Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Local-first, eval-first memory for long-horizon AI agents \u2014 no LLM at ingest. Python SDK + MCP server with source-tracea",
+    "id": "vornicx/Midas",
+    "language": "Python",
+    "name": "vornicx/Midas",
+    "stars": 12,
+    "updated_at": "2026-06-27T03:09:41Z",
+    "url": "https://github.com/vornicx/Midas"
+  },
+  {
+    "description": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "id": "rish-1997/wsl-assistant",
+    "language": "Shell",
+    "name": "rish-1997/wsl-assistant",
+    "stars": 5,
+    "updated_at": "2026-06-27T03:09:41Z",
+    "url": "https://github.com/rish-1997/wsl-assistant"
+  },
+  {
+    "description": "AI agent in Delphi Object Pascal",
+    "id": "FMXExpress/PasClaw",
+    "language": "Pascal",
+    "name": "FMXExpress/PasClaw",
+    "stars": 32,
+    "updated_at": "2026-06-27T03:09:09Z",
+    "url": "https://github.com/FMXExpress/PasClaw"
+  },
+  {
+    "description": "\ud83e\udde0 Mac Agent Personal - \u672c\u5730 Mac \u684c\u9762 AI \u52a9\u624b / Local AI assistant for macOS with 80+ commands, local RAG, UI automation",
+    "id": "moaliangliang/knowagent-personal",
+    "language": "Python",
+    "name": "moaliangliang/knowagent-personal",
+    "stars": 0,
+    "updated_at": "2026-06-27T03:09:09Z",
+    "url": "https://github.com/moaliangliang/knowagent-personal"
+  },
+  {
+    "description": "\ud83c\udf3f Production-grade Go framework for conversational AI agents \u2014 LLM abstraction, RAG, memory, WhatsApp, scheduling & obse",
+    "id": "wmulabs/eywa",
+    "language": "Go",
+    "name": "wmulabs/eywa",
+    "stars": 7,
+    "updated_at": "2026-06-27T03:14:55Z",
+    "url": "https://github.com/wmulabs/eywa"
+  },
+  {
+    "description": "The Golang package to chunk documents for RAG. ",
+    "id": "1Vewton/textsplitter",
+    "language": "Go",
+    "name": "1Vewton/textsplitter",
+    "stars": 1,
+    "updated_at": "2026-06-27T03:06:59Z",
+    "url": "https://github.com/1Vewton/textsplitter"
+  },
+  {
+    "description": "LLM-powered NPC RPG using RAG, STT/TTS and Unity",
+    "id": "JK-remi/LLM-NPC-RPG",
+    "language": "\u2014",
+    "name": "JK-remi/LLM-NPC-RPG",
+    "stars": 0,
+    "updated_at": "2026-06-27T03:06:30Z",
+    "url": "https://github.com/JK-remi/LLM-NPC-RPG"
+  },
+  {
+    "description": "Offline agentic RAG security assistant on Raspberry Pi 5 + Hailo-8L NPU. Real-time person detection, re-identification, ",
+    "id": "Olawalekaybee/edgesentry",
+    "language": "Python",
+    "name": "Olawalekaybee/edgesentry",
+    "stars": 0,
+    "updated_at": "2026-06-27T03:02:57Z",
+    "url": "https://github.com/Olawalekaybee/edgesentry"
+  },
+  {
+    "description": "Keepsake \u2014 \u5b8c\u6574\u8bb0\u5fc6\u7cfb\u7edf for Hermes Agent\u3002\u6309\u9700\u5b58\u50a8\u5b8c\u6574\u6761\u76ee\uff0c\u8bed\u4e49\u68c0\u7d22\u6ce8\u5165\u5bf9\u8bdd\u4e0a\u4e0b\u6587\u3002",
+    "id": "j-zly/keepsake",
+    "language": "Python",
+    "name": "j-zly/keepsake",
+    "stars": 2,
+    "updated_at": "2026-06-27T03:02:02Z",
+    "url": "https://github.com/j-zly/keepsake"
+  },
+  {
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 28870,
+    "updated_at": "2026-06-27T03:00:32Z",
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
+    "id": "tomyimkc/sophia-agi",
+    "language": "Python",
+    "name": "tomyimkc/sophia-agi",
+    "stars": 3,
+    "updated_at": "2026-06-27T03:14:51Z",
+    "url": "https://github.com/tomyimkc/sophia-agi"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-27T03:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T03:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents.",
     "id": "Amal-David/docingest",
     "language": "TypeScript",
@@ -9,15 +234,6 @@
     "url": "https://github.com/Amal-David/docingest"
   },
   {
-    "description": "LLM-powered NPC RPG using RAG, STT/TTS and Unity",
-    "id": "JK-remi/LLM-NPC-RPG",
-    "language": "\u2014",
-    "name": "JK-remi/LLM-NPC-RPG",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:59:31Z",
-    "url": "https://github.com/JK-remi/LLM-NPC-RPG"
-  },
-  {
     "description": "A complete collection of RAG interview questions, answers (418 questions & 29 RAG types), system design scenarios, archi",
     "id": "ather-techie/rag-interview-system",
     "language": "\u2014",
@@ -25,33 +241,6 @@
     "stars": 72,
     "updated_at": "2026-06-27T02:59:02Z",
     "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "\ud83e\udde0 Mac Agent Personal - \u672c\u5730 Mac \u684c\u9762 AI \u52a9\u624b / Local AI assistant for macOS with 80+ commands, local RAG, UI automation",
-    "id": "moaliangliang/knowagent-personal",
-    "language": "Python",
-    "name": "moaliangliang/knowagent-personal",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:58:08Z",
-    "url": "https://github.com/moaliangliang/knowagent-personal"
-  },
-  {
-    "description": "\u540e\u7aef\u5de5\u7a0b\u5e08\u8f6c\u578b AI \u7684\u5b66\u4e60\u624b\u8d26 \u00b7 RAG / Agent / MCP / AI \u7f16\u7a0b \u00b7 \u540c\u8def\u4eba\u7b14\u8bb0,\u4fdd\u7559\u56f0\u60d1\u3001\u8ffd\u95ee\u4e0e\u8d70\u8fc7\u7684\u5f2f\u8def",
-    "id": "bob798/learn-ai-engineering",
-    "language": "Jupyter Notebook",
-    "name": "bob798/learn-ai-engineering",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:57:47Z",
-    "url": "https://github.com/bob798/learn-ai-engineering"
-  },
-  {
-    "description": "\ud83c\udf3f Production-grade Go framework for conversational AI agents \u2014 LLM abstraction, RAG, memory, WhatsApp, scheduling & obse",
-    "id": "wmulabs/eywa",
-    "language": "Go",
-    "name": "wmulabs/eywa",
-    "stars": 7,
-    "updated_at": "2026-06-27T02:56:55Z",
-    "url": "https://github.com/wmulabs/eywa"
   },
   {
     "description": "A team of specialized AI agents covering the complete software development flow \u2014 from requirements discovery to deploy.",
@@ -70,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T02:52:58Z",
     "url": "https://github.com/FiscalMindset/vickykumar"
-  },
-  {
-    "description": "Keepsake \u2014 \u5b8c\u6574\u8bb0\u5fc6\u7cfb\u7edf for Hermes Agent\u3002\u6309\u9700\u5b58\u50a8\u5b8c\u6574\u6761\u76ee\uff0c\u8bed\u4e49\u68c0\u7d22\u6ce8\u5165\u5bf9\u8bdd\u4e0a\u4e0b\u6587\u3002",
-    "id": "j-zly/keepsake",
-    "language": "Python",
-    "name": "j-zly/keepsake",
-    "stars": 2,
-    "updated_at": "2026-06-27T02:50:13Z",
-    "url": "https://github.com/j-zly/keepsake"
   },
   {
     "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
@@ -144,24 +324,6 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:45:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Agentic memory for CTI in Python \u2014 STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server f",
     "id": "ThreatRecall/zettelforge",
     "language": "Python",
@@ -178,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T02:42:22Z",
     "url": "https://github.com/hermesgitgit/agribot"
-  },
-  {
-    "description": "Local-first, eval-first memory for long-horizon AI agents \u2014 no LLM at ingest. Python SDK + MCP server with source-tracea",
-    "id": "vornicx/Midas",
-    "language": "Python",
-    "name": "vornicx/Midas",
-    "stars": 12,
-    "updated_at": "2026-06-27T02:41:51Z",
-    "url": "https://github.com/vornicx/Midas"
   },
   {
     "description": "InsightVault AI is a collaborative AI-powered knowledge workspace for teams to manage documents, run RAG chat, summarize",
@@ -216,15 +369,6 @@
     "url": "https://github.com/quanzefeng/AideAgent"
   },
   {
-    "description": "Production-ready platform for agentic workflow development.",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 146686,
-    "updated_at": "2026-06-27T02:37:41Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
     "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
     "id": "jee3m/augmentative-knowledge-hooks",
     "language": "HTML",
@@ -250,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T02:36:35Z",
     "url": "https://github.com/flxhrdyn/Sekilas.ai"
-  },
-  {
-    "description": "AI agent in Delphi Object Pascal",
-    "id": "FMXExpress/PasClaw",
-    "language": "Pascal",
-    "name": "FMXExpress/PasClaw",
-    "stars": 32,
-    "updated_at": "2026-06-27T02:39:24Z",
-    "url": "https://github.com/FMXExpress/PasClaw"
   },
   {
     "description": "Delegate anything. It comes back done.",
@@ -293,7 +428,7 @@
     "language": "Swift",
     "name": "roryford/ManifoldKit",
     "stars": 1,
-    "updated_at": "2026-06-27T02:50:26Z",
+    "updated_at": "2026-06-27T03:01:09Z",
     "url": "https://github.com/roryford/ManifoldKit"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-27T02:28:24Z",
     "url": "https://github.com/dignite-projects/vault-extract"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:26:50Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Enhance 007 First Light gameplay with this trainer to unlock items, enable God mode, and improve performance through stu",
-    "id": "Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2",
-    "language": "Python",
-    "name": "Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:26:46Z",
-    "url": "https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2"
-  },
-  {
-    "description": "Modify memory values and optimize performance settings for 007 First Light to unlock characters, enable god mode, and im",
-    "id": "Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2",
-    "language": "Python",
-    "name": "Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:26:43Z",
-    "url": "https://github.com/Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:26:22Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Mount Linux memory dumps as filesystems to investigate processes, files, and kernel state using standard command-line to",
-    "id": "stanleyjoy1980/MemNixFS",
-    "language": "C++",
-    "name": "stanleyjoy1980/MemNixFS",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:26:05Z",
-    "url": "https://github.com/stanleyjoy1980/MemNixFS"
-  },
-  {
-    "description": "Build AI agent systems from theory to production with this guide on foundational concepts and multi-agent application de",
-    "id": "causesubpopulation914/Hello-Agents",
-    "language": "Python",
-    "name": "causesubpopulation914/Hello-Agents",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:25:50Z",
-    "url": "https://github.com/causesubpopulation914/Hello-Agents"
-  },
-  {
-    "description": "Automate IT helpdesk triage and resolve technical issues locally using RAG, SQLite, and Ollama.",
-    "id": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "language": "Python",
-    "name": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:25:27Z",
-    "url": "https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant"
-  },
-  {
-    "description": "Production-grade RAG system over SEC 10-K and 10-Q filings \u2014 hybrid retrieval, reranking, citations, and evaluation",
-    "id": "Rahul-Kushal-Anchi/sec-filings-rag",
-    "language": "Python",
-    "name": "Rahul-Kushal-Anchi/sec-filings-rag",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:25:00Z",
-    "url": "https://github.com/Rahul-Kushal-Anchi/sec-filings-rag"
-  },
-  {
-    "description": "Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi",
-    "id": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "language": "Batchfile",
-    "name": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:24:56Z",
-    "url": "https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit"
-  },
-  {
-    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
-    "id": "tysto1727/ComfyUI-Boogu",
-    "language": "Python",
-    "name": "tysto1727/ComfyUI-Boogu",
-    "stars": 1,
-    "updated_at": "2026-06-27T02:24:54Z",
-    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:24:41Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:24:09Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Pack local repositories into dense semantic maps for Claude Opus 4.8 and Fable 5 to reduce token bloat and improve reaso",
-    "id": "Veronika0306/claude-opus48-context-packer",
-    "language": "\u2014",
-    "name": "Veronika0306/claude-opus48-context-packer",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:23:58Z",
-    "url": "https://github.com/Veronika0306/claude-opus48-context-packer"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:23:57Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Retrieve biomedical data across decentralized hospital nodes using federated learning and differential privacy to enable",
-    "id": "Sean9582/FedRAG",
-    "language": "\u2014",
-    "name": "Sean9582/FedRAG",
-    "stars": 0,
-    "updated_at": "2026-06-27T02:23:18Z",
-    "url": "https://github.com/Sean9582/FedRAG"
   }
 ]
