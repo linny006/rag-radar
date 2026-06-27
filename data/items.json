@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Explore GPT-2 with llm.c, a lightweight C implementation that simplifies AI concepts for beginners, guiding you throu",
+    "id": "LoupFireYT/llm.c",
+    "language": "TeX",
+    "name": "LoupFireYT/llm.c",
+    "stars": 1,
+    "updated_at": "2026-06-27T18:00:01Z",
+    "url": "https://github.com/LoupFireYT/llm.c"
+  },
+  {
+    "description": "RAG workflow demo using Langflow deployed to Azure.",
+    "id": "ryanhillman/langflow-platform",
+    "language": "\u2014",
+    "name": "ryanhillman/langflow-platform",
+    "stars": 0,
+    "updated_at": "2026-06-27T17:59:57Z",
+    "url": "https://github.com/ryanhillman/langflow-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-27T17:59:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Automation / Backend / Platform Engineer profile: DriveDesk AI Operator, RAG/LLM workflows, CRM/ERP integrations, Fas",
     "id": "AlexGerlitz/AlexGerlitz",
     "language": "HTML",
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-27T17:58:09Z",
     "url": "https://github.com/Who-Visions/NouGenShards"
-  },
-  {
-    "description": "RAG workflow demo using Langflow deployed to Azure.",
-    "id": "ryanhillman/langflow-platform",
-    "language": "\u2014",
-    "name": "ryanhillman/langflow-platform",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:58:03Z",
-    "url": "https://github.com/ryanhillman/langflow-platform"
   },
   {
     "description": "Production grade AI contact center starter kit with FastAPI, OpenAI tool calling, RAG, observability, Docker, Terraform,",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T17:47:31Z",
     "url": "https://github.com/knowledgestack/ks-docs"
-  },
-  {
-    "description": "Adaptive memory for AI agents & teams \u2014 beyond RAG. Self-hosted MCP server that gets smarter every time you search: hybr",
-    "id": "kagura-ai/memory-cloud",
-    "language": "Python",
-    "name": "kagura-ai/memory-cloud",
-    "stars": 7,
-    "updated_at": "2026-06-27T17:47:26Z",
-    "url": "https://github.com/kagura-ai/memory-cloud"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-06-27T17:47:21Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
   }
 ]
