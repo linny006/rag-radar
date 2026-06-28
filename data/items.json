@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u9762\u5411 IT \u8fd0\u7ef4\u4e0e\u5b89\u5168\u573a\u666f\u7684\u53ef\u8ffd\u6eaf\u667a\u80fd\u5de5\u5355\u5e73\u53f0\uff0c\u8986\u76d6\u65e5\u5fd7\u4e0e\u622a\u56fe\u89e3\u6790\u3001\u6df7\u5408\u68c0\u7d22\u3001\u8bc1\u636e\u9a71\u52a8\u5206\u6790\u3001\u4eba\u5de5\u590d\u6838\u3001\u6743\u9650\u9694\u79bb\u4e0e Docker \u90e8\u7f72\u3002",
-    "id": "hyh0620/ai-incidentops-copilot",
-    "language": "Python",
-    "name": "hyh0620/ai-incidentops-copilot",
+    "description": "Self-hosted knowledge base for AI agents: ingest Markdown into Qdrant with H1-H...-aware chunking, hybrid (dense+sparse)",
+    "id": "incu6us/markdex",
+    "language": "Go",
+    "name": "incu6us/markdex",
     "stars": 0,
-    "updated_at": "2026-06-28T16:45:00Z",
-    "url": "https://github.com/hyh0620/ai-incidentops-copilot"
+    "updated_at": "2026-06-28T16:47:46Z",
+    "url": "https://github.com/incu6us/markdex"
+  },
+  {
+    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc",
+    "id": "labring/FastGPT",
+    "language": "TypeScript",
+    "name": "labring/FastGPT",
+    "stars": 28684,
+    "updated_at": "2026-06-28T16:47:43Z",
+    "url": "https://github.com/labring/FastGPT"
+  },
+  {
+    "description": "LES public snapshot: local-first engineering RAG, CAD/BIM JSON exporters and ATLAS standalone viewer.",
+    "id": "proovcme/les_rag_public",
+    "language": "JavaScript",
+    "name": "proovcme/les_rag_public",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:47:36Z",
+    "url": "https://github.com/proovcme/les_rag_public"
   },
   {
     "description": "Make multiple codebases available as context for any coding agent without spending too many resources or sacrificing qua",
@@ -14,8 +32,71 @@
     "language": "Go",
     "name": "datnguyenzzz/semantic-grep",
     "stars": 0,
-    "updated_at": "2026-06-28T16:44:09Z",
+    "updated_at": "2026-06-28T16:47:31Z",
     "url": "https://github.com/datnguyenzzz/semantic-grep"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-06-28T16:47:24Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "Editable RAG memory + switchable persona add-on library for closed-source API LLMs (DeepSeek). Pure-stdlib HTTP service,",
+    "id": "ailiheizi/memory-engine",
+    "language": "Python",
+    "name": "ailiheizi/memory-engine",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:46:50Z",
+    "url": "https://github.com/ailiheizi/memory-engine"
+  },
+  {
+    "description": "Local-first, top-tier RAG over your notes, docs & PDFs \u2014 answered by Claude (Agent SDK). Hybrid retrieval + cross-encode",
+    "id": "IxMxAMAR/raggity",
+    "language": "Python",
+    "name": "IxMxAMAR/raggity",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:45:54Z",
+    "url": "https://github.com/IxMxAMAR/raggity"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T16:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "id": "rish-1997/wsl-assistant",
+    "language": "Shell",
+    "name": "rish-1997/wsl-assistant",
+    "stars": 5,
+    "updated_at": "2026-06-28T16:45:20Z",
+    "url": "https://github.com/rish-1997/wsl-assistant"
+  },
+  {
+    "description": "\u9762\u5411 IT \u8fd0\u7ef4\u4e0e\u5b89\u5168\u573a\u666f\u7684\u53ef\u8ffd\u6eaf\u667a\u80fd\u5de5\u5355\u5e73\u53f0\uff0c\u8986\u76d6\u65e5\u5fd7\u4e0e\u622a\u56fe\u89e3\u6790\u3001\u6df7\u5408\u68c0\u7d22\u3001\u8bc1\u636e\u9a71\u52a8\u5206\u6790\u3001\u4eba\u5de5\u590d\u6838\u3001\u6743\u9650\u9694\u79bb\u4e0e Docker \u90e8\u7f72\u3002",
+    "id": "hyh0620/ai-incidentops-copilot",
+    "language": "Python",
+    "name": "hyh0620/ai-incidentops-copilot",
+    "stars": 0,
+    "updated_at": "2026-06-28T16:45:00Z",
+    "url": "https://github.com/hyh0620/ai-incidentops-copilot"
   },
   {
     "description": "Cut your Claude / OpenAI / Gemini bill 70\u201395% on AI coding. Local proxy that compresses context, keeps provider caches h",
@@ -315,29 +396,11 @@
     "url": "https://github.com/adbar/trafilatura"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
     "id": "safishamsi/graphify",
     "language": "Python",
     "name": "safishamsi/graphify",
-    "stars": 73210,
+    "stars": 73211,
     "updated_at": "2026-06-28T16:29:58Z",
     "url": "https://github.com/safishamsi/graphify"
   },
@@ -369,15 +432,6 @@
     "url": "https://github.com/Bshdhorrhh/Team_Trenches"
   },
   {
-    "description": "Self-hosted knowledge base for AI agents: ingest Markdown into Qdrant with H1-H...-aware chunking, hybrid (dense+sparse)",
-    "id": "incu6us/markdex",
-    "language": "Go",
-    "name": "incu6us/markdex",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:28:50Z",
-    "url": "https://github.com/incu6us/markdex"
-  },
-  {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
     "id": "atishay-kasliwal/atriveo-app",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-28T16:27:54Z",
     "url": "https://github.com/remem-io/remem"
-  },
-  {
-    "description": "Saarthi AI is an enterprise-grade, AI-native multi-agent platform designed to act as an autonomous digital caseworker fo",
-    "id": "arnavvmehtaa718/Saarthi-AI",
-    "language": "Python",
-    "name": "arnavvmehtaa718/Saarthi-AI",
-    "stars": 0,
-    "updated_at": "2026-06-28T16:26:44Z",
-    "url": "https://github.com/arnavvmehtaa718/Saarthi-AI"
-  },
-  {
-    "description": "Documents, vectors, cache, queue, and cron in one SQLite file. The local backend for AI agents.",
-    "id": "qataruts/monlite",
-    "language": "TypeScript",
-    "name": "qataruts/monlite",
-    "stars": 17,
-    "updated_at": "2026-06-28T16:26:28Z",
-    "url": "https://github.com/qataruts/monlite"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 172,
-    "updated_at": "2026-06-28T16:26:08Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Musubi (\u7d50\u3073) \u2014 Ai Agent shared memory and thought layer. The braiding of threads between presences.",
-    "id": "ericmey/musubi",
-    "language": "Python",
-    "name": "ericmey/musubi",
-    "stars": 5,
-    "updated_at": "2026-06-28T16:24:48Z",
-    "url": "https://github.com/ericmey/musubi"
-  },
-  {
-    "description": "Token-efficient MCP doc-router \u2014 one canonical doc per query for your coding agents.",
-    "id": "TsukumoHQ/trovex",
-    "language": "HTML",
-    "name": "TsukumoHQ/trovex",
-    "stars": 1,
-    "updated_at": "2026-06-28T16:24:46Z",
-    "url": "https://github.com/TsukumoHQ/trovex"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-06-28T16:24:41Z",
-    "url": "https://github.com/derob98/ailmanac"
   }
 ]
