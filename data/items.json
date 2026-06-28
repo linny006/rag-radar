@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
+    "id": "lpr021/redteam-ai-benchmark",
+    "language": "Python",
+    "name": "lpr021/redteam-ai-benchmark",
+    "stars": 2,
+    "updated_at": "2026-06-28T19:45:01Z",
+    "url": "https://github.com/lpr021/redteam-ai-benchmark"
+  },
+  {
+    "description": "Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (sem\u00e1ntica/epis\u00f3dica/procedural sobre",
+    "id": "BriarDevv/Ynara",
+    "language": "Python",
+    "name": "BriarDevv/Ynara",
+    "stars": 0,
+    "updated_at": "2026-06-28T19:44:53Z",
+    "url": "https://github.com/BriarDevv/Ynara"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18647,
+    "updated_at": "2026-06-28T19:45:00Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Multi-model AI gateway with fusion orchestration \u2014 routes across local and cloud LLMs through a single OpenAI-compatible",
+    "id": "pookNast/HiveMindFusion",
+    "language": "Go",
+    "name": "pookNast/HiveMindFusion",
+    "stars": 0,
+    "updated_at": "2026-06-28T19:44:45Z",
+    "url": "https://github.com/pookNast/HiveMindFusion"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T19:44:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A Langchain app that allows you to chat with multiple PDFs",
+    "id": "The-Syntax-Slayer/ask-multiple-pdfs",
+    "language": "Python",
+    "name": "The-Syntax-Slayer/ask-multiple-pdfs",
+    "stars": 0,
+    "updated_at": "2026-06-28T19:44:21Z",
+    "url": "https://github.com/The-Syntax-Slayer/ask-multiple-pdfs"
+  },
+  {
     "description": "Retrieval-augmented-generation kit that cites the exact source document and chunk for every answer. Zero dependencies, r",
     "id": "derekgallardo01/rag-over-docs-kit",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T19:35:55Z",
     "url": "https://github.com/derekgallardo01/copilot-studio-support-agent"
-  },
-  {
-    "description": "AI-powered RAG Research Assistant using FastAPI, FAISS, Sentence Transformers, Gemini, and Streamlit.",
-    "id": "Smriti2929/research-assistant",
-    "language": "Python",
-    "name": "Smriti2929/research-assistant",
-    "stars": 1,
-    "updated_at": "2026-06-28T19:35:53Z",
-    "url": "https://github.com/Smriti2929/research-assistant"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-28T19:35:23Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Guardrail first policy assistant with frustration aware escalation. Multi-turn agent with LLM based routing and escalati",
-    "id": "Aniket762/ragent",
-    "language": "Python",
-    "name": "Aniket762/ragent",
-    "stars": 0,
-    "updated_at": "2026-06-28T19:34:53Z",
-    "url": "https://github.com/Aniket762/ragent"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Enhance RAG systems with ACG to reduce hallucinations in LLM responses by improving accuracy and grounding in reliabl",
-    "id": "klkbtw/acg_protocol",
-    "language": "Python",
-    "name": "klkbtw/acg_protocol",
-    "stars": 1,
-    "updated_at": "2026-06-28T19:34:46Z",
-    "url": "https://github.com/klkbtw/acg_protocol"
-  },
-  {
-    "description": "",
-    "id": "TheEspresso/prompt-engineering",
-    "language": "\u2014",
-    "name": "TheEspresso/prompt-engineering",
-    "stars": 2,
-    "updated_at": "2026-06-28T19:34:41Z",
-    "url": "https://github.com/TheEspresso/prompt-engineering"
-  },
-  {
-    "description": "\ud83d\udd0d Automate digital footprint analysis with DeepSearch, using advanced Google search operators to gather insights from mu",
-    "id": "Eristsin/DeepSearch-",
-    "language": "\u2014",
-    "name": "Eristsin/DeepSearch-",
-    "stars": 4,
-    "updated_at": "2026-06-28T19:34:36Z",
-    "url": "https://github.com/Eristsin/DeepSearch-"
   }
 ]
