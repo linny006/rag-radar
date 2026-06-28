@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-powered Discord bot for Elio/Pixar: daily drops, persona chat, DM games, image reactions, and RAG-based lore-aware re",
+    "id": "Justin21523/elio-discord-bot",
+    "language": "TypeScript",
+    "name": "Justin21523/elio-discord-bot",
+    "stars": 1,
+    "updated_at": "2026-06-28T22:00:01Z",
+    "url": "https://github.com/Justin21523/elio-discord-bot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-28T21:59:46Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ruby's capable AI runtime",
     "id": "r-uby-dev/llm",
     "language": "Ruby",
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18647,
-    "updated_at": "2026-06-28T21:57:10Z",
+    "updated_at": "2026-06-28T21:59:59Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -382,7 +400,7 @@
     "id": "safishamsi/graphify",
     "language": "Python",
     "name": "safishamsi/graphify",
-    "stars": 73525,
+    "stars": 73528,
     "updated_at": "2026-06-28T21:45:50Z",
     "url": "https://github.com/safishamsi/graphify"
   },
@@ -394,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T21:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-28T21:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Full-stack AI governance agent platform for vendor risk, evidence-grounded controls, guardrails, and auditable approval ",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-28T21:44:24Z",
     "url": "https://github.com/TsukumoHQ/trovex"
-  },
-  {
-    "description": "Open-source web scraper + LLM-powered structured extraction. PDF/DOCX, markdown, JSON-LD, microdata, commerce data, form",
-    "id": "manchittlab/TheCrawler",
-    "language": "TypeScript",
-    "name": "manchittlab/TheCrawler",
-    "stars": 0,
-    "updated_at": "2026-06-28T21:43:28Z",
-    "url": "https://github.com/manchittlab/TheCrawler"
   }
 ]
