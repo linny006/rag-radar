@@ -1,12 +1,57 @@
 [
   {
+    "description": "The context engineering platform for AI applications \u2014 compile prompts, memory, retrieval, tools, schemas & policies int",
+    "id": "Ohswedd/vincio",
+    "language": "Python",
+    "name": "Ohswedd/vincio",
+    "stars": 2,
+    "updated_at": "2026-06-29T14:14:59Z",
+    "url": "https://github.com/Ohswedd/vincio"
+  },
+  {
+    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
+    "id": "elsium-ai/elsium-ai",
+    "language": "TypeScript",
+    "name": "elsium-ai/elsium-ai",
+    "stars": 13,
+    "updated_at": "2026-06-29T14:14:37Z",
+    "url": "https://github.com/elsium-ai/elsium-ai"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-06-29T14:13:43Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Open-source framework for building and testing LLM-powered applications: IRIS (single-agent orchestration), AETHER (decl",
+    "id": "msu-denver/bili-core",
+    "language": "Python",
+    "name": "msu-denver/bili-core",
+    "stars": 14,
+    "updated_at": "2026-06-29T14:13:21Z",
+    "url": "https://github.com/msu-denver/bili-core"
+  },
+  {
     "description": "A team of specialized AI agents covering the complete software development flow \u2014 from requirements discovery to deploy.",
     "id": "leorsousa05/CrewLoop",
     "language": "TypeScript",
     "name": "leorsousa05/CrewLoop",
     "stars": 1,
-    "updated_at": "2026-06-29T14:13:10Z",
+    "updated_at": "2026-06-29T14:13:20Z",
     "url": "https://github.com/leorsousa05/CrewLoop"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-29T14:13:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keepi",
@@ -36,12 +81,21 @@
     "url": "https://github.com/sabharishhh/Eviot"
   },
   {
+    "description": "Cognitive memory engine for AI agents. Biologically-inspired 4-tier cortex, Panama SIMD, MCP native. Java 25.",
+    "id": "spectrayan/spector",
+    "language": "Java",
+    "name": "spectrayan/spector",
+    "stars": 8,
+    "updated_at": "2026-06-29T14:11:39Z",
+    "url": "https://github.com/spectrayan/spector"
+  },
+  {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
     "id": "deepset-ai/haystack",
     "language": "MDX",
     "name": "deepset-ai/haystack",
     "stars": 25778,
-    "updated_at": "2026-06-29T14:11:38Z",
+    "updated_at": "2026-06-29T14:13:23Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 134,
     "updated_at": "2026-06-29T14:10:47Z",
     "url": "https://github.com/r-uby-dev/llm"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents. Biologically-inspired 4-tier cortex, Panama SIMD, MCP native. Java 25.",
-    "id": "spectrayan/spector",
-    "language": "Java",
-    "name": "spectrayan/spector",
-    "stars": 8,
-    "updated_at": "2026-06-29T14:11:39Z",
-    "url": "https://github.com/spectrayan/spector"
   },
   {
     "description": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, ob",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 72,
-    "updated_at": "2026-06-29T14:11:04Z",
+    "updated_at": "2026-06-29T14:14:03Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -400,53 +445,8 @@
     "id": "safishamsi/graphify",
     "language": "Python",
     "name": "safishamsi/graphify",
-    "stars": 74123,
+    "stars": 74124,
     "updated_at": "2026-06-29T14:01:03Z",
     "url": "https://github.com/safishamsi/graphify"
-  },
-  {
-    "description": "A RAG app to breakdown complex technical documents ",
-    "id": "Kaynaaf/NanoRAG",
-    "language": "Python",
-    "name": "Kaynaaf/NanoRAG",
-    "stars": 1,
-    "updated_at": "2026-06-29T14:00:52Z",
-    "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "Self-hosted, model-agnostic AI agent orchestration platform. Build, run, and observe AI agents backed by any LLM (Anthro",
-    "id": "deepaksinghcs14/agent-nexus",
-    "language": "TypeScript",
-    "name": "deepaksinghcs14/agent-nexus",
-    "stars": 1,
-    "updated_at": "2026-06-29T14:00:44Z",
-    "url": "https://github.com/deepaksinghcs14/agent-nexus"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-29T14:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-29T14:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc",
-    "id": "labring/FastGPT",
-    "language": "TypeScript",
-    "name": "labring/FastGPT",
-    "stars": 28702,
-    "updated_at": "2026-06-29T13:59:54Z",
-    "url": "https://github.com/labring/FastGPT"
   }
 ]
