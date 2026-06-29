@@ -1,5 +1,68 @@
 [
   {
+    "description": "Helps dedupe your paperless-ngx instance",
+    "id": "rknightion/paperless-ngx-dedupe",
+    "language": "TypeScript",
+    "name": "rknightion/paperless-ngx-dedupe",
+    "stars": 12,
+    "updated_at": "2026-06-29T19:15:37Z",
+    "url": "https://github.com/rknightion/paperless-ngx-dedupe"
+  },
+  {
+    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
+    "id": "apod-1/ZoltarFinancial",
+    "language": "Python",
+    "name": "apod-1/ZoltarFinancial",
+    "stars": 3,
+    "updated_at": "2026-06-29T19:15:33Z",
+    "url": "https://github.com/apod-1/ZoltarFinancial"
+  },
+  {
+    "description": "Pacific Slate \u2014 a self-hosted, production-grade multi-agent AI platform. Architecture & key design decisions.",
+    "id": "pacific-slate/pacslate",
+    "language": "\u2014",
+    "name": "pacific-slate/pacslate",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:15:31Z",
+    "url": "https://github.com/pacific-slate/pacslate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI document assistant - upload documents/pdfs, ask questions, get answers sourced directly from their provided content",
+    "id": "Devg03/docquery",
+    "language": "TypeScript",
+    "name": "Devg03/docquery",
+    "stars": 0,
+    "updated_at": "2026-06-29T19:15:22Z",
+    "url": "https://github.com/Devg03/docquery"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-29T19:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
+    "id": "DanceNitra/agora",
+    "language": "Python",
+    "name": "DanceNitra/agora",
+    "stars": 2,
+    "updated_at": "2026-06-29T19:15:17Z",
+    "url": "https://github.com/DanceNitra/agora"
+  },
+  {
     "description": "Local literature MCP toolbox for Claude, Codex, and source-checkout research workflows",
     "id": "xiaolongyao-lut/Scholar-AI",
     "language": "Python",
@@ -99,15 +162,6 @@
     "url": "https://github.com/enzodevs/code-context-v2"
   },
   {
-    "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
-    "id": "DanceNitra/agora",
-    "language": "Python",
-    "name": "DanceNitra/agora",
-    "stars": 2,
-    "updated_at": "2026-06-29T19:11:18Z",
-    "url": "https://github.com/DanceNitra/agora"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "Python",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "d4shm1r/amagra",
     "stars": 0,
-    "updated_at": "2026-06-29T19:08:48Z",
+    "updated_at": "2026-06-29T19:15:19Z",
     "url": "https://github.com/d4shm1r/amagra"
   },
   {
@@ -369,24 +423,6 @@
     "url": "https://github.com/MatrixFounder/llm-wiki"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-06-29T19:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-06-29T19:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of A",
     "id": "SolaceLabs/solace-agent-mesh",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 23,
     "updated_at": "2026-06-29T18:59:11Z",
     "url": "https://github.com/timothywarner-org/context-engineering"
-  },
-  {
-    "description": "Curated RAG knowledge base infrastructure for Odin game development - built with MiniMax-M3 via Kilo Code",
-    "id": "LaurentOngaro/OdinRAG",
-    "language": "Python",
-    "name": "LaurentOngaro/OdinRAG",
-    "stars": 1,
-    "updated_at": "2026-06-29T18:59:05Z",
-    "url": "https://github.com/LaurentOngaro/OdinRAG"
-  },
-  {
-    "description": "Multi-agent enterprise market intelligence platform using LangGraph, OpenAI, Tavily, Qdrant, FastEmbed, and DeepEval.",
-    "id": "sammysamad402/enterprise-market-intelligence-engine",
-    "language": "Python",
-    "name": "sammysamad402/enterprise-market-intelligence-engine",
-    "stars": 2,
-    "updated_at": "2026-06-29T18:59:04Z",
-    "url": "https://github.com/sammysamad402/enterprise-market-intelligence-engine"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "Python",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-06-29T19:03:15Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "Helps dedupe your paperless-ngx instance",
-    "id": "rknightion/paperless-ngx-dedupe",
-    "language": "TypeScript",
-    "name": "rknightion/paperless-ngx-dedupe",
-    "stars": 12,
-    "updated_at": "2026-06-29T18:58:42Z",
-    "url": "https://github.com/rknightion/paperless-ngx-dedupe"
   }
 ]
