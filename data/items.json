@@ -1,5 +1,95 @@
 [
   {
+    "description": "UmaDev : A coding agent that works like a real dev team. ",
+    "id": "umacloud/umadev",
+    "language": "Rust",
+    "name": "umacloud/umadev",
+    "stars": 200,
+    "updated_at": "2026-06-30T12:17:43Z",
+    "url": "https://github.com/umacloud/umadev"
+  },
+  {
+    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
+    "id": "three-cubes/kairix",
+    "language": "Python",
+    "name": "three-cubes/kairix",
+    "stars": 2,
+    "updated_at": "2026-06-30T12:17:55Z",
+    "url": "https://github.com/three-cubes/kairix"
+  },
+  {
+    "description": "About Modular AI assistant \u2014 60 built-in tools, multi-provider LLM support (Ollama, OpenAI, Anthropic, Gemini), hybrid m",
+    "id": "NorthlandPositronics/Cogtrix",
+    "language": "Python",
+    "name": "NorthlandPositronics/Cogtrix",
+    "stars": 21,
+    "updated_at": "2026-06-30T12:17:18Z",
+    "url": "https://github.com/NorthlandPositronics/Cogtrix"
+  },
+  {
+    "description": "\"\u9762\u5411\u91d1\u878d\u7814\u62a5\u95ee\u7b54\u4e0e\u77e5\u8bc6\u5bc6\u96c6\u578b\u573a\u666f\u7684\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u6846\u67b6",
+    "id": "lihaibohhh/ReAct-RAG-Agent",
+    "language": "Python",
+    "name": "lihaibohhh/ReAct-RAG-Agent",
+    "stars": 3,
+    "updated_at": "2026-06-30T12:17:17Z",
+    "url": "https://github.com/lihaibohhh/ReAct-RAG-Agent"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18653,
+    "updated_at": "2026-06-30T12:17:09Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI-powered Git copilot for your terminal. Talk to Git in plain English, automate commits, review code, and manage repos ",
+    "id": "jachinsamuel/Ace",
+    "language": "Python",
+    "name": "jachinsamuel/Ace",
+    "stars": 2,
+    "updated_at": "2026-06-30T12:16:27Z",
+    "url": "https://github.com/jachinsamuel/Ace"
+  },
+  {
+    "description": "Dive is a secure, local-first desktop client for Ollama and Pi agentic AI. Features an ultra-compact offline RAG engine ",
+    "id": "DuckTapeKiller/dive",
+    "language": "JavaScript",
+    "name": "DuckTapeKiller/dive",
+    "stars": 26,
+    "updated_at": "2026-06-30T12:17:06Z",
+    "url": "https://github.com/DuckTapeKiller/dive"
+  },
+  {
+    "description": "\u8f7b\u91cf\u767d\u76d2\u591a\u667a\u80fd\u4f53\u5e73\u53f0 \u2014\u2014 \u53ef\u89c6\u5316\u7f16\u6392\u5de5\u4f5c\u6d41\uff0c\u591a Agent \u534f\u4f5c\uff0c\u9ad8\u7cbe\u5ea6\u77e5\u8bc6\u53ec\u56de\uff0c\u4f01\u4e1a\u7ea7\u6743\u9650\u7ba1\u7406\uff0c\u7edf\u4e00\u5bf9\u8bdd\u7ba1\u7406\u3002\u652f\u6301\u4f4e\u6210\u672c\u5d4c\u5165\u7b2c\u4e09\u65b9\u7cfb\u7edf\uff0c200MB \u4f4e\u8d44\u6e90\u5373\u53ef\u8fd0\u884c\u3002",
+    "id": "runify-dev/runify",
+    "language": "Java",
+    "name": "runify-dev/runify",
+    "stars": 159,
+    "updated_at": "2026-06-30T12:15:40Z",
+    "url": "https://github.com/runify-dev/runify"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-06-30T12:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T12:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Driven knowledge base for information that keeps growing. Users can paste notes, stories, research, logs, plans, deci",
     "id": "kuchuk-borom-debbarma/UnmessIt.AI",
     "language": "Python",
@@ -18,15 +108,6 @@
     "url": "https://github.com/zbs-gg/pulse"
   },
   {
-    "description": "About Modular AI assistant \u2014 60 built-in tools, multi-provider LLM support (Ollama, OpenAI, Anthropic, Gemini), hybrid m",
-    "id": "NorthlandPositronics/Cogtrix",
-    "language": "Python",
-    "name": "NorthlandPositronics/Cogtrix",
-    "stars": 21,
-    "updated_at": "2026-06-30T12:15:12Z",
-    "url": "https://github.com/NorthlandPositronics/Cogtrix"
-  },
-  {
     "description": "Agent-compiled knowledge base: compile/cache/retrieve as one answer ladder, with computable staleness and machine-verifi",
     "id": "coredipper/scriptorium",
     "language": "Python",
@@ -36,13 +117,13 @@
     "url": "https://github.com/coredipper/scriptorium"
   },
   {
-    "description": "Dive is a secure, local-first desktop client for Ollama and Pi agentic AI. Features an ultra-compact offline RAG engine ",
-    "id": "DuckTapeKiller/dive",
-    "language": "JavaScript",
-    "name": "DuckTapeKiller/dive",
-    "stars": 26,
-    "updated_at": "2026-06-30T12:14:30Z",
-    "url": "https://github.com/DuckTapeKiller/dive"
+    "description": "\ud83e\udde0 Stop building AI that forgets. Master MCP (Model Context Protocol) with production-ready semantic memory, hybrid RAG, ",
+    "id": "timothywarner-org/context-engineering",
+    "language": "Python",
+    "name": "timothywarner-org/context-engineering",
+    "stars": 23,
+    "updated_at": "2026-06-30T12:14:34Z",
+    "url": "https://github.com/timothywarner-org/context-engineering"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:14:09Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18653,
-    "updated_at": "2026-06-30T12:13:44Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
@@ -248,7 +320,7 @@
     "language": "TypeScript",
     "name": "tetherto/qvac",
     "stars": 281,
-    "updated_at": "2026-06-30T12:07:21Z",
+    "updated_at": "2026-06-30T12:16:34Z",
     "url": "https://github.com/tetherto/qvac"
   },
   {
@@ -259,6 +331,15 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:06:59Z",
     "url": "https://github.com/dimitrisl99/mcp-langgraph-basketball-agent"
+  },
+  {
+    "description": "MCP server for source-grounded web research \u2014 search, fetch, extract, and verify that a claim is actually supported by i",
+    "id": "KazKozDev/footnote-mcp",
+    "language": "Python",
+    "name": "KazKozDev/footnote-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-30T12:06:52Z",
+    "url": "https://github.com/KazKozDev/footnote-mcp"
   },
   {
     "description": "Modify memory values and optimize performance settings for 007 First Light to unlock characters, enable god mode, and im",
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:06:39Z",
     "url": "https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2"
-  },
-  {
-    "description": "MCP server for source-grounded web research \u2014 search, fetch, extract, and verify that a claim is actually supported by i",
-    "id": "KazKozDev/footnote-mcp",
-    "language": "Python",
-    "name": "KazKozDev/footnote-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:06:52Z",
-    "url": "https://github.com/KazKozDev/footnote-mcp"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T12:04:57Z",
     "url": "https://github.com/karimtawfikk/ECHO"
-  },
-  {
-    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
-    "id": "tysto1727/ComfyUI-Boogu",
-    "language": "Python",
-    "name": "tysto1727/ComfyUI-Boogu",
-    "stars": 1,
-    "updated_at": "2026-06-30T12:04:33Z",
-    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
-  },
-  {
-    "description": "Enterprise AI Business Operations Copilot with Multi-Agent AI, RAG, LangGraph, FastAPI, React, PostgreSQL, and pgvector.",
-    "id": "vineela959/ai-business-operations-copilot",
-    "language": "Python",
-    "name": "vineela959/ai-business-operations-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:04:32Z",
-    "url": "https://github.com/vineela959/ai-business-operations-copilot"
-  },
-  {
-    "description": "Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi",
-    "id": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "language": "Batchfile",
-    "name": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:04:26Z",
-    "url": "https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:04:19Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Open a tab, install nothing. A private, local-first AI knowledge base \u2014 on-device LLM chat (WebGPU), semantic search, an",
-    "id": "beevr-labs/Nebula",
-    "language": "TypeScript",
-    "name": "beevr-labs/Nebula",
-    "stars": 2,
-    "updated_at": "2026-06-30T12:04:14Z",
-    "url": "https://github.com/beevr-labs/Nebula"
-  },
-  {
-    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
-    "id": "jaylfc/taosmd",
-    "language": "Python",
-    "name": "jaylfc/taosmd",
-    "stars": 63,
-    "updated_at": "2026-06-30T12:03:50Z",
-    "url": "https://github.com/jaylfc/taosmd"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:03:42Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
-    "id": "AleksNeStu/ai-news-scraper",
-    "language": "Python",
-    "name": "AleksNeStu/ai-news-scraper",
-    "stars": 2,
-    "updated_at": "2026-06-30T12:11:16Z",
-    "url": "https://github.com/AleksNeStu/ai-news-scraper"
   }
 ]
