@@ -1,5 +1,41 @@
 [
   {
+    "description": "Deliver precise document retrieval using Monte Carlo Tree Search for PDF and folder-based question answering without vec",
+    "id": "Tech-Wizard007/alphasearch",
+    "language": "HTML",
+    "name": "Tech-Wizard007/alphasearch",
+    "stars": 0,
+    "updated_at": "2026-06-30T17:15:06Z",
+    "url": "https://github.com/Tech-Wizard007/alphasearch"
+  },
+  {
+    "description": "\u9762\u5411 AI \u4ea7\u54c1\u5de5\u7a0b\u5e08\u7684\u7efc\u5408\u5de5\u4f5c\u53f0\uff1a\u9879\u76ee\u5e93\u3001\u5ba2\u6237\u63a5\u5355\u3001\u5de5\u4f5c\u6d41\u6a21\u677f\u548c AI \u8bc4\u6d4b\u6570\u636e\u3002",
+    "id": "christopher47634/ai-builder-os",
+    "language": "TypeScript",
+    "name": "christopher47634/ai-builder-os",
+    "stars": 0,
+    "updated_at": "2026-06-30T17:15:03Z",
+    "url": "https://github.com/christopher47634/ai-builder-os"
+  },
+  {
+    "description": "Detect security risks in documents and questionnaires using automated analysis to ensure data safety and compliance.",
+    "id": "ducwuyy/DocSentinel",
+    "language": "HTML",
+    "name": "ducwuyy/DocSentinel",
+    "stars": 0,
+    "updated_at": "2026-06-30T17:15:00Z",
+    "url": "https://github.com/ducwuyy/DocSentinel"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-06-30T17:14:53Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Sync real-time data between PostgreSQL and frontends using a reactive graph engine with built-in WebSocket support for G",
     "id": "syed-sadiq-hussaini/Arcana",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-30T17:08:22Z",
     "url": "https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence"
-  },
-  {
-    "description": "Enable AI agents to autonomously create, evaluate, and evolve skills across any marketplace without user intervention.",
-    "id": "kledidoda/skill-evolution",
-    "language": "\u2014",
-    "name": "kledidoda/skill-evolution",
-    "stars": 2,
-    "updated_at": "2026-06-30T17:08:08Z",
-    "url": "https://github.com/kledidoda/skill-evolution"
-  },
-  {
-    "description": "Build semantic vector databases from code and docs to enable AI agents to understand and navigate your entire codebase e",
-    "id": "Eyram233/CodeRAG",
-    "language": "TypeScript",
-    "name": "Eyram233/CodeRAG",
-    "stars": 2,
-    "updated_at": "2026-06-30T17:08:08Z",
-    "url": "https://github.com/Eyram233/CodeRAG"
-  },
-  {
-    "description": "Manage proposal workflows with compliance, governance, and traceability for donor programs, producing review-ready and e",
-    "id": "igordirtydog/grantflow",
-    "language": "Python",
-    "name": "igordirtydog/grantflow",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:07:59Z",
-    "url": "https://github.com/igordirtydog/grantflow"
-  },
-  {
-    "description": "Grounded document Q&A \u2014 every answer sentence is cited, gaps are declared, near-fact substitutions are struck, and deriv",
-    "id": "cfrey-de/gwa-brain",
-    "language": "Python",
-    "name": "cfrey-de/gwa-brain",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:07:59Z",
-    "url": "https://github.com/cfrey-de/gwa-brain"
   }
 ]
