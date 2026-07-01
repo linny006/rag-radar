@@ -1,5 +1,77 @@
 [
   {
+    "description": "Brain-inspired knowledge graph: spreading activation, Hebbian learning, memory consolidation.",
+    "id": "PlateerLab/synaptic-memory",
+    "language": "Python",
+    "name": "PlateerLab/synaptic-memory",
+    "stars": 32,
+    "updated_at": "2026-07-01T21:59:55Z",
+    "url": "https://github.com/PlateerLab/synaptic-memory"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30653,
+    "updated_at": "2026-07-01T22:00:10Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "End-to-end Retrieval-Augmented Generation (RAG) workflow/agents for cezzis.com cocktails. Built with Python, Qdrant, Oll",
+    "id": "mtnvencenzo/cezzis-com-ingestion-agentic-wf",
+    "language": "Python",
+    "name": "mtnvencenzo/cezzis-com-ingestion-agentic-wf",
+    "stars": 0,
+    "updated_at": "2026-07-01T21:59:49Z",
+    "url": "https://github.com/mtnvencenzo/cezzis-com-ingestion-agentic-wf"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18669,
+    "updated_at": "2026-07-01T22:00:11Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance learning with DeepTutor, an AI-powered assistant that personalizes education to fit your needs. Discover tailo",
+    "id": "miljuds2/DeepTutor",
+    "language": "\u2014",
+    "name": "miljuds2/DeepTutor",
+    "stars": 1,
+    "updated_at": "2026-07-01T21:59:33Z",
+    "url": "https://github.com/miljuds2/DeepTutor"
+  },
+  {
+    "description": "\ud83d\uddbc\ufe0f Discover high-quality AI prompts for image, text, and video generation, curated by Guizang to enhance your creative p",
+    "id": "aribsh/guizang-s-prompt",
+    "language": "\u2014",
+    "name": "aribsh/guizang-s-prompt",
+    "stars": 2,
+    "updated_at": "2026-07-01T21:59:26Z",
+    "url": "https://github.com/aribsh/guizang-s-prompt"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-01T21:59:01Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T21:58:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
@@ -45,24 +117,6 @@
     "url": "https://github.com/redocto/image-text-structurizer"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18669,
-    "updated_at": "2026-07-01T21:57:18Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "End-to-end Retrieval-Augmented Generation (RAG) workflow/agents for cezzis.com cocktails. Built with Python, Qdrant, Oll",
-    "id": "mtnvencenzo/cezzis-com-ingestion-agentic-wf",
-    "language": "Python",
-    "name": "mtnvencenzo/cezzis-com-ingestion-agentic-wf",
-    "stars": 0,
-    "updated_at": "2026-07-01T21:55:54Z",
-    "url": "https://github.com/mtnvencenzo/cezzis-com-ingestion-agentic-wf"
-  },
-  {
     "description": "Retrieve the right tools for LLM agents from large MCP/tool sets \u2014 BM25 + pluggable embeddings, cuts schema-token exposu",
     "id": "netsky-prod/mcp-tool-retriever",
     "language": "TypeScript",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T21:55:38Z",
     "url": "https://github.com/netsky-prod/mcp-tool-retriever"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30653,
-    "updated_at": "2026-07-01T21:57:28Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
     "description": "Suite A2A con 18 agentes (se pueden crear +) enfocados en  ciberseguridad ofensiva Red-Team sobre Claude Code: Orquestac",
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T21:54:31Z",
     "url": "https://github.com/Ruelbernal03/Yigtwxx"
-  },
-  {
-    "description": "Brain-inspired knowledge graph: spreading activation, Hebbian learning, memory consolidation.",
-    "id": "PlateerLab/synaptic-memory",
-    "language": "Python",
-    "name": "PlateerLab/synaptic-memory",
-    "stars": 32,
-    "updated_at": "2026-07-01T21:54:29Z",
-    "url": "https://github.com/PlateerLab/synaptic-memory"
   },
   {
     "description": "",
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "Shurtug4l/sec-recon-agent",
     "stars": 0,
-    "updated_at": "2026-07-01T21:56:11Z",
+    "updated_at": "2026-07-01T21:59:13Z",
     "url": "https://github.com/Shurtug4l/sec-recon-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T21:48:28Z",
     "url": "https://github.com/Danush-Aries/injectsweep"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T21:48:17Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 2,
-    "updated_at": "2026-07-01T21:47:33Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Multimodal RAG with per-query routing to text / visual / hybrid retrieval paths. Vision-LLM answers and regression-gated",
-    "id": "NorthernLightx/SpectraRAG",
-    "language": "Python",
-    "name": "NorthernLightx/SpectraRAG",
-    "stars": 1,
-    "updated_at": "2026-07-01T21:47:23Z",
-    "url": "https://github.com/NorthernLightx/SpectraRAG"
-  },
-  {
-    "description": "\ud83e\udde0 Analyze market trends with AI to forecast investments and enhance decision-making using real-time data and advanced an",
-    "id": "vieta123456/ai-market",
-    "language": "Python",
-    "name": "vieta123456/ai-market",
-    "stars": 0,
-    "updated_at": "2026-07-01T21:46:16Z",
-    "url": "https://github.com/vieta123456/ai-market"
   }
 ]
