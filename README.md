@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-01 02:45 UTC
+> ⏰ Last updated: 2026-07-01 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Pdiamondz1/hma_project_foundation](https://github.com/Pdiamondz1/hma_project_foundation) | 1 | TypeScript | 2026-07-01 | A copy-to-start kit for any project, with a built-in 'second brain' you talk to in plain English — no coding needed. It  |
-| 2 | [Stunspot/stunspots-guide-to-gastronomic-engineering](https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering) | 2 | — | 2026-07-01 | A model-facing field substrate for deterministic food physics, culinary formulation, and dietary constraint engineering. |
-| 3 | [anyforge/anyparse](https://github.com/anyforge/anyparse) | 0 | Python | 2026-07-01 | Parse any file to Markdown and JSON, anyparse, document-parsing, document-understanding, ocr, vlm, multimodal, image, pd |
-| 4 | [devtechedge/aegis_vercel](https://github.com/devtechedge/aegis_vercel) | 0 | Python | 2026-07-01 | AEGIS — Autonomous Enterprise Graph Intelligence System. Multi-agent operations cortex built 100% on LangChain / LangGra |
-| 5 | [Stunspot/stunspots-guide-to-game-theory](https://github.com/Stunspot/stunspots-guide-to-game-theory) | 3 | — | 2026-07-01 | A model-facing knowledge canon for incentives, interdependence, equilibrium, institutional design, strategic failure, an |
-| 6 | [codedaptive/mootx01-ce](https://github.com/codedaptive/mootx01-ce) | 1 | Swift | 2026-07-01 | MOOTx01 Community Edition |
-| 7 | [Stunspot/stunspots-guide-to-business-venture-formulation](https://github.com/Stunspot/stunspots-guide-to-business-venture-formulation) | 2 | — | 2026-07-01 | A model-facing field manual for turning venture ideas into inspectable enterprise systems. |
-| 8 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 18658 | TypeScript | 2026-07-01 | Open source agentic operating system |
-| 9 | [csantisdev/ai-orchestrator](https://github.com/csantisdev/ai-orchestrator) | 1 | Python | 2026-07-01 | Multi-provider AI router with cost tracking, RAG memory and live dashboard. Routes tasks across Claude, OpenAI, DeepSeek |
-| 10 | [langgenius/dify](https://github.com/langgenius/dify) | 147160 | TypeScript | 2026-07-01 | Production-ready platform for agentic workflow development. |
-| 11 | [Stunspot/stunspots-guide-to-automotive-systems](https://github.com/Stunspot/stunspots-guide-to-automotive-systems) | 2 | — | 2026-07-01 | A model-facing field manual for vehicle reality, machine physics, lifecycle economics, failure diagnosis, and practition |
-| 12 | [mmdebrahimi/ufo-ai](https://github.com/mmdebrahimi/ufo-ai) | 0 | HTML | 2026-07-01 | Honesty-tagged UAP knowledge graph + Graph-RAG search. 1,084 sourced nodes. Live: https://ufo-ai.fly.dev |
+| 1 | [Amal-David/docingest](https://github.com/Amal-David/docingest) | 8 | TypeScript | 2026-07-01 | Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents. |
+| 2 | [cgfixit/CyClaw](https://github.com/cgfixit/CyClaw) | 13 | Python | 2026-07-01 | CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s |
+| 3 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 54 | Python | 2026-07-01 | World's fastest and most compact embedded vector database: exact, multimodal, local-first, and GPU-accelerated |
+| 4 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 192 | Python | 2026-07-01 | A library-science-inspired personal knowledge management system with LLM agents |
+| 5 | [Kauxtubh/pinecone](https://github.com/Kauxtubh/pinecone) | 3 | Python | 2026-07-01 | Experimenting with Pinecone as vector data continues to take center stage in AI-native systems. The purpose of this proj |
+| 6 | [ayoub637/backend-api-fitflow](https://github.com/ayoub637/backend-api-fitflow) | 2 | TypeScript | 2026-07-01 | AI agent that helps users discover and get personalized workout recommendations. |
+| 7 | [hfgwygey/yu-ai-agent](https://github.com/hfgwygey/yu-ai-agent) | 89 | Java | 2026-07-01 | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI |
+| 8 | [markhuangai/dense-mem](https://github.com/markhuangai/dense-mem) | 30 | Go | 2026-07-01 | Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall,  |
+| 9 | [zmwzmo11130/neuraldocs](https://github.com/zmwzmo11130/neuraldocs) | 1 | Python | 2026-07-01 | Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod |
+| 10 | [ModelEngine-Group/nexent](https://github.com/ModelEngine-Group/nexent) | 5408 | Python | 2026-07-01 | Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — uni |
+| 11 | [douglasjordan2/c0](https://github.com/douglasjordan2/c0) | 21 | Rust | 2026-07-01 | An external memory for LLMs: a bi-temporal knowledge graph with hybrid (keyword + vector) retrieval and a self-improving |
+| 12 | [zycaskevin/Vault-for-LLM](https://github.com/zycaskevin/Vault-for-LLM) | 40 | Python | 2026-07-01 | 🧠 Local-first knowledge system for LLM agents — sqlite-vec + ONNX embeddings, no cloud/Docker/PyTorch dependency |
 | 13 | [itsmeduncan/commonplace](https://github.com/itsmeduncan/commonplace) | 2 | Shell | 2026-07-01 | Self-hosted, privacy-tiered memory for your AI agents. |
-| 14 | [Stunspot/stunspots-guide-to-ai-systems](https://github.com/Stunspot/stunspots-guide-to-ai-systems) | 34 | — | 2026-07-01 | Operational doctrine for practical AI systems design. |
-| 15 | [eliasjustus/justsearch](https://github.com/eliasjustus/justsearch) | 1 | Java | 2026-07-01 | Private hybrid search over your files — fully offline, 70+ languages. An MCP retrieval backend for AI agents. |
-| 16 | [Kallamo/Kallamo](https://github.com/Kallamo/Kallamo) | 8 | JavaScript | 2026-07-01 | Bring-your-own-key desktop app to build custom AI personas, give them personal knowledge bases, chain them into workflow |
-| 17 | [vanthree31/PaperLens](https://github.com/vanthree31/PaperLens) | 3 | HTML | 2026-07-01 | AI-Powered Research Assistant for Academic Paper Discovery, Analysis, and Citation Intelligence |
-| 18 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | 2543 | Python | 2026-07-01 | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. |
-| 19 | [shahriar-ahmed-seam/nebula-semantic-galaxy](https://github.com/shahriar-ahmed-seam/nebula-semantic-galaxy) | 0 | JavaScript | 2026-07-01 | Nebula — a 3D semantic file explorer. Fly through your files as a galaxy where position = meaning. FastAPI + sentence-tr |
-| 20 | [townmeetingferrimagnetism755/dwg2png](https://github.com/townmeetingferrimagnetism755/dwg2png) | 0 | Rust | 2026-07-01 | Convert DWG files to multi-page PNG images and extract metadata with a pure-Rust engine that requires no external CAD so |
-| 21 | [xichia/deepreader](https://github.com/xichia/deepreader) | 0 | Python | 2026-07-01 | AI document intelligence and local RAG workbench with stable citations, retrieval fusion, summaries, jobs, and extractiv |
-| 22 | [yktsnet/order-system-rag](https://github.com/yktsnet/order-system-rag) | 0 | TypeScript | 2026-07-01 | Order domain RAG demo using Azure Document Intelligence + AI Search + LangGraph, compared side-by-side with Text-to-SQL. |
-| 23 | [FaultMaven/faultmaven](https://github.com/FaultMaven/faultmaven) | 1 | Python | 2026-07-01 | The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu |
-| 24 | [alex-place/lantern-os](https://github.com/alex-place/lantern-os) | 3 | Python | 2026-07-01 | Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness |
-| 25 | [lindneutral977/claude-mythos-ai-anthropic-desktop-app](https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app) | 0 | TypeScript | 2026-07-01 | A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux. |
-| 26 | [Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2](https://github.com/Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2) | 0 | Python | 2026-07-01 | Modify memory values and optimize performance settings for 007 First Light to unlock characters, enable god mode, and im |
-| 27 | [Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2](https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2) | 0 | Python | 2026-07-01 | Enhance 007 First Light gameplay with this trainer to unlock items, enable God mode, and improve performance through stu |
-| 28 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-07-01 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
-| 29 | [xyver/daedal-map](https://github.com/xyver/daedal-map) | 0 | Python | 2026-07-01 | Open geographic query engine — ask place-based questions in natural language, get answers on a map. Covers disasters, de |
-| 30 | [engram-app/Engram](https://github.com/engram-app/Engram) | 6 | Elixir | 2026-07-01 | Engram: Personal knowledge RAG system — Obsidian vault indexer, vector search, MCP server |
-| 31 | [stanleyjoy1980/MemNixFS](https://github.com/stanleyjoy1980/MemNixFS) | 0 | C++ | 2026-07-01 | Mount Linux memory dumps as filesystems to investigate processes, files, and kernel state using standard command-line to |
-| 32 | [Studnicky/Dagonizer](https://github.com/Studnicky/Dagonizer) | 3 | TypeScript | 2026-07-01 | TypeScript DAG framework for orchestrating work as a directed acyclic graph of typed nodes ⦿ State machine lifecycle ⦿ N |
-| 33 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 370 | Go | 2026-07-01 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 34 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 1 | HTML | 2026-07-01 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 35 | [causesubpopulation914/Hello-Agents](https://github.com/causesubpopulation914/Hello-Agents) | 0 | Python | 2026-07-01 | Build AI agent systems from theory to production with this guide on foundational concepts and multi-agent application de |
-| 36 | [puppetrygenusscilla672/10_ai_it_support_assistant](https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant) | 0 | Python | 2026-07-01 | Automate IT helpdesk triage and resolve technical issues locally using RAG, SQLite, and Ollama. |
-| 37 | [william-laverty/ato-mcp](https://github.com/william-laverty/ato-mcp) | 2 | TypeScript | 2026-07-01 | Your AI agent, fluent in Australian tax. |
-| 38 | [MarkDanile/MetaEduBase](https://github.com/MarkDanile/MetaEduBase) | 2 | Python | 2026-07-01 | 面向职业院校的 AI-Native 知识基座，RAG + 层级知识图谱 +ES全文索引 |
-| 39 | [tysto1727/ComfyUI-Boogu](https://github.com/tysto1727/ComfyUI-Boogu) | 1 | Python | 2026-07-01 | Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference. |
-| 40 | [lightmeterminiaturisation293/Langent-MCP_One-Click_Kit](https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit) | 0 | Batchfile | 2026-07-01 | Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi |
-| 41 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | 3618 | Python | 2026-07-01 | A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura |
-| 42 | [wahicona/pg_sag_rag](https://github.com/wahicona/pg_sag_rag) | 0 | PLpgSQL | 2026-07-01 | GraphRAG without the graph database: SQL-native multi-hop RAG for PostgreSQL. |
-| 43 | [impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system) | 0 | Jupyter Notebook | 2026-07-01 | Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r |
-| 44 | [ChenGan666/ZSN.AgentBrook](https://github.com/ChenGan666/ZSN.AgentBrook) | 18 | C# | 2026-07-01 | AgentBrook |
-| 45 | [kenchengkc/the-financial-document-retrieval-engine](https://github.com/kenchengkc/the-financial-document-retrieval-engine) | 0 | Python | 2026-07-01 | Point-in-time SEC filing retrieval: hybrid search, citation-verified answers with abstention, typed financial facts, fil |
-| 46 | [zerooo002/claude-artifacts-local-sync](https://github.com/zerooo002/claude-artifacts-local-sync) | 0 | — | 2026-07-01 | Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you |
-| 47 | [LivingLikeKrillin/khala](https://github.com/LivingLikeKrillin/khala) | 0 | Python | 2026-07-01 | An alliance of tools for the AI era: grounded knowledge (Nexus·Archon), accountable review & governance (Arbiter·Observe |
-| 48 | [Free-Soul/MemDreamer](https://github.com/Free-Soul/MemDreamer) | 1 | Python | 2026-07-01 | Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval |
-| 49 | [Veronika0306/claude-opus48-context-packer](https://github.com/Veronika0306/claude-opus48-context-packer) | 0 | — | 2026-07-01 | Pack local repositories into dense semantic maps for Claude Opus 4.8 and Fable 5 to reduce token bloat and improve reaso |
-| 50 | [Sean9582/FedRAG](https://github.com/Sean9582/FedRAG) | 0 | — | 2026-07-01 | Retrieve biomedical data across decentralized hospital nodes using federated learning and differential privacy to enable |
+| 14 | [devtechedge/aegis_vercel](https://github.com/devtechedge/aegis_vercel) | 0 | Python | 2026-07-01 | AEGIS — Autonomous Enterprise Graph Intelligence System. Multi-agent operations cortex built 100% on LangChain / LangGra |
+| 15 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | 2543 | Python | 2026-07-01 | A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases. |
+| 16 | [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant) | 5 | Shell | 2026-07-01 | A fully auto configured, self-hosted local AI & database stack on Debian WSL2. |
+| 17 | [yktsnet/order-system-rag](https://github.com/yktsnet/order-system-rag) | 0 | TypeScript | 2026-07-01 | Order domain RAG demo using Azure Document Intelligence + AI Search + LangGraph, compared side-by-side with Text-to-SQL. |
+| 18 | [BriarDevv/Ynara](https://github.com/BriarDevv/Ynara) | 0 | Python | 2026-07-01 | Asistente personal adaptativo on-prem y en rioplatense, con memoria propia cifrada (semántica/episódica/procedural sobre |
+| 19 | [waldopanozo/langchain-js-capstone](https://github.com/waldopanozo/langchain-js-capstone) | 0 | TypeScript | 2026-07-01 | RAG + LCEL capstone: generates PR descriptions from Jira tickets & git diffs. Runs locally with Docker + Ollama (no API  |
+| 20 | [shahriar-ahmed-seam/cortex](https://github.com/shahriar-ahmed-seam/cortex) | 0 | C# | 2026-07-01 | Private, offline-first AI assistant for Windows 11 powered by local LLMs (Ollama). Cinematic Next.js product site + WinU |
+| 21 | [shivkumar82877931/collections-policy-assistant](https://github.com/shivkumar82877931/collections-policy-assistant) | 0 | Python | 2026-07-01 | RAG-based policy assistant for bank collections compliance — hybrid retrieval (dense + BM25), cross-encoder reranking, a |
+| 22 | [Git-Rocky-Stack/Agent-X](https://github.com/Git-Rocky-Stack/Agent-X) | 3 | C# | 2026-07-01 | Local-first AI document-intelligence desktop app for Windows (.NET 8 / WinUI 3). Turns your documents into a queryable,  |
+| 23 | [secure-ssid/centralmcp](https://github.com/secure-ssid/centralmcp) | 1 | Python | 2026-07-01 | Low-token HPE Networking MCP toolkit: Aruba Central + GreenLake, 204 FastMCP tools, httpx REST, embedded RAG/OpenAPI, op |
+| 24 | [flxhrdyn/Sekilas.ai](https://github.com/flxhrdyn/Sekilas.ai) | 0 | Python | 2026-07-01 | WIP Agentic-RAG system that automates scraping RSS feeds to generate AI-powered daily insights. |
+| 25 | [Kush0210/RAG-Document-Chatbot](https://github.com/Kush0210/RAG-Document-Chatbot) | 1 | Python | 2026-07-01 | A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LangChain, FAISS, and the Gemini API. |
+| 26 | [Cerid-AI/cerid-ai](https://github.com/Cerid-AI/cerid-ai) | 2 | Python | 2026-07-01 | Self-hosted, privacy-first Personal AI Knowledge Companion with RAG-powered retrieval, intelligent agents, and extensibl |
+| 27 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45030 | Go | 2026-07-01 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 28 | [codedaptive/mootx01-ce](https://github.com/codedaptive/mootx01-ce) | 1 | Swift | 2026-07-01 | MOOTx01 Community Edition |
+| 29 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 83981 | Go | 2026-07-01 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa |
+| 30 | [Stunspot/stunspots-guide-to-sales-prospecting-strategy](https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy) | 4 | — | 2026-07-01 | A model-facing canon for demand-signal architecture, buyer-system mapping, and AI/RAG prospecting reasoning. |
+| 31 | [schmitech/orbit](https://github.com/schmitech/orbit) | 287 | Python | 2026-07-01 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 32 | [langgenius/dify](https://github.com/langgenius/dify) | 147162 | TypeScript | 2026-07-01 | Production-ready platform for agentic workflow development. |
+| 33 | [Stunspot/stunspots-guide-to-macroeconomics](https://github.com/Stunspot/stunspots-guide-to-macroeconomics) | 3 | — | 2026-07-01 | Model-facing macroeconomic knowledge canon for AI/RAG use: money, liquidity, credit, regimes, instability, and instituti |
+| 34 | [Stunspot/stunspots-guide-to-legal-mastery](https://github.com/Stunspot/stunspots-guide-to-legal-mastery) | 3 | — | 2026-07-01 | A model-facing field manual for authority, interpretation, proof, procedure, strategy, private ordering, ethics, legal f |
+| 35 | [Stunspot/stunspots-guide-to-investigative-news-intelligence](https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence) | 3 | — | 2026-07-01 | A model-facing canon for investigative news intelligence, evidence reasoning, public-reality mapping, and AI/RAG use. |
+| 36 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 1 | Python | 2026-07-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 37 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 0 | Python | 2026-07-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 38 | [Pdiamondz1/hma_project_foundation](https://github.com/Pdiamondz1/hma_project_foundation) | 1 | TypeScript | 2026-07-01 | A copy-to-start kit for any project, with a built-in 'second brain' you talk to in plain English — no coding needed. It  |
+| 39 | [Stunspot/stunspots-guide-to-gastronomic-engineering](https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering) | 2 | — | 2026-07-01 | A model-facing field substrate for deterministic food physics, culinary formulation, and dietary constraint engineering. |
+| 40 | [anyforge/anyparse](https://github.com/anyforge/anyparse) | 0 | Python | 2026-07-01 | Parse any file to Markdown and JSON, anyparse, document-parsing, document-understanding, ocr, vlm, multimodal, image, pd |
+| 41 | [Stunspot/stunspots-guide-to-game-theory](https://github.com/Stunspot/stunspots-guide-to-game-theory) | 3 | — | 2026-07-01 | A model-facing knowledge canon for incentives, interdependence, equilibrium, institutional design, strategic failure, an |
+| 42 | [Stunspot/stunspots-guide-to-business-venture-formulation](https://github.com/Stunspot/stunspots-guide-to-business-venture-formulation) | 2 | — | 2026-07-01 | A model-facing field manual for turning venture ideas into inspectable enterprise systems. |
+| 43 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 18658 | TypeScript | 2026-07-01 | Open source agentic operating system |
+| 44 | [csantisdev/ai-orchestrator](https://github.com/csantisdev/ai-orchestrator) | 1 | Python | 2026-07-01 | Multi-provider AI router with cost tracking, RAG memory and live dashboard. Routes tasks across Claude, OpenAI, DeepSeek |
+| 45 | [Stunspot/stunspots-guide-to-automotive-systems](https://github.com/Stunspot/stunspots-guide-to-automotive-systems) | 2 | — | 2026-07-01 | A model-facing field manual for vehicle reality, machine physics, lifecycle economics, failure diagnosis, and practition |
+| 46 | [mmdebrahimi/ufo-ai](https://github.com/mmdebrahimi/ufo-ai) | 0 | HTML | 2026-07-01 | Honesty-tagged UAP knowledge graph + Graph-RAG search. 1,084 sourced nodes. Live: https://ufo-ai.fly.dev |
+| 47 | [Stunspot/stunspots-guide-to-ai-systems](https://github.com/Stunspot/stunspots-guide-to-ai-systems) | 34 | — | 2026-07-01 | Operational doctrine for practical AI systems design. |
+| 48 | [eliasjustus/justsearch](https://github.com/eliasjustus/justsearch) | 1 | Java | 2026-07-01 | Private hybrid search over your files — fully offline, 70+ languages. An MCP retrieval backend for AI agents. |
+| 49 | [Kallamo/Kallamo](https://github.com/Kallamo/Kallamo) | 8 | JavaScript | 2026-07-01 | Bring-your-own-key desktop app to build custom AI personas, give them personal knowledge bases, chain them into workflow |
+| 50 | [vanthree31/PaperLens](https://github.com/vanthree31/PaperLens) | 3 | HTML | 2026-07-01 | AI-Powered Research Assistant for Academic Paper Discovery, Analysis, and Citation Intelligence |
 <!-- TRACKER_TABLE_END -->
 
 ---
