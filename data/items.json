@@ -1,5 +1,77 @@
 [
   {
+    "description": "A faithfulness + justified-abstention benchmark for regulated documentation \u2014 a correct refusal is a first-class pass, c",
+    "id": "shryu1994/provenance-bench",
+    "language": "Python",
+    "name": "shryu1994/provenance-bench",
+    "stars": 0,
+    "updated_at": "2026-07-01T07:59:59Z",
+    "url": "https://github.com/shryu1994/provenance-bench"
+  },
+  {
+    "description": "Convert methodology books from Anna's Archive into Claude Code skills using the Model Context Protocol.",
+    "id": "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill",
+    "language": "TypeScript",
+    "name": "Earnest-clockworkuniverse497/mcp-annas-archive-create-skill",
+    "stars": 1,
+    "updated_at": "2026-07-01T07:59:51Z",
+    "url": "https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill"
+  },
+  {
+    "description": "Source-grounded AI workspace for document ingestion, retrieval, citations, and trusted answers.",
+    "id": "Hqzdev/Grounded",
+    "language": "Python",
+    "name": "Hqzdev/Grounded",
+    "stars": 0,
+    "updated_at": "2026-07-01T07:59:45Z",
+    "url": "https://github.com/Hqzdev/Grounded"
+  },
+  {
+    "description": "Fine-tune large language models on local hardware using a web interface with QLoRA training and GGUF export support.",
+    "id": "yelenaunstimulating676/NeuralForge",
+    "language": "Python",
+    "name": "yelenaunstimulating676/NeuralForge",
+    "stars": 2,
+    "updated_at": "2026-07-01T07:59:25Z",
+    "url": "https://github.com/yelenaunstimulating676/NeuralForge"
+  },
+  {
+    "description": "Selfhosted AI-Platform for using Local LLMs.",
+    "id": "MosesCommitsFraud/Talos",
+    "language": "Python",
+    "name": "MosesCommitsFraud/Talos",
+    "stars": 1,
+    "updated_at": "2026-07-01T07:59:21Z",
+    "url": "https://github.com/MosesCommitsFraud/Talos"
+  },
+  {
+    "description": "Chat with PDF documents using local AI models. Run private RAG workflows offline with Ollama, Weaviate, and Next.js.",
+    "id": "hispaniolan-princecharles417/pocket-rag",
+    "language": "TypeScript",
+    "name": "hispaniolan-princecharles417/pocket-rag",
+    "stars": 0,
+    "updated_at": "2026-07-01T07:59:03Z",
+    "url": "https://github.com/hispaniolan-princecharles417/pocket-rag"
+  },
+  {
+    "description": "Generate personalized IELTS speaking corpora using AI and RAG technology to improve preparation and target specific band",
+    "id": "arelfruitful261/PersonaLingo",
+    "language": "\u2014",
+    "name": "arelfruitful261/PersonaLingo",
+    "stars": 0,
+    "updated_at": "2026-07-01T07:58:56Z",
+    "url": "https://github.com/arelfruitful261/PersonaLingo"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T07:58:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Query Apple, Microsoft, and Tesla 2025 SEC filings and live web data using this hybrid RAG chatbot built with LangChain,",
     "id": "Hypertextsparrowhawk820/ask-your-annual-report",
     "language": "Python",
@@ -63,12 +135,21 @@
     "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
   },
   {
+    "description": "A simple Retrieval-Augmented Generation (RAG) application that answers questions from PDF and HTML documents using seman",
+    "id": "Randhir026/Document-QA-RAG-using-ChromaDB-Gemini",
+    "language": "Python",
+    "name": "Randhir026/Document-QA-RAG-using-ChromaDB-Gemini",
+    "stars": 0,
+    "updated_at": "2026-07-01T07:56:12Z",
+    "url": "https://github.com/Randhir026/Document-QA-RAG-using-ChromaDB-Gemini"
+  },
+  {
     "description": "A repository for quickly obtaining and understanding PDFs",
     "id": "juyou4/ChatPDF-Pro",
     "language": "Python",
     "name": "juyou4/ChatPDF-Pro",
     "stars": 2,
-    "updated_at": "2026-07-01T07:55:57Z",
+    "updated_at": "2026-07-01T07:58:33Z",
     "url": "https://github.com/juyou4/ChatPDF-Pro"
   },
   {
@@ -202,7 +283,7 @@
     "id": "langchain-ai/langchain",
     "language": "Python",
     "name": "langchain-ai/langchain",
-    "stars": 140616,
+    "stars": 140618,
     "updated_at": "2026-07-01T07:53:48Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "open-webui/open-webui",
     "stars": 143645,
-    "updated_at": "2026-07-01T07:57:30Z",
+    "updated_at": "2026-07-01T07:59:16Z",
     "url": "https://github.com/open-webui/open-webui"
   },
   {
@@ -293,7 +374,7 @@
     "language": "Go",
     "name": "infiniflow/ragflow",
     "stars": 84004,
-    "updated_at": "2026-07-01T07:52:52Z",
+    "updated_at": "2026-07-01T08:00:13Z",
     "url": "https://github.com/infiniflow/ragflow"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T07:52:18Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Standardize git history with scripts and docs so AI agents can read your project\u2019s changes as structured context",
-    "id": "Onthescene-proboscidian983/git-history-standard",
-    "language": "\u2014",
-    "name": "Onthescene-proboscidian983/git-history-standard",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:52:06Z",
-    "url": "https://github.com/Onthescene-proboscidian983/git-history-standard"
-  },
-  {
-    "description": "Connect your own AI models to the Chrome sidebar to automate browser tasks and manage data directly through the side pan",
-    "id": "proforma-sailing735/claw-in-chrome",
-    "language": "JavaScript",
-    "name": "proforma-sailing735/claw-in-chrome",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:51:57Z",
-    "url": "https://github.com/proforma-sailing735/claw-in-chrome"
-  },
-  {
-    "description": "Organize research and notes with AI-powered knowledge management in Obsidian, turning scattered ideas into a connected k",
-    "id": "Rumbapoliovirusvaccine182/My-Brain-System",
-    "language": "\u2014",
-    "name": "Rumbapoliovirusvaccine182/My-Brain-System",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:51:50Z",
-    "url": "https://github.com/Rumbapoliovirusvaccine182/My-Brain-System"
-  },
-  {
-    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies ",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 26210,
-    "updated_at": "2026-07-01T07:51:49Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Search the web from your coding agent with concise mini-briefings, ratings, and source links\u2014no tab switching required",
-    "id": "ruhrbremen653/search-the-web",
-    "language": "\u2014",
-    "name": "ruhrbremen653/search-the-web",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:51:49Z",
-    "url": "https://github.com/ruhrbremen653/search-the-web"
-  },
-  {
-    "description": "Improve Claude output with emotion-aware prompts, system configs, and workflows that boost honesty, reliability, and qua",
-    "id": "Scenic-urochordate607/claude-emotion-prompting",
-    "language": "\u2014",
-    "name": "Scenic-urochordate607/claude-emotion-prompting",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:51:48Z",
-    "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
-  },
-  {
-    "description": "Low-token HPE Networking MCP server: Aruba Central, HPE GreenLake, 283 FastMCP tools, setup wizard, embedded RAG/OpenAPI",
-    "id": "secure-ssid/centralmcp",
-    "language": "Python",
-    "name": "secure-ssid/centralmcp",
-    "stars": 1,
-    "updated_at": "2026-07-01T07:51:40Z",
-    "url": "https://github.com/secure-ssid/centralmcp"
-  },
-  {
-    "description": "An end-to-end Python RAG framework featuring document ingestion, semantic search, conversational AI, multi-user retrieva",
-    "id": "sachn-cs/raghub",
-    "language": "Python",
-    "name": "sachn-cs/raghub",
-    "stars": 0,
-    "updated_at": "2026-07-01T07:51:29Z",
-    "url": "https://github.com/sachn-cs/raghub"
-  },
-  {
-    "description": "DeepParseX \u662f\u4e00\u4e2a\u5f3a\u5927\u7684\u591a\u6a21\u6001\u6587\u6863\u89e3\u6790\u4e0e\u77e5\u8bc6\u7ba1\u7406\u5e73\u53f0\uff0c\u652f\u6301 PDF\u3001Word\u3001Excel\u3001PPT\u3001\u56fe\u7247\u3001\u89c6\u9891\u3001\u97f3\u9891 \u7b49\u591a\u79cd\u6587\u4ef6\u683c\u5f0f\u7684\u667a\u80fd\u89e3\u6790\uff0c\u81ea\u52a8\u63d0\u53d6\u5173\u952e\u4fe1\u606f\uff0c\u5e76\u6784\u5efa \u68c0\u7d22\u589e\u5f3a\u751f\u6210\uff08RAG\uff09 \u548c \u77e5\u8bc6\u56fe\u8c31\uff08Knowledge Gr",
-    "id": "Arterning/DeepParseX",
-    "language": "Python",
-    "name": "Arterning/DeepParseX",
-    "stars": 80,
-    "updated_at": "2026-07-01T07:51:23Z",
-    "url": "https://github.com/Arterning/DeepParseX"
   }
 ]
