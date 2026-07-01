@@ -1,11 +1,119 @@
 [
   {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 2281,
+    "updated_at": "2026-07-01T23:19:50Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Turn a YouTube creator's archive into a searchable, timestamp-cited advisor \u2014 zero-generate, LLM-in-the-loop hybrid RAG ",
+    "id": "melchior95/youtube-brain",
+    "language": "Python",
+    "name": "melchior95/youtube-brain",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:19:08Z",
+    "url": "https://github.com/melchior95/youtube-brain"
+  },
+  {
+    "description": "Systems & product portfolio \u2014 San Lee",
+    "id": "sanlee-ys/portfolio",
+    "language": "HTML",
+    "name": "sanlee-ys/portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:18:58Z",
+    "url": "https://github.com/sanlee-ys/portfolio"
+  },
+  {
+    "description": "Deus \u2014 Multi-agent orchestrator for OpenCode with Knowledge Base, DAG engine, and auto-scaling",
+    "id": "medellin17/deus",
+    "language": "Python",
+    "name": "medellin17/deus",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:17:28Z",
+    "url": "https://github.com/medellin17/deus"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18670,
+    "updated_at": "2026-07-01T23:18:28Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Brain-inspired knowledge graph: spreading activation, Hebbian learning, memory consolidation.",
+    "id": "PlateerLab/synaptic-memory",
+    "language": "Python",
+    "name": "PlateerLab/synaptic-memory",
+    "stars": 32,
+    "updated_at": "2026-07-01T23:16:29Z",
+    "url": "https://github.com/PlateerLab/synaptic-memory"
+  },
+  {
+    "description": "Convert DWG files to multi-page PNG images and extract metadata with a pure-Rust engine that requires no external CAD so",
+    "id": "townmeetingferrimagnetism755/dwg2png",
+    "language": "Rust",
+    "name": "townmeetingferrimagnetism755/dwg2png",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:16:16Z",
+    "url": "https://github.com/townmeetingferrimagnetism755/dwg2png"
+  },
+  {
+    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
+    "id": "three-cubes/kairix",
+    "language": "Python",
+    "name": "three-cubes/kairix",
+    "stars": 2,
+    "updated_at": "2026-07-01T23:18:40Z",
+    "url": "https://github.com/three-cubes/kairix"
+  },
+  {
+    "description": "Multi-agent research assistant using Claude, LangGraph, and FAISS to answer questions over papers with citations",
+    "id": "bharathkumardev1/Agentic-Research-Assistant",
+    "language": "Python",
+    "name": "bharathkumardev1/Agentic-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:15:50Z",
+    "url": "https://github.com/bharathkumardev1/Agentic-Research-Assistant"
+  },
+  {
+    "description": "Local-first markdown context engine for AI coding agents. Indexes a repo's docs into SQLite (FTS5 + local vectors) and e",
+    "id": "alxxpersonal/stardust",
+    "language": "Go",
+    "name": "alxxpersonal/stardust",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:15:47Z",
+    "url": "https://github.com/alxxpersonal/stardust"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-01T23:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Persistent semantic memory for AI agents \u2014 100% local on Apple Silicon (MLX) or Linux/Ubuntu (CPU). Markdown source of t",
     "id": "jagoff/memo",
     "language": "Python",
     "name": "jagoff/memo",
     "stars": 0,
-    "updated_at": "2026-07-01T23:15:17Z",
+    "updated_at": "2026-07-01T23:15:28Z",
     "url": "https://github.com/jagoff/memo"
   },
   {
@@ -162,15 +270,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Systems & product portfolio \u2014 San Lee",
-    "id": "sanlee-ys/portfolio",
-    "language": "HTML",
-    "name": "sanlee-ys/portfolio",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:12:33Z",
-    "url": "https://github.com/sanlee-ys/portfolio"
-  },
-  {
     "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
     "id": "zerooo002/claude-artifacts-local-sync",
     "language": "\u2014",
@@ -216,15 +315,6 @@
     "url": "https://github.com/Veronika0306/claude-opus48-context-packer"
   },
   {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 2281,
-    "updated_at": "2026-07-01T23:11:59Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
     "description": "Ailienant is a structured engineering agentic OS for VS Code. No vibe coding or unauditable black boxes. Built for engin",
     "id": "GabrielV-Engineer/AILIENANT",
     "language": "Python",
@@ -232,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-01T23:11:34Z",
     "url": "https://github.com/GabrielV-Engineer/AILIENANT"
-  },
-  {
-    "description": "Brain-inspired knowledge graph: spreading activation, Hebbian learning, memory consolidation.",
-    "id": "PlateerLab/synaptic-memory",
-    "language": "Python",
-    "name": "PlateerLab/synaptic-memory",
-    "stars": 32,
-    "updated_at": "2026-07-01T23:15:21Z",
-    "url": "https://github.com/PlateerLab/synaptic-memory"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18670,
-    "updated_at": "2026-07-01T23:15:09Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Local-first GraphRAG workbench for ingesting large document corpora into vector search and Neo4j knowledge graphs with r",
@@ -369,15 +441,6 @@
     "url": "https://github.com/Splitpeamidline260/local-ai-assistant"
   },
   {
-    "description": "Shared knowledge layer for human-agent teams. Agents search, classify, and manage knowledge alongside your team.   ",
-    "id": "three-cubes/kairix",
-    "language": "Python",
-    "name": "three-cubes/kairix",
-    "stars": 2,
-    "updated_at": "2026-07-01T23:10:13Z",
-    "url": "https://github.com/three-cubes/kairix"
-  },
-  {
     "description": "Manage enterprise AI agents, models, prompts, and knowledge bases with this self-hosted platform for governance, workflo",
     "id": "Lifefoo3142/aiaget-platform",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T23:10:11Z",
     "url": "https://github.com/Lifefoo3142/aiaget-platform"
-  },
-  {
-    "description": "Index local files for semantic search and reranking using an MCP server, CLI, or web console on your machine.",
-    "id": "Tamariskwhisper962/Localbrain",
-    "language": "HTML",
-    "name": "Tamariskwhisper962/Localbrain",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:09:52Z",
-    "url": "https://github.com/Tamariskwhisper962/Localbrain"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:09:42Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Enforce citation-first research with Claude to verify facts, identify uncertainty, and eliminate hallucinations through ",
-    "id": "Out-treatyofversailles910/grounded-research",
-    "language": "\u2014",
-    "name": "Out-treatyofversailles910/grounded-research",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:09:18Z",
-    "url": "https://github.com/Out-treatyofversailles910/grounded-research"
-  },
-  {
-    "description": "Deploy a local AI assistant on Windows using NVIDIA ChatRTX for private, efficient, and offline document interaction wit",
-    "id": "singular-ornithogalumthyrsoides521/nvidia-chatrtx",
-    "language": "\u2014",
-    "name": "singular-ornithogalumthyrsoides521/nvidia-chatrtx",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:09:17Z",
-    "url": "https://github.com/singular-ornithogalumthyrsoides521/nvidia-chatrtx"
-  },
-  {
-    "description": "High-performance stdio MCP server for cognitive memory using SQLite",
-    "id": "n1ghter/cognitive-memory",
-    "language": "TypeScript",
-    "name": "n1ghter/cognitive-memory",
-    "stars": 2,
-    "updated_at": "2026-07-01T23:09:21Z",
-    "url": "https://github.com/n1ghter/cognitive-memory"
-  },
-  {
-    "description": "Build and operate production-grade AI agent systems through this 22-chapter technical course designed for collaborative ",
-    "id": "120th-westgermany829/agentic-ai-system-course",
-    "language": "Shell",
-    "name": "120th-westgermany829/agentic-ai-system-course",
-    "stars": 2,
-    "updated_at": "2026-07-01T23:08:54Z",
-    "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
-  },
-  {
-    "description": "Type-safe LLM vulnerability triage on Pydantic AI + MCP. Ten typed tools (NVD, OSV, KEV, EPSS, Exploit-DB, ATT&CK, SBOM,",
-    "id": "Shurtug4l/sec-recon-agent",
-    "language": "Python",
-    "name": "Shurtug4l/sec-recon-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:08:45Z",
-    "url": "https://github.com/Shurtug4l/sec-recon-agent"
   }
 ]
