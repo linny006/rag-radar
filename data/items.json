@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI-powered Indian legal intelligence platform \u2014 multi-agent LangGraph system with hybrid RAG, 6-layer memory architectur",
+    "id": "anantha037/lexshield-ai",
+    "language": "Python",
+    "name": "anantha037/lexshield-ai",
+    "stars": 2,
+    "updated_at": "2026-07-02T20:16:51Z",
+    "url": "https://github.com/anantha037/lexshield-ai"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18678,
+    "updated_at": "2026-07-02T20:16:44Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-07-02T20:16:34Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 180,
+    "updated_at": "2026-07-02T20:16:33Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "\ud83e\udde0 Local-first RAG index that watches your files and serves MCP semantic search",
+    "id": "koltyakov/quant",
+    "language": "Go",
+    "name": "koltyakov/quant",
+    "stars": 5,
+    "updated_at": "2026-07-02T20:16:31Z",
+    "url": "https://github.com/koltyakov/quant"
+  },
+  {
+    "description": "Code intelligence and RAG for AI agents: semantic search, call graphs, impact analysis, and context assembly in single t",
+    "id": "jamie8johnson/cqs",
+    "language": "Rust",
+    "name": "jamie8johnson/cqs",
+    "stars": 11,
+    "updated_at": "2026-07-02T20:16:28Z",
+    "url": "https://github.com/jamie8johnson/cqs"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 58,
+    "updated_at": "2026-07-02T20:16:17Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Self-hosted personal AI knowledge brain -- hybrid (vector + keyword + entity-graph) search over your notes and code, ser",
+    "id": "timurgaleev/memex",
+    "language": "TypeScript",
+    "name": "timurgaleev/memex",
+    "stars": 1,
+    "updated_at": "2026-07-02T20:15:42Z",
+    "url": "https://github.com/timurgaleev/memex"
+  },
+  {
+    "description": "RAG knowledge engine \u2014 Spring Boot + Vue, Elasticsearch retrieval, multimodal ingestion (OCR/VL) and rerank",
+    "id": "dezhiguan/rag-forge",
+    "language": "Java",
+    "name": "dezhiguan/rag-forge",
+    "stars": 0,
+    "updated_at": "2026-07-02T20:15:36Z",
+    "url": "https://github.com/dezhiguan/rag-forge"
+  },
+  {
+    "description": "",
+    "id": "redocto/image-text-structurizer",
+    "language": "Python",
+    "name": "redocto/image-text-structurizer",
+    "stars": 0,
+    "updated_at": "2026-07-02T20:15:30Z",
+    "url": "https://github.com/redocto/image-text-structurizer"
+  },
+  {
+    "description": "A retrieval-augmented marathon coach that cites its sources \u2014 grounded in real marathon science and my own analyses of 3",
+    "id": "lyhjeremy/marathon-strategy-rag",
+    "language": "Python",
+    "name": "lyhjeremy/marathon-strategy-rag",
+    "stars": 0,
+    "updated_at": "2026-07-02T20:15:25Z",
+    "url": "https://github.com/lyhjeremy/marathon-strategy-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-02T20:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T20:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udeb6 Self-hosted meeting capture & AI notes \u2014 transcribe, summarise, and act on every conversation, entirely on your own ha",
+    "id": "craiglush/parley",
+    "language": "Python",
+    "name": "craiglush/parley",
+    "stars": 1,
+    "updated_at": "2026-07-02T20:15:15Z",
+    "url": "https://github.com/craiglush/parley"
+  },
+  {
     "description": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, ob",
     "id": "heymrun/heym",
     "language": "Python",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "varunyn/Oracle-26ai-LangChain-RAG",
     "stars": 0,
-    "updated_at": "2026-07-02T20:14:34Z",
+    "updated_at": "2026-07-02T20:16:32Z",
     "url": "https://github.com/varunyn/Oracle-26ai-LangChain-RAG"
   },
   {
@@ -270,15 +396,6 @@
     "url": "https://github.com/rexnzm/MCP-rag-with-Chromadb"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18678,
-    "updated_at": "2026-07-02T20:14:17Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Local-first dynamic memory for agents and apps: SQLite source of truth, vector search candidates, hotness, decay, TTL, n",
     "id": "CaspianG/wavemind",
     "language": "Python",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T20:07:22Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "RAG knowledge engine \u2014 Spring Boot + Vue, Elasticsearch retrieval, multimodal ingestion (OCR/VL) and rerank",
-    "id": "dezhiguan/rag-forge",
-    "language": "Java",
-    "name": "dezhiguan/rag-forge",
-    "stars": 0,
-    "updated_at": "2026-07-02T20:07:00Z",
-    "url": "https://github.com/dezhiguan/rag-forge"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 2,
-    "updated_at": "2026-07-02T20:06:44Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Agentic network incident commander \u2014 7-state FSM on top of Splunk MCP + Cisco Catalyst, with Pinecone RAG and CTSM forec",
-    "id": "bnamatherdhala7/Vigil",
-    "language": "Jupyter Notebook",
-    "name": "bnamatherdhala7/Vigil",
-    "stars": 0,
-    "updated_at": "2026-07-02T20:06:41Z",
-    "url": "https://github.com/bnamatherdhala7/Vigil"
-  },
-  {
-    "description": "Local LLM desktop application that uses the ONNX Generative AI Runtime. Does not make any networking requests outside of",
-    "id": "omarhimada/Local-LLM-ONNX",
-    "language": "C#",
-    "name": "omarhimada/Local-LLM-ONNX",
-    "stars": 4,
-    "updated_at": "2026-07-02T20:06:27Z",
-    "url": "https://github.com/omarhimada/Local-LLM-ONNX"
-  },
-  {
-    "description": "Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS \u2014 MLX inference, live voice, knowledge graph + RAG, ",
-    "id": "Round-Tower/m1k3",
-    "language": "Python",
-    "name": "Round-Tower/m1k3",
-    "stars": 0,
-    "updated_at": "2026-07-02T20:06:24Z",
-    "url": "https://github.com/Round-Tower/m1k3"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22858,
-    "updated_at": "2026-07-02T20:09:33Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83e\udde0 Analyze market trends with AI to forecast investments and enhance decision-making using real-time data and advanced an",
-    "id": "vieta123456/ai-market",
-    "language": "Python",
-    "name": "vieta123456/ai-market",
-    "stars": 0,
-    "updated_at": "2026-07-02T20:05:42Z",
-    "url": "https://github.com/vieta123456/ai-market"
-  },
-  {
-    "description": "Cognee Rust - fast and performant AI memory engine",
-    "id": "topoteretes/cognee-rs",
-    "language": "Rust",
-    "name": "topoteretes/cognee-rs",
-    "stars": 13,
-    "updated_at": "2026-07-02T20:04:26Z",
-    "url": "https://github.com/topoteretes/cognee-rs"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30676,
-    "updated_at": "2026-07-02T20:13:03Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "AI secretary powered by Gemini and Google Drive \u2014 chat with streaming & function    calling, visual workflow builder, Dr",
-    "id": "takeshy/gemihub",
-    "language": "TypeScript",
-    "name": "takeshy/gemihub",
-    "stars": 6,
-    "updated_at": "2026-07-02T20:03:47Z",
-    "url": "https://github.com/takeshy/gemihub"
-  },
-  {
-    "description": "A desktop cockpit for AI-assisted coding: Gemini plans, Claude Code executes, every run verified and recorded.",
-    "id": "pillarwheel/wheelhouse",
-    "language": "C#",
-    "name": "pillarwheel/wheelhouse",
-    "stars": 1,
-    "updated_at": "2026-07-02T20:03:37Z",
-    "url": "https://github.com/pillarwheel/wheelhouse"
-  },
-  {
-    "description": "\ud83d\udcca Automate financial analysis and forecasting with ForecastGPT, leveraging AI to extract insights from reports and strea",
-    "id": "elemsi/forecastgpt-financial-outlook-agent",
-    "language": "Python",
-    "name": "elemsi/forecastgpt-financial-outlook-agent",
-    "stars": 2,
-    "updated_at": "2026-07-02T20:03:13Z",
-    "url": "https://github.com/elemsi/forecastgpt-financial-outlook-agent"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-07-02T20:03:11Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   }
 ]
