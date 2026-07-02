@@ -1,5 +1,113 @@
 [
   {
+    "description": "The local-first memory engine for AI agents. One offline Rust binary fuses vector + graph + columnar under SQL \u2014 remembe",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 74,
+    "updated_at": "2026-07-02T22:47:03Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45048,
+    "updated_at": "2026-07-02T22:46:29Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Enterprise-grade event-driven Semantic Search Engine built with Python, FastAPI, Kafka, and ChromaDB, implementing stric",
+    "id": "ryan-mant/semantic-search-engine",
+    "language": "Python",
+    "name": "ryan-mant/semantic-search-engine",
+    "stars": 0,
+    "updated_at": "2026-07-02T22:46:29Z",
+    "url": "https://github.com/ryan-mant/semantic-search-engine"
+  },
+  {
+    "description": "RAG chatbot answering questions from research papers with page-level citations using LangChain, Chroma, local embeddings",
+    "id": "MohsinHassan-8/research-paper-rag-chatbot",
+    "language": "CSS",
+    "name": "MohsinHassan-8/research-paper-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-02T22:46:25Z",
+    "url": "https://github.com/MohsinHassan-8/research-paper-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-02T22:46:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Nextcloud MCP Server",
+    "id": "cbcoutinho/nextcloud-mcp-server",
+    "language": "Python",
+    "name": "cbcoutinho/nextcloud-mcp-server",
+    "stars": 290,
+    "updated_at": "2026-07-02T22:46:02Z",
+    "url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
+  },
+  {
+    "description": "Real-time disaster-awareness platform: streaming hazard feeds (USGS, NOAA/NWS) through Kafka into a Delta lakehouse, wit",
+    "id": "Rohith066/crisislens",
+    "language": "Python",
+    "name": "Rohith066/crisislens",
+    "stars": 0,
+    "updated_at": "2026-07-02T22:45:58Z",
+    "url": "https://github.com/Rohith066/crisislens"
+  },
+  {
+    "description": "ChatCLI \u00e9 uma aplica\u00e7\u00e3o de linha de comando que utiliza modelos de linguagem como OpenAI, GoogleAI, e outras, para conve",
+    "id": "diillson/chatcli",
+    "language": "Go",
+    "name": "diillson/chatcli",
+    "stars": 88,
+    "updated_at": "2026-07-02T22:45:45Z",
+    "url": "https://github.com/diillson/chatcli"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18679,
+    "updated_at": "2026-07-02T22:45:43Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI Context Chef is a local-first context nutrition engine that turns raw notes, RAG chunks, and research material into b",
+    "id": "darwinx687-afk/ai-context-chef",
+    "language": "TypeScript",
+    "name": "darwinx687-afk/ai-context-chef",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:45:26Z",
+    "url": "https://github.com/darwinx687-afk/ai-context-chef"
+  },
+  {
+    "description": "QQ \u5b98\u65b9\u673a\u5668\u4eba\u672c\u5730\u7248 Rust \u670d\u52a1",
+    "id": "kuliantnt/qq-maid-bot",
+    "language": "Rust",
+    "name": "kuliantnt/qq-maid-bot",
+    "stars": 42,
+    "updated_at": "2026-07-02T22:45:37Z",
+    "url": "https://github.com/kuliantnt/qq-maid-bot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-02T22:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83c\udfaf Optimize retrieval with TriStage-RAG, a 3-stage pipeline that enhances document discovery while overcoming the limits ",
     "id": "NoliNobdon/TriStage-RAG",
     "language": "Python",
@@ -36,15 +144,6 @@
     "url": "https://github.com/tale-project/tale"
   },
   {
-    "description": "Enterprise-grade event-driven Semantic Search Engine built with Python, FastAPI, Kafka, and ChromaDB, implementing stric",
-    "id": "ryan-mant/semantic-search-engine",
-    "language": "Python",
-    "name": "ryan-mant/semantic-search-engine",
-    "stars": 0,
-    "updated_at": "2026-07-02T22:44:50Z",
-    "url": "https://github.com/ryan-mant/semantic-search-engine"
-  },
-  {
     "description": "Suite A2A con 18 agentes (se pueden crear +) enfocados en  ciberseguridad ofensiva Red-Team sobre Claude Code: Orquestac",
     "id": "devPruebaDataunix/Data-Attack-Offensive-Tools",
     "language": "Python",
@@ -72,6 +171,15 @@
     "url": "https://github.com/Baldri/mingly"
   },
   {
+    "description": "\ud83e\udde9 Enhance RAG processes with SmartChunk, a Python package that creates quality text chunks while preserving structure an",
+    "id": "tainmou/SmartChunk",
+    "language": "\u2014",
+    "name": "tainmou/SmartChunk",
+    "stars": 0,
+    "updated_at": "2026-07-02T22:44:32Z",
+    "url": "https://github.com/tainmou/SmartChunk"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Manage and utilize local context for Claude, enhancing applications with tailored insights and improving user experie",
     "id": "shreyashKilledar1/claude-context-local",
     "language": "Python",
@@ -88,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T22:44:26Z",
     "url": "https://github.com/asswinthedann/embedding-atlas"
-  },
-  {
-    "description": "ChatCLI \u00e9 uma aplica\u00e7\u00e3o de linha de comando que utiliza modelos de linguagem como OpenAI, GoogleAI, e outras, para conve",
-    "id": "diillson/chatcli",
-    "language": "Go",
-    "name": "diillson/chatcli",
-    "stars": 88,
-    "updated_at": "2026-07-02T22:44:39Z",
-    "url": "https://github.com/diillson/chatcli"
   },
   {
     "description": "Open-source desktop IDE for building Domain-Specific Language Models (DSLMs) on a single consumer GPU \u2014 QLoRA via Unslot",
@@ -124,15 +223,6 @@
     "stars": 180,
     "updated_at": "2026-07-02T22:44:05Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18679,
-    "updated_at": "2026-07-02T22:45:07Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -342,15 +432,6 @@
     "url": "https://github.com/ogtknscn/hi_games_ddd"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45048,
-    "updated_at": "2026-07-02T22:36:30Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "From-scratch mini RAG assistant for model documentation with markdown ingestion, retrieval, citations, evals, caching, C",
     "id": "stonyjerry/model-doc-rag-assistant",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-02T22:36:17Z",
     "url": "https://github.com/Megaboy12346/complex-RAG-guide"
-  },
-  {
-    "description": "Pyxis \u2014 a reusable, self-validating Claude Code project template for building on autopilot: a vendored RAG textbook libr",
-    "id": "recon-research/pyxis",
-    "language": "Python",
-    "name": "recon-research/pyxis",
-    "stars": 1,
-    "updated_at": "2026-07-02T22:36:05Z",
-    "url": "https://github.com/recon-research/pyxis"
-  },
-  {
-    "description": "Effortlessly manage your PDFs with the PDF Toolkit. Merge, split, and extract text securely in your browser. \ud83c\udf10\ud83d\udcc4 Explore ",
-    "id": "helptrader/pdf-toolkit-app",
-    "language": "JavaScript",
-    "name": "helptrader/pdf-toolkit-app",
-    "stars": 0,
-    "updated_at": "2026-07-02T22:36:00Z",
-    "url": "https://github.com/helptrader/pdf-toolkit-app"
-  },
-  {
-    "description": "Universal page-to-data extractor, turn URLs or HTML into clean Markdown, JSON, or Text for RAG and AI workflows. Rust AP",
-    "id": "Satan2049/omni-parse",
-    "language": "TypeScript",
-    "name": "Satan2049/omni-parse",
-    "stars": 2,
-    "updated_at": "2026-07-02T22:35:50Z",
-    "url": "https://github.com/Satan2049/omni-parse"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30679,
-    "updated_at": "2026-07-02T22:39:21Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "For3s OS - The self-hosted AI second brain that remembers, learns, and works in a team \u2014 your data, your server.",
-    "id": "fruterito101/for3s",
-    "language": "Python",
-    "name": "fruterito101/for3s",
-    "stars": 3,
-    "updated_at": "2026-07-02T22:35:15Z",
-    "url": "https://github.com/fruterito101/for3s"
-  },
-  {
-    "description": "Reliable memory and context infrastructure for AI coding agents: source-backed facts, review-gated learning, MCP/SDK/UI,",
-    "id": "777genius/infinity-context",
-    "language": "Python",
-    "name": "777genius/infinity-context",
-    "stars": 0,
-    "updated_at": "2026-07-02T22:35:09Z",
-    "url": "https://github.com/777genius/infinity-context"
-  },
-  {
-    "description": "# elizaA Rust implementation of common encryption and decryption algorithms, designed for reference. This project allows",
-    "id": "krishnan188/eliza",
-    "language": "\u2014",
-    "name": "krishnan188/eliza",
-    "stars": 1,
-    "updated_at": "2026-07-02T22:34:48Z",
-    "url": "https://github.com/krishnan188/eliza"
-  },
-  {
-    "description": "temThis repository contains Gen AI projects that performs different tasks",
-    "id": "Bradox54/Generative-AI-Projects",
-    "language": "\u2014",
-    "name": "Bradox54/Generative-AI-Projects",
-    "stars": 5,
-    "updated_at": "2026-07-02T22:34:25Z",
-    "url": "https://github.com/Bradox54/Generative-AI-Projects"
-  },
-  {
-    "description": "Portable Claude Code plugin: 13 specialist agents, 5 commands, 2 session skills, semantic search over your research docs",
-    "id": "sanishsk/8colors-process-engine",
-    "language": "Shell",
-    "name": "sanishsk/8colors-process-engine",
-    "stars": 0,
-    "updated_at": "2026-07-02T22:34:20Z",
-    "url": "https://github.com/sanishsk/8colors-process-engine"
   }
 ]
