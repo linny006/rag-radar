@@ -1,11 +1,65 @@
 [
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 62531,
+    "updated_at": "2026-07-03T21:44:55Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:44:49Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Spatial intelligence workstation \u2014 OSINT feeds, fusion analytics, local and cloud AI briefing, optional Pi edge sync",
+    "id": "sookoothaii/IntelShed",
+    "language": "Python",
+    "name": "sookoothaii/IntelShed",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:44:30Z",
+    "url": "https://github.com/sookoothaii/IntelShed"
+  },
+  {
+    "description": "Typescript RAG system that parses PDF files, creates embeddings and stores in pgvector. fully local with node-llama-cpp",
+    "id": "guspaz0/ts-RAG",
+    "language": "TypeScript",
+    "name": "guspaz0/ts-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:44:21Z",
+    "url": "https://github.com/guspaz0/ts-RAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-03T21:44:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first memory engine for AI agents \u2014 on-device, 0 network, embeddable anywhere via a stable C-ABI + MCP. Honest ben",
+    "id": "raveunicorn/skinki",
+    "language": "Rust",
+    "name": "raveunicorn/skinki",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:44:17Z",
+    "url": "https://github.com/raveunicorn/skinki"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18683,
-    "updated_at": "2026-07-03T21:44:05Z",
+    "updated_at": "2026-07-03T21:45:16Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/xyver/daedal-map"
   },
   {
-    "description": "Typescript RAG system that parses PDF files, creates embeddings and stores in pgvector. fully local with node-llama-cpp",
-    "id": "guspaz0/ts-RAG",
-    "language": "TypeScript",
-    "name": "guspaz0/ts-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:42:26Z",
-    "url": "https://github.com/guspaz0/ts-RAG"
-  },
-  {
     "description": "Automatos AI: Open-source platform for advanced context engineering and multi-agent orchestration in enterprise automati",
     "id": "AutomatosAI/automatos-ai",
     "language": "Python",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "tomyimkc/sophia-agi",
     "stars": 3,
-    "updated_at": "2026-07-03T21:44:15Z",
+    "updated_at": "2026-07-03T21:44:53Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 56225,
-    "updated_at": "2026-07-03T21:42:24Z",
+    "updated_at": "2026-07-03T21:44:19Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-07-03T21:38:08Z",
     "url": "https://github.com/murmur-io/murmur"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 62531,
-    "updated_at": "2026-07-03T21:37:53Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
@@ -297,15 +333,6 @@
     "url": "https://github.com/Cipher208/mcp-ariel-memory"
   },
   {
-    "description": "Local-first memory engine for AI agents \u2014 on-device, 0 network, embeddable anywhere via a stable C-ABI + MCP. Honest ben",
-    "id": "raveunicorn/skinki",
-    "language": "Rust",
-    "name": "raveunicorn/skinki",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:42:23Z",
-    "url": "https://github.com/raveunicorn/skinki"
-  },
-  {
     "description": "Turkish-first AI news intelligence platform with source-backed RAG, modular monolith architecture, and production-grade ",
     "id": "selmanays/nodrat",
     "language": "Python",
@@ -333,15 +360,6 @@
     "url": "https://github.com/OverAmpJinx/eris"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source NotebookLM desktop app: local-first, no file limits, cited chat over your own documents",
     "id": "sgrpanchal31/vidura",
     "language": "TypeScript",
@@ -349,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T21:30:20Z",
     "url": "https://github.com/sgrpanchal31/vidura"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-03T21:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-03T21:26:34Z",
     "url": "https://github.com/klarlabs-studio/mnemos"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 0,
-    "updated_at": "2026-07-03T21:26:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
