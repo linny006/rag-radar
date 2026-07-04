@@ -1,5 +1,32 @@
 [
   {
+    "description": "Kura \u2014 the knowledgebase for humans and agents. Agent-native docs infrastructure, built on June.",
+    "id": "kurajs/kura",
+    "language": "TypeScript",
+    "name": "kurajs/kura",
+    "stars": 6,
+    "updated_at": "2026-07-04T17:30:12Z",
+    "url": "https://github.com/kurajs/kura"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-04T17:29:12Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T17:29:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Make multiple codebases available as context for any coding agent without spending too many resources or sacrificing qua",
     "id": "datnguyenzzz/semantic-grep",
     "language": "Go",
@@ -59,7 +86,7 @@
     "language": "Java",
     "name": "aoebiu/dialoger-ai",
     "stars": 5,
-    "updated_at": "2026-07-04T17:28:06Z",
+    "updated_at": "2026-07-04T17:29:21Z",
     "url": "https://github.com/aoebiu/dialoger-ai"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "tomyimkc/sophia-agi",
     "stars": 5,
-    "updated_at": "2026-07-04T17:27:35Z",
+    "updated_at": "2026-07-04T17:30:03Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-04T17:18:18Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "\ud83e\udd16 Leverage dual AI models to generate precise and thoughtful responses using a flexible backend, enhancing interaction q",
-    "id": "SenseiOguz/Dual-AI-Chat",
-    "language": "TypeScript",
-    "name": "SenseiOguz/Dual-AI-Chat",
-    "stars": 3,
-    "updated_at": "2026-07-04T17:17:59Z",
-    "url": "https://github.com/SenseiOguz/Dual-AI-Chat"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 287,
-    "updated_at": "2026-07-04T17:17:19Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-07-04T17:17:14Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
   }
 ]
