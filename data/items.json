@@ -1,12 +1,147 @@
 [
   {
+    "description": "Self-hosted personal AI knowledge brain -- hybrid (vector + keyword + entity-graph) search over your notes and code, ser",
+    "id": "timurgaleev/memex",
+    "language": "TypeScript",
+    "name": "timurgaleev/memex",
+    "stars": 1,
+    "updated_at": "2026-07-04T19:52:45Z",
+    "url": "https://github.com/timurgaleev/memex"
+  },
+  {
+    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
+    "id": "klarlabs-studio/mnemos",
+    "language": "Go",
+    "name": "klarlabs-studio/mnemos",
+    "stars": 3,
+    "updated_at": "2026-07-04T19:52:28Z",
+    "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
+    "id": "kraft87/synapse",
+    "language": "Python",
+    "name": "kraft87/synapse",
+    "stars": 0,
+    "updated_at": "2026-07-04T19:52:18Z",
+    "url": "https://github.com/kraft87/synapse"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18692,
-    "updated_at": "2026-07-04T19:45:08Z",
+    "updated_at": "2026-07-04T19:52:45Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI Content Engine \u2014 YouTube URL \u2192 14 styles of polished content. 5 AI providers (Gemini, DeepSeek, GLM, Ollama, OpenRout",
+    "id": "inbeomheo/insight-engine",
+    "language": "Python",
+    "name": "inbeomheo/insight-engine",
+    "stars": 20,
+    "updated_at": "2026-07-04T19:51:52Z",
+    "url": "https://github.com/inbeomheo/insight-engine"
+  },
+  {
+    "description": "Durable, local-first memory for AI coding agents over MCP \u2014 zero-dependency, curated & semantically de-duped, you own th",
+    "id": "VonderVuflya/Yggdrasil",
+    "language": "Python",
+    "name": "VonderVuflya/Yggdrasil",
+    "stars": 15,
+    "updated_at": "2026-07-04T19:50:44Z",
+    "url": "https://github.com/VonderVuflya/Yggdrasil"
+  },
+  {
+    "description": "\u901a\u7528\u5973\u4ec6\u673a\u5668\u4eba\u672c\u5730\u7248 Rust \u670d\u52a1",
+    "id": "kuliantnt/qq-maid-bot",
+    "language": "Rust",
+    "name": "kuliantnt/qq-maid-bot",
+    "stars": 47,
+    "updated_at": "2026-07-04T19:52:14Z",
+    "url": "https://github.com/kuliantnt/qq-maid-bot"
+  },
+  {
+    "description": "Free AI-powered UK legal information - RAG system using Llama 3.1 8B, FAISS, BM25, and cross-encoder reranking across 8 ",
+    "id": "KavinSundarr/uk-legal-assistant",
+    "language": "Python",
+    "name": "KavinSundarr/uk-legal-assistant",
+    "stars": 1,
+    "updated_at": "2026-07-04T19:48:53Z",
+    "url": "https://github.com/KavinSundarr/uk-legal-assistant"
+  },
+  {
+    "description": "Production-minded multicloud RAG + agentic helpdesk platform for governed campus knowledge: LangGraph orchestration, AWS",
+    "id": "sandeep-jay/campus-rag-assistant",
+    "language": "Python",
+    "name": "sandeep-jay/campus-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-04T19:48:53Z",
+    "url": "https://github.com/sandeep-jay/campus-rag-assistant"
+  },
+  {
+    "description": "Privacy-first local LLM chat app with RAG memory, AI agents, multi-model orchestration, WhatsApp integration & E2E-encry",
+    "id": "BugraAkdemir/memo",
+    "language": "Dart",
+    "name": "BugraAkdemir/memo",
+    "stars": 2,
+    "updated_at": "2026-07-04T19:48:00Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "Evidence-bounded claim verification API for RAG and AI-agent workflows.",
+    "id": "aximur/aximur-claim-verification-api",
+    "language": "\u2014",
+    "name": "aximur/aximur-claim-verification-api",
+    "stars": 0,
+    "updated_at": "2026-07-04T19:47:47Z",
+    "url": "https://github.com/aximur/aximur-claim-verification-api"
+  },
+  {
+    "description": "Open-source Maine family law AI workbench for source-grounded legal research, court-form help, document review, evidence",
+    "id": "JTAHAI/maine-family-law-llm",
+    "language": "Python",
+    "name": "JTAHAI/maine-family-law-llm",
+    "stars": 0,
+    "updated_at": "2026-07-04T19:46:50Z",
+    "url": "https://github.com/JTAHAI/maine-family-law-llm"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 1,
+    "updated_at": "2026-07-04T19:46:56Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "",
+    "id": "gary23w/nl-rag",
+    "language": "Python",
+    "name": "gary23w/nl-rag",
+    "stars": 1,
+    "updated_at": "2026-07-04T19:45:28Z",
+    "url": "https://github.com/gary23w/nl-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-04T19:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-04T19:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MCP-first prompt governance, refinement, and engineering evidence correlation",
@@ -14,7 +149,7 @@
     "language": "TypeScript",
     "name": "Coding-Autopilot-System/Promptimprover",
     "stars": 0,
-    "updated_at": "2026-07-04T19:43:52Z",
+    "updated_at": "2026-07-04T19:46:09Z",
     "url": "https://github.com/Coding-Autopilot-System/Promptimprover"
   },
   {
@@ -32,7 +167,7 @@
     "language": "Zig",
     "name": "antflydb/antfly",
     "stars": 403,
-    "updated_at": "2026-07-04T19:43:36Z",
+    "updated_at": "2026-07-04T19:52:55Z",
     "url": "https://github.com/antflydb/antfly"
   },
   {
@@ -41,17 +176,8 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 102,
-    "updated_at": "2026-07-04T19:42:54Z",
+    "updated_at": "2026-07-04T19:49:27Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
-    "id": "kraft87/synapse",
-    "language": "Python",
-    "name": "kraft87/synapse",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:41:59Z",
-    "url": "https://github.com/kraft87/synapse"
   },
   {
     "description": "Local-first RAG over engineering documents (PDF/DOCX/DOC/MD/TXT), exposed via MCP to Cursor/Claude and so on. MIT.",
@@ -86,7 +212,7 @@
     "language": "Python",
     "name": "zycaskevin/Vault-Agent-Memory",
     "stars": 40,
-    "updated_at": "2026-07-04T19:40:54Z",
+    "updated_at": "2026-07-04T19:51:58Z",
     "url": "https://github.com/zycaskevin/Vault-Agent-Memory"
   },
   {
@@ -306,33 +432,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Evidence-bounded claim verification API for RAG and AI-agent workflows.",
-    "id": "aximur/aximur-claim-verification-api",
-    "language": "\u2014",
-    "name": "aximur/aximur-claim-verification-api",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:30:22Z",
-    "url": "https://github.com/aximur/aximur-claim-verification-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T19:27:02Z",
     "url": "https://github.com/vlasenkoalexey/wikify-repo"
-  },
-  {
-    "description": "Source-grounded Responsible AI RAG assistant for EU AI Act, GDPR, and NIST AI RMF questions, with multi-source retrieval",
-    "id": "mahdidadgar-data/responsible-ai-rag-assistant",
-    "language": "Jupyter Notebook",
-    "name": "mahdidadgar-data/responsible-ai-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:25:18Z",
-    "url": "https://github.com/mahdidadgar-data/responsible-ai-rag-assistant"
-  },
-  {
-    "description": "SpaCy NLP pipeline extracting & visualizing entities (people, orgs, dates, financial figures) from PDFs.",
-    "id": "mananmaroo/Named_entity_recogniser",
-    "language": "Jupyter Notebook",
-    "name": "mananmaroo/Named_entity_recogniser",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:25:12Z",
-    "url": "https://github.com/mananmaroo/Named_entity_recogniser"
-  },
-  {
-    "description": "Give your AI assistant a memory that learns, adapts and reasons.",
-    "id": "remem-io/remem",
-    "language": "Rust",
-    "name": "remem-io/remem",
-    "stars": 4,
-    "updated_at": "2026-07-04T19:24:28Z",
-    "url": "https://github.com/remem-io/remem"
-  },
-  {
-    "description": "RAG-powered chatbot-as-a-service \u2014 embed an AI chatbot trained on your own docs into any website",
-    "id": "arjun16-t/chatbot-saas",
-    "language": "Python",
-    "name": "arjun16-t/chatbot-saas",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:24:24Z",
-    "url": "https://github.com/arjun16-t/chatbot-saas"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:24:26Z",
-    "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "Local AI Assistant on your phone",
-    "id": "timmyy123/LLM-Hub",
-    "language": "Kotlin",
-    "name": "timmyy123/LLM-Hub",
-    "stars": 482,
-    "updated_at": "2026-07-04T19:23:59Z",
-    "url": "https://github.com/timmyy123/LLM-Hub"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 1,
-    "updated_at": "2026-07-04T19:23:15Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4351,
-    "updated_at": "2026-07-04T19:41:28Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting notes with an on-device brain \u2014 records, transcribes (whisper.cpp) & reasons over your mee",
-    "id": "murmur-io/murmur",
-    "language": "Rust",
-    "name": "murmur-io/murmur",
-    "stars": 2,
-    "updated_at": "2026-07-04T19:22:40Z",
-    "url": "https://github.com/murmur-io/murmur"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-04T19:22:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
-    "id": "bug-ops/zeph",
-    "language": "Rust",
-    "name": "bug-ops/zeph",
-    "stars": 42,
-    "updated_at": "2026-07-04T19:22:00Z",
-    "url": "https://github.com/bug-ops/zeph"
   }
 ]
