@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\uddea Evaluate uncensored LLMs for offensive security with targeted questions and clear criteria to ensure effectiveness in ",
+    "id": "lpr021/redteam-ai-benchmark",
+    "language": "Python",
+    "name": "lpr021/redteam-ai-benchmark",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:59:56Z",
+    "url": "https://github.com/lpr021/redteam-ai-benchmark"
+  },
+  {
+    "description": "MediChat: A Multimodal Clinical Chatbot for Healthcare",
+    "id": "akeeshh/medichat-ai",
+    "language": "Python",
+    "name": "akeeshh/medichat-ai",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:59:43Z",
+    "url": "https://github.com/akeeshh/medichat-ai"
+  },
+  {
+    "description": "Self-hosted AI wiki that organizes itself \u2014 LLM ingest, knowledge graph, cited chat, Obsidian-compatible vault. FastAPI ",
+    "id": "Emanuele-Chiummo/llm-wiki-synapse",
+    "language": "Python",
+    "name": "Emanuele-Chiummo/llm-wiki-synapse",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:59:42Z",
+    "url": "https://github.com/Emanuele-Chiummo/llm-wiki-synapse"
+  },
+  {
+    "description": "AI-powered industrial knowledge platform with 5 specialist agents, real OISD & Factories Act documents, knowledge graph,",
+    "id": "Agent-A345/PlantIQ",
+    "language": "HTML",
+    "name": "Agent-A345/PlantIQ",
+    "stars": 1,
+    "updated_at": "2026-07-05T09:59:33Z",
+    "url": "https://github.com/Agent-A345/PlantIQ"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 177,
+    "updated_at": "2026-07-05T09:59:21Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Privacy middleware for LLM & RAG pipelines - consistent pseudonymization, encrypted vault, SSE streaming rehydration. ",
+    "id": "rohansx/cloakpipe",
+    "language": "Rust",
+    "name": "rohansx/cloakpipe",
+    "stars": 34,
+    "updated_at": "2026-07-05T09:59:15Z",
+    "url": "https://github.com/rohansx/cloakpipe"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting notes with an on-device brain \u2014 records, transcribes (whisper.cpp) & reasons over your mee",
+    "id": "murmur-io/murmur",
+    "language": "Rust",
+    "name": "murmur-io/murmur",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:59:12Z",
+    "url": "https://github.com/murmur-io/murmur"
+  },
+  {
+    "description": "RAG trust & regression lab - retrieval recall, grounding, prompt-injection following, and poisoned-doc exposure, compare",
+    "id": "chohyerinn/rag-trust-lab",
+    "language": "Python",
+    "name": "chohyerinn/rag-trust-lab",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:59:05Z",
+    "url": "https://github.com/chohyerinn/rag-trust-lab"
+  },
+  {
+    "description": "Provenance-aware memory spec for AI agents \u2014 SQLite schema + constitution. Similarity can retrieve; only ceremony can pr",
+    "id": "schmerbert/The_Forest",
+    "language": "Python",
+    "name": "schmerbert/The_Forest",
+    "stars": 1,
+    "updated_at": "2026-07-05T09:58:23Z",
+    "url": "https://github.com/schmerbert/The_Forest"
+  },
+  {
+    "description": "Multi-agent AI platform for analyzing GitHub repositories and delivering actionable recommendations to improve documenta",
+    "id": "ak-rahul/DrRepo",
+    "language": "Python",
+    "name": "ak-rahul/DrRepo",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:57:55Z",
+    "url": "https://github.com/ak-rahul/DrRepo"
+  },
+  {
+    "description": "\ud83d\udcca Analyze and enhance GitHub repositories with a multi-agent system that delivers actionable recommendations for improvi",
+    "id": "florentnehyu/rt-aaidc-project2-multiagent",
+    "language": "Python",
+    "name": "florentnehyu/rt-aaidc-project2-multiagent",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:57:00Z",
+    "url": "https://github.com/florentnehyu/rt-aaidc-project2-multiagent"
+  },
+  {
+    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
+    "id": "richardpapiona9/llm",
+    "language": "JavaScript",
+    "name": "richardpapiona9/llm",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:56:44Z",
+    "url": "https://github.com/richardpapiona9/llm"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T09:56:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udcca Streamline query-focused summarization by constructing knowledge graphs and extracting insights from document corpora ",
     "id": "newspapercriticcontribution396/graphrag-query-summarization",
     "language": "Python",
@@ -16,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T09:56:26Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "AI-powered industrial knowledge platform with 5 specialist agents, real OISD & Factories Act documents, knowledge graph,",
-    "id": "Agent-A345/PlantIQ",
-    "language": "HTML",
-    "name": "Agent-A345/PlantIQ",
-    "stars": 1,
-    "updated_at": "2026-07-05T09:56:39Z",
-    "url": "https://github.com/Agent-A345/PlantIQ"
   },
   {
     "description": "\ud83d\udcc4 Implement a RAG pipeline to query PDFs using Hugging Face embeddings, Pinecone storage, and contextual compression for",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "DorLevi694/ai_knowledge_assistant",
     "stars": 0,
-    "updated_at": "2026-07-05T09:56:03Z",
+    "updated_at": "2026-07-05T09:56:48Z",
     "url": "https://github.com/DorLevi694/ai_knowledge_assistant"
   },
   {
@@ -162,15 +270,6 @@
     "url": "https://github.com/Almaskhan123/WeKnora"
   },
   {
-    "description": "MediChat: A Multimodal Clinical Chatbot for Healthcare",
-    "id": "akeeshh/medichat-ai",
-    "language": "Python",
-    "name": "akeeshh/medichat-ai",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:54:28Z",
-    "url": "https://github.com/akeeshh/medichat-ai"
-  },
-  {
     "description": "",
     "id": "Pintaro/mem0",
     "language": "Python",
@@ -203,7 +302,7 @@
     "language": "Python",
     "name": "baakhoff/epicurus",
     "stars": 1,
-    "updated_at": "2026-07-05T09:54:49Z",
+    "updated_at": "2026-07-05T09:58:13Z",
     "url": "https://github.com/baakhoff/epicurus"
   },
   {
@@ -275,7 +374,7 @@
     "language": "C#",
     "name": "kenhayward/Diariz",
     "stars": 1,
-    "updated_at": "2026-07-05T09:51:43Z",
+    "updated_at": "2026-07-05T09:57:23Z",
     "url": "https://github.com/kenhayward/Diariz"
   },
   {
@@ -304,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-07-05T09:50:37Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Provenance-aware memory spec for AI agents \u2014 SQLite schema + constitution. Similarity can retrieve; only ceremony can pr",
-    "id": "schmerbert/The_Forest",
-    "language": "Python",
-    "name": "schmerbert/The_Forest",
-    "stars": 1,
-    "updated_at": "2026-07-05T09:50:18Z",
-    "url": "https://github.com/schmerbert/The_Forest"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T09:48:53Z",
     "url": "https://github.com/kyleejustin/llm-glossary"
-  },
-  {
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
-    "id": "Graphify-Labs/graphify",
-    "language": "Python",
-    "name": "Graphify-Labs/graphify",
-    "stars": 77828,
-    "updated_at": "2026-07-05T09:48:44Z",
-    "url": "https://github.com/Graphify-Labs/graphify"
-  },
-  {
-    "description": "\ud83d\udd0d Build an advanced RAG system for multi-modal search across text, images, audio, and video, enhancing knowledge retriev",
-    "id": "UKiyooooo/multimodal-rag-engine",
-    "language": "\u2014",
-    "name": "UKiyooooo/multimodal-rag-engine",
-    "stars": 2,
-    "updated_at": "2026-07-05T09:48:40Z",
-    "url": "https://github.com/UKiyooooo/multimodal-rag-engine"
-  },
-  {
-    "description": "Awesome LLM observability: a curated list of 48+ tools for LLM tracing, evaluation, monitoring, prompt management, guard",
-    "id": "ContextJet-ai/awesome-llm-observability",
-    "language": "Python",
-    "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:49:30Z",
-    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability.",
-    "id": "ebongard/renfield",
-    "language": "Python",
-    "name": "ebongard/renfield",
-    "stars": 6,
-    "updated_at": "2026-07-05T09:48:15Z",
-    "url": "https://github.com/ebongard/renfield"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "JavaScript",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-07-05T09:48:08Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "Full AI context and content layer for coding agents over one MCP server \u2014 tree-sitter code-map, document RAG, shared mem",
-    "id": "Goldziher/basemind",
-    "language": "Rust",
-    "name": "Goldziher/basemind",
-    "stars": 59,
-    "updated_at": "2026-07-05T09:47:46Z",
-    "url": "https://github.com/Goldziher/basemind"
-  },
-  {
-    "description": "Durable hybrid memory for AI agents: vector + BM25 + temporal + graph recall, exposed through MCP, HTTP, and Python.",
-    "id": "udjin-labs/mnemostack",
-    "language": "Python",
-    "name": "udjin-labs/mnemostack",
-    "stars": 6,
-    "updated_at": "2026-07-05T09:47:40Z",
-    "url": "https://github.com/udjin-labs/mnemostack"
-  },
-  {
-    "description": "\ud83d\udd27 Manage and monitor your homelab infrastructure efficiently with Model Context Protocol (MCP) servers through Claude De",
-    "id": "myraffy/homelab-mcp",
-    "language": "Python",
-    "name": "myraffy/homelab-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:47:34Z",
-    "url": "https://github.com/myraffy/homelab-mcp"
-  },
-  {
-    "description": "\ud83c\udf10 Rethink Multimodal Large Language Models design and scaling under data constraints with NaViL, enhancing efficiency an",
-    "id": "ajgarciaj/NaViL",
-    "language": "\u2014",
-    "name": "ajgarciaj/NaViL",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:47:02Z",
-    "url": "https://github.com/ajgarciaj/NaViL"
-  },
-  {
-    "description": "\ud83e\udd16 Unified primitive conversation history and memory orchestration for the FastJava AI ecosystem",
-    "id": "andrestubbe/FastAIMemory",
-    "language": "Java",
-    "name": "andrestubbe/FastAIMemory",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:46:36Z",
-    "url": "https://github.com/andrestubbe/FastAIMemory"
   }
 ]
