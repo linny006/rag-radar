@@ -1,5 +1,140 @@
 [
   {
+    "description": "Self-hosted AI wiki that organizes itself \u2014 LLM ingest, knowledge graph, cited chat, Obsidian-compatible vault. FastAPI ",
+    "id": "Emanuele-Chiummo/llm-wiki-synapse",
+    "language": "Python",
+    "name": "Emanuele-Chiummo/llm-wiki-synapse",
+    "stars": 0,
+    "updated_at": "2026-07-05T11:34:47Z",
+    "url": "https://github.com/Emanuele-Chiummo/llm-wiki-synapse"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 1,
+    "updated_at": "2026-07-05T11:34:56Z",
+    "url": "https://github.com/Artexis10/exomem"
+  },
+  {
+    "description": "Multi Agent Orchestration System.",
+    "id": "deoprakash/Corelign",
+    "language": "JavaScript",
+    "name": "deoprakash/Corelign",
+    "stars": 1,
+    "updated_at": "2026-07-05T11:33:56Z",
+    "url": "https://github.com/deoprakash/Corelign"
+  },
+  {
+    "description": "Design, exploitation, defense, and governance of an autonomous AI agent aligned with OWASP Agentic Top 10.",
+    "id": "susheel-cybercode/agentic-ai-security-lab",
+    "language": "Python",
+    "name": "susheel-cybercode/agentic-ai-security-lab",
+    "stars": 0,
+    "updated_at": "2026-07-05T11:33:23Z",
+    "url": "https://github.com/susheel-cybercode/agentic-ai-security-lab"
+  },
+  {
+    "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
+    "id": "xr843/fojin",
+    "language": "Python",
+    "name": "xr843/fojin",
+    "stars": 321,
+    "updated_at": "2026-07-05T11:34:10Z",
+    "url": "https://github.com/xr843/fojin"
+  },
+  {
+    "description": "Goink \u684c\u9762 AI \u5c0f\u8bf4\u521b\u4f5c\u52a9\u624b\uff0c\u5bf9\u8bdd\u5f0f\u5199\u4f5c + \u81ea\u52a8\u72b6\u6001\u8ffd\u8e2a + \u672c\u5730\u8bed\u4e49\u641c\u7d22\u3002\u8de8\u5e73\u53f0\u5f00\u7bb1\u5373\u7528\u3002AI Agent Novel Generator.",
+    "id": "sigpanic/goink",
+    "language": "Go",
+    "name": "sigpanic/goink",
+    "stars": 48,
+    "updated_at": "2026-07-05T11:33:08Z",
+    "url": "https://github.com/sigpanic/goink"
+  },
+  {
+    "description": "Embeddable customer-activation agent for small B2B SaaS companies",
+    "id": "alfaarizi/first-run",
+    "language": "Java",
+    "name": "alfaarizi/first-run",
+    "stars": 2,
+    "updated_at": "2026-07-05T11:33:01Z",
+    "url": "https://github.com/alfaarizi/first-run"
+  },
+  {
+    "description": "Open-source agent platform for Global \u00d7 China enterprises \u2014 wire every system through one agent core. Self-hosted, any L",
+    "id": "fim-ai/fim-one",
+    "language": "Python",
+    "name": "fim-ai/fim-one",
+    "stars": 1306,
+    "updated_at": "2026-07-05T11:32:09Z",
+    "url": "https://github.com/fim-ai/fim-one"
+  },
+  {
+    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
+    "id": "klarlabs-studio/mnemos",
+    "language": "Go",
+    "name": "klarlabs-studio/mnemos",
+    "stars": 3,
+    "updated_at": "2026-07-05T11:32:39Z",
+    "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "Agentic LangGraph pipeline that scrapes job boards, LLM-extracts a typed schema, indexes in Qdrant and ranks openings ag",
+    "id": "maarkN/jobradar-ai",
+    "language": "Python",
+    "name": "maarkN/jobradar-ai",
+    "stars": 0,
+    "updated_at": "2026-07-05T11:30:51Z",
+    "url": "https://github.com/maarkN/jobradar-ai"
+  },
+  {
+    "description": " Local MCP code-memory engine for AI agents: structural graph + semantic search, sharded storage, project isolation, and",
+    "id": "lorismascio17/droste-memory",
+    "language": "Python",
+    "name": "lorismascio17/droste-memory",
+    "stars": 3,
+    "updated_at": "2026-07-05T11:30:51Z",
+    "url": "https://github.com/lorismascio17/droste-memory"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3226,
+    "updated_at": "2026-07-05T11:30:35Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-05T11:30:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-05T11:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
+    "id": "The-Geek-Freaks/NEOTH",
+    "language": "Rust",
+    "name": "The-Geek-Freaks/NEOTH",
+    "stars": 1,
+    "updated_at": "2026-07-05T11:30:14Z",
+    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+  },
+  {
     "description": "Read offline novels on Android with a fast, private, and local-first reader designed for large libraries.",
     "id": "Decampmentgauntlet704/nocturne",
     "language": "TypeScript",
@@ -68,7 +203,7 @@
     "language": "Jupyter Notebook",
     "name": "ravan-chuang/Embedding_Compression_for_RAG_Retrieval",
     "stars": 0,
-    "updated_at": "2026-07-05T11:30:05Z",
+    "updated_at": "2026-07-05T11:34:03Z",
     "url": "https://github.com/ravan-chuang/Embedding_Compression_for_RAG_Retrieval"
   },
   {
@@ -167,7 +302,7 @@
     "language": "Python",
     "name": "tomyimkc/sophia-agi",
     "stars": 5,
-    "updated_at": "2026-07-05T11:28:09Z",
+    "updated_at": "2026-07-05T11:31:31Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
@@ -176,7 +311,7 @@
     "language": "Python",
     "name": "sil3d/MATHIR",
     "stars": 2,
-    "updated_at": "2026-07-05T11:27:56Z",
+    "updated_at": "2026-07-05T11:30:44Z",
     "url": "https://github.com/sil3d/MATHIR"
   },
   {
@@ -185,17 +320,8 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18698,
-    "updated_at": "2026-07-05T11:28:30Z",
+    "updated_at": "2026-07-05T11:33:54Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
-    "id": "klarlabs-studio/mnemos",
-    "language": "Go",
-    "name": "klarlabs-studio/mnemos",
-    "stars": 3,
-    "updated_at": "2026-07-05T11:27:19Z",
-    "url": "https://github.com/klarlabs-studio/mnemos"
   },
   {
     "description": "Kuber Map for FIBO \u2014 a curated, learner-first map of the Financial Industry Business Ontology that doubles as audit-read",
@@ -205,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T11:27:18Z",
     "url": "https://github.com/AI-First-Community/kuber-map"
-  },
-  {
-    "description": "Self-hosted AI wiki that organizes itself \u2014 LLM ingest, knowledge graph, cited chat, Obsidian-compatible vault. FastAPI ",
-    "id": "Emanuele-Chiummo/llm-wiki-synapse",
-    "language": "Python",
-    "name": "Emanuele-Chiummo/llm-wiki-synapse",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:27:39Z",
-    "url": "https://github.com/Emanuele-Chiummo/llm-wiki-synapse"
   },
   {
     "description": "Convert DWG files to multi-page PNG images and extract metadata with a pure-Rust engine that requires no external CAD so",
@@ -324,15 +441,6 @@
     "url": "https://github.com/causesubpopulation914/Hello-Agents"
   },
   {
-    "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 321,
-    "updated_at": "2026-07-05T11:28:08Z",
-    "url": "https://github.com/xr843/fojin"
-  },
-  {
     "description": "Reliable memory and context infrastructure for AI coding agents: source-backed facts, review-gated learning, MCP/SDK/UI,",
     "id": "777genius/infinity-context",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T11:24:33Z",
     "url": "https://github.com/777genius/infinity-context"
-  },
-  {
-    "description": "Automate IT helpdesk triage and resolve technical issues locally using RAG, SQLite, and Ollama.",
-    "id": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "language": "Python",
-    "name": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:24:20Z",
-    "url": "https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant"
-  },
-  {
-    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
-    "id": "The-Geek-Freaks/NEOTH",
-    "language": "Rust",
-    "name": "The-Geek-Freaks/NEOTH",
-    "stars": 1,
-    "updated_at": "2026-07-05T11:30:14Z",
-    "url": "https://github.com/The-Geek-Freaks/NEOTH"
-  },
-  {
-    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
-    "id": "tysto1727/ComfyUI-Boogu",
-    "language": "Python",
-    "name": "tysto1727/ComfyUI-Boogu",
-    "stars": 1,
-    "updated_at": "2026-07-05T11:23:49Z",
-    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
-  },
-  {
-    "description": "Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi",
-    "id": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "language": "Batchfile",
-    "name": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:23:37Z",
-    "url": "https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:23:29Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
-    "id": "jee3m/augmentative-knowledge-hooks",
-    "language": "HTML",
-    "name": "jee3m/augmentative-knowledge-hooks",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:23:20Z",
-    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "Local AI Assistant on your phone",
-    "id": "timmyy123/LLM-Hub",
-    "language": "Kotlin",
-    "name": "timmyy123/LLM-Hub",
-    "stars": 482,
-    "updated_at": "2026-07-05T11:23:11Z",
-    "url": "https://github.com/timmyy123/LLM-Hub"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:22:55Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Code intelligence and RAG for AI agents. Semantic search, call graphs, impact analysis, smart context assembly - in sing",
-    "id": "jamie8johnson/cqs",
-    "language": "Rust",
-    "name": "jamie8johnson/cqs",
-    "stars": 12,
-    "updated_at": "2026-07-05T11:22:26Z",
-    "url": "https://github.com/jamie8johnson/cqs"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 1,
-    "updated_at": "2026-07-05T11:22:24Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Pack local repositories into dense semantic maps for Claude Opus 4.8 and Fable 5 to reduce token bloat and improve reaso",
-    "id": "Veronika0306/claude-opus48-context-packer",
-    "language": "\u2014",
-    "name": "Veronika0306/claude-opus48-context-packer",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:22:23Z",
-    "url": "https://github.com/Veronika0306/claude-opus48-context-packer"
-  },
-  {
-    "description": "Delphi-native, MIT-licensed RAG + linter for Delphi/Pascal source code. Symbol-exact + fuzzy + tree-sitter lint. Pure De",
-    "id": "Alexl-git/Delphi-RAG-Lint",
-    "language": "Pascal",
-    "name": "Alexl-git/Delphi-RAG-Lint",
-    "stars": 14,
-    "updated_at": "2026-07-05T11:22:12Z",
-    "url": "https://github.com/Alexl-git/Delphi-RAG-Lint"
   }
 ]
