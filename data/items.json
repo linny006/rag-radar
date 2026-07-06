@@ -1,5 +1,104 @@
 [
   {
+    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
+    "id": "bug-ops/zeph",
+    "language": "Rust",
+    "name": "bug-ops/zeph",
+    "stars": 43,
+    "updated_at": "2026-07-06T09:00:08Z",
+    "url": "https://github.com/bug-ops/zeph"
+  },
+  {
+    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and P",
+    "id": "tale-project/tale",
+    "language": "TypeScript",
+    "name": "tale-project/tale",
+    "stars": 13,
+    "updated_at": "2026-07-06T09:00:05Z",
+    "url": "https://github.com/tale-project/tale"
+  },
+  {
+    "description": "Provide a clear, step-by-step guide to enable Secure Boot with module signature enforcement on Arch Linux using rEFInd a",
+    "id": "purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd",
+    "language": "\u2014",
+    "name": "purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd",
+    "stars": 0,
+    "updated_at": "2026-07-06T09:00:03Z",
+    "url": "https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd"
+  },
+  {
+    "description": "Persistent semantic memory for AI agents \u2014 100% local on Apple Silicon (MLX) or Linux/Ubuntu (CPU). Markdown source of t",
+    "id": "jagoff/memo",
+    "language": "Python",
+    "name": "jagoff/memo",
+    "stars": 2,
+    "updated_at": "2026-07-06T08:59:42Z",
+    "url": "https://github.com/jagoff/memo"
+  },
+  {
+    "description": "Your second brain, starting today. CLI + MCP server that helps you build, maintain, and search a knowledge vault that ge",
+    "id": "raphasouthall/neurostack",
+    "language": "Python",
+    "name": "raphasouthall/neurostack",
+    "stars": 44,
+    "updated_at": "2026-07-06T08:59:35Z",
+    "url": "https://github.com/raphasouthall/neurostack"
+  },
+  {
+    "description": "\u878d\u5408\u5927\u6a21\u578b\u3001RAG\u3001\u672c\u5730\u653b\u7565\u4e0e\u9ad8\u5fb7\u5730\u56fe\u80fd\u529b\u3001\u652f\u6301AI\u804a\u5929\u52a9\u624b\u5b9e\u65f6\u89c4\u5212\u4fee\u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf",
+    "id": "crabin/Trip_Planner",
+    "language": "Python",
+    "name": "crabin/Trip_Planner",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:59:29Z",
+    "url": "https://github.com/crabin/Trip_Planner"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 2,
+    "updated_at": "2026-07-06T08:59:22Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
+    "id": "klarlabs-studio/mnemos",
+    "language": "Go",
+    "name": "klarlabs-studio/mnemos",
+    "stars": 3,
+    "updated_at": "2026-07-06T08:58:59Z",
+    "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "AI meeting summarizer frontend \u2014 React + Vite + Tailwind",
+    "id": "Shashank-018/meeting-ai-frontend",
+    "language": "JavaScript",
+    "name": "Shashank-018/meeting-ai-frontend",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:58:35Z",
+    "url": "https://github.com/Shashank-018/meeting-ai-frontend"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:58:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI meeting summarizer backend \u2014 Spring Boot + Ollama + ChromaDB RAG",
+    "id": "Shashank-018/meeting-ai-backend",
+    "language": "Java",
+    "name": "Shashank-018/meeting-ai-backend",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:58:31Z",
+    "url": "https://github.com/Shashank-018/meeting-ai-backend"
+  },
+  {
     "description": "Living Memory Coordinate-5: five-axis memory architecture for long-running LLM agents. Minimal SQLite + production Postg",
     "id": "wuxuyun0606-collab/lmc-5",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 421,
-    "updated_at": "2026-07-06T08:58:14Z",
+    "updated_at": "2026-07-06T08:58:32Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "tonkonozhenko-mi/ai_private_workspace",
     "stars": 0,
-    "updated_at": "2026-07-06T08:58:10Z",
+    "updated_at": "2026-07-06T08:59:06Z",
     "url": "https://github.com/tonkonozhenko-mi/ai_private_workspace"
   },
   {
@@ -135,15 +234,6 @@
     "url": "https://github.com/404godd/CVE-2026-20841-PoC"
   },
   {
-    "description": "\u878d\u5408\u5927\u6a21\u578b\u3001RAG\u3001\u672c\u5730\u653b\u7565\u4e0e\u9ad8\u5fb7\u5730\u56fe\u80fd\u529b\u3001\u652f\u6301AI\u804a\u5929\u52a9\u624b\u5b9e\u65f6\u89c4\u5212\u4fee\u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf",
-    "id": "crabin/Trip_Planner",
-    "language": "Python",
-    "name": "crabin/Trip_Planner",
-    "stars": 0,
-    "updated_at": "2026-07-06T08:57:08Z",
-    "url": "https://github.com/crabin/Trip_Planner"
-  },
-  {
     "description": "Portfolio-grade AI agent quality, observability, and evaluation platform",
     "id": "vetlucasmartins/agenttrace-studio",
     "language": "Python",
@@ -212,7 +302,7 @@
     "language": "MDX",
     "name": "deepset-ai/haystack",
     "stars": 25836,
-    "updated_at": "2026-07-06T08:56:03Z",
+    "updated_at": "2026-07-06T09:00:05Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -329,7 +419,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 22,
-    "updated_at": "2026-07-06T08:54:43Z",
+    "updated_at": "2026-07-06T08:59:23Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -342,6 +432,15 @@
     "url": "https://github.com/Irsa070501/Advanced-AI-Agents"
   },
   {
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 147864,
+    "updated_at": "2026-07-06T08:59:43Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
     "description": " A collection of hands-on examples and core components for building LLM-powered applications. This repository explores L",
     "id": "Shravan4598/Langchain",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-06T08:54:29Z",
     "url": "https://github.com/Shravan4598/Langchain"
-  },
-  {
-    "description": "Local-first personal AI assistant: runs local LLMs with approval-gated tools and retrieval memory, fully offline \u2014 for c",
-    "id": "PapaKoftes/Layla",
-    "language": "Python",
-    "name": "PapaKoftes/Layla",
-    "stars": 1,
-    "updated_at": "2026-07-06T08:54:27Z",
-    "url": "https://github.com/PapaKoftes/Layla"
-  },
-  {
-    "description": "\ud83d\udd0d Search Epstein court documents for mentions of your LinkedIn connections to uncover relevant insights into your networ",
-    "id": "Papotewii/EpsteIn",
-    "language": "Python",
-    "name": "Papotewii/EpsteIn",
-    "stars": 3,
-    "updated_at": "2026-07-06T08:53:51Z",
-    "url": "https://github.com/Papotewii/EpsteIn"
-  },
-  {
-    "description": "\ud83c\udf10 Build AI agents effortlessly with WrenAI, the open-source GenBI tool that streamlines development and enhances functio",
-    "id": "fvckhack/WrenAI",
-    "language": "TypeScript",
-    "name": "fvckhack/WrenAI",
-    "stars": 1,
-    "updated_at": "2026-07-06T08:53:50Z",
-    "url": "https://github.com/fvckhack/WrenAI"
-  },
-  {
-    "description": "\ud83d\udd2c Chat with research papers using AI, extracting insights and summaries through advanced semantic search and Retrieval-A",
-    "id": "xxxsoekarno-lab/ai-research-copilot",
-    "language": "Python",
-    "name": "xxxsoekarno-lab/ai-research-copilot",
-    "stars": 2,
-    "updated_at": "2026-07-06T08:53:40Z",
-    "url": "https://github.com/xxxsoekarno-lab/ai-research-copilot"
-  },
-  {
-    "description": "Local-first open-source meeting intelligence and project memory tool for transcripts, protocols, decisions, action items",
-    "id": "Anatoliy-Sysoev/MeetingAgent",
-    "language": "Python",
-    "name": "Anatoliy-Sysoev/MeetingAgent",
-    "stars": 1,
-    "updated_at": "2026-07-06T08:53:35Z",
-    "url": "https://github.com/Anatoliy-Sysoev/MeetingAgent"
-  },
-  {
-    "description": "\ud83d\udc57 Deliver personalized outfit suggestions using AI, enhancing your wardrobe choices with tailored fashion recommendation",
-    "id": "kaletek/AI-Fashion-Recommendation-System",
-    "language": "\u2014",
-    "name": "kaletek/AI-Fashion-Recommendation-System",
-    "stars": 0,
-    "updated_at": "2026-07-06T08:53:29Z",
-    "url": "https://github.com/kaletek/AI-Fashion-Recommendation-System"
-  },
-  {
-    "description": "\ud83d\udcbb Build and manage projects efficiently with the OpenCode Web UI CLI, featuring a chat interface, file previews, and mod",
-    "id": "cozuXI/opencode_webui_cli",
-    "language": "TypeScript",
-    "name": "cozuXI/opencode_webui_cli",
-    "stars": 6,
-    "updated_at": "2026-07-06T08:53:25Z",
-    "url": "https://github.com/cozuXI/opencode_webui_cli"
-  },
-  {
-    "description": "\ud83e\udd16 Build and manage a production-grade agent infrastructure stack using TypeScript, Node.js, and Terraform for seamless d",
-    "id": "gentry-king/agent-infrastructure-stack",
-    "language": "TypeScript",
-    "name": "gentry-king/agent-infrastructure-stack",
-    "stars": 1,
-    "updated_at": "2026-07-06T08:53:20Z",
-    "url": "https://github.com/gentry-king/agent-infrastructure-stack"
-  },
-  {
-    "description": "\ud83d\ude80 Enable true multi-GPU processing in ComfyUI with independent model replicas for efficient, simultaneous batch executio",
-    "id": "zubayer1216/ComfyUI-ParallelAnything",
-    "language": "Python",
-    "name": "zubayer1216/ComfyUI-ParallelAnything",
-    "stars": 1,
-    "updated_at": "2026-07-06T08:53:13Z",
-    "url": "https://github.com/zubayer1216/ComfyUI-ParallelAnything"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Explore LLM-driven chip design automation and hardware security with curated insights on intelligent EDA and lifecycl",
-    "id": "anieqh/awesome-llm-chip-design-security",
-    "language": "JavaScript",
-    "name": "anieqh/awesome-llm-chip-design-security",
-    "stars": 0,
-    "updated_at": "2026-07-06T08:52:56Z",
-    "url": "https://github.com/anieqh/awesome-llm-chip-design-security"
-  },
-  {
-    "description": "\ud83d\udcca Analyze WeChat group chat logs, generate AI-powered reports, and create visual summaries for easy sharing on mobile de",
-    "id": "leonense22/wechat-daily-report-skill",
-    "language": "HTML",
-    "name": "leonense22/wechat-daily-report-skill",
-    "stars": 2,
-    "updated_at": "2026-07-06T08:52:35Z",
-    "url": "https://github.com/leonense22/wechat-daily-report-skill"
   }
 ]
