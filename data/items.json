@@ -1,5 +1,77 @@
 [
   {
+    "description": "Knowledge Stack developer docs (Mintlify). Guides, concept docs, API reference, and auto-synced SDK docs from ks-sdk-pyt",
+    "id": "knowledgestack/ks-docs",
+    "language": "MDX",
+    "name": "knowledgestack/ks-docs",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:31:03Z",
+    "url": "https://github.com/knowledgestack/ks-docs"
+  },
+  {
+    "description": "Docker image for a self-hosted Docling document parsing server. Converts PDF, DOCX, PPTX, HTML, and more to Markdown/JSO",
+    "id": "hwdsl2/docker-docling",
+    "language": "Shell",
+    "name": "hwdsl2/docker-docling",
+    "stars": 5,
+    "updated_at": "2026-07-07T04:31:03Z",
+    "url": "https://github.com/hwdsl2/docker-docling"
+  },
+  {
+    "description": "Local-first Agentic AI Infrastructure Platform with LLM Gateway, Agent DAG Runtime, MCP Tool Hub, A2A Agent Mesh, Local ",
+    "id": "leizd/DeepSeek-Infra",
+    "language": "Python",
+    "name": "leizd/DeepSeek-Infra",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:31:01Z",
+    "url": "https://github.com/leizd/DeepSeek-Infra"
+  },
+  {
+    "description": "Knowledge Stack TypeScript/JavaScript SDK (@knowledge-stack/ksapi) \u2014 auto-generated from the OpenAPI spec. For most agen",
+    "id": "knowledgestack/ks-sdk-ts",
+    "language": "TypeScript",
+    "name": "knowledgestack/ks-sdk-ts",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:30:46Z",
+    "url": "https://github.com/knowledgestack/ks-sdk-ts"
+  },
+  {
+    "description": "Knowledge Stack Python SDK (ksapi) \u2014 auto-generated from the OpenAPI spec. For most agent use cases, use the MCP server ",
+    "id": "knowledgestack/ks-sdk-python",
+    "language": "Python",
+    "name": "knowledgestack/ks-sdk-python",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:30:44Z",
+    "url": "https://github.com/knowledgestack/ks-sdk-python"
+  },
+  {
+    "description": "Private hybrid search over your files, fully offline, 70+ languages. An MCP retrieval backend for AI agents.",
+    "id": "eliasjustus/justsearch",
+    "language": "Java",
+    "name": "eliasjustus/justsearch",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:30:32Z",
+    "url": "https://github.com/eliasjustus/justsearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:30:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-07T04:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Stop hallucinations by verifying citations.",
     "id": "DeepCitation/deepcitation",
     "language": "TypeScript",
@@ -81,15 +153,6 @@
     "url": "https://github.com/rag-fish/noesisnoema-pipeline"
   },
   {
-    "description": "Local-first Agentic AI Infrastructure Platform with LLM Gateway, Agent DAG Runtime, MCP Tool Hub, A2A Agent Mesh, Local ",
-    "id": "leizd/DeepSeek-Infra",
-    "language": "Python",
-    "name": "leizd/DeepSeek-Infra",
-    "stars": 1,
-    "updated_at": "2026-07-07T04:27:30Z",
-    "url": "https://github.com/leizd/DeepSeek-Infra"
-  },
-  {
     "description": "MOOTx01 Community Edition",
     "id": "codedaptive/mootx01-ce",
     "language": "Swift",
@@ -133,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-07-07T04:25:32Z",
     "url": "https://github.com/Teycir/AgentSec"
+  },
+  {
+    "description": "AI business solution delivery console with capability routing, pain-point analysis, tool selection, deliverable generati",
+    "id": "kivisylvie-lab/taskos-console",
+    "language": "TypeScript",
+    "name": "kivisylvie-lab/taskos-console",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:25:23Z",
+    "url": "https://github.com/kivisylvie-lab/taskos-console"
   },
   {
     "description": "Unified Python starter for AI projects: classical ML, deep learning, LLM apps, RAG, and agents. uv + Ruff + pytest.",
@@ -279,24 +351,6 @@
     "url": "https://github.com/leesharks000/spxi-protocol"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-07T04:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-07T04:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Building TITAN \u2014 the open-source AI operating system for trusted autonomous work: agents, tools, memory, approvals, rece",
     "id": "Djtony707/TITAN",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T04:08:11Z",
     "url": "https://github.com/laurykb/AI_for_geopolitics"
-  },
-  {
-    "description": "AI document compiler \u2014 converts 118 file types to token-efficient Markdown with per-document readiness scoring for LLM w",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 1,
-    "updated_at": "2026-07-07T04:16:38Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 788,
-    "updated_at": "2026-07-07T04:28:29Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chain",
-    "id": "zeweihan/aiworkdeck",
-    "language": "Java",
-    "name": "zeweihan/aiworkdeck",
-    "stars": 56,
-    "updated_at": "2026-07-07T04:07:19Z",
-    "url": "https://github.com/zeweihan/aiworkdeck"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-07-07T04:06:22Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "RAG systems with hybrid search (BM25 + semantic), HyDE, MMR, and Redis semantic caching. Built with Weaviate, Gemini & O",
-    "id": "ajayp/rag-systems",
-    "language": "TypeScript",
-    "name": "ajayp/rag-systems",
-    "stars": 1,
-    "updated_at": "2026-07-07T04:06:14Z",
-    "url": "https://github.com/ajayp/rag-systems"
-  },
-  {
-    "description": "RAG Evaluation & Visualization",
-    "id": "mameen/EvalRag",
-    "language": "Python",
-    "name": "mameen/EvalRag",
-    "stars": 1,
-    "updated_at": "2026-07-07T04:05:57Z",
-    "url": "https://github.com/mameen/EvalRag"
   }
 ]
