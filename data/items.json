@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "Yigtwxx/Yigtwxx",
+    "language": "\u2014",
+    "name": "Yigtwxx/Yigtwxx",
+    "stars": 2,
+    "updated_at": "2026-07-07T13:32:16Z",
+    "url": "https://github.com/Yigtwxx/Yigtwxx"
+  },
+  {
+    "description": "\ud83d\udcca Transform UN WebTV sessions into structured insights with AI-driven transcription, entity extraction, and interactive ",
+    "id": "koradripless624/un-webcast-analyzer",
+    "language": "Python",
+    "name": "koradripless624/un-webcast-analyzer",
+    "stars": 2,
+    "updated_at": "2026-07-07T13:31:15Z",
+    "url": "https://github.com/koradripless624/un-webcast-analyzer"
+  },
+  {
+    "description": "Lightweight self-hosted knowledge base for working with postgres, pgvector, and semantic search within documents.",
+    "id": "HiAi-gg/hiai-docs",
+    "language": "TypeScript",
+    "name": "HiAi-gg/hiai-docs",
+    "stars": 5,
+    "updated_at": "2026-07-07T13:31:12Z",
+    "url": "https://github.com/HiAi-gg/hiai-docs"
+  },
+  {
+    "description": "My personal resume site: experience, projects, and contact info.",
+    "id": "Technical-1/All-About-Me",
+    "language": "TypeScript",
+    "name": "Technical-1/All-About-Me",
+    "stars": 2,
+    "updated_at": "2026-07-07T13:31:05Z",
+    "url": "https://github.com/Technical-1/All-About-Me"
+  },
+  {
+    "description": "Christian AI Chatbots with Biblical Wisdom. Transform your ministry or business website into an intelligent AI assistant",
+    "id": "raimonvibe/chatbot-java-spring-ai",
+    "language": "Java",
+    "name": "raimonvibe/chatbot-java-spring-ai",
+    "stars": 0,
+    "updated_at": "2026-07-07T13:30:39Z",
+    "url": "https://github.com/raimonvibe/chatbot-java-spring-ai"
+  },
+  {
+    "description": "\u901a\u7528\u5973\u4ec6\u673a\u5668\u4eba\u672c\u5730\u7248 Rust \u670d\u52a1",
+    "id": "kuliantnt/qq-maid-bot",
+    "language": "Rust",
+    "name": "kuliantnt/qq-maid-bot",
+    "stars": 51,
+    "updated_at": "2026-07-07T13:30:35Z",
+    "url": "https://github.com/kuliantnt/qq-maid-bot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-07T13:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A system and benchmark for detecting temporal regulatory drift in legacy COBOL banking code \u2014 where the code no longer m",
+    "id": "skittlegit/cobol",
+    "language": "Python",
+    "name": "skittlegit/cobol",
+    "stars": 2,
+    "updated_at": "2026-07-07T13:30:25Z",
+    "url": "https://github.com/skittlegit/cobol"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-07T13:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open source, automated memory layer that builds as you work.",
     "id": "koed-labs/koed",
     "language": "TypeScript",
@@ -9,13 +90,13 @@
     "url": "https://github.com/koed-labs/koed"
   },
   {
-    "description": "",
-    "id": "Yigtwxx/Yigtwxx",
-    "language": "\u2014",
-    "name": "Yigtwxx/Yigtwxx",
-    "stars": 2,
-    "updated_at": "2026-07-07T13:30:13Z",
-    "url": "https://github.com/Yigtwxx/Yigtwxx"
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-07-07T13:29:46Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
     "description": "Open-source adversarial simulation and evaluation harness for conversational AI agents.",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "chokonaira/reddial",
     "stars": 5,
-    "updated_at": "2026-07-07T13:29:14Z",
+    "updated_at": "2026-07-07T13:31:44Z",
     "url": "https://github.com/chokonaira/reddial"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "albidev/bdh-graph-harness",
     "stars": 2,
-    "updated_at": "2026-07-07T13:28:54Z",
+    "updated_at": "2026-07-07T13:32:01Z",
     "url": "https://github.com/albidev/bdh-graph-harness"
   },
   {
@@ -59,7 +140,7 @@
     "language": "JavaScript",
     "name": "stuinfla/ruvnet-brain",
     "stars": 9,
-    "updated_at": "2026-07-07T13:28:10Z",
+    "updated_at": "2026-07-07T13:32:02Z",
     "url": "https://github.com/stuinfla/ruvnet-brain"
   },
   {
@@ -68,7 +149,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 148041,
-    "updated_at": "2026-07-07T13:28:08Z",
+    "updated_at": "2026-07-07T13:32:19Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -216,15 +297,6 @@
     "url": "https://github.com/dalgona039/TreeRAG"
   },
   {
-    "description": "A system and benchmark for detecting temporal regulatory drift in legacy COBOL banking code \u2014 where the code no longer m",
-    "id": "skittlegit/cobol",
-    "language": "Python",
-    "name": "skittlegit/cobol",
-    "stars": 2,
-    "updated_at": "2026-07-07T13:25:45Z",
-    "url": "https://github.com/skittlegit/cobol"
-  },
-  {
     "description": "\ud83e\udd16 Enhance your research with SurfSense, a customizable AI agent that connects to multiple platforms for smarter, effecti",
     "id": "Saritaa2710/SurfSense",
     "language": "Python",
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 2,
-    "updated_at": "2026-07-07T13:22:56Z",
+    "updated_at": "2026-07-07T13:30:46Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 274,
     "updated_at": "2026-07-07T13:20:45Z",
     "url": "https://github.com/caura-ai/caura-memclaw"
-  },
-  {
-    "description": "\u5168\u81ea\u52a8 AI \u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u5f15\u64ce\uff1a\u52a8\u6001\u4e16\u754c\u63a8\u6f14 \u00b7 \u591a\u667a\u80fd\u4f53\u957f\u5faa\u73af \u00b7 \u672c\u5730 RAG | Autonomous novel engine: world simulation, multi-agent loop, one prompt \u2192 a ",
-    "id": "Xiaoyangy/novel-studio",
-    "language": "Go",
-    "name": "Xiaoyangy/novel-studio",
-    "stars": 5,
-    "updated_at": "2026-07-07T13:20:32Z",
-    "url": "https://github.com/Xiaoyangy/novel-studio"
-  },
-  {
-    "description": "Multi-workspace RAG assistant with tool calling \u2014 strict per-workspace isolation in a single shared pgvector store, cita",
-    "id": "goswamiSiddharth/workspace-rag-assistant",
-    "language": "Python",
-    "name": "goswamiSiddharth/workspace-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-07T13:20:25Z",
-    "url": "https://github.com/goswamiSiddharth/workspace-rag-assistant"
-  },
-  {
-    "description": "AI-native markdown knowledge base with semantic search, RAG, and MCP server",
-    "id": "apresai/2ndbrain",
-    "language": "Go",
-    "name": "apresai/2ndbrain",
-    "stars": 2,
-    "updated_at": "2026-07-07T13:20:24Z",
-    "url": "https://github.com/apresai/2ndbrain"
-  },
-  {
-    "description": "Streamlit app that matches startups to programs/mentors using a hybrid rule-based + semantic scoring engine, with LLM-ge",
-    "id": "Zeyd-dev/the_dot",
-    "language": "Python",
-    "name": "Zeyd-dev/the_dot",
-    "stars": 0,
-    "updated_at": "2026-07-07T13:20:08Z",
-    "url": "https://github.com/Zeyd-dev/the_dot"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Explore GPT-2 with llm.c, a lightweight C implementation that simplifies AI concepts for beginners, guiding you throu",
-    "id": "LoupFireYT/llm.c",
-    "language": "TeX",
-    "name": "LoupFireYT/llm.c",
-    "stars": 1,
-    "updated_at": "2026-07-07T13:19:41Z",
-    "url": "https://github.com/LoupFireYT/llm.c"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "Python",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 8,
-    "updated_at": "2026-07-07T13:19:17Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "\ud83d\ude80 Explore GraphRAG by building customized retrievers and agents using Neo4j for advanced semantic and hybrid search solu",
-    "id": "JessEnterprise/graphRAG-retrievers-agents",
-    "language": "Jupyter Notebook",
-    "name": "JessEnterprise/graphRAG-retrievers-agents",
-    "stars": 1,
-    "updated_at": "2026-07-07T13:18:31Z",
-    "url": "https://github.com/JessEnterprise/graphRAG-retrievers-agents"
-  },
-  {
-    "description": "FastGPT plugin system. Provide model presets, system tools and other extended functions for FastGPT.",
-    "id": "labring/fastgpt-plugin",
-    "language": "TypeScript",
-    "name": "labring/fastgpt-plugin",
-    "stars": 40,
-    "updated_at": "2026-07-07T13:18:22Z",
-    "url": "https://github.com/labring/fastgpt-plugin"
   }
 ]
