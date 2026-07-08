@@ -1,12 +1,75 @@
 [
   {
+    "description": "An open-source AI Operating System for intelligent agents, workflows, memory, plugins, automation, and autonomous AI eco",
+    "id": "Pitikha/TangkuAgentOS",
+    "language": "Python",
+    "name": "Pitikha/TangkuAgentOS",
+    "stars": 2,
+    "updated_at": "2026-07-08T03:45:03Z",
+    "url": "https://github.com/Pitikha/TangkuAgentOS"
+  },
+  {
     "description": "",
     "id": "Chandrasekhar-186/aiml-journey",
     "language": "Python",
     "name": "Chandrasekhar-186/aiml-journey",
     "stars": 1,
-    "updated_at": "2026-07-08T03:42:55Z",
+    "updated_at": "2026-07-08T03:44:45Z",
     "url": "https://github.com/Chandrasekhar-186/aiml-journey"
+  },
+  {
+    "description": "SPXI Protocol (Semantic Packet for eXchange & Indexing) \u2014 technical specification for entity-definition objects in AI-me",
+    "id": "leesharks000/spxi-protocol",
+    "language": "Python",
+    "name": "leesharks000/spxi-protocol",
+    "stars": 0,
+    "updated_at": "2026-07-08T03:44:45Z",
+    "url": "https://github.com/leesharks000/spxi-protocol"
+  },
+  {
+    "description": "\ud83d\udc19 AI Agent Pipeline routes queries by intent to docs, weather, or chat, with LangGraph, ChromaDB, and LangSmith for modu",
+    "id": "salems-3Dpov/ai-agent-pipeline",
+    "language": "Python",
+    "name": "salems-3Dpov/ai-agent-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:44:22Z",
+    "url": "https://github.com/salems-3Dpov/ai-agent-pipeline"
+  },
+  {
+    "description": "ezdata \u662f\u4e00\u4e2a AI \u539f\u751f\u7684\u6570\u636e\u5e73\u53f0:\u7edf\u4e00\u63a5\u5165\u5f02\u6784\u6570\u636e\u6e90,\u505a ETL \u96c6\u6210\u4e0e\u4efb\u52a1\u7f16\u6392,\u6c89\u6dc0\u6570\u636e\u6e90\u4e13\u5c5e\u77e5\u8bc6\u5e93(RAG),\u5e76\u628a\u77e5\u8bc6\u5582\u7ed9 AI \u53d6\u6570/\u5206\u6790",
+    "id": "xuwei95/ezdata",
+    "language": "Python",
+    "name": "xuwei95/ezdata",
+    "stars": 289,
+    "updated_at": "2026-07-08T03:44:06Z",
+    "url": "https://github.com/xuwei95/ezdata"
+  },
+  {
+    "description": "\ud83d\udc19 FastAPI Journal Automation uses Gemini and Groq LLaMA to auto-create and enrich journal articles via CORE API, with Py",
+    "id": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
+    "language": "Python",
+    "name": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
+    "stars": 1,
+    "updated_at": "2026-07-08T03:43:58Z",
+    "url": "https://github.com/aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System"
+  },
+  {
+    "description": "Comprehensive guide to FastAPI, Pydantic, and SQLAlchemy for AI engineers. Learn API design, validation, and ORM workflo",
+    "id": "Fahadfk/AI_deployment",
+    "language": "\u2014",
+    "name": "Fahadfk/AI_deployment",
+    "stars": 2,
+    "updated_at": "2026-07-08T03:43:10Z",
+    "url": "https://github.com/Fahadfk/AI_deployment"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-08T03:43:04Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Build a robust, production-ready RAG system with effective data preparation, anonymization, and LLM integration. Explore",
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "the-open-agent/openagent",
     "stars": 5359,
-    "updated_at": "2026-07-08T03:39:12Z",
+    "updated_at": "2026-07-08T03:45:06Z",
     "url": "https://github.com/the-open-agent/openagent"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Zig",
     "name": "antflydb/antfly",
     "stars": 403,
-    "updated_at": "2026-07-08T03:39:06Z",
+    "updated_at": "2026-07-08T03:43:53Z",
     "url": "https://github.com/antflydb/antfly"
   },
   {
@@ -207,6 +270,15 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 148100,
+    "updated_at": "2026-07-08T03:36:14Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
     "description": "Split blocks any text for LLM or RAG or Agent.  - text, semantics, token, markdown, code language, custom, etc.",
     "id": "anyforge/anychunker",
     "language": "Python",
@@ -241,15 +313,6 @@
     "stars": 144,
     "updated_at": "2026-07-08T03:35:22Z",
     "url": "https://github.com/infinilabs/coco-server"
-  },
-  {
-    "description": "An open-source AI Operating System for intelligent agents, workflows, memory, plugins, automation, and autonomous AI eco",
-    "id": "Pitikha/TangkuAgentOS",
-    "language": "Python",
-    "name": "Pitikha/TangkuAgentOS",
-    "stars": 2,
-    "updated_at": "2026-07-08T03:35:14Z",
-    "url": "https://github.com/Pitikha/TangkuAgentOS"
   },
   {
     "description": "\u9762\u5411\u804c\u4e1a\u9662\u6821\u7684 AI-Native \u77e5\u8bc6\u57fa\u5ea7\uff0cRAG + \u5c42\u7ea7\u77e5\u8bc6\u56fe\u8c31 +ES\u5168\u6587\u7d22\u5f15",
@@ -288,15 +351,6 @@
     "url": "https://github.com/xiy62/intelligent-trip-planner"
   },
   {
-    "description": "Production-ready platform for agentic workflow development.",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 148099,
-    "updated_at": "2026-07-08T03:36:14Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
     "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
     "id": "agentscope-ai/ReMe",
     "language": "Python",
@@ -331,15 +385,6 @@
     "stars": 5,
     "updated_at": "2026-07-08T03:40:55Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-08T03:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-08T03:27:09Z",
     "url": "https://github.com/amjad-hanini/Macro-Sentiment-Agentic-Pipeline"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 84546,
-    "updated_at": "2026-07-08T03:24:40Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Hunt down vector search problems in RAG/LLM systems. Diagnose why retrieval fails \u2014 embedding quality, vector search, BM",
-    "id": "Mullassery/Pyvectorhound",
-    "language": "Python",
-    "name": "Mullassery/Pyvectorhound",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:24:38Z",
-    "url": "https://github.com/Mullassery/Pyvectorhound"
-  },
-  {
-    "description": "AI-powered experiment memory layer. Semantic search + pre-flight risk analysis over a corpus of past product experiments",
-    "id": "ps-cmd777/postmark",
-    "language": "TypeScript",
-    "name": "ps-cmd777/postmark",
-    "stars": 0,
-    "updated_at": "2026-07-08T03:24:36Z",
-    "url": "https://github.com/ps-cmd777/postmark"
-  },
-  {
-    "description": "AI-powered deal analysis and investment memo generation for institutional credit investing",
-    "id": "JoshKappler/memo-engine",
-    "language": "TypeScript",
-    "name": "JoshKappler/memo-engine",
-    "stars": 1,
-    "updated_at": "2026-07-08T03:23:57Z",
-    "url": "https://github.com/JoshKappler/memo-engine"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18712,
-    "updated_at": "2026-07-08T03:25:21Z",
-    "url": "https://github.com/elizaOS/eliza"
   }
 ]
