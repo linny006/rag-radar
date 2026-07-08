@@ -1,11 +1,74 @@
 [
   {
+    "description": "Rust C++ , Ratatui RAG SQLite TUI",
+    "id": "kuc-arc-f/rust_tui_rag_4",
+    "language": "C++",
+    "name": "kuc-arc-f/rust_tui_rag_4",
+    "stars": 1,
+    "updated_at": "2026-07-08T22:44:29Z",
+    "url": "https://github.com/kuc-arc-f/rust_tui_rag_4"
+  },
+  {
+    "description": "SQLite for vectors \u2014 an embedded vector database. One binary, one file, zero config. Runs anywhere.",
+    "id": "Mengxun326/embeddb",
+    "language": "Rust",
+    "name": "Mengxun326/embeddb",
+    "stars": 1,
+    "updated_at": "2026-07-08T22:44:00Z",
+    "url": "https://github.com/Mengxun326/embeddb"
+  },
+  {
+    "description": "Privacy-first local LLM chat app with RAG memory, AI agents, multi-model orchestration, WhatsApp integration & E2E-encry",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 2,
+    "updated_at": "2026-07-08T22:43:56Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T22:43:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MOOTx01 Community Edition",
+    "id": "codedaptive/mootx01-ce",
+    "language": "Swift",
+    "name": "codedaptive/mootx01-ce",
+    "stars": 1,
+    "updated_at": "2026-07-08T22:43:09Z",
+    "url": "https://github.com/codedaptive/mootx01-ce"
+  },
+  {
+    "description": "A traceable agentic RAG system that connects business questions to documents, PostgreSQL data, MCP tools, and auditable ",
+    "id": "signal-layer-labs/signal-layer-agentic-rag-workbench",
+    "language": "Python",
+    "name": "signal-layer-labs/signal-layer-agentic-rag-workbench",
+    "stars": 0,
+    "updated_at": "2026-07-08T22:43:09Z",
+    "url": "https://github.com/signal-layer-labs/signal-layer-agentic-rag-workbench"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T22:42:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Markdown-first AI forensic investigation wiki that compiles raw evidence into evolving hypotheses, contradictions, repor",
     "id": "abs768/forensic-llm-wiki-obsidian",
     "language": "Python",
     "name": "abs768/forensic-llm-wiki-obsidian",
     "stars": 0,
-    "updated_at": "2026-07-08T22:42:37Z",
+    "updated_at": "2026-07-08T22:44:08Z",
     "url": "https://github.com/abs768/forensic-llm-wiki-obsidian"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T22:41:45Z",
     "url": "https://github.com/gary23w/nl-rag"
-  },
-  {
-    "description": "SQLite for vectors \u2014 an embedded vector database. One binary, one file, zero config. Runs anywhere.",
-    "id": "Mengxun326/embeddb",
-    "language": "Rust",
-    "name": "Mengxun326/embeddb",
-    "stars": 1,
-    "updated_at": "2026-07-08T22:41:29Z",
-    "url": "https://github.com/Mengxun326/embeddb"
   },
   {
     "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T22:33:24Z",
     "url": "https://github.com/Vinod2515/FinSight-AI-550"
-  },
-  {
-    "description": "\ud83c\udf3f Production-grade Go framework for conversational AI agents \u2014 LLM abstraction, RAG, memory, WhatsApp, scheduling & obse",
-    "id": "wmulabs/eywa",
-    "language": "Go",
-    "name": "wmulabs/eywa",
-    "stars": 7,
-    "updated_at": "2026-07-08T22:33:39Z",
-    "url": "https://github.com/wmulabs/eywa"
-  },
-  {
-    "description": "WikiMind: An end-to-end Hybrid RAG pipeline featuring multi-modal retrieval (vectored dense - sparse search, and vectorl",
-    "id": "JayacharanR/WikiMind-End-to-End-Hybrid-RAG-Pipeline",
-    "language": "Python",
-    "name": "JayacharanR/WikiMind-End-to-End-Hybrid-RAG-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-08T22:33:18Z",
-    "url": "https://github.com/JayacharanR/WikiMind-End-to-End-Hybrid-RAG-Pipeline"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-07-08T22:33:13Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-07-08T22:33:06Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Run an AI assistant locally on your hardware with scripts for Ollama, Open WebUI, and Telegram, optimized for networks a",
-    "id": "Splitpeamidline260/local-ai-assistant",
-    "language": "\u2014",
-    "name": "Splitpeamidline260/local-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-08T22:32:46Z",
-    "url": "https://github.com/Splitpeamidline260/local-ai-assistant"
-  },
-  {
-    "description": "Manage enterprise AI agents, models, prompts, and knowledge bases with this self-hosted platform for governance, workflo",
-    "id": "Lifefoo3142/aiaget-platform",
-    "language": "\u2014",
-    "name": "Lifefoo3142/aiaget-platform",
-    "stars": 0,
-    "updated_at": "2026-07-08T22:32:34Z",
-    "url": "https://github.com/Lifefoo3142/aiaget-platform"
   }
 ]
