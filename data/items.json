@@ -1,5 +1,113 @@
 [
   {
+    "description": "Generate hands-on, accurate HOWTO guides for the Reltio platform \u2014 powered by Claude Code and grounded in official Relti",
+    "id": "reltio-ai/reltio-ai-ready-howtos",
+    "language": "HTML",
+    "name": "reltio-ai/reltio-ai-ready-howtos",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:14:38Z",
+    "url": "https://github.com/reltio-ai/reltio-ai-ready-howtos"
+  },
+  {
+    "description": "Auto-ingest Bluedot meeting transcripts into Cloudflare D1 + Vectorize, route action items into a Notion Followups inbox",
+    "id": "jchu96/aftercall",
+    "language": "TypeScript",
+    "name": "jchu96/aftercall",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:13:08Z",
+    "url": "https://github.com/jchu96/aftercall"
+  },
+  {
+    "description": "Local-first, eval-first memory for long-horizon AI agents \u2014 no LLM at ingest. Python SDK + MCP server with source-tracea",
+    "id": "vornicx/Midas",
+    "language": "Python",
+    "name": "vornicx/Midas",
+    "stars": 12,
+    "updated_at": "2026-07-08T20:12:18Z",
+    "url": "https://github.com/vornicx/Midas"
+  },
+  {
+    "description": "Route dev tasks through tool \u2192 python \u2192 ollama \u2192 RAG before escalating to Cursor",
+    "id": "svasenkov/greedy-token",
+    "language": "Python",
+    "name": "svasenkov/greedy-token",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:13:42Z",
+    "url": "https://github.com/svasenkov/greedy-token"
+  },
+  {
+    "description": "Type-safe LLM vulnerability triage on Pydantic AI + MCP. Ten typed tools (NVD, OSV, KEV, EPSS, Exploit-DB, ATT&CK, SBOM,",
+    "id": "Shurtug4l/sec-recon-agent",
+    "language": "Python",
+    "name": "Shurtug4l/sec-recon-agent",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:11:29Z",
+    "url": "https://github.com/Shurtug4l/sec-recon-agent"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 57847,
+    "updated_at": "2026-07-08T20:11:22Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:11:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & edit",
+    "id": "yfedoseev/pdf_oxide",
+    "language": "Rust",
+    "name": "yfedoseev/pdf_oxide",
+    "stars": 883,
+    "updated_at": "2026-07-08T20:14:13Z",
+    "url": "https://github.com/yfedoseev/pdf_oxide"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 2,
+    "updated_at": "2026-07-08T20:10:39Z",
+    "url": "https://github.com/Artexis10/exomem"
+  },
+  {
+    "description": "Deterministic AI agent orchestration \u2014 comment via Discussions & Issues; code changes by maintainers only.",
+    "id": "insightitsGit/ChorusGraph",
+    "language": "Python",
+    "name": "insightitsGit/ChorusGraph",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:10:39Z",
+    "url": "https://github.com/insightitsGit/ChorusGraph"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:10:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "srdasdev/Agentic-RAG",
+    "language": "Python",
+    "name": "srdasdev/Agentic-RAG",
+    "stars": 1,
+    "updated_at": "2026-07-08T20:09:52Z",
+    "url": "https://github.com/srdasdev/Agentic-RAG"
+  },
+  {
     "description": "Sourcio \u2014 an AI tutor that answers only from your own courses: always cited, never invented.",
     "id": "mathisdelsart/sourcio",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "FaultMaven/faultmaven",
     "stars": 1,
-    "updated_at": "2026-07-08T20:08:19Z",
+    "updated_at": "2026-07-08T20:10:26Z",
     "url": "https://github.com/FaultMaven/faultmaven"
   },
   {
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "codecentric/c4-genai-suite",
     "stars": 171,
-    "updated_at": "2026-07-08T20:07:59Z",
+    "updated_at": "2026-07-08T20:10:23Z",
     "url": "https://github.com/codecentric/c4-genai-suite"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-08T20:07:57Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Route dev tasks through tool \u2192 python \u2192 ollama \u2192 RAG before escalating to Cursor",
-    "id": "svasenkov/greedy-token",
-    "language": "Python",
-    "name": "svasenkov/greedy-token",
-    "stars": 0,
-    "updated_at": "2026-07-08T20:09:08Z",
-    "url": "https://github.com/svasenkov/greedy-token"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 57846,
-    "updated_at": "2026-07-08T20:07:05Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -140,7 +230,7 @@
     "language": "TypeScript",
     "name": "inite-ai/inite-brain-service",
     "stars": 24,
-    "updated_at": "2026-07-08T20:03:24Z",
+    "updated_at": "2026-07-08T20:10:54Z",
     "url": "https://github.com/inite-ai/inite-brain-service"
   },
   {
@@ -175,7 +265,7 @@
     "id": "opendataloader-project/opendataloader-pdf",
     "language": "Java",
     "name": "opendataloader-project/opendataloader-pdf",
-    "stars": 26568,
+    "stars": 26570,
     "updated_at": "2026-07-08T20:02:21Z",
     "url": "https://github.com/opendataloader-project/opendataloader-pdf"
   },
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "jrhahn/ai-trainer",
     "stars": 0,
-    "updated_at": "2026-07-08T20:01:05Z",
+    "updated_at": "2026-07-08T20:13:31Z",
     "url": "https://github.com/jrhahn/ai-trainer"
   },
   {
@@ -225,15 +315,6 @@
     "url": "https://github.com/udjin-labs/mnemostack"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 0,
-    "updated_at": "2026-07-08T20:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
     "id": "apod-1/ZoltarFinancial",
     "language": "Python",
@@ -241,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-07-08T20:00:25Z",
     "url": "https://github.com/apod-1/ZoltarFinancial"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 1,
-    "updated_at": "2026-07-08T20:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The agent engineering platform.",
@@ -284,17 +356,8 @@
     "language": "TypeScript",
     "name": "atishay-kasliwal/atriveo-app",
     "stars": 0,
-    "updated_at": "2026-07-08T19:57:24Z",
+    "updated_at": "2026-07-08T20:15:05Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "",
-    "id": "srdasdev/Agentic-RAG",
-    "language": "Python",
-    "name": "srdasdev/Agentic-RAG",
-    "stars": 1,
-    "updated_at": "2026-07-08T20:09:52Z",
-    "url": "https://github.com/srdasdev/Agentic-RAG"
   },
   {
     "description": "Field research and feature analysis for AI coding agents \u2014 sandboxing, orchestration, plugins, community tooling, SDLC p",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T19:55:03Z",
     "url": "https://github.com/gary23w/nl-rag"
-  },
-  {
-    "description": "Local-first dynamic memory for agents and apps: SQLite source of truth, vector search candidates, hotness, decay, TTL, n",
-    "id": "CaspianG/wavemind",
-    "language": "Python",
-    "name": "CaspianG/wavemind",
-    "stars": 5,
-    "updated_at": "2026-07-08T19:52:13Z",
-    "url": "https://github.com/CaspianG/wavemind"
-  },
-  {
-    "description": "Local-first personal AI assistant: runs local LLMs with approval-gated tools and retrieval memory, fully offline \u2014 for c",
-    "id": "PapaKoftes/Layla",
-    "language": "Python",
-    "name": "PapaKoftes/Layla",
-    "stars": 1,
-    "updated_at": "2026-07-08T19:51:32Z",
-    "url": "https://github.com/PapaKoftes/Layla"
-  },
-  {
-    "description": "Build Real-Time Knowledge Graphs for AI Agents",
-    "id": "getzep/graphiti",
-    "language": "Python",
-    "name": "getzep/graphiti",
-    "stars": 28513,
-    "updated_at": "2026-07-08T19:50:54Z",
-    "url": "https://github.com/getzep/graphiti"
-  },
-  {
-    "description": "Local retrieval for file-backed knowledge bases (CLI + MCP)",
-    "id": "adamthuvesen/trace",
-    "language": "Python",
-    "name": "adamthuvesen/trace",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:50:05Z",
-    "url": "https://github.com/adamthuvesen/trace"
-  },
-  {
-    "description": "Agentic RAG assistant over an Obsidian vault - hand-rolled agent loop, hybrid retrieval, eval-gated CI",
-    "id": "LucasLinnemann/second-brain-agent",
-    "language": "Python",
-    "name": "LucasLinnemann/second-brain-agent",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:49:37Z",
-    "url": "https://github.com/LucasLinnemann/second-brain-agent"
-  },
-  {
-    "description": "Local-first, eval-first memory for long-horizon AI agents \u2014 no LLM at ingest. Python SDK + MCP server with source-tracea",
-    "id": "vornicx/Midas",
-    "language": "Python",
-    "name": "vornicx/Midas",
-    "stars": 12,
-    "updated_at": "2026-07-08T19:49:33Z",
-    "url": "https://github.com/vornicx/Midas"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 5856,
-    "updated_at": "2026-07-08T19:49:30Z",
-    "url": "https://github.com/plastic-labs/honcho"
   }
 ]
