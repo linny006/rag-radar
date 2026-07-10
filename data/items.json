@@ -1,12 +1,120 @@
 [
   {
+    "description": "Multimodal RAG for technical manuals (PDF text + diagrams) \u2014 Streamlit scaffold, work in progress",
+    "id": "mykolapodpriatov/TechManualRAG",
+    "language": "Python",
+    "name": "mykolapodpriatov/TechManualRAG",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:29:57Z",
+    "url": "https://github.com/mykolapodpriatov/TechManualRAG"
+  },
+  {
+    "description": "Patient-to-trial matching on harmonized clinical data: OMOP harmonization (dbt), agentic eligibility matching (LangGraph",
+    "id": "atharvajoshi01/eligible",
+    "language": "Python",
+    "name": "atharvajoshi01/eligible",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:29:37Z",
+    "url": "https://github.com/atharvajoshi01/eligible"
+  },
+  {
+    "description": "Transform and optimize your markdown documentation for Large Language Models (LLMs) and RAG systems. Generate llms.txt a",
+    "id": "mensfeld/llm-docs-builder",
+    "language": "Ruby",
+    "name": "mensfeld/llm-docs-builder",
+    "stars": 93,
+    "updated_at": "2026-07-10T06:29:27Z",
+    "url": "https://github.com/mensfeld/llm-docs-builder"
+  },
+  {
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 148354,
+    "updated_at": "2026-07-10T06:29:31Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Local-first Agentic AI Infrastructure Platform with LLM Gateway, Agent DAG Runtime, MCP Tool Hub, A2A Agent Mesh, Local ",
+    "id": "leizd/DeepSeek-Infra",
+    "language": "Python",
+    "name": "leizd/DeepSeek-Infra",
+    "stars": 1,
+    "updated_at": "2026-07-10T06:29:14Z",
+    "url": "https://github.com/leizd/DeepSeek-Infra"
+  },
+  {
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natur",
+    "id": "Canner/WrenAI",
+    "language": "Python",
+    "name": "Canner/WrenAI",
+    "stars": 15774,
+    "updated_at": "2026-07-10T06:28:52Z",
+    "url": "https://github.com/Canner/WrenAI"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18720,
-    "updated_at": "2026-07-10T06:27:56Z",
+    "updated_at": "2026-07-10T06:28:43Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "A vector database that automatically switches from slow-but-accurate search to fast-but-approximate search as your data ",
+    "id": "speedyk-005/vinkra",
+    "language": "Python",
+    "name": "speedyk-005/vinkra",
+    "stars": 1,
+    "updated_at": "2026-07-10T06:28:30Z",
+    "url": "https://github.com/speedyk-005/vinkra"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 4,
+    "updated_at": "2026-07-10T06:28:29Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Local-first private AI memory layer / Digital Brain for conversations, documents, decisions, and model-agnostic knowledg",
+    "id": "TaeSooPark-PTS/LatticeAI",
+    "language": "Python",
+    "name": "TaeSooPark-PTS/LatticeAI",
+    "stars": 1,
+    "updated_at": "2026-07-10T06:28:20Z",
+    "url": "https://github.com/TaeSooPark-PTS/LatticeAI"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 33,
+    "updated_at": "2026-07-10T06:28:09Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T06:28:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "NestJS Helper + AI Chatbot Development",
+    "id": "samchon/nestia",
+    "language": "TypeScript",
+    "name": "samchon/nestia",
+    "stars": 2163,
+    "updated_at": "2026-07-10T06:27:56Z",
+    "url": "https://github.com/samchon/nestia"
   },
   {
     "description": "A developer-focused platform for tracking AI, agentic AI, RAG, LLM tools, and AI engineering trends in one place.",
@@ -16,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-07-10T06:27:32Z",
     "url": "https://github.com/henrylong719/ai-signal"
+  },
+  {
+    "description": "A fully-local, privacy-first AI assistant with a drop-in skill system, powered by Gemma 4 E2B",
+    "id": "anishkarnik/facet",
+    "language": "Python",
+    "name": "anishkarnik/facet",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:27:29Z",
+    "url": "https://github.com/anishkarnik/facet"
   },
   {
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
@@ -117,15 +234,6 @@
     "url": "https://github.com/finki-hub/chat-bot"
   },
   {
-    "description": "A vector database that automatically switches from slow-but-accurate search to fast-but-approximate search as your data ",
-    "id": "speedyk-005/vinkra",
-    "language": "Python",
-    "name": "speedyk-005/vinkra",
-    "stars": 1,
-    "updated_at": "2026-07-10T06:21:47Z",
-    "url": "https://github.com/speedyk-005/vinkra"
-  },
-  {
     "description": "Production-ready RAG application for conversational PDF Q&A \u2014 built with LangChain, ChromaDB, and openai/gpt-oss-120b vi",
     "id": "asnakhan-dev/docuchat",
     "language": "Python",
@@ -193,7 +301,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 58232,
+    "stars": 58233,
     "updated_at": "2026-07-10T06:18:06Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -243,15 +351,6 @@
     "url": "https://github.com/DanceNitra/agora"
   },
   {
-    "description": "Patient-to-trial matching on harmonized clinical data: OMOP harmonization (dbt), agentic eligibility matching (LangGraph",
-    "id": "atharvajoshi01/eligible",
-    "language": "Python",
-    "name": "atharvajoshi01/eligible",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:16:53Z",
-    "url": "https://github.com/atharvajoshi01/eligible"
-  },
-  {
     "description": "Android native AI inference library, bringing text, image, video, STT, TTS inference",
     "id": "Aatricks/llmedge",
     "language": "Kotlin",
@@ -259,15 +358,6 @@
     "stars": 58,
     "updated_at": "2026-07-10T06:16:50Z",
     "url": "https://github.com/Aatricks/llmedge"
-  },
-  {
-    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
-    "id": "pavanbadempet/AI-Healthcare-System",
-    "language": "Python",
-    "name": "pavanbadempet/AI-Healthcare-System",
-    "stars": 33,
-    "updated_at": "2026-07-10T06:16:09Z",
-    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
   },
   {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
@@ -333,15 +423,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-10T06:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Mount Linux memory dumps as filesystems to investigate processes, files, and kernel state using standard command-line to",
     "id": "stanleyjoy1980/MemNixFS",
     "language": "C++",
@@ -367,86 +448,5 @@
     "stars": 296,
     "updated_at": "2026-07-10T06:14:46Z",
     "url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
-  },
-  {
-    "description": "An alliance of tools for the AI era: grounded knowledge (Nexus\u00b7Archon), accountable review & governance (Arbiter\u00b7Observe",
-    "id": "LivingLikeKrillin/khala",
-    "language": "Python",
-    "name": "LivingLikeKrillin/khala",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:17:07Z",
-    "url": "https://github.com/LivingLikeKrillin/khala"
-  },
-  {
-    "description": "Private, self-hosted document chat for attorneys: parse legal PDFs and query them with local open-source LLMs (Ollama) +",
-    "id": "janderswag/legal-document-chat",
-    "language": "Python",
-    "name": "janderswag/legal-document-chat",
-    "stars": 29,
-    "updated_at": "2026-07-10T06:14:42Z",
-    "url": "https://github.com/janderswag/legal-document-chat"
-  },
-  {
-    "description": "Automate IT helpdesk triage and resolve technical issues locally using RAG, SQLite, and Ollama.",
-    "id": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "language": "Python",
-    "name": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:14:39Z",
-    "url": "https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant"
-  },
-  {
-    "description": "RAG-based YouTube Learning Assistant built with FastAPI, React, FAISS, Sentence Transformers, and Groq LLM.",
-    "id": "sejalr28/NoteTube-AI",
-    "language": "Python",
-    "name": "sejalr28/NoteTube-AI",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:14:37Z",
-    "url": "https://github.com/sejalr28/NoteTube-AI"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 2,
-    "updated_at": "2026-07-10T06:16:42Z",
-    "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "A personal knowledge base that builds and maintains itself. Drop in sources \u2014 Claude (or Codex/Gemini) reads them, extra",
-    "id": "SamurAIGPT/llm-wiki-agent",
-    "language": "Python",
-    "name": "SamurAIGPT/llm-wiki-agent",
-    "stars": 3174,
-    "updated_at": "2026-07-10T06:14:27Z",
-    "url": "https://github.com/SamurAIGPT/llm-wiki-agent"
-  },
-  {
-    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
-    "id": "tysto1727/ComfyUI-Boogu",
-    "language": "Python",
-    "name": "tysto1727/ComfyUI-Boogu",
-    "stars": 1,
-    "updated_at": "2026-07-10T06:14:07Z",
-    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
-  },
-  {
-    "description": "Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi",
-    "id": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "language": "Batchfile",
-    "name": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:13:54Z",
-    "url": "https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-07-10T06:13:47Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
