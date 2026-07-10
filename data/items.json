@@ -1,11 +1,38 @@
 [
   {
+    "description": "Conversational AI chatbot that answers questions from uploaded PDF documents using advanced RAG.",
+    "id": "Bhushan-git20/pdf-rag-chatbot",
+    "language": "Python",
+    "name": "Bhushan-git20/pdf-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-10T10:00:31Z",
+    "url": "https://github.com/Bhushan-git20/pdf-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 0,
+    "updated_at": "2026-07-10T10:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T10:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source multi-tenant AI agent workspace \u00b7 16 personas \u00b7 395 tools \u00b7 212 tables \u00b7 129 active capabilities \u00b7 623 produ",
     "id": "Huskyauto/VisionClaw-Agent-Public-Release",
     "language": "TypeScript",
     "name": "Huskyauto/VisionClaw-Agent-Public-Release",
     "stars": 20,
-    "updated_at": "2026-07-10T10:00:10Z",
+    "updated_at": "2026-07-10T10:00:20Z",
     "url": "https://github.com/Huskyauto/VisionClaw-Agent-Public-Release"
   },
   {
@@ -193,7 +220,7 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 148385,
+    "stars": 148386,
     "updated_at": "2026-07-10T09:53:16Z",
     "url": "https://github.com/langgenius/dify"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T09:48:53Z",
     "url": "https://github.com/rvs3k/streamlit-langchain-chatbot"
-  },
-  {
-    "description": "Chat with your documents - local RAG with Chroma + Ollama, relevance gating, citations, and an eval suite",
-    "id": "greenxsiam-byte/Ai-RAG-Learning",
-    "language": "Python",
-    "name": "greenxsiam-byte/Ai-RAG-Learning",
-    "stars": 0,
-    "updated_at": "2026-07-10T09:48:43Z",
-    "url": "https://github.com/greenxsiam-byte/Ai-RAG-Learning"
-  },
-  {
-    "description": "\ud83d\udcf0 Summarize Turkish news, answer queries, and perform multilingual tasks with this versatile chatbot powered by FastAPI ",
-    "id": "timlfg/NEWS-Chatbot",
-    "language": "Python",
-    "name": "timlfg/NEWS-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:48:37Z",
-    "url": "https://github.com/timlfg/NEWS-Chatbot"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45168,
-    "updated_at": "2026-07-10T09:48:35Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
