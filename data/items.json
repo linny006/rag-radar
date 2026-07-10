@@ -1,5 +1,131 @@
 [
   {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 203,
+    "updated_at": "2026-07-10T18:59:42Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Stop your AI from making up facts about your own data. A pre-generation grounding gate for LLM/RAG apps \u2014 zero-dep, MIT,",
+    "id": "LopezDray/evidence-gate",
+    "language": "JavaScript",
+    "name": "LopezDray/evidence-gate",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:59:39Z",
+    "url": "https://github.com/LopezDray/evidence-gate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:59:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Enhance RAG systems with ACG to reduce hallucinations in LLM responses by improving accuracy and grounding in reliabl",
+    "id": "klkbtw/acg_protocol",
+    "language": "Python",
+    "name": "klkbtw/acg_protocol",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:59:10Z",
+    "url": "https://github.com/klkbtw/acg_protocol"
+  },
+  {
+    "description": "",
+    "id": "TheEspresso/prompt-engineering",
+    "language": "\u2014",
+    "name": "TheEspresso/prompt-engineering",
+    "stars": 2,
+    "updated_at": "2026-07-10T18:59:10Z",
+    "url": "https://github.com/TheEspresso/prompt-engineering"
+  },
+  {
+    "description": "\ud83d\udd0d Automate digital footprint analysis with DeepSearch, using advanced Google search operators to gather insights from mu",
+    "id": "Eristsin/DeepSearch-",
+    "language": "\u2014",
+    "name": "Eristsin/DeepSearch-",
+    "stars": 4,
+    "updated_at": "2026-07-10T18:58:57Z",
+    "url": "https://github.com/Eristsin/DeepSearch-"
+  },
+  {
+    "description": "\ud83d\udcda Explore and understand key terms in Large Language Models, AI, and Machine Learning with this community-driven glossar",
+    "id": "kyleejustin/llm-glossary",
+    "language": "\u2014",
+    "name": "kyleejustin/llm-glossary",
+    "stars": 1,
+    "updated_at": "2026-07-10T18:58:51Z",
+    "url": "https://github.com/kyleejustin/llm-glossary"
+  },
+  {
+    "description": "\ud83d\udd0d Build an advanced RAG system for multi-modal search across text, images, audio, and video, enhancing knowledge retriev",
+    "id": "UKiyooooo/multimodal-rag-engine",
+    "language": "\u2014",
+    "name": "UKiyooooo/multimodal-rag-engine",
+    "stars": 2,
+    "updated_at": "2026-07-10T18:58:42Z",
+    "url": "https://github.com/UKiyooooo/multimodal-rag-engine"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 33,
+    "updated_at": "2026-07-10T18:58:27Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "AI-powered research paper assistant using semantic search, FAISS, BART summarization, and KeyBERT keyword extraction",
+    "id": "devikadinesh2003/AI-Research-Paper-Assistant",
+    "language": "Jupyter Notebook",
+    "name": "devikadinesh2003/AI-Research-Paper-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:58:03Z",
+    "url": "https://github.com/devikadinesh2003/AI-Research-Paper-Assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T18:58:03Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SmartDocs is Rag based doc scanning version using Open Ai API keys ",
+    "id": "Sid-chou/smart-docs",
+    "language": "TypeScript",
+    "name": "Sid-chou/smart-docs",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:57:41Z",
+    "url": "https://github.com/Sid-chou/smart-docs"
+  },
+  {
+    "description": "Portable RAG (Retrieval-Augmented Generation) chat for Linux, macOS, Windows. All processing is local \u2014 no cloud depende",
+    "id": "jcn363/chac",
+    "language": "TypeScript",
+    "name": "jcn363/chac",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:57:38Z",
+    "url": "https://github.com/jcn363/chac"
+  },
+  {
+    "description": "\ud83d\udd27 Manage and monitor your homelab infrastructure efficiently with Model Context Protocol (MCP) servers through Claude De",
+    "id": "myraffy/homelab-mcp",
+    "language": "Python",
+    "name": "myraffy/homelab-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-10T18:57:38Z",
+    "url": "https://github.com/myraffy/homelab-mcp"
+  },
+  {
     "description": "\ud83c\udf10 Rethink Multimodal Large Language Models design and scaling under data constraints with NaViL, enhancing efficiency an",
     "id": "ajgarciaj/NaViL",
     "language": "\u2014",
@@ -95,7 +221,7 @@
     "language": "TypeScript",
     "name": "Neeeser/Ragworks",
     "stars": 1,
-    "updated_at": "2026-07-10T18:56:00Z",
+    "updated_at": "2026-07-10T18:59:41Z",
     "url": "https://github.com/Neeeser/Ragworks"
   },
   {
@@ -162,15 +288,6 @@
     "url": "https://github.com/PDewangan/neo4j-agentframework"
   },
   {
-    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 203,
-    "updated_at": "2026-07-10T18:54:29Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
     "description": "A retrieval-augmented generation (RAG) pipeline from scratch: chunk, embed, FAISS vector store, retrieve, and answer ove",
     "id": "agentdynarq/rag-pipeline",
     "language": "Python",
@@ -234,15 +351,6 @@
     "url": "https://github.com/janderswag/legal-document-chat"
   },
   {
-    "description": "Portable RAG (Retrieval-Augmented Generation) chat for Linux, macOS, Windows. All processing is local \u2014 no cloud depende",
-    "id": "jcn363/chac",
-    "language": "TypeScript",
-    "name": "jcn363/chac",
-    "stars": 0,
-    "updated_at": "2026-07-10T18:57:38Z",
-    "url": "https://github.com/jcn363/chac"
-  },
-  {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
     "id": "atishay-kasliwal/atriveo-app",
     "language": "TypeScript",
@@ -268,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T18:51:10Z",
     "url": "https://github.com/vedranvuk/locolm"
-  },
-  {
-    "description": "AI-powered research paper assistant using semantic search, FAISS, BART summarization, and KeyBERT keyword extraction",
-    "id": "devikadinesh2003/AI-Research-Paper-Assistant",
-    "language": "Jupyter Notebook",
-    "name": "devikadinesh2003/AI-Research-Paper-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-10T18:50:37Z",
-    "url": "https://github.com/devikadinesh2003/AI-Research-Paper-Assistant"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-10T18:47:56Z",
     "url": "https://github.com/arunrajiah/ai-workforce"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 141481,
-    "updated_at": "2026-07-10T18:47:55Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "\ud83c\udfc6 Discover essential tools and frameworks to enhance your hackathon experience, from pitching ideas to deploying your pr",
-    "id": "rahavshukla/Hackathon-Tools",
-    "language": "\u2014",
-    "name": "rahavshukla/Hackathon-Tools",
-    "stars": 7,
-    "updated_at": "2026-07-10T18:47:13Z",
-    "url": "https://github.com/rahavshukla/Hackathon-Tools"
-  },
-  {
-    "description": "Why the biggest AI opportunity in retail isn't at headquarters \u2014 it's on the store floor. GRADE Framework: 10 failure pa",
-    "id": "Svyatoslavpech/retail-ai-store-level-intelligence",
-    "language": "\u2014",
-    "name": "Svyatoslavpech/retail-ai-store-level-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-10T18:47:05Z",
-    "url": "https://github.com/Svyatoslavpech/retail-ai-store-level-intelligence"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58356,
-    "updated_at": "2026-07-10T18:47:01Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform your PDF documents into actionable insights with this RAG-based Question-Answering App for efficient and acc",
-    "id": "rupamsamanta123/PDF-QA-RAG-System",
-    "language": "Python",
-    "name": "rupamsamanta123/PDF-QA-RAG-System",
-    "stars": 4,
-    "updated_at": "2026-07-10T18:46:59Z",
-    "url": "https://github.com/rupamsamanta123/PDF-QA-RAG-System"
-  },
-  {
-    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
-    "id": "IgorGanapolsky/trading",
-    "language": "Python",
-    "name": "IgorGanapolsky/trading",
-    "stars": 38,
-    "updated_at": "2026-07-10T18:57:03Z",
-    "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Autonomous equity research platform \u2014 transforms market data into investment theses via deterministic calculation + LLM ",
-    "id": "noahwins-ng/equity-data-agent",
-    "language": "Python",
-    "name": "noahwins-ng/equity-data-agent",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:46:53Z",
-    "url": "https://github.com/noahwins-ng/equity-data-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance data queries with SQLBot, an intelligent system that combines advanced models and RAG for seamless integration",
-    "id": "FlareIgnis/SQLBot",
-    "language": "Python",
-    "name": "FlareIgnis/SQLBot",
-    "stars": 3,
-    "updated_at": "2026-07-10T18:46:48Z",
-    "url": "https://github.com/FlareIgnis/SQLBot"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 63068,
-    "updated_at": "2026-07-10T18:46:41Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "MOOTx01 Community Edition",
-    "id": "codedaptive/mootx01-ce",
-    "language": "Swift",
-    "name": "codedaptive/mootx01-ce",
-    "stars": 1,
-    "updated_at": "2026-07-10T18:48:40Z",
-    "url": "https://github.com/codedaptive/mootx01-ce"
-  },
-  {
-    "description": "An alliance of tools for the AI era: grounded knowledge (Nexus\u00b7Archon), accountable review & governance (Arbiter\u00b7Observe",
-    "id": "LivingLikeKrillin/khala",
-    "language": "Python",
-    "name": "LivingLikeKrillin/khala",
-    "stars": 0,
-    "updated_at": "2026-07-10T18:46:15Z",
-    "url": "https://github.com/LivingLikeKrillin/khala"
   }
 ]
