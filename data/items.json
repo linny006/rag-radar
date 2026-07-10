@@ -1,12 +1,138 @@
 [
   {
+    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
+    "id": "inite-ai/inite-brain-service",
+    "language": "TypeScript",
+    "name": "inite-ai/inite-brain-service",
+    "stars": 26,
+    "updated_at": "2026-07-10T02:45:13Z",
+    "url": "https://github.com/inite-ai/inite-brain-service"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18717,
+    "updated_at": "2026-07-10T02:45:11Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-10T02:44:51Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "LangGraph prior-auth copilot: rules-first outcomes, policy RAG citations, eval-gated demo",
+    "id": "asorari09/priorauth-copilot",
+    "language": "TypeScript",
+    "name": "asorari09/priorauth-copilot",
+    "stars": 0,
+    "updated_at": "2026-07-10T02:44:33Z",
+    "url": "https://github.com/asorari09/priorauth-copilot"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 224,
+    "updated_at": "2026-07-10T02:44:27Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3228,
+    "updated_at": "2026-07-10T02:44:08Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
     "description": "A local-first travel intelligence workspace that turns scattered plans into one clear journey.",
     "id": "udhawan97/Voyalier",
     "language": "CSS",
     "name": "udhawan97/Voyalier",
     "stars": 0,
-    "updated_at": "2026-07-10T02:41:14Z",
+    "updated_at": "2026-07-10T02:43:49Z",
     "url": "https://github.com/udhawan97/Voyalier"
+  },
+  {
+    "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run ",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-10T02:43:19Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58193,
+    "updated_at": "2026-07-10T02:43:17Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-07-10T02:43:10Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
+  },
+  {
+    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
+    "id": "phonghhd/EvoNet-AI-Core",
+    "language": "Python",
+    "name": "phonghhd/EvoNet-AI-Core",
+    "stars": 4,
+    "updated_at": "2026-07-10T02:42:52Z",
+    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
+  },
+  {
+    "description": "YouTube transcript ripper for RAG, LLM workflows, and AI research. Chrome extension. Multiple output formats",
+    "id": "mrslbt/rippr",
+    "language": "JavaScript",
+    "name": "mrslbt/rippr",
+    "stars": 4,
+    "updated_at": "2026-07-10T02:42:37Z",
+    "url": "https://github.com/mrslbt/rippr"
+  },
+  {
+    "description": "",
+    "id": "redocto/image-text-structurizer",
+    "language": "Python",
+    "name": "redocto/image-text-structurizer",
+    "stars": 0,
+    "updated_at": "2026-07-10T02:42:21Z",
+    "url": "https://github.com/redocto/image-text-structurizer"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-10T02:42:02Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready platform for agentic workflow development.",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 148342,
+    "updated_at": "2026-07-10T02:41:36Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Local text-embedding inference for Clojure over ONNX Runtime",
@@ -97,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T02:40:13Z",
     "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
-    "id": "inite-ai/inite-brain-service",
-    "language": "TypeScript",
-    "name": "inite-ai/inite-brain-service",
-    "stars": 26,
-    "updated_at": "2026-07-10T02:40:23Z",
-    "url": "https://github.com/inite-ai/inite-brain-service"
   },
   {
     "description": "",
@@ -216,15 +333,6 @@
     "url": "https://github.com/tshephosekhu/semantic-memory"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18717,
-    "updated_at": "2026-07-10T02:38:01Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Hardware-Accelerated Cryptographic RAG System \u2014 GPU simulation of SHA-256 hash engine with AES-256-GCM encryption and Me",
     "id": "Agnuxo1/ASIC-RAG-CHIMERA",
     "language": "Python",
@@ -252,15 +360,6 @@
     "url": "https://github.com/rexnzm/MCP-rag-with-Chromadb"
   },
   {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58193,
-    "updated_at": "2026-07-10T02:38:09Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
     "id": "infiniflow/ragflow",
     "language": "Go",
@@ -286,15 +385,6 @@
     "stars": 227,
     "updated_at": "2026-07-10T02:35:48Z",
     "url": "https://github.com/zilliztech/vector-graph-rag"
-  },
-  {
-    "description": "Production-ready platform for agentic workflow development.",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 148343,
-    "updated_at": "2026-07-10T02:41:36Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-10T02:34:26Z",
     "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, ",
-    "id": "markhuangai/dense-mem",
-    "language": "Go",
-    "name": "markhuangai/dense-mem",
-    "stars": 30,
-    "updated_at": "2026-07-10T02:38:10Z",
-    "url": "https://github.com/markhuangai/dense-mem"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 2,
-    "updated_at": "2026-07-10T02:34:14Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Knowledge Stack developer docs (Mintlify). Guides, concept docs, API reference, and auto-synced SDK docs from ks-sdk-pyt",
-    "id": "knowledgestack/ks-docs",
-    "language": "MDX",
-    "name": "knowledgestack/ks-docs",
-    "stars": 1,
-    "updated_at": "2026-07-10T02:34:04Z",
-    "url": "https://github.com/knowledgestack/ks-docs"
-  },
-  {
-    "description": "Local-first dynamic memory for agents and apps: SQLite source of truth, vector search candidates, hotness, decay, TTL, n",
-    "id": "CaspianG/wavemind",
-    "language": "Python",
-    "name": "CaspianG/wavemind",
-    "stars": 5,
-    "updated_at": "2026-07-10T02:34:02Z",
-    "url": "https://github.com/CaspianG/wavemind"
-  },
-  {
-    "description": "Knowledge Stack TypeScript/JavaScript SDK (@knowledge-stack/ksapi) \u2014 auto-generated from the OpenAPI spec. For most agen",
-    "id": "knowledgestack/ks-sdk-ts",
-    "language": "TypeScript",
-    "name": "knowledgestack/ks-sdk-ts",
-    "stars": 1,
-    "updated_at": "2026-07-10T02:33:46Z",
-    "url": "https://github.com/knowledgestack/ks-sdk-ts"
-  },
-  {
-    "description": "Knowledge Stack Python SDK (ksapi) \u2014 auto-generated from the OpenAPI spec. For most agent use cases, use the MCP server ",
-    "id": "knowledgestack/ks-sdk-python",
-    "language": "Python",
-    "name": "knowledgestack/ks-sdk-python",
-    "stars": 1,
-    "updated_at": "2026-07-10T02:33:43Z",
-    "url": "https://github.com/knowledgestack/ks-sdk-python"
-  },
-  {
-    "description": "Local-first, human-editable memory infrastructure for AI agents. Git for AI memory.",
-    "id": "MohamedHussien-zseeker/ContextLedger",
-    "language": "Python",
-    "name": "MohamedHussien-zseeker/ContextLedger",
-    "stars": 0,
-    "updated_at": "2026-07-10T02:33:39Z",
-    "url": "https://github.com/MohamedHussien-zseeker/ContextLedger"
-  },
-  {
-    "description": "\ud83e\udde0 Analyze market trends with AI to forecast investments and enhance decision-making using real-time data and advanced an",
-    "id": "vieta123456/ai-market",
-    "language": "Python",
-    "name": "vieta123456/ai-market",
-    "stars": 0,
-    "updated_at": "2026-07-10T02:33:14Z",
-    "url": "https://github.com/vieta123456/ai-market"
-  },
-  {
-    "description": "Industrial IoT telemetry ingestion, alerting, and autonomous AI root-cause diagnosis. One Spring Boot 4 / Java 25 servic",
-    "id": "prairie-spark-iot/spark-agent-engine",
-    "language": "Java",
-    "name": "prairie-spark-iot/spark-agent-engine",
-    "stars": 0,
-    "updated_at": "2026-07-10T02:32:26Z",
-    "url": "https://github.com/prairie-spark-iot/spark-agent-engine"
-  },
-  {
-    "description": "Explore how developers can integrate Artificial Intelligence into software applications by working with LLM APIs, prompt",
-    "id": "ObiFaith/ai4d-tutorial",
-    "language": "TypeScript",
-    "name": "ObiFaith/ai4d-tutorial",
-    "stars": 0,
-    "updated_at": "2026-07-10T02:32:12Z",
-    "url": "https://github.com/ObiFaith/ai4d-tutorial"
   }
 ]
