@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
+    "id": "inite-ai/inite-brain-service",
+    "language": "TypeScript",
+    "name": "inite-ai/inite-brain-service",
+    "stars": 26,
+    "updated_at": "2026-07-11T12:04:40Z",
+    "url": "https://github.com/inite-ai/inite-brain-service"
+  },
+  {
+    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
+    "id": "tomyimkc/sophia-agi",
+    "language": "Python",
+    "name": "tomyimkc/sophia-agi",
+    "stars": 5,
+    "updated_at": "2026-07-11T12:03:56Z",
+    "url": "https://github.com/tomyimkc/sophia-agi"
+  },
+  {
+    "description": "Zia - Vibe Coded Bot Zalo",
+    "id": "PhuVinhAI/Zia",
+    "language": "TypeScript",
+    "name": "PhuVinhAI/Zia",
+    "stars": 9,
+    "updated_at": "2026-07-11T12:03:54Z",
+    "url": "https://github.com/PhuVinhAI/Zia"
+  },
+  {
+    "description": "High-performance, memory-safe, and native async Python MCP server for Zed IDE on Windows. Features multi-bucket RAG, hyb",
+    "id": "ManSio/mscodebase-intelligence",
+    "language": "Python",
+    "name": "ManSio/mscodebase-intelligence",
+    "stars": 1,
+    "updated_at": "2026-07-11T12:03:26Z",
+    "url": "https://github.com/ManSio/mscodebase-intelligence"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-07-11T12:02:16Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Cited graph-RAG lab-assistant chatbot template (Gradio): RAG over a lab's publications with inline citations, citation-g",
+    "id": "prarabdhmisra/lab-assistant-rag",
+    "language": "Python",
+    "name": "prarabdhmisra/lab-assistant-rag",
+    "stars": 0,
+    "updated_at": "2026-07-11T12:01:53Z",
+    "url": "https://github.com/prarabdhmisra/lab-assistant-rag"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 33,
+    "updated_at": "2026-07-11T12:01:48Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T12:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\uac74\uc591\ub300\ud559\uad50 \uacf5\uc9c0\uc0ac\ud56d RAG \ucc57\ubd07 - \ud06c\ub864\ub9c1\ubd80\ud130 \ubca1\ud130\uac80\uc0c9, LLM \ub2f5\ubcc0, \uc790\ub3d9\uac31\uc2e0, \ubb34\ub8cc \ubc30\ud3ec\uae4c\uc9c0",
+    "id": "2junmo1001/konyang-notice-chatbot",
+    "language": "Python",
+    "name": "2junmo1001/konyang-notice-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-11T12:00:22Z",
+    "url": "https://github.com/2junmo1001/konyang-notice-chatbot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-11T12:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Loom turns your vault into a structural mirror of your mind. Local, free, and the only PKM tool that proactively tells ",
+    "id": "KlossKarl/loom",
+    "language": "Python",
+    "name": "KlossKarl/loom",
+    "stars": 3,
+    "updated_at": "2026-07-11T12:00:20Z",
+    "url": "https://github.com/KlossKarl/loom"
+  },
+  {
+    "description": "Open-data explorer + grounded chat over data.egov.bg \u2014 a curated, enriched, indexed local mirror with map explorer, RAG ",
+    "id": "danni-bg/danni-bg",
+    "language": "TypeScript",
+    "name": "danni-bg/danni-bg",
+    "stars": 0,
+    "updated_at": "2026-07-11T12:00:19Z",
+    "url": "https://github.com/danni-bg/danni-bg"
+  },
+  {
     "description": "A structured, multi-tier evaluation framework for LLM applications \u2014 addressing non-determinism, cost, provider-coupling",
     "id": "qa-test-automation-frameworks/verity-policy-coverage-eval-framework",
     "language": "Python",
@@ -54,24 +162,6 @@
     "url": "https://github.com/OpenAgentHQ/openagent-eval"
   },
   {
-    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
-    "id": "tomyimkc/sophia-agi",
-    "language": "Python",
-    "name": "tomyimkc/sophia-agi",
-    "stars": 5,
-    "updated_at": "2026-07-11T11:58:48Z",
-    "url": "https://github.com/tomyimkc/sophia-agi"
-  },
-  {
-    "description": "High-performance, memory-safe, and native async Python MCP server for Zed IDE on Windows. Features multi-bucket RAG, hyb",
-    "id": "ManSio/mscodebase-intelligence",
-    "language": "Python",
-    "name": "ManSio/mscodebase-intelligence",
-    "stars": 1,
-    "updated_at": "2026-07-11T11:58:45Z",
-    "url": "https://github.com/ManSio/mscodebase-intelligence"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T11:58:21Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Cited graph-RAG lab-assistant chatbot template (Gradio): RAG over a lab's publications with inline citations, citation-g",
-    "id": "prarabdhmisra/lab-assistant-rag",
-    "language": "Python",
-    "name": "prarabdhmisra/lab-assistant-rag",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:58:16Z",
-    "url": "https://github.com/prarabdhmisra/lab-assistant-rag"
   },
   {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
@@ -153,15 +234,6 @@
     "url": "https://github.com/skegdb/skeg"
   },
   {
-    "description": "\uac74\uc591\ub300\ud559\uad50 \uacf5\uc9c0\uc0ac\ud56d RAG \ucc57\ubd07 - \ud06c\ub864\ub9c1\ubd80\ud130 \ubca1\ud130\uac80\uc0c9, LLM \ub2f5\ubcc0, \uc790\ub3d9\uac31\uc2e0, \ubb34\ub8cc \ubc30\ud3ec\uae4c\uc9c0",
-    "id": "2junmo1001/konyang-notice-chatbot",
-    "language": "Python",
-    "name": "2junmo1001/konyang-notice-chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:56:59Z",
-    "url": "https://github.com/2junmo1001/konyang-notice-chatbot"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -187,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T11:57:27Z",
     "url": "https://github.com/achref-soua/quiver"
-  },
-  {
-    "description": " Loom turns your vault into a structural mirror of your mind. Local, free, and the only PKM tool that proactively tells ",
-    "id": "KlossKarl/loom",
-    "language": "Python",
-    "name": "KlossKarl/loom",
-    "stars": 3,
-    "updated_at": "2026-07-11T11:56:40Z",
-    "url": "https://github.com/KlossKarl/loom"
   },
   {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4354,
-    "updated_at": "2026-07-11T11:58:44Z",
+    "updated_at": "2026-07-11T12:00:28Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -369,24 +432,6 @@
     "url": "https://github.com/dezhiguan/careermate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-11T11:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-11T11:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
     "id": "jee3m/augmentative-knowledge-hooks",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T11:44:55Z",
     "url": "https://github.com/rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-"
-  },
-  {
-    "description": "JARVIS is a modular AI voice assistant powered by Gemini, Faster-Whisper, and Python. It features wake-word detection, s",
-    "id": "Karan-Negi-12/Project-Jarvis",
-    "language": "Python",
-    "name": "Karan-Negi-12/Project-Jarvis",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:42:18Z",
-    "url": "https://github.com/Karan-Negi-12/Project-Jarvis"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 1,
-    "updated_at": "2026-07-11T11:41:45Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "News fact-checking pipeline - decomposes articles into atomic claims, retrieves per-claim evidence with source-independe",
-    "id": "vakudo/veriscope",
-    "language": "Python",
-    "name": "vakudo/veriscope",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:41:12Z",
-    "url": "https://github.com/vakudo/veriscope"
-  },
-  {
-    "description": "End-to-end flight delay prediction: a LightGBM two-stage model served via FastAPI behind a conversational ReAct agent (L",
-    "id": "GabrieleFirriolo/flight-delay-prediction-app",
-    "language": "Jupyter Notebook",
-    "name": "GabrieleFirriolo/flight-delay-prediction-app",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:40:58Z",
-    "url": "https://github.com/GabrieleFirriolo/flight-delay-prediction-app"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 0,
-    "updated_at": "2026-07-11T11:40:09Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
   }
 ]
