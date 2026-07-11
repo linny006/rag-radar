@@ -1,5 +1,104 @@
 [
   {
+    "description": "Hybrid RAG + Knowledge Graph API for intelligent access to ISRO's MOSDAC satellite data. Combines FAISS vector search, N",
+    "id": "a6hinandh/AstraQ_Backend",
+    "language": "Python",
+    "name": "a6hinandh/AstraQ_Backend",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:49:39Z",
+    "url": "https://github.com/a6hinandh/AstraQ_Backend"
+  },
+  {
+    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 bilingual (RU/EN), built with Docusaurus.",
+    "id": "NikolaiSachok/enterprise-rag-agents-handbook",
+    "language": "TypeScript",
+    "name": "NikolaiSachok/enterprise-rag-agents-handbook",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:49:24Z",
+    "url": "https://github.com/NikolaiSachok/enterprise-rag-agents-handbook"
+  },
+  {
+    "description": "100% \u672c\u6a5f\u7684\u53f0\u7063\u52de\u52d5\u6cd5\u898f RAG \u554f\u7b54\u52a9\u7406\uff08Ollama qwen3:8b \u00d7 bge-m3 \u00d7 LangChain \u00d7 ChromaDB \u00d7 Gradio\uff09\uff0c\u6bcf\u500b\u7b54\u6848\u9644\u6cd5\u689d\u5f15\u7528",
+    "id": "tun0000/tw-labor-law-rag",
+    "language": "Python",
+    "name": "tun0000/tw-labor-law-rag",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:49:20Z",
+    "url": "https://github.com/tun0000/tw-labor-law-rag"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:49:05Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "An autonomous multi-agent orchestration system for Home Assistant. Features local LLM control (Ollama/DeepSeek), & RAG-p",
+    "id": "ITSpecialist111/HASS-AI-Orchestrator",
+    "language": "Python",
+    "name": "ITSpecialist111/HASS-AI-Orchestrator",
+    "stars": 57,
+    "updated_at": "2026-07-11T14:48:10Z",
+    "url": "https://github.com/ITSpecialist111/HASS-AI-Orchestrator"
+  },
+  {
+    "description": "AI-powered news scraper with semantic search, RSS subscriptions, and AI-generated summaries. FastAPI + Next.js + ChromaD",
+    "id": "AleksNeStu/ai-news-scraper",
+    "language": "Python",
+    "name": "AleksNeStu/ai-news-scraper",
+    "stars": 3,
+    "updated_at": "2026-07-11T14:48:02Z",
+    "url": "https://github.com/AleksNeStu/ai-news-scraper"
+  },
+  {
+    "description": "\u5c11\u4eba\u6570SRE\u306e\u305f\u3081\u306e\u3001\u4fe1\u983c(HITL)\u5185\u8535\u30a4\u30f3\u30b7\u30c7\u30f3\u30c8\u5bfe\u5fdcAI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u3002\u5b9fADK\u30de\u30eb\u30c1\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u304c\u81ea\u5f8b\u8abf\u67fb\u2192\u51fa\u5178\u3064\u304dRAG\u2192\u4eba\u9593\u304c1\u30af\u30ea\u30c3\u30af\u627f\u8a8d\u2192\u5b9f\u5fa9\u65e7\u3002\u54c1\u8cea\u306f\u81ea\u4f5c\u30d9\u30f3\u30c1 INCIDENT-BENCH \u3067\u8a08\u6e2c\u3002ADK 2.x / Ge",
+    "id": "srkwr/hikeshi",
+    "language": "Python",
+    "name": "srkwr/hikeshi",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:46:09Z",
+    "url": "https://github.com/srkwr/hikeshi"
+  },
+  {
+    "description": "Fast, private, client-side developer tools and clear references \u2014 plus explainers on modern AI infrastructure (context w",
+    "id": "damnepic/kbcafe",
+    "language": "Astro",
+    "name": "damnepic/kbcafe",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:45:50Z",
+    "url": "https://github.com/damnepic/kbcafe"
+  },
+  {
+    "description": "AI-powered Solidity smart contract vulnerability detector. Fine-tuned DeepSeek Coder 7B beats Nethermind AuditAgent base",
+    "id": "walii-3570/solidityguard",
+    "language": "Python",
+    "name": "walii-3570/solidityguard",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:45:39Z",
+    "url": "https://github.com/walii-3570/solidityguard"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-11T14:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-11T14:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-hosted, model-agnostic AI agent orchestration platform. Build, run, and observe AI agents backed by any LLM (Anthro",
     "id": "deepaksinghcs14/agent-nexus",
     "language": "Go",
@@ -176,7 +275,7 @@
     "language": "TypeScript",
     "name": "beeblastco/cheapkb",
     "stars": 0,
-    "updated_at": "2026-07-11T14:38:27Z",
+    "updated_at": "2026-07-11T14:47:34Z",
     "url": "https://github.com/beeblastco/cheapkb"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T14:33:52Z",
     "url": "https://github.com/Mitsu-Shan116/007-First-Light-Trainer-And-Optimizer_v_2"
-  },
-  {
-    "description": "AI News aggregation, classification, and search platform",
-    "id": "pguerrerolinares/ai-news-platform",
-    "language": "Python",
-    "name": "pguerrerolinares/ai-news-platform",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:33:39Z",
-    "url": "https://github.com/pguerrerolinares/ai-news-platform"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:33:26Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "\ud574\uc591 \ubc95\ub839\uc744 \uc870\ubb38 \ub2e8\uc704\ub85c \uac80\uc0c9\ud558\uace0 \ub2f5\ubcc0\ub9c8\ub2e4 \uadfc\uac70 \uc870\ubb38\uc744 \uc778\uc6a9\ud558\ub294 RAG \uc2dc\uc2a4\ud15c",
-    "id": "Minsu5452/korean-maritime-law-rag",
-    "language": "Python",
-    "name": "Minsu5452/korean-maritime-law-rag",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:33:18Z",
-    "url": "https://github.com/Minsu5452/korean-maritime-law-rag"
-  },
-  {
-    "description": "Plataforma open-source de Engenharia de IA sobre a regula\u00e7\u00e3o e os dados abertos do transporte rodovi\u00e1rio brasileiro (ANT",
-    "id": "alanjoffre/rodoia",
-    "language": "Python",
-    "name": "alanjoffre/rodoia",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:33:10Z",
-    "url": "https://github.com/alanjoffre/rodoia"
-  },
-  {
-    "description": "Mount Linux memory dumps as filesystems to investigate processes, files, and kernel state using standard command-line to",
-    "id": "stanleyjoy1980/MemNixFS",
-    "language": "C++",
-    "name": "stanleyjoy1980/MemNixFS",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:33:08Z",
-    "url": "https://github.com/stanleyjoy1980/MemNixFS"
-  },
-  {
-    "description": "Privacy-first, VS Code-style desktop workbench for understanding, auditing, and safely steering AI changes to your codeb",
-    "id": "berronesandrea614-ctrl/RepoLens-Workbench",
-    "language": "Java",
-    "name": "berronesandrea614-ctrl/RepoLens-Workbench",
-    "stars": 5,
-    "updated_at": "2026-07-11T14:33:07Z",
-    "url": "https://github.com/berronesandrea614-ctrl/RepoLens-Workbench"
-  },
-  {
-    "description": "Build AI agent systems from theory to production with this guide on foundational concepts and multi-agent application de",
-    "id": "causesubpopulation914/Hello-Agents",
-    "language": "Python",
-    "name": "causesubpopulation914/Hello-Agents",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:32:46Z",
-    "url": "https://github.com/causesubpopulation914/Hello-Agents"
-  },
-  {
-    "description": "Automate IT helpdesk triage and resolve technical issues locally using RAG, SQLite, and Ollama.",
-    "id": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "language": "Python",
-    "name": "puppetrygenusscilla672/10_ai_it_support_assistant",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:32:32Z",
-    "url": "https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant"
-  },
-  {
-    "description": "Automated daily Telegram pipeline about the Argentine national team. LLMs + RAG anti-repetition + GitHub Actions",
-    "id": "SMESCH1/InforMessi",
-    "language": "Python",
-    "name": "SMESCH1/InforMessi",
-    "stars": 1,
-    "updated_at": "2026-07-11T14:32:24Z",
-    "url": "https://github.com/SMESCH1/InforMessi"
-  },
-  {
-    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
-    "id": "tysto1727/ComfyUI-Boogu",
-    "language": "Python",
-    "name": "tysto1727/ComfyUI-Boogu",
-    "stars": 1,
-    "updated_at": "2026-07-11T14:31:58Z",
-    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
-  },
-  {
-    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
-    "id": "tomyimkc/sophia-agi",
-    "language": "Python",
-    "name": "tomyimkc/sophia-agi",
-    "stars": 5,
-    "updated_at": "2026-07-11T14:41:28Z",
-    "url": "https://github.com/tomyimkc/sophia-agi"
   }
 ]
