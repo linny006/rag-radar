@@ -1,11 +1,83 @@
 [
   {
+    "description": "63 production-style n8n automation workflows \u2014 AI agents, RAG chatbots, e-commerce & HR pipelines. Each in its own folde",
+    "id": "Redsf/n8n-workflows",
+    "language": "\u2014",
+    "name": "Redsf/n8n-workflows",
+    "stars": 0,
+    "updated_at": "2026-07-12T06:31:38Z",
+    "url": "https://github.com/Redsf/n8n-workflows"
+  },
+  {
+    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information ",
+    "id": "xberg-io/xberg",
+    "language": "Rust",
+    "name": "xberg-io/xberg",
+    "stars": 8610,
+    "updated_at": "2026-07-12T06:30:43Z",
+    "url": "https://github.com/xberg-io/xberg"
+  },
+  {
+    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
+    "id": "sedai194443/langfuse-go",
+    "language": "Go",
+    "name": "sedai194443/langfuse-go",
+    "stars": 1,
+    "updated_at": "2026-07-12T06:30:39Z",
+    "url": "https://github.com/sedai194443/langfuse-go"
+  },
+  {
+    "description": "\ud83e\udd16 Production-grade Multi-Agent AI Chatbot \u2014 LangGraph + RAG + Web Search + Python Execution via MCP | Built with LangCha",
+    "id": "arbaz-builds/langgraph-multi-agent",
+    "language": "Python",
+    "name": "arbaz-builds/langgraph-multi-agent",
+    "stars": 1,
+    "updated_at": "2026-07-12T06:30:25Z",
+    "url": "https://github.com/arbaz-builds/langgraph-multi-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T06:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-12T06:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u67b6\u7a7a\u6587\u66f8RAG\u3002\u691c\u7d22\u3001\u6839\u62e0\u30ab\u30fc\u30c9\u3001SSE\u56de\u7b54\u3001source id validation\u3092\u5099\u3048\u305fCloudflare Workers\u69cb\u6210\u3002Workers AI\u3001Vectorize\u3001D1\u3001Anthropic API\u3092\u4f7f\u7528\u3002",
+    "id": "proto-atlas/rag-knowledge-assistant",
+    "language": "TypeScript",
+    "name": "proto-atlas/rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-12T06:30:10Z",
+    "url": "https://github.com/proto-atlas/rag-knowledge-assistant"
+  },
+  {
+    "description": "AI\u3078\u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u69cb\u9020\u4f1d\u9054\u3092\u6700\u9069\u5316\u3057\u3001AI\u99c6\u52d5\u958b\u767a\uff08AIDD\uff09\u3092\u5186\u6ed1\u306b\u3059\u308b\u305f\u3081\u306e\u30c4\u30fc\u30eb\u3002",
+    "id": "ayato-labs/ProjectCodeMap",
+    "language": "Python",
+    "name": "ayato-labs/ProjectCodeMap",
+    "stars": 0,
+    "updated_at": "2026-07-12T06:30:09Z",
+    "url": "https://github.com/ayato-labs/ProjectCodeMap"
+  },
+  {
     "description": "Self-evolving, evidence-based memory layer for coding agents and development teams.",
     "id": "shno-labs/mem-forge",
     "language": "Python",
     "name": "shno-labs/mem-forge",
     "stars": 2,
-    "updated_at": "2026-07-12T06:30:04Z",
+    "updated_at": "2026-07-12T06:31:17Z",
     "url": "https://github.com/shno-labs/mem-forge"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4355,
-    "updated_at": "2026-07-12T06:28:49Z",
+    "updated_at": "2026-07-12T06:31:09Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -270,15 +342,6 @@
     "url": "https://github.com/gafaar22/recursive-prompt-improver"
   },
   {
-    "description": "AI\u3078\u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u69cb\u9020\u4f1d\u9054\u3092\u6700\u9069\u5316\u3057\u3001AI\u99c6\u52d5\u958b\u767a\uff08AIDD\uff09\u3092\u5186\u6ed1\u306b\u3059\u308b\u305f\u3081\u306e\u30c4\u30fc\u30eb\u3002",
-    "id": "ayato-labs/ProjectCodeMap",
-    "language": "Python",
-    "name": "ayato-labs/ProjectCodeMap",
-    "stars": 0,
-    "updated_at": "2026-07-12T06:30:09Z",
-    "url": "https://github.com/ayato-labs/ProjectCodeMap"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -320,7 +383,7 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 0,
-    "updated_at": "2026-07-12T06:20:37Z",
+    "updated_at": "2026-07-12T06:31:47Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
@@ -349,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T06:20:04Z",
     "url": "https://github.com/violet27chen/qiyuan-blog-template"
-  },
-  {
-    "description": "\ud83e\udd16 Production-grade Multi-Agent AI Chatbot \u2014 LangGraph + RAG + Web Search + Python Execution via MCP | Built with LangCha",
-    "id": "arbaz-builds/langgraph-multi-agent",
-    "language": "Python",
-    "name": "arbaz-builds/langgraph-multi-agent",
-    "stars": 1,
-    "updated_at": "2026-07-12T06:19:09Z",
-    "url": "https://github.com/arbaz-builds/langgraph-multi-agent"
   },
   {
     "description": "Typed falsification-guided retrieval for self-correcting language agents",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-12T06:18:33Z",
     "url": "https://github.com/jrainsberger/orthotomeo"
-  },
-  {
-    "description": "\ud83d\udcca Automate financial analysis and forecasting with ForecastGPT, leveraging AI to extract insights from reports and strea",
-    "id": "elemsi/forecastgpt-financial-outlook-agent",
-    "language": "Python",
-    "name": "elemsi/forecastgpt-financial-outlook-agent",
-    "stars": 2,
-    "updated_at": "2026-07-12T06:18:09Z",
-    "url": "https://github.com/elemsi/forecastgpt-financial-outlook-agent"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-07-12T06:18:08Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "AI agent reliability harness plus defensive email-domain and cross-device security scanners.",
-    "id": "Lancimoun/agent-reliability-arena",
-    "language": "Python",
-    "name": "Lancimoun/agent-reliability-arena",
-    "stars": 1,
-    "updated_at": "2026-07-12T06:18:08Z",
-    "url": "https://github.com/Lancimoun/agent-reliability-arena"
-  },
-  {
-    "description": "\ud83d\udcc4 Explore Retrieval-Augmented Generation for legal document Q&A, leveraging QDrant and Ollama AI models with C# and .NET",
-    "id": "kjgdgch65g/nl-rag-qdrant-legal",
-    "language": "C#",
-    "name": "kjgdgch65g/nl-rag-qdrant-legal",
-    "stars": 6,
-    "updated_at": "2026-07-12T06:17:59Z",
-    "url": "https://github.com/kjgdgch65g/nl-rag-qdrant-legal"
-  },
-  {
-    "description": "Write your page once \u2014 AHTML emits MCP, OpenAPI, JSON-LD & llms.txt for AI agents from your existing Next.js, Vite or Sv",
-    "id": "DibbayajyotiRoy/AHTML",
-    "language": "TypeScript",
-    "name": "DibbayajyotiRoy/AHTML",
-    "stars": 6,
-    "updated_at": "2026-07-12T06:17:51Z",
-    "url": "https://github.com/DibbayajyotiRoy/AHTML"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build a flexible search and navigation tool for RimWorld\u2019s source code and XML definitions, enabling AI-assisted retr",
-    "id": "Mezo1122/RiMCP_hybrid",
-    "language": "HTML",
-    "name": "Mezo1122/RiMCP_hybrid",
-    "stars": 0,
-    "updated_at": "2026-07-12T06:17:47Z",
-    "url": "https://github.com/Mezo1122/RiMCP_hybrid"
   }
 ]
