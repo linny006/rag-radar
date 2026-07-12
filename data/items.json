@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:14:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-07-12T14:14:09Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Rag & Ai Pipelines Debug Dashboard And Log Analyzer \u2014 instant insights without breaking your focus. Join hundreds of rag",
+    "id": "ncreighton/fc5a89e4-rag-ai-pipelines-debug-dashb",
+    "language": "\u2014",
+    "name": "ncreighton/fc5a89e4-rag-ai-pipelines-debug-dashb",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:14:08Z",
+    "url": "https://github.com/ncreighton/fc5a89e4-rag-ai-pipelines-debug-dashb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:13:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
     "id": "sepahead/sepahead",
     "language": "JavaScript",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "diillson/chatcli",
     "stars": 89,
-    "updated_at": "2026-07-12T14:02:02Z",
+    "updated_at": "2026-07-12T14:14:32Z",
     "url": "https://github.com/diillson/chatcli"
   },
   {
@@ -295,24 +331,6 @@
     "stars": 38,
     "updated_at": "2026-07-12T14:00:24Z",
     "url": "https://github.com/tobocop2/lilbee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-12T14:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-12T14:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise document assistant built with ASP.NET Core, FastAPI, PostgreSQL, Redis, Docker Compose, semantic search and a",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-12T13:54:36Z",
     "url": "https://github.com/PowerHouse-Consulting-Group/daimones-community"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 4404,
-    "updated_at": "2026-07-12T13:53:26Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "WordPress AI Chatbot plugin supporting OpenAI, Anthropic Claude, and Google Gemini.",
-    "id": "rapls/rapls-ai-chatbot",
-    "language": "PHP",
-    "name": "rapls/rapls-ai-chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:52:41Z",
-    "url": "https://github.com/rapls/rapls-ai-chatbot"
   }
 ]
