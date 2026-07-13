@@ -1,5 +1,86 @@
 [
   {
+    "description": "An agentic pipeline that turns product ideas into compliant, audited Etsy listings \u2014 with two human-in-the-loop checkpoi",
+    "id": "Neofirst0715/Etsy-Multi-Agents-Project",
+    "language": "Python",
+    "name": "Neofirst0715/Etsy-Multi-Agents-Project",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:17:05Z",
+    "url": "https://github.com/Neofirst0715/Etsy-Multi-Agents-Project"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-13T18:16:25Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and Fast",
+    "id": "pavanbadempet/AI-Healthcare-System",
+    "language": "Python",
+    "name": "pavanbadempet/AI-Healthcare-System",
+    "stars": 34,
+    "updated_at": "2026-07-13T18:16:14Z",
+    "url": "https://github.com/pavanbadempet/AI-Healthcare-System"
+  },
+  {
+    "description": "Open-source coordination memory for multi-agent AI \u2014 shared agent memory with read-your-writes consistency, per-agent ac",
+    "id": "lore-gpt/lore",
+    "language": "Go",
+    "name": "lore-gpt/lore",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:15:46Z",
+    "url": "https://github.com/lore-gpt/lore"
+  },
+  {
+    "description": "AI21 Labs \u2014 Jamba foundation models + enterprise AI",
+    "id": "api-evangelist/ai21-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ai21-labs",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:15:32Z",
+    "url": "https://github.com/api-evangelist/ai21-labs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-13T18:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Vellum \u2014 LLM platform for evaluation, deployment, monitoring",
+    "id": "api-evangelist/vellum",
+    "language": "\u2014",
+    "name": "api-evangelist/vellum",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:15:25Z",
+    "url": "https://github.com/api-evangelist/vellum"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-13T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Desktop interview assistant built with Electron. Uses local RAG over your resume, job description, and notes to transcri",
+    "id": "tpikachu/Interview-Copilot",
+    "language": "TypeScript",
+    "name": "tpikachu/Interview-Copilot",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:15:31Z",
+    "url": "https://github.com/tpikachu/Interview-Copilot"
+  },
+  {
     "description": "Opik APIs.json profile for API Evangelist catalog",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -9,21 +90,12 @@
     "url": "https://github.com/api-evangelist/opik"
   },
   {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 77,
-    "updated_at": "2026-07-13T18:14:45Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
     "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
     "id": "mezmo/aura",
     "language": "Rust",
     "name": "mezmo/aura",
     "stars": 208,
-    "updated_at": "2026-07-13T18:14:11Z",
+    "updated_at": "2026-07-13T18:16:50Z",
     "url": "https://github.com/mezmo/aura"
   },
   {
@@ -311,7 +383,7 @@
     "language": "Python",
     "name": "weby-homelab/AI-HOMELAB",
     "stars": 5,
-    "updated_at": "2026-07-13T18:07:09Z",
+    "updated_at": "2026-07-13T18:16:00Z",
     "url": "https://github.com/weby-homelab/AI-HOMELAB"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T18:04:10Z",
     "url": "https://github.com/migueldorosario1/igot"
-  },
-  {
-    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
-    "id": "generalbots/generalbots",
-    "language": "Rust",
-    "name": "generalbots/generalbots",
-    "stars": 82,
-    "updated_at": "2026-07-13T18:03:40Z",
-    "url": "https://github.com/generalbots/generalbots"
-  },
-  {
-    "description": "Voyage AI (MongoDB) \u2014 embedding + reranker models for RAG",
-    "id": "api-evangelist/voyage-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/voyage-ai",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:03:18Z",
-    "url": "https://github.com/api-evangelist/voyage-ai"
-  },
-  {
-    "description": "Lucidworks builds AI-powered search, discovery, and agent platforms used by enterprise commerce, support, and workplace ",
-    "id": "api-evangelist/lucidworks",
-    "language": "\u2014",
-    "name": "api-evangelist/lucidworks",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:03:02Z",
-    "url": "https://github.com/api-evangelist/lucidworks"
-  },
-  {
-    "description": "Docling \u2014 IBM/LF AI & Data open-source document parsing toolkit for generative AI",
-    "id": "api-evangelist/docling",
-    "language": "\u2014",
-    "name": "api-evangelist/docling",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:02:27Z",
-    "url": "https://github.com/api-evangelist/docling"
-  },
-  {
-    "description": "MVP d'un assistant RAG de recommandation d'\u00e9v\u00e9nements culturels (OpenAgenda). Architecture scalable : Qdrant Cloud, API ",
-    "id": "Dudukun1871/ocr-projet13-rag-mvp",
-    "language": "Python",
-    "name": "Dudukun1871/ocr-projet13-rag-mvp",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:02:23Z",
-    "url": "https://github.com/Dudukun1871/ocr-projet13-rag-mvp"
-  },
-  {
-    "description": "Vectara \u2014 RAG-as-a-service platform with grounded generation",
-    "id": "api-evangelist/vectara",
-    "language": "\u2014",
-    "name": "api-evangelist/vectara",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:02:15Z",
-    "url": "https://github.com/api-evangelist/vectara"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:01:58Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58928,
-    "updated_at": "2026-07-13T18:01:48Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   }
 ]
