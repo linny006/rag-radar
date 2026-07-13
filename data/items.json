@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source multi-tenant SaaS platform: admin + client portal + per-tenant sites + CRM + Company Brain (AI/RAG) + automa",
+    "id": "SimplerDevelopment/SimplerDevelopment",
+    "language": "TypeScript",
+    "name": "SimplerDevelopment/SimplerDevelopment",
+    "stars": 2,
+    "updated_at": "2026-07-13T21:59:54Z",
+    "url": "https://github.com/SimplerDevelopment/SimplerDevelopment"
+  },
+  {
+    "description": "\ud83e\uddec Build consistent AI personalities with the Kotodama Framework, ensuring engaging, reliable interactions throughout you",
+    "id": "LegendsVenom/kotodama-framework",
+    "language": "\u2014",
+    "name": "LegendsVenom/kotodama-framework",
+    "stars": 0,
+    "updated_at": "2026-07-13T21:59:52Z",
+    "url": "https://github.com/LegendsVenom/kotodama-framework"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance learning with DeepTutor, an AI-powered assistant that personalizes education to fit your needs. Discover tailo",
+    "id": "miljuds2/DeepTutor",
+    "language": "\u2014",
+    "name": "miljuds2/DeepTutor",
+    "stars": 1,
+    "updated_at": "2026-07-13T21:59:34Z",
+    "url": "https://github.com/miljuds2/DeepTutor"
+  },
+  {
+    "description": "\ud83d\uddbc\ufe0f Discover high-quality AI prompts for image, text, and video generation, curated by Guizang to enhance your creative p",
+    "id": "aribsh/guizang-s-prompt",
+    "language": "\u2014",
+    "name": "aribsh/guizang-s-prompt",
+    "stars": 2,
+    "updated_at": "2026-07-13T21:59:34Z",
+    "url": "https://github.com/aribsh/guizang-s-prompt"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-13T21:59:06Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 141689,
+    "updated_at": "2026-07-13T21:58:57Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
+    "id": "sdsrss/claude-mem-lite",
+    "language": "JavaScript",
+    "name": "sdsrss/claude-mem-lite",
+    "stars": 48,
+    "updated_at": "2026-07-13T21:58:55Z",
+    "url": "https://github.com/sdsrss/claude-mem-lite"
+  },
+  {
+    "description": "Open-source memory runtime for AI agents \u2014 reproducible, provenance-tagged context bundles instead of query-time retriev",
+    "id": "smaramwbc/statewave",
+    "language": "Python",
+    "name": "smaramwbc/statewave",
+    "stars": 258,
+    "updated_at": "2026-07-13T21:58:47Z",
+    "url": "https://github.com/smaramwbc/statewave"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-13T21:58:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
     "id": "oigrex666/mcp-context-chronicler",
     "language": "HTML",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "limitcycle-oss/jarvis-rd-assistant",
     "stars": 0,
-    "updated_at": "2026-07-13T21:57:10Z",
+    "updated_at": "2026-07-13T21:59:02Z",
     "url": "https://github.com/limitcycle-oss/jarvis-rd-assistant"
   },
   {
@@ -365,88 +446,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 58953,
-    "updated_at": "2026-07-13T21:50:51Z",
+    "updated_at": "2026-07-13T21:59:42Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Turn any markdown vault or codebase into a cited, AI-queryable knowledge graph. Local-first CLI, web viewer, and MCP ser",
-    "id": "n1x-technologies/n1x-cortex",
-    "language": "TypeScript",
-    "name": "n1x-technologies/n1x-cortex",
-    "stars": 2,
-    "updated_at": "2026-07-13T21:50:51Z",
-    "url": "https://github.com/n1x-technologies/n1x-cortex"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Build a versatile MCP server with RAG capabilities, supporting multiple document formats using LangChain and ChromaDB",
-    "id": "rexnzm/MCP-rag-with-Chromadb",
-    "language": "Python",
-    "name": "rexnzm/MCP-rag-with-Chromadb",
-    "stars": 3,
-    "updated_at": "2026-07-13T21:50:50Z",
-    "url": "https://github.com/rexnzm/MCP-rag-with-Chromadb"
-  },
-  {
-    "description": "Full-stack AI gateway portfolio: FastAPI + Next.js + React Native + PySide6. 22 static routes, 4-pillar security (PBKDF2",
-    "id": "rbkhan007/ollamomui",
-    "language": "TypeScript",
-    "name": "rbkhan007/ollamomui",
-    "stars": 1,
-    "updated_at": "2026-07-13T21:51:25Z",
-    "url": "https://github.com/rbkhan007/ollamomui"
-  },
-  {
-    "description": "AmbitQA \u2014 AI-powered QA assistant covering the full scope of software testing. ISTQB & IEEE 829 grounded. Codecademy Age",
-    "id": "hk-qa/ambitqa",
-    "language": "HTML",
-    "name": "hk-qa/ambitqa",
-    "stars": 2,
-    "updated_at": "2026-07-13T21:52:43Z",
-    "url": "https://github.com/hk-qa/ambitqa"
-  },
-  {
-    "description": "Lazy Chameleon: synthetic parameter generator that turns flash-class LLMs into frontier-grade reasoners at inference tim",
-    "id": "xanstomper/lazy-chameleon",
-    "language": "Python",
-    "name": "xanstomper/lazy-chameleon",
-    "stars": 0,
-    "updated_at": "2026-07-13T21:49:46Z",
-    "url": "https://github.com/xanstomper/lazy-chameleon"
-  },
-  {
-    "description": "Persistent semantic memory for AI agents \u2014 100% local on Apple Silicon (MLX) or Linux/Ubuntu (CPU). Markdown source of t",
-    "id": "jagoff/memo",
-    "language": "Python",
-    "name": "jagoff/memo",
-    "stars": 5,
-    "updated_at": "2026-07-13T21:49:54Z",
-    "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-13T21:49:24Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "A zero-telemetry Dual RAG engine using LangGraph and hybrid sparse/dense retrieval (BM25 + Qdrant) for deterministic Win",
-    "id": "git-anish3008/Hybrid-RAG-Log-Analyzer",
-    "language": "Python",
-    "name": "git-anish3008/Hybrid-RAG-Log-Analyzer",
-    "stars": 0,
-    "updated_at": "2026-07-13T21:49:16Z",
-    "url": "https://github.com/git-anish3008/Hybrid-RAG-Log-Analyzer"
-  },
-  {
-    "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
-    "id": "titit-star/ethora-sdk-swift",
-    "language": "Swift",
-    "name": "titit-star/ethora-sdk-swift",
-    "stars": 1,
-    "updated_at": "2026-07-13T21:49:05Z",
-    "url": "https://github.com/titit-star/ethora-sdk-swift"
   }
 ]
