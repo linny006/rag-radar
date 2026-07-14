@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
+    "id": "VINAY7033/docu-query-assistant",
+    "language": "HTML",
+    "name": "VINAY7033/docu-query-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:00:04Z",
+    "url": "https://github.com/VINAY7033/docu-query-assistant"
+  },
+  {
+    "description": "Top Open-Source AI Agents 2026 \ud83e\udd16 | Best Autonomous Tools & Frameworks",
+    "id": "salimfk619-jpg/open-ai-ecosystem",
+    "language": "HTML",
+    "name": "salimfk619-jpg/open-ai-ecosystem",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:59:42Z",
+    "url": "https://github.com/salimfk619-jpg/open-ai-ecosystem"
+  },
+  {
+    "description": "MediSpace Python Services: FastAPI OCR, ML recommendations, Gemma chat AI, Typesense RAG, guardrails, and article assist",
+    "id": "MEDISPACE/MEDISPACE_Python_Services",
+    "language": "Python",
+    "name": "MEDISPACE/MEDISPACE_Python_Services",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:59:37Z",
+    "url": "https://github.com/MEDISPACE/MEDISPACE_Python_Services"
+  },
+  {
+    "description": "Local-first, privacy-preserving RAG retrieval evaluation starter for business documents. Runs offline on the Python stan",
+    "id": "ramiabukhader/local-ai-rag-lab",
+    "language": "Python",
+    "name": "ramiabukhader/local-ai-rag-lab",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:59:36Z",
+    "url": "https://github.com/ramiabukhader/local-ai-rag-lab"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:59:08Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+    "id": "Manuelgr928/rusty-beaker",
+    "language": "HTML",
+    "name": "Manuelgr928/rusty-beaker",
+    "stars": 0,
+    "updated_at": "2026-07-13T23:58:25Z",
+    "url": "https://github.com/Manuelgr928/rusty-beaker"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 58962,
+    "updated_at": "2026-07-13T23:58:23Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3231,
+    "updated_at": "2026-07-13T23:58:13Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
+    "id": "grassman23gith/athena-nexus",
+    "language": "HTML",
+    "name": "grassman23gith/athena-nexus",
+    "stars": 1,
+    "updated_at": "2026-07-13T23:58:12Z",
+    "url": "https://github.com/grassman23gith/athena-nexus"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-13T23:58:09Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18742,
+    "updated_at": "2026-07-13T23:57:54Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
     "description": "AI-powered Product Management Workspace that transforms product ideas into PRDs, roadmaps, user stories, Jira tasks, and",
     "id": "dev-26271/Product-pilot",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 304,
     "updated_at": "2026-07-13T23:57:34Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 58962,
-    "updated_at": "2026-07-13T23:57:42Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
@@ -189,15 +279,6 @@
     "url": "https://github.com/Anatoliy-Sysoev/MeetingAgent"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3231,
-    "updated_at": "2026-07-13T23:49:22Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "GraphRAG API + chat interface for requirements management \u2014 4-level graph enrichment, Text2Cypher, SSE streaming, LangSm",
     "id": "arthurfantaci/requirements-graphrag-api",
     "language": "Python",
@@ -241,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T23:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-13T23:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Lazy Chameleon: synthetic parameter generator that turns flash-class LLMs into frontier-grade reasoners at inference tim",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T23:38:54Z",
     "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
-    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "language": "HTML",
-    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:38:53Z",
-    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
-  },
-  {
-    "description": "Local-first, privacy-preserving RAG retrieval evaluation starter for business documents. Runs offline on the Python stan",
-    "id": "ramiabukhader/local-ai-rag-lab",
-    "language": "Python",
-    "name": "ramiabukhader/local-ai-rag-lab",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:38:09Z",
-    "url": "https://github.com/ramiabukhader/local-ai-rag-lab"
-  },
-  {
-    "description": "Terraform + Google ADK template: Deploy a Vertex AI + Cloud Run search agent over your own document corpus",
-    "id": "Metafiziks/gcp-search-agent",
-    "language": "HCL",
-    "name": "Metafiziks/gcp-search-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:37:12Z",
-    "url": "https://github.com/Metafiziks/gcp-search-agent"
-  },
-  {
-    "description": "Opinionated cookiecutter template for planning and building production-oriented AI applications, from business problem t",
-    "id": "mrspatbile/ai-solutions-engineering-starter-kit",
-    "language": "Python",
-    "name": "mrspatbile/ai-solutions-engineering-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:37:08Z",
-    "url": "https://github.com/mrspatbile/ai-solutions-engineering-starter-kit"
-  },
-  {
-    "description": "\ub85c\uceec AI \ub370\uc2a4\ud06c\ud1b1 GUI \uc571 \u00b7 \ubc84\ud2bc \uba87 \ubc88\uc73c\ub85c Gemma\ub97c \ub0b4 PC\uc5d0 \uc124\uce58+\ucc44\ud305 (Python\u00b7PySide6 \u00b7 Ollama \ud504\ub7f0\ud2b8\uc5d4\ub4dc \u00b7 Windows/macOS/Linux \u00b7 \uc6f9\uc571\u00b7Docker \ubd88\ud544\uc694)",
-    "id": "leedonwoo2827-ship-it/gemma-local-wizard",
-    "language": "Python",
-    "name": "leedonwoo2827-ship-it/gemma-local-wizard",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:36:29Z",
-    "url": "https://github.com/leedonwoo2827-ship-it/gemma-local-wizard"
-  },
-  {
-    "description": "AI-for-Science portfolio & research-intelligence workspace \u2014 scientific agents, RAG, evaluation, on a 14-yr Argonne batt",
-    "id": "rockyzl/lu-zhang-site",
-    "language": "Astro",
-    "name": "rockyzl/lu-zhang-site",
-    "stars": 0,
-    "updated_at": "2026-07-13T23:36:13Z",
-    "url": "https://github.com/rockyzl/lu-zhang-site"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18741,
-    "updated_at": "2026-07-13T23:57:54Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Local-first memory engine for AI-agent teams \u2014 private/team/project ACL, associative recall, federated sync, and a built",
-    "id": "yamantaka520/Agent-Memory-OS",
-    "language": "Python",
-    "name": "yamantaka520/Agent-Memory-OS",
-    "stars": 1,
-    "updated_at": "2026-07-13T23:35:26Z",
-    "url": "https://github.com/yamantaka520/Agent-Memory-OS"
   }
 ]
