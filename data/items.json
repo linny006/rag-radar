@@ -1,5 +1,41 @@
 [
   {
+    "description": "Official MIT SDKs and signed public API contracts for IgnitionRAG",
+    "id": "IgnitionAI/sdk",
+    "language": "TypeScript",
+    "name": "IgnitionAI/sdk",
+    "stars": 0,
+    "updated_at": "2026-07-14T22:00:05Z",
+    "url": "https://github.com/IgnitionAI/sdk"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Explore GPT-2 with llm.c, a lightweight C implementation that simplifies AI concepts for beginners, guiding you throu",
+    "id": "LoupFireYT/llm.c",
+    "language": "TeX",
+    "name": "LoupFireYT/llm.c",
+    "stars": 1,
+    "updated_at": "2026-07-14T21:59:58Z",
+    "url": "https://github.com/LoupFireYT/llm.c"
+  },
+  {
+    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
+    "id": "RikyZ90/ShibaClaw",
+    "language": "Python",
+    "name": "RikyZ90/ShibaClaw",
+    "stars": 77,
+    "updated_at": "2026-07-14T21:59:40Z",
+    "url": "https://github.com/RikyZ90/ShibaClaw"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-14T21:59:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\ude80 Explore GraphRAG by building customized retrievers and agents using Neo4j for advanced semantic and hybrid search solu",
     "id": "JessEnterprise/graphRAG-retrievers-agents",
     "language": "Jupyter Notebook",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "barissolcay/telecom-support-intelligence",
     "stars": 1,
-    "updated_at": "2026-07-14T21:57:54Z",
+    "updated_at": "2026-07-14T21:59:41Z",
     "url": "https://github.com/barissolcay/telecom-support-intelligence"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T21:55:14Z",
     "url": "https://github.com/xyver/daedal-map"
-  },
-  {
-    "description": "Official MIT SDKs and signed public API contracts for IgnitionRAG",
-    "id": "IgnitionAI/sdk",
-    "language": "TypeScript",
-    "name": "IgnitionAI/sdk",
-    "stars": 0,
-    "updated_at": "2026-07-14T21:59:17Z",
-    "url": "https://github.com/IgnitionAI/sdk"
   },
   {
     "description": "Eval-first RAG pipeline for Brazilian NCM fiscal classification - hybrid retrieval (BM25 + e5) with Gemini rerank, every",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T21:50:10Z",
     "url": "https://github.com/timlfg/NEWS-Chatbot"
-  },
-  {
-    "description": "\ud83e\udde0 Build a flexible, production-ready memory system for AI agents, offering session-only, persistent, or hybrid deploymen",
-    "id": "l7n102031/go-agent-memory",
-    "language": "Go",
-    "name": "l7n102031/go-agent-memory",
-    "stars": 4,
-    "updated_at": "2026-07-14T21:50:00Z",
-    "url": "https://github.com/l7n102031/go-agent-memory"
-  },
-  {
-    "description": "Local-first GraphRAG workbench for ingesting large document corpora into vector search and Neo4j knowledge graphs with r",
-    "id": "Kingsley-Cyber/polymath_v3.3",
-    "language": "Python",
-    "name": "Kingsley-Cyber/polymath_v3.3",
-    "stars": 0,
-    "updated_at": "2026-07-14T21:49:59Z",
-    "url": "https://github.com/Kingsley-Cyber/polymath_v3.3"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 0,
-    "updated_at": "2026-07-14T21:49:30Z",
-    "url": "https://github.com/raineislam/mcp-framework"
   }
 ]
