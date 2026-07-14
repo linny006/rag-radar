@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted, cross-device long-term memory for AI agents via MCP \u2014 one vault shared across any MCP client (Claude, Curso",
+    "id": "nousergon/mnemon",
+    "language": "Python",
+    "name": "nousergon/mnemon",
+    "stars": 1,
+    "updated_at": "2026-07-14T23:02:33Z",
+    "url": "https://github.com/nousergon/mnemon"
+  },
+  {
+    "description": "AI agent chat UI built with React + Gemini API.   3 tools: calculator, web search, GitHub PR",
+    "id": "gosadev99-bit/gemini-chat-ui",
+    "language": "JavaScript",
+    "name": "gosadev99-bit/gemini-chat-ui",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:02:24Z",
+    "url": "https://github.com/gosadev99-bit/gemini-chat-ui"
+  },
+  {
+    "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, t",
+    "id": "EverMind-AI/EverOS",
+    "language": "Python",
+    "name": "EverMind-AI/EverOS",
+    "stars": 10993,
+    "updated_at": "2026-07-14T23:02:17Z",
+    "url": "https://github.com/EverMind-AI/EverOS"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:02:05Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Personal LLM Wiki",
+    "id": "MatrixFounder/llm-wiki",
+    "language": "Python",
+    "name": "MatrixFounder/llm-wiki",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:01:07Z",
+    "url": "https://github.com/MatrixFounder/llm-wiki"
+  },
+  {
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
+    "id": "Graphify-Labs/graphify",
+    "language": "Python",
+    "name": "Graphify-Labs/graphify",
+    "stars": 86294,
+    "updated_at": "2026-07-14T23:00:58Z",
+    "url": "https://github.com/Graphify-Labs/graphify"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:00:27Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Top Open-Source AI Agents 2026 \ud83e\udd16 | Best Autonomous Tools & Frameworks",
     "id": "salimfk619-jpg/open-ai-ecosystem",
     "language": "HTML",
@@ -14,7 +95,7 @@
     "language": "Java",
     "name": "eliasjustus/justsearch",
     "stars": 2,
-    "updated_at": "2026-07-14T22:58:33Z",
+    "updated_at": "2026-07-14T23:02:36Z",
     "url": "https://github.com/eliasjustus/justsearch"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T22:58:28Z",
     "url": "https://github.com/cleverneves/qa-documentation-api"
-  },
-  {
-    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL sch",
-    "id": "Graphify-Labs/graphify",
-    "language": "Python",
-    "name": "Graphify-Labs/graphify",
-    "stars": 86292,
-    "updated_at": "2026-07-14T22:57:34Z",
-    "url": "https://github.com/Graphify-Labs/graphify"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -369,15 +441,6 @@
     "url": "https://github.com/Gaussou13/Document-Intelligence-System"
   },
   {
-    "description": "Personal LLM Wiki",
-    "id": "MatrixFounder/llm-wiki",
-    "language": "Python",
-    "name": "MatrixFounder/llm-wiki",
-    "stars": 0,
-    "updated_at": "2026-07-14T22:46:55Z",
-    "url": "https://github.com/MatrixFounder/llm-wiki"
-  },
-  {
     "description": "\ud83e\udd16 Deploy and manage an autonomous AI agent on Google Cloud using Docker, microservices, and CI/CD for a secure, scalable",
     "id": "marekgwizdala/agente-rag-docker",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T22:46:55Z",
     "url": "https://github.com/marekgwizdala/agente-rag-docker"
-  },
-  {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 29109,
-    "updated_at": "2026-07-14T22:51:11Z",
-    "url": "https://github.com/simstudioai/sim"
-  },
-  {
-    "description": "\ud83d\ude80 Index and search documents quickly with QuickRAG, using your preferred embedding provider and LanceDB for efficient si",
-    "id": "hassanamir24/quickrag",
-    "language": "TypeScript",
-    "name": "hassanamir24/quickrag",
-    "stars": 2,
-    "updated_at": "2026-07-14T22:46:34Z",
-    "url": "https://github.com/hassanamir24/quickrag"
-  },
-  {
-    "description": "\ud83d\udee0 Master Claude Code with a complete guide on AI coding assistants, featuring agents, commands, skills, and rules to str",
-    "id": "enju0122/claude-code-master",
-    "language": "MDX",
-    "name": "enju0122/claude-code-master",
-    "stars": 1,
-    "updated_at": "2026-07-14T22:46:17Z",
-    "url": "https://github.com/enju0122/claude-code-master"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "JavaScript",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-07-14T22:51:06Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "\ud83d\udce7 Streamline your inbox with Email Agent AI; it automatically sorts, classifies, and archives emails across multiple acc",
-    "id": "oelamazonas/email-agent",
-    "language": "Python",
-    "name": "oelamazonas/email-agent",
-    "stars": 1,
-    "updated_at": "2026-07-14T22:46:11Z",
-    "url": "https://github.com/oelamazonas/email-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG Framework for hybrid search, query classification, and answer fusion in product",
-    "id": "strewerwer/agentic-rag-framework",
-    "language": "HTML",
-    "name": "strewerwer/agentic-rag-framework",
-    "stars": 1,
-    "updated_at": "2026-07-14T22:46:08Z",
-    "url": "https://github.com/strewerwer/agentic-rag-framework"
-  },
-  {
-    "description": "",
-    "id": "Alejandrowe-bot/claude-mcps-and-prompts",
-    "language": "\u2014",
-    "name": "Alejandrowe-bot/claude-mcps-and-prompts",
-    "stars": 0,
-    "updated_at": "2026-07-14T22:46:06Z",
-    "url": "https://github.com/Alejandrowe-bot/claude-mcps-and-prompts"
   }
 ]
