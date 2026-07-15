@@ -1,12 +1,84 @@
 [
   {
-    "description": "PySpark cyber risk lakehouse for CVE, CVSS, EPSS, and KEV vulnerability prioritisation.",
+    "description": "Agentic RAG chatbot for Indian equity markets using LangGraph, FAISS, Groq LLMs and live NSE market data.",
+    "id": "eksakstri/nifty50-agentic-chatbot",
+    "language": "Python",
+    "name": "eksakstri/nifty50-agentic-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:02:02Z",
+    "url": "https://github.com/eksakstri/nifty50-agentic-chatbot"
+  },
+  {
+    "description": "End-to-end cyber risk intelligence platform with PySpark lakehouse, dbt/DuckDB, MLflow, SHAP, FastAPI, RAG remediation c",
     "id": "momo840505/cyber-risk-intelligence-lakehouse",
     "language": "Python",
     "name": "momo840505/cyber-risk-intelligence-lakehouse",
     "stars": 0,
-    "updated_at": "2026-07-15T18:00:16Z",
+    "updated_at": "2026-07-15T18:01:56Z",
     "url": "https://github.com/momo840505/cyber-risk-intelligence-lakehouse"
+  },
+  {
+    "description": "MCP search and evidence tool for AI agents with query rewriting, source zoom-in, sourced answers, and runtime metrics.",
+    "id": "goofrey/zoom-search",
+    "language": "Python",
+    "name": "goofrey/zoom-search",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:01:50Z",
+    "url": "https://github.com/goofrey/zoom-search"
+  },
+  {
+    "description": "IncidentOps is a production ready full-stack incident management system built using Spring Boot and React. It provides a",
+    "id": "ArjunRai1/IncidentOps",
+    "language": "Java",
+    "name": "ArjunRai1/IncidentOps",
+    "stars": 0,
+    "updated_at": "2026-07-15T18:01:36Z",
+    "url": "https://github.com/ArjunRai1/IncidentOps"
+  },
+  {
+    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 39,
+    "updated_at": "2026-07-15T18:00:57Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "Plataforma open-source de Engenharia de IA sobre a regula\u00e7\u00e3o e os dados abertos do transporte rodovi\u00e1rio brasileiro (ANT",
+    "id": "alanjoffre/rodoia",
+    "language": "Python",
+    "name": "alanjoffre/rodoia",
+    "stars": 1,
+    "updated_at": "2026-07-15T18:00:52Z",
+    "url": "https://github.com/alanjoffre/rodoia"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-15T18:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
+    "id": "AnalyseDeCircuit/oxideterm",
+    "language": "Rust",
+    "name": "AnalyseDeCircuit/oxideterm",
+    "stars": 936,
+    "updated_at": "2026-07-15T18:00:22Z",
+    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over ",
@@ -99,6 +171,15 @@
     "url": "https://github.com/patchy631/ai-engineering-hub"
   },
   {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 30908,
+    "updated_at": "2026-07-15T17:58:11Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -113,7 +194,7 @@
     "language": "Go",
     "name": "shikanon/orag",
     "stars": 0,
-    "updated_at": "2026-07-15T17:57:43Z",
+    "updated_at": "2026-07-15T18:00:54Z",
     "url": "https://github.com/shikanon/orag"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:55:43Z",
     "url": "https://github.com/wasifrepo/buildcore-rag"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 30907,
-    "updated_at": "2026-07-15T17:58:11Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
     "description": "Route dev tasks through tool \u2192 python \u2192 ollama \u2192 RAG before escalating to Cursor",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "RikyZ90/ShibaClaw",
     "stars": 77,
-    "updated_at": "2026-07-15T18:00:06Z",
+    "updated_at": "2026-07-15T18:01:00Z",
     "url": "https://github.com/RikyZ90/ShibaClaw"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45238,
-    "updated_at": "2026-07-15T17:50:39Z",
+    "updated_at": "2026-07-15T18:00:36Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -295,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-07-15T17:49:52Z",
     "url": "https://github.com/FabricioLR/Laravel_Rag_Chabot"
-  },
-  {
-    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
-    "id": "AnalyseDeCircuit/oxideterm",
-    "language": "Rust",
-    "name": "AnalyseDeCircuit/oxideterm",
-    "stars": 935,
-    "updated_at": "2026-07-15T17:52:15Z",
-    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Rust-based code knowledge engine for AI agents and developers",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:46:40Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
-    "id": "langchain-ai/langchain-milvus",
-    "language": "Python",
-    "name": "langchain-ai/langchain-milvus",
-    "stars": 56,
-    "updated_at": "2026-07-15T17:46:10Z",
-    "url": "https://github.com/langchain-ai/langchain-milvus"
-  },
-  {
-    "description": "Code samples for building AI applications on AWS with Amazon Bedrock, including Converse API, tool use, RAG with Knowled",
-    "id": "aws-samples/sample-amazon-bedrock-for-beginners",
-    "language": "Python",
-    "name": "aws-samples/sample-amazon-bedrock-for-beginners",
-    "stars": 39,
-    "updated_at": "2026-07-15T17:45:59Z",
-    "url": "https://github.com/aws-samples/sample-amazon-bedrock-for-beginners"
-  },
-  {
-    "description": "A fully private, local RAG system for selectable-text PDFs using hierarchical tree search and D3 spatial graphs.",
-    "id": "ReshanHameed/private-pageindex-rag",
-    "language": "Python",
-    "name": "ReshanHameed/private-pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-07-15T17:46:42Z",
-    "url": "https://github.com/ReshanHameed/private-pageindex-rag"
-  },
-  {
-    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and P",
-    "id": "tale-project/tale",
-    "language": "TypeScript",
-    "name": "tale-project/tale",
-    "stars": 14,
-    "updated_at": "2026-07-15T17:51:30Z",
-    "url": "https://github.com/tale-project/tale"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:45:32Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-hosted RAG where every answer is cited, Ed25519-signed into a hash chain, and replayable byte-for-byte. Live demo: ",
-    "id": "mj-deving/audit-grade-rag",
-    "language": "TypeScript",
-    "name": "mj-deving/audit-grade-rag",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:45:22Z",
-    "url": "https://github.com/mj-deving/audit-grade-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   }
 ]
