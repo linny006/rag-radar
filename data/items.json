@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-16T17:45:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
+    "id": "SidharthKriplani/genai-systems-lab",
+    "language": "JavaScript",
+    "name": "SidharthKriplani/genai-systems-lab",
+    "stars": 0,
+    "updated_at": "2026-07-16T17:44:55Z",
+    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
+  },
+  {
     "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
     "id": "CSE-Sudo-26/sudo-capstone-project",
     "language": "Dart",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "avase33/consilium",
     "stars": 0,
-    "updated_at": "2026-07-16T17:43:43Z",
+    "updated_at": "2026-07-16T17:45:12Z",
     "url": "https://github.com/avase33/consilium"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/apod-1/ZoltarFinancial"
   },
   {
-    "description": "Configure the system. Watch it fail. Understand why. Interactive lab for AI engineers and PMs \u2014 RAG failure simulation, ",
-    "id": "SidharthKriplani/genai-systems-lab",
-    "language": "JavaScript",
-    "name": "SidharthKriplani/genai-systems-lab",
-    "stars": 0,
-    "updated_at": "2026-07-16T17:44:55Z",
-    "url": "https://github.com/SidharthKriplani/genai-systems-lab"
-  },
-  {
     "description": "Menu-bar app: PDFs, Office & images \u2192 clean Markdown on your Mac. Offline, local, no API keys.",
     "id": "harshabala/PareseKit",
     "language": "Rust",
@@ -412,15 +421,6 @@
     "stars": 2,
     "updated_at": "2026-07-16T17:30:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-16T17:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
