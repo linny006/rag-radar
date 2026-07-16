@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-16T09:01:23Z",
+    "url": "https://github.com/heichaowo/amem"
+  },
+  {
+    "description": "Profile front page: Applied AI Engineer, agentic engineering. Multi-agent systems, MCP and agent tooling, RAG/CAG accura",
+    "id": "hec-ovi/hec-ovi",
+    "language": "\u2014",
+    "name": "hec-ovi/hec-ovi",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:01:12Z",
+    "url": "https://github.com/hec-ovi/hec-ovi"
+  },
+  {
+    "description": "Hybrid RAG assistant for insurance documents with BM25, Elasticsearch, Qwen Embeddings, and Tavily web search.",
+    "id": "crake7even/insurance-rag-assistant",
+    "language": "Python",
+    "name": "crake7even/insurance-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:00:46Z",
+    "url": "https://github.com/crake7even/insurance-rag-assistant"
+  },
+  {
+    "description": "Self-hosted, modular, local-first personal-assistant platform \u2014 an AI agent plus pluggable integration modules.",
+    "id": "baakhoff/epicurus",
+    "language": "Python",
+    "name": "baakhoff/epicurus",
+    "stars": 1,
+    "updated_at": "2026-07-16T09:00:38Z",
+    "url": "https://github.com/baakhoff/epicurus"
+  },
+  {
+    "description": "Open-source multi-agent AI assistant powered by LangGraph, FastAPI & Next.js \u2014 16+ agents, Human-in-the-Loop, MCP integr",
+    "id": "jgouviergmail/LIA-Assistant",
+    "language": "Python",
+    "name": "jgouviergmail/LIA-Assistant",
+    "stars": 4,
+    "updated_at": "2026-07-16T09:00:36Z",
+    "url": "https://github.com/jgouviergmail/LIA-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-16T09:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-16T09:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Chat over your documents, then persist offline evals, compare runs by case_id, and trace every answer in the query log \u2014",
     "id": "Padraigobrien08/rag-eval-observe",
     "language": "TypeScript",
@@ -243,15 +306,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Self-hosted, modular, local-first personal-assistant platform \u2014 an AI agent plus pluggable integration modules.",
-    "id": "baakhoff/epicurus",
-    "language": "Python",
-    "name": "baakhoff/epicurus",
-    "stars": 1,
-    "updated_at": "2026-07-16T08:56:36Z",
-    "url": "https://github.com/baakhoff/epicurus"
-  },
-  {
     "description": "Local-first memory system for AI agents with project-safe save/recall, phase-scoped rules, 2D/3D Memory Galaxy visualiza",
     "id": "LLK-LL/Memnex",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-07-16T08:50:47Z",
     "url": "https://github.com/LLK-LL/Memnex"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-16T08:51:12Z",
-    "url": "https://github.com/heichaowo/amem"
   },
   {
     "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
@@ -320,7 +365,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 149020,
-    "updated_at": "2026-07-16T08:51:57Z",
+    "updated_at": "2026-07-16T09:00:48Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -351,24 +396,6 @@
     "url": "https://github.com/WangRongsheng/awesome-LLM-resources"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-16T08:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-16T08:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -385,15 +412,6 @@
     "stars": 1551,
     "updated_at": "2026-07-16T08:44:25Z",
     "url": "https://github.com/trpc-group/trpc-agent-go"
-  },
-  {
-    "description": "Open-source multi-agent AI assistant powered by LangGraph, FastAPI & Next.js \u2014 16+ agents, Human-in-the-Loop, MCP integr",
-    "id": "jgouviergmail/LIA-Assistant",
-    "language": "Python",
-    "name": "jgouviergmail/LIA-Assistant",
-    "stars": 4,
-    "updated_at": "2026-07-16T09:00:19Z",
-    "url": "https://github.com/jgouviergmail/LIA-Assistant"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-16T08:52:50Z",
     "url": "https://github.com/NorthlandPositronics/Cogtrix"
-  },
-  {
-    "description": "OpenLoomi is an open-source AI coworker and workspace for builders who want local-first work memory around their AI agen",
-    "id": "melandlabs/openloomi",
-    "language": "TypeScript",
-    "name": "melandlabs/openloomi",
-    "stars": 657,
-    "updated_at": "2026-07-16T08:42:45Z",
-    "url": "https://github.com/melandlabs/openloomi"
-  },
-  {
-    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
-    "id": "ModelEngine-Group/nexent",
-    "language": "Python",
-    "name": "ModelEngine-Group/nexent",
-    "stars": 5670,
-    "updated_at": "2026-07-16T08:42:42Z",
-    "url": "https://github.com/ModelEngine-Group/nexent"
   }
 ]
