@@ -1,12 +1,102 @@
 [
   {
+    "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\u5b98\u65b9\u8d44\u6599\u5e93\uff5c\u9e92\u5178 AI\u3001\u521b\u59cb\u4eba\u53f6\u7389\u6d69\u3001\u4f01\u4e1a AI \u843d\u5730\u65b9\u6cd5\u4e0e\u53ef\u5f15\u7528\u4e8b\u5b9e",
+    "id": "yyh19930816-prog/qidian-ai-official",
+    "language": "Python",
+    "name": "yyh19930816-prog/qidian-ai-official",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:46:41Z",
+    "url": "https://github.com/yyh19930816-prog/qidian-ai-official"
+  },
+  {
+    "description": "21 runnable reference implementations of agent design patterns, including routing, planning, RAG, tool use, reflection, ",
+    "id": "josephsenior/Agentic-Design-Patterns",
+    "language": "Python",
+    "name": "josephsenior/Agentic-Design-Patterns",
+    "stars": 32,
+    "updated_at": "2026-07-17T19:46:34Z",
+    "url": "https://github.com/josephsenior/Agentic-Design-Patterns"
+  },
+  {
+    "description": "AURA is an agentic harness that turns an LLM model into a reliable, autonomous service capable of executing real SRE wor",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 223,
+    "updated_at": "2026-07-17T19:46:30Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
     "description": "Rust-based code knowledge engine for AI agents and developers",
     "id": "RusTokRs/Athanor",
     "language": "Rust",
     "name": "RusTokRs/Athanor",
     "stars": 1,
-    "updated_at": "2026-07-17T19:45:02Z",
+    "updated_at": "2026-07-17T19:46:10Z",
     "url": "https://github.com/RusTokRs/Athanor"
+  },
+  {
+    "description": "A sovereign memory layer for LLMs: provenance, bi-temporal corrections, replay, recall and token economy.",
+    "id": "wilf974/MultiServices-AI",
+    "language": "Python",
+    "name": "wilf974/MultiServices-AI",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:46:06Z",
+    "url": "https://github.com/wilf974/MultiServices-AI"
+  },
+  {
+    "description": "",
+    "id": "redocto/image-text-structurizer",
+    "language": "Python",
+    "name": "redocto/image-text-structurizer",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:46:00Z",
+    "url": "https://github.com/redocto/image-text-structurizer"
+  },
+  {
+    "description": "AI-native builder and solutions architect, 25 years in software. Production LLM agents, MCP servers, RAG, and 24/7 auton",
+    "id": "janvrsinsky/janvrsinsky",
+    "language": "\u2014",
+    "name": "janvrsinsky/janvrsinsky",
+    "stars": 0,
+    "updated_at": "2026-07-17T19:45:38Z",
+    "url": "https://github.com/janvrsinsky/janvrsinsky"
+  },
+  {
+    "description": "Open-source causal graph memory for AI agents. 89.9% on LoCoMo. MCP server with ACT-R scoring, spreading activation, and",
+    "id": "rishimeka/genesys",
+    "language": "Python",
+    "name": "rishimeka/genesys",
+    "stars": 17,
+    "updated_at": "2026-07-17T19:45:37Z",
+    "url": "https://github.com/rishimeka/genesys"
+  },
+  {
+    "description": "c4 GenAI Suite",
+    "id": "codecentric/c4-genai-suite",
+    "language": "TypeScript",
+    "name": "codecentric/c4-genai-suite",
+    "stars": 171,
+    "updated_at": "2026-07-17T19:45:37Z",
+    "url": "https://github.com/codecentric/c4-genai-suite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-17T19:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-17T19:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd16 Transform AI text into engaging, human-like content that improves readability and boosts SEO performance for creators ",
@@ -72,15 +162,6 @@
     "url": "https://github.com/tobocop2/obsidian-lilbee"
   },
   {
-    "description": "Open-source causal graph memory for AI agents. 89.9% on LoCoMo. MCP server with ACT-R scoring, spreading activation, and",
-    "id": "rishimeka/genesys",
-    "language": "Python",
-    "name": "rishimeka/genesys",
-    "stars": 17,
-    "updated_at": "2026-07-17T19:44:05Z",
-    "url": "https://github.com/rishimeka/genesys"
-  },
-  {
     "description": "\ud83e\udd16 Build deep learning systems for vision, language, and real-world data as an AI & ML Engineer dedicated to advancing te",
     "id": "Ruelbernal03/Yigtwxx",
     "language": "\u2014",
@@ -131,7 +212,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18756,
-    "updated_at": "2026-07-17T19:44:35Z",
+    "updated_at": "2026-07-17T19:46:44Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -351,15 +432,6 @@
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
   },
   {
-    "description": "A sovereign memory layer for LLMs: provenance, bi-temporal corrections, replay, recall and token economy.",
-    "id": "wilf974/MultiServices-AI",
-    "language": "Python",
-    "name": "wilf974/MultiServices-AI",
-    "stars": 0,
-    "updated_at": "2026-07-17T19:38:46Z",
-    "url": "https://github.com/wilf974/MultiServices-AI"
-  },
-  {
     "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
     "id": "titit-star/ethora-sdk-swift",
     "language": "Swift",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T19:38:23Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "This repo is about learning LLM from scratch. It includes all the foundation or core concept required for LLM understand",
-    "id": "prabhuiitdhn/llm_from_scratch",
-    "language": "Python",
-    "name": "prabhuiitdhn/llm_from_scratch",
-    "stars": 1,
-    "updated_at": "2026-07-17T19:38:03Z",
-    "url": "https://github.com/prabhuiitdhn/llm_from_scratch"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-07-17T19:37:47Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Self-learning skill router for AI agents. 6-stage pipeline with anti-hallucination protections. Model-agnostic MCP serve",
-    "id": "ForYourHelpAI101/skill-router-g6",
-    "language": "Python",
-    "name": "ForYourHelpAI101/skill-router-g6",
-    "stars": 0,
-    "updated_at": "2026-07-17T19:37:42Z",
-    "url": "https://github.com/ForYourHelpAI101/skill-router-g6"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 304,
-    "updated_at": "2026-07-17T19:37:05Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "\ud83e\udde0 Analyze market trends with AI to forecast investments and enhance decision-making using real-time data and advanced an",
-    "id": "vieta123456/ai-market",
-    "language": "Python",
-    "name": "vieta123456/ai-market",
-    "stars": 0,
-    "updated_at": "2026-07-17T19:36:48Z",
-    "url": "https://github.com/vieta123456/ai-market"
-  },
-  {
-    "description": "A full-stack AI-powered platform for verifying whether generated claims are supported by source documents.",
-    "id": "HeLevis44/claimcheck-ai",
-    "language": "Python",
-    "name": "HeLevis44/claimcheck-ai",
-    "stars": 0,
-    "updated_at": "2026-07-17T19:36:38Z",
-    "url": "https://github.com/HeLevis44/claimcheck-ai"
-  },
-  {
-    "description": "Local-first personal AI assistant: runs local LLMs with approval-gated tools and retrieval memory, fully offline \u2014 for c",
-    "id": "PapaKoftes/Layla",
-    "language": "Python",
-    "name": "PapaKoftes/Layla",
-    "stars": 1,
-    "updated_at": "2026-07-17T19:36:30Z",
-    "url": "https://github.com/PapaKoftes/Layla"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 1,
-    "updated_at": "2026-07-17T19:36:29Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
   }
 ]
