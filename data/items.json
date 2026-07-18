@@ -1,5 +1,77 @@
 [
   {
+    "description": "RAG-\u0430\u0433\u0435\u043d\u0442 \u043d\u0430 LangGraph (\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c/\u0437\u0430\u0440\u043f\u043b\u0430\u0442\u0430\u043c): \u0433\u0440\u0430\u0444 classify \u2192 qdrant/market \u2192 answer \u0441 \u0443\u0441\u043b\u043e\u0432\u043d\u043e\u0439 \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437",
+    "id": "GDV-prog/rag-langgraph-agent",
+    "language": "Python",
+    "name": "GDV-prog/rag-langgraph-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T11:30:08Z",
+    "url": "https://github.com/GDV-prog/rag-langgraph-agent"
+  },
+  {
+    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
+    "id": "tysto1727/ComfyUI-Boogu",
+    "language": "Python",
+    "name": "tysto1727/ComfyUI-Boogu",
+    "stars": 1,
+    "updated_at": "2026-07-18T11:30:06Z",
+    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
+  },
+  {
+    "description": "Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi",
+    "id": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
+    "language": "Batchfile",
+    "name": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
+    "stars": 0,
+    "updated_at": "2026-07-18T11:29:54Z",
+    "url": "https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-07-18T11:29:50Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Graph-first code retrieval: ask a code graph where X lives instead of reading 30 files. Hybrid seed (lexical + cross-lan",
+    "id": "kamusmg/cerebro-engine",
+    "language": "JavaScript",
+    "name": "kamusmg/cerebro-engine",
+    "stars": 0,
+    "updated_at": "2026-07-18T11:29:33Z",
+    "url": "https://github.com/kamusmg/cerebro-engine"
+  },
+  {
+    "description": "Personal Portfolio Website of Dhruv Mishra. A sketchbook style website, with details about me. It also has a feedback se",
+    "id": "Dhruv-Mishra/portfolioWebsite",
+    "language": "TypeScript",
+    "name": "Dhruv-Mishra/portfolioWebsite",
+    "stars": 2,
+    "updated_at": "2026-07-18T11:29:27Z",
+    "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T11:28:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
+    "id": "Free-Soul/MemDreamer",
+    "language": "Python",
+    "name": "Free-Soul/MemDreamer",
+    "stars": 2,
+    "updated_at": "2026-07-18T11:28:44Z",
+    "url": "https://github.com/Free-Soul/MemDreamer"
+  },
+  {
     "description": "Local-first Agentic AI Infrastructure Platform with LLM Gateway, Agent DAG Runtime, MCP Tool Hub, A2A Agent Mesh, Local ",
     "id": "leizd/DeepSeek-Infra",
     "language": "Python",
@@ -302,7 +374,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3236,
-    "updated_at": "2026-07-18T11:22:51Z",
+    "updated_at": "2026-07-18T11:28:52Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T11:21:18Z",
     "url": "https://github.com/dpi-workshop/copy-tag-link"
-  },
-  {
-    "description": "Synthesize contradictory research from your Zotero library using dialectical reasoning and LLaMA 3.1 to generate grounde",
-    "id": "CLODOALDO14/epistemic-conflict-engine",
-    "language": "Python",
-    "name": "CLODOALDO14/epistemic-conflict-engine",
-    "stars": 1,
-    "updated_at": "2026-07-18T11:20:58Z",
-    "url": "https://github.com/CLODOALDO14/epistemic-conflict-engine"
-  },
-  {
-    "description": "Co-Founder is a multi agent system with shared memory that help small business run efficiently",
-    "id": "karthik132007/Co_Founder",
-    "language": "TypeScript",
-    "name": "karthik132007/Co_Founder",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:20:45Z",
-    "url": "https://github.com/karthik132007/Co_Founder"
-  },
-  {
-    "description": "Build a production-ready blog system with a high-performance Go backend, React frontend, and clean architecture.",
-    "id": "drillingmuduplifting7389/Solace",
-    "language": "\u2014",
-    "name": "drillingmuduplifting7389/Solace",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:20:28Z",
-    "url": "https://github.com/drillingmuduplifting7389/Solace"
-  },
-  {
-    "description": "No-code AI chatbot platform with Zero-Speculation RAG. Train chatbots on your documents and embed them into any website ",
-    "id": "Patel-Priyank-1602/CreBot",
-    "language": "TypeScript",
-    "name": "Patel-Priyank-1602/CreBot",
-    "stars": 1,
-    "updated_at": "2026-07-18T11:20:05Z",
-    "url": "https://github.com/Patel-Priyank-1602/CreBot"
-  },
-  {
-    "description": "Implement a high-recall local memory system for Node.js using verbatim storage and pluggable vector backends without clo",
-    "id": "limggamepro/mempalace-node",
-    "language": "\u2014",
-    "name": "limggamepro/mempalace-node",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:20:04Z",
-    "url": "https://github.com/limggamepro/mempalace-node"
-  },
-  {
-    "description": "Enable local semantic search for personal documents using Python, ChromaDB, and the Model Context Protocol.",
-    "id": "Timesukkumnerd/resonant-archive",
-    "language": "Python",
-    "name": "Timesukkumnerd/resonant-archive",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:19:54Z",
-    "url": "https://github.com/Timesukkumnerd/resonant-archive"
-  },
-  {
-    "description": "Benchmark performance of RAG and RLM-based MCP servers for 1C codebases using automated E2E testing to optimize AI assis",
-    "id": "jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp",
-    "language": "\u2014",
-    "name": "jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp",
-    "stars": 1,
-    "updated_at": "2026-07-18T11:19:34Z",
-    "url": "https://github.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp"
-  },
-  {
-    "description": "Equip lawyers with nine professional analytical frameworks for decision trees, game theory, contract design, and financi",
-    "id": "godo6818/AnythingButLaw",
-    "language": "\u2014",
-    "name": "godo6818/AnythingButLaw",
-    "stars": 1,
-    "updated_at": "2026-07-18T11:19:28Z",
-    "url": "https://github.com/godo6818/AnythingButLaw"
   }
 ]
