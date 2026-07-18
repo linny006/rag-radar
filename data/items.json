@@ -1,5 +1,104 @@
 [
   {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "JavaScript",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-07-18T09:00:00Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "",
+    "id": "TUDONG05/study-assistant-chatbot",
+    "language": "Python",
+    "name": "TUDONG05/study-assistant-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:59:49Z",
+    "url": "https://github.com/TUDONG05/study-assistant-chatbot"
+  },
+  {
+    "description": "Production-ready e-commerce AI support assistant using Next.js, NestJS, OpenAI, PostgreSQL, and pgvector, featuring stre",
+    "id": "alireza-sohrabi/ecommerce-ai-support-assistant",
+    "language": "\u2014",
+    "name": "alireza-sohrabi/ecommerce-ai-support-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:59:32Z",
+    "url": "https://github.com/alireza-sohrabi/ecommerce-ai-support-assistant"
+  },
+  {
+    "description": "Real-time credit-risk decisioning service: governed PD model (MLflow) + grounded LLM adverse-action reason codes (SHAP +",
+    "id": "faiber1986/CreditSentinel",
+    "language": "HTML",
+    "name": "faiber1986/CreditSentinel",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:59:19Z",
+    "url": "https://github.com/faiber1986/CreditSentinel"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 186,
+    "updated_at": "2026-07-18T08:59:12Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
+    "id": "tomyimkc/sophia-agi",
+    "language": "Python",
+    "name": "tomyimkc/sophia-agi",
+    "stars": 5,
+    "updated_at": "2026-07-18T08:58:43Z",
+    "url": "https://github.com/tomyimkc/sophia-agi"
+  },
+  {
+    "description": "Self-hostable email for humans and agents on Cloudflare: send, receive, search, MCP, IMAP, and webmail.",
+    "id": "skyphusion-labs/postern",
+    "language": "TypeScript",
+    "name": "skyphusion-labs/postern",
+    "stars": 4,
+    "updated_at": "2026-07-18T08:58:34Z",
+    "url": "https://github.com/skyphusion-labs/postern"
+  },
+  {
+    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
+    "id": "The-Geek-Freaks/NEOTH",
+    "language": "Rust",
+    "name": "The-Geek-Freaks/NEOTH",
+    "stars": 5,
+    "updated_at": "2026-07-18T08:57:52Z",
+    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:57:48Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T08:57:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, multi-user AI life-ops platform \u2014 multi-agent orchestration with human-in-the-loop safety, tiered model rou",
+    "id": "chiranjeevigundu/aadyon-assist",
+    "language": "Python",
+    "name": "chiranjeevigundu/aadyon-assist",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:57:37Z",
+    "url": "https://github.com/chiranjeevigundu/aadyon-assist"
+  },
+  {
     "description": ".NET SDK for preparing web content for RAG systems \u2014 crawls, extracts, and chunks websites with interface-based AI servi",
     "id": "iyulab/WebFlux",
     "language": "C#",
@@ -34,6 +133,15 @@
     "stars": 124,
     "updated_at": "2026-07-18T08:56:55Z",
     "url": "https://github.com/HybridAIOne/hybridclaw"
+  },
+  {
+    "description": "\u26a1 The fastest semantic text chunking library \u2014 a SIMD-accelerated Rust core with a sync + async Python API.",
+    "id": "Deepchavda007/blazechunk",
+    "language": "Rust",
+    "name": "Deepchavda007/blazechunk",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:56:08Z",
+    "url": "https://github.com/Deepchavda007/blazechunk"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -108,6 +216,15 @@
     "url": "https://github.com/alvinreal/awesome-opensource-ai"
   },
   {
+    "description": "",
+    "id": "fajsh/query-clf-adaptive-rag",
+    "language": "Python",
+    "name": "fajsh/query-clf-adaptive-rag",
+    "stars": 0,
+    "updated_at": "2026-07-18T08:55:13Z",
+    "url": "https://github.com/fajsh/query-clf-adaptive-rag"
+  },
+  {
     "description": "Self-hosted autonomous AI agent for Linux \u2014 multi-LLM, real desktop control (VNC), WhatsApp, RAG knowledge base, sandbox",
     "id": "dev-core-busy/jarvis",
     "language": "Python",
@@ -133,15 +250,6 @@
     "stars": 8,
     "updated_at": "2026-07-18T08:53:44Z",
     "url": "https://github.com/renezander030/agentic-task-system"
-  },
-  {
-    "description": "Production-ready e-commerce AI support assistant using Next.js, NestJS, OpenAI, PostgreSQL, and pgvector, featuring stre",
-    "id": "alireza-sohrabi/ecommerce-ai-support-assistant",
-    "language": "\u2014",
-    "name": "alireza-sohrabi/ecommerce-ai-support-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:54:14Z",
-    "url": "https://github.com/alireza-sohrabi/ecommerce-ai-support-assistant"
   },
   {
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
@@ -270,15 +378,6 @@
     "url": "https://github.com/Hrithik875/JustiBot"
   },
   {
-    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
-    "id": "The-Geek-Freaks/NEOTH",
-    "language": "Rust",
-    "name": "The-Geek-Freaks/NEOTH",
-    "stars": 5,
-    "updated_at": "2026-07-18T08:48:05Z",
-    "url": "https://github.com/The-Geek-Freaks/NEOTH"
-  },
-  {
     "description": "",
     "id": "moyunzero/personal-gpt",
     "language": "TypeScript",
@@ -342,15 +441,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-18T08:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 18757,
     "updated_at": "2026-07-18T08:50:47Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Cloudflare-native open-source memory infrastructure for AI tools and MCP clients",
-    "id": "andrew-bierman/openmemory",
-    "language": "TypeScript",
-    "name": "andrew-bierman/openmemory",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:45:01Z",
-    "url": "https://github.com/andrew-bierman/openmemory"
-  },
-  {
-    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
-    "id": "jee3m/augmentative-knowledge-hooks",
-    "language": "HTML",
-    "name": "jee3m/augmentative-knowledge-hooks",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:43:14Z",
-    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "UmaDev: A coding agent that works like a real dev team, commanding the Claude Code / Codex / OpenCode you already use.",
-    "id": "umacloud/umadev",
-    "language": "Rust",
-    "name": "umacloud/umadev",
-    "stars": 241,
-    "updated_at": "2026-07-18T08:42:39Z",
-    "url": "https://github.com/umacloud/umadev"
-  },
-  {
-    "description": "A neutral, provenance-first, machine-readable corpus of deep seabed mining law \u2014 UNCLOS Part XI, the ISA regime and draf",
-    "id": "dacheah/deep-seabed-mining-law-corpus",
-    "language": "Python",
-    "name": "dacheah/deep-seabed-mining-law-corpus",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:41:41Z",
-    "url": "https://github.com/dacheah/deep-seabed-mining-law-corpus"
-  },
-  {
-    "description": "Enterprise AI Incident Resolution System using n8n, Google Gemini, Pinecone, and Retrieval-Augmented Generation (RAG)",
-    "id": "dasu07988/Enterprise-AI-Incident-Resolution-System",
-    "language": "JavaScript",
-    "name": "dasu07988/Enterprise-AI-Incident-Resolution-System",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:41:38Z",
-    "url": "https://github.com/dasu07988/Enterprise-AI-Incident-Resolution-System"
-  },
-  {
-    "description": "Personal AI exocortex \u2014 a multi-agent LLM system on GCP: RAG long-term memory, hexagonal architecture, provider-agnostic",
-    "id": "ddmd72/alekbot-core",
-    "language": "Python",
-    "name": "ddmd72/alekbot-core",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:41:25Z",
-    "url": "https://github.com/ddmd72/alekbot-core"
-  },
-  {
-    "description": "AI-powered academic research platform for paper search, multi-agent reviews, knowledge graphs, and personalized research",
-    "id": "KimJiSeong1994/PaperReview",
-    "language": "Python",
-    "name": "KimJiSeong1994/PaperReview",
-    "stars": 1,
-    "updated_at": "2026-07-18T08:41:17Z",
-    "url": "https://github.com/KimJiSeong1994/PaperReview"
-  },
-  {
-    "description": "\u0130ngilizcesi:  > Offline document Q&A assistant powered by Foundry Local (RAG + SQLite + local LLM).  Slash ile birle\u015ftir",
-    "id": "MustafaEmreBiyik/foundry-local-rag",
-    "language": "Python",
-    "name": "MustafaEmreBiyik/foundry-local-rag",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:40:58Z",
-    "url": "https://github.com/MustafaEmreBiyik/foundry-local-rag"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:40:44Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "TypeScript AI agent framework with multi-judge hallucination verifier + Vectara HHEM-2.1, pre-tool-call governance/appro",
-    "id": "zakky8/TENET",
-    "language": "TypeScript",
-    "name": "zakky8/TENET",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:40:41Z",
-    "url": "https://github.com/zakky8/TENET"
   }
 ]
