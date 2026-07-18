@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udc19 FastAPI Journal Automation uses Gemini and Groq LLaMA to auto-create and enrich journal articles via CORE API, with Py",
+    "id": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
+    "language": "Python",
+    "name": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
+    "stars": 2,
+    "updated_at": "2026-07-18T21:14:56Z",
+    "url": "https://github.com/aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System"
+  },
+  {
+    "description": "Applied AI for design and construction: evaluated AEC retrieval, embodied-agent simulation, computational design, projec",
+    "id": "josiahsutd-stack/ai-portfolio",
+    "language": "Python",
+    "name": "josiahsutd-stack/ai-portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:14:55Z",
+    "url": "https://github.com/josiahsutd-stack/ai-portfolio"
+  },
+  {
+    "description": "Comprehensive guide to FastAPI, Pydantic, and SQLAlchemy for AI engineers. Learn API design, validation, and ORM workflo",
+    "id": "Fahadfk/AI_deployment",
+    "language": "\u2014",
+    "name": "Fahadfk/AI_deployment",
+    "stars": 3,
+    "updated_at": "2026-07-18T21:14:10Z",
+    "url": "https://github.com/Fahadfk/AI_deployment"
+  },
+  {
+    "description": "TAILOR \u2014 self-hosted AI memory framework. 100% local, LLM-agnostic, MCP-native",
+    "id": "tailormemory/tailor",
+    "language": "Python",
+    "name": "tailormemory/tailor",
+    "stars": 2,
+    "updated_at": "2026-07-18T21:14:03Z",
+    "url": "https://github.com/tailormemory/tailor"
+  },
+  {
+    "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\u5b98\u65b9\u8d44\u6599\u5e93\uff5c\u9e92\u5178 AI\u3001\u521b\u59cb\u4eba\u53f6\u7389\u6d69\u3001\u4f01\u4e1a AI \u843d\u5730\u65b9\u6cd5\u4e0e\u53ef\u5f15\u7528\u4e8b\u5b9e",
+    "id": "yyh19930816-prog/qidian-ai-official",
+    "language": "Python",
+    "name": "yyh19930816-prog/qidian-ai-official",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:13:49Z",
+    "url": "https://github.com/yyh19930816-prog/qidian-ai-official"
+  },
+  {
+    "description": "Build a robust, production-ready RAG system with effective data preparation, anonymization, and LLM integration. Explore",
+    "id": "Megaboy12346/complex-RAG-guide",
+    "language": "Jupyter Notebook",
+    "name": "Megaboy12346/complex-RAG-guide",
+    "stars": 2,
+    "updated_at": "2026-07-18T21:13:45Z",
+    "url": "https://github.com/Megaboy12346/complex-RAG-guide"
+  },
+  {
+    "description": "Cloudflare-native open-source memory infrastructure for AI tools and MCP clients",
+    "id": "andrew-bierman/openmemory",
+    "language": "TypeScript",
+    "name": "andrew-bierman/openmemory",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:13:38Z",
+    "url": "https://github.com/andrew-bierman/openmemory"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:13:30Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-18T21:13:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-powered university assistant built with FastAPI, Google Gemini, semantic search, and Retrieval-Augmented Generation (",
     "id": "DiNozzo7/KIU-AI-Assistant",
     "language": "Python",
@@ -70,6 +151,15 @@
     "stars": 5,
     "updated_at": "2026-07-18T21:11:32Z",
     "url": "https://github.com/Bradox54/Generative-AI-Projects"
+  },
+  {
+    "description": "RAG pipeline that generates QA test cases from PRDs, with hand-built retrieval and faithfulness evaluation",
+    "id": "TheOnlyRoshan/ai-testcase-generator-rag",
+    "language": "Python",
+    "name": "TheOnlyRoshan/ai-testcase-generator-rag",
+    "stars": 0,
+    "updated_at": "2026-07-18T21:11:03Z",
+    "url": "https://github.com/TheOnlyRoshan/ai-testcase-generator-rag"
   },
   {
     "description": "The agent engineering platform.",
@@ -252,21 +342,12 @@
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
-    "description": "Applied AI for design and construction: evaluated AEC retrieval, embodied-agent simulation, computational design, projec",
-    "id": "josiahsutd-stack/ai-portfolio",
-    "language": "Python",
-    "name": "josiahsutd-stack/ai-portfolio",
-    "stars": 0,
-    "updated_at": "2026-07-18T21:04:56Z",
-    "url": "https://github.com/josiahsutd-stack/ai-portfolio"
-  },
-  {
     "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & edit",
     "id": "yfedoseev/pdf_oxide",
     "language": "Rust",
     "name": "yfedoseev/pdf_oxide",
     "stars": 892,
-    "updated_at": "2026-07-18T21:04:19Z",
+    "updated_at": "2026-07-18T21:15:10Z",
     "url": "https://github.com/yfedoseev/pdf_oxide"
   },
   {
@@ -304,15 +385,6 @@
     "stars": 6,
     "updated_at": "2026-07-18T21:02:54Z",
     "url": "https://github.com/rish-1997/wsl-assistant"
-  },
-  {
-    "description": "Cloudflare-native open-source memory infrastructure for AI tools and MCP clients",
-    "id": "andrew-bierman/openmemory",
-    "language": "TypeScript",
-    "name": "andrew-bierman/openmemory",
-    "stars": 0,
-    "updated_at": "2026-07-18T21:11:27Z",
-    "url": "https://github.com/andrew-bierman/openmemory"
   },
   {
     "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
@@ -360,15 +432,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-18T21:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T21:09:55Z",
     "url": "https://github.com/paulhondola/groundly"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:59:03Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Weave your agents' memories into one searchable fabric \u2014 local-first, pluggable, raw-preserving.",
-    "id": "atbeta/memloom",
-    "language": "Python",
-    "name": "atbeta/memloom",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:58:59Z",
-    "url": "https://github.com/atbeta/memloom"
-  },
-  {
-    "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\uff08\u9e92\u5178 AI\uff09\u5b98\u7f51\u516c\u5f00\u955c\u50cf\uff5c\u521b\u59cb\u4eba\u53f6\u7389\u6d69\uff5c\u4f01\u4e1a AI \u843d\u5730\u3001\u667a\u80fd\u4f53\u3001RAG\u3001GEO",
-    "id": "yyh19930816-prog/qidian-ai-site",
-    "language": "HTML",
-    "name": "yyh19930816-prog/qidian-ai-site",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:58:45Z",
-    "url": "https://github.com/yyh19930816-prog/qidian-ai-site"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 1,
-    "updated_at": "2026-07-18T20:58:41Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
-    "id": "tobocop2/lilbee",
-    "language": "Python",
-    "name": "tobocop2/lilbee",
-    "stars": 38,
-    "updated_at": "2026-07-18T20:58:03Z",
-    "url": "https://github.com/tobocop2/lilbee"
-  },
-  {
-    "description": "SchemaMind turns plain-language questions into validated SQLite queries. Upload a .db, ask anything, and get back execut",
-    "id": "MahdiAmrollahi/schemamind",
-    "language": "Python",
-    "name": "MahdiAmrollahi/schemamind",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:57:44Z",
-    "url": "https://github.com/MahdiAmrollahi/schemamind"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-18T20:55:56Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
