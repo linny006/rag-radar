@@ -1,5 +1,77 @@
 [
   {
+    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image gen",
+    "id": "Osmantic/ODS",
+    "language": "Shell",
+    "name": "Osmantic/ODS",
+    "stars": 3290,
+    "updated_at": "2026-07-19T21:30:10Z",
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "description": "",
+    "id": "Adejare-ml/AI_Engineering_intership_projects",
+    "language": "Jupyter Notebook",
+    "name": "Adejare-ml/AI_Engineering_intership_projects",
+    "stars": 1,
+    "updated_at": "2026-07-19T21:29:50Z",
+    "url": "https://github.com/Adejare-ml/AI_Engineering_intership_projects"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 2327,
+    "updated_at": "2026-07-19T21:28:51Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "AI-powered job application tracker \u2014 JD analysis, pgvector resume matching, and streamed bullet tailoring, with a measur",
+    "id": "nkieu-config/job-tracker",
+    "language": "TypeScript",
+    "name": "nkieu-config/job-tracker",
+    "stars": 0,
+    "updated_at": "2026-07-19T21:27:41Z",
+    "url": "https://github.com/nkieu-config/job-tracker"
+  },
+  {
+    "description": "Open-source AI chat for Apple Silicon \u2014 with grounded documents, deterministic data analysis, and web search only when y",
+    "id": "Founder-NeutronTech/MacChat",
+    "language": "Python",
+    "name": "Founder-NeutronTech/MacChat",
+    "stars": 0,
+    "updated_at": "2026-07-19T21:27:20Z",
+    "url": "https://github.com/Founder-NeutronTech/MacChat"
+  },
+  {
+    "description": "\u4e66\u7ae5 ShuTong \u2014 HACP \u534f\u8bae\u9a8c\u8bc1 Demo",
+    "id": "VZIQAQ/shutong",
+    "language": "Python",
+    "name": "VZIQAQ/shutong",
+    "stars": 0,
+    "updated_at": "2026-07-19T21:26:31Z",
+    "url": "https://github.com/VZIQAQ/shutong"
+  },
+  {
+    "description": "Sovereign Agentic OS \u2014 self-hostable, EU-sovereign agentic data platform on Kubernetes (pre-beta). One Helm chart, runs ",
+    "id": "Data-Masterclass/sovereign-agentic-os",
+    "language": "TypeScript",
+    "name": "Data-Masterclass/sovereign-agentic-os",
+    "stars": 1,
+    "updated_at": "2026-07-19T21:26:28Z",
+    "url": "https://github.com/Data-Masterclass/sovereign-agentic-os"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T21:25:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Explainable credit risk intelligence platform with governed ML, SHAP, fairness diagnostics, RAG, monitoring, FastAPI, St",
     "id": "lucifersaha02/risklens-ai",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "XaviCode1000/webfang",
     "stars": 0,
-    "updated_at": "2026-07-19T21:25:22Z",
+    "updated_at": "2026-07-19T21:29:55Z",
     "url": "https://github.com/XaviCode1000/webfang"
   },
   {
@@ -49,7 +121,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 60249,
+    "stars": 60250,
     "updated_at": "2026-07-19T21:23:18Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:23:02Z",
     "url": "https://github.com/uroshp/scout-ci"
-  },
-  {
-    "description": "\u4e66\u7ae5 ShuTong \u2014 HACP \u534f\u8bae\u9a8c\u8bc1 Demo",
-    "id": "VZIQAQ/shutong",
-    "language": "Python",
-    "name": "VZIQAQ/shutong",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:21:07Z",
-    "url": "https://github.com/VZIQAQ/shutong"
   },
   {
     "description": "ChatCLI is a command-line application that utilizes LLMs\u2014such as those from Anthropic, OpenAI, and others\u2014to facilitate ",
@@ -131,7 +194,7 @@
     "language": "JavaScript",
     "name": "heaplabshq/heapchat",
     "stars": 0,
-    "updated_at": "2026-07-19T21:18:55Z",
+    "updated_at": "2026-07-19T21:26:21Z",
     "url": "https://github.com/heaplabshq/heapchat"
   },
   {
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18768,
-    "updated_at": "2026-07-19T21:25:43Z",
+    "updated_at": "2026-07-19T21:28:31Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-07-19T21:16:43Z",
     "url": "https://github.com/jeremylongshore/bobs-big-brain-compiler"
-  },
-  {
-    "description": "Open-source AI chat for Apple Silicon \u2014 with grounded documents, deterministic data analysis, and web search only when y",
-    "id": "Founder-NeutronTech/MacChat",
-    "language": "Python",
-    "name": "Founder-NeutronTech/MacChat",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:15:45Z",
-    "url": "https://github.com/Founder-NeutronTech/MacChat"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -216,15 +270,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T21:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Lightweight memory layer for AI agents: vectors + graph + metadata + entities. Local SQLite, 4-way RRF.",
     "id": "chinesewebman/mnelo",
     "language": "Python",
@@ -232,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T21:15:11Z",
     "url": "https://github.com/chinesewebman/mnelo"
-  },
-  {
-    "description": "Sovereign Agentic OS \u2014 self-hostable, EU-sovereign agentic data platform on Kubernetes (pre-beta). One Helm chart, runs ",
-    "id": "Data-Masterclass/sovereign-agentic-os",
-    "language": "TypeScript",
-    "name": "Data-Masterclass/sovereign-agentic-os",
-    "stars": 1,
-    "updated_at": "2026-07-19T21:14:47Z",
-    "url": "https://github.com/Data-Masterclass/sovereign-agentic-os"
-  },
-  {
-    "description": "",
-    "id": "Adejare-ml/AI_Engineering_intership_projects",
-    "language": "Jupyter Notebook",
-    "name": "Adejare-ml/AI_Engineering_intership_projects",
-    "stars": 1,
-    "updated_at": "2026-07-19T21:13:22Z",
-    "url": "https://github.com/Adejare-ml/AI_Engineering_intership_projects"
   },
   {
     "description": "Drop-in LLM proxy that cuts token costs 30-70% (57% measured, quality-gated) via 28 transparent optimisations - caching,",
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "eric-cielo/moflo",
     "stars": 16,
-    "updated_at": "2026-07-19T21:07:27Z",
+    "updated_at": "2026-07-19T21:28:21Z",
     "url": "https://github.com/eric-cielo/moflo"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:04:51Z",
     "url": "https://github.com/luna22b/github-rag"
-  },
-  {
-    "description": "Local-first cognitive daemon for automated vault management Markdown. Semantic indexing, auto-tagging, and connection di",
-    "id": "kahz12/Grimore-MD",
-    "language": "Python",
-    "name": "kahz12/Grimore-MD",
-    "stars": 33,
-    "updated_at": "2026-07-19T21:04:21Z",
-    "url": "https://github.com/kahz12/Grimore-MD"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting notes + standalone notes with an on-device brain \u2014 records, transcribes (whisper.cpp) & re",
-    "id": "murmur-io/murmur",
-    "language": "Rust",
-    "name": "murmur-io/murmur",
-    "stars": 7,
-    "updated_at": "2026-07-19T21:04:04Z",
-    "url": "https://github.com/murmur-io/murmur"
-  },
-  {
-    "description": "Ask natural language questions about any codebase, whether it be local or on GitHub, with source-level citations and rep",
-    "id": "anish-siv/codebase-rag",
-    "language": "HTML",
-    "name": "anish-siv/codebase-rag",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:03:22Z",
-    "url": "https://github.com/anish-siv/codebase-rag"
   }
 ]
