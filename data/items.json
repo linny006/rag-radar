@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted, private medical-record archive for families \u2014 AI extraction of prescriptions, labs & vitals into a searchab",
+    "id": "sriraam-balaji/medical-history-rag",
+    "language": "TypeScript",
+    "name": "sriraam-balaji/medical-history-rag",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:15:05Z",
+    "url": "https://github.com/sriraam-balaji/medical-history-rag"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:15:01Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "A retrieval-first RAG search engine comparing BM25, dense FAISS retrieval, and Official Stanford ColBERTv2 on the BEIR S",
+    "id": "Akin-Unal/colbertv2-rag-search-engine",
+    "language": "Python",
+    "name": "Akin-Unal/colbertv2-rag-search-engine",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:14:00Z",
+    "url": "https://github.com/Akin-Unal/colbertv2-rag-search-engine"
+  },
+  {
+    "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\u5b98\u65b9\u8d44\u6599\u5e93\uff5c\u9e92\u5178 AI\u3001\u521b\u59cb\u4eba\u53f6\u7389\u6d69\u3001\u4f01\u4e1a AI \u843d\u5730\u65b9\u6cd5\u4e0e\u53ef\u5f15\u7528\u4e8b\u5b9e",
+    "id": "yyh19930816-prog/qidian-ai-official",
+    "language": "Python",
+    "name": "yyh19930816-prog/qidian-ai-official",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:13:59Z",
+    "url": "https://github.com/yyh19930816-prog/qidian-ai-official"
+  },
+  {
+    "description": "Production AI assistant built with LangGraph multi-step agent pipelines, RAG, Langfuse observability and Dockerized depl",
+    "id": "wbrunovieira/chatbotWBDigitalSolutionsLangGraph",
+    "language": "Python",
+    "name": "wbrunovieira/chatbotWBDigitalSolutionsLangGraph",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:13:53Z",
+    "url": "https://github.com/wbrunovieira/chatbotWBDigitalSolutionsLangGraph"
+  },
+  {
+    "description": "Multi-Agent AI Business Automation OS with Security Intelligence \u2014 5 AI agents (HR, Finance, Support, Analytics, Executi",
+    "id": "Nazmussakib247/CSE4204-8B-T04-Enterprise-Nexus-Multi-Agent-AI-Business-Automation-OS-with-Security-Intelligence",
+    "language": "TypeScript",
+    "name": "Nazmussakib247/CSE4204-8B-T04-Enterprise-Nexus-Multi-Agent-AI-Business-Automation-OS-with-Security-Intelligence",
+    "stars": 3,
+    "updated_at": "2026-07-19T16:13:28Z",
+    "url": "https://github.com/Nazmussakib247/CSE4204-8B-T04-Enterprise-Nexus-Multi-Agent-AI-Business-Automation-OS-with-Security-Intelligence"
+  },
+  {
+    "description": "Privacy-first local LLM chat app with RAG memory, AI agents, multi-model orchestration, WhatsApp integration & E2E-encry",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 3,
+    "updated_at": "2026-07-19T16:13:17Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T16:12:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (58+ servers), voice (TTS/",
+    "id": "juspay/neurolink",
+    "language": "TypeScript",
+    "name": "juspay/neurolink",
+    "stars": 112,
+    "updated_at": "2026-07-19T16:12:30Z",
+    "url": "https://github.com/juspay/neurolink"
+  },
+  {
     "description": "This repository contains all the assignments completed during the MirAI School of Technology \u2013 AI Summer Internship 2026",
     "id": "ShubhamSnSharma/mirai-ai-summer-internship-2026",
     "language": "Python",
@@ -252,15 +333,6 @@
     "url": "https://github.com/Cogeto/cogeto"
   },
   {
-    "description": "Privacy-first local LLM chat app with RAG memory, AI agents, multi-model orchestration, WhatsApp integration & E2E-encry",
-    "id": "BugraAkdemir/memo",
-    "language": "Go",
-    "name": "BugraAkdemir/memo",
-    "stars": 3,
-    "updated_at": "2026-07-19T16:00:29Z",
-    "url": "https://github.com/BugraAkdemir/memo"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -268,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T16:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T16:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI MCN \u81ea\u52a8\u63a8\u5e7f\u5de5\u5177 \u2014 \u4f60\u7684AI\u8425\u9500\u56e2\u961f\uff0c24\u5c0f\u65f6\u5728\u7ebf\u5de5\u4f5c\uff0c\u4e0d\u9886\u5de5\u8d44\u3002",
@@ -360,15 +423,6 @@
     "url": "https://github.com/caelum29/calibre-mcp"
   },
   {
-    "description": "Production AI assistant built with LangGraph multi-step agent pipelines, RAG, Langfuse observability and Dockerized depl",
-    "id": "wbrunovieira/chatbotWBDigitalSolutionsLangGraph",
-    "language": "Python",
-    "name": "wbrunovieira/chatbotWBDigitalSolutionsLangGraph",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:10:50Z",
-    "url": "https://github.com/wbrunovieira/chatbotWBDigitalSolutionsLangGraph"
-  },
-  {
     "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
     "id": "phonghhd/EvoNet-AI-Core",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T15:54:33Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:54:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Azure-native multi-agent AI platform for automated earnings analysis \u2014 retrieval, comparison, sentiment, and numeric ver",
-    "id": "prem332/quarterlens-ai-earnings-intelligence",
-    "language": "Python",
-    "name": "prem332/quarterlens-ai-earnings-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:54:05Z",
-    "url": "https://github.com/prem332/quarterlens-ai-earnings-intelligence"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 109,
-    "updated_at": "2026-07-19T16:02:03Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "A RAG app to breakdown complex technical documents ",
-    "id": "Kaynaaf/NanoRAG",
-    "language": "Python",
-    "name": "Kaynaaf/NanoRAG",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:53:53Z",
-    "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "LLM \uae30\ubc18 \ud68c\uacc4 \ub370\uc774\ud130 \ubd84\uc11d \uc5d0\uc774\uc804\ud2b8 \u2014 \ubd84\uac1c\uc7a5\u00b7\uc6d0\uc7a5\u00b7\uc2dc\uc0b0\ud45c\ub97c \uc790\ub3d9 \ub300\uc870 \uac80\uc99d\ud558\uace0, \ubca4\ud3ec\ub4dc \ubd84\uc11d\u00b7MUS \uc0d8\ud50c\ub9c1\u00b7\uc790\uc5f0\uc5b4 \ud504\ub86c\ud504\ud2b8 \ubd84\uc11d\uc744 \uc9c0\uc6d0\ud558\ub294 Streamlit \uc571",
-    "id": "sonjong980304-tech/journal-entry-test-agent",
-    "language": "Python",
-    "name": "sonjong980304-tech/journal-entry-test-agent",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:53:52Z",
-    "url": "https://github.com/sonjong980304-tech/journal-entry-test-agent"
-  },
-  {
-    "description": "A bilingual academic wiki with searchable knowledge, citation-grounded LLM answers, and agent-readable OKF exports.",
-    "id": "XinbaoQiao/XinbaoWiki",
-    "language": "JavaScript",
-    "name": "XinbaoQiao/XinbaoWiki",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:52:59Z",
-    "url": "https://github.com/XinbaoQiao/XinbaoWiki"
   }
 ]
