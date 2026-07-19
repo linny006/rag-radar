@@ -1,5 +1,68 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-19T08:44:33Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
+    "id": "strikersam/autonomous-ai-agency",
+    "language": "Python",
+    "name": "strikersam/autonomous-ai-agency",
+    "stars": 7,
+    "updated_at": "2026-07-19T08:44:33Z",
+    "url": "https://github.com/strikersam/autonomous-ai-agency"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 7,
+    "updated_at": "2026-07-19T08:44:15Z",
+    "url": "https://github.com/Artexis10/exomem"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) app \u2014 chat with your documents (PDF, DOCX, CSV, XLSX, TXT) using Gemini embeddings ",
+    "id": "HananAIBuilds/docuchat-ai",
+    "language": "Python",
+    "name": "HananAIBuilds/docuchat-ai",
+    "stars": 0,
+    "updated_at": "2026-07-19T08:43:45Z",
+    "url": "https://github.com/HananAIBuilds/docuchat-ai"
+  },
+  {
+    "description": "Lightweight memory layer for AI agents: vectors + graph + metadata + entities. Local SQLite, 4-way RRF.",
+    "id": "chinesewebman/mnelo",
+    "language": "Python",
+    "name": "chinesewebman/mnelo",
+    "stars": 1,
+    "updated_at": "2026-07-19T08:43:24Z",
+    "url": "https://github.com/chinesewebman/mnelo"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting notes + standalone notes with an on-device brain \u2014 records, transcribes (whisper.cpp) & re",
+    "id": "murmur-io/murmur",
+    "language": "Rust",
+    "name": "murmur-io/murmur",
+    "stars": 6,
+    "updated_at": "2026-07-19T08:42:51Z",
+    "url": "https://github.com/murmur-io/murmur"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T08:42:50Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A production-grade, structured, and memory-first software development lifecycle (SDLC) workflow orchestrator for AI codi",
     "id": "kyleit/AI-Agent-Workflow",
     "language": "Python",
@@ -45,15 +108,6 @@
     "url": "https://github.com/DevNexsler/RAG-In-A-Box"
   },
   {
-    "description": "Retrieval-Augmented Generation (RAG) app \u2014 chat with your documents (PDF, DOCX, CSV, XLSX, TXT) using Gemini embeddings ",
-    "id": "HananAIBuilds/docuchat-ai",
-    "language": "Python",
-    "name": "HananAIBuilds/docuchat-ai",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:40:06Z",
-    "url": "https://github.com/HananAIBuilds/docuchat-ai"
-  },
-  {
     "description": "",
     "id": "jjopensoftworks-blip/Scrubkit",
     "language": "C#",
@@ -86,7 +140,7 @@
     "language": "Elixir",
     "name": "engram-app/Engram",
     "stars": 7,
-    "updated_at": "2026-07-19T08:38:28Z",
+    "updated_at": "2026-07-19T08:42:51Z",
     "url": "https://github.com/engram-app/Engram"
   },
   {
@@ -126,20 +180,11 @@
     "url": "https://github.com/GatikTulsiani07/Giro.Gtdev"
   },
   {
-    "description": "Lightweight memory layer for AI agents: vectors + graph + metadata + entities. Local SQLite, 4-way RRF.",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:37:18Z",
-    "url": "https://github.com/chinesewebman/mnelo"
-  },
-  {
     "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0",
     "id": "KnockOutEZ/wigolo",
     "language": "TypeScript",
     "name": "KnockOutEZ/wigolo",
-    "stars": 1428,
+    "stars": 1430,
     "updated_at": "2026-07-19T08:37:13Z",
     "url": "https://github.com/KnockOutEZ/wigolo"
   },
@@ -239,7 +284,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3237,
-    "updated_at": "2026-07-19T08:41:52Z",
+    "updated_at": "2026-07-19T08:45:12Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T08:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T08:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Ascent \u2014 ask a 58-book AI/engineering library, on iOS. Streaming cited answers over a private knowledge-graph RAG backen",
@@ -396,15 +432,6 @@
     "url": "https://github.com/zubairporag/yu-ai-agent"
   },
   {
-    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting notes + standalone notes with an on-device brain \u2014 records, transcribes (whisper.cpp) & re",
-    "id": "murmur-io/murmur",
-    "language": "Rust",
-    "name": "murmur-io/murmur",
-    "stars": 6,
-    "updated_at": "2026-07-19T08:26:24Z",
-    "url": "https://github.com/murmur-io/murmur"
-  },
-  {
     "description": "\ud83e\udd16 Build a responsive chatbot with Streamlit and LangChain that offers real-time AI interactions using Google's Gemini mo",
     "id": "rvs3k/streamlit-langchain-chatbot",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T08:25:51Z",
     "url": "https://github.com/NeutronZero/RationaleVault"
-  },
-  {
-    "description": "\ud83d\udcf0 Summarize Turkish news, answer queries, and perform multilingual tasks with this versatile chatbot powered by FastAPI ",
-    "id": "timlfg/NEWS-Chatbot",
-    "language": "Python",
-    "name": "timlfg/NEWS-Chatbot",
-    "stars": 1,
-    "updated_at": "2026-07-19T08:25:45Z",
-    "url": "https://github.com/timlfg/NEWS-Chatbot"
-  },
-  {
-    "description": "\u4e00\u6b3eJavaSDK\u7528\u4e8e\u5feb\u901f\u63a5\u5165AI\u5927\u6a21\u578b\u5e94\u7528\uff0c\u6574\u5408\u591a\u5e73\u53f0\u5927\u6a21\u578b\uff0c\u5982OpenAi\u3001\u667a\u8c31Zhipu(ChatGLM)\u3001\u6df1\u5ea6\u6c42\u7d22DeepSeek\u3001\u6708\u4e4b\u6697\u9762Moonshot(Kimi)\u3001\u817e\u8baf\u6df7\u5143Hunyuan\u3001\u96f6\u4e00\u4e07\u7269(01)\u7b49\u7b49\uff0c\u63d0\u4f9b\u7edf\u4e00\u7684\u8f93\u5165\u8f93",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 421,
-    "updated_at": "2026-07-19T08:25:37Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "\ud83e\udde0 Build a flexible, production-ready memory system for AI agents, offering session-only, persistent, or hybrid deploymen",
-    "id": "l7n102031/go-agent-memory",
-    "language": "Go",
-    "name": "l7n102031/go-agent-memory",
-    "stars": 4,
-    "updated_at": "2026-07-19T08:25:34Z",
-    "url": "https://github.com/l7n102031/go-agent-memory"
   }
 ]
