@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & edit",
+    "id": "yfedoseev/pdf_oxide",
+    "language": "Rust",
+    "name": "yfedoseev/pdf_oxide",
+    "stars": 893,
+    "updated_at": "2026-07-19T20:30:08Z",
+    "url": "https://github.com/yfedoseev/pdf_oxide"
+  },
+  {
+    "description": "MCP server for semantic hybrid search (sqlite-vec + FTS5 with optional cross-encoder reranking) over a Markdown / plain-",
+    "id": "alphabet-h/kb-mcp",
+    "language": "Rust",
+    "name": "alphabet-h/kb-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-19T20:30:08Z",
+    "url": "https://github.com/alphabet-h/kb-mcp"
+  },
+  {
+    "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
+    "id": "strikersam/autonomous-ai-agency",
+    "language": "Python",
+    "name": "strikersam/autonomous-ai-agency",
+    "stars": 7,
+    "updated_at": "2026-07-19T20:29:43Z",
+    "url": "https://github.com/strikersam/autonomous-ai-agency"
+  },
+  {
+    "description": "Landing de ContratoClaro | App Android con Gemini, RAG sobre Vertex AI, Firestore y Google Play Billing",
+    "id": "juancamiloamarillo41-cloud/contratoclaro-web",
+    "language": "CSS",
+    "name": "juancamiloamarillo41-cloud/contratoclaro-web",
+    "stars": 0,
+    "updated_at": "2026-07-19T20:29:06Z",
+    "url": "https://github.com/juancamiloamarillo41-cloud/contratoclaro-web"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T20:27:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "There's a knowledge graph here, man.",
     "id": "whiffernet/embeddington",
     "language": "Python",
@@ -243,15 +288,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T20:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Build agentic workflows with long-term memory and RAG to convert data into action.",
     "id": "marthiram4878/norma-ai-agent-platform",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T20:05:25Z",
     "url": "https://github.com/ncreighton/1b7a060f-rag-ai-pipelines-client-crm"
-  },
-  {
-    "description": "An LLM agent for multi-step Russian medical questions, built on top of medical-rag.",
-    "id": "She1kh144/medical-agent",
-    "language": "Python",
-    "name": "She1kh144/medical-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:05:20Z",
-    "url": "https://github.com/She1kh144/medical-agent"
-  },
-  {
-    "description": "Manage your RAG pipeline from ingestion to evaluation with team collaboration, milestones, and real-time tracking in Not",
-    "id": "ncreighton/36d54848-rag-ai-pipelines-project-man",
-    "language": "\u2014",
-    "name": "ncreighton/36d54848-rag-ai-pipelines-project-man",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:05:09Z",
-    "url": "https://github.com/ncreighton/36d54848-rag-ai-pipelines-project-man"
-  },
-  {
-    "description": "Standard operating procedures library for RAG & AI pipelines in Notion. Ensure consistent, repeatable workflows across y",
-    "id": "ncreighton/8cd69e5d-rag-ai-pipelines-standard-op",
-    "language": "\u2014",
-    "name": "ncreighton/8cd69e5d-rag-ai-pipelines-standard-op",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:03:58Z",
-    "url": "https://github.com/ncreighton/8cd69e5d-rag-ai-pipelines-standard-op"
-  },
-  {
-    "description": "A Notion template that applies RAG pipeline logic to organize, track, and summarize your finances for smarter budgeting ",
-    "id": "ncreighton/94096d90-rag-ai-pipelines-financial-p",
-    "language": "\u2014",
-    "name": "ncreighton/94096d90-rag-ai-pipelines-financial-p",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:03:53Z",
-    "url": "https://github.com/ncreighton/94096d90-rag-ai-pipelines-financial-p"
   }
 ]
