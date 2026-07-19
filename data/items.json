@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source bi-temporal RAG framework that gives AI agents temporal memory, cited answers, and system-time replay.",
+    "id": "Nagendhra-Madishetti/ragbrain",
+    "language": "Python",
+    "name": "Nagendhra-Madishetti/ragbrain",
+    "stars": 1,
+    "updated_at": "2026-07-19T22:28:34Z",
+    "url": "https://github.com/Nagendhra-Madishetti/ragbrain"
+  },
+  {
+    "description": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u0430 LLM Wiki (\u0410. \u041a\u0430\u0440\u043f\u0430\u0442\u044b). \u0412\u041a\u0420 \u0421\u041f\u0431\u0413\u042d\u0422\u0423 \"\u041b\u042d\u0422\u0418\" 2026",
+    "id": "matvej-melikhov/karpathy-llm-wiki",
+    "language": "Python",
+    "name": "matvej-melikhov/karpathy-llm-wiki",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:28:26Z",
+    "url": "https://github.com/matvej-melikhov/karpathy-llm-wiki"
+  },
+  {
+    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
+    "id": "NikolaiSachok/ai-engineering-handbook",
+    "language": "TypeScript",
+    "name": "NikolaiSachok/ai-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:28:16Z",
+    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 205,
+    "updated_at": "2026-07-19T22:27:53Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 2327,
+    "updated_at": "2026-07-19T22:28:39Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Open-source multi-agent AI Exam Assistant on Microsoft's 2026 AI stack: Microsoft Agent Framework, Azure AI Foundry (Fou",
+    "id": "Nambu89/AI_Exam_Assistant",
+    "language": "Python",
+    "name": "Nambu89/AI_Exam_Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:26:37Z",
+    "url": "https://github.com/Nambu89/AI_Exam_Assistant"
+  },
+  {
+    "description": "Composable web crawling tools for Rust",
+    "id": "QLangstaff/qrawl",
+    "language": "Rust",
+    "name": "QLangstaff/qrawl",
+    "stars": 1,
+    "updated_at": "2026-07-19T22:26:13Z",
+    "url": "https://github.com/QLangstaff/qrawl"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-19T22:25:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An open benchmark for LLMs on long, structured, high-stakes documents.",
     "id": "HerdingAI/document-ai-bench",
     "language": "Python",
@@ -16,6 +88,15 @@
     "stars": 50,
     "updated_at": "2026-07-19T22:25:29Z",
     "url": "https://github.com/bug-ops/zeph"
+  },
+  {
+    "description": "Fully offline local RAG Q&A assistant on Microsoft Foundry Local \u2014 FastAPI + Streamlit, source-cited grounded answers, n",
+    "id": "mustafachill/foundry-local",
+    "language": "Python",
+    "name": "mustafachill/foundry-local",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:23:28Z",
+    "url": "https://github.com/mustafachill/foundry-local"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -72,6 +153,15 @@
     "url": "https://github.com/Conefia/SAFE-CARE-Bench"
   },
   {
+    "description": "A hands-on Retrieval-Augmented Generation (RAG) chatbot built from scratch using LangChain, FAISS, HuggingFace embedding",
+    "id": "ananyadr09/RAG_chatbot",
+    "language": "Python",
+    "name": "ananyadr09/RAG_chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:19:55Z",
+    "url": "https://github.com/ananyadr09/RAG_chatbot"
+  },
+  {
     "description": "Self-verifying AI competitive intelligence tool for PMM/GTM teams \u2014 every claim sourced, unverifiable claims cut and log",
     "id": "uroshp/scout-ci",
     "language": "Python",
@@ -88,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-07-19T22:19:34Z",
     "url": "https://github.com/think-bro/rag-ingestion-pipeline"
-  },
-  {
-    "description": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u0430\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u0430 LLM Wiki (\u0410. \u041a\u0430\u0440\u043f\u0430\u0442\u044b). \u0412\u041a\u0420 \u0421\u041f\u0431\u0413\u042d\u0422\u0423 \"\u041b\u042d\u0422\u0418\" 2026",
-    "id": "matvej-melikhov/karpathy-llm-wiki",
-    "language": "Python",
-    "name": "matvej-melikhov/karpathy-llm-wiki",
-    "stars": 0,
-    "updated_at": "2026-07-19T22:19:09Z",
-    "url": "https://github.com/matvej-melikhov/karpathy-llm-wiki"
   },
   {
     "description": "Open-source AI chat for Apple Silicon \u2014 with grounded documents, deterministic data analysis, and web search only when y",
@@ -162,15 +243,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-19T22:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The Complete AI Development Toolkit for Claude Code \u2014 114 skills, 37 agents, 212 hooks. Production-ready patterns for fu",
     "id": "yonatangross/orchestkit",
     "language": "TypeScript",
@@ -212,7 +284,7 @@
     "language": "Rust",
     "name": "murmur-io/murmur",
     "stars": 7,
-    "updated_at": "2026-07-19T22:13:47Z",
+    "updated_at": "2026-07-19T22:29:54Z",
     "url": "https://github.com/murmur-io/murmur"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T22:04:00Z",
     "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 1,
-    "updated_at": "2026-07-19T22:03:47Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "Everyone shows you how to build compliant RAG. This repo shows you how to get it approved. Freigabeakte, Kontrollkatalog",
-    "id": "leonkoellerwirth-arch/rag-approval-blueprint",
-    "language": "HTML",
-    "name": "leonkoellerwirth-arch/rag-approval-blueprint",
-    "stars": 0,
-    "updated_at": "2026-07-19T22:03:42Z",
-    "url": "https://github.com/leonkoellerwirth-arch/rag-approval-blueprint"
-  },
-  {
-    "description": "AI-Native Post-Authentication Runtime Control Plane. LLM-driven Zero Trust security platform for Spring Boot application",
-    "id": "contexa-security/contexa",
-    "language": "Java",
-    "name": "contexa-security/contexa",
-    "stars": 1,
-    "updated_at": "2026-07-19T22:03:17Z",
-    "url": "https://github.com/contexa-security/contexa"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-19T22:01:44Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Gebo.ai The open source Enterprise AI vendor agnostic platform",
-    "id": "geboai/Gebo.ai",
-    "language": "Java",
-    "name": "geboai/Gebo.ai",
-    "stars": 5,
-    "updated_at": "2026-07-19T22:00:23Z",
-    "url": "https://github.com/geboai/Gebo.ai"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-07-19T21:59:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production-grade AI voice platform for loan servicing with RAG, Vapi, FastAPI, PostgreSQL, Pinecone, Redis, Langfuse, an",
-    "id": "TechySan031/Loan-Operation-Intelligence",
-    "language": "Python",
-    "name": "TechySan031/Loan-Operation-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:59:47Z",
-    "url": "https://github.com/TechySan031/Loan-Operation-Intelligence"
-  },
-  {
-    "description": "A grounded RAG chatbot for SafeX Solutions that answers questions using real content from safexsolutions.com (services, ",
-    "id": "humaaslam46/Safex-Solutions-FAQ-RAG-Chatbot",
-    "language": "Python",
-    "name": "humaaslam46/Safex-Solutions-FAQ-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:59:30Z",
-    "url": "https://github.com/humaaslam46/Safex-Solutions-FAQ-RAG-Chatbot"
   }
 ]
