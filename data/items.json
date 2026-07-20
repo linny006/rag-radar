@@ -1,11 +1,101 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-20T01:06:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Six AI agents staffing an options trading desk: a LangChain -> LangGraph -> Realtime-voice complexity ladder grounded in",
+    "id": "igorfyago/ai-trading-desk",
+    "language": "Python",
+    "name": "igorfyago/ai-trading-desk",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:06:06Z",
+    "url": "https://github.com/igorfyago/ai-trading-desk"
+  },
+  {
+    "description": "An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with ",
+    "id": "thanhphuong080199/docmind-mcp",
+    "language": "Java",
+    "name": "thanhphuong080199/docmind-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:05:03Z",
+    "url": "https://github.com/thanhphuong080199/docmind-mcp"
+  },
+  {
+    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
+    "id": "sankar-ramamoorthy/rag-foundry-universal",
+    "language": "Python",
+    "name": "sankar-ramamoorthy/rag-foundry-universal",
+    "stars": 4,
+    "updated_at": "2026-07-20T01:02:46Z",
+    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-07-20T01:02:30Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Muhammad Awais | AI Engineer & Managing Director @ AI GenMat. BS Artificial Intelligence student at FAST-NUCES Peshawar.",
+    "id": "ik-awais/ik-awais",
+    "language": "\u2014",
+    "name": "ik-awais/ik-awais",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:02:29Z",
+    "url": "https://github.com/ik-awais/ik-awais"
+  },
+  {
+    "description": "Learn Java with current docs, including Java 25 JDK",
+    "id": "WilliamAGH/java-chat",
+    "language": "Java",
+    "name": "WilliamAGH/java-chat",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:02:25Z",
+    "url": "https://github.com/WilliamAGH/java-chat"
+  },
+  {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:02:21Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
+    "description": "RAG-optimized documentation and data sources for AI-native development on the Flow network. Ground LLMs in accurate Flow",
+    "id": "onflow/Flow-Data-Sources",
+    "language": "Python",
+    "name": "onflow/Flow-Data-Sources",
+    "stars": 4,
+    "updated_at": "2026-07-20T01:01:28Z",
+    "url": "https://github.com/onflow/Flow-Data-Sources"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:00:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\u5b98\u65b9\u8d44\u6599\u5e93\uff5c\u9e92\u5178 AI\u3001\u521b\u59cb\u4eba\u53f6\u7389\u6d69\u3001\u4f01\u4e1a AI \u843d\u5730\u65b9\u6cd5\u4e0e\u53ef\u5f15\u7528\u4e8b\u5b9e",
     "id": "yyh19930816-prog/qidian-ai-official",
     "language": "Python",
     "name": "yyh19930816-prog/qidian-ai-official",
     "stars": 0,
-    "updated_at": "2026-07-20T01:00:24Z",
+    "updated_at": "2026-07-20T01:04:44Z",
     "url": "https://github.com/yyh19930816-prog/qidian-ai-official"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 583,
     "updated_at": "2026-07-20T00:59:20Z",
     "url": "https://github.com/henrydaum/second-brain"
-  },
-  {
-    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
-    "id": "sankar-ramamoorthy/rag-foundry-universal",
-    "language": "Python",
-    "name": "sankar-ramamoorthy/rag-foundry-universal",
-    "stars": 4,
-    "updated_at": "2026-07-20T00:58:47Z",
-    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
   },
   {
     "description": "Plataforma de intelig\u00eancia imobili\u00e1ria open-source: Next.js + Hono API + RAG local + CRM Twenty + identidade visual fora",
@@ -203,7 +284,7 @@
     "language": "Rust",
     "name": "bug-ops/zeph",
     "stars": 50,
-    "updated_at": "2026-07-20T00:59:57Z",
+    "updated_at": "2026-07-20T01:05:31Z",
     "url": "https://github.com/bug-ops/zeph"
   },
   {
@@ -214,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T00:45:52Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-20T00:45:37Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first memory governance for AI agents: shared, reviewable, auditable memory via SQLite and MCP.",
@@ -241,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T00:43:56Z",
     "url": "https://github.com/Ksschkw/kssrag"
-  },
-  {
-    "description": "An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with ",
-    "id": "thanhphuong080199/docmind-mcp",
-    "language": "Java",
-    "name": "thanhphuong080199/docmind-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:43:33Z",
-    "url": "https://github.com/thanhphuong080199/docmind-mcp"
   },
   {
     "description": "A lightweight retrieval-grounded claim verification system for AI reliability.",
@@ -274,7 +337,7 @@
     "id": "cocoindex-io/cocoindex",
     "language": "Rust",
     "name": "cocoindex-io/cocoindex",
-    "stars": 10921,
+    "stars": 10922,
     "updated_at": "2026-07-20T00:41:40Z",
     "url": "https://github.com/cocoindex-io/cocoindex"
   },
@@ -286,15 +349,6 @@
     "stars": 9,
     "updated_at": "2026-07-20T00:40:52Z",
     "url": "https://github.com/kagura-ai/memory-cloud"
-  },
-  {
-    "description": "Learn Java with current docs, including Java 25 JDK",
-    "id": "WilliamAGH/java-chat",
-    "language": "Java",
-    "name": "WilliamAGH/java-chat",
-    "stars": 2,
-    "updated_at": "2026-07-20T00:40:33Z",
-    "url": "https://github.com/WilliamAGH/java-chat"
   },
   {
     "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
@@ -387,15 +441,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-20T00:33:58Z",
-    "url": "https://github.com/Eval-core/evalcore"
-  },
-  {
     "description": "Self-hosted AI knowledge base with hybrid semantic search (pgvector + FTS + RRF), MCP server, multi-provider LLM inferen",
     "id": "Fortemi/fortemi",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 26,
     "updated_at": "2026-07-20T00:33:58Z",
     "url": "https://github.com/Fortemi/fortemi"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-07-20T00:33:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Context drive for your AI agents",
-    "id": "puppyone-ai/puppyone",
-    "language": "TypeScript",
-    "name": "puppyone-ai/puppyone",
-    "stars": 1057,
-    "updated_at": "2026-07-20T00:58:49Z",
-    "url": "https://github.com/puppyone-ai/puppyone"
-  },
-  {
-    "description": "Self-hosted knowledge engine: ingest your team's tools, hybrid (vector+keyword+graph) retrieval, cited LLM answers.",
-    "id": "prbe-ai/prbe-knowledge",
-    "language": "Python",
-    "name": "prbe-ai/prbe-knowledge",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:32:35Z",
-    "url": "https://github.com/prbe-ai/prbe-knowledge"
-  },
-  {
-    "description": "Production-grade AI voice platform for loan servicing with RAG, Vapi, FastAPI, PostgreSQL, Pinecone, Redis, Langfuse, an",
-    "id": "TechySan031/Loan-Operation-Intelligence",
-    "language": "Python",
-    "name": "TechySan031/Loan-Operation-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:31:51Z",
-    "url": "https://github.com/TechySan031/Loan-Operation-Intelligence"
-  },
-  {
-    "description": "Grounded multi-agent biomedical research and due-diligence agent. No citation, no claim - every finding traces to a real",
-    "id": "mrsirquanzo/Sonny",
-    "language": "TypeScript",
-    "name": "mrsirquanzo/Sonny",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:31:43Z",
-    "url": "https://github.com/mrsirquanzo/Sonny"
   }
 ]
