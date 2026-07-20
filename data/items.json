@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 75,
-    "updated_at": "2026-07-20T01:06:11Z",
+    "updated_at": "2026-07-20T01:14:22Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Markdown architectural reiki data",
+    "id": "markdown-arch-bugyo/open-arch-reiki",
+    "language": "\u2014",
+    "name": "markdown-arch-bugyo/open-arch-reiki",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:13:12Z",
+    "url": "https://github.com/markdown-arch-bugyo/open-arch-reiki"
+  },
+  {
+    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
+    "id": "bug-ops/zeph",
+    "language": "Rust",
+    "name": "bug-ops/zeph",
+    "stars": 50,
+    "updated_at": "2026-07-20T01:12:14Z",
+    "url": "https://github.com/bug-ops/zeph"
+  },
+  {
+    "description": "  A specialized RAG-powered AI agent for querying the 2026 FIA Formula 1 Technical Regulations with precise Article Numb",
+    "id": "vijaysai1102/2026_F1_Spec_RAG_Agent",
+    "language": "Python",
+    "name": "vijaysai1102/2026_F1_Spec_RAG_Agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:11:29Z",
+    "url": "https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent"
+  },
+  {
+    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
+    "id": "sankar-ramamoorthy/rag-foundry-universal",
+    "language": "Python",
+    "name": "sankar-ramamoorthy/rag-foundry-universal",
+    "stars": 4,
+    "updated_at": "2026-07-20T01:10:26Z",
+    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
+  },
+  {
+    "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\u5b98\u65b9\u8d44\u6599\u5e93\uff5c\u9e92\u5178 AI\u3001\u521b\u59cb\u4eba\u53f6\u7389\u6d69\u3001\u4f01\u4e1a AI \u843d\u5730\u65b9\u6cd5\u4e0e\u53ef\u5f15\u7528\u4e8b\u5b9e",
+    "id": "yyh19930816-prog/qidian-ai-official",
+    "language": "Python",
+    "name": "yyh19930816-prog/qidian-ai-official",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:09:42Z",
+    "url": "https://github.com/yyh19930816-prog/qidian-ai-official"
+  },
+  {
+    "description": "Production-grade Agentic RAG for documents",
+    "id": "wizard50/agentic-doc",
+    "language": "Python",
+    "name": "wizard50/agentic-doc",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:09:29Z",
+    "url": "https://github.com/wizard50/agentic-doc"
+  },
+  {
+    "description": "Production-grade AI voice platform for loan servicing with RAG, Vapi, FastAPI, PostgreSQL, Pinecone, Redis, Langfuse, an",
+    "id": "TechySan031/Loan-Operation-Intelligence",
+    "language": "Python",
+    "name": "TechySan031/Loan-Operation-Intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:08:42Z",
+    "url": "https://github.com/TechySan031/Loan-Operation-Intelligence"
   },
   {
     "description": "Six AI agents staffing an options trading desk: a LangChain -> LangGraph -> Realtime-voice complexity ladder grounded in",
@@ -14,8 +77,35 @@
     "language": "Python",
     "name": "igorfyago/ai-trading-desk",
     "stars": 2,
-    "updated_at": "2026-07-20T01:06:06Z",
+    "updated_at": "2026-07-20T01:07:48Z",
     "url": "https://github.com/igorfyago/ai-trading-desk"
+  },
+  {
+    "description": "A lightweight retrieval-grounded claim verification system for AI reliability.",
+    "id": "qzeng16/Evidence-Aware-LLM",
+    "language": "Python",
+    "name": "qzeng16/Evidence-Aware-LLM",
+    "stars": 0,
+    "updated_at": "2026-07-20T01:07:29Z",
+    "url": "https://github.com/qzeng16/Evidence-Aware-LLM"
+  },
+  {
+    "description": "Learn Java with current docs, including Java 25 JDK",
+    "id": "WilliamAGH/java-chat",
+    "language": "Java",
+    "name": "WilliamAGH/java-chat",
+    "stars": 2,
+    "updated_at": "2026-07-20T01:06:54Z",
+    "url": "https://github.com/WilliamAGH/java-chat"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:06:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An MCP server that turns your private docs into a searchable, always-on knowledge base for any AI assistant. Built with ",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T01:05:03Z",
     "url": "https://github.com/thanhphuong080199/docmind-mcp"
-  },
-  {
-    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
-    "id": "sankar-ramamoorthy/rag-foundry-universal",
-    "language": "Python",
-    "name": "sankar-ramamoorthy/rag-foundry-universal",
-    "stars": 4,
-    "updated_at": "2026-07-20T01:02:46Z",
-    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -54,15 +135,6 @@
     "url": "https://github.com/ik-awais/ik-awais"
   },
   {
-    "description": "Learn Java with current docs, including Java 25 JDK",
-    "id": "WilliamAGH/java-chat",
-    "language": "Java",
-    "name": "WilliamAGH/java-chat",
-    "stars": 2,
-    "updated_at": "2026-07-20T01:02:25Z",
-    "url": "https://github.com/WilliamAGH/java-chat"
-  },
-  {
     "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
     "id": "Eval-core/evalcore",
     "language": "Rust",
@@ -79,24 +151,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T01:01:28Z",
     "url": "https://github.com/onflow/Flow-Data-Sources"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-20T01:00:44Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u6c88\u9633\u9e92\u5178\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8\u5b98\u65b9\u8d44\u6599\u5e93\uff5c\u9e92\u5178 AI\u3001\u521b\u59cb\u4eba\u53f6\u7389\u6d69\u3001\u4f01\u4e1a AI \u843d\u5730\u65b9\u6cd5\u4e0e\u53ef\u5f15\u7528\u4e8b\u5b9e",
-    "id": "yyh19930816-prog/qidian-ai-official",
-    "language": "Python",
-    "name": "yyh19930816-prog/qidian-ai-official",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:04:44Z",
-    "url": "https://github.com/yyh19930816-prog/qidian-ai-official"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -153,15 +207,6 @@
     "url": "https://github.com/codexu/note-gen"
   },
   {
-    "description": "  A specialized RAG-powered AI agent for querying the 2026 FIA Formula 1 Technical Regulations with precise Article Numb",
-    "id": "vijaysai1102/2026_F1_Spec_RAG_Agent",
-    "language": "Python",
-    "name": "vijaysai1102/2026_F1_Spec_RAG_Agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:57:00Z",
-    "url": "https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "XaviCode1000/webfang",
     "stars": 0,
-    "updated_at": "2026-07-20T00:57:09Z",
+    "updated_at": "2026-07-20T01:12:13Z",
     "url": "https://github.com/XaviCode1000/webfang"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18768,
-    "updated_at": "2026-07-20T00:55:20Z",
+    "updated_at": "2026-07-20T01:12:43Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/yyh19930816-prog/qidian-ai-public-dataset"
   },
   {
-    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
-    "id": "bug-ops/zeph",
-    "language": "Rust",
-    "name": "bug-ops/zeph",
-    "stars": 50,
-    "updated_at": "2026-07-20T01:05:31Z",
-    "url": "https://github.com/bug-ops/zeph"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -315,15 +351,6 @@
     "url": "https://github.com/Ksschkw/kssrag"
   },
   {
-    "description": "A lightweight retrieval-grounded claim verification system for AI reliability.",
-    "id": "qzeng16/Evidence-Aware-LLM",
-    "language": "Python",
-    "name": "qzeng16/Evidence-Aware-LLM",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:42:26Z",
-    "url": "https://github.com/qzeng16/Evidence-Aware-LLM"
-  },
-  {
     "description": "Open-source AI chat for Apple Silicon \u2014 with grounded documents, deterministic data analysis, and web search only when y",
     "id": "Founder-NeutronTech/MacChat",
     "language": "Python",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "kagura-ai/memory-cloud",
     "stars": 9,
-    "updated_at": "2026-07-20T00:40:52Z",
+    "updated_at": "2026-07-20T01:14:00Z",
     "url": "https://github.com/kagura-ai/memory-cloud"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "al2m4n/TheYgent",
     "stars": 0,
-    "updated_at": "2026-07-20T00:36:39Z",
+    "updated_at": "2026-07-20T01:11:40Z",
     "url": "https://github.com/al2m4n/TheYgent"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 308,
-    "updated_at": "2026-07-20T00:43:33Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-20T00:34:00Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Self-hosted AI knowledge base with hybrid semantic search (pgvector + FTS + RRF), MCP server, multi-provider LLM inferen",
-    "id": "Fortemi/fortemi",
-    "language": "Rust",
-    "name": "Fortemi/fortemi",
-    "stars": 26,
-    "updated_at": "2026-07-20T00:33:58Z",
-    "url": "https://github.com/Fortemi/fortemi"
   }
 ]
