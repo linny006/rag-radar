@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agent-safe code retrieval for MCP coding agents: runtime-first search, exact reads, call graph context, and fresh repo e",
+    "id": "ham-zax/satori",
+    "language": "TypeScript",
+    "name": "ham-zax/satori",
+    "stars": 3,
+    "updated_at": "2026-07-20T20:16:25Z",
+    "url": "https://github.com/ham-zax/satori"
+  },
+  {
+    "description": "Self-hosted AI knowledge base with hybrid semantic search (pgvector + FTS + RRF), MCP server, multi-provider LLM inferen",
+    "id": "Fortemi/fortemi",
+    "language": "Rust",
+    "name": "Fortemi/fortemi",
+    "stars": 26,
+    "updated_at": "2026-07-20T20:15:55Z",
+    "url": "https://github.com/Fortemi/fortemi"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "End-to-end financial text-analysis using Bigdata API and the Bigdata-Research-Tools library. Ready-to-use notebooks with",
     "id": "Bigdata-com/bigdata-cookbook",
     "language": "HTML",
@@ -7,6 +43,33 @@
     "stars": 33,
     "updated_at": "2026-07-20T20:15:13Z",
     "url": "https://github.com/Bigdata-com/bigdata-cookbook"
+  },
+  {
+    "description": "The base Installation Source for Horizon Brain Workshop",
+    "id": "HorizonBrute/Horizon-Brain-Workshop",
+    "language": "Python",
+    "name": "HorizonBrute/Horizon-Brain-Workshop",
+    "stars": 0,
+    "updated_at": "2026-07-20T20:15:13Z",
+    "url": "https://github.com/HorizonBrute/Horizon-Brain-Workshop"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 142180,
+    "updated_at": "2026-07-20T20:15:03Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "MOOTx01 Community Edition",
+    "id": "codedaptive/mootx01-ce",
+    "language": "Swift",
+    "name": "codedaptive/mootx01-ce",
+    "stars": 4,
+    "updated_at": "2026-07-20T20:14:33Z",
+    "url": "https://github.com/codedaptive/mootx01-ce"
   },
   {
     "description": "Multimodal building-defect inspection assistant: fine-tuned VLM (0.472 to 0.851 macro top-1), cross-modal RAG with cited",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "svasenkov/greedy-token",
     "stars": 2,
-    "updated_at": "2026-07-20T20:12:14Z",
+    "updated_at": "2026-07-20T20:15:47Z",
     "url": "https://github.com/svasenkov/greedy-token"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "bug-ops/zeph",
     "stars": 50,
-    "updated_at": "2026-07-20T20:15:16Z",
+    "updated_at": "2026-07-20T20:16:44Z",
     "url": "https://github.com/bug-ops/zeph"
   },
   {
@@ -86,7 +149,7 @@
     "language": "Jupyter Notebook",
     "name": "TumeloKonaite/FPL_Scout",
     "stars": 1,
-    "updated_at": "2026-07-20T20:09:41Z",
+    "updated_at": "2026-07-20T20:15:48Z",
     "url": "https://github.com/TumeloKonaite/FPL_Scout"
   },
   {
@@ -149,7 +212,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18775,
-    "updated_at": "2026-07-20T20:08:09Z",
+    "updated_at": "2026-07-20T20:18:01Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "nourhamdan2005/smart-internal-knowledge-base-assistant",
     "stars": 0,
-    "updated_at": "2026-07-20T20:06:35Z",
+    "updated_at": "2026-07-20T20:15:31Z",
     "url": "https://github.com/nourhamdan2005/smart-internal-knowledge-base-assistant"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 10,
     "updated_at": "2026-07-20T20:06:03Z",
     "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:05:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted personal search. Index and search across your files, email, chats, and scanned documents from one interface.",
@@ -315,24 +369,6 @@
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
-    "description": "The base Installation Source for Horizon Brain Workshop",
-    "id": "HorizonBrute/Horizon-Brain-Workshop",
-    "language": "Python",
-    "name": "HorizonBrute/Horizon-Brain-Workshop",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:15:13Z",
-    "url": "https://github.com/HorizonBrute/Horizon-Brain-Workshop"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
     "id": "Ikalus1988/MisakaNet",
     "language": "Python",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 149504,
-    "updated_at": "2026-07-20T20:00:05Z",
+    "updated_at": "2026-07-20T20:16:21Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 3238,
     "updated_at": "2026-07-20T19:59:06Z",
     "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "MOOTx01 Community Edition",
-    "id": "codedaptive/mootx01-ce",
-    "language": "Swift",
-    "name": "codedaptive/mootx01-ce",
-    "stars": 4,
-    "updated_at": "2026-07-20T20:14:33Z",
-    "url": "https://github.com/codedaptive/mootx01-ce"
   },
   {
     "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T19:55:37Z",
     "url": "https://github.com/mahnalak/pipesense"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 10,
-    "updated_at": "2026-07-20T19:54:38Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "SchemaMind turns plain-language questions into validated SQLite queries. Upload a .db, ask anything, and get back execut",
-    "id": "MahdiAmrollahi/schemamind",
-    "language": "TypeScript",
-    "name": "MahdiAmrollahi/schemamind",
-    "stars": 3,
-    "updated_at": "2026-07-20T19:54:08Z",
-    "url": "https://github.com/MahdiAmrollahi/schemamind"
-  },
-  {
-    "description": "Autonomous AI research assistant that can analyze documents, search knowledge bases, perform calculations, and generate ",
-    "id": "ANSHAM1/AI_Research_Assistant_Agent",
-    "language": "Python",
-    "name": "ANSHAM1/AI_Research_Assistant_Agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:53:43Z",
-    "url": "https://github.com/ANSHAM1/AI_Research_Assistant_Agent"
   }
 ]
