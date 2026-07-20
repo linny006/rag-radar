@@ -1,5 +1,113 @@
 [
   {
+    "description": "OpenLoomi is an open-source AI coworker and workspace for builders who want local-first work memory around their AI agen",
+    "id": "melandlabs/openloomi",
+    "language": "TypeScript",
+    "name": "melandlabs/openloomi",
+    "stars": 671,
+    "updated_at": "2026-07-20T10:49:37Z",
+    "url": "https://github.com/melandlabs/openloomi"
+  },
+  {
+    "description": "RAG service on FastAPI + Postgres/pgvector: chunking, swappable embeddings, cited answers, evals harness with LLM-as-a-j",
+    "id": "INTERpol21/rag-pgvector",
+    "language": "Python",
+    "name": "INTERpol21/rag-pgvector",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:48:51Z",
+    "url": "https://github.com/INTERpol21/rag-pgvector"
+  },
+  {
+    "description": "Build AI workflows by prompt or visual canvas. Heym is source-available and self-hosted, with agents, RAG, MCP, HITL, ob",
+    "id": "heymrun/heym",
+    "language": "Python",
+    "name": "heymrun/heym",
+    "stars": 760,
+    "updated_at": "2026-07-20T10:48:43Z",
+    "url": "https://github.com/heymrun/heym"
+  },
+  {
+    "description": "A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) ch",
+    "id": "Ridzzz0Alam/ai_notes_application",
+    "language": "Vue",
+    "name": "Ridzzz0Alam/ai_notes_application",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:48:42Z",
+    "url": "https://github.com/Ridzzz0Alam/ai_notes_application"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 75,
+    "updated_at": "2026-07-20T10:48:18Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A privacy-first, self-hosted cognitive operating system that remembers, reasons, and acts as your lifelong AI companion.",
+    "id": "sahil3105kumar/shadow",
+    "language": "Python",
+    "name": "sahil3105kumar/shadow",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:47:31Z",
+    "url": "https://github.com/sahil3105kumar/shadow"
+  },
+  {
+    "description": "Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files ",
+    "id": "memtomem/memtomem",
+    "language": "Python",
+    "name": "memtomem/memtomem",
+    "stars": 10,
+    "updated_at": "2026-07-20T10:46:39Z",
+    "url": "https://github.com/memtomem/memtomem"
+  },
+  {
+    "description": "whatsapp-bot langgraph fastapi playwright",
+    "id": "shashank03-dev/GovBot",
+    "language": "TypeScript",
+    "name": "shashank03-dev/GovBot",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:46:31Z",
+    "url": "https://github.com/shashank03-dev/GovBot"
+  },
+  {
+    "description": "   \ud83e\udd16\ud83d\udd0e STREAM: Search with Top Result Extraction & Answer Model \ud83d\udcc8\ud83d\udcdd  REASON Docs Writing Agent \ud83d\ude9c\ud83d\udcdc  Tractor the Text Extrac",
+    "id": "OpenSourceAGI/qwksearch-research-agent",
+    "language": "TypeScript",
+    "name": "OpenSourceAGI/qwksearch-research-agent",
+    "stars": 73,
+    "updated_at": "2026-07-20T10:46:14Z",
+    "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
+  },
+  {
+    "description": "\ud83d\udcc4 The PDF intelligence layer for AI agents \u2014 Agent Document Twin, evidence-first extraction, visual crops, OCR provenanc",
+    "id": "SylphxAI/pdf-reader-mcp",
+    "language": "TypeScript",
+    "name": "SylphxAI/pdf-reader-mcp",
+    "stars": 831,
+    "updated_at": "2026-07-20T10:45:35Z",
+    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-20T10:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A production-ready RAG (Retrieval-Augmented Generation) system that enables natural language Q&A over document collectio",
     "id": "dinkar1708/askdocs-rag-agent",
     "language": "Python",
@@ -7,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-07-20T10:45:03Z",
     "url": "https://github.com/dinkar1708/askdocs-rag-agent"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45276,
+    "updated_at": "2026-07-20T10:44:43Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Production-grade Multi-Agent AI Assistant with Hybrid ML Routing, Gemini & Groq LLMs, RAG, Explainable AI, Voice AI, Eva",
@@ -25,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T10:43:34Z",
     "url": "https://github.com/yauld/ai-forge"
-  },
-  {
-    "description": "RAG service on FastAPI + Postgres/pgvector: chunking, swappable embeddings, cited answers, evals harness with LLM-as-a-j",
-    "id": "INTERpol21/rag-pgvector",
-    "language": "Python",
-    "name": "INTERpol21/rag-pgvector",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:44:53Z",
-    "url": "https://github.com/INTERpol21/rag-pgvector"
   },
   {
     "description": "Semantic code search powered by embeddings. CLI, web dashboard, and AI-agent tooling \u2014 search code by meaning, not text.",
@@ -77,7 +185,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 149453,
-    "updated_at": "2026-07-20T10:42:38Z",
+    "updated_at": "2026-07-20T10:47:59Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -207,15 +315,6 @@
     "url": "https://github.com/jgouviergmail/LIA-Assistant"
   },
   {
-    "description": "whatsapp-bot langgraph fastapi playwright",
-    "id": "shashank03-dev/GovBot",
-    "language": "TypeScript",
-    "name": "shashank03-dev/GovBot",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:35:41Z",
-    "url": "https://github.com/shashank03-dev/GovBot"
-  },
-  {
     "description": "Enterprise AI Clinical Decision Support System built with FastAPI, React, RBAC, JWT, WebSockets, RAG and Explainable AI.",
     "id": "Sumeet2005/IntelliICU",
     "language": "Python",
@@ -324,15 +423,6 @@
     "url": "https://github.com/NodeDB-Lab/nodedb"
   },
   {
-    "description": "A privacy-first, self-hosted cognitive operating system that remembers, reasons, and acts as your lifelong AI companion.",
-    "id": "sahil3105kumar/shadow",
-    "language": "Python",
-    "name": "sahil3105kumar/shadow",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:32:26Z",
-    "url": "https://github.com/sahil3105kumar/shadow"
-  },
-  {
     "description": "First open-source AI knowledge layer for Togo - 62K+ documents, RAG API, fine-tuned LLM.   Built for developers, startup",
     "id": "omarfarouk228/togolm",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 12310,
     "updated_at": "2026-07-20T10:30:31Z",
     "url": "https://github.com/codexu/note-gen"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-20T10:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Chat with your SQL database in plain English \u2014 a fully local AI agent powered by Ollama, RAG-based schema retrieval, and",
-    "id": "alisadeghiaghili/local-sql-agent",
-    "language": "Python",
-    "name": "alisadeghiaghili/local-sql-agent",
-    "stars": 3,
-    "updated_at": "2026-07-20T10:30:05Z",
-    "url": "https://github.com/alisadeghiaghili/local-sql-agent"
-  },
-  {
-    "description": "\ud83d\udcc4 The PDF intelligence layer for AI agents \u2014 Agent Document Twin, evidence-first extraction, visual crops, OCR provenanc",
-    "id": "SylphxAI/pdf-reader-mcp",
-    "language": "TypeScript",
-    "name": "SylphxAI/pdf-reader-mcp",
-    "stars": 831,
-    "updated_at": "2026-07-20T10:39:03Z",
-    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0 LLM \u5ba2\u6237\u7aef + AI Agent \u5f00\u53d1\u73af\u5883 | Lightweight cross-platform LLM client & agent workspace (Tauri 2 + Vue 3 + Rust)",
-    "id": "baiyuheniao/BaiyuAISpace2",
-    "language": "Rust",
-    "name": "baiyuheniao/BaiyuAISpace2",
-    "stars": 5,
-    "updated_at": "2026-07-20T10:30:19Z",
-    "url": "https://github.com/baiyuheniao/BaiyuAISpace2"
-  },
-  {
-    "description": "Local RAG sandbox with an adversarial grimoire corpus\ud83c\udf43",
-    "id": "dariero/VerdigrisE",
-    "language": "Python",
-    "name": "dariero/VerdigrisE",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:29:21Z",
-    "url": "https://github.com/dariero/VerdigrisE"
-  },
-  {
-    "description": "AI agent reliability harness plus defensive email-domain and cross-device security scanners.",
-    "id": "Lancimoun/agent-reliability-arena",
-    "language": "Python",
-    "name": "Lancimoun/agent-reliability-arena",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:29:06Z",
-    "url": "https://github.com/Lancimoun/agent-reliability-arena"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 245,
-    "updated_at": "2026-07-20T10:28:51Z",
-    "url": "https://github.com/xuiltul/animaworks"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:42:59Z",
-    "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting + document notebook with an on-device brain \u2014 transcribes (whisper.cpp) & reasons entirely",
-    "id": "murmur-io/murmur",
-    "language": "Rust",
-    "name": "murmur-io/murmur",
-    "stars": 7,
-    "updated_at": "2026-07-20T10:28:00Z",
-    "url": "https://github.com/murmur-io/murmur"
   }
 ]
