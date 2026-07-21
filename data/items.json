@@ -1,11 +1,65 @@
 [
   {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:15:02Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
+    "id": "avase33/consilium",
+    "language": "Python",
+    "name": "avase33/consilium",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:14:33Z",
+    "url": "https://github.com/avase33/consilium"
+  },
+  {
+    "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
+    "id": "avase33/agentmesh",
+    "language": "Python",
+    "name": "avase33/agentmesh",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:14:25Z",
+    "url": "https://github.com/avase33/agentmesh"
+  },
+  {
+    "description": "Route dev tasks through tool \u2192 python \u2192 ollama \u2192 RAG before escalating to Cursor",
+    "id": "svasenkov/greedy-token",
+    "language": "Python",
+    "name": "svasenkov/greedy-token",
+    "stars": 2,
+    "updated_at": "2026-07-21T23:13:16Z",
+    "url": "https://github.com/svasenkov/greedy-token"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 20,
+    "updated_at": "2026-07-21T23:13:16Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "The Linux OS for AI Agents \u2014 Persistent memory, structured reasoning, and governed autonomy for any LLM. Own the state. ",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 541,
+    "updated_at": "2026-07-21T23:13:13Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
     "description": "Domain-specific AI analyst: multi-agent RAG over documents with hybrid retrieval (BM25 + vectors), Reciprocal Rank Fusio",
     "id": "avase33/veritas-analyst",
     "language": "Python",
     "name": "avase33/veritas-analyst",
     "stars": 2,
-    "updated_at": "2026-07-21T23:10:48Z",
+    "updated_at": "2026-07-21T23:13:02Z",
     "url": "https://github.com/avase33/veritas-analyst"
   },
   {
@@ -14,8 +68,44 @@
     "language": "Python",
     "name": "avase33/sage",
     "stars": 1,
-    "updated_at": "2026-07-21T23:10:37Z",
+    "updated_at": "2026-07-21T23:15:12Z",
     "url": "https://github.com/avase33/sage"
+  },
+  {
+    "description": "\ud83d\udc19 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
+    "id": "airbytehq/airbyte-agent-sdk",
+    "language": "Python",
+    "name": "airbytehq/airbyte-agent-sdk",
+    "stars": 130,
+    "updated_at": "2026-07-21T23:12:32Z",
+    "url": "https://github.com/airbytehq/airbyte-agent-sdk"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3241,
+    "updated_at": "2026-07-21T23:12:32Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "",
+    "id": "DocGRD/AI-Assistant",
+    "language": "Python",
+    "name": "DocGRD/AI-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:12:12Z",
+    "url": "https://github.com/DocGRD/AI-Assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T23:11:53Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
@@ -32,17 +122,8 @@
     "language": "Python",
     "name": "r0shi/harborclerk",
     "stars": 2,
-    "updated_at": "2026-07-21T23:10:05Z",
+    "updated_at": "2026-07-21T23:12:42Z",
     "url": "https://github.com/r0shi/harborclerk"
-  },
-  {
-    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
-    "id": "avase33/consilium",
-    "language": "Python",
-    "name": "avase33/consilium",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:09:59Z",
-    "url": "https://github.com/avase33/consilium"
   },
   {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
@@ -50,17 +131,8 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31068,
-    "updated_at": "2026-07-21T23:11:43Z",
+    "updated_at": "2026-07-21T23:15:06Z",
     "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
-    "id": "avase33/agentmesh",
-    "language": "Python",
-    "name": "avase33/agentmesh",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:09:51Z",
-    "url": "https://github.com/avase33/agentmesh"
   },
   {
     "description": "AI agent reliability harness plus defensive email-domain and cross-device security scanners.",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "vitali87/code-graph-rag",
     "stars": 2339,
-    "updated_at": "2026-07-21T23:11:48Z",
+    "updated_at": "2026-07-21T23:14:09Z",
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 10985,
     "updated_at": "2026-07-21T23:07:06Z",
     "url": "https://github.com/cocoindex-io/cocoindex"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-07-21T23:07:34Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -250,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T23:01:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-21T23:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -394,59 +448,5 @@
     "stars": 1495,
     "updated_at": "2026-07-21T22:57:39Z",
     "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": "AI-powered job application tracker \u2014 JD analysis, pgvector resume matching, and streamed bullet tailoring, with a measur",
-    "id": "nkieu-config/job-tracker",
-    "language": "TypeScript",
-    "name": "nkieu-config/job-tracker",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:06:02Z",
-    "url": "https://github.com/nkieu-config/job-tracker"
-  },
-  {
-    "description": "Semantic cache for LLM calls on Kotlin/JVM \u2014 guards against false cache hits, coroutine-first, provider-agnostic.",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 1,
-    "updated_at": "2026-07-21T23:06:44Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45305,
-    "updated_at": "2026-07-21T22:55:13Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ubbf8\ub798\uc5d0\uc14b AI \uac70\ubc84\ub10c\uc2a4 \uc5d4\uc9c4 (MiraeAsset AI Governance Engine) ",
-    "id": "MALife-AI/MAGE",
-    "language": "Python",
-    "name": "MALife-AI/MAGE",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:54:58Z",
-    "url": "https://github.com/MALife-AI/MAGE"
-  },
-  {
-    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
-    "id": "NikolaiSachok/ai-engineering-handbook",
-    "language": "TypeScript",
-    "name": "NikolaiSachok/ai-engineering-handbook",
-    "stars": 1,
-    "updated_at": "2026-07-21T22:54:52Z",
-    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
-  },
-  {
-    "description": "Multi-document conflict-resolution RAG pipeline take-home with adaptive retrieval",
-    "id": "ariobarin/Coincidence-Labs-take-home",
-    "language": "Python",
-    "name": "ariobarin/Coincidence-Labs-take-home",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:53:42Z",
-    "url": "https://github.com/ariobarin/Coincidence-Labs-take-home"
   }
 ]
