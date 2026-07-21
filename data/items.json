@@ -5,8 +5,125 @@
     "language": "TypeScript",
     "name": "mem0ai/mem0",
     "stars": 61355,
-    "updated_at": "2026-07-21T07:14:22Z",
+    "updated_at": "2026-07-21T07:18:15Z",
     "url": "https://github.com/mem0ai/mem0"
+  },
+  {
+    "description": "Human-like memory for AI agents \u2014 semantic, episodic & procedural. Experience-driven procedures that learn from failures",
+    "id": "alibaizhanov/mengram",
+    "language": "Python",
+    "name": "alibaizhanov/mengram",
+    "stars": 183,
+    "updated_at": "2026-07-21T07:18:07Z",
+    "url": "https://github.com/alibaizhanov/mengram"
+  },
+  {
+    "description": "Production-ready AI Credit Underwriting Platform built with FastAPI, Streamlit, Scikit-learn, SHAP, FAISS, Groq LLM, and",
+    "id": "krish8986/AI-Predictive-Methods-for-Credit-underwriting",
+    "language": "Jupyter Notebook",
+    "name": "krish8986/AI-Predictive-Methods-for-Credit-underwriting",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:17:23Z",
+    "url": "https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18781,
+    "updated_at": "2026-07-21T07:18:27Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
+    "id": "tomyimkc/sophia-agi",
+    "language": "Python",
+    "name": "tomyimkc/sophia-agi",
+    "stars": 6,
+    "updated_at": "2026-07-21T07:17:11Z",
+    "url": "https://github.com/tomyimkc/sophia-agi"
+  },
+  {
+    "description": "AI-powered job discovery that ranks roles by provable fit - two-stage pgvector + LLM matching with structured outputs, f",
+    "id": "mekyle-s/Job-OS",
+    "language": "TypeScript",
+    "name": "mekyle-s/Job-OS",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:16:58Z",
+    "url": "https://github.com/mekyle-s/Job-OS"
+  },
+  {
+    "description": "\ud83d\udcc4 The PDF intelligence layer for AI agents \u2014 Agent Document Twin, evidence-first extraction, visual crops, OCR provenanc",
+    "id": "SylphxAI/pdf-reader-mcp",
+    "language": "TypeScript",
+    "name": "SylphxAI/pdf-reader-mcp",
+    "stars": 831,
+    "updated_at": "2026-07-21T07:16:55Z",
+    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+  },
+  {
+    "description": "Gebo.ai The open source Enterprise AI vendor agnostic platform",
+    "id": "geboai/Gebo.ai",
+    "language": "Java",
+    "name": "geboai/Gebo.ai",
+    "stars": 5,
+    "updated_at": "2026-07-21T07:16:46Z",
+    "url": "https://github.com/geboai/Gebo.ai"
+  },
+  {
+    "description": "Evidence-only corpus + MCP server for InfoSec & cybersecurity compliance frameworks \u2014 ISO/IEC 27001, SOC 2, PCI DSS, NIS",
+    "id": "dannyota/compliary",
+    "language": "Go",
+    "name": "dannyota/compliary",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:16:16Z",
+    "url": "https://github.com/dannyota/compliary"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 189,
+    "updated_at": "2026-07-21T07:16:02Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T07:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise AI compliance platform for retrieval-augmented regulatory verification, human-in-the-loop review workflows, e",
+    "id": "rajveer100704/ComplianceOS",
+    "language": "Python",
+    "name": "rajveer100704/ComplianceOS",
+    "stars": 0,
+    "updated_at": "2026-07-21T07:15:10Z",
+    "url": "https://github.com/rajveer100704/ComplianceOS"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 60811,
+    "updated_at": "2026-07-21T07:14:33Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "Markdown notes that live in your browser's bookmark, support photo and attachment and build in RAG \u2014 no server, no subsc",
@@ -59,7 +176,7 @@
     "language": "Python",
     "name": "VBlackJack/Datacron",
     "stars": 0,
-    "updated_at": "2026-07-21T07:11:54Z",
+    "updated_at": "2026-07-21T07:17:26Z",
     "url": "https://github.com/VBlackJack/Datacron"
   },
   {
@@ -85,8 +202,8 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 149568,
-    "updated_at": "2026-07-21T07:11:35Z",
+    "stars": 149569,
+    "updated_at": "2026-07-21T07:18:47Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -113,7 +230,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 61,
-    "updated_at": "2026-07-21T07:12:22Z",
+    "updated_at": "2026-07-21T07:18:38Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -153,15 +270,6 @@
     "url": "https://github.com/Arj0010/cloc"
   },
   {
-    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
-    "id": "tomyimkc/sophia-agi",
-    "language": "Python",
-    "name": "tomyimkc/sophia-agi",
-    "stars": 6,
-    "updated_at": "2026-07-21T07:09:20Z",
-    "url": "https://github.com/tomyimkc/sophia-agi"
-  },
-  {
     "description": "Obsidian vault intelligence",
     "id": "cybaea/obsidian-vault-intelligence",
     "language": "TypeScript",
@@ -176,7 +284,7 @@
     "language": "Python",
     "name": "memtomem/memtomem",
     "stars": 11,
-    "updated_at": "2026-07-21T07:15:05Z",
+    "updated_at": "2026-07-21T07:18:47Z",
     "url": "https://github.com/memtomem/memtomem"
   },
   {
@@ -230,17 +338,8 @@
     "language": "Java",
     "name": "sdwurg180507280211/metersphere",
     "stars": 0,
-    "updated_at": "2026-07-21T07:07:28Z",
+    "updated_at": "2026-07-21T07:18:11Z",
     "url": "https://github.com/sdwurg180507280211/metersphere"
-  },
-  {
-    "description": "AI-powered job discovery that ranks roles by provable fit - two-stage pgvector + LLM matching with structured outputs, f",
-    "id": "mekyle-s/Job-OS",
-    "language": "TypeScript",
-    "name": "mekyle-s/Job-OS",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:06:08Z",
-    "url": "https://github.com/mekyle-s/Job-OS"
   },
   {
     "description": "Automated RAG evaluation framework: LLM-as-judge scoring for retrieval quality, faithfulness (hallucination), and correc",
@@ -297,15 +396,6 @@
     "url": "https://github.com/NodeDB-Lab/nodedb"
   },
   {
-    "description": "Evidence-only corpus + MCP server for InfoSec & cybersecurity compliance frameworks \u2014 ISO/IEC 27001, SOC 2, PCI DSS, NIS",
-    "id": "dannyota/compliary",
-    "language": "Go",
-    "name": "dannyota/compliary",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:04:30Z",
-    "url": "https://github.com/dannyota/compliary"
-  },
-  {
     "description": "Personal portfolio website with a RAG-powered AI assistant, built with React, Vite, Netlify, OpenRouter, and Supabase.",
     "id": "athaahsan/my-portfolio",
     "language": "JavaScript",
@@ -333,24 +423,6 @@
     "url": "https://github.com/beingAnujChaudhary/ml-concepts-rag"
   },
   {
-    "description": "\ud83d\udcc4 The PDF intelligence layer for AI agents \u2014 Agent Document Twin, evidence-first extraction, visual crops, OCR provenanc",
-    "id": "SylphxAI/pdf-reader-mcp",
-    "language": "TypeScript",
-    "name": "SylphxAI/pdf-reader-mcp",
-    "stars": 831,
-    "updated_at": "2026-07-21T07:13:02Z",
-    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
-  },
-  {
-    "description": "Production-ready AI Credit Underwriting Platform built with FastAPI, Streamlit, Scikit-learn, SHAP, FAISS, Groq LLM, and",
-    "id": "krish8986/AI-Predictive-Methods-for-Credit-underwriting",
-    "language": "Jupyter Notebook",
-    "name": "krish8986/AI-Predictive-Methods-for-Credit-underwriting",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:03:56Z",
-    "url": "https://github.com/krish8986/AI-Predictive-Methods-for-Credit-underwriting"
-  },
-  {
     "description": "OpenRag - OpenRAG turns private documents into a secure AI knowledge system",
     "id": "marketcalls/openrag",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T07:03:18Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Open-source AI agent that parses messy RFQ emails, PDFs, and spreadsheets into structured, priced, human-reviewed quotes",
-    "id": "Distill-AI/distill-ai",
-    "language": "TypeScript",
-    "name": "Distill-AI/distill-ai",
-    "stars": 1,
-    "updated_at": "2026-07-21T07:03:09Z",
-    "url": "https://github.com/Distill-AI/distill-ai"
-  },
-  {
-    "description": "Document & OCR text/metadata extraction for DuckDB (Java, Apache Tika)",
-    "id": "Query-farm/vgi-tika",
-    "language": "Java",
-    "name": "Query-farm/vgi-tika",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:02:55Z",
-    "url": "https://github.com/Query-farm/vgi-tika"
-  },
-  {
-    "description": "Count LLM tokens & chunk text for RAG in DuckDB (Rust, tiktoken)",
-    "id": "Query-farm/vgi-tiktoken",
-    "language": "Rust",
-    "name": "Query-farm/vgi-tiktoken",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:02:51Z",
-    "url": "https://github.com/Query-farm/vgi-tiktoken"
-  },
-  {
-    "description": "Enterprise AI compliance platform for retrieval-augmented regulatory verification, human-in-the-loop review workflows, e",
-    "id": "rajveer100704/ComplianceOS",
-    "language": "Python",
-    "name": "rajveer100704/ComplianceOS",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:15:10Z",
-    "url": "https://github.com/rajveer100704/ComplianceOS"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18781,
-    "updated_at": "2026-07-21T07:02:09Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "Python",
-    "name": "akyourowngames/friday",
-    "stars": 4,
-    "updated_at": "2026-07-21T07:01:37Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "OpenLoomi is an open-source AI coworker for builders who want local-first work memory around their AI agents",
-    "id": "melandlabs/openloomi",
-    "language": "TypeScript",
-    "name": "melandlabs/openloomi",
-    "stars": 686,
-    "updated_at": "2026-07-21T07:01:34Z",
-    "url": "https://github.com/melandlabs/openloomi"
-  },
-  {
-    "description": "\u6f5c\u4f0f\u5728\u7ec8\u7aef\u4e0e\u684c\u9762\u91cc\u7684\u5e7d\u7075 AI \u7f16\u7a0b agent\u300cWraith\u300d\u00b7 A ghost-themed AI coding agent for terminal & desktop ",
-    "id": "JavaLyHn/wraith",
-    "language": "Java",
-    "name": "JavaLyHn/wraith",
-    "stars": 8,
-    "updated_at": "2026-07-21T07:01:34Z",
-    "url": "https://github.com/JavaLyHn/wraith"
   }
 ]
