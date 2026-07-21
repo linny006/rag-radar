@@ -1,5 +1,50 @@
 [
   {
+    "description": "GPU-accelerated semantic search for your docs and source code - hybrid dense + sparse RAG on a local Qdrant backend, ser",
+    "id": "nevenincs/vaultspec-rag",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-rag",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:15:00Z",
+    "url": "https://github.com/nevenincs/vaultspec-rag"
+  },
+  {
+    "description": "UmaDev: A coding agent that works like a real dev team, commanding the Claude Code / Codex / OpenCode you already use.",
+    "id": "umacloud/umadev",
+    "language": "Rust",
+    "name": "umacloud/umadev",
+    "stars": 241,
+    "updated_at": "2026-07-21T18:14:48Z",
+    "url": "https://github.com/umacloud/umadev"
+  },
+  {
+    "description": "Serve local Markdown/wiki knowledge folders as agent-readable HTTP, MCP-style, and A2A-style context.",
+    "id": "knowledge-bridge-labs/llmwiki-serve",
+    "language": "Python",
+    "name": "knowledge-bridge-labs/llmwiki-serve",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:14:35Z",
+    "url": "https://github.com/knowledge-bridge-labs/llmwiki-serve"
+  },
+  {
+    "description": "It is an AI-powered engineering knowledge platform that automatically ingests GitHub Issues, Pull Requests, Review Comme",
+    "id": "Gautam-aman/Project-Brain",
+    "language": "Java",
+    "name": "Gautam-aman/Project-Brain",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:14:12Z",
+    "url": "https://github.com/Gautam-aman/Project-Brain"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-21T18:13:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Free, structured, module-wise Retrieval-Augmented Generation (RAG) training \u2014 entry level to master level, with runnable",
     "id": "SIGILIPELLI/rag-mastery-path",
     "language": "\u2014",
@@ -9,12 +54,21 @@
     "url": "https://github.com/SIGILIPELLI/rag-mastery-path"
   },
   {
+    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
+    "id": "avase33/consilium",
+    "language": "Python",
+    "name": "avase33/consilium",
+    "stars": 1,
+    "updated_at": "2026-07-21T18:15:15Z",
+    "url": "https://github.com/avase33/consilium"
+  },
+  {
     "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
     "id": "avase33/agentmesh",
     "language": "Python",
     "name": "avase33/agentmesh",
     "stars": 1,
-    "updated_at": "2026-07-21T18:12:41Z",
+    "updated_at": "2026-07-21T18:15:07Z",
     "url": "https://github.com/avase33/agentmesh"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/dokimos-dev/dokimos"
   },
   {
-    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
-    "id": "avase33/consilium",
-    "language": "Python",
-    "name": "avase33/consilium",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:12:49Z",
-    "url": "https://github.com/avase33/consilium"
-  },
-  {
     "description": "No-code AI chatbot platform with Zero-Speculation RAG. Train chatbots on your documents and embed them into any website ",
     "id": "Patel-Priyank-1602/CreBot",
     "language": "TypeScript",
     "name": "Patel-Priyank-1602/CreBot",
     "stars": 2,
-    "updated_at": "2026-07-21T18:10:02Z",
+    "updated_at": "2026-07-21T18:14:46Z",
     "url": "https://github.com/Patel-Priyank-1602/CreBot"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 20,
     "updated_at": "2026-07-21T18:09:41Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "Serve local Markdown/wiki knowledge folders as agent-readable HTTP, MCP-style, and A2A-style context.",
-    "id": "knowledge-bridge-labs/llmwiki-serve",
-    "language": "Python",
-    "name": "knowledge-bridge-labs/llmwiki-serve",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:09:26Z",
-    "url": "https://github.com/knowledge-bridge-labs/llmwiki-serve"
   },
   {
     "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "knowledge-bridge-labs/llmwiki-chat",
     "stars": 0,
-    "updated_at": "2026-07-21T18:09:19Z",
+    "updated_at": "2026-07-21T18:14:11Z",
     "url": "https://github.com/knowledge-bridge-labs/llmwiki-chat"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T18:02:28Z",
     "url": "https://github.com/redevops-io/agent-harness"
-  },
-  {
-    "description": "Enterprise AI Knowledge Assistant using RAG, FastAPI, React, LangChain and ChromaDB for intelligent document-grounded qu",
-    "id": "Mehnaz213/RAGent-AI",
-    "language": "TypeScript",
-    "name": "Mehnaz213/RAGent-AI",
-    "stars": 1,
-    "updated_at": "2026-07-21T18:01:47Z",
-    "url": "https://github.com/Mehnaz213/RAGent-AI"
-  },
-  {
-    "description": "Accountable, self-correcting, poison-resistant long-term memory for AI agents. Layered L0-L3, hybrid BM25+vector recall,",
-    "id": "vigilancetrent/zaniiDB-Agent-Memory",
-    "language": "Python",
-    "name": "vigilancetrent/zaniiDB-Agent-Memory",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:01:39Z",
-    "url": "https://github.com/vigilancetrent/zaniiDB-Agent-Memory"
-  },
-  {
-    "description": "AI-powered document intelligence platform for research administration",
-    "id": "ui-insight/vandalizer",
-    "language": "Python",
-    "name": "ui-insight/vandalizer",
-    "stars": 10,
-    "updated_at": "2026-07-21T18:13:38Z",
-    "url": "https://github.com/ui-insight/vandalizer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-21T18:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   }
 ]
