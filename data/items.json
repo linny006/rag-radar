@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-21T09:59:54Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rust-based code knowledge engine for AI agents and developers",
+    "id": "RusTokRs/Athanor",
+    "language": "Rust",
+    "name": "RusTokRs/Athanor",
+    "stars": 1,
+    "updated_at": "2026-07-21T09:59:35Z",
+    "url": "https://github.com/RusTokRs/Athanor"
+  },
+  {
     "description": "Production-shaped Spring Boot API (Java 25): multi-tenant (PostgreSQL RLS), event-driven (Kafka outbox), AI-enabled (RAG",
     "id": "ghiwet/Task-Manager-API",
     "language": "Java",
@@ -43,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:56:50Z",
     "url": "https://github.com/caelum29/calibre-mcp"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 149597,
+    "updated_at": "2026-07-21T09:56:38Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "AI-powered QA Architect agent \u2014 generates ISTQB/OWASP/IEEE/ISO-grounded Test Strategies, Risk Registers, Effort Estimate",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "cgfixit/CyClaw",
     "stars": 8,
-    "updated_at": "2026-07-21T09:51:18Z",
+    "updated_at": "2026-07-21T10:00:11Z",
     "url": "https://github.com/cgfixit/CyClaw"
   },
   {
@@ -157,18 +184,9 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 12896,
+    "stars": 12900,
     "updated_at": "2026-07-21T09:47:36Z",
     "url": "https://github.com/bojieli/ai-agent-book"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 149596,
-    "updated_at": "2026-07-21T09:56:38Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Evidence-only corpus + MCP server for InfoSec & cybersecurity compliance frameworks \u2014 ISO/IEC 27001, SOC 2, PCI DSS, NIS",
@@ -225,15 +243,6 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-21T09:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The Complete AI Development Toolkit for Claude Code \u2014 114 skills, 37 agents, 212 hooks. Production-ready patterns for fu",
     "id": "yonatangross/orchestkit",
     "language": "TypeScript",
@@ -265,18 +274,9 @@
     "id": "Tencent/WeKnora",
     "language": "Go",
     "name": "Tencent/WeKnora",
-    "stars": 18663,
+    "stars": 18664,
     "updated_at": "2026-07-21T09:44:52Z",
     "url": "https://github.com/Tencent/WeKnora"
-  },
-  {
-    "description": "Rust-based code knowledge engine for AI agents and developers",
-    "id": "RusTokRs/Athanor",
-    "language": "Rust",
-    "name": "RusTokRs/Athanor",
-    "stars": 1,
-    "updated_at": "2026-07-21T09:59:35Z",
-    "url": "https://github.com/RusTokRs/Athanor"
   },
   {
     "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
