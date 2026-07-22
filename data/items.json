@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T03:44:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
     "id": "langgenius/dify",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "VectifyAI/OpenKB",
     "stars": 3133,
-    "updated_at": "2026-07-22T03:44:29Z",
+    "updated_at": "2026-07-22T03:44:53Z",
     "url": "https://github.com/VectifyAI/OpenKB"
   },
   {
@@ -103,7 +112,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 15292,
+    "stars": 15294,
     "updated_at": "2026-07-22T03:40:09Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -304,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T03:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T03:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-Powered Research Assistant for Academic Paper Discovery, Analysis, and Citation Intelligence",
