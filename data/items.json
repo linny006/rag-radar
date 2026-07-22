@@ -1,5 +1,59 @@
 [
   {
+    "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
+    "id": "avase33/agentmesh",
+    "language": "Python",
+    "name": "avase33/agentmesh",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:14:47Z",
+    "url": "https://github.com/avase33/agentmesh"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T19:13:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Domain-specific AI analyst: multi-agent RAG over documents with hybrid retrieval (BM25 + vectors), Reciprocal Rank Fusio",
+    "id": "avase33/veritas-analyst",
+    "language": "Python",
+    "name": "avase33/veritas-analyst",
+    "stars": 2,
+    "updated_at": "2026-07-22T19:13:24Z",
+    "url": "https://github.com/avase33/veritas-analyst"
+  },
+  {
+    "description": "Full-stack AI agent platform: retrieval-augmented generation over your data, tool-using agents, persistent memory, and a",
+    "id": "avase33/sage",
+    "language": "Python",
+    "name": "avase33/sage",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:13:12Z",
+    "url": "https://github.com/avase33/sage"
+  },
+  {
+    "description": "Enterprise RAG-based AI Support Chatbot built using Dify + Ollama for CloudDesk CRM documentation.",
+    "id": "mandaramanasa3/CloudDesk-RAG-Support-Chatbot",
+    "language": "\u2014",
+    "name": "mandaramanasa3/CloudDesk-RAG-Support-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-22T19:13:12Z",
+    "url": "https://github.com/mandaramanasa3/CloudDesk-RAG-Support-Chatbot"
+  },
+  {
+    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
+    "id": "avase33/consilium",
+    "language": "Python",
+    "name": "avase33/consilium",
+    "stars": 1,
+    "updated_at": "2026-07-22T19:14:56Z",
+    "url": "https://github.com/avase33/consilium"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
@@ -54,24 +108,6 @@
     "url": "https://github.com/IgorGanapolsky/trading"
   },
   {
-    "description": "Domain-specific AI analyst: multi-agent RAG over documents with hybrid retrieval (BM25 + vectors), Reciprocal Rank Fusio",
-    "id": "avase33/veritas-analyst",
-    "language": "Python",
-    "name": "avase33/veritas-analyst",
-    "stars": 2,
-    "updated_at": "2026-07-22T19:13:24Z",
-    "url": "https://github.com/avase33/veritas-analyst"
-  },
-  {
-    "description": "Full-stack AI agent platform: retrieval-augmented generation over your data, tool-using agents, persistent memory, and a",
-    "id": "avase33/sage",
-    "language": "Python",
-    "name": "avase33/sage",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:13:12Z",
-    "url": "https://github.com/avase33/sage"
-  },
-  {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-cli",
     "language": "Rust",
@@ -86,17 +122,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3241,
-    "updated_at": "2026-07-22T19:12:56Z",
+    "updated_at": "2026-07-22T19:14:28Z",
     "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
-    "id": "avase33/consilium",
-    "language": "Python",
-    "name": "avase33/consilium",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:12:28Z",
-    "url": "https://github.com/avase33/consilium"
   },
   {
     "description": "Topic-grained, layered memory layer for AI coding agents \u2014 local-first, MCP, single binary. Plug Claude Code / Cursor / ",
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T19:12:44Z",
     "url": "https://github.com/mopanc/saga"
-  },
-  {
-    "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
-    "id": "avase33/agentmesh",
-    "language": "Python",
-    "name": "avase33/agentmesh",
-    "stars": 1,
-    "updated_at": "2026-07-22T19:12:20Z",
-    "url": "https://github.com/avase33/agentmesh"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -131,7 +149,7 @@
     "language": "HTML",
     "name": "Vahlame/create-vkm-kit",
     "stars": 4,
-    "updated_at": "2026-07-22T19:09:49Z",
+    "updated_at": "2026-07-22T19:15:16Z",
     "url": "https://github.com/Vahlame/create-vkm-kit"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/ManSio/mscodebase-intelligence"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T19:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector + keyword retrieval",
     "id": "eleboucher/memini",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 15,
     "updated_at": "2026-07-22T18:58:09Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "A Java API for Docling",
-    "id": "docling-project/docling-java",
-    "language": "Java",
-    "name": "docling-project/docling-java",
-    "stars": 126,
-    "updated_at": "2026-07-22T18:57:49Z",
-    "url": "https://github.com/docling-project/docling-java"
   }
 ]
