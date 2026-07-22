@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, ",
+    "id": "markhuangai/dense-mem",
+    "language": "Go",
+    "name": "markhuangai/dense-mem",
+    "stars": 34,
+    "updated_at": "2026-07-22T16:45:13Z",
+    "url": "https://github.com/markhuangai/dense-mem"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-22T16:44:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted documentation RAG pipeline that serves semantic search to LLM agents over the Model Context Protocol.",
+    "id": "AdamRussak/self-doc",
+    "language": "Python",
+    "name": "AdamRussak/self-doc",
+    "stars": 2,
+    "updated_at": "2026-07-22T16:44:30Z",
+    "url": "https://github.com/AdamRussak/self-doc"
+  },
+  {
     "description": "\u5f00\u6e90\u3001\u672c\u5730\u4f18\u5148\u7684 AI \u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u5f15\u64ce\uff1a\u591a\u667a\u80fd\u4f53\u4e16\u754c\u63a8\u6f14\u3001\u6309\u5f27\u89c4\u5212\u3001RAG \u957f\u7a0b\u8bb0\u5fc6\u3001\u9010\u7ae0\u5ba1\u6838\u4e0e\u65ad\u70b9\u6062\u590d | Open-source AI novel generator for long-form fiction.",
     "id": "Xiaoyangy/novel-studio",
     "language": "Go",
@@ -7,6 +34,15 @@
     "stars": 18,
     "updated_at": "2026-07-22T16:43:52Z",
     "url": "https://github.com/Xiaoyangy/novel-studio"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 213,
+    "updated_at": "2026-07-22T16:43:41Z",
+    "url": "https://github.com/cortexkit/aft"
   },
   {
     "description": "Open source agentic operating system",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "gonzaloMorenoc/Mnemo",
     "stars": 0,
-    "updated_at": "2026-07-22T16:38:55Z",
+    "updated_at": "2026-07-22T16:45:18Z",
     "url": "https://github.com/gonzaloMorenoc/Mnemo"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "artificemachine/obsidian-semantic-mcp",
     "stars": 0,
-    "updated_at": "2026-07-22T16:33:55Z",
+    "updated_at": "2026-07-22T16:44:31Z",
     "url": "https://github.com/artificemachine/obsidian-semantic-mcp"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/wbrunovieira/chatbotWBDigitalSolutionsLangGraph"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-22T16:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Program that lets you ask questions about your documents, audio, and video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "baakhoff/epicurus",
     "stars": 1,
-    "updated_at": "2026-07-22T16:40:48Z",
+    "updated_at": "2026-07-22T16:45:15Z",
     "url": "https://github.com/baakhoff/epicurus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 45327,
     "updated_at": "2026-07-22T16:34:42Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An AI-powered e-commerce sales assistant built with Next.js, local RAG architecture, and Ollama.",
-    "id": "ShotsMan2/chatbot-project",
-    "language": "TypeScript",
-    "name": "ShotsMan2/chatbot-project",
-    "stars": 1,
-    "updated_at": "2026-07-22T16:26:38Z",
-    "url": "https://github.com/ShotsMan2/chatbot-project"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:26:34Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
-    "id": "tetherto/qvac",
-    "language": "TypeScript",
-    "name": "tetherto/qvac",
-    "stars": 329,
-    "updated_at": "2026-07-22T16:36:28Z",
-    "url": "https://github.com/tetherto/qvac"
   }
 ]
