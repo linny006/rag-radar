@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18799,
+    "updated_at": "2026-07-23T18:45:04Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T18:44:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Suite A2A de 29 agentes de ciberseguridad ofensiva (pentesting + bug bounty autorizado) sobre Claude Code: orquestaci\u00f3n ",
     "id": "devPruebaDataunix/Data-Attack-Offensive-Tools",
     "language": "Python",
@@ -207,15 +225,6 @@
     "url": "https://github.com/ahmeedatm/infer-router"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18799,
-    "updated_at": "2026-07-23T18:43:27Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
     "id": "sepahead/sepahead",
     "language": "JavaScript",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "serencarikci/contextforge",
     "stars": 0,
-    "updated_at": "2026-07-23T18:35:29Z",
+    "updated_at": "2026-07-23T18:44:42Z",
     "url": "https://github.com/serencarikci/contextforge"
   },
   {
@@ -405,15 +414,6 @@
     "url": "https://github.com/gordochan9/Company-Intelligent"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T18:30:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -437,7 +437,7 @@
     "language": "TypeScript",
     "name": "use-crux/crux",
     "stars": 0,
-    "updated_at": "2026-07-23T18:30:11Z",
+    "updated_at": "2026-07-23T18:44:53Z",
     "url": "https://github.com/use-crux/crux"
   },
   {
