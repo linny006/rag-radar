@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u4f01\u4e1a\u300c\u5de5\u4f5c\u5206\u8eab\u300d\u7cfb\u7edf\uff1a\u5458\u5de5\u7535\u8111\u4e0a\u8dd1\u4e00\u4e2a\u80fd\u5728 OA/CRM/ERP \u91cc\u771f\u6b63\u52a8\u624b\u7684 AI \u5206\u8eab \u2014 \u672c\u4f53\u8bed\u4e49\u9a71\u52a8 \u00b7 \u5b58\u91cf\u7cfb\u7edf\u65e0\u4fb5\u5165\u8fde\u63a5(browse-use) \u00b7 \u5199\u64cd\u4f5c\u786e\u8ba4+\u6c99\u7bb1\u9694\u79bb\u53ef\u5ba1\u8ba1",
+    "id": "imoling/iml-work",
+    "language": "TypeScript",
+    "name": "imoling/iml-work",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:17:39Z",
+    "url": "https://github.com/imoling/iml-work"
+  },
+  {
+    "description": "Local-RAG indexes selected project folders using a local embedding model storing chunked vectors in Weaviate.  Enables c",
+    "id": "justin-haffey/local-rag",
+    "language": "C#",
+    "name": "justin-haffey/local-rag",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:17:26Z",
+    "url": "https://github.com/justin-haffey/local-rag"
+  },
+  {
+    "description": "Local RAG AI assistant built with Microsoft Foundry Local- runs fully offline",
+    "id": "sudeyldz10/local-rag-ai-assistant",
+    "language": "Python",
+    "name": "sudeyldz10/local-rag-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:16:57Z",
+    "url": "https://github.com/sudeyldz10/local-rag-ai-assistant"
+  },
+  {
+    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
+    "id": "wlsdks/reactor",
+    "language": "Python",
+    "name": "wlsdks/reactor",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:16:30Z",
+    "url": "https://github.com/wlsdks/reactor"
+  },
+  {
+    "description": "AI secretary powered by Gemini and Google Drive \u2014 chat with streaming & function    calling, visual workflow builder, Dr",
+    "id": "takeshy/gemihub",
+    "language": "TypeScript",
+    "name": "takeshy/gemihub",
+    "stars": 6,
+    "updated_at": "2026-07-23T07:15:51Z",
+    "url": "https://github.com/takeshy/gemihub"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-07-23T07:15:21Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "AI-native career development and talent intelligence platform with multi-agent workflows, Hybrid RAG, Evidence Graph, an",
+    "id": "a2098127101-droid/CareerOS",
+    "language": "\u2014",
+    "name": "a2098127101-droid/CareerOS",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:15:06Z",
+    "url": "https://github.com/a2098127101-droid/CareerOS"
+  },
+  {
     "description": "\u66f8\u7c4d\u300e\u5165\u9580\u30de\u30eb\u30c1\u30e2\u30fc\u30c0\u30ebRAG\u300f\u306e\u30b5\u30f3\u30d7\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\u96c6",
     "id": "shinnou/mragbook",
     "language": "Python",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "open-webui/open-webui",
     "stars": 146407,
-    "updated_at": "2026-07-23T07:05:30Z",
+    "updated_at": "2026-07-23T07:11:39Z",
     "url": "https://github.com/open-webui/open-webui"
   },
   {
@@ -225,21 +288,12 @@
     "url": "https://github.com/skill-step-labs/llm-rag-data-platform-lab"
   },
   {
-    "description": "Open-source enterprise AI agent platform for centrally governing agents, tools, memory, RAG, approvals, and durable work",
-    "id": "wlsdks/reactor",
-    "language": "Python",
-    "name": "wlsdks/reactor",
-    "stars": 1,
-    "updated_at": "2026-07-23T07:04:43Z",
-    "url": "https://github.com/wlsdks/reactor"
-  },
-  {
     "description": "\u4e00\u6b3eJavaSDK\u7528\u4e8e\u5feb\u901f\u63a5\u5165AI\u5927\u6a21\u578b\u5e94\u7528\uff0c\u6574\u5408\u591a\u5e73\u53f0\u5927\u6a21\u578b\uff0c\u5982OpenAi\u3001\u667a\u8c31Zhipu(ChatGLM)\u3001\u6df1\u5ea6\u6c42\u7d22DeepSeek\u3001\u6708\u4e4b\u6697\u9762Moonshot(Kimi)\u3001\u817e\u8baf\u6df7\u5143Hunyuan\u3001\u96f6\u4e00\u4e07\u7269(01)\u7b49\u7b49\uff0c\u63d0\u4f9b\u7edf\u4e00\u7684\u8f93\u5165\u8f93",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 420,
-    "updated_at": "2026-07-23T07:04:23Z",
+    "updated_at": "2026-07-23T07:17:02Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/SylphxAI/pdf-reader-mcp"
   },
   {
-    "description": "Local RAG AI assistant built with Microsoft Foundry Local- runs fully offline",
-    "id": "sudeyldz10/local-rag-ai-assistant",
-    "language": "Python",
-    "name": "sudeyldz10/local-rag-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:59:20Z",
-    "url": "https://github.com/sudeyldz10/local-rag-ai-assistant"
-  },
-  {
     "description": "Governed shared memory for AI agent fleets \u2014 multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audi",
     "id": "caura-ai/caura-memclaw",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 32,
     "updated_at": "2026-07-23T06:59:06Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Orbit AI is an intelligent personal AI assistant built with React, Node.js, FastAPI, MongoDB, and Groq LLM, featuring co",
-    "id": "riturajlabs/Orbit-AI",
-    "language": "JavaScript",
-    "name": "riturajlabs/Orbit-AI",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:58:21Z",
-    "url": "https://github.com/riturajlabs/Orbit-AI"
-  },
-  {
-    "description": "X-ray for documents: lossless PDF & PPTX extraction to JSON with bounding boxes, fonts, and colors \u2014 CLI, HTTP API, and ",
-    "id": "F2-AI-Inc/docray",
-    "language": "HTML",
-    "name": "F2-AI-Inc/docray",
-    "stars": 23,
-    "updated_at": "2026-07-23T06:57:52Z",
-    "url": "https://github.com/F2-AI-Inc/docray"
-  },
-  {
-    "description": "Self-evolving, evidence-based memory layer for coding agents and development teams.",
-    "id": "shno-labs/mem-forge",
-    "language": "Python",
-    "name": "shno-labs/mem-forge",
-    "stars": 2,
-    "updated_at": "2026-07-23T06:57:50Z",
-    "url": "https://github.com/shno-labs/mem-forge"
-  },
-  {
-    "description": "An assistant that remembers every paper you've ever read \u2014 running entirely on your device, with your data never leaving",
-    "id": "ViuGiaLai/researchmind",
-    "language": "Python",
-    "name": "ViuGiaLai/researchmind",
-    "stars": 7,
-    "updated_at": "2026-07-23T07:13:22Z",
-    "url": "https://github.com/ViuGiaLai/researchmind"
-  },
-  {
-    "description": "Retrieval & Reasoning Engine. A modular, RAG-based AI agentic core for automated medical telephony and patient triage.",
-    "id": "DanielDeshmukh/ella",
-    "language": "Python",
-    "name": "DanielDeshmukh/ella",
-    "stars": 3,
-    "updated_at": "2026-07-23T06:57:13Z",
-    "url": "https://github.com/DanielDeshmukh/ella"
   }
 ]
