@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83c\udf31 Open-source visual platform to build, run & ship AI agents and workflows \u2014 built-in RAG, real-time collaboration, self",
+    "id": "manu14357/Zelaxy",
+    "language": "TypeScript",
+    "name": "manu14357/Zelaxy",
+    "stars": 13,
+    "updated_at": "2026-07-23T17:17:43Z",
+    "url": "https://github.com/manu14357/Zelaxy"
+  },
+  {
+    "description": "CloudMind is an open source, Cloudflare-native, serverless-first private AI memory layer for the AI era.",
+    "id": "evepupil/CloudMind",
+    "language": "TypeScript",
+    "name": "evepupil/CloudMind",
+    "stars": 17,
+    "updated_at": "2026-07-23T17:17:40Z",
+    "url": "https://github.com/evepupil/CloudMind"
+  },
+  {
+    "description": "This is my AI Engineer journey, i will be adding progress for all weeks, notes, projects and interviews",
+    "id": "MastanSV/ai-engineering-journey",
+    "language": "Jupyter Notebook",
+    "name": "MastanSV/ai-engineering-journey",
+    "stars": 0,
+    "updated_at": "2026-07-23T17:17:32Z",
+    "url": "https://github.com/MastanSV/ai-engineering-journey"
+  },
+  {
+    "description": "Production-grade LSTM time-series forecasting for finance with retrieval-augmented forecasting (RAG) and Claude-powered ",
+    "id": "ROHITCRAFTSYT/LSTM-forecast",
+    "language": "Python",
+    "name": "ROHITCRAFTSYT/LSTM-forecast",
+    "stars": 0,
+    "updated_at": "2026-07-23T17:18:03Z",
+    "url": "https://github.com/ROHITCRAFTSYT/LSTM-forecast"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-07-23T17:17:17Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "An AI-powered Retrieval-Augmented Generation (RAG) system that enables users to explore Egyptian museum artifacts throug",
+    "id": "wafaashour499/Egyptian-Artifacts-Assistant",
+    "language": "Python",
+    "name": "wafaashour499/Egyptian-Artifacts-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-23T17:17:02Z",
+    "url": "https://github.com/wafaashour499/Egyptian-Artifacts-Assistant"
+  },
+  {
+    "description": "A public AI Engineering roadmap featuring hands-on projects, LLMs, RAG, AI Agents, LangGraph, and production-ready AI sy",
+    "id": "akmayank94/ai-engineering-roadmap",
+    "language": "Python",
+    "name": "akmayank94/ai-engineering-roadmap",
+    "stars": 2,
+    "updated_at": "2026-07-23T17:17:02Z",
+    "url": "https://github.com/akmayank94/ai-engineering-roadmap"
+  },
+  {
+    "description": "SB Chat is a sovereign Next.js AI chat workspace for local and hosted models, with multi-provider support, document chat",
+    "id": "suhasbhairav/sb-chat",
+    "language": "JavaScript",
+    "name": "suhasbhairav/sb-chat",
+    "stars": 1,
+    "updated_at": "2026-07-23T17:16:27Z",
+    "url": "https://github.com/suhasbhairav/sb-chat"
+  },
+  {
+    "description": "RAG ReAct Agent - A Retrieval-Augmented Generation system with ReAct (Reasoning+Acting) agent loop for intelligent quest",
+    "id": "MoMoM101/RAG-ReActAgent",
+    "language": "Python",
+    "name": "MoMoM101/RAG-ReActAgent",
+    "stars": 3,
+    "updated_at": "2026-07-23T17:15:59Z",
+    "url": "https://github.com/MoMoM101/RAG-ReActAgent"
+  },
+  {
+    "description": "Context-Injected Fine-Tuning for Legal QA in Bangladesh \u2014 bilingual legal QA dataset, law corpus, SFT data, and full eva",
+    "id": "m-mahadi/bangladesh-legal-qa",
+    "language": "Python",
+    "name": "m-mahadi/bangladesh-legal-qa",
+    "stars": 0,
+    "updated_at": "2026-07-23T17:15:29Z",
+    "url": "https://github.com/m-mahadi/bangladesh-legal-qa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T17:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T17:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production healthcare AI briefing assistant \u2014 LangGraph + RAG + safety routing. Deployed and active.",
     "id": "finessehumxn/medcompanion-ai",
     "language": "HTML",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "ROHITCRAFTSYT/Loco-RAG",
     "stars": 0,
-    "updated_at": "2026-07-23T17:14:46Z",
+    "updated_at": "2026-07-23T17:17:11Z",
     "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
   },
   {
@@ -144,15 +252,6 @@
     "url": "https://github.com/Raxorr/ragornot"
   },
   {
-    "description": "RAG ReAct Agent - A Retrieval-Augmented Generation system with ReAct (Reasoning+Acting) agent loop for intelligent quest",
-    "id": "MoMoM101/RAG-ReActAgent",
-    "language": "Python",
-    "name": "MoMoM101/RAG-ReActAgent",
-    "stars": 3,
-    "updated_at": "2026-07-23T17:10:30Z",
-    "url": "https://github.com/MoMoM101/RAG-ReActAgent"
-  },
-  {
     "description": "Dive is a secure, local-first desktop client for Ollama and Pi agentic AI. Features an ultra-compact offline RAG engine ",
     "id": "DuckTapeKiller/dive",
     "language": "JavaScript",
@@ -248,7 +347,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18799,
-    "updated_at": "2026-07-23T17:14:45Z",
+    "updated_at": "2026-07-23T17:17:45Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -288,15 +387,6 @@
     "url": "https://github.com/Kantamaniprakash/genai-lab"
   },
   {
-    "description": "Context-Injected Fine-Tuning for Legal QA in Bangladesh \u2014 paper, bilingual legal QA dataset, law corpus, SFT data, and f",
-    "id": "m-mahadi/bangladesh-legal-qa",
-    "language": "TeX",
-    "name": "m-mahadi/bangladesh-legal-qa",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:05:17Z",
-    "url": "https://github.com/m-mahadi/bangladesh-legal-qa"
-  },
-  {
     "description": "Production-grade Agentic RAG for documents",
     "id": "wizard50/agentic-doc",
     "language": "Python",
@@ -320,7 +410,7 @@
     "language": "TypeScript",
     "name": "SylphxAI/pdf-reader-mcp",
     "stars": 834,
-    "updated_at": "2026-07-23T17:09:42Z",
+    "updated_at": "2026-07-23T17:18:02Z",
     "url": "https://github.com/SylphxAI/pdf-reader-mcp"
   },
   {
@@ -338,17 +428,8 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31116,
-    "updated_at": "2026-07-23T17:12:48Z",
+    "updated_at": "2026-07-23T17:17:52Z",
     "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "An AI-powered Retrieval-Augmented Generation (RAG) system that enables users to explore Egyptian museum artifacts throug",
-    "id": "wafaashour499/Egyptian-Artifacts-Assistant",
-    "language": "Python",
-    "name": "wafaashour499/Egyptian-Artifacts-Assistant",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:03:53Z",
-    "url": "https://github.com/wafaashour499/Egyptian-Artifacts-Assistant"
   },
   {
     "description": "Production-style RAG microservice \u2014 hybrid retrieval (BM25 + TF-IDF) with Reciprocal Rank Fusion, cross-encoder re-ranki",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T17:02:27Z",
     "url": "https://github.com/mazyartaghavi/fleetmind-rag"
-  },
-  {
-    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
-    "id": "lemmaoracle/lemma",
-    "language": "Astro",
-    "name": "lemmaoracle/lemma",
-    "stars": 2,
-    "updated_at": "2026-07-23T17:02:15Z",
-    "url": "https://github.com/lemmaoracle/lemma"
-  },
-  {
-    "description": "Self-hosted personal AI agent and employee for workflow automation in your DMs. It writes code, runs tools, schedules jo",
-    "id": "kvyb/opentulpa",
-    "language": "Python",
-    "name": "kvyb/opentulpa",
-    "stars": 39,
-    "updated_at": "2026-07-23T17:02:14Z",
-    "url": "https://github.com/kvyb/opentulpa"
-  },
-  {
-    "description": "Autonomous multi-agent system that maps new AI research from arXiv into a live semantic graph - with a CI-gated LLM eval",
-    "id": "IamTusharYadav/arxiv-atlas",
-    "language": "Python",
-    "name": "IamTusharYadav/arxiv-atlas",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:01:55Z",
-    "url": "https://github.com/IamTusharYadav/arxiv-atlas"
-  },
-  {
-    "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and",
-    "id": "IgorGanapolsky/trading",
-    "language": "Python",
-    "name": "IgorGanapolsky/trading",
-    "stars": 39,
-    "updated_at": "2026-07-23T17:01:49Z",
-    "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Trust layer for document\u2192JSON extraction & AI agents: calibrated per-field confidence + source grounding + accept/review",
-    "id": "bhaskargurram-ai/verifydoc",
-    "language": "Python",
-    "name": "bhaskargurram-ai/verifydoc",
-    "stars": 2,
-    "updated_at": "2026-07-23T17:05:47Z",
-    "url": "https://github.com/bhaskargurram-ai/verifydoc"
-  },
-  {
-    "description": "Open-source local AI workspace with LLM chat, AI agents, RAG memory, and knowledge management powered by Ollama, Next.js",
-    "id": "ChromiteDev/chroma-ai",
-    "language": "TypeScript",
-    "name": "ChromiteDev/chroma-ai",
-    "stars": 0,
-    "updated_at": "2026-07-23T17:01:39Z",
-    "url": "https://github.com/ChromiteDev/chroma-ai"
-  },
-  {
-    "description": "Self-hosted, cross-device long-term memory for AI agents via MCP \u2014 one vault shared across any MCP client (Claude, Curso",
-    "id": "nousergon/mnemon",
-    "language": "Python",
-    "name": "nousergon/mnemon",
-    "stars": 1,
-    "updated_at": "2026-07-23T17:01:38Z",
-    "url": "https://github.com/nousergon/mnemon"
-  },
-  {
-    "description": "An AI-Assisted secure code auditing platform that performs static AST analysis, retrieves vulnerability context using a ",
-    "id": "Piy26ush/SecureLens",
-    "language": "TypeScript",
-    "name": "Piy26ush/SecureLens",
-    "stars": 1,
-    "updated_at": "2026-07-23T17:01:18Z",
-    "url": "https://github.com/Piy26ush/SecureLens"
-  },
-  {
-    "description": "Recipes and resources for building, deploying, and fine-tuning generative AI with Fireworks.",
-    "id": "fw-ai/cookbook",
-    "language": "Jupyter Notebook",
-    "name": "fw-ai/cookbook",
-    "stars": 185,
-    "updated_at": "2026-07-23T17:03:21Z",
-    "url": "https://github.com/fw-ai/cookbook"
   }
 ]
