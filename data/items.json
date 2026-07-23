@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agentic RAG system in Python for document retrieval, orchestration and intelligent question answering",
+    "id": "lucianoon/rag-agentic-system",
+    "language": "Python",
+    "name": "lucianoon/rag-agentic-system",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:00:46Z",
+    "url": "https://github.com/lucianoon/rag-agentic-system"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:00:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Tell PantryChef what's in your kitchen \u2014 get matching recipes and cooking videos, a Nutri-Score-style health grade, and ",
     "id": "Joynnncode/PantryChef",
     "language": "TypeScript",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "shreya-roy1/LexiTrace",
     "stars": 0,
-    "updated_at": "2026-07-23T20:00:05Z",
+    "updated_at": "2026-07-23T20:00:52Z",
     "url": "https://github.com/shreya-roy1/LexiTrace"
   },
   {
@@ -166,7 +184,7 @@
     "id": "RyanCodrai/turbovec",
     "language": "Python",
     "name": "RyanCodrai/turbovec",
-    "stars": 13843,
+    "stars": 13844,
     "updated_at": "2026-07-23T19:57:15Z",
     "url": "https://github.com/RyanCodrai/turbovec"
   },
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "OpenAgentHQ/openagent-eval",
     "stars": 13,
-    "updated_at": "2026-07-23T19:48:09Z",
+    "updated_at": "2026-07-23T20:00:49Z",
     "url": "https://github.com/OpenAgentHQ/openagent-eval"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:46:58Z",
     "url": "https://github.com/codeclawd/claude-recall"
-  },
-  {
-    "description": "Install-ordered k3s cluster config as code for a private AI platform: Ollama/Qwen3 on a Tesla V100, Milvus RAG, MCP agen",
-    "id": "darthzen/lab-fleet",
-    "language": "Python",
-    "name": "darthzen/lab-fleet",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:46:55Z",
-    "url": "https://github.com/darthzen/lab-fleet"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3243,
-    "updated_at": "2026-07-23T19:46:17Z",
-    "url": "https://github.com/neomjs/neo"
   }
 ]
