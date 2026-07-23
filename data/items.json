@@ -1,12 +1,111 @@
 [
   {
+    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
+    "id": "avase33/consilium",
+    "language": "Python",
+    "name": "avase33/consilium",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:14:55Z",
+    "url": "https://github.com/avase33/consilium"
+  },
+  {
+    "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
+    "id": "avase33/agentmesh",
+    "language": "Python",
+    "name": "avase33/agentmesh",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:14:48Z",
+    "url": "https://github.com/avase33/agentmesh"
+  },
+  {
     "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 17257,
-    "updated_at": "2026-07-23T01:13:23Z",
+    "stars": 17258,
+    "updated_at": "2026-07-23T01:14:40Z",
     "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "description": "Production-shaped AI inference platform unifying text, image, RAG, and LLM chat behind one authenticated, rate-limited, ",
+    "id": "HonourJAH/ai-platform-capstone",
+    "language": "Python",
+    "name": "HonourJAH/ai-platform-capstone",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:14:06Z",
+    "url": "https://github.com/HonourJAH/ai-platform-capstone"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:13:57Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Domain-specific AI analyst: multi-agent RAG over documents with hybrid retrieval (BM25 + vectors), Reciprocal Rank Fusio",
+    "id": "avase33/veritas-analyst",
+    "language": "Python",
+    "name": "avase33/veritas-analyst",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:13:41Z",
+    "url": "https://github.com/avase33/veritas-analyst"
+  },
+  {
+    "description": "Self-hosted semantic code search for your code and documents",
+    "id": "lgldsilva/semidx",
+    "language": "Go",
+    "name": "lgldsilva/semidx",
+    "stars": 0,
+    "updated_at": "2026-07-23T01:14:05Z",
+    "url": "https://github.com/lgldsilva/semidx"
+  },
+  {
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
+    "id": "ModelEngine-Group/nexent",
+    "language": "Python",
+    "name": "ModelEngine-Group/nexent",
+    "stars": 5781,
+    "updated_at": "2026-07-23T01:13:33Z",
+    "url": "https://github.com/ModelEngine-Group/nexent"
+  },
+  {
+    "description": "Local-first personal AI assistant: runs local LLMs with approval-gated tools and retrieval memory, fully offline \u2014 for c",
+    "id": "PapaKoftes/Layla",
+    "language": "Python",
+    "name": "PapaKoftes/Layla",
+    "stars": 2,
+    "updated_at": "2026-07-23T01:13:32Z",
+    "url": "https://github.com/PapaKoftes/Layla"
+  },
+  {
+    "description": "Own your LLM's web search: a local search->fetch->rank pipeline that replaces hosted web_search tools. Measured: matches",
+    "id": "firish/webfetch",
+    "language": "Python",
+    "name": "firish/webfetch",
+    "stars": 25,
+    "updated_at": "2026-07-23T01:13:30Z",
+    "url": "https://github.com/firish/webfetch"
+  },
+  {
+    "description": "Full-stack AI agent platform: retrieval-augmented generation over your data, tool-using agents, persistent memory, and a",
+    "id": "avase33/sage",
+    "language": "Python",
+    "name": "avase33/sage",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:13:27Z",
+    "url": "https://github.com/avase33/sage"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T01:13:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Free, structured, module-wise Retrieval-Augmented Generation (RAG) training \u2014 entry level to master level, with runnable",
@@ -16,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T01:12:51Z",
     "url": "https://github.com/SIGILIPELLI/rag-mastery-path"
-  },
-  {
-    "description": "Multi-agent collaborative research system with LangGraph-style orchestration that plans, web-searches, and synthesizes c",
-    "id": "avase33/consilium",
-    "language": "Python",
-    "name": "avase33/consilium",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:12:44Z",
-    "url": "https://github.com/avase33/consilium"
-  },
-  {
-    "description": "Distributed polyglot AI agent mesh Next.js UI \u00b7 Go gateway \u00b7 Python intelligence \u00b7 Rust executor, one JSON protocol, off",
-    "id": "avase33/agentmesh",
-    "language": "Python",
-    "name": "avase33/agentmesh",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:12:37Z",
-    "url": "https://github.com/avase33/agentmesh"
-  },
-  {
-    "description": "Own your LLM's web search: a local search->fetch->rank pipeline that replaces hosted web_search tools. Measured: matches",
-    "id": "firish/webfetch",
-    "language": "Python",
-    "name": "firish/webfetch",
-    "stars": 25,
-    "updated_at": "2026-07-23T01:12:36Z",
-    "url": "https://github.com/firish/webfetch"
   },
   {
     "description": "Multi-format RAG ingestion pipelines (PDF, CSV, Excel, JSON, Word, SQL) with a LangGraph + Streamlit document-RAG app",
@@ -63,15 +135,6 @@
     "url": "https://github.com/wlsdks/reactor"
   },
   {
-    "description": "Domain-specific AI analyst: multi-agent RAG over documents with hybrid retrieval (BM25 + vectors), Reciprocal Rank Fusio",
-    "id": "avase33/veritas-analyst",
-    "language": "Python",
-    "name": "avase33/veritas-analyst",
-    "stars": 2,
-    "updated_at": "2026-07-23T01:11:28Z",
-    "url": "https://github.com/avase33/veritas-analyst"
-  },
-  {
     "description": "BondLens AI | \u53ef\u89e3\u91ca\u503a\u5238\u5206\u6790\u667a\u80fd\u4f53\uff1aAkShare \u5b9e\u65f6\u503a\u5238\u6570\u636e\u3001\u5de5\u5177\u8c03\u7528\u3001LLM Guardrail\u3001\u7ea2\u961f\u8bc4\u6d4b\u3001Docker/CI\u3002Explainable fixed-income analysis agent with l",
     "id": "Phoenix0531-sudo/BondLens",
     "language": "Python",
@@ -81,21 +144,12 @@
     "url": "https://github.com/Phoenix0531-sudo/BondLens"
   },
   {
-    "description": "Full-stack AI agent platform: retrieval-augmented generation over your data, tool-using agents, persistent memory, and a",
-    "id": "avase33/sage",
-    "language": "Python",
-    "name": "avase33/sage",
-    "stars": 1,
-    "updated_at": "2026-07-23T01:11:15Z",
-    "url": "https://github.com/avase33/sage"
-  },
-  {
     "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN + GNN + decoder-only LM + d",
     "id": "thekaveh/NNx",
     "language": "Python",
     "name": "thekaveh/NNx",
     "stars": 3,
-    "updated_at": "2026-07-23T01:11:21Z",
+    "updated_at": "2026-07-23T01:14:10Z",
     "url": "https://github.com/thekaveh/NNx"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Zig",
     "name": "antflydb/antfly",
     "stars": 418,
-    "updated_at": "2026-07-23T01:12:23Z",
+    "updated_at": "2026-07-23T01:13:40Z",
     "url": "https://github.com/antflydb/antfly"
   },
   {
@@ -157,7 +211,7 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 149821,
+    "stars": 149822,
     "updated_at": "2026-07-23T01:07:24Z",
     "url": "https://github.com/langgenius/dify"
   },
@@ -261,15 +315,6 @@
     "url": "https://github.com/fdoiron/pathfinder-rag"
   },
   {
-    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
-    "id": "ModelEngine-Group/nexent",
-    "language": "Python",
-    "name": "ModelEngine-Group/nexent",
-    "stars": 5781,
-    "updated_at": "2026-07-23T01:02:12Z",
-    "url": "https://github.com/ModelEngine-Group/nexent"
-  },
-  {
     "description": "\u6d77\u5916\u30c6\u30c3\u30af\u30cb\u30e5\u30fc\u30b9\u3092\u81ea\u52d5\u53ce\u96c6\u3057\u3001AI\u3067\u7ffb\u8a33\u30fb\u8981\u7d04\u30fb\u6295\u8cc7\u6587\u8108\u3092\u5206\u6790\u3059\u308b\u30ea\u30b5\u30fc\u30c1\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9",
     "id": "yook11/Vector",
     "language": "Python",
@@ -284,17 +329,8 @@
     "language": "Elixir",
     "name": "engram-app/Engram",
     "stars": 7,
-    "updated_at": "2026-07-23T01:01:31Z",
+    "updated_at": "2026-07-23T01:15:16Z",
     "url": "https://github.com/engram-app/Engram"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T01:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-optimized documentation and data sources for AI-native development on the Flow network. Ground LLMs in accurate Flow",
@@ -369,15 +405,6 @@
     "url": "https://github.com/Taleef7/jobops-copilot"
   },
   {
-    "description": "Production-shaped AI inference platform unifying text, image, RAG, and LLM chat behind one authenticated, rate-limited, ",
-    "id": "HonourJAH/ai-platform-capstone",
-    "language": "Python",
-    "name": "HonourJAH/ai-platform-capstone",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:57:29Z",
-    "url": "https://github.com/HonourJAH/ai-platform-capstone"
-  },
-  {
     "description": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, Lang",
     "id": "Haozhe-Xing/agent_learning",
     "language": "HTML",
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18793,
-    "updated_at": "2026-07-23T01:09:33Z",
+    "updated_at": "2026-07-23T01:13:37Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T00:55:42Z",
     "url": "https://github.com/Yacine-ai-tech/StreamPulse"
-  },
-  {
-    "description": "Speech-to-intelligence \u2014 provider-agnostic transcription (WhisperX/Groq/Deepgram/AssemblyAI) + multi-LLM analysis by cal",
-    "id": "Yacine-ai-tech/VoiceFlow",
-    "language": "HTML",
-    "name": "Yacine-ai-tech/VoiceFlow",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:55:28Z",
-    "url": "https://github.com/Yacine-ai-tech/VoiceFlow"
-  },
-  {
-    "description": "Persona-aware AI analytics & RAG copilot \u2014 9 role-scoped personas, hybrid retrieval (BGE+BM25+RRF+reranker) + GraphRAG-l",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:54:59Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "Closed-corpus AI learning platform for students learning in English as a Second Language (ESL) at IB & Cambridge schools",
-    "id": "usermanoj/verity-ai",
-    "language": "TypeScript",
-    "name": "usermanoj/verity-ai",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:52:52Z",
-    "url": "https://github.com/usermanoj/verity-ai"
   }
 ]
