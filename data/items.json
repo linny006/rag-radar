@@ -1,11 +1,101 @@
 [
   {
+    "description": "OpenLoomi is an open-source AI coworker for builders who want local-first work memory around their AI agents",
+    "id": "melandlabs/openloomi",
+    "language": "TypeScript",
+    "name": "melandlabs/openloomi",
+    "stars": 709,
+    "updated_at": "2026-07-23T09:59:36Z",
+    "url": "https://github.com/melandlabs/openloomi"
+  },
+  {
+    "description": "Privacy-first local LLM chat app with RAG memory, AI agents, multi-model orchestration, WhatsApp integration & E2E-encry",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:58:30Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "Production-shaped Spring Boot API (Java 25): multi-tenant (PostgreSQL RLS), event-driven (Kafka outbox), AI-enabled (RAG",
+    "id": "ghiwet/Task-Manager-API",
+    "language": "Java",
+    "name": "ghiwet/Task-Manager-API",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:57:23Z",
+    "url": "https://github.com/ghiwet/Task-Manager-API"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:57:18Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Reproducible Qwen2.5 RAG evaluation with LightRAG, reranking, Evidence Guard and FastAPI Dashboard",
+    "id": "aloziefavour672-png/qwen-lightrag-evaluation",
+    "language": "\u2014",
+    "name": "aloziefavour672-png/qwen-lightrag-evaluation",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:56:52Z",
+    "url": "https://github.com/aloziefavour672-png/qwen-lightrag-evaluation"
+  },
+  {
+    "description": "Codex Concierge (/cc, /c2) - recommends the best combo of Codex plugins, agents & MCP servers for your task via a local ",
+    "id": "happygoluckydev/c2",
+    "language": "JavaScript",
+    "name": "happygoluckydev/c2",
+    "stars": 1,
+    "updated_at": "2026-07-23T09:56:33Z",
+    "url": "https://github.com/happygoluckydev/c2"
+  },
+  {
+    "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys",
+    "id": "arc53/DocsGPT",
+    "language": "Python",
+    "name": "arc53/DocsGPT",
+    "stars": 18009,
+    "updated_at": "2026-07-23T09:56:14Z",
+    "url": "https://github.com/arc53/DocsGPT"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18795,
+    "updated_at": "2026-07-23T09:58:03Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "\u901a\u7528\u5973\u4ec6\u673a\u5668\u4eba\u672c\u5730\u7248 Rust \u670d\u52a1",
+    "id": "kuliantnt/qq-maid-bot",
+    "language": "Rust",
+    "name": "kuliantnt/qq-maid-bot",
+    "stars": 95,
+    "updated_at": "2026-07-23T09:56:02Z",
+    "url": "https://github.com/kuliantnt/qq-maid-bot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-23T09:55:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "MOOTx01 Community Edition",
     "id": "codedaptive/mootx01-ce",
     "language": "Swift",
     "name": "codedaptive/mootx01-ce",
     "stars": 4,
-    "updated_at": "2026-07-23T09:55:28Z",
+    "updated_at": "2026-07-23T09:56:27Z",
     "url": "https://github.com/codedaptive/mootx01-ce"
   },
   {
@@ -16,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-07-23T09:55:03Z",
     "url": "https://github.com/Alan-Jowett/LexonGraph"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 149909,
+    "updated_at": "2026-07-23T09:53:24Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Local-first knowledge assistant: multi-format ingestion, concept graph, and provenance-honest retrieval (FastAPI + Next.",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "modelscope/evalscope",
     "stars": 3127,
-    "updated_at": "2026-07-23T09:49:45Z",
+    "updated_at": "2026-07-23T09:56:28Z",
     "url": "https://github.com/modelscope/evalscope"
   },
   {
@@ -86,8 +185,17 @@
     "language": "Go",
     "name": "klarlabs-studio/mnemos",
     "stars": 3,
-    "updated_at": "2026-07-23T09:54:41Z",
+    "updated_at": "2026-07-23T09:59:43Z",
     "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "AI-powered nutrition assistant built with React, Firebase, OpenAI, WhatsApp Bot and RAG.",
+    "id": "taliawachter/SnapEAT",
+    "language": "JavaScript",
+    "name": "taliawachter/SnapEAT",
+    "stars": 0,
+    "updated_at": "2026-07-23T09:47:38Z",
+    "url": "https://github.com/taliawachter/SnapEAT"
   },
   {
     "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
@@ -144,24 +252,6 @@
     "url": "https://github.com/esuneelkumar722/research-intelligence-agent"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:45:34Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-23T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted autonomous AI agent for Linux \u2014 multi-LLM, real desktop control (VNC), WhatsApp, RAG knowledge base, sandbox",
     "id": "dev-core-busy/jarvis",
     "language": "Python",
@@ -169,15 +259,6 @@
     "stars": 17,
     "updated_at": "2026-07-23T09:45:14Z",
     "url": "https://github.com/dev-core-busy/jarvis"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 149907,
-    "updated_at": "2026-07-23T09:53:24Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Persistent, local, cross-IDE memory for AI agents \u2014 markdown source of truth, LanceDB-powered semantic search, zero clou",
@@ -203,7 +284,7 @@
     "language": "Python",
     "name": "knows-cloud/paperless-iq",
     "stars": 13,
-    "updated_at": "2026-07-23T09:55:07Z",
+    "updated_at": "2026-07-23T09:59:19Z",
     "url": "https://github.com/knows-cloud/paperless-iq"
   },
   {
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "winstonkoh87/Athena-Public",
     "stars": 543,
-    "updated_at": "2026-07-23T09:42:14Z",
+    "updated_at": "2026-07-23T09:57:01Z",
     "url": "https://github.com/winstonkoh87/Athena-Public"
   },
   {
@@ -221,7 +302,7 @@
     "language": "Python",
     "name": "NorthlandPositronics/Cogtrix",
     "stars": 0,
-    "updated_at": "2026-07-23T09:42:14Z",
+    "updated_at": "2026-07-23T09:57:42Z",
     "url": "https://github.com/NorthlandPositronics/Cogtrix"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "alibaizhanov/mengram",
     "stars": 183,
-    "updated_at": "2026-07-23T09:41:52Z",
+    "updated_at": "2026-07-23T09:57:52Z",
     "url": "https://github.com/alibaizhanov/mengram"
   },
   {
@@ -256,7 +337,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 17843,
+    "stars": 17849,
     "updated_at": "2026-07-23T09:40:37Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -324,24 +405,6 @@
     "url": "https://github.com/gokhantos/opencrow"
   },
   {
-    "description": "Production-shaped Spring Boot API (Java 25): multi-tenant (PostgreSQL RLS), event-driven (Kafka outbox), AI-enabled (RAG",
-    "id": "ghiwet/Task-Manager-API",
-    "language": "Java",
-    "name": "ghiwet/Task-Manager-API",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:37:12Z",
-    "url": "https://github.com/ghiwet/Task-Manager-API"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18795,
-    "updated_at": "2026-07-23T09:51:26Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
     "id": "sepahead/sepahead",
     "language": "JavaScript",
@@ -349,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T09:37:05Z",
     "url": "https://github.com/sepahead/sepahead"
-  },
-  {
-    "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys",
-    "id": "arc53/DocsGPT",
-    "language": "Python",
-    "name": "arc53/DocsGPT",
-    "stars": 18009,
-    "updated_at": "2026-07-23T09:36:59Z",
-    "url": "https://github.com/arc53/DocsGPT"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T09:36:26Z",
     "url": "https://github.com/MosesCommitsFraud/Talos"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684 Telegram \u7fa4\u804a\u667a\u80fd\u7ba1\u7406\u673a\u5668\u4eba \u2014 \u667a\u80fd\u51b3\u7b56\u3001\u77e5\u8bc6\u5e93 RAG\u3001\u5185\u5bb9\u5ba1\u67e5\u3001\u8d34\u7eb8\u5b66\u4e60\u3001\u8054\u7f51\u641c\u7d22\u3001\u591a\u5c42\u8bb0\u5fc6\u67b6\u6784",
-    "id": "Hamster-Prime/Smart_Group_Bot",
-    "language": "Python",
-    "name": "Hamster-Prime/Smart_Group_Bot",
-    "stars": 54,
-    "updated_at": "2026-07-23T09:37:54Z",
-    "url": "https://github.com/Hamster-Prime/Smart_Group_Bot"
-  },
-  {
-    "description": "Codex Concierge (/cc, /c2) - recommends the best combo of Codex plugins, agents & MCP servers for your task via a local ",
-    "id": "happygoluckydev/c2",
-    "language": "JavaScript",
-    "name": "happygoluckydev/c2",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:35:55Z",
-    "url": "https://github.com/happygoluckydev/c2"
-  },
-  {
-    "description": "Rust-based code knowledge engine for AI agents and developers",
-    "id": "RusTokRs/Athanor",
-    "language": "Rust",
-    "name": "RusTokRs/Athanor",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:55:22Z",
-    "url": "https://github.com/RusTokRs/Athanor"
-  },
-  {
-    "description": "Self-hosted memory for Claude \u2014 markdown knowledge base with wikilink graph, hybrid semantic search (pgvector + Ollama),",
-    "id": "Kyrzin/kybase",
-    "language": "TypeScript",
-    "name": "Kyrzin/kybase",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:34:28Z",
-    "url": "https://github.com/Kyrzin/kybase"
-  },
-  {
-    "description": "A C++20 framework for building intelligent agents.",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 0,
-    "updated_at": "2026-07-23T09:49:50Z",
-    "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Template catalog and SDK for AI subsystems \u2014 agents, RAG, MCP servers, eval harnesses, infrastructure. Part of the nanoh",
-    "id": "nanohype/nanohype",
-    "language": "TypeScript",
-    "name": "nanohype/nanohype",
-    "stars": 1,
-    "updated_at": "2026-07-23T09:33:48Z",
-    "url": "https://github.com/nanohype/nanohype"
   }
 ]
