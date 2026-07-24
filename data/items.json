@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
+    "id": "sdsrss/claude-mem-lite",
+    "language": "JavaScript",
+    "name": "sdsrss/claude-mem-lite",
+    "stars": 50,
+    "updated_at": "2026-07-24T07:16:14Z",
+    "url": "https://github.com/sdsrss/claude-mem-lite"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T07:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-24T07:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 150048,
+    "updated_at": "2026-07-24T07:15:19Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "MeterSphere v2.10 \u4e2a\u4eba\u5f00\u53d1\u5206\u652f \u2014 \u4e00\u7ad9\u5f0f\u5f00\u6e90\u6301\u7eed\u6d4b\u8bd5\u5e73\u53f0\u3002\u5de5\u4f5c\u6d41\u5f15\u64ce(Flowable 7) \u00b7 \u9700\u6c42\u6c60(\u4ece0\u52301) \u00b7 \u5fae\u524d\u7aef(qiankun\u2192micro-app) \u00b7 AI\u77e5\u8bc6\u5e93 \u00b7 \u6d4b\u8bd5\u8ddf\u8e2a\uff0c\u542b\u4e2a\u4eba\u7b14\u8bb0\u4e0e\u521b\u610f\u9879\u76ee\u3002",
+    "id": "sdwurg180507280211/metersphere",
+    "language": "Java",
+    "name": "sdwurg180507280211/metersphere",
+    "stars": 0,
+    "updated_at": "2026-07-24T07:15:02Z",
+    "url": "https://github.com/sdwurg180507280211/metersphere"
+  },
+  {
     "description": "Production-grade Retrieval-Augmented Generation (RAG) system with hybrid retrieval (FAISS + BM25), grounded responses, c",
     "id": "Avisha2803/grounded-rag-system",
     "language": "Python",
@@ -9,6 +54,15 @@
     "url": "https://github.com/Avisha2803/grounded-rag-system"
   },
   {
+    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
+    "id": "AnalyseDeCircuit/oxideterm",
+    "language": "Rust",
+    "name": "AnalyseDeCircuit/oxideterm",
+    "stars": 1018,
+    "updated_at": "2026-07-24T07:14:50Z",
+    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
+  },
+  {
     "description": "\ud83c\udf99\ufe0f Production-grade multilingual AI Voice Assistant for e-learning. Bilingual EN/UR STT+TTS, Gemini Flash RAG, intent-ba",
     "id": "AbdulBasiTcs1/ilmzo",
     "language": "JavaScript",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T07:14:45Z",
     "url": "https://github.com/AbdulBasiTcs1/ilmzo"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 150046,
-    "updated_at": "2026-07-24T07:15:19Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "The open-source memory layer for your company. Index everything, recall anything, own all of it.",
@@ -88,15 +133,6 @@
     "stars": 76,
     "updated_at": "2026-07-24T07:12:49Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "MeterSphere v2.10 \u4e2a\u4eba\u5f00\u53d1\u5206\u652f \u2014 \u4e00\u7ad9\u5f0f\u5f00\u6e90\u6301\u7eed\u6d4b\u8bd5\u5e73\u53f0\u3002\u5de5\u4f5c\u6d41\u5f15\u64ce(Flowable 7) \u00b7 \u9700\u6c42\u6c60(\u4ece0\u52301) \u00b7 \u5fae\u524d\u7aef(qiankun\u2192micro-app) \u00b7 AI\u77e5\u8bc6\u5e93 \u00b7 \u6d4b\u8bd5\u8ddf\u8e2a\uff0c\u542b\u4e2a\u4eba\u7b14\u8bb0\u4e0e\u521b\u610f\u9879\u76ee\u3002",
-    "id": "sdwurg180507280211/metersphere",
-    "language": "Java",
-    "name": "sdwurg180507280211/metersphere",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:15:02Z",
-    "url": "https://github.com/sdwurg180507280211/metersphere"
   },
   {
     "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "memtomem/memtomem",
     "stars": 11,
-    "updated_at": "2026-07-24T07:10:37Z",
+    "updated_at": "2026-07-24T07:15:57Z",
     "url": "https://github.com/memtomem/memtomem"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/api-evangelist/letta"
   },
   {
-    "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
-    "id": "sdsrss/claude-mem-lite",
-    "language": "JavaScript",
-    "name": "sdsrss/claude-mem-lite",
-    "stars": 50,
-    "updated_at": "2026-07-24T07:07:18Z",
-    "url": "https://github.com/sdsrss/claude-mem-lite"
-  },
-  {
     "description": "Hermes Agent memory provider plugin for recall-memory (SAG-based retrieval)",
     "id": "Jnocode/recall-memory-hermes",
     "language": "Python",
@@ -322,15 +349,6 @@
     "stars": 25,
     "updated_at": "2026-07-24T07:10:49Z",
     "url": "https://github.com/oomkapwn/enquire-mcp"
-  },
-  {
-    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
-    "id": "AnalyseDeCircuit/oxideterm",
-    "language": "Rust",
-    "name": "AnalyseDeCircuit/oxideterm",
-    "stars": 1018,
-    "updated_at": "2026-07-24T07:14:50Z",
-    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Give your AI Agent understanding of your codebase. A Rust CLI that turns your entire project into a single, optimized co",
@@ -412,24 +430,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T07:00:41Z",
     "url": "https://github.com/finessehumxn/medcompanion-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-24T07:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise-grade, privacy-first AI financial document intelligence platform. Features 100% local RAG, isolated user sess",
