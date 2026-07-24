@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udcca Transform documents into a smart knowledge base using Neo4j and Azure AI for efficient, intelligent searching and answ",
+    "id": "PDewangan/neo4j-agentframework",
+    "language": "Python",
+    "name": "PDewangan/neo4j-agentframework",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:44:35Z",
+    "url": "https://github.com/PDewangan/neo4j-agentframework"
+  },
+  {
+    "description": "AI-powered job application tracker \u2014 JD analysis, pgvector resume matching, and streamed bullet tailoring, with a measur",
+    "id": "nkieu-config/applywise-job-tracker",
+    "language": "TypeScript",
+    "name": "nkieu-config/applywise-job-tracker",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:43:42Z",
+    "url": "https://github.com/nkieu-config/applywise-job-tracker"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-07-24T09:43:34Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Modern RAG, designed for semantic search and question-answering over financial PDF documents",
+    "id": "FrostWillmott/FinDocBot",
+    "language": "Python",
+    "name": "FrostWillmott/FinDocBot",
+    "stars": 1,
+    "updated_at": "2026-07-24T09:43:12Z",
+    "url": "https://github.com/FrostWillmott/FinDocBot"
+  },
+  {
+    "description": "\ud83e\udde0 Build a self-hosted knowledge management system that transforms scattered information into a smart, searchable, interc",
+    "id": "kapilkaushik1/second-brain-stack",
+    "language": "Python",
+    "name": "kapilkaushik1/second-brain-stack",
+    "stars": 4,
+    "updated_at": "2026-07-24T09:43:02Z",
+    "url": "https://github.com/kapilkaushik1/second-brain-stack"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-24T09:42:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports.",
     "id": "holoviz/lumen",
     "language": "Python",
@@ -47,7 +101,7 @@
   {
     "description": "What 4x GTX 1080 Ti still do in 2026 \u2014 measured benchmarks, design rationale, and field notes for running LLMs on hardwa",
     "id": "killollik/obsolete-gpu-ai-lab",
-    "language": "\u2014",
+    "language": "Shell",
     "name": "killollik/obsolete-gpu-ai-lab",
     "stars": 0,
     "updated_at": "2026-07-24T09:41:30Z",
@@ -130,7 +184,7 @@
     "id": "HKUDS/DeepTutor",
     "language": "Python",
     "name": "HKUDS/DeepTutor",
-    "stars": 29484,
+    "stars": 29486,
     "updated_at": "2026-07-24T09:39:31Z",
     "url": "https://github.com/HKUDS/DeepTutor"
   },
@@ -230,7 +284,7 @@
     "language": "C#",
     "name": "kenhayward/Diariz",
     "stars": 1,
-    "updated_at": "2026-07-24T09:37:44Z",
+    "updated_at": "2026-07-24T09:44:46Z",
     "url": "https://github.com/kenhayward/Diariz"
   },
   {
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 150077,
-    "updated_at": "2026-07-24T09:37:18Z",
+    "updated_at": "2026-07-24T09:44:40Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -257,7 +311,7 @@
     "language": "TypeScript",
     "name": "SylphxAI/pdf-reader-mcp",
     "stars": 834,
-    "updated_at": "2026-07-24T09:36:03Z",
+    "updated_at": "2026-07-24T09:44:02Z",
     "url": "https://github.com/SylphxAI/pdf-reader-mcp"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/sepahead/sepahead"
   },
   {
-    "description": "Modern RAG, designed for semantic search and question-answering over financial PDF documents",
-    "id": "FrostWillmott/FinDocBot",
-    "language": "Python",
-    "name": "FrostWillmott/FinDocBot",
-    "stars": 1,
-    "updated_at": "2026-07-24T09:34:45Z",
-    "url": "https://github.com/FrostWillmott/FinDocBot"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Manage and utilize local context for Claude, enhancing applications with tailored insights and improving user experie",
     "id": "shreyashKilledar1/claude-context-local",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T09:34:16Z",
     "url": "https://github.com/dannyota/banhmi"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-07-24T09:34:09Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "A little space-nerd side project: ask questions about the cosmos and get answers pulled straight from NASA's Astronomy P",
-    "id": "Milenoi/nuxt-nasa-rag",
-    "language": "Vue",
-    "name": "Milenoi/nuxt-nasa-rag",
-    "stars": 0,
-    "updated_at": "2026-07-24T09:33:55Z",
-    "url": "https://github.com/Milenoi/nuxt-nasa-rag"
-  },
-  {
-    "description": "An end-to-end AI Document Intelligence Platform that transforms PDFs into interactive knowledge bases through Retrieval-",
-    "id": "Shwetatiwari05/AskPDF-RAG-Based-Multimodal-AI-Document-Intelligence-System",
-    "language": "Python",
-    "name": "Shwetatiwari05/AskPDF-RAG-Based-Multimodal-AI-Document-Intelligence-System",
-    "stars": 0,
-    "updated_at": "2026-07-24T09:33:54Z",
-    "url": "https://github.com/Shwetatiwari05/AskPDF-RAG-Based-Multimodal-AI-Document-Intelligence-System"
-  },
-  {
-    "description": "Production-shaped RAG reference with FastAPI, LangGraph, pgvector, hexagonal architecture, reproducible evals, and OpenT",
-    "id": "victormartingil/fastapi-langgraph-rag-hexagonal",
-    "language": "Python",
-    "name": "victormartingil/fastapi-langgraph-rag-hexagonal",
-    "stars": 1,
-    "updated_at": "2026-07-24T09:33:43Z",
-    "url": "https://github.com/victormartingil/fastapi-langgraph-rag-hexagonal"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-07-24T09:33:32Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
   }
 ]
