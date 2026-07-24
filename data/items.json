@@ -1,5 +1,158 @@
 [
   {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:15:03Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "The pretty much \"official\" DSPy framework for Typescript",
+    "id": "ax-llm/ax",
+    "language": "TypeScript",
+    "name": "ax-llm/ax",
+    "stars": 2842,
+    "updated_at": "2026-07-24T01:14:56Z",
+    "url": "https://github.com/ax-llm/ax"
+  },
+  {
+    "description": "Ask questions across your Obsidian vault with local-first RAG, hybrid search, clickable sources, persistent conversation",
+    "id": "Wanjin5508/vault-coach",
+    "language": "TypeScript",
+    "name": "Wanjin5508/vault-coach",
+    "stars": 8,
+    "updated_at": "2026-07-24T01:14:25Z",
+    "url": "https://github.com/Wanjin5508/vault-coach"
+  },
+  {
+    "description": "RAG pipeline over the Pathfinder 1e ruleset. Scraping, parsing, retrieval, and eval",
+    "id": "fdoiron/pathfinder-rag",
+    "language": "Python",
+    "name": "fdoiron/pathfinder-rag",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:13:06Z",
+    "url": "https://github.com/fdoiron/pathfinder-rag"
+  },
+  {
+    "description": "Self-hosted, privacy-first Personal AI Knowledge Companion with RAG-powered retrieval, intelligent agents, and extensibl",
+    "id": "Cerid-AI/cerid-ai",
+    "language": "Python",
+    "name": "Cerid-AI/cerid-ai",
+    "stars": 3,
+    "updated_at": "2026-07-24T01:12:53Z",
+    "url": "https://github.com/Cerid-AI/cerid-ai"
+  },
+  {
+    "description": "Self-evolving skill packs that give Claude Code & Codex judgment, not knowledge \u2014 decidable rules, per-playbook regressi",
+    "id": "tienenwu/fables",
+    "language": "Shell",
+    "name": "tienenwu/fables",
+    "stars": 4,
+    "updated_at": "2026-07-24T01:12:52Z",
+    "url": "https://github.com/tienenwu/fables"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 76,
+    "updated_at": "2026-07-24T01:12:39Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Academic management platform with retrieval-grounded AI assistance and student risk prediction. FastAPI + React. Honest ",
+    "id": "bahaaed07706/EduSmartAI",
+    "language": "Jupyter Notebook",
+    "name": "bahaaed07706/EduSmartAI",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:14:47Z",
+    "url": "https://github.com/bahaaed07706/EduSmartAI"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31118,
+    "updated_at": "2026-07-24T01:14:09Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
+    "id": "Clairelee1010/macro-attribution-dashboard",
+    "language": "Python",
+    "name": "Clairelee1010/macro-attribution-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:11:57Z",
+    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
+  },
+  {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 4,
+    "updated_at": "2026-07-24T01:11:31Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "Document Q&A over your PDFs that cites the source page for every answer, using hybrid retrieval (BM25 + vector search wi",
+    "id": "sindhoora-17/docuquery",
+    "language": "Python",
+    "name": "sindhoora-17/docuquery",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:11:00Z",
+    "url": "https://github.com/sindhoora-17/docuquery"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 75,
+    "updated_at": "2026-07-24T01:10:24Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
+    "id": "JakubDras/vechealth",
+    "language": "Rust",
+    "name": "JakubDras/vechealth",
+    "stars": 4,
+    "updated_at": "2026-07-24T01:09:58Z",
+    "url": "https://github.com/JakubDras/vechealth"
+  },
+  {
+    "description": "The open-source memory layer for your company. Index everything, recall anything, own all of it.",
+    "id": "aayambansal/companybrain",
+    "language": "TypeScript",
+    "name": "aayambansal/companybrain",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:14:24Z",
+    "url": "https://github.com/aayambansal/companybrain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-24T01:08:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-24T01:08:06Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -25,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:06:44Z",
     "url": "https://github.com/LenSyrudas/syrudas"
-  },
-  {
-    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
-    "id": "Clairelee1010/macro-attribution-dashboard",
-    "language": "Python",
-    "name": "Clairelee1010/macro-attribution-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:06:23Z",
-    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
   },
   {
     "description": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, Lang",
@@ -63,15 +207,6 @@
     "url": "https://github.com/Open-Technology-Foundation/appliedanthropology"
   },
   {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 4,
-    "updated_at": "2026-07-24T01:03:28Z",
-    "url": "https://github.com/Mubder/kazma"
-  },
-  {
     "description": "A verifiable engineering knowledge engine that turns technical documents, CAD models, and equipment data into structured",
     "id": "v0id-byte/ragkernel",
     "language": "Python",
@@ -95,7 +230,7 @@
     "language": "Python",
     "name": "tomyimkc/sophia-agi",
     "stars": 6,
-    "updated_at": "2026-07-24T01:02:56Z",
+    "updated_at": "2026-07-24T01:14:40Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
@@ -126,15 +261,6 @@
     "url": "https://github.com/Osmantic/ODS"
   },
   {
-    "description": "The pretty much \"official\" DSPy framework for Typescript",
-    "id": "ax-llm/ax",
-    "language": "TypeScript",
-    "name": "ax-llm/ax",
-    "stars": 2842,
-    "updated_at": "2026-07-24T01:01:49Z",
-    "url": "https://github.com/ax-llm/ax"
-  },
-  {
     "description": "Grounded bilingual (\u4e2d/EN) Q&A over a layered Markdown knowledge base \u2014 a curated wiki layer synthesised above immutable ",
     "id": "PaynePew/knowledge_base_qa_bot",
     "language": "Python",
@@ -144,15 +270,6 @@
     "url": "https://github.com/PaynePew/knowledge_base_qa_bot"
   },
   {
-    "description": "The open-source memory layer for your company. Index everything, recall anything, own all of it.",
-    "id": "aayambansal/companybrain",
-    "language": "TypeScript",
-    "name": "aayambansal/companybrain",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:01:33Z",
-    "url": "https://github.com/aayambansal/companybrain"
-  },
-  {
     "description": "Local-first Agent Skill for building evidence-backed Markdown knowledge bases with zero-cost setup, image-aware capture,",
     "id": "NimaChu/my-wiki-skill",
     "language": "JavaScript",
@@ -160,33 +277,6 @@
     "stars": 99,
     "updated_at": "2026-07-24T01:01:18Z",
     "url": "https://github.com/NimaChu/my-wiki-skill"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-24T01:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-24T01:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-hosted, privacy-first Personal AI Knowledge Companion with RAG-powered retrieval, intelligent agents, and extensibl",
-    "id": "Cerid-AI/cerid-ai",
-    "language": "Python",
-    "name": "Cerid-AI/cerid-ai",
-    "stars": 3,
-    "updated_at": "2026-07-24T00:58:01Z",
-    "url": "https://github.com/Cerid-AI/cerid-ai"
   },
   {
     "description": "Evidence-grounded code diagnosis with structural parsing, retrieval, and multi-agent review",
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "Neeeser/Ragworks",
     "stars": 6,
-    "updated_at": "2026-07-24T00:56:23Z",
+    "updated_at": "2026-07-24T01:14:13Z",
     "url": "https://github.com/Neeeser/Ragworks"
   },
   {
@@ -220,18 +310,9 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 18264,
+    "stars": 18271,
     "updated_at": "2026-07-24T00:55:48Z",
     "url": "https://github.com/bojieli/ai-agent-book"
-  },
-  {
-    "description": "Ask questions across your Obsidian vault with local-first RAG, hybrid search, clickable sources, persistent conversation",
-    "id": "Wanjin5508/vault-coach",
-    "language": "TypeScript",
-    "name": "Wanjin5508/vault-coach",
-    "stars": 8,
-    "updated_at": "2026-07-24T00:56:24Z",
-    "url": "https://github.com/Wanjin5508/vault-coach"
   },
   {
     "description": "Ranked, described search over a repo's whole corpus (docs, code, and gitignored data) plus a typed hygiene linter. Built",
@@ -367,86 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-24T00:48:14Z",
     "url": "https://github.com/Huskyauto/VisionClaw-Agent-Public-Release"
-  },
-  {
-    "description": "RAG assistant that answers U.S. immigration-status questions for international students, grounded in official sources wi",
-    "id": "Shadowwyyy/anchor",
-    "language": "Python",
-    "name": "Shadowwyyy/anchor",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:46:41Z",
-    "url": "https://github.com/Shadowwyyy/anchor"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 28787,
-    "updated_at": "2026-07-24T00:46:41Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Accounting AI tools for ERP connectors, cited finance knowledge, and approval-gated workflows.",
-    "id": "natthaphonchop2-creator/mercury-tools",
-    "language": "Python",
-    "name": "natthaphonchop2-creator/mercury-tools",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:46:25Z",
-    "url": "https://github.com/natthaphonchop2-creator/mercury-tools"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents. Biologically-inspired 4-tier cortex, Panama SIMD, MCP native. Java 25.",
-    "id": "spectrayan/spector",
-    "language": "Java",
-    "name": "spectrayan/spector",
-    "stars": 16,
-    "updated_at": "2026-07-24T00:44:44Z",
-    "url": "https://github.com/spectrayan/spector"
-  },
-  {
-    "description": "FastAPI backend blueprint for AI agent apps: DDD, SQLAlchemy, Taskiq, admin UI, RAG infra, and Claude/Codex collaboratio",
-    "id": "Mr-DooSun/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "Mr-DooSun/fastapi-agent-blueprint",
-    "stars": 23,
-    "updated_at": "2026-07-24T00:44:31Z",
-    "url": "https://github.com/Mr-DooSun/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Build AI Agents, Visually",
-    "id": "FlowiseAI/Flowise",
-    "language": "TypeScript",
-    "name": "FlowiseAI/Flowise",
-    "stars": 54869,
-    "updated_at": "2026-07-24T00:43:32Z",
-    "url": "https://github.com/FlowiseAI/Flowise"
-  },
-  {
-    "description": "API-first, AI-agent-native headless CMS \u2014 hexagonal architecture, TypeScript, MCP server, transactional outbox, cloud-ag",
-    "id": "blakebauman/contentworker",
-    "language": "TypeScript",
-    "name": "blakebauman/contentworker",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:43:10Z",
-    "url": "https://github.com/blakebauman/contentworker"
-  },
-  {
-    "description": "The official LlamaIndex integration for WellMarked.io!",
-    "id": "WellMarkedAPI/llama-index-readers-wellmarked",
-    "language": "Python",
-    "name": "WellMarkedAPI/llama-index-readers-wellmarked",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:41:53Z",
-    "url": "https://github.com/WellMarkedAPI/llama-index-readers-wellmarked"
-  },
-  {
-    "description": "The official langchain integration for WellMarked.io!",
-    "id": "WellMarkedAPI/langchain-wellmarked",
-    "language": "Python",
-    "name": "WellMarkedAPI/langchain-wellmarked",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:41:39Z",
-    "url": "https://github.com/WellMarkedAPI/langchain-wellmarked"
   }
 ]
