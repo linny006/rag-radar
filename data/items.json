@@ -1,5 +1,32 @@
 [
   {
+    "description": "Fully local file indexing and cited knowledge search",
+    "id": "Git-of-abhay/vault-mind",
+    "language": "Python",
+    "name": "Git-of-abhay/vault-mind",
+    "stars": 0,
+    "updated_at": "2026-07-26T06:16:20Z",
+    "url": "https://github.com/Git-of-abhay/vault-mind"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 64,
+    "updated_at": "2026-07-26T06:15:52Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-26T06:15:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 3,
     "updated_at": "2026-07-26T06:15:21Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
+    "id": "vicenteliu/OpsPilot",
+    "language": "Python",
+    "name": "vicenteliu/OpsPilot",
+    "stars": 1,
+    "updated_at": "2026-07-26T06:15:19Z",
+    "url": "https://github.com/vicenteliu/OpsPilot"
   },
   {
     "description": "Open-source AI customer service: FAQ + document RAG, hybrid retrieval, knowledge feedback loop, admin console, evals and",
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "OpenSourceAGI/qwksearch-research-agent",
     "stars": 73,
-    "updated_at": "2026-07-26T06:12:43Z",
+    "updated_at": "2026-07-26T06:16:36Z",
     "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/onkarsalgude-sketch/Onkar-AI"
   },
   {
-    "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
-    "id": "vicenteliu/OpsPilot",
-    "language": "Python",
-    "name": "vicenteliu/OpsPilot",
-    "stars": 1,
-    "updated_at": "2026-07-26T06:15:19Z",
-    "url": "https://github.com/vicenteliu/OpsPilot"
-  },
-  {
     "description": "Enchanto is not just another AI chatbot \u2014 it's your AI agent against unfair claim rejections. Drop in a rejection letter",
     "id": "rajdeep13-coder/Enchanto",
     "language": "Python",
@@ -337,7 +364,7 @@
     "id": "AnalyseDeCircuit/oxideterm",
     "language": "Rust",
     "name": "AnalyseDeCircuit/oxideterm",
-    "stars": 1103,
+    "stars": 1104,
     "updated_at": "2026-07-26T06:06:21Z",
     "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T06:02:49Z",
     "url": "https://github.com/M2253510/QResponder"
-  },
-  {
-    "description": "",
-    "id": "Emre1145/DevOpsPilot-AI-RAG",
-    "language": "Python",
-    "name": "Emre1145/DevOpsPilot-AI-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-26T06:02:39Z",
-    "url": "https://github.com/Emre1145/DevOpsPilot-AI-RAG"
-  },
-  {
-    "description": "\uf8ff MCP server providing AI agents with instant access to Apple developer documentation via RAG",
-    "id": "BingoWon/apple-rag-mcp",
-    "language": "TypeScript",
-    "name": "BingoWon/apple-rag-mcp",
-    "stars": 116,
-    "updated_at": "2026-07-26T06:01:56Z",
-    "url": "https://github.com/BingoWon/apple-rag-mcp"
-  },
-  {
-    "description": "Monitor real-time network throughput with this terminal-based dashboard.",
-    "id": "MrTopDestroyer/flow",
-    "language": "Go",
-    "name": "MrTopDestroyer/flow",
-    "stars": 1,
-    "updated_at": "2026-07-26T06:01:54Z",
-    "url": "https://github.com/MrTopDestroyer/flow"
   }
 ]
