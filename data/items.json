@@ -1,5 +1,122 @@
 [
   {
+    "description": "Systems & product portfolio \u2014 San Lee",
+    "id": "sanlee-ys/portfolio",
+    "language": "Astro",
+    "name": "sanlee-ys/portfolio",
+    "stars": 0,
+    "updated_at": "2026-07-27T01:18:18Z",
+    "url": "https://github.com/sanlee-ys/portfolio"
+  },
+  {
+    "description": "\ud83c\udfac Discover movies effortlessly with CineRAG, a RAG system that combines natural language queries and intelligent retriev",
+    "id": "hamzaideators/cinerag",
+    "language": "Python",
+    "name": "hamzaideators/cinerag",
+    "stars": 4,
+    "updated_at": "2026-07-27T01:18:05Z",
+    "url": "https://github.com/hamzaideators/cinerag"
+  },
+  {
+    "description": "\ud83d\udcca Transform documents into a smart knowledge base using Neo4j and Azure AI for efficient, intelligent searching and answ",
+    "id": "PDewangan/neo4j-agentframework",
+    "language": "Python",
+    "name": "PDewangan/neo4j-agentframework",
+    "stars": 0,
+    "updated_at": "2026-07-27T01:17:53Z",
+    "url": "https://github.com/PDewangan/neo4j-agentframework"
+  },
+  {
+    "description": "Ranks the opportunity spaces in the India Cardiac market where Cipla has a sustainable right to win. A deterministic eng",
+    "id": "ShreyasThakur11/cipla-cardiac-opportunity-agent",
+    "language": "Python",
+    "name": "ShreyasThakur11/cipla-cardiac-opportunity-agent",
+    "stars": 1,
+    "updated_at": "2026-07-27T01:17:21Z",
+    "url": "https://github.com/ShreyasThakur11/cipla-cardiac-opportunity-agent"
+  },
+  {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 314,
+    "updated_at": "2026-07-27T01:17:08Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 3,
+    "updated_at": "2026-07-27T01:16:47Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 7,
+    "updated_at": "2026-07-27T01:16:46Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 150328,
+    "updated_at": "2026-07-27T01:18:09Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "\ud83e\udde0 Build a self-hosted knowledge management system that transforms scattered information into a smart, searchable, interc",
+    "id": "kapilkaushik1/second-brain-stack",
+    "language": "Python",
+    "name": "kapilkaushik1/second-brain-stack",
+    "stars": 5,
+    "updated_at": "2026-07-27T01:16:25Z",
+    "url": "https://github.com/kapilkaushik1/second-brain-stack"
+  },
+  {
+    "description": "Ailienant is a structured engineering agentic OS for VS Code. No vibe coding or unauditable black boxes. Built for engin",
+    "id": "GabrielV-Engineer/AILIENANT",
+    "language": "Python",
+    "name": "GabrielV-Engineer/AILIENANT",
+    "stars": 1,
+    "updated_at": "2026-07-27T01:15:45Z",
+    "url": "https://github.com/GabrielV-Engineer/AILIENANT"
+  },
+  {
+    "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
+    "id": "vicenteliu/OpsPilot",
+    "language": "Python",
+    "name": "vicenteliu/OpsPilot",
+    "stars": 2,
+    "updated_at": "2026-07-27T01:15:27Z",
+    "url": "https://github.com/vicenteliu/OpsPilot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T01:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T01:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A production-grade, structured, and memory-first software development lifecycle (SDLC) workflow orchestrator for AI codi",
     "id": "kyleit/AI-Agent-Workflow",
     "language": "Python",
@@ -50,7 +167,7 @@
     "language": "TypeScript",
     "name": "skyphusion-labs/postern",
     "stars": 5,
-    "updated_at": "2026-07-27T01:13:06Z",
+    "updated_at": "2026-07-27T01:15:55Z",
     "url": "https://github.com/skyphusion-labs/postern"
   },
   {
@@ -61,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T01:12:31Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Ranks the opportunity spaces in the India Cardiac market where Cipla has a sustainable right to win. A deterministic eng",
-    "id": "ShreyasThakur11/cipla-cardiac-opportunity-agent",
-    "language": "Python",
-    "name": "ShreyasThakur11/cipla-cardiac-opportunity-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T01:12:28Z",
-    "url": "https://github.com/ShreyasThakur11/cipla-cardiac-opportunity-agent"
   },
   {
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
@@ -126,6 +234,15 @@
     "url": "https://github.com/FlareIgnis/SQLBot"
   },
   {
+    "description": "Open specification for portable, verifiable and versioned knowledge packs for trusted AI systems.",
+    "id": "Jin-Aladdin/aladin-spec",
+    "language": "\u2014",
+    "name": "Jin-Aladdin/aladin-spec",
+    "stars": 0,
+    "updated_at": "2026-07-27T01:11:17Z",
+    "url": "https://github.com/Jin-Aladdin/aladin-spec"
+  },
+  {
     "description": "Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolatio",
     "id": "JasonTM17/OpsMind_AI",
     "language": "Python",
@@ -142,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T01:09:26Z",
     "url": "https://github.com/lv19123/ml-portfolio"
-  },
-  {
-    "description": "Systems & product portfolio \u2014 San Lee",
-    "id": "sanlee-ys/portfolio",
-    "language": "Astro",
-    "name": "sanlee-ys/portfolio",
-    "stars": 0,
-    "updated_at": "2026-07-27T01:09:04Z",
-    "url": "https://github.com/sanlee-ys/portfolio"
   },
   {
     "description": "\ud83c\udfaf Optimize retrieval with TriStage-RAG, a 3-stage pipeline that enhances document discovery while overcoming the limits ",
@@ -340,113 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-27T01:04:38Z",
     "url": "https://github.com/l7n102031/go-agent-memory"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Build elegant MCP servers in TypeScript with automatic tool discovery and full type safety for streamlined developmen",
-    "id": "raineislam/mcp-framework",
-    "language": "Python",
-    "name": "raineislam/mcp-framework",
-    "stars": 1,
-    "updated_at": "2026-07-27T01:04:14Z",
-    "url": "https://github.com/raineislam/mcp-framework"
-  },
-  {
-    "description": "AI Client for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ",
-    "id": "askimo-ai/askimo",
-    "language": "Kotlin",
-    "name": "askimo-ai/askimo",
-    "stars": 262,
-    "updated_at": "2026-07-27T01:03:41Z",
-    "url": "https://github.com/askimo-ai/askimo"
-  },
-  {
-    "description": "A comprehensive AI-powered legal practice management suite for Nigerian lawyers. Features include Case Strategy Advisor ",
-    "id": "lanryweezy/LexiNaija---Legal-AI-Associate",
-    "language": "TypeScript",
-    "name": "lanryweezy/LexiNaija---Legal-AI-Associate",
-    "stars": 0,
-    "updated_at": "2026-07-27T01:03:25Z",
-    "url": "https://github.com/lanryweezy/LexiNaija---Legal-AI-Associate"
-  },
-  {
-    "description": "Multi-tenant chatbot SaaS \u2014 RAG & PageIndex document Q&A, AI lead capture, embeddable widget. PHP + PostgreSQL/pgvector.",
-    "id": "OnlineTechSupportBiz/php-chatbot-assistant",
-    "language": "PHP",
-    "name": "OnlineTechSupportBiz/php-chatbot-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-27T01:02:35Z",
-    "url": "https://github.com/OnlineTechSupportBiz/php-chatbot-assistant"
-  },
-  {
-    "description": "\ud83d\udc19 AI Agent Pipeline routes queries by intent to docs, weather, or chat, with LangGraph, ChromaDB, and LangSmith for modu",
-    "id": "salems-3Dpov/ai-agent-pipeline",
-    "language": "Python",
-    "name": "salems-3Dpov/ai-agent-pipeline",
-    "stars": 3,
-    "updated_at": "2026-07-27T01:02:34Z",
-    "url": "https://github.com/salems-3Dpov/ai-agent-pipeline"
-  },
-  {
-    "description": "\ud83d\udc19 FastAPI Journal Automation uses Gemini and Groq LLaMA to auto-create and enrich journal articles via CORE API, with Py",
-    "id": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
-    "language": "Python",
-    "name": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
-    "stars": 3,
-    "updated_at": "2026-07-27T01:02:12Z",
-    "url": "https://github.com/aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System"
-  },
-  {
-    "description": "Comprehensive guide to FastAPI, Pydantic, and SQLAlchemy for AI engineers. Learn API design, validation, and ORM workflo",
-    "id": "Fahadfk/AI_deployment",
-    "language": "\u2014",
-    "name": "Fahadfk/AI_deployment",
-    "stars": 4,
-    "updated_at": "2026-07-27T01:01:30Z",
-    "url": "https://github.com/Fahadfk/AI_deployment"
-  },
-  {
-    "description": "Microservices NLP \u2014 FastAPI backend with localized Qwen RAG for meter/rhyme/error detection + Gemini fallback layer. Ara",
-    "id": "YazanAi-Dev3/RAG-Augmented-Prosody-Analyzer",
-    "language": "Jupyter Notebook",
-    "name": "YazanAi-Dev3/RAG-Augmented-Prosody-Analyzer",
-    "stars": 1,
-    "updated_at": "2026-07-27T01:00:55Z",
-    "url": "https://github.com/YazanAi-Dev3/RAG-Augmented-Prosody-Analyzer"
-  },
-  {
-    "description": "Build a robust, production-ready RAG system with effective data preparation, anonymization, and LLM integration. Explore",
-    "id": "Megaboy12346/complex-RAG-guide",
-    "language": "Jupyter Notebook",
-    "name": "Megaboy12346/complex-RAG-guide",
-    "stars": 2,
-    "updated_at": "2026-07-27T01:00:32Z",
-    "url": "https://github.com/Megaboy12346/complex-RAG-guide"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 4,
-    "updated_at": "2026-07-27T01:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 4,
-    "updated_at": "2026-07-27T01:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Effortlessly manage your PDFs with the PDF Toolkit. Merge, split, and extract text securely in your browser. \ud83c\udf10\ud83d\udcc4 Explore ",
-    "id": "helptrader/pdf-toolkit-app",
-    "language": "JavaScript",
-    "name": "helptrader/pdf-toolkit-app",
-    "stars": 1,
-    "updated_at": "2026-07-27T01:00:17Z",
-    "url": "https://github.com/helptrader/pdf-toolkit-app"
   }
 ]
