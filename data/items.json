@@ -1,5 +1,32 @@
 [
   {
+    "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
+    "id": "jgouviergmail/LIA-Assistant",
+    "language": "Python",
+    "name": "jgouviergmail/LIA-Assistant",
+    "stars": 24,
+    "updated_at": "2026-07-27T08:46:20Z",
+    "url": "https://github.com/jgouviergmail/LIA-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 4,
+    "updated_at": "2026-07-27T08:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 4,
+    "updated_at": "2026-07-27T08:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An in-memory RAG application built with LangChain, ChromaDB, and Streamlit. Features dynamic PDF ingestion, HuggingFace ",
     "id": "parikshitg7/customer-support-RAG-engine",
     "language": "Python",
@@ -9,6 +36,24 @@
     "url": "https://github.com/parikshitg7/customer-support-RAG-engine"
   },
   {
+    "description": "Beautifully engineered technology, crafted for you, shaping the future.",
+    "id": "thebitanpaul/phiUture",
+    "language": "TypeScript",
+    "name": "thebitanpaul/phiUture",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:44:52Z",
+    "url": "https://github.com/thebitanpaul/phiUture"
+  },
+  {
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "id": "open-webui/open-webui",
+    "language": "Python",
+    "name": "open-webui/open-webui",
+    "stars": 146871,
+    "updated_at": "2026-07-27T08:46:13Z",
+    "url": "https://github.com/open-webui/open-webui"
+  },
+  {
     "description": "AI engineer and developer-tools portfolio of Musharraf Kazi \u2014 agentic AI, multi-LLM routing, RAG and SaaS automation. Pa",
     "id": "mk-knight23/MK-DevDeck",
     "language": "HTML",
@@ -16,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-07-27T08:44:06Z",
     "url": "https://github.com/mk-knight23/MK-DevDeck"
+  },
+  {
+    "description": "Convert DWG files to multi-page PNG images and extract metadata with a pure-Rust engine that requires no external CAD so",
+    "id": "townmeetingferrimagnetism755/dwg2png",
+    "language": "Rust",
+    "name": "townmeetingferrimagnetism755/dwg2png",
+    "stars": 1,
+    "updated_at": "2026-07-27T08:44:04Z",
+    "url": "https://github.com/townmeetingferrimagnetism755/dwg2png"
   },
   {
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 208,
-    "updated_at": "2026-07-27T08:44:37Z",
+    "updated_at": "2026-07-27T08:46:20Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "IRsoctierDT/IANUA",
     "stars": 1,
-    "updated_at": "2026-07-27T08:42:46Z",
+    "updated_at": "2026-07-27T08:46:02Z",
     "url": "https://github.com/IRsoctierDT/IANUA"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "sweetcornna/corlinman",
     "stars": 3,
-    "updated_at": "2026-07-27T08:40:57Z",
+    "updated_at": "2026-07-27T08:45:59Z",
     "url": "https://github.com/sweetcornna/corlinman"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T08:37:31Z",
     "url": "https://github.com/usermanoj/verity-ai"
-  },
-  {
-    "description": "Run an AI assistant locally on your hardware with scripts for Ollama, Open WebUI, and Telegram, optimized for networks a",
-    "id": "Splitpeamidline260/local-ai-assistant",
-    "language": "\u2014",
-    "name": "Splitpeamidline260/local-ai-assistant",
-    "stars": 2,
-    "updated_at": "2026-07-27T08:37:15Z",
-    "url": "https://github.com/Splitpeamidline260/local-ai-assistant"
-  },
-  {
-    "description": "Manage enterprise AI agents, models, prompts, and knowledge bases with this self-hosted platform for governance, workflo",
-    "id": "Lifefoo3142/aiaget-platform",
-    "language": "\u2014",
-    "name": "Lifefoo3142/aiaget-platform",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:37:04Z",
-    "url": "https://github.com/Lifefoo3142/aiaget-platform"
-  },
-  {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "TypeScript",
-    "name": "ratel-ai/ratel",
-    "stars": 351,
-    "updated_at": "2026-07-27T08:36:56Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-27T08:36:53Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Runnable notebooks for TokenPath \u2014 token-level attribution for LLM output. Exact-span citation highlighting, attention h",
-    "id": "tokenpath/tokenpath-cookbook",
-    "language": "Python",
-    "name": "tokenpath/tokenpath-cookbook",
-    "stars": 3,
-    "updated_at": "2026-07-27T08:36:44Z",
-    "url": "https://github.com/tokenpath/tokenpath-cookbook"
-  },
-  {
-    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
-    "id": "Bike4Mind/bike4mind",
-    "language": "TypeScript",
-    "name": "Bike4Mind/bike4mind",
-    "stars": 82,
-    "updated_at": "2026-07-27T08:36:41Z",
-    "url": "https://github.com/Bike4Mind/bike4mind"
   }
 ]
