@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T23:44:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
     "id": "footprintjs/agentfootprint",
     "language": "TypeScript",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "thomas-villani/all2md",
     "stars": 22,
-    "updated_at": "2026-07-27T23:35:45Z",
+    "updated_at": "2026-07-27T23:45:14Z",
     "url": "https://github.com/thomas-villani/all2md"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T23:31:01Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T23:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 82,
-    "updated_at": "2026-07-27T23:33:35Z",
+    "updated_at": "2026-07-27T23:45:10Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
