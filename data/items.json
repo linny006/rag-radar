@@ -1,5 +1,95 @@
 [
   {
+    "description": "Local-first Plaud recording pipeline and personal knowledge timeline with Python, SQLite, Qdrant, RAG, 3D graphs, MCP to",
+    "id": "Gunnarguy/PlaudBlender",
+    "language": "Python",
+    "name": "Gunnarguy/PlaudBlender",
+    "stars": 5,
+    "updated_at": "2026-07-27T20:17:51Z",
+    "url": "https://github.com/Gunnarguy/PlaudBlender"
+  },
+  {
+    "description": "Local-first Memory Framework for AI Agents \u00b7 99.2% LongMemEval-S retrieval @ k=10 \u00b7 Supports Claude \u00b7 Antigravity \u00b7 Lang",
+    "id": "skynetcmd/m3-memory",
+    "language": "Python",
+    "name": "skynetcmd/m3-memory",
+    "stars": 16,
+    "updated_at": "2026-07-27T20:17:43Z",
+    "url": "https://github.com/skynetcmd/m3-memory"
+  },
+  {
+    "description": "Source-available AI business intelligence platform for self-hosted dashboards, natural language SQL, and operational ana",
+    "id": "intraq-dev-ai/intraq",
+    "language": "TypeScript",
+    "name": "intraq-dev-ai/intraq",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:17:43Z",
+    "url": "https://github.com/intraq-dev-ai/intraq"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-07-27T20:17:04Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "C# local LLM chat completions library using ONNX Runtime, compatible with Microsoft.Extensions.AI",
+    "id": "elbruno/ElBruno.LocalLLMs",
+    "language": "C#",
+    "name": "elbruno/ElBruno.LocalLLMs",
+    "stars": 16,
+    "updated_at": "2026-07-27T20:16:34Z",
+    "url": "https://github.com/elbruno/ElBruno.LocalLLMs"
+  },
+  {
+    "description": "The retrieval layer for production AI systems. Lightning-fast (<10ms) search without vector databases. Built for browser",
+    "id": "usemoss/moss",
+    "language": "Python",
+    "name": "usemoss/moss",
+    "stars": 656,
+    "updated_at": "2026-07-27T20:16:04Z",
+    "url": "https://github.com/usemoss/moss"
+  },
+  {
+    "description": "Multi-Agent AI Data Lakehouse Platform: Medallion Architecture ETL processing (Spark/SQLite), Isolation Forest anomaly d",
+    "id": "957908/Multi-Agent-AI-Data-Lakehouse-Platform-Betting-Site-Data-Intelligence",
+    "language": "Python",
+    "name": "957908/Multi-Agent-AI-Data-Lakehouse-Platform-Betting-Site-Data-Intelligence",
+    "stars": 3,
+    "updated_at": "2026-07-27T20:15:51Z",
+    "url": "https://github.com/957908/Multi-Agent-AI-Data-Lakehouse-Platform-Betting-Site-Data-Intelligence"
+  },
+  {
+    "description": "Neuroscience-inspired memory for AI agents \u2014 sleep cycles that rewrite and strengthen knowledge over time. TypeScript, P",
+    "id": "salishforge/memforge",
+    "language": "TypeScript",
+    "name": "salishforge/memforge",
+    "stars": 14,
+    "updated_at": "2026-07-27T20:19:35Z",
+    "url": "https://github.com/salishforge/memforge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-27T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-27T20:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
     "id": "bailong-Hakuryu/E.R.I.I",
     "language": "Python",
@@ -18,15 +108,6 @@
     "url": "https://github.com/alex-place/lantern-os"
   },
   {
-    "description": "Neuroscience-inspired memory for AI agents \u2014 sleep cycles that rewrite and strengthen knowledge over time. TypeScript, P",
-    "id": "salishforge/memforge",
-    "language": "TypeScript",
-    "name": "salishforge/memforge",
-    "stars": 14,
-    "updated_at": "2026-07-27T20:15:15Z",
-    "url": "https://github.com/salishforge/memforge"
-  },
-  {
     "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
     "id": "jee3m/augmentative-knowledge-hooks",
     "language": "HTML",
@@ -34,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-07-27T20:13:49Z",
     "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
+  },
+  {
+    "description": "Sovereign Agentic OS \u2014 self-hostable, EU-sovereign agentic data platform on Kubernetes (pre-beta). One Helm chart, runs ",
+    "id": "Data-Masterclass/sovereign-agentic-os",
+    "language": "TypeScript",
+    "name": "Data-Masterclass/sovereign-agentic-os",
+    "stars": 3,
+    "updated_at": "2026-07-27T20:13:48Z",
+    "url": "https://github.com/Data-Masterclass/sovereign-agentic-os"
   },
   {
     "description": "Slack bot for RAG pipeline event scheduling & RSVP management. Auto-reminders, calendar sync, attendance tracking, zero ",
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "OnourImpram/mneme",
     "stars": 2,
-    "updated_at": "2026-07-27T20:06:37Z",
+    "updated_at": "2026-07-27T20:17:46Z",
     "url": "https://github.com/OnourImpram/mneme"
   },
   {
@@ -194,17 +284,8 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 16,
-    "updated_at": "2026-07-27T20:12:18Z",
+    "updated_at": "2026-07-27T20:15:32Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "C# local LLM chat completions library using ONNX Runtime, compatible with Microsoft.Extensions.AI",
-    "id": "elbruno/ElBruno.LocalLLMs",
-    "language": "C#",
-    "name": "elbruno/ElBruno.LocalLLMs",
-    "stars": 16,
-    "updated_at": "2026-07-27T20:05:23Z",
-    "url": "https://github.com/elbruno/ElBruno.LocalLLMs"
   },
   {
     "description": "A conversational AI task agent on Cohere Command A+ \u2014 routed by one tool-use call, grounded with citations, measured by ",
@@ -297,24 +378,6 @@
     "url": "https://github.com/caelum29/calibre-mcp"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-27T20:00:33Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-27T20:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first, state-aware memory engine for AI agents (MCP). Retrieves the right remembered episode for your current stat",
     "id": "zbs-gg/pulse",
     "language": "Go",
@@ -374,7 +437,7 @@
     "language": "Rust",
     "name": "bug-ops/zeph",
     "stars": 56,
-    "updated_at": "2026-07-27T19:58:52Z",
+    "updated_at": "2026-07-27T20:19:25Z",
     "url": "https://github.com/bug-ops/zeph"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T19:58:49Z",
     "url": "https://github.com/NORTHTEKDevs/overstory"
-  },
-  {
-    "description": "RAG app over Obsidian D&D session notes",
-    "id": "jsmithedin/house-of-knowledge",
-    "language": "Python",
-    "name": "jsmithedin/house-of-knowledge",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:58:18Z",
-    "url": "https://github.com/jsmithedin/house-of-knowledge"
-  },
-  {
-    "description": "An end-to-end Python RAG framework featuring document ingestion, semantic search, conversational AI, multi-user retrieva",
-    "id": "sachncs/raghub",
-    "language": "Python",
-    "name": "sachncs/raghub",
-    "stars": 1,
-    "updated_at": "2026-07-27T19:58:06Z",
-    "url": "https://github.com/sachncs/raghub"
-  },
-  {
-    "description": "Fully offline local RAG Q&A assistant on Microsoft Foundry Local \u2014 FastAPI + Streamlit, source-cited grounded answers, n",
-    "id": "mustafachill/foundry-local",
-    "language": "Python",
-    "name": "mustafachill/foundry-local",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:57:35Z",
-    "url": "https://github.com/mustafachill/foundry-local"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 2361,
-    "updated_at": "2026-07-27T20:00:14Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "High-Performance Encrypted Database for .NET 10 | Embedded + gRPC Server | Vector Search \u2022 GraphRAG \u2022 Analytics",
-    "id": "MPCoreDeveloper/SharpCoreDB",
-    "language": "C#",
-    "name": "MPCoreDeveloper/SharpCoreDB",
-    "stars": 35,
-    "updated_at": "2026-07-27T20:14:17Z",
-    "url": "https://github.com/MPCoreDeveloper/SharpCoreDB"
-  },
-  {
-    "description": "Open-source multi-agent AI platform for Formula 1 race replay, strategy simulation, and explainable race strategy recomm",
-    "id": "VforVitorio/F1-StratLab",
-    "language": "Jupyter Notebook",
-    "name": "VforVitorio/F1-StratLab",
-    "stars": 16,
-    "updated_at": "2026-07-27T19:56:03Z",
-    "url": "https://github.com/VforVitorio/F1-StratLab"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 2,
-    "updated_at": "2026-07-27T19:54:57Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
   }
 ]
