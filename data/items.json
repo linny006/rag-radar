@@ -1,12 +1,147 @@
 [
   {
+    "description": "A dual-store memory engine that finds what you know, not what you wrote. Semantic search meets knowledge graph \u2014 so the ",
+    "id": "Luca5Eckert/Kairos",
+    "language": "Java",
+    "name": "Luca5Eckert/Kairos",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:36:44Z",
+    "url": "https://github.com/Luca5Eckert/Kairos"
+  },
+  {
+    "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise ",
+    "id": "pipeshub-ai/pipeshub-ai",
+    "language": "Python",
+    "name": "pipeshub-ai/pipeshub-ai",
+    "stars": 3121,
+    "updated_at": "2026-07-28T21:35:34Z",
+    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  },
+  {
     "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
     "id": "DanceNitra/agora",
     "language": "Python",
     "name": "DanceNitra/agora",
     "stars": 3,
-    "updated_at": "2026-07-28T21:30:02Z",
+    "updated_at": "2026-07-28T21:35:30Z",
     "url": "https://github.com/DanceNitra/agora"
+  },
+  {
+    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
+    "id": "The-Geek-Freaks/NEOTH",
+    "language": "Rust",
+    "name": "The-Geek-Freaks/NEOTH",
+    "stars": 6,
+    "updated_at": "2026-07-28T21:34:57Z",
+    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+  },
+  {
+    "description": "Personal site of Marco Bellingeri: Cloud Platform & Security Engineer. Astro (static), bilingual EN/IT, security-by-desi",
+    "id": "MK023/marcobellingeri.dev",
+    "language": "JavaScript",
+    "name": "MK023/marcobellingeri.dev",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:34:37Z",
+    "url": "https://github.com/MK023/marcobellingeri.dev"
+  },
+  {
+    "description": "Private hybrid search over your files, fully offline, 70+ languages. An MCP retrieval backend for AI agents.",
+    "id": "eliasjustus/justsearch",
+    "language": "Java",
+    "name": "eliasjustus/justsearch",
+    "stars": 2,
+    "updated_at": "2026-07-28T21:33:23Z",
+    "url": "https://github.com/eliasjustus/justsearch"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 2,
+    "updated_at": "2026-07-28T21:33:05Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Schedule and book your RAG pipelines via Telegram\u2014eliminate GPU idle time with intelligent automation.",
+    "id": "ncreighton/2c87f1f6-rag-ai-pipelines-scheduling",
+    "language": "\u2014",
+    "name": "ncreighton/2c87f1f6-rag-ai-pipelines-scheduling",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:33:04Z",
+    "url": "https://github.com/ncreighton/2c87f1f6-rag-ai-pipelines-scheduling"
+  },
+  {
+    "description": "Learn Java with current docs, including Java 25 JDK",
+    "id": "WilliamAGH/java-chat",
+    "language": "Java",
+    "name": "WilliamAGH/java-chat",
+    "stars": 2,
+    "updated_at": "2026-07-28T21:32:35Z",
+    "url": "https://github.com/WilliamAGH/java-chat"
+  },
+  {
+    "description": "C# local LLM chat completions library using ONNX Runtime, compatible with Microsoft.Extensions.AI",
+    "id": "elbruno/ElBruno.LocalLLMs",
+    "language": "C#",
+    "name": "elbruno/ElBruno.LocalLLMs",
+    "stars": 16,
+    "updated_at": "2026-07-28T21:32:24Z",
+    "url": "https://github.com/elbruno/ElBruno.LocalLLMs"
+  },
+  {
+    "description": "Turn research PDFs into grounded Markdown drafts \u2014 driven by any token-free AI coding-agent session (Claude, Codex, Gemi",
+    "id": "sebastienrousseau/draft",
+    "language": "Go",
+    "name": "sebastienrousseau/draft",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:33:03Z",
+    "url": "https://github.com/sebastienrousseau/draft"
+  },
+  {
+    "description": "Source code for LebLibrary \u2013 a full-stack Torah library and article platform. Built with Python, Django, and integrated ",
+    "id": "mole28/leblibrary",
+    "language": "HTML",
+    "name": "mole28/leblibrary",
+    "stars": 0,
+    "updated_at": "2026-07-28T21:31:59Z",
+    "url": "https://github.com/mole28/leblibrary"
+  },
+  {
+    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
+    "id": "klarlabs-studio/mnemos",
+    "language": "Go",
+    "name": "klarlabs-studio/mnemos",
+    "stars": 5,
+    "updated_at": "2026-07-28T21:31:46Z",
+    "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T21:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T21:30:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
+    "id": "bug-ops/zeph",
+    "language": "Rust",
+    "name": "bug-ops/zeph",
+    "stars": 56,
+    "updated_at": "2026-07-28T21:30:17Z",
+    "url": "https://github.com/bug-ops/zeph"
   },
   {
     "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
@@ -59,7 +194,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31239,
-    "updated_at": "2026-07-28T21:29:50Z",
+    "updated_at": "2026-07-28T21:36:50Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -99,21 +234,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 2,
-    "updated_at": "2026-07-28T21:25:10Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
     "description": "Private, on-premise AI assistant that indexes Slack, Google Drive, Confluence and PDFs, then answers engineering questio",
     "id": "Gowtham-Pentela/smriti",
     "language": "HTML",
     "name": "Gowtham-Pentela/smriti",
     "stars": 0,
-    "updated_at": "2026-07-28T21:25:02Z",
+    "updated_at": "2026-07-28T21:36:25Z",
     "url": "https://github.com/Gowtham-Pentela/smriti"
   },
   {
@@ -124,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T21:25:47Z",
     "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
-    "id": "The-Geek-Freaks/NEOTH",
-    "language": "Rust",
-    "name": "The-Geek-Freaks/NEOTH",
-    "stars": 6,
-    "updated_at": "2026-07-28T21:24:41Z",
-    "url": "https://github.com/The-Geek-Freaks/NEOTH"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -169,24 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T21:23:20Z",
     "url": "https://github.com/involvex/nova-assistant"
-  },
-  {
-    "description": "Learn Java with current docs, including Java 25 JDK",
-    "id": "WilliamAGH/java-chat",
-    "language": "Java",
-    "name": "WilliamAGH/java-chat",
-    "stars": 2,
-    "updated_at": "2026-07-28T21:22:52Z",
-    "url": "https://github.com/WilliamAGH/java-chat"
-  },
-  {
-    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
-    "id": "klarlabs-studio/mnemos",
-    "language": "Go",
-    "name": "klarlabs-studio/mnemos",
-    "stars": 5,
-    "updated_at": "2026-07-28T21:23:22Z",
-    "url": "https://github.com/klarlabs-studio/mnemos"
   },
   {
     "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting + document notebook \u2014 on-device Whisper transcription, source-linked notes, @brain and his",
@@ -324,15 +423,6 @@
     "url": "https://github.com/Markgatcha/memos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T21:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -351,15 +441,6 @@
     "url": "https://github.com/Ahmad21Omar/Vibe_Watch"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T21:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
     "id": "Manuelgr928/rusty-beaker",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T21:14:55Z",
     "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Local semantic + keyword search across your Obsidian vault and source repos. LanceDB + Ollama (bge-m3), exposed to Claud",
-    "id": "bbirkinbine/local-rag",
-    "language": "Python",
-    "name": "bbirkinbine/local-rag",
-    "stars": 0,
-    "updated_at": "2026-07-28T21:14:44Z",
-    "url": "https://github.com/bbirkinbine/local-rag"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 2362,
-    "updated_at": "2026-07-28T21:19:01Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 1,
-    "updated_at": "2026-07-28T21:14:03Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "Human-in-the-loop knowledge capture: an LLM extracts self-contained claims, you confirm them and resolve conflicts git-s",
-    "id": "jlfernandezfernandez/knowledge-extractor",
-    "language": "Python",
-    "name": "jlfernandezfernandez/knowledge-extractor",
-    "stars": 0,
-    "updated_at": "2026-07-28T21:14:01Z",
-    "url": "https://github.com/jlfernandezfernandez/knowledge-extractor"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-28T21:13:35Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Persistent memory MCP server for AI agents \u2014 Rust, 19 tools, knowledge graph, Hebbian learning, episodic memory, contrad",
-    "id": "LeandroPG19/cuba-memorys",
-    "language": "Rust",
-    "name": "LeandroPG19/cuba-memorys",
-    "stars": 27,
-    "updated_at": "2026-07-28T21:13:31Z",
-    "url": "https://github.com/LeandroPG19/cuba-memorys"
-  },
-  {
-    "description": "Telegram FitCheck bot: evaluate freelance briefs against your skills and course knowledge (short + long memory RAG, repl",
-    "id": "nifontovoleg/fitcheck-bot",
-    "language": "Python",
-    "name": "nifontovoleg/fitcheck-bot",
-    "stars": 0,
-    "updated_at": "2026-07-28T21:12:42Z",
-    "url": "https://github.com/nifontovoleg/fitcheck-bot"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64024,
-    "updated_at": "2026-07-28T21:12:37Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI-Lake Format: self-contained Parquet + HNSW index \u2014 unifying tabular data, embeddings, and vector search in a single I",
-    "id": "ailake-io/ai-lakehouse",
-    "language": "Rust",
-    "name": "ailake-io/ai-lakehouse",
-    "stars": 38,
-    "updated_at": "2026-07-28T21:12:31Z",
-    "url": "https://github.com/ailake-io/ai-lakehouse"
   }
 ]
