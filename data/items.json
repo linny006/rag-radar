@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
+    "id": "The-Geek-Freaks/NEOTH",
+    "language": "Rust",
+    "name": "The-Geek-Freaks/NEOTH",
+    "stars": 6,
+    "updated_at": "2026-07-28T17:44:48Z",
+    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+  },
+  {
+    "description": "Reproducible decayed RAG index demo: real git churn + synthetic PII replayed across pgvector, Qdrant and Chroma with a g",
+    "id": "rimironenko/rag-index-decay",
+    "language": "Python",
+    "name": "rimironenko/rag-index-decay",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:44:37Z",
+    "url": "https://github.com/rimironenko/rag-index-decay"
+  },
+  {
+    "description": "AI \u7559\u5b78\u9867\u554f",
+    "id": "iamhenryhuang/AI-Study-Abroad-Consultant",
+    "language": "Python",
+    "name": "iamhenryhuang/AI-Study-Abroad-Consultant",
+    "stars": 11,
+    "updated_at": "2026-07-28T17:44:30Z",
+    "url": "https://github.com/iamhenryhuang/AI-Study-Abroad-Consultant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:44:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83c\udf32 Fast, reliable code intelligence \u2014 Tree-sitter AST parsing, contextual hybrid search, adaptive query planning, call-gr",
     "id": "sairam0424/trelix",
     "language": "Python",
@@ -14,8 +50,17 @@
     "language": "Go",
     "name": "klarlabs-studio/mnemos",
     "stars": 5,
-    "updated_at": "2026-07-28T17:43:52Z",
+    "updated_at": "2026-07-28T17:45:12Z",
     "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "A curated collection of my personal AI, RAG, MCP, LLM, and software development notes generated during my learning journ",
+    "id": "satyam0singh/Agentic-AI",
+    "language": "\u2014",
+    "name": "satyam0singh/Agentic-AI",
+    "stars": 3,
+    "updated_at": "2026-07-28T17:43:42Z",
+    "url": "https://github.com/satyam0singh/Agentic-AI"
   },
   {
     "description": "Memory for AI agents with first-class Portuguese and human-like memory dynamics (ACT-R)",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31238,
-    "updated_at": "2026-07-28T17:42:35Z",
+    "updated_at": "2026-07-28T17:44:56Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -108,13 +153,13 @@
     "url": "https://github.com/Manuelgr928/rusty-beaker"
   },
   {
-    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
-    "id": "The-Geek-Freaks/NEOTH",
-    "language": "Rust",
-    "name": "The-Geek-Freaks/NEOTH",
-    "stars": 6,
-    "updated_at": "2026-07-28T17:40:34Z",
-    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
+    "id": "grassman23gith/athena-nexus",
+    "language": "HTML",
+    "name": "grassman23gith/athena-nexus",
+    "stars": 1,
+    "updated_at": "2026-07-28T17:40:55Z",
+    "url": "https://github.com/grassman23gith/athena-nexus"
   },
   {
     "description": "Open-source agent memory without a vector database. Local-first claim store in one SQLite file \u2014 provenance, trust tiers",
@@ -342,15 +387,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T17:30:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG multil\u00edngue para documenta\u00e7\u00e3o Python e SQL \u2014 retrieval, eval harness (Recall@5 94.4%, MRR 0.833) e execution loop co",
     "id": "renatogg-dev/Kai",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 71,
     "updated_at": "2026-07-28T17:28:29Z",
     "url": "https://github.com/jaylfc/taosmd"
-  },
-  {
-    "description": "Systems & product portfolio \u2014 San Lee",
-    "id": "sanlee-ys/portfolio",
-    "language": "Astro",
-    "name": "sanlee-ys/portfolio",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:28:19Z",
-    "url": "https://github.com/sanlee-ys/portfolio"
-  },
-  {
-    "description": "Spatial intelligence workstation \u2014 OSINT feeds, fusion analytics, local and cloud AI briefing, optional Pi edge sync",
-    "id": "sookoothaii/IntelShed",
-    "language": "Python",
-    "name": "sookoothaii/IntelShed",
-    "stars": 1,
-    "updated_at": "2026-07-28T17:27:44Z",
-    "url": "https://github.com/sookoothaii/IntelShed"
-  },
-  {
-    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
-    "id": "jee3m/augmentative-knowledge-hooks",
-    "language": "HTML",
-    "name": "jee3m/augmentative-knowledge-hooks",
-    "stars": 1,
-    "updated_at": "2026-07-28T17:27:24Z",
-    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "A strictly typed, deterministic compiler engine for data analysis. Translates natural language into immutable Pydantic I",
-    "id": "mohamadmeri/scrygent",
-    "language": "Python",
-    "name": "mohamadmeri/scrygent",
-    "stars": 0,
-    "updated_at": "2026-07-28T17:27:07Z",
-    "url": "https://github.com/mohamadmeri/scrygent"
   }
 ]
