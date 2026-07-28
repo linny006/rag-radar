@@ -1,5 +1,68 @@
 [
   {
+    "description": "DocsMint - self-hosted AI-native knowledge workspace with semantic search, GraphRAG, REST, CLI, SDK, and MCP.",
+    "id": "HiAi-gg/docsmint",
+    "language": "TypeScript",
+    "name": "HiAi-gg/docsmint",
+    "stars": 47,
+    "updated_at": "2026-07-28T20:15:39Z",
+    "url": "https://github.com/HiAi-gg/docsmint"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 145,
+    "updated_at": "2026-07-28T20:15:35Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
+    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "language": "HTML",
+    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "stars": 2,
+    "updated_at": "2026-07-28T20:15:17Z",
+    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
+  },
+  {
+    "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
+    "id": "DanceNitra/agora",
+    "language": "Python",
+    "name": "DanceNitra/agora",
+    "stars": 3,
+    "updated_at": "2026-07-28T20:15:03Z",
+    "url": "https://github.com/DanceNitra/agora"
+  },
+  {
+    "description": "\ud83e\udde0 Memoria local para agentes IA v\u00eda MCP. Drop-in para Claude Code, OpenCode, Cursor, Continue. Python + FastMCP + Qdrant",
+    "id": "GermaniU/mcp-memory",
+    "language": "Python",
+    "name": "GermaniU/mcp-memory",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:13:41Z",
+    "url": "https://github.com/GermaniU/mcp-memory"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31239,
-    "updated_at": "2026-07-28T20:14:51Z",
+    "updated_at": "2026-07-28T20:15:59Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "IHUI-INF-AI/IHUI-AI",
     "stars": 14,
-    "updated_at": "2026-07-28T20:06:12Z",
+    "updated_at": "2026-07-28T20:17:12Z",
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Jupyter Notebook",
     "name": "aadityat23/Finverify",
     "stars": 4,
-    "updated_at": "2026-07-28T20:03:29Z",
+    "updated_at": "2026-07-28T20:15:38Z",
     "url": "https://github.com/aadityat23/Finverify"
   },
   {
@@ -340,24 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T20:00:35Z",
     "url": "https://github.com/TejasLamba2006/northwind-gadgets-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-28T20:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-28T20:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a f",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T19:59:23Z",
     "url": "https://github.com/xyver/daedal-map"
-  },
-  {
-    "description": "Version control for AI systems. Git tells you what changed; aigit tells you why the AI behaves differently immutable sna",
-    "id": "sainitish1609/aigit",
-    "language": "Python",
-    "name": "sainitish1609/aigit",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:57:29Z",
-    "url": "https://github.com/sainitish1609/aigit"
-  },
-  {
-    "description": "Agentic clinical research & lab validation assistant (LangGraph + RAG + Groq)",
-    "id": "Nidhisingh274/medguide-ai",
-    "language": "Python",
-    "name": "Nidhisingh274/medguide-ai",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:56:45Z",
-    "url": "https://github.com/Nidhisingh274/medguide-ai"
-  },
-  {
-    "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
-    "id": "sepahead/sepahead",
-    "language": "JavaScript",
-    "name": "sepahead/sepahead",
-    "stars": 2,
-    "updated_at": "2026-07-28T19:56:23Z",
-    "url": "https://github.com/sepahead/sepahead"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 324,
-    "updated_at": "2026-07-28T19:56:22Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Memory for AI agents with first-class Portuguese and human-like memory dynamics (ACT-R)",
-    "id": "fabiolenine/deepmem0",
-    "language": "Python",
-    "name": "fabiolenine/deepmem0",
-    "stars": 0,
-    "updated_at": "2026-07-28T19:56:11Z",
-    "url": "https://github.com/fabiolenine/deepmem0"
   }
 ]
