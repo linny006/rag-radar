@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-07-29T22:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Enterprise AI-powered Full-Stack SaaS Platform for CRM, Business Automation & Analytics.",
+    "id": "Yashv-22/Blueshore-Technologies",
+    "language": "HTML",
+    "name": "Yashv-22/Blueshore-Technologies",
+    "stars": 0,
+    "updated_at": "2026-07-29T22:15:20Z",
+    "url": "https://github.com/Yashv-22/Blueshore-Technologies"
+  },
+  {
+    "description": "Retrieval-Augmented Generation platform with FAISS-based semantic search, claim-level hallucination detection, and confi",
+    "id": "yamini-nlp/prism",
+    "language": "TypeScript",
+    "name": "yamini-nlp/prism",
+    "stars": 1,
+    "updated_at": "2026-07-29T22:14:47Z",
+    "url": "https://github.com/yamini-nlp/prism"
+  },
+  {
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "id": "RyanCodrai/turbovec",
+    "language": "Python",
+    "name": "RyanCodrai/turbovec",
+    "stars": 14499,
+    "updated_at": "2026-07-29T22:13:57Z",
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "description": "Visual Studio 2022/2026 extension: a local AI coding agent for Ollama, LM Studio or any OpenAI-compatible server. Autono",
+    "id": "EstaxNet/Inferpal",
+    "language": "C#",
+    "name": "EstaxNet/Inferpal",
+    "stars": 3,
+    "updated_at": "2026-07-29T22:13:38Z",
+    "url": "https://github.com/EstaxNet/Inferpal"
+  },
+  {
+    "description": "Learn Java with current docs, including Java 25 JDK",
+    "id": "WilliamAGH/java-chat",
+    "language": "Java",
+    "name": "WilliamAGH/java-chat",
+    "stars": 2,
+    "updated_at": "2026-07-29T22:13:24Z",
+    "url": "https://github.com/WilliamAGH/java-chat"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T22:13:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18831,
+    "updated_at": "2026-07-29T22:12:44Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Offline Retrieval-Augmented Generation (RAG) assistant built with Microsoft Foundry Local, SQLite, multilingual embeddin",
+    "id": "suedaculfa/Foundry-Local-RAG-Assistant",
+    "language": "Python",
+    "name": "suedaculfa/Foundry-Local-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-07-29T22:12:12Z",
+    "url": "https://github.com/suedaculfa/Foundry-Local-RAG-Assistant"
+  },
+  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31251,
-    "updated_at": "2026-07-29T22:07:21Z",
+    "updated_at": "2026-07-29T22:15:02Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -198,24 +279,6 @@
     "url": "https://github.com/tmolavi/mcp-geo-server"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-07-29T22:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T22:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
     "id": "Vijay190899/disclosure-rag",
     "language": "Python",
@@ -279,15 +342,6 @@
     "url": "https://github.com/nanohype/nanohype"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18830,
-    "updated_at": "2026-07-29T22:12:44Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Sync Canvas courses into a local Obsidian vault \u2014 transcribed lecture notes, a cross-lecture concept graph, homework and",
     "id": "mihirargulkar/canvas-obsidian",
     "language": "Python",
@@ -315,15 +369,6 @@
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
-    "description": "Enterprise AI-powered Full-Stack SaaS Platform for CRM, Business Automation & Analytics.",
-    "id": "Yashv-22/Blueshore-Technologies",
-    "language": "HTML",
-    "name": "Yashv-22/Blueshore-Technologies",
-    "stars": 0,
-    "updated_at": "2026-07-29T21:56:39Z",
-    "url": "https://github.com/Yashv-22/Blueshore-Technologies"
-  },
-  {
     "description": "A self-hosted AI workspace that remembers your work and shows its reasoning \u2014 running entirely on your own computer, wit",
     "id": "d4shm1r/amagra",
     "language": "Python",
@@ -340,6 +385,15 @@
     "stars": 0,
     "updated_at": "2026-07-29T21:55:08Z",
     "url": "https://github.com/thomasfevre/agent-memory-bench"
+  },
+  {
+    "description": "Governed shared memory for AI agent fleets \u2014 multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audi",
+    "id": "caura-ai/caura-memclaw",
+    "language": "Python",
+    "name": "caura-ai/caura-memclaw",
+    "stars": 390,
+    "updated_at": "2026-07-29T21:54:19Z",
+    "url": "https://github.com/caura-ai/caura-memclaw"
   },
   {
     "description": "Next.js AI tutor with FastAPI and Supabase. Upload PDFs and URLs to generate structured summaries, multi-session chat, a",
@@ -369,15 +423,6 @@
     "url": "https://github.com/kamusmg/cerebro-engine"
   },
   {
-    "description": "Governed shared memory for AI agent fleets \u2014 multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audi",
-    "id": "caura-ai/caura-memclaw",
-    "language": "Python",
-    "name": "caura-ai/caura-memclaw",
-    "stars": 389,
-    "updated_at": "2026-07-29T21:54:19Z",
-    "url": "https://github.com/caura-ai/caura-memclaw"
-  },
-  {
     "description": "Grounded, source-agnostic RAG analysis for author corpora",
     "id": "BrentWilkins/author-corpus-rag",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 64074,
     "updated_at": "2026-07-29T21:50:52Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Privacy-first RAG system with LangGraph adaptive retrieval, multi-provider LLM routing, and automated hallucination revi",
-    "id": "camilo6castell/ragsody_server",
-    "language": "Python",
-    "name": "camilo6castell/ragsody_server",
-    "stars": 1,
-    "updated_at": "2026-07-29T21:50:14Z",
-    "url": "https://github.com/camilo6castell/ragsody_server"
-  },
-  {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 3,
-    "updated_at": "2026-07-29T21:49:08Z",
-    "url": "https://github.com/Mubder/kazma"
-  },
-  {
-    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 236,
-    "updated_at": "2026-07-29T21:48:24Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-07-29T21:48:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 3,
-    "updated_at": "2026-07-29T21:44:47Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
