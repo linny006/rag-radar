@@ -1,5 +1,59 @@
 [
   {
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "id": "RyanCodrai/turbovec",
+    "language": "Python",
+    "name": "RyanCodrai/turbovec",
+    "stars": 14499,
+    "updated_at": "2026-07-29T21:15:02Z",
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-07-29T21:14:44Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-07-29T21:13:49Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18830,
+    "updated_at": "2026-07-29T21:13:48Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 236,
+    "updated_at": "2026-07-29T21:12:54Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-29T21:11:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local multimodal RAG for PDFs: MinerU, Jina CLIP, FAISS, BM25, BGE reranking and Ollama. Runs on your hardware via CLI, ",
     "id": "iDiagoValeta/localOllamaRAG",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 13,
     "updated_at": "2026-07-29T21:11:13Z",
     "url": "https://github.com/iDiagoValeta/localOllamaRAG"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3247,
+    "updated_at": "2026-07-29T21:11:11Z",
+    "url": "https://github.com/neomjs/neo"
   },
   {
     "description": "Esteira de credito com LLM: API REST em FastAPI, RAG sobre politicas internas com citacoes verificadas, OCR de documento",
@@ -162,21 +225,12 @@
     "url": "https://github.com/grassman23gith/athena-nexus"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-07-29T21:03:28Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
     "id": "jrhahn/ai-trainer",
     "language": "Python",
     "name": "jrhahn/ai-trainer",
     "stars": 1,
-    "updated_at": "2026-07-29T21:03:26Z",
+    "updated_at": "2026-07-29T21:15:04Z",
     "url": "https://github.com/jrhahn/ai-trainer"
   },
   {
@@ -243,15 +297,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-29T21:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI document intelligence SaaS with cited RAG, secure workspaces, MCP tools, evaluation, and release evidence.",
     "id": "HarrisonBlake01/paperline",
     "language": "TypeScript",
@@ -302,17 +347,8 @@
     "language": "Python",
     "name": "anulum/director-ai",
     "stars": 3,
-    "updated_at": "2026-07-29T20:58:52Z",
+    "updated_at": "2026-07-29T21:14:01Z",
     "url": "https://github.com/anulum/director-ai"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18830,
-    "updated_at": "2026-07-29T21:07:03Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "The official MCP server for WellMarked.io!",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "Matlan1/localm",
     "stars": 1,
-    "updated_at": "2026-07-29T20:59:31Z",
+    "updated_at": "2026-07-29T21:15:09Z",
     "url": "https://github.com/Matlan1/localm"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "IgorGanapolsky/trading",
     "stars": 38,
-    "updated_at": "2026-07-29T20:55:44Z",
+    "updated_at": "2026-07-29T21:14:13Z",
     "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Source code for LebLibrary \u2013 a full-stack Torah library and article platform. Built with Python, Django, and integrated ",
-    "id": "mole28/leblibrary",
-    "language": "HTML",
-    "name": "mole28/leblibrary",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:55:09Z",
-    "url": "https://github.com/mole28/leblibrary"
-  },
-  {
-    "description": "Eval-first agentic RAG over a private podcast archive: hybrid BM25 + dense retrieval fused with RRF, scored against a ha",
-    "id": "janvrsinsky/jv-podcast-rag",
-    "language": "Python",
-    "name": "janvrsinsky/jv-podcast-rag",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:54:45Z",
-    "url": "https://github.com/janvrsinsky/jv-podcast-rag"
-  },
-  {
-    "description": "",
-    "id": "jjopensoftworks-blip/Scrubkit",
-    "language": "C#",
-    "name": "jjopensoftworks-blip/Scrubkit",
-    "stars": 1,
-    "updated_at": "2026-07-29T20:54:02Z",
-    "url": "https://github.com/jjopensoftworks-blip/Scrubkit"
-  },
-  {
-    "description": "LexonGraph is a log-structured semantic index that stores embeddings as immutable blocks in navigable vector graph. It s",
-    "id": "Alan-Jowett/LexonGraph",
-    "language": "Rust",
-    "name": "Alan-Jowett/LexonGraph",
-    "stars": 2,
-    "updated_at": "2026-07-29T20:52:30Z",
-    "url": "https://github.com/Alan-Jowett/LexonGraph"
   }
 ]
