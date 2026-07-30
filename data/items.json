@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-07-30T03:30:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ragworks \u2014 a self-hosted, low-code workbench for building transparent, traceable RAG pipelines. Wire up ingestion and re",
     "id": "Neeeser/Ragworks",
     "language": "Python",
@@ -403,15 +412,6 @@
     "stars": 342,
     "updated_at": "2026-07-30T03:16:19Z",
     "url": "https://github.com/Haozhe-Xing/agent_learning"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-07-30T03:16:11Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your coding agent starts every session blank. Rekal is the memory your team is missing",
