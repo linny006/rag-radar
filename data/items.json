@@ -1,5 +1,32 @@
 [
   {
+    "description": "A compact reference of the core equations and loss functions behind common machine learning models, plus a practical gui",
+    "id": "SaadTadja/machine-learning-reference",
+    "language": "\u2014",
+    "name": "SaadTadja/machine-learning-reference",
+    "stars": 0,
+    "updated_at": "2026-07-30T18:14:28Z",
+    "url": "https://github.com/SaadTadja/machine-learning-reference"
+  },
+  {
+    "description": "NotebookLab | Your thinking partner, on your machine. Import your documents. Ask questions. Get answers with sources. Wr",
+    "id": "Amey-Thakur/NotebookLab",
+    "language": "TypeScript",
+    "name": "Amey-Thakur/NotebookLab",
+    "stars": 4,
+    "updated_at": "2026-07-30T18:13:36Z",
+    "url": "https://github.com/Amey-Thakur/NotebookLab"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-30T18:13:16Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production-grade Medical RAG system with LangGraph, FAISS, Cross-Encoder Reranking, and Llama 3.2 streaming",
     "id": "Aaryav1130/healthgpt",
     "language": "Python",
@@ -7,6 +34,24 @@
     "stars": 0,
     "updated_at": "2026-07-30T18:12:40Z",
     "url": "https://github.com/Aaryav1130/healthgpt"
+  },
+  {
+    "description": "AI-powered Clinical Trial Matching Platform using FastAPI, Spring Boot, React, PostgreSQL, Redis, Docker, and LLMs.",
+    "id": "snehapriy958/medmatch",
+    "language": "TypeScript",
+    "name": "snehapriy958/medmatch",
+    "stars": 0,
+    "updated_at": "2026-07-30T18:11:26Z",
+    "url": "https://github.com/snehapriy958/medmatch"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 200,
+    "updated_at": "2026-07-30T18:11:24Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
   },
   {
     "description": "Ten common LLM agent use cases \u2014 RAG, code-gen, data extraction, research, support triage, SQL, multi-agent, ReAct, reco",
@@ -50,7 +95,7 @@
     "language": "JavaScript",
     "name": "Bharath17-10/RAG-PDF-Assistant",
     "stars": 0,
-    "updated_at": "2026-07-30T18:10:27Z",
+    "updated_at": "2026-07-30T18:14:00Z",
     "url": "https://github.com/Bharath17-10/RAG-PDF-Assistant"
   },
   {
@@ -63,13 +108,13 @@
     "url": "https://github.com/Cogeto/cogeto"
   },
   {
-    "description": "NotebookLab | Your thinking partner, on your machine. Import your documents. Ask questions. Get answers with sources. Wr",
-    "id": "Amey-Thakur/NotebookLab",
+    "description": "Self-hosted AI platform \u2014 47+ microservices, 20 messaging adapters, native apps, enterprise multi-tenancy, zero cloud de",
+    "id": "47network/Sven",
     "language": "TypeScript",
-    "name": "Amey-Thakur/NotebookLab",
-    "stars": 4,
-    "updated_at": "2026-07-30T18:08:56Z",
-    "url": "https://github.com/Amey-Thakur/NotebookLab"
+    "name": "47network/Sven",
+    "stars": 5,
+    "updated_at": "2026-07-30T18:09:04Z",
+    "url": "https://github.com/47network/Sven"
   },
   {
     "description": "FinGraph Sentinel \u2014 GenAI Graph Engineering Agent for BFSI: Neo4j, Graph RAG, GNNs, AML, credit risk, insurance claims, ",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31274,
-    "updated_at": "2026-07-30T18:12:17Z",
+    "updated_at": "2026-07-30T18:15:03Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/PrathyushaPolepalli/PrathyushaPolepalli.github.io"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-30T18:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
     "id": "wish-maker/minder",
     "language": "Python",
@@ -367,15 +403,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T18:00:04Z",
     "url": "https://github.com/shno-labs/mem-forge"
-  },
-  {
-    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
-    "id": "melgarafael/DeskcommCRM",
-    "language": "TypeScript",
-    "name": "melgarafael/DeskcommCRM",
-    "stars": 200,
-    "updated_at": "2026-07-30T18:11:24Z",
-    "url": "https://github.com/melgarafael/DeskcommCRM"
   },
   {
     "description": "\ud83e\udde0 Memoria local para agentes IA v\u00eda MCP. Drop-in para Claude Code, OpenCode, Cursor, Continue. Python + FastMCP + Qdrant",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T17:59:02Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Minimalist, self-hosted AI hub for companies \u2014 RAG chatbot, MCP agents and everyday AI tools on your own Ollama instance",
-    "id": "alouiadel/DeepCellar",
-    "language": "JavaScript",
-    "name": "alouiadel/DeepCellar",
-    "stars": 5,
-    "updated_at": "2026-07-30T17:58:55Z",
-    "url": "https://github.com/alouiadel/DeepCellar"
-  },
-  {
-    "description": "Install-ordered k3s cluster config as code for a private AI platform: Ollama/Qwen3 on a Tesla V100, Milvus RAG, MCP agen",
-    "id": "darthzen/lab-fleet",
-    "language": "Go Template",
-    "name": "darthzen/lab-fleet",
-    "stars": 0,
-    "updated_at": "2026-07-30T17:58:18Z",
-    "url": "https://github.com/darthzen/lab-fleet"
-  },
-  {
-    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
-    "id": "tobocop2/lilbee",
-    "language": "Python",
-    "name": "tobocop2/lilbee",
-    "stars": 39,
-    "updated_at": "2026-07-30T17:58:14Z",
-    "url": "https://github.com/tobocop2/lilbee"
   }
 ]
