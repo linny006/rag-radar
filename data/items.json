@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-agent literature review pipeline \u2014 upload scientific PDFs, extract themes and claims, generate citation-backed rev",
+    "id": "daviguides/the-saurus",
+    "language": "Python",
+    "name": "daviguides/the-saurus",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:47:05Z",
+    "url": "https://github.com/daviguides/the-saurus"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-07-31T16:46:38Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
+    "id": "arkanere/solar-app",
+    "language": "PLpgSQL",
+    "name": "arkanere/solar-app",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:45:42Z",
+    "url": "https://github.com/arkanere/solar-app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:45:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
+    "id": "The-Geek-Freaks/NEOTH",
+    "language": "Rust",
+    "name": "The-Geek-Freaks/NEOTH",
+    "stars": 5,
+    "updated_at": "2026-07-31T16:45:22Z",
+    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18857,
+    "updated_at": "2026-07-31T16:46:22Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
     "description": "Complete security framework for AI Agents, MCP Servers, and RAG pipelines. Features automated MCP fuzzing, cross-agent p",
     "id": "M4NT/hemlock",
     "language": "Python",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "wish-maker/minder",
     "stars": 1,
-    "updated_at": "2026-07-31T16:41:18Z",
+    "updated_at": "2026-07-31T16:47:02Z",
     "url": "https://github.com/wish-maker/minder"
   },
   {
@@ -234,15 +297,6 @@
     "url": "https://github.com/Ahnaf181419/shongjog"
   },
   {
-    "description": "Multi-agent literature review pipeline \u2014 upload scientific PDFs, extract themes and claims, generate citation-backed rev",
-    "id": "daviguides/the-saurus",
-    "language": "Python",
-    "name": "daviguides/the-saurus",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:45:12Z",
-    "url": "https://github.com/daviguides/the-saurus"
-  },
-  {
     "description": "Give your AI agent eyes for PDFs \u2014 structured text, tables, OCR, visual evidence, and page-level citations via MCP. Nati",
     "id": "SylphxAI/pdf-reader-mcp",
     "language": "TypeScript",
@@ -266,7 +320,7 @@
     "language": "Java",
     "name": "eliasjustus/justsearch",
     "stars": 1,
-    "updated_at": "2026-07-31T16:40:53Z",
+    "updated_at": "2026-07-31T16:46:14Z",
     "url": "https://github.com/eliasjustus/justsearch"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T16:34:49Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
-    "id": "ManSio/mscodebase-intelligence",
-    "language": "Python",
-    "name": "ManSio/mscodebase-intelligence",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:45:21Z",
-    "url": "https://github.com/ManSio/mscodebase-intelligence"
-  },
-  {
-    "description": "Materials and resources related to Generative AI terminologies",
-    "id": "dhruvg029/GenerativeAI-Bootcamp",
-    "language": "Jupyter Notebook",
-    "name": "dhruvg029/GenerativeAI-Bootcamp",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:34:01Z",
-    "url": "https://github.com/dhruvg029/GenerativeAI-Bootcamp"
-  },
-  {
-    "description": "Self-hosted, modular, local-first personal-assistant platform \u2014 an AI agent plus pluggable integration modules.",
-    "id": "baakhoff/epicurus",
-    "language": "Python",
-    "name": "baakhoff/epicurus",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:33:25Z",
-    "url": "https://github.com/baakhoff/epicurus"
-  },
-  {
-    "description": "Employee HR self-serve RAG \u2014 policy + how-to answers with citations (Tier-1 deflection)",
-    "id": "hohoho852/hr-employee-selfserve",
-    "language": "Python",
-    "name": "hohoho852/hr-employee-selfserve",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:32:23Z",
-    "url": "https://github.com/hohoho852/hr-employee-selfserve"
-  },
-  {
-    "description": "The model measures, your rules decide \u2014 and prove it. Vector math as a first-class operand in a deterministic Rete engin",
-    "id": "ops-ping/vector-rules",
-    "language": "Rust",
-    "name": "ops-ping/vector-rules",
-    "stars": 0,
-    "updated_at": "2026-07-31T16:31:55Z",
-    "url": "https://github.com/ops-ping/vector-rules"
-  },
-  {
-    "description": "Provenance-aware memory for AI agents.",
-    "id": "veracium-ai/Veracium",
-    "language": "Python",
-    "name": "veracium-ai/Veracium",
-    "stars": 4,
-    "updated_at": "2026-07-31T16:31:33Z",
-    "url": "https://github.com/veracium-ai/Veracium"
   }
 ]
