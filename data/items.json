@@ -1,21 +1,120 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18858,
+    "updated_at": "2026-07-31T21:20:17Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-07-31T21:19:27Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 325,
+    "updated_at": "2026-07-31T21:19:14Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Provenance-aware memory for AI agents.",
+    "id": "veracium-ai/Veracium",
+    "language": "Python",
+    "name": "veracium-ai/Veracium",
+    "stars": 4,
+    "updated_at": "2026-07-31T21:18:47Z",
+    "url": "https://github.com/veracium-ai/Veracium"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "JavaScript",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-07-31T21:18:46Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Adaptive CS Tutor is a diagnostic concept-graph tutor for intro CS: a quiz marks shaky concepts, graph propagation flags",
+    "id": "Yusuf-Gadelrab/adaptive-cs-tutor",
+    "language": "Python",
+    "name": "Yusuf-Gadelrab/adaptive-cs-tutor",
+    "stars": 1,
+    "updated_at": "2026-07-31T21:18:44Z",
+    "url": "https://github.com/Yusuf-Gadelrab/adaptive-cs-tutor"
+  },
+  {
+    "description": "\u042e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u043f\u043e \u043f\u0440\u0430\u0432\u0443 \u0420\u0424 \u0441 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c\u044b\u043c\u0438 \u0446\u0438\u0442\u0430\u0442\u0430\u043c\u0438 \u2014 RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 (hybrid+rerank, NLI Citation Verifier, self-RA",
+    "id": "DrobyshevDev/praxis",
+    "language": "Python",
+    "name": "DrobyshevDev/praxis",
+    "stars": 0,
+    "updated_at": "2026-07-31T21:18:10Z",
+    "url": "https://github.com/DrobyshevDev/praxis"
+  },
+  {
+    "description": "Your second brain. Self-hosted. Bring your own model. Postgres + pgvector.",
+    "id": "ricalamino/lectio",
+    "language": "TypeScript",
+    "name": "ricalamino/lectio",
+    "stars": 3,
+    "updated_at": "2026-07-31T21:18:03Z",
+    "url": "https://github.com/ricalamino/lectio"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-31T21:16:16Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T21:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T21:15:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Collection of production-ready machine learning and AI engineering internship projects",
+    "id": "Adejare-ml/ai-engineering-internship-projects",
+    "language": "Jupyter Notebook",
+    "name": "Adejare-ml/ai-engineering-internship-projects",
+    "stars": 1,
+    "updated_at": "2026-07-31T21:16:45Z",
+    "url": "https://github.com/Adejare-ml/ai-engineering-internship-projects"
+  },
+  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31335,
-    "updated_at": "2026-07-31T21:15:07Z",
+    "updated_at": "2026-07-31T21:19:36Z",
     "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "AI engineering internship projects: NLP, embeddings, RAG, and model deployment",
-    "id": "Adejare-ml/ai-engineering-internship-projects",
-    "language": "Jupyter Notebook",
-    "name": "Adejare-ml/ai-engineering-internship-projects",
-    "stars": 1,
-    "updated_at": "2026-07-31T21:15:21Z",
-    "url": "https://github.com/Adejare-ml/ai-engineering-internship-projects"
   },
   {
     "description": "Local PDF-to-text, OCR, page-aware chunking, and AnythingLLM Desktop upload assistant for reliable page-cited RAG retrie",
@@ -171,24 +270,6 @@
     "url": "https://github.com/sepahead/sepahead"
   },
   {
-    "description": "\u042e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u043f\u043e \u043f\u0440\u0430\u0432\u0443 \u0420\u0424 \u0441 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c\u044b\u043c\u0438 \u0446\u0438\u0442\u0430\u0442\u0430\u043c\u0438 \u2014 RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 (hybrid+rerank, NLI Citation Verifier, self-RA",
-    "id": "DrobyshevDev/praxis",
-    "language": "Python",
-    "name": "DrobyshevDev/praxis",
-    "stars": 0,
-    "updated_at": "2026-07-31T21:08:13Z",
-    "url": "https://github.com/DrobyshevDev/praxis"
-  },
-  {
-    "description": "Provenance-aware memory for AI agents.",
-    "id": "veracium-ai/Veracium",
-    "language": "Python",
-    "name": "veracium-ai/Veracium",
-    "stars": 4,
-    "updated_at": "2026-07-31T21:07:47Z",
-    "url": "https://github.com/veracium-ai/Veracium"
-  },
-  {
     "description": "Full AI context and content layer for coding agents over one MCP server \u2014 tree-sitter code-map, document RAG, shared mem",
     "id": "Goldziher/basemind",
     "language": "Rust",
@@ -220,18 +301,9 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 28891,
+    "stars": 28892,
     "updated_at": "2026-07-31T21:07:02Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18858,
-    "updated_at": "2026-07-31T21:14:50Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
@@ -351,24 +423,6 @@
     "url": "https://github.com/Kaynaaf/NanoRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T21:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u9762\u5411\u957f\u7bc7\u5c0f\u8bf4\u521b\u4f5c\u7684\u684c\u9762 AI \u5199\u4f5c IDE\u2014\u2014\u5bf9\u8bdd\u5f0f Agent\u3001\u591a\u89c6\u89d2\u5ba1\u7a3f\u3001\u5b9a\u5411\u4fee\u8ba2\u3001diff \u786e\u8ba4\u5199\u56de\u3001canon \u9632\u6f02\u79fb\uff1bBookRun \u751f\u6210\u6d41\u6c34\u7ebf\u964d\u7ea7\u4e3a\u540e\u53f0\u5de5\u5177\u3002",
     "id": "XZZKANY/StoryForge",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 14539,
     "updated_at": "2026-07-31T21:12:49Z",
     "url": "https://github.com/RyanCodrai/turbovec"
-  },
-  {
-    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
-    "id": "jgoy-labs/server-nexe",
-    "language": "Python",
-    "name": "jgoy-labs/server-nexe",
-    "stars": 10,
-    "updated_at": "2026-07-31T20:58:56Z",
-    "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, ",
-    "id": "markhuangai/dense-mem",
-    "language": "Go",
-    "name": "markhuangai/dense-mem",
-    "stars": 35,
-    "updated_at": "2026-07-31T21:00:44Z",
-    "url": "https://github.com/markhuangai/dense-mem"
-  },
-  {
-    "description": "\u2708\ufe0f AI travel planner that turns a single sentence into a complete personalized itinerary \u2014 flights, hotels, trains, food",
-    "id": "lukan-lawslaf/TRIP-AI",
-    "language": "Python",
-    "name": "lukan-lawslaf/TRIP-AI",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:57:22Z",
-    "url": "https://github.com/lukan-lawslaf/TRIP-AI"
-  },
-  {
-    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
-    "id": "Bike4Mind/bike4mind",
-    "language": "TypeScript",
-    "name": "Bike4Mind/bike4mind",
-    "stars": 83,
-    "updated_at": "2026-07-31T20:58:01Z",
-    "url": "https://github.com/Bike4Mind/bike4mind"
-  },
-  {
-    "description": "Memory that AI Agents Love!",
-    "id": "moorcheh-ai/memanto",
-    "language": "Python",
-    "name": "moorcheh-ai/memanto",
-    "stars": 1744,
-    "updated_at": "2026-07-31T20:55:43Z",
-    "url": "https://github.com/moorcheh-ai/memanto"
-  },
-  {
-    "description": "Does RAG actually earn its cost? ragornot runs the same query through four retrieval modes (Flat/BM25, Hierarchical, LLM",
-    "id": "Raxorr/ragornot",
-    "language": "TypeScript",
-    "name": "Raxorr/ragornot",
-    "stars": 1,
-    "updated_at": "2026-07-31T20:55:35Z",
-    "url": "https://github.com/Raxorr/ragornot"
   }
 ]
