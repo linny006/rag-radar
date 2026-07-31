@@ -1,5 +1,86 @@
 [
   {
+    "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automatio",
+    "id": "henrydaum/second-brain",
+    "language": "Python",
+    "name": "henrydaum/second-brain",
+    "stars": 590,
+    "updated_at": "2026-07-31T20:01:44Z",
+    "url": "https://github.com/henrydaum/second-brain"
+  },
+  {
+    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 10",
+    "id": "xberg-io/xberg",
+    "language": "Rust",
+    "name": "xberg-io/xberg",
+    "stars": 8722,
+    "updated_at": "2026-07-31T20:01:32Z",
+    "url": "https://github.com/xberg-io/xberg"
+  },
+  {
+    "description": "Universal memory layer for AI Agents",
+    "id": "mem0ai/mem0",
+    "language": "Python",
+    "name": "mem0ai/mem0",
+    "stars": 62212,
+    "updated_at": "2026-07-31T20:01:01Z",
+    "url": "https://github.com/mem0ai/mem0"
+  },
+  {
+    "description": "Full-stack document Q&A using PDF parsing, chunking, embeddings, retrieval, and grounded AI responses.",
+    "id": "nipun172006/document-rag-assistant",
+    "language": "JavaScript",
+    "name": "nipun172006/document-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:00:42Z",
+    "url": "https://github.com/nipun172006/document-rag-assistant"
+  },
+  {
+    "description": "An Explainable Clinical Decision Support System (X-CDS) using hybrid RAG (Chroma + BM25), Cross-Encoder re-ranking, and ",
+    "id": "Sahil5273/X-CDS",
+    "language": "Python",
+    "name": "Sahil5273/X-CDS",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:00:41Z",
+    "url": "https://github.com/Sahil5273/X-CDS"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Long back I worked on this AI agent that reads Consulting artifacts and produces a reconciliation report \u2014 built from fi",
+    "id": "rl-rahulsingh/salesforce-discovery-agent",
+    "language": "Python",
+    "name": "rl-rahulsingh/salesforce-discovery-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:00:29Z",
+    "url": "https://github.com/rl-rahulsingh/salesforce-discovery-agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 238,
+    "updated_at": "2026-07-31T20:00:11Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
     "description": "GenAI-powered Business Intelligence platform that transforms raw",
     "id": "Pranjulchaurasiya/Auto-BI",
     "language": "Python",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "AgentSwarms-fyi/agentswarms",
     "stars": 18,
-    "updated_at": "2026-07-31T19:59:46Z",
+    "updated_at": "2026-07-31T20:01:10Z",
     "url": "https://github.com/AgentSwarms-fyi/agentswarms"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/Hikmahx/QuizMe"
   },
   {
-    "description": "An Explainable Clinical Decision Support System (X-CDS) using hybrid RAG (Chroma + BM25), Cross-Encoder re-ranking, and ",
-    "id": "Sahil5273/X-CDS",
-    "language": "Python",
-    "name": "Sahil5273/X-CDS",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:55:54Z",
-    "url": "https://github.com/Sahil5273/X-CDS"
-  },
-  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "Onta-Labs/onta-oss",
     "stars": 2,
-    "updated_at": "2026-07-31T19:59:58Z",
+    "updated_at": "2026-07-31T20:02:16Z",
     "url": "https://github.com/Onta-Labs/onta-oss"
   },
   {
@@ -198,15 +270,6 @@
     "url": "https://github.com/alihaydarsucu/burai-tech-ayaz"
   },
   {
-    "description": "Full-stack document Q&A using PDF parsing, chunking, embeddings, retrieval, and grounded AI responses.",
-    "id": "nipun172006/document-rag-assistant",
-    "language": "JavaScript",
-    "name": "nipun172006/document-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:57:30Z",
-    "url": "https://github.com/nipun172006/document-rag-assistant"
-  },
-  {
     "description": "A knowledge tree of your codebase where every claim carries a verifiable receipt. Local-first: your code never leaves yo",
     "id": "NORTHTEKDevs/overstory",
     "language": "TypeScript",
@@ -239,7 +302,7 @@
     "language": "C#",
     "name": "kenhayward/Diariz",
     "stars": 3,
-    "updated_at": "2026-07-31T19:52:43Z",
+    "updated_at": "2026-07-31T20:01:56Z",
     "url": "https://github.com/kenhayward/Diariz"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "jagoff/memo",
     "stars": 10,
-    "updated_at": "2026-07-31T19:58:39Z",
+    "updated_at": "2026-07-31T20:02:29Z",
     "url": "https://github.com/jagoff/memo"
   },
   {
@@ -365,7 +428,7 @@
     "language": "TypeScript",
     "name": "tetherto/qvac",
     "stars": 355,
-    "updated_at": "2026-07-31T19:47:59Z",
+    "updated_at": "2026-07-31T20:01:50Z",
     "url": "https://github.com/tetherto/qvac"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T19:46:54Z",
     "url": "https://github.com/shivaumsharma/FinSight-AI"
-  },
-  {
-    "description": "Self-improving, self-hosted memory across every AI coding tool, project, and team (Claude Code, Cursor, Copilot, any MCP",
-    "id": "bejranonda/ExternalBrain",
-    "language": "TypeScript",
-    "name": "bejranonda/ExternalBrain",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:46:19Z",
-    "url": "https://github.com/bejranonda/ExternalBrain"
-  },
-  {
-    "description": "Adaptive Learning Associative Memory \u2014 a personal AI reading companion. Voice reflections become typed memories, an evol",
-    "id": "aabu4537/ALAM",
-    "language": "\u2014",
-    "name": "aabu4537/ALAM",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:46:03Z",
-    "url": "https://github.com/aabu4537/ALAM"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u4f01\u4e1a\u300c\u5de5\u4f5c\u5206\u8eab\u300d\u7cfb\u7edf\uff1a\u5458\u5de5\u7535\u8111\u4e0a\u8dd1\u4e00\u4e2a\u80fd\u5728 OA/CRM/ERP \u91cc\u771f\u6b63\u52a8\u624b\u7684 AI \u5206\u8eab \u2014 \u672c\u4f53\u8bed\u4e49\u9a71\u52a8 \u00b7 \u5b58\u91cf\u7cfb\u7edf\u65e0\u4fb5\u5165\u8fde\u63a5(browse-use) \u00b7 \u5199\u64cd\u4f5c\u786e\u8ba4+\u6c99\u7bb1\u9694\u79bb\u53ef\u5ba1\u8ba1",
-    "id": "imoling/iml-work",
-    "language": "TypeScript",
-    "name": "imoling/iml-work",
-    "stars": 1,
-    "updated_at": "2026-07-31T19:45:26Z",
-    "url": "https://github.com/imoling/iml-work"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-07-31T19:45:15Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:45:13Z",
-    "url": "https://github.com/amemhq/amem"
   }
 ]
