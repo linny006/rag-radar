@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u4f01\u4e1a\u7ea7 AI \u77e5\u8bc6\u5e93\u5e73\u53f0 | RAG + Agent | FastAPI + Vue3 + Ollama",
+    "id": "qianlin-code/IntelliKB",
+    "language": "Python",
+    "name": "qianlin-code/IntelliKB",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:15:41Z",
+    "url": "https://github.com/qianlin-code/IntelliKB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A meme-first AI chatbot \u2014 LLM intent routing (Claude), ChromaDB RAG retrieval, Pillow image composition, and a Next.js 1",
     "id": "Moulik04/memegpt",
     "language": "Python",
@@ -14,8 +41,17 @@
     "language": "Dart",
     "name": "vivekprajapati02/flutter-ai-playground",
     "stars": 0,
-    "updated_at": "2026-07-31T10:14:48Z",
+    "updated_at": "2026-07-31T10:15:35Z",
     "url": "https://github.com/vivekprajapati02/flutter-ai-playground"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 7,
+    "updated_at": "2026-07-31T10:14:22Z",
+    "url": "https://github.com/derob98/ailmanac"
   },
   {
     "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
@@ -95,7 +131,7 @@
     "language": "HTML",
     "name": "shubhankar71/Expense-Tracker-and-Analyzer",
     "stars": 0,
-    "updated_at": "2026-07-31T10:11:16Z",
+    "updated_at": "2026-07-31T10:15:34Z",
     "url": "https://github.com/shubhankar71/Expense-Tracker-and-Analyzer"
   },
   {
@@ -207,15 +243,6 @@
     "url": "https://github.com/lazmaksim2019-ops/AI-Habit-Mentor"
   },
   {
-    "description": "\u4f01\u4e1a\u7ea7 AI \u77e5\u8bc6\u5e93\u5e73\u53f0 | RAG + Agent | FastAPI + Vue3 + Ollama",
-    "id": "qianlin-code/IntelliKB",
-    "language": "Python",
-    "name": "qianlin-code/IntelliKB",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:14:58Z",
-    "url": "https://github.com/qianlin-code/IntelliKB"
-  },
-  {
     "description": "A powerful AI-powered legal document analysis tool built with Streamlit, LangChain, and Ollama. Upload PDFs, get instant",
     "id": "chmodgaurav/Legal_document_Annalyser",
     "language": "Python",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "bojieli/ai-agent-book",
     "stars": 28185,
-    "updated_at": "2026-07-31T10:06:26Z",
+    "updated_at": "2026-07-31T10:15:39Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -414,24 +441,6 @@
     "url": "https://github.com/nkieu-config/applywise-job-tracker"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:00:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T10:00:10Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "JavaScript",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-07-31T10:00:09Z",
-    "url": "https://github.com/alex-place/lantern-os"
   }
 ]
