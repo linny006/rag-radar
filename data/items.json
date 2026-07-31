@@ -1,5 +1,95 @@
 [
   {
+    "description": "Local-first AI workspace with pluggable model providers \u2014 chat, agent mode, MCP, local RAG, deep research, model arena, ",
+    "id": "LenSyrudas/syrudas",
+    "language": "Python",
+    "name": "LenSyrudas/syrudas",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:45:07Z",
+    "url": "https://github.com/LenSyrudas/syrudas"
+  },
+  {
+    "description": "Turn CSVs into a context graph your AI agent can build, query in plain English, and verify \u2014 SPARQL-backed, Apache-2.0",
+    "id": "Onta-Labs/onta-oss",
+    "language": "Python",
+    "name": "Onta-Labs/onta-oss",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:44:05Z",
+    "url": "https://github.com/Onta-Labs/onta-oss"
+  },
+  {
+    "description": "Give your AI agent eyes for PDFs \u2014 structured text, tables, OCR, visual evidence, and page-level citations via MCP. Nati",
+    "id": "SylphxAI/pdf-reader-mcp",
+    "language": "TypeScript",
+    "name": "SylphxAI/pdf-reader-mcp",
+    "stars": 875,
+    "updated_at": "2026-07-31T23:43:55Z",
+    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+  },
+  {
+    "description": "Noah's RAG-powered AI portfolio assistant \u2014 22-node pipeline, pgvector, Claude Sonnet 4.5",
+    "id": "iNoahCodeGuy/portfolia-backend",
+    "language": "Python",
+    "name": "iNoahCodeGuy/portfolia-backend",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:43:52Z",
+    "url": "https://github.com/iNoahCodeGuy/portfolia-backend"
+  },
+  {
+    "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
+    "id": "kenhayward/Diariz",
+    "language": "C#",
+    "name": "kenhayward/Diariz",
+    "stars": 3,
+    "updated_at": "2026-07-31T23:43:39Z",
+    "url": "https://github.com/kenhayward/Diariz"
+  },
+  {
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:44:22Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "Adaptive Learning Associative Memory \u2014 a personal AI reading companion. Voice reflections become typed memories, an evol",
+    "id": "aabu4537/ALAM",
+    "language": "Python",
+    "name": "aabu4537/ALAM",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:42:11Z",
+    "url": "https://github.com/aabu4537/ALAM"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 9,
+    "updated_at": "2026-07-31T23:42:25Z",
+    "url": "https://github.com/Artexis10/exomem"
+  },
+  {
+    "description": "a new, general and flexible KB for everything",
+    "id": "lucagattoni/Pinakes",
+    "language": "Python",
+    "name": "lucagattoni/Pinakes",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:41:30Z",
+    "url": "https://github.com/lucagattoni/Pinakes"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:41:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Sovereign, persistent, worldview-aligned AI agent. Runs on your hardware. No cloud. No moral relativism. Pure truth hier",
     "id": "cluricaun28/Logos",
     "language": "Python",
@@ -18,15 +108,6 @@
     "url": "https://github.com/Ghraven/work"
   },
   {
-    "description": "A medical chatbot using RAG",
-    "id": "WafflesDevs/Meridian",
-    "language": "TypeScript",
-    "name": "WafflesDevs/Meridian",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:40:26Z",
-    "url": "https://github.com/WafflesDevs/Meridian"
-  },
-  {
     "description": "Persistent memory and operational continuity for AI coding agents \u2014 append-only event ledger (AgentBook), rolling summar",
     "id": "NovasPlace/CSM",
     "language": "TypeScript",
@@ -36,13 +117,13 @@
     "url": "https://github.com/NovasPlace/CSM"
   },
   {
-    "description": "Give your AI agent eyes for PDFs \u2014 structured text, tables, OCR, visual evidence, and page-level citations via MCP. Nati",
-    "id": "SylphxAI/pdf-reader-mcp",
+    "description": "A medical chatbot using RAG",
+    "id": "WafflesDevs/Meridian",
     "language": "TypeScript",
-    "name": "SylphxAI/pdf-reader-mcp",
-    "stars": 875,
-    "updated_at": "2026-07-31T23:39:47Z",
-    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+    "name": "WafflesDevs/Meridian",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:40:26Z",
+    "url": "https://github.com/WafflesDevs/Meridian"
   },
   {
     "description": "Local NotebookLM for Claude Code via Google Antigravity (agy / Gemini 3.x): /agy:notebook turns a folder of documents in",
@@ -72,15 +153,6 @@
     "url": "https://github.com/NodeDB-Lab/nodedb"
   },
   {
-    "description": "a new, general and flexible KB for everything",
-    "id": "lucagattoni/Pinakes",
-    "language": "Python",
-    "name": "lucagattoni/Pinakes",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:37:48Z",
-    "url": "https://github.com/lucagattoni/Pinakes"
-  },
-  {
     "description": "Spatial intelligence workstation \u2014 47 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 8-phase mult",
     "id": "sookoothaii/IntelShed",
     "language": "Python",
@@ -88,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T23:37:42Z",
     "url": "https://github.com/sookoothaii/IntelShed"
-  },
-  {
-    "description": "Noah's RAG-powered AI portfolio assistant \u2014 22-node pipeline, pgvector, Claude Sonnet 4.5",
-    "id": "iNoahCodeGuy/portfolia-backend",
-    "language": "Python",
-    "name": "iNoahCodeGuy/portfolia-backend",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:36:52Z",
-    "url": "https://github.com/iNoahCodeGuy/portfolia-backend"
   },
   {
     "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
@@ -122,17 +185,8 @@
     "language": "JavaScript",
     "name": "alex-place/lantern-os",
     "stars": 3,
-    "updated_at": "2026-07-31T23:35:44Z",
+    "updated_at": "2026-07-31T23:45:02Z",
     "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "Local-first AI workspace with pluggable model providers \u2014 chat, agent mode, MCP, local RAG, deep research, model arena, ",
-    "id": "LenSyrudas/syrudas",
-    "language": "Python",
-    "name": "LenSyrudas/syrudas",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:35:05Z",
-    "url": "https://github.com/LenSyrudas/syrudas"
   },
   {
     "description": "Side-by-side research agent: typical production stack vs Temporal Durable Execution \u2014 crash both mid-run and compare rec",
@@ -149,7 +203,7 @@
     "language": "Shell",
     "name": "VincentHanxiaoDu/oh-my-workspace",
     "stars": 0,
-    "updated_at": "2026-07-31T23:38:15Z",
+    "updated_at": "2026-07-31T23:45:09Z",
     "url": "https://github.com/VincentHanxiaoDu/oh-my-workspace"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Anything \u2014 \ud30c\uc77c \uc774\ub984\uc774 \uc544\ub2c8\ub77c \ubcf8\ubb38\uc73c\ub85c \ucc3e\ub294 \ubb38\uc11c \uac80\uc0c9\uae30. HWP\u00b7PDF\u00b7Office \uc804\ubb38 \uac80\uc0c9\uc744 \uc624\ud504\ub77c\uc778\uc73c\ub85c. Windows\u00b7macOS | Offline content search across Korean",
     "id": "chrisryugj/Docufinder",
     "language": "Rust",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "yook11/Vector",
     "stars": 1,
-    "updated_at": "2026-07-31T23:27:55Z",
+    "updated_at": "2026-07-31T23:44:03Z",
     "url": "https://github.com/yook11/Vector"
   },
   {
@@ -356,7 +401,7 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29246,
-    "updated_at": "2026-07-31T23:41:24Z",
+    "updated_at": "2026-07-31T23:44:26Z",
     "url": "https://github.com/simstudioai/sim"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T23:05:42Z",
     "url": "https://github.com/VINAY7033/docu-query-assistant"
-  },
-  {
-    "description": "Top Open-Source AI Agents 2026 \ud83e\udd16 | Best Autonomous Tools & Frameworks",
-    "id": "salimfk619-jpg/open-ai-ecosystem",
-    "language": "HTML",
-    "name": "salimfk619-jpg/open-ai-ecosystem",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:05:26Z",
-    "url": "https://github.com/salimfk619-jpg/open-ai-ecosystem"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 63571,
-    "updated_at": "2026-07-31T23:04:30Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:04:30Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "A RAG-based AI agent for generating daily AWS best-practice tips.",
-    "id": "wahreus/daily-tip-agent",
-    "language": "Python",
-    "name": "wahreus/daily-tip-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:02:47Z",
-    "url": "https://github.com/wahreus/daily-tip-agent"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 150930,
-    "updated_at": "2026-07-31T23:02:42Z",
-    "url": "https://github.com/langgenius/dify"
   }
 ]
