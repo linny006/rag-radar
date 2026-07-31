@@ -1,5 +1,59 @@
 [
   {
+    "description": "A regulatory prep accelerator for a generic-drug Clinical Regulatory Affairs team.",
+    "id": "Hussain0327/amneal",
+    "language": "Python",
+    "name": "Hussain0327/amneal",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:00:18Z",
+    "url": "https://github.com/Hussain0327/amneal"
+  },
+  {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 86519,
+    "updated_at": "2026-07-31T14:59:12Z",
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "description": "Local AI Assistant on your phone",
+    "id": "timmyy123/LLM-Hub",
+    "language": "C++",
+    "name": "timmyy123/LLM-Hub",
+    "stars": 522,
+    "updated_at": "2026-07-31T14:58:53Z",
+    "url": "https://github.com/timmyy123/LLM-Hub"
+  },
+  {
+    "description": "\u81fa\u7063\u4e0a\u5e02\u516c\u53f8\u516c\u958b\u6587\u4ef6\uff08MOPS PDF \uff0b TWSE OpenAPI\uff09\u7684 multimodal filing intelligence \u53ef\u884c\u6027\u9a57\u8b49\u3002\u6578\u503c\u8d70 deterministic SQL \u800c\u975e\u8b93 LLM \u731c;GO\uff0fNO-GO \u9580\u6abb\u4e8b\u524d\u51cd",
+    "id": "kuotunyu/tw-filing-intelligence",
+    "language": "Python",
+    "name": "kuotunyu/tw-filing-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:57:59Z",
+    "url": "https://github.com/kuotunyu/tw-filing-intelligence"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:57:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cited RAG platform (Grounded Spec v1): local LLM (Ollama/vLLM), Redis caches, gRPC Retriever, hybrid BM25+RRF, 99-case e",
+    "id": "kantik001/grounded-llm",
+    "language": "Go",
+    "name": "kantik001/grounded-llm",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:57:26Z",
+    "url": "https://github.com/kantik001/grounded-llm"
+  },
+  {
     "description": "AI stock portfolio analyzer combining RAG, XGBoost, FAISS, Streamlit, and market data to generate portfolio insights.",
     "id": "Pranay847/AI-Stock-Portfolio-Analyzer",
     "language": "Python",
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:57:20Z",
     "url": "https://github.com/Jnocode/recall-memory-hermes"
+  },
+  {
+    "description": "AI-powered medical assistant using WhatsApp, FastAPI, Gemini AI, RAG and Supabase.",
+    "id": "amgadnazar/hotel-ai-whatsapp-agent",
+    "language": "Python",
+    "name": "amgadnazar/hotel-ai-whatsapp-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:57:16Z",
+    "url": "https://github.com/amgadnazar/hotel-ai-whatsapp-agent"
   },
   {
     "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
@@ -63,15 +126,6 @@
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
-    "description": "Cited RAG platform (Grounded Spec v1): local LLM (Ollama/vLLM), Redis caches, gRPC Retriever, hybrid BM25+RRF, 99-case e",
-    "id": "kantik001/grounded-llm",
-    "language": "Go",
-    "name": "kantik001/grounded-llm",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:57:26Z",
-    "url": "https://github.com/kantik001/grounded-llm"
-  },
-  {
     "description": "An Agentic RAG application built using FastAPI, LangChain.",
     "id": "vikassrivastava18/Socratic-Dialogue-Tutor",
     "language": "Jupyter Notebook",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:54:12Z",
     "url": "https://github.com/vikassrivastava18/Socratic-Dialogue-Tutor"
-  },
-  {
-    "description": "AI-powered medical assistant using WhatsApp, FastAPI, Gemini AI, RAG and Supabase.",
-    "id": "amgadnazar/hotel-ai-whatsapp-agent",
-    "language": "Python",
-    "name": "amgadnazar/hotel-ai-whatsapp-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:57:16Z",
-    "url": "https://github.com/amgadnazar/hotel-ai-whatsapp-agent"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "Rishisharma029/DevIntel-AI",
     "stars": 0,
-    "updated_at": "2026-07-31T14:56:50Z",
+    "updated_at": "2026-07-31T14:59:28Z",
     "url": "https://github.com/Rishisharma029/DevIntel-AI"
   },
   {
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "Obhahie-Praise/v1-examinr.ai-waitlist",
     "stars": 3,
-    "updated_at": "2026-07-31T14:52:26Z",
+    "updated_at": "2026-07-31T14:58:38Z",
     "url": "https://github.com/Obhahie-Praise/v1-examinr.ai-waitlist"
   },
   {
@@ -211,7 +256,7 @@
     "id": "HKUDS/LightRAG",
     "language": "Python",
     "name": "HKUDS/LightRAG",
-    "stars": 38385,
+    "stars": 38386,
     "updated_at": "2026-07-31T14:49:21Z",
     "url": "https://github.com/HKUDS/LightRAG"
   },
@@ -256,7 +301,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 28338,
+    "stars": 28339,
     "updated_at": "2026-07-31T14:47:20Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -306,21 +351,12 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
     "id": "tetherto/qvac",
     "language": "TypeScript",
     "name": "tetherto/qvac",
     "stars": 347,
-    "updated_at": "2026-07-31T14:54:14Z",
+    "updated_at": "2026-07-31T14:59:51Z",
     "url": "https://github.com/tetherto/qvac"
   },
   {
@@ -349,24 +385,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T14:43:36Z",
     "url": "https://github.com/Shravan4598/Revision-Data-Science"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 86519,
-    "updated_at": "2026-07-31T14:43:18Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Local AI Assistant on your phone",
-    "id": "timmyy123/LLM-Hub",
-    "language": "C++",
-    "name": "timmyy123/LLM-Hub",
-    "stars": 522,
-    "updated_at": "2026-07-31T14:42:16Z",
-    "url": "https://github.com/timmyy123/LLM-Hub"
   },
   {
     "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
@@ -430,23 +448,5 @@
     "stars": 143,
     "updated_at": "2026-07-31T14:39:43Z",
     "url": "https://github.com/marcominerva/SqlDatabaseVectorSearch"
-  },
-  {
-    "description": "An AI-powered document analysis application built with Streamlit, Groq LLM, Sentence Transformers, and FAISS. Upload fil",
-    "id": "Vikramsolanki12/llm-document-agent",
-    "language": "Python",
-    "name": "Vikramsolanki12/llm-document-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:39:41Z",
-    "url": "https://github.com/Vikramsolanki12/llm-document-agent"
-  },
-  {
-    "description": "A RAG (Retrieval-Augmented Generation) Agent for the website of a fictional University called Egyptian University in Cai",
-    "id": "Momad-Y/EUC-RAG-Agent",
-    "language": "Jupyter Notebook",
-    "name": "Momad-Y/EUC-RAG-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:39:16Z",
-    "url": "https://github.com/Momad-Y/EUC-RAG-Agent"
   }
 ]
