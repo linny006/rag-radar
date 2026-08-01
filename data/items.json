@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u041c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0439 AI-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0441 \u0434\u043e\u043b\u0433\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u044c\u044e, RAG \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u043d\u0430 \u0431\u0430\u0437\u0435 n8n.",
+    "id": "AlekseyHorjakov/JARVIS",
+    "language": "Python",
+    "name": "AlekseyHorjakov/JARVIS",
+    "stars": 1,
+    "updated_at": "2026-08-01T07:15:09Z",
+    "url": "https://github.com/AlekseyHorjakov/JARVIS"
+  },
+  {
+    "description": "Oh My Workspace \u2014 a company's shared memory. A local client turns your channels into tickets and your solved problems in",
+    "id": "VincentHanxiaoDu/oh-my-workspace",
+    "language": "Go",
+    "name": "VincentHanxiaoDu/oh-my-workspace",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:14:45Z",
+    "url": "https://github.com/VincentHanxiaoDu/oh-my-workspace"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T07:14:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "DocMind AI \u2014 A full-stack RAG document intelligence platform. Upload PDFs/DOCX/TXT, get AI-powered answers with page cit",
+    "id": "vivekjpoojary/docmind-ai",
+    "language": "Python",
+    "name": "vivekjpoojary/docmind-ai",
+    "stars": 0,
+    "updated_at": "2026-08-01T07:14:15Z",
+    "url": "https://github.com/vivekjpoojary/docmind-ai"
+  },
+  {
     "description": "Semantic code searcher and codebase utility",
     "id": "Muvon/octocode",
     "language": "Rust",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T07:12:32Z",
     "url": "https://github.com/vuongdam2k01/sag-agents-plugin"
-  },
-  {
-    "description": "Oh My Workspace \u2014 a company's shared memory. A local client turns your channels into tickets and your solved problems in",
-    "id": "VincentHanxiaoDu/oh-my-workspace",
-    "language": "Go",
-    "name": "VincentHanxiaoDu/oh-my-workspace",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:14:18Z",
-    "url": "https://github.com/VincentHanxiaoDu/oh-my-workspace"
   },
   {
     "description": "",
@@ -135,15 +162,6 @@
     "url": "https://github.com/MorningStar0709/ControlMind"
   },
   {
-    "description": "DocMind AI \u2014 A full-stack RAG document intelligence platform. Upload PDFs/DOCX/TXT, get AI-powered answers with page cit",
-    "id": "vivekjpoojary/docmind-ai",
-    "language": "Python",
-    "name": "vivekjpoojary/docmind-ai",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:14:15Z",
-    "url": "https://github.com/vivekjpoojary/docmind-ai"
-  },
-  {
     "description": "Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolatio",
     "id": "JasonTM17/OpsMind_AI",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T07:05:58Z",
     "url": "https://github.com/JasonTM17/OpsMind_AI"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T07:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -243,6 +252,15 @@
     "url": "https://github.com/memtomem/memtomem"
   },
   {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 86545,
+    "updated_at": "2026-08-01T06:54:25Z",
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
     "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
     "id": "engram-app/Engram",
     "language": "Elixir",
@@ -259,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T06:52:38Z",
     "url": "https://github.com/Onta-Labs/onta-oss"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 86543,
-    "updated_at": "2026-08-01T06:54:25Z",
-    "url": "https://github.com/infiniflow/ragflow"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "wlsdks/muse-agent",
     "stars": 5,
-    "updated_at": "2026-08-01T06:41:30Z",
+    "updated_at": "2026-08-01T07:15:14Z",
     "url": "https://github.com/wlsdks/muse-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T06:35:28Z",
     "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "A zero-to-100 learning path for applied AI engineering \u2014 RAG, embeddings, vector search, agents, MCP, and the production",
-    "id": "karthikreddy-7/ai-engineering-playbook",
-    "language": "HTML",
-    "name": "karthikreddy-7/ai-engineering-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-01T06:35:44Z",
-    "url": "https://github.com/karthikreddy-7/ai-engineering-playbook"
   }
 ]
