@@ -1,5 +1,32 @@
 [
   {
+    "description": "The measurement layer for machine minds. Reads what a model means and whether it holds the truth; certifies every claim ",
+    "id": "fathom-lab/styxx",
+    "language": "Python",
+    "name": "fathom-lab/styxx",
+    "stars": 13,
+    "updated_at": "2026-08-01T17:15:00Z",
+    "url": "https://github.com/fathom-lab/styxx"
+  },
+  {
+    "description": "Agent Runtime Gateway \u00b7 \u5de5\u4e1a\u7ea7 Agent \u7cfb\u7edf\u5b66\u4e60\u4e0e\u6d41\u8f6c\u4eff\u771f\u5e73\u53f0 (Design-only)",
+    "id": "falses00/agent-learning-report",
+    "language": "Python",
+    "name": "falses00/agent-learning-report",
+    "stars": 1,
+    "updated_at": "2026-08-01T17:14:48Z",
+    "url": "https://github.com/falses00/agent-learning-report"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:13:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
     "id": "winstonkoh87/Athena-Public",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 3142,
     "updated_at": "2026-08-01T17:12:50Z",
     "url": "https://github.com/pipeshub-ai/pipeshub-ai"
-  },
-  {
-    "description": "Agent Runtime Gateway \u00b7 \u5de5\u4e1a\u7ea7 Agent \u7cfb\u7edf\u5b66\u4e60\u4e0e\u6d41\u8f6c\u4eff\u771f\u5e73\u53f0 (Design-only)",
-    "id": "falses00/agent-learning-report",
-    "language": "Python",
-    "name": "falses00/agent-learning-report",
-    "stars": 1,
-    "updated_at": "2026-08-01T17:12:27Z",
-    "url": "https://github.com/falses00/agent-learning-report"
   },
   {
     "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
@@ -142,6 +160,15 @@
     "stars": 3,
     "updated_at": "2026-08-01T17:11:54Z",
     "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "RAG system measured, not assumed: from-scratch BM25, pluggable dense retrieval, and a 70-question labelled eval set that",
+    "id": "EK-RON/rag-retrieval-lab",
+    "language": "Python",
+    "name": "EK-RON/rag-retrieval-lab",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:07:56Z",
+    "url": "https://github.com/EK-RON/rag-retrieval-lab"
   },
   {
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
@@ -378,15 +405,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T17:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
     "id": "DanceNitra/agora",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T16:59:53Z",
     "url": "https://github.com/lyhjeremy/wine-pairing-agent"
-  },
-  {
-    "description": "CLI application that implements RAG directly with local LLMs via Ollama. ",
-    "id": "rachithagopinath/local-rag-kit",
-    "language": "Python",
-    "name": "rachithagopinath/local-rag-kit",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:59:21Z",
-    "url": "https://github.com/rachithagopinath/local-rag-kit"
-  },
-  {
-    "description": "AI-powered conversational assistant built with FastAPI, React, PostgreSQL, Ollama, Anthropic Claude, RAG over Lennys Pod",
-    "id": "Maulikaa05/ai_chatbot",
-    "language": "Python",
-    "name": "Maulikaa05/ai_chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:59:16Z",
-    "url": "https://github.com/Maulikaa05/ai_chatbot"
   }
 ]
