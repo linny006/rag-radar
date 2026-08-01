@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udcc4 Serverless MinerU 2.5 Pro PDF parser on RunPod. Scales to zero. PDF \u2192 Markdown + JSON.",
+    "id": "sergeyshmakov/mineru-runpod",
+    "language": "Python",
+    "name": "sergeyshmakov/mineru-runpod",
+    "stars": 5,
+    "updated_at": "2026-08-01T10:59:43Z",
+    "url": "https://github.com/sergeyshmakov/mineru-runpod"
+  },
+  {
+    "description": "Privacy-first local AI built around a stable 2B / 4GB model and responsive CPU use.",
+    "id": "EnchanTheory/Enchan-CLI",
+    "language": "Python",
+    "name": "EnchanTheory/Enchan-CLI",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:58:46Z",
+    "url": "https://github.com/EnchanTheory/Enchan-CLI"
+  },
+  {
+    "description": "An Agentic AI-powered RAG chatbot that uses LangChain, Pinecone vector search, FastAPI, and Streamlit to deliver context",
+    "id": "pratham133/agentic-ai-rag-chatbot",
+    "language": "Python",
+    "name": "pratham133/agentic-ai-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:58:00Z",
+    "url": "https://github.com/pratham133/agentic-ai-rag-chatbot"
+  },
+  {
+    "description": "An Explainable Clinical Decision Support System (X-CDS) using hybrid RAG (Chroma + BM25), Cross-Encoder re-ranking, and ",
+    "id": "Sahil5273/X-CDS",
+    "language": "Python",
+    "name": "Sahil5273/X-CDS",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:57:40Z",
+    "url": "https://github.com/Sahil5273/X-CDS"
+  },
+  {
+    "description": "A meme-first AI chatbot \u2014 LLM intent routing (Claude), ChromaDB RAG retrieval, Pillow image composition, and a Next.js 1",
+    "id": "Moulik04/memegpt",
+    "language": "Python",
+    "name": "Moulik04/memegpt",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:57:03Z",
+    "url": "https://github.com/Moulik04/memegpt"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:56:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-01T10:56:26Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
     "description": "A modular, plugin-based Retrieval-Augmented Generation (RAG) framework for building document-aware AI applications with ",
     "id": "aminturabi/RAGForge",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "VincentHanxiaoDu/oh-my-workspace",
     "stars": 0,
-    "updated_at": "2026-08-01T10:55:42Z",
+    "updated_at": "2026-08-01T10:59:49Z",
     "url": "https://github.com/VincentHanxiaoDu/oh-my-workspace"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T10:54:26Z",
     "url": "https://github.com/Kurapati-Sai-Suhas/SparkLM"
-  },
-  {
-    "description": "A meme-first AI chatbot \u2014 LLM intent routing (Claude), ChromaDB RAG retrieval, Pillow image composition, and a Next.js 1",
-    "id": "Moulik04/memegpt",
-    "language": "Python",
-    "name": "Moulik04/memegpt",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:54:14Z",
-    "url": "https://github.com/Moulik04/memegpt"
   },
   {
     "description": "Verbamind is a production\u2011style Retrieval\u2011Augmented Generation backend (Java 21, Spring Boot) with asynchronous document",
@@ -106,15 +160,6 @@
     "stars": 184,
     "updated_at": "2026-08-01T10:52:33Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "An Explainable Clinical Decision Support System (X-CDS) using hybrid RAG (Chroma + BM25), Cross-Encoder re-ranking, and ",
-    "id": "Sahil5273/X-CDS",
-    "language": "Python",
-    "name": "Sahil5273/X-CDS",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:52:02Z",
-    "url": "https://github.com/Sahil5273/X-CDS"
   },
   {
     "description": "Full-stack AI app generator \u2014 FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ integrations out of the bo",
@@ -180,15 +225,6 @@
     "url": "https://github.com/pwq111111/financial-agent"
   },
   {
-    "description": "\ud83d\udcc4 Serverless MinerU 2.5 Pro PDF parser on RunPod. Scales to zero. PDF \u2192 Markdown + JSON.",
-    "id": "sergeyshmakov/mineru-runpod",
-    "language": "Python",
-    "name": "sergeyshmakov/mineru-runpod",
-    "stars": 5,
-    "updated_at": "2026-08-01T10:49:55Z",
-    "url": "https://github.com/sergeyshmakov/mineru-runpod"
-  },
-  {
     "description": "\u26a1 CLI to Evaluate and Compare RAG systems with RAGAS-style scoring",
     "id": "bevinkatti/rag-harness",
     "language": "Python",
@@ -216,15 +252,6 @@
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
-    "description": "Privacy-first local AI built around a stable 2B / 4GB model and responsive CPU use.",
-    "id": "EnchanTheory/Enchan-CLI",
-    "language": "Python",
-    "name": "EnchanTheory/Enchan-CLI",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:47:44Z",
-    "url": "https://github.com/EnchanTheory/Enchan-CLI"
-  },
-  {
     "description": "",
     "id": "cookyman74/llmwiki-harness",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T10:45:34Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T10:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "a new, general and flexible KB for everything",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T10:33:09Z",
     "url": "https://github.com/Arslan-Codes097/RAG-Assistant-with-Real-Time-Source-Control-Performance-Benchmarking"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 20,
-    "updated_at": "2026-08-01T10:32:30Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system that transforms websites into a searchable knowledge base using P",
-    "id": "Subham-063/webRAG",
-    "language": "JavaScript",
-    "name": "Subham-063/webRAG",
-    "stars": 0,
-    "updated_at": "2026-08-01T10:31:10Z",
-    "url": "https://github.com/Subham-063/webRAG"
   }
 ]
