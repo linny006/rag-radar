@@ -1,5 +1,104 @@
 [
   {
+    "description": "Lightning-fast semantic code search with AST chunking (15+ languages) - Hybrid TF-IDF + Vector, MCP-ready for AI assista",
+    "id": "SylphxAI/coderag",
+    "language": "TypeScript",
+    "name": "SylphxAI/coderag",
+    "stars": 12,
+    "updated_at": "2026-08-01T23:44:49Z",
+    "url": "https://github.com/SylphxAI/coderag"
+  },
+  {
+    "description": "Markdown architectural reiki data",
+    "id": "markdown-arch-bugyo/open-arch-reiki",
+    "language": "\u2014",
+    "name": "markdown-arch-bugyo/open-arch-reiki",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:44:42Z",
+    "url": "https://github.com/markdown-arch-bugyo/open-arch-reiki"
+  },
+  {
+    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
+    "id": "makoy-daniot2001/agent-session-mirror",
+    "language": "HTML",
+    "name": "makoy-daniot2001/agent-session-mirror",
+    "stars": 1,
+    "updated_at": "2026-08-01T23:44:18Z",
+    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
+  },
+  {
+    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
+    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "language": "HTML",
+    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-01T23:44:04Z",
+    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:43:41Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "JavaScript",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-08-01T23:43:23Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-08-01T23:42:32Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation",
+    "id": "guaardvark/guaardvark",
+    "language": "Python",
+    "name": "guaardvark/guaardvark",
+    "stars": 121,
+    "updated_at": "2026-08-01T23:42:31Z",
+    "url": "https://github.com/guaardvark/guaardvark"
+  },
+  {
+    "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, ",
+    "id": "markhuangai/dense-mem",
+    "language": "Go",
+    "name": "markhuangai/dense-mem",
+    "stars": 35,
+    "updated_at": "2026-08-01T23:41:35Z",
+    "url": "https://github.com/markhuangai/dense-mem"
+  },
+  {
+    "description": "Apify actor that cleans and chunks scraped text for RAG and LLM pipelines. Strips HTML, collapses whitespace, splits int",
+    "id": "jordan23wagner-ops/rag-post-processor",
+    "language": "Python",
+    "name": "jordan23wagner-ops/rag-post-processor",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:41:29Z",
+    "url": "https://github.com/jordan23wagner-ops/rag-post-processor"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T23:40:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Provenance-aware memory for AI agents.",
     "id": "veracium-ai/Veracium",
     "language": "Python",
@@ -54,15 +153,6 @@
     "url": "https://github.com/Mullassery/PyStreamPDF"
   },
   {
-    "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation",
-    "id": "guaardvark/guaardvark",
-    "language": "Python",
-    "name": "guaardvark/guaardvark",
-    "stars": 121,
-    "updated_at": "2026-08-01T23:37:37Z",
-    "url": "https://github.com/guaardvark/guaardvark"
-  },
-  {
     "description": "Production-grade document intelligence and grounded RAG over PDF, DOCX, PPTX, XLSX, HTML and Markdown. Hybrid retrieval ",
     "id": "saianthireddy/ai-doctor",
     "language": "Python",
@@ -77,7 +167,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3249,
-    "updated_at": "2026-08-01T23:36:56Z",
+    "updated_at": "2026-08-01T23:42:08Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/Mubder/kazma"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T23:31:11Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "NotebookLab | Your thinking partner, on your machine. Import your documents. Ask questions. Get answers with sources. Wr",
     "id": "Amey-Thakur/NotebookLab",
     "language": "TypeScript",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-01T23:30:30Z",
+    "updated_at": "2026-08-01T23:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "tomyimkc/sophia-agi",
     "stars": 6,
-    "updated_at": "2026-08-01T23:22:07Z",
+    "updated_at": "2026-08-01T23:44:59Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
@@ -239,7 +320,7 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29271,
-    "updated_at": "2026-08-01T23:38:24Z",
+    "updated_at": "2026-08-01T23:44:16Z",
     "url": "https://github.com/simstudioai/sim"
   },
   {
@@ -329,7 +410,7 @@
     "language": "Python",
     "name": "aabu4537/ALAM",
     "stars": 0,
-    "updated_at": "2026-08-01T23:11:10Z",
+    "updated_at": "2026-08-01T23:40:51Z",
     "url": "https://github.com/aabu4537/ALAM"
   },
   {
@@ -356,7 +437,7 @@
     "language": "Rust",
     "name": "XaviCode1000/webfang",
     "stars": 0,
-    "updated_at": "2026-08-01T23:21:18Z",
+    "updated_at": "2026-08-01T23:44:39Z",
     "url": "https://github.com/XaviCode1000/webfang"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T23:07:23Z",
     "url": "https://github.com/cgfixit/Insight_Extractor"
-  },
-  {
-    "description": "The AI engineering kit for DeepSeek. Turn opencode into a team: an orchestrator + 5 specialist agents (research, archite",
-    "id": "Pl3ntz/llmfoundry",
-    "language": "Python",
-    "name": "Pl3ntz/llmfoundry",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:06:10Z",
-    "url": "https://github.com/Pl3ntz/llmfoundry"
-  },
-  {
-    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
-    "id": "xyver/daedal-map",
-    "language": "Python",
-    "name": "xyver/daedal-map",
-    "stars": 2,
-    "updated_at": "2026-08-01T23:04:46Z",
-    "url": "https://github.com/xyver/daedal-map"
-  },
-  {
-    "description": "RAG over SEC EDGAR filings \u2014 hybrid BM25 + dense retrieval with rank fusion and cross-encoder reranking. +75% recall@5 o",
-    "id": "HamzaOuadid/finco",
-    "language": "Python",
-    "name": "HamzaOuadid/finco",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:04:02Z",
-    "url": "https://github.com/HamzaOuadid/finco"
-  },
-  {
-    "description": "Open legal intelligence for Mexico. 30,000+ laws across federal, state, and municipal sources \u00b7 3.5M+ searchable article",
-    "id": "madfam-org/tezca",
-    "language": "Python",
-    "name": "madfam-org/tezca",
-    "stars": 6,
-    "updated_at": "2026-08-01T23:03:39Z",
-    "url": "https://github.com/madfam-org/tezca"
-  },
-  {
-    "description": "Token-efficient MCP doc-router \u2014 one canonical doc per query for your coding agents.",
-    "id": "TsukumoHQ/trovex",
-    "language": "HTML",
-    "name": "TsukumoHQ/trovex",
-    "stars": 6,
-    "updated_at": "2026-08-01T23:01:50Z",
-    "url": "https://github.com/TsukumoHQ/trovex"
-  },
-  {
-    "description": "H\u1ec7 th\u1ed1ng \u0111\u1eb7t m\u00f3n t\u1ea1i b\u00e0n b\u1eb1ng QR c\u00f3 tr\u1ee3 l\u00fd AI \u2014 QR dine-in ordering with AI assistant (React 19 + ASP.NET Core net10 + P",
-    "id": "Anpham120/restaurant-qr-ai-ordering",
-    "language": "Python",
-    "name": "Anpham120/restaurant-qr-ai-ordering",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:23:55Z",
-    "url": "https://github.com/Anpham120/restaurant-qr-ai-ordering"
-  },
-  {
-    "description": "Memory for AI agents with first-class Portuguese and human-like memory dynamics (ACT-R)",
-    "id": "fabiolenine/deepmem0",
-    "language": "Python",
-    "name": "fabiolenine/deepmem0",
-    "stars": 1,
-    "updated_at": "2026-08-01T23:01:38Z",
-    "url": "https://github.com/fabiolenine/deepmem0"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 78,
-    "updated_at": "2026-08-01T23:01:00Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-01T22:59:28Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
