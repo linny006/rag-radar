@@ -1,5 +1,23 @@
 [
   {
+    "description": "Multi-agent literature review pipeline \u2014 upload scientific PDFs, extract themes and claims, generate citation-backed rev",
+    "id": "daviguides/the-saurus",
+    "language": "Python",
+    "name": "daviguides/the-saurus",
+    "stars": 0,
+    "updated_at": "2026-08-01T01:14:54Z",
+    "url": "https://github.com/daviguides/the-saurus"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T01:14:42Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Dynamic Mixture-of-Agents LLM orchestrator that runs 100% locally on 8GB VRAM (Ollama, no API keys).",
     "id": "tomato371/fugu-local",
     "language": "Python",
@@ -117,15 +135,6 @@
     "url": "https://github.com/talalumar/Muwafiq"
   },
   {
-    "description": "Multi-agent literature review pipeline \u2014 upload scientific PDFs, extract themes and claims, generate citation-backed rev",
-    "id": "daviguides/the-saurus",
-    "language": "Python",
-    "name": "daviguides/the-saurus",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:11:10Z",
-    "url": "https://github.com/daviguides/the-saurus"
-  },
-  {
     "description": "Cybersecurity knowledge graph for code review with evidence-backed answers",
     "id": "AQ-Labs/cybergraph",
     "language": "Python",
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T01:00:25Z",
     "url": "https://github.com/rsrijith/joint-failure-rag-eval"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T01:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered academic research platform for paper search, multi-agent reviews, knowledge graphs, and personalized research",
