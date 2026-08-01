@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:34:30Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "Bring-your-own-key desktop app to build custom AI personas, give them personal knowledge bases, chain them into workflow",
+    "id": "Kallamo/Kallamo",
+    "language": "JavaScript",
+    "name": "Kallamo/Kallamo",
+    "stars": 17,
+    "updated_at": "2026-08-01T19:34:22Z",
+    "url": "https://github.com/Kallamo/Kallamo"
+  },
+  {
+    "description": "Obsidian community plugin: your vault as a private, self-hosted NotebookLM alternative. A built-in manager downloads and",
+    "id": "tobocop2/obsidian-lilbee",
+    "language": "TypeScript",
+    "name": "tobocop2/obsidian-lilbee",
+    "stars": 8,
+    "updated_at": "2026-08-01T19:33:58Z",
+    "url": "https://github.com/tobocop2/obsidian-lilbee"
+  },
+  {
+    "description": "Multi-agent RAG over real Amazon reviews: hybrid FAISS+BM25 retrieval with RRF, LangGraph agent pipeline, Gemini structu",
+    "id": "RudranshVyas/shopforge-ai",
+    "language": "Python",
+    "name": "RudranshVyas/shopforge-ai",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:33:44Z",
+    "url": "https://github.com/RudranshVyas/shopforge-ai"
+  },
+  {
+    "description": "AI Travel Planner Agent built with Dify, LLM and RAG for executable travel planning",
+    "id": "clin06585-dev/ai-travel-planner-agent",
+    "language": "\u2014",
+    "name": "clin06585-dev/ai-travel-planner-agent",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:32:48Z",
+    "url": "https://github.com/clin06585-dev/ai-travel-planner-agent"
+  },
+  {
+    "description": "RAG-powered document Q&A with 89% accuracy. Upload PDFs, ask questions, get cited answers. Built with LangChain + Qdrant",
+    "id": "noviciusss/DoCopilot",
+    "language": "Python",
+    "name": "noviciusss/DoCopilot",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:32:41Z",
+    "url": "https://github.com/noviciusss/DoCopilot"
+  },
+  {
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 29261,
+    "updated_at": "2026-08-01T19:32:18Z",
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "description": "A personal operational OS and AI multi-agent orchestration plugin for Obsidian. Features interview-driven onboarding, mu",
+    "id": "scrunchds/Command-Center",
+    "language": "TypeScript",
+    "name": "scrunchds/Command-Center",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:32:11Z",
+    "url": "https://github.com/scrunchds/Command-Center"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (512 questions & 41 RAG types), system design scenarios, archi",
+    "id": "ather-techie/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 112,
+    "updated_at": "2026-08-01T19:31:56Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "Developed a personalized chatbot using RAG + Gemini API, integrated with FastAPI and ChromaDB, and deployed on Render wi",
+    "id": "anikchand461/AkBot",
+    "language": "HTML",
+    "name": "anikchand461/AkBot",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:31:30Z",
+    "url": "https://github.com/anikchand461/AkBot"
+  },
+  {
+    "description": "Local-first AI workspace with pluggable model providers \u2014 chat, agent mode, MCP, local RAG, deep research, model arena, ",
+    "id": "LenSyrudas/syrudas",
+    "language": "Python",
+    "name": "LenSyrudas/syrudas",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:33:45Z",
+    "url": "https://github.com/LenSyrudas/syrudas"
+  },
+  {
+    "description": "AI-powered RAG Document Assistant built using Streamlit, ChromaDB, Sentence Transformers, Cross Encoder and Google Gemin",
+    "id": "abhisheksingh-aipm/ContextIQ-AI-RAG-Assistant",
+    "language": "Python",
+    "name": "abhisheksingh-aipm/ContextIQ-AI-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:31:09Z",
+    "url": "https://github.com/abhisheksingh-aipm/ContextIQ-AI-RAG-Assistant"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 2380,
+    "updated_at": "2026-08-01T19:30:50Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T19:30:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a f",
     "id": "xberg-io/html-to-markdown",
     "language": "HTML",
@@ -36,15 +171,6 @@
     "url": "https://github.com/likope/Building-a-RAG-system"
   },
   {
-    "description": "RAG-powered document Q&A with 89% accuracy. Upload PDFs, ask questions, get cited answers. Built with LangChain + Qdrant",
-    "id": "noviciusss/DoCopilot",
-    "language": "Python",
-    "name": "noviciusss/DoCopilot",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:28:52Z",
-    "url": "https://github.com/noviciusss/DoCopilot"
-  },
-  {
     "description": "dynaprompt: handle your prompts better",
     "id": "mohamed-em2m/dynaprompt",
     "language": "Python",
@@ -68,17 +194,8 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-01T19:27:59Z",
+    "updated_at": "2026-08-01T19:33:37Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 29260,
-    "updated_at": "2026-08-01T19:27:41Z",
-    "url": "https://github.com/simstudioai/sim"
   },
   {
     "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
@@ -97,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-08-01T19:27:08Z",
     "url": "https://github.com/darthzen/ash4d.com"
+  },
+  {
+    "description": "AI-powered conversation analyzer using Local Embeddings + RAG that uncovers texting styles, relationship dynamics, conve",
+    "id": "AmannnMehra/Spill-ai-",
+    "language": "TypeScript",
+    "name": "AmannnMehra/Spill-ai-",
+    "stars": 0,
+    "updated_at": "2026-08-01T19:26:47Z",
+    "url": "https://github.com/AmannnMehra/Spill-ai-"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -133,15 +259,6 @@
     "stars": 15,
     "updated_at": "2026-08-01T19:22:52Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI Travel Planner Agent built with Dify, LLM and RAG for executable travel planning",
-    "id": "clin06585-dev/ai-travel-planner-agent",
-    "language": "\u2014",
-    "name": "clin06585-dev/ai-travel-planner-agent",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:22:38Z",
-    "url": "https://github.com/clin06585-dev/ai-travel-planner-agent"
   },
   {
     "description": "Knowledge Stack developer docs (Mintlify). Guides, concept docs, API reference, and auto-synced SDK docs from ks-sdk-pyt",
@@ -212,7 +329,7 @@
     "language": "Python",
     "name": "SynapseKit/SynapseKit",
     "stars": 21,
-    "updated_at": "2026-08-01T19:20:22Z",
+    "updated_at": "2026-08-01T19:32:40Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
@@ -288,24 +405,6 @@
     "url": "https://github.com/WaterMinh/ai-course-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
     "id": "VINAY7033/docu-query-assistant",
     "language": "HTML",
@@ -320,7 +419,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3249,
-    "updated_at": "2026-08-01T19:18:53Z",
+    "updated_at": "2026-08-01T19:34:09Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 18858,
     "updated_at": "2026-08-01T19:14:13Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-08-01T19:13:27Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "BoxLang AI is a fluent and human way to build AI Agents, Workflows and more",
-    "id": "ortus-boxlang/bx-ai",
-    "language": "Java",
-    "name": "ortus-boxlang/bx-ai",
-    "stars": 15,
-    "updated_at": "2026-08-01T19:21:26Z",
-    "url": "https://github.com/ortus-boxlang/bx-ai"
-  },
-  {
-    "description": "Build, run and scale AI agents like API and microservices",
-    "id": "Agent-Field/agentfield",
-    "language": "Go",
-    "name": "Agent-Field/agentfield",
-    "stars": 2469,
-    "updated_at": "2026-08-01T19:11:15Z",
-    "url": "https://github.com/Agent-Field/agentfield"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 240,
-    "updated_at": "2026-08-01T19:11:14Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "SEC-filings RAG with validated citations + an options implied-volatility engine, unified by a provenance-first brief.",
-    "id": "evanlewis04/financial-filing-market-intelligence",
-    "language": "HTML",
-    "name": "evanlewis04/financial-filing-market-intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:09:56Z",
-    "url": "https://github.com/evanlewis04/financial-filing-market-intelligence"
-  },
-  {
-    "description": "Self-hosted AI company OS for solo founders: autonomous agents, ERPNext business memory, and owner-visible governance.",
-    "id": "Hyper-AI-Lab/cyber-ai-team",
-    "language": "Python",
-    "name": "Hyper-AI-Lab/cyber-ai-team",
-    "stars": 5,
-    "updated_at": "2026-08-01T19:09:16Z",
-    "url": "https://github.com/Hyper-AI-Lab/cyber-ai-team"
-  },
-  {
-    "description": "Verbamind is a production\u2011style Retrieval\u2011Augmented Generation backend (Java 21, Spring Boot) with asynchronous document",
-    "id": "Akashbabu07/verbamind",
-    "language": "Java",
-    "name": "Akashbabu07/verbamind",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:10:18Z",
-    "url": "https://github.com/Akashbabu07/verbamind"
-  },
-  {
-    "description": "\u81fa\u7063\u4e0a\u5e02\u516c\u53f8\u516c\u958b\u6587\u4ef6\uff08MOPS PDF \uff0b TWSE OpenAPI\uff09\u7684 multimodal filing intelligence \u53ef\u884c\u6027\u9a57\u8b49\u3002\u6578\u503c\u8d70 deterministic SQL \u800c\u975e\u8b93 LLM \u731c;GO\uff0fNO-GO \u9580\u6abb\u4e8b\u524d\u51cd",
-    "id": "kuotunyu/tw-filing-intelligence",
-    "language": "Python",
-    "name": "kuotunyu/tw-filing-intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:07:38Z",
-    "url": "https://github.com/kuotunyu/tw-filing-intelligence"
-  },
-  {
-    "description": "Persistent memory & RAG engine for AI agents \u2014 SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi-",
-    "id": "aksika/abmind",
-    "language": "TypeScript",
-    "name": "aksika/abmind",
-    "stars": 20,
-    "updated_at": "2026-08-01T19:06:36Z",
-    "url": "https://github.com/aksika/abmind"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting + document notebook \u2014 on-device Whisper transcription, source-linked notes, @brain and his",
-    "id": "murmur-io/murmur",
-    "language": "Rust",
-    "name": "murmur-io/murmur",
-    "stars": 6,
-    "updated_at": "2026-08-01T19:06:04Z",
-    "url": "https://github.com/murmur-io/murmur"
-  },
-  {
-    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
-    "id": "XaviCode1000/webfang",
-    "language": "Rust",
-    "name": "XaviCode1000/webfang",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:12:44Z",
-    "url": "https://github.com/XaviCode1000/webfang"
   }
 ]
