@@ -1,5 +1,77 @@
 [
   {
+    "description": "RAG over the vLLM codebase \u2014 BM25 + dense MiniLM embeddings, RRF hybrid fusion, AST chunking, Qwen3-0.6B grounded answer",
+    "id": "Sabofxx/rag-against-the-machine",
+    "language": "Python",
+    "name": "Sabofxx/rag-against-the-machine",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:59:56Z",
+    "url": "https://github.com/Sabofxx/rag-against-the-machine"
+  },
+  {
+    "description": "HireMind AI is an enterprise-grade Career Intelligence Operating System featuring deterministic ATS scoring, FAISS-based",
+    "id": "shambhushekharsinha-engg/HireMind-AI",
+    "language": "Python",
+    "name": "shambhushekharsinha-engg/HireMind-AI",
+    "stars": 1,
+    "updated_at": "2026-08-01T14:59:51Z",
+    "url": "https://github.com/shambhushekharsinha-engg/HireMind-AI"
+  },
+  {
+    "description": "42 School Luxembourg \u2014 Piscine + Common Core (C completed, advanced Python: LLM, RAG, networking) + Python Modules + Exa",
+    "id": "Sabofxx/42",
+    "language": "Python",
+    "name": "Sabofxx/42",
+    "stars": 10,
+    "updated_at": "2026-08-01T14:59:39Z",
+    "url": "https://github.com/Sabofxx/42"
+  },
+  {
+    "description": "Offline AI assistant - chat with your documents locally. No cloud, no API key, no data leaks. Built with Python + FastAP",
+    "id": "imDarshanGK/localmind",
+    "language": "JavaScript",
+    "name": "imDarshanGK/localmind",
+    "stars": 11,
+    "updated_at": "2026-08-01T14:59:11Z",
+    "url": "https://github.com/imDarshanGK/localmind"
+  },
+  {
+    "description": "Next.js AI tutor with FastAPI and Supabase. Upload PDFs and URLs to generate structured summaries, multi-session chat, a",
+    "id": "Hamdy005/Study-Buddy",
+    "language": "TypeScript",
+    "name": "Hamdy005/Study-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:59:09Z",
+    "url": "https://github.com/Hamdy005/Study-Buddy"
+  },
+  {
+    "description": "Privacy-first local LLM chat app with RAG memory, AI agents, multi-model orchestration, WhatsApp integration & E2E-encry",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 5,
+    "updated_at": "2026-08-01T14:59:08Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "FastAPI toolkit for Woccon (Eastern Siouan, 1709): LLM chat, RAG, Messenger bot, Drive ingest, and Azure Foundry deploym",
+    "id": "austinserio/WocconWaker",
+    "language": "Python",
+    "name": "austinserio/WocconWaker",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:57:27Z",
+    "url": "https://github.com/austinserio/WocconWaker"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T14:57:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Modern Ticket Management System built with .NET 10, Blazor, Clean Architecture, SQL Server and AI (RAG, MCP, Qdrant).",
     "id": "brahimusgmail/TicketingAI",
     "language": "C#",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "mem0ai/mem0",
     "stars": 62255,
-    "updated_at": "2026-08-01T14:56:46Z",
+    "updated_at": "2026-08-01T15:00:03Z",
     "url": "https://github.com/mem0ai/mem0"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 43,
     "updated_at": "2026-08-01T14:56:03Z",
     "url": "https://github.com/EllisMorrow/Caelune"
-  },
-  {
-    "description": "HireMind AI is an enterprise-grade Career Intelligence Operating System featuring deterministic ATS scoring, FAISS-based",
-    "id": "shambhushekharsinha-engg/HireMind-AI",
-    "language": "Python",
-    "name": "shambhushekharsinha-engg/HireMind-AI",
-    "stars": 1,
-    "updated_at": "2026-08-01T14:55:27Z",
-    "url": "https://github.com/shambhushekharsinha-engg/HireMind-AI"
   },
   {
     "description": "Spatial intelligence workstation \u2014 47 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 8-phase mult",
@@ -124,24 +187,6 @@
     "stars": 20,
     "updated_at": "2026-08-01T14:54:20Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "Next.js AI tutor with FastAPI and Supabase. Upload PDFs and URLs to generate structured summaries, multi-session chat, a",
-    "id": "Hamdy005/Study-Buddy",
-    "language": "TypeScript",
-    "name": "Hamdy005/Study-Buddy",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:50:42Z",
-    "url": "https://github.com/Hamdy005/Study-Buddy"
-  },
-  {
-    "description": "RAG over the vLLM codebase \u2014 BM25 + dense MiniLM embeddings, RRF hybrid fusion, AST chunking, Qwen3-0.6B grounded answer",
-    "id": "Sabofxx/rag-against-the-machine",
-    "language": "Python",
-    "name": "Sabofxx/rag-against-the-machine",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:49:46Z",
-    "url": "https://github.com/Sabofxx/rag-against-the-machine"
   },
   {
     "description": "Autonomous Deep-research agent and discovery platform for the Y Combinator ecosystem, turning public YC data into struct",
@@ -243,15 +288,6 @@
     "url": "https://github.com/hemkesh2021-dotcom/AEGIS-complaint-resolution"
   },
   {
-    "description": "42 School Luxembourg \u2014 Piscine + Common Core (C completed, advanced Python: LLM, RAG, networking) + Python Modules + Exa",
-    "id": "Sabofxx/42",
-    "language": "Python",
-    "name": "Sabofxx/42",
-    "stars": 10,
-    "updated_at": "2026-08-01T14:46:30Z",
-    "url": "https://github.com/Sabofxx/42"
-  },
-  {
     "description": "RAG chatbot for cocktail recipes: FastAPI + LangChain + FAISS vector search over a cocktail knowledge base",
     "id": "sergiyclas/cocktail-rag-chatbot",
     "language": "Python",
@@ -259,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T14:45:53Z",
     "url": "https://github.com/sergiyclas/cocktail-rag-chatbot"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T14:45:53Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Privacy-first local AI built around a stable 2B / 4GB model and responsive CPU use.",
@@ -310,7 +337,7 @@
     "id": "Graphify-Labs/graphify",
     "language": "Python",
     "name": "Graphify-Labs/graphify",
-    "stars": 100057,
+    "stars": 100059,
     "updated_at": "2026-08-01T14:44:12Z",
     "url": "https://github.com/Graphify-Labs/graphify"
   },
@@ -421,32 +448,5 @@
     "stars": 111,
     "updated_at": "2026-08-01T14:54:15Z",
     "url": "https://github.com/Vasallo94/ObsidianRAG"
-  },
-  {
-    "description": "Multi-tenant website chatbot SaaS \u2014 RAG chatbot widget for businesses, trained only on their own site content.",
-    "id": "irazaahmed/cs-chatbot",
-    "language": "TypeScript",
-    "name": "irazaahmed/cs-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:40:53Z",
-    "url": "https://github.com/irazaahmed/cs-chatbot"
-  },
-  {
-    "description": "The measurement layer for machine minds. Reads what a model means and whether it holds the truth; certifies every claim ",
-    "id": "fathom-lab/styxx",
-    "language": "Python",
-    "name": "fathom-lab/styxx",
-    "stars": 13,
-    "updated_at": "2026-08-01T14:40:44Z",
-    "url": "https://github.com/fathom-lab/styxx"
-  },
-  {
-    "description": "Unified Agentic AI and Business Intelligence Platform",
-    "id": "AgentSwarms-fyi/agentswarms",
-    "language": "TypeScript",
-    "name": "AgentSwarms-fyi/agentswarms",
-    "stars": 22,
-    "updated_at": "2026-08-01T14:39:56Z",
-    "url": "https://github.com/AgentSwarms-fyi/agentswarms"
   }
 ]
