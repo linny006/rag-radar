@@ -1,15 +1,123 @@
 [
   {
+    "description": "VisualRAG is a multi-modal AI pipeline that lets you:  Index images \u2014 YOLOv8 detects objects; CLIP encodes each image in",
+    "id": "Faraz6180/VisualRAG",
+    "language": "\u2014",
+    "name": "Faraz6180/VisualRAG",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:01:54Z",
+    "url": "https://github.com/Faraz6180/VisualRAG"
+  },
+  {
+    "description": "MCP server giving AI agents persistent memory: Markdown files as source of truth, hybrid BM25 + embedding search, typed ",
+    "id": "veronchenko/engram-memory",
+    "language": "Python",
+    "name": "veronchenko/engram-memory",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:01:25Z",
+    "url": "https://github.com/veronchenko/engram-memory"
+  },
+  {
+    "description": "Local-first natural-language analytics. Ask questions about your spreadsheets and documents in plain English - answered ",
+    "id": "AbhishekSS2709/SLM",
+    "language": "Python",
+    "name": "AbhishekSS2709/SLM",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:01:15Z",
+    "url": "https://github.com/AbhishekSS2709/SLM"
+  },
+  {
+    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 10",
+    "id": "xberg-io/xberg",
+    "language": "Rust",
+    "name": "xberg-io/xberg",
+    "stars": 8727,
+    "updated_at": "2026-08-01T16:00:58Z",
+    "url": "https://github.com/xberg-io/xberg"
+  },
+  {
+    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
+    "id": "oigrex666/mcp-context-chronicler",
+    "language": "HTML",
+    "name": "oigrex666/mcp-context-chronicler",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:00:58Z",
+    "url": "https://github.com/oigrex666/mcp-context-chronicler"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:00:52Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Evidence-first legal QA system \u2014 300+ DIFC documents, 16 retrieval experiments, 87.5% rejected after ablation. LangGraph",
+    "id": "chernistry/shafi",
+    "language": "Python",
+    "name": "chernistry/shafi",
+    "stars": 4,
+    "updated_at": "2026-08-01T16:00:51Z",
+    "url": "https://github.com/chernistry/shafi"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-01T16:00:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Official documentation for Starcat, covering setup, GitHub Stars management, AI features, RAG knowledge base, integratio",
+    "id": "starcat-app/starcat-docs",
+    "language": "MDX",
+    "name": "starcat-app/starcat-docs",
+    "stars": 0,
+    "updated_at": "2026-08-01T16:00:32Z",
+    "url": "https://github.com/starcat-app/starcat-docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-01T16:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Personal unified memory system for AI agents. SQLite-backed, local-first, hybrid RAG retrieval with MCP integration.",
+    "id": "shawnhack/exocortex",
+    "language": "TypeScript",
+    "name": "shawnhack/exocortex",
+    "stars": 1,
+    "updated_at": "2026-08-01T16:00:16Z",
+    "url": "https://github.com/shawnhack/exocortex"
+  },
+  {
     "description": "\u67b6\u7a7a\u306e\u30a2\u30d7\u30ea\u30b9\u30c8\u30a2\u3092\u901a\u3058\u3066\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3092\u7d39\u4ecb\u3059\u308bWeb\u30a2\u30d7\u30ea\uff08EC2 Paused\uff09",
     "id": "Yucco-K/showcase",
     "language": "TypeScript",
     "name": "Yucco-K/showcase",
     "stars": 0,
-    "updated_at": "2026-08-01T15:59:57Z",
+    "updated_at": "2026-08-01T16:01:25Z",
     "url": "https://github.com/Yucco-K/showcase"
   },
   {
-    "description": "AI-powered Medical Chatbot using Flask, LangChain, HuggingFace, and LLMs for intelligent healthcare assistance.",
+    "description": "Intelligent medical document assistant built with Flask, LangChain, Hugging Face embeddings & deployment, Pinecone as Ve",
     "id": "ARJUN-AIML/Medical-Chat-Bot-With-Langchain",
     "language": "CSS",
     "name": "ARJUN-AIML/Medical-Chat-Bot-With-Langchain",
@@ -79,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T15:57:46Z",
     "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 10",
-    "id": "xberg-io/xberg",
-    "language": "Rust",
-    "name": "xberg-io/xberg",
-    "stars": 8727,
-    "updated_at": "2026-08-01T15:57:01Z",
-    "url": "https://github.com/xberg-io/xberg"
   },
   {
     "description": "Provenance-aware memory for AI agents.",
@@ -342,15 +441,6 @@
     "url": "https://github.com/psyb0t/offgrid-tools"
   },
   {
-    "description": "Local-first natural-language analytics. Ask questions about your spreadsheets and documents in plain English - answered ",
-    "id": "AbhishekSS2709/SLM",
-    "language": "Python",
-    "name": "AbhishekSS2709/SLM",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:46:59Z",
-    "url": "https://github.com/AbhishekSS2709/SLM"
-  },
-  {
     "description": "Personal portfolio for Amir Sadat, a prompt engineer and AI systems builder \u2014 includes a live, real OpenAI-backed RAG Q&",
     "id": "amirsadat1980-lgtm/amirportfolio",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T15:46:52Z",
     "url": "https://github.com/amirsadat1980-lgtm/amirportfolio"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 6,
-    "updated_at": "2026-08-01T15:55:47Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-01T15:45:38Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-01T15:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-01T15:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "RAG over the vLLM codebase \u2014 BM25 + dense MiniLM embeddings, RRF hybrid fusion, AST chunking, Qwen3-0.6B grounded answer",
-    "id": "Sabofxx/rag-against-the-machine",
-    "language": "Python",
-    "name": "Sabofxx/rag-against-the-machine",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:44:34Z",
-    "url": "https://github.com/Sabofxx/rag-against-the-machine"
-  },
-  {
-    "description": "42 Luxembourg \u2014 Piscine and Common Core. C, Python (LLM / RAG / information-retrieval branch), Go networking, Docker inf",
-    "id": "Sabofxx/42",
-    "language": "Python",
-    "name": "Sabofxx/42",
-    "stars": 9,
-    "updated_at": "2026-08-01T15:44:19Z",
-    "url": "https://github.com/Sabofxx/42"
-  },
-  {
-    "description": "Self-hostable email for humans and agents on Cloudflare: send, receive, search, MCP, IMAP, and webmail.",
-    "id": "skyphusion-labs/postern",
-    "language": "TypeScript",
-    "name": "skyphusion-labs/postern",
-    "stars": 4,
-    "updated_at": "2026-08-01T15:43:17Z",
-    "url": "https://github.com/skyphusion-labs/postern"
-  },
-  {
-    "description": "Agentic AI banking assistant with LangGraph multi-agent workflows, CockroachDB vector search, durable checkpointing, rec",
-    "id": "cockroachlabs-field/banko-ai-assistant",
-    "language": "JavaScript",
-    "name": "cockroachlabs-field/banko-ai-assistant",
-    "stars": 3,
-    "updated_at": "2026-08-01T15:42:02Z",
-    "url": "https://github.com/cockroachlabs-field/banko-ai-assistant"
-  },
-  {
-    "description": "[ENG]  OpenAI-compatible Context Proxy combining SQL, vector search and plugins for LLMs. [DEU] Brainagent ist ein OpenA",
-    "id": "o-valo/brainagent",
-    "language": "Python",
-    "name": "o-valo/brainagent",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:42:00Z",
-    "url": "https://github.com/o-valo/brainagent"
-  },
-  {
-    "description": "RAG evaluation harness on Brazilian central-bank (BACEN) Copom minutes: hybrid retrieval with reranking, measured ablati",
-    "id": "rmonteiro-pereira/rag-eval",
-    "language": "Python",
-    "name": "rmonteiro-pereira/rag-eval",
-    "stars": 0,
-    "updated_at": "2026-08-01T15:41:56Z",
-    "url": "https://github.com/rmonteiro-pereira/rag-eval"
   }
 ]
