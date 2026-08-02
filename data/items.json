@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "rhaffle87/scrAPE",
     "stars": 0,
-    "updated_at": "2026-08-02T16:26:34Z",
+    "updated_at": "2026-08-02T16:29:53Z",
     "url": "https://github.com/rhaffle87/scrAPE"
+  },
+  {
+    "description": "Production-ready Enterprise Document Intelligence Platform using OCR, LLMs, RAG, FastAPI, PostgreSQL, Qdrant, Docker and",
+    "id": "reubx03/Enterprise-Document-Intelligence",
+    "language": "Python",
+    "name": "reubx03/Enterprise-Document-Intelligence",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:29:07Z",
+    "url": "https://github.com/reubx03/Enterprise-Document-Intelligence"
+  },
+  {
+    "description": "Personalised notification triage: decides which messages interrupt you, which wait, and which are suppressed. Retrieval-",
+    "id": "siddanth-6365/attention-router",
+    "language": "Python",
+    "name": "siddanth-6365/attention-router",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:28:52Z",
+    "url": "https://github.com/siddanth-6365/attention-router"
+  },
+  {
+    "description": "Persistent memory layer for AI agent swarms. Postgres-backed retrieval, Markdown as source of truth, sub-second cascade ",
+    "id": "m1k-rsch/corti",
+    "language": "Python",
+    "name": "m1k-rsch/corti",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:28:40Z",
+    "url": "https://github.com/m1k-rsch/corti"
+  },
+  {
+    "description": "Open-source AI customer service: FAQ + document RAG, hybrid retrieval, knowledge feedback loop, admin console, evals and",
+    "id": "Rcloudso/smart-customer-service-ai",
+    "language": "TypeScript",
+    "name": "Rcloudso/smart-customer-service-ai",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:28:37Z",
+    "url": "https://github.com/Rcloudso/smart-customer-service-ai"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:28:26Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:28:15Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "An Explainable Clinical Decision Support System (X-CDS) using hybrid RAG (Chroma + BM25), Cross-Encoder re-ranking, and ",
+    "id": "Sahil5273/X-CDS",
+    "language": "Python",
+    "name": "Sahil5273/X-CDS",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:28:09Z",
+    "url": "https://github.com/Sahil5273/X-CDS"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-08-02T16:27:58Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Fluent, composable text chunking for .NET - Splits documents into token-bounded chunks for RAG, embeddings and search in",
+    "id": "carlos-lopez-tech/FluentChunker",
+    "language": "C#",
+    "name": "carlos-lopez-tech/FluentChunker",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:27:37Z",
+    "url": "https://github.com/carlos-lopez-tech/FluentChunker"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:27:37Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Personal tech blog, portfolio, and AI chatbot \u2014 built with Next.js 15, Nuartz, and LangGraph",
@@ -41,17 +131,8 @@
     "language": "Python",
     "name": "weby-homelab/AI-HOMELAB",
     "stars": 6,
-    "updated_at": "2026-08-02T16:25:56Z",
+    "updated_at": "2026-08-02T16:29:09Z",
     "url": "https://github.com/weby-homelab/AI-HOMELAB"
-  },
-  {
-    "description": "Personalised notification triage: decides which messages interrupt you, which wait, and which are suppressed. Retrieval-",
-    "id": "siddanth-6365/attention-router",
-    "language": "Python",
-    "name": "siddanth-6365/attention-router",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:25:26Z",
-    "url": "https://github.com/siddanth-6365/attention-router"
   },
   {
     "description": "RAG pipeline over Chinese-language lecture video: faster-whisper transcription -> BGE-M3 embeddings -> pgvector semantic",
@@ -79,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:24:37Z",
     "url": "https://github.com/Tahseen-gh/rag-agent-evals"
+  },
+  {
+    "description": "AI-powered semantic product search agent using Voyage AI embeddings, pgvector cosine similarity, and Anthropic Claude \u2014 ",
+    "id": "aadeshmahesh/site-search-agent",
+    "language": "JavaScript",
+    "name": "aadeshmahesh/site-search-agent",
+    "stars": 1,
+    "updated_at": "2026-08-02T16:24:18Z",
+    "url": "https://github.com/aadeshmahesh/site-search-agent"
   },
   {
     "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
@@ -112,18 +202,9 @@
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
-    "stars": 18874,
+    "stars": 18875,
     "updated_at": "2026-08-02T16:22:58Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Production-ready Enterprise Document Intelligence Platform using OCR, LLMs, RAG, FastAPI, PostgreSQL, Qdrant, Docker and",
-    "id": "reubx03/Enterprise-Document-Intelligence",
-    "language": "Python",
-    "name": "reubx03/Enterprise-Document-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:22:18Z",
-    "url": "https://github.com/reubx03/Enterprise-Document-Intelligence"
   },
   {
     "description": "Unified Agentic AI and Business Intelligence Platform",
@@ -176,7 +257,7 @@
     "language": "C#",
     "name": "Krzysztof318/MailFathom",
     "stars": 0,
-    "updated_at": "2026-08-02T16:21:10Z",
+    "updated_at": "2026-08-02T16:28:18Z",
     "url": "https://github.com/Krzysztof318/MailFathom"
   },
   {
@@ -315,15 +396,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:13:57Z",
     "url": "https://github.com/Bogbra/ai-dev-portfolio"
-  },
-  {
-    "description": "Cloudflare AI Search toolkit: MCP server, streaming /ask Worker, docs widget, and git-to-R2 corpus sync. AGPL.",
-    "id": "skyphusion-labs/search-mcp",
-    "language": "JavaScript",
-    "name": "skyphusion-labs/search-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:13:42Z",
-    "url": "https://github.com/skyphusion-labs/search-mcp"
-  },
-  {
-    "description": "Fully local RAG chatbot - FastAPI + Ollama + ChromaDB with hybrid BM25/vector retrieval (RRF), React frontend, streamed ",
-    "id": "Sricharan1105/srychat-rag",
-    "language": "JavaScript",
-    "name": "Sricharan1105/srychat-rag",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:13:27Z",
-    "url": "https://github.com/Sricharan1105/srychat-rag"
-  },
-  {
-    "description": "A predictive AI learning platform helping students and institutions prepare smarter through intelligent study sessions, ",
-    "id": "Obhahie-Praise/v1-examinr.ai-waitlist",
-    "language": "TypeScript",
-    "name": "Obhahie-Praise/v1-examinr.ai-waitlist",
-    "stars": 3,
-    "updated_at": "2026-08-02T16:12:55Z",
-    "url": "https://github.com/Obhahie-Praise/v1-examinr.ai-waitlist"
-  },
-  {
-    "description": "Local code intelligence MCP server and CLI for AI coding agents",
-    "id": "bartolli/codanna",
-    "language": "Rust",
-    "name": "bartolli/codanna",
-    "stars": 716,
-    "updated_at": "2026-08-02T16:12:51Z",
-    "url": "https://github.com/bartolli/codanna"
-  },
-  {
-    "description": "Privacy-first AI novel writing IDE. Full workflow: outline\u2192draft\u2192review\u2192finalize. Local RAG + multi-model routing. GPL-3",
-    "id": "LunaRime/novelforge",
-    "language": "TypeScript",
-    "name": "LunaRime/novelforge",
-    "stars": 5,
-    "updated_at": "2026-08-02T16:14:12Z",
-    "url": "https://github.com/LunaRime/novelforge"
-  },
-  {
-    "description": "Production-grade document intelligence and grounded RAG over PDF, DOCX, PPTX, XLSX, HTML and Markdown. Hybrid retrieval ",
-    "id": "saianthireddy/ai-doctor",
-    "language": "Python",
-    "name": "saianthireddy/ai-doctor",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:12:17Z",
-    "url": "https://github.com/saianthireddy/ai-doctor"
-  },
-  {
-    "description": "\u6d3b\u4e66 huoshu \u2014 \u628a\u6559\u6750\u53d8\u6210\u53ef\u4ea4\u4e92\u77e5\u8bc6\u56fe\u8c31\u7684 AI \u81ea\u5b66\u5de5\u5177\uff1a\u77e5\u8bc6\u56fe\u8c31\u53ef\u89c6\u5316 \u00d7 Socratic \u6559\u5b66 \u00d7 RAG \u6559\u6750\u68c0\u7d22 \u00d7 \u95f4\u9694\u590d\u4e60 | Turn textbooks into navigable knowledge grap",
-    "id": "MXC-CKK/huoshu",
-    "language": "Python",
-    "name": "MXC-CKK/huoshu",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:11:19Z",
-    "url": "https://github.com/MXC-CKK/huoshu"
-  },
-  {
-    "description": "Internal AI platform: routing, evals, RAG, agents, and MCP that products plug into. Hybrid embeddable core plus control ",
-    "id": "nikjain15/conduit",
-    "language": "TypeScript",
-    "name": "nikjain15/conduit",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:11:13Z",
-    "url": "https://github.com/nikjain15/conduit"
   }
 ]
