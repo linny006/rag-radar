@@ -1,11 +1,137 @@
 [
   {
+    "description": "Principal-architect multi-agent OS \u2014 LangGraph, RAG, Langfuse, Slack/Telegram/WhatsApp delivery",
+    "id": "vpeetla-ai/venkat-ai-platform",
+    "language": "Python",
+    "name": "vpeetla-ai/venkat-ai-platform",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:50:52Z",
+    "url": "https://github.com/vpeetla-ai/venkat-ai-platform"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-02T20:50:38Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A RAG app to breakdown complex technical documents ",
+    "id": "Kaynaaf/NanoRAG",
+    "language": "Python",
+    "name": "Kaynaaf/NanoRAG",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:50:15Z",
+    "url": "https://github.com/Kaynaaf/NanoRAG"
+  },
+  {
+    "description": "Production-oriented AI notification router combining multimodal understanding, personalized context, hybrid retrieval, e",
+    "id": "kpatc/multimodal-notification-router",
+    "language": "Python",
+    "name": "kpatc/multimodal-notification-router",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:49:54Z",
+    "url": "https://github.com/kpatc/multimodal-notification-router"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12776,
+    "updated_at": "2026-08-02T20:49:33Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Nigeria-aware petroleum-engineering AI: fine-tuned Qwen3 (8B/32B) models plus a citation-grounded, self-updating RAG ass",
+    "id": "Mystique1337/naija-petro",
+    "language": "Jupyter Notebook",
+    "name": "Mystique1337/naija-petro",
+    "stars": 1,
+    "updated_at": "2026-08-02T20:49:12Z",
+    "url": "https://github.com/Mystique1337/naija-petro"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 143239,
+    "updated_at": "2026-08-02T20:48:43Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "Rag & Ai Pipelines Project Template And Scaffolding VS Code extension \u2014 instant insights without breaking your focus.",
+    "id": "ncreighton/rag--ai-pipelines-project-template-and-scaffolding-vs-code-extension",
+    "language": "\u2014",
+    "name": "ncreighton/rag--ai-pipelines-project-template-and-scaffolding-vs-code-extension",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:47:31Z",
+    "url": "https://github.com/ncreighton/rag--ai-pipelines-project-template-and-scaffolding-vs-code-extension"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:47:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deep learning implementations (ANN, CNN, RNN, LSTM, Transfer Learning) with a RAG-based document Q&A chatbot supporting ",
+    "id": "SameerAhmedAI/DL-RAG-toolkit",
+    "language": "Python",
+    "name": "SameerAhmedAI/DL-RAG-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:46:37Z",
+    "url": "https://github.com/SameerAhmedAI/DL-RAG-toolkit"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3250,
+    "updated_at": "2026-08-02T20:46:32Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:45:53Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Durable hybrid memory for AI agents: vector + BM25 + temporal + graph recall, exposed through MCP, HTTP, and Python.",
     "id": "udjin-labs/mnemostack",
     "language": "Python",
     "name": "udjin-labs/mnemostack",
     "stars": 6,
-    "updated_at": "2026-08-02T20:44:57Z",
+    "updated_at": "2026-08-02T20:49:52Z",
     "url": "https://github.com/udjin-labs/mnemostack"
   },
   {
@@ -131,26 +257,8 @@
     "language": "C#",
     "name": "EvotecIT/OfficeIMO",
     "stars": 496,
-    "updated_at": "2026-08-02T20:41:55Z",
+    "updated_at": "2026-08-02T20:48:03Z",
     "url": "https://github.com/EvotecIT/OfficeIMO"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3250,
-    "updated_at": "2026-08-02T20:42:59Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "Production-oriented AI notification router combining multimodal understanding, personalized context, hybrid retrieval, e",
-    "id": "kpatc/multimodal-notification-router",
-    "language": "Python",
-    "name": "kpatc/multimodal-notification-router",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:40:41Z",
-    "url": "https://github.com/kpatc/multimodal-notification-router"
   },
   {
     "description": "Route dev tasks through tool (rg/jq - rust) \u2192 python \u2192 ollama (cheap llm) \u2192 RAG before escalating to Cursor (expencive l",
@@ -158,7 +266,7 @@
     "language": "Python",
     "name": "svasenkov/greedy-token",
     "stars": 4,
-    "updated_at": "2026-08-02T20:40:25Z",
+    "updated_at": "2026-08-02T20:47:19Z",
     "url": "https://github.com/svasenkov/greedy-token"
   },
   {
@@ -187,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T20:39:47Z",
     "url": "https://github.com/rodneytals/Apple-10k-advanced-rag-project"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 143239,
-    "updated_at": "2026-08-02T20:41:36Z",
-    "url": "https://github.com/langchain-ai/langchain"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -315,15 +414,6 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Deep learning implementations (ANN, CNN, RNN, LSTM, Transfer Learning) with a RAG-based document Q&A chatbot supporting ",
-    "id": "SameerAhmedAI/DL-RAG-toolkit",
-    "language": "Python",
-    "name": "SameerAhmedAI/DL-RAG-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:31:38Z",
-    "url": "https://github.com/SameerAhmedAI/DL-RAG-toolkit"
-  },
-  {
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
     "id": "vitali87/code-graph-rag",
     "language": "Python",
@@ -342,24 +432,6 @@
     "url": "https://github.com/cidade360/mneme-memory-forge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T20:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T20:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Perfil de GitHub \u2014 Farid Enrique Jimenez Campo \u00b7 AI Engineer, Data Scientist, Full Stack Developer",
     "id": "dirafweb/dirafweb",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 34964,
     "updated_at": "2026-08-02T20:28:55Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "An inspectable, learning-by-doing corpus workbench for trustworthy and reversible document preparation before downstream",
-    "id": "jameswei/tiny-corpus-workbench",
-    "language": "Python",
-    "name": "jameswei/tiny-corpus-workbench",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:29:06Z",
-    "url": "https://github.com/jameswei/tiny-corpus-workbench"
-  },
-  {
-    "description": "Typed building blocks for everything around your LLM call.",
-    "id": "use-crux/crux",
-    "language": "TypeScript",
-    "name": "use-crux/crux",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:27:37Z",
-    "url": "https://github.com/use-crux/crux"
-  },
-  {
-    "description": "RAG Knowledge Assistant \u2014 FastAPI + Chroma hybrid retrieval (BM25+dense) Q&A with citations, eval harness, Docker",
-    "id": "adityashirsatrao007/rag-knowledge-assistant",
-    "language": "Python",
-    "name": "adityashirsatrao007/rag-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:26:55Z",
-    "url": "https://github.com/adityashirsatrao007/rag-knowledge-assistant"
-  },
-  {
-    "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
-    "id": "jrhahn/ai-trainer",
-    "language": "Python",
-    "name": "jrhahn/ai-trainer",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:26:34Z",
-    "url": "https://github.com/jrhahn/ai-trainer"
-  },
-  {
-    "description": "MCP-native shared memory for Claude Code agents \u2014 hybrid BM25+vector+RRF recall, cross-session continuity, cognitive sco",
-    "id": "gregdigittal/depthfusion",
-    "language": "Python",
-    "name": "gregdigittal/depthfusion",
-    "stars": 3,
-    "updated_at": "2026-08-02T20:43:48Z",
-    "url": "https://github.com/gregdigittal/depthfusion"
-  },
-  {
-    "description": "From the Roots to the Fruits ! ",
-    "id": "frootai/frootai",
-    "language": "JavaScript",
-    "name": "frootai/frootai",
-    "stars": 7,
-    "updated_at": "2026-08-02T20:28:06Z",
-    "url": "https://github.com/frootai/frootai"
-  },
-  {
-    "description": "Provenance-aware memory for AI agents.",
-    "id": "veracium-ai/Veracium",
-    "language": "Python",
-    "name": "veracium-ai/Veracium",
-    "stars": 5,
-    "updated_at": "2026-08-02T20:25:39Z",
-    "url": "https://github.com/veracium-ai/Veracium"
-  },
-  {
-    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Se",
-    "id": "CyberSunil/LLMVault",
-    "language": "Python",
-    "name": "CyberSunil/LLMVault",
-    "stars": 262,
-    "updated_at": "2026-08-02T20:25:20Z",
-    "url": "https://github.com/CyberSunil/LLMVault"
   }
 ]
