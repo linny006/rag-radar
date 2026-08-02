@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83c\uddfa\ud83c\udde6 AI-HomeLab: \u0414\u043e\u043c\u0430\u0448\u043d\u0456 AI-\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0456\u0457 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u2014 \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u0438\u0439 \u0428\u0406, \u043c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u0456 \u0441\u0438\u0441\u0442\u0435\u043c\u0438, \u0431\u043b\u0435\u043a\u0430\u0443\u0442-\u0440\u0435\u0437\u0438\u043b\u0456\u0454\u043d\u0442\u043d\u0456\u0441\u0442\u044c",
+    "id": "weby-homelab/AI-HOMELAB",
+    "language": "Python",
+    "name": "weby-homelab/AI-HOMELAB",
+    "stars": 6,
+    "updated_at": "2026-08-02T17:31:46Z",
+    "url": "https://github.com/weby-homelab/AI-HOMELAB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Q&A assistant for CEPI Level 1 equity compensation, using RAG grounded in the official reading list. Launching August",
+    "id": "priyanka-upreti/equitycoach",
+    "language": "Python",
+    "name": "priyanka-upreti/equitycoach",
+    "stars": 0,
+    "updated_at": "2026-08-02T17:30:03Z",
+    "url": "https://github.com/priyanka-upreti/equitycoach"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "krishagarwal314/CodeJury",
+    "language": "Python",
+    "name": "krishagarwal314/CodeJury",
+    "stars": 133,
+    "updated_at": "2026-08-02T17:29:56Z",
+    "url": "https://github.com/krishagarwal314/CodeJury"
+  },
+  {
     "description": "RAG-based film recommendation system using FAISS and Sentence Transformers.",
     "id": "EnesBayraker/rag-film-recommender",
     "language": "Jupyter Notebook",
@@ -36,21 +81,12 @@
     "url": "https://github.com/klarlabs-studio/mnemos"
   },
   {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 133,
-    "updated_at": "2026-08-02T17:29:56Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 64026,
-    "updated_at": "2026-08-02T17:27:44Z",
+    "updated_at": "2026-08-02T17:31:24Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "kkxiaoa/k8s-yaml-assistant",
     "stars": 1,
-    "updated_at": "2026-08-02T17:20:28Z",
+    "updated_at": "2026-08-02T17:31:07Z",
     "url": "https://github.com/kkxiaoa/k8s-yaml-assistant"
   },
   {
@@ -306,24 +342,6 @@
     "url": "https://github.com/RaguTeam/RAGU"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 716,
     "updated_at": "2026-08-02T17:11:22Z",
     "url": "https://github.com/bartolli/codanna"
-  },
-  {
-    "description": "Observable local-first RAG workbench with hybrid retrieval, citations, live traces, and reproducible evaluation.",
-    "id": "mrinoybanerjee/retrievallab",
-    "language": "Python",
-    "name": "mrinoybanerjee/retrievallab",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:12:52Z",
-    "url": "https://github.com/mrinoybanerjee/retrievallab"
-  },
-  {
-    "description": "Sovereign Local AI Workspace & LLM Runtime Manager. Easily Run GGUF, MLX, OpenAI, Gemini, etc. Under One Unified Interfa",
-    "id": "lm-webui/lm-webui",
-    "language": "TypeScript",
-    "name": "lm-webui/lm-webui",
-    "stars": 3,
-    "updated_at": "2026-08-02T17:10:12Z",
-    "url": "https://github.com/lm-webui/lm-webui"
   }
 ]
