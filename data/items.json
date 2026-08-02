@@ -1,5 +1,212 @@
 [
   {
+    "description": "Randevu platformlar\u0131 i\u00e7in semantik getirme, hibrit arama ve RAG mimarilerini kullanan yapay zeka destekli hizmet arama v",
+    "id": "ErenReyhanlioglu/seekbind",
+    "language": "Python",
+    "name": "ErenReyhanlioglu/seekbind",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:52:04Z",
+    "url": "https://github.com/ErenReyhanlioglu/seekbind"
+  },
+  {
+    "description": "Revising Data Science",
+    "id": "Shravan4598/Revision-Data-Science",
+    "language": "Jupyter Notebook",
+    "name": "Shravan4598/Revision-Data-Science",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:51:59Z",
+    "url": "https://github.com/Shravan4598/Revision-Data-Science"
+  },
+  {
+    "description": "FRC AI Chatbot and Assistant",
+    "id": "alextheradu/curator",
+    "language": "TypeScript",
+    "name": "alextheradu/curator",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:51:42Z",
+    "url": "https://github.com/alextheradu/curator"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31383,
+    "updated_at": "2026-08-02T19:51:36Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector + keyword retrieval",
+    "id": "eleboucher/memini",
+    "language": "Go",
+    "name": "eleboucher/memini",
+    "stars": 16,
+    "updated_at": "2026-08-02T19:51:22Z",
+    "url": "https://github.com/eleboucher/memini"
+  },
+  {
+    "description": "Open-source memory runtime for AI agents \u2014 reproducible, provenance-tagged context bundles instead of query-time retriev",
+    "id": "smaramwbc/statewave",
+    "language": "Python",
+    "name": "smaramwbc/statewave",
+    "stars": 288,
+    "updated_at": "2026-08-02T19:51:17Z",
+    "url": "https://github.com/smaramwbc/statewave"
+  },
+  {
+    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
+    "id": "klarlabs-studio/mnemos",
+    "language": "Go",
+    "name": "klarlabs-studio/mnemos",
+    "stars": 4,
+    "updated_at": "2026-08-02T19:50:30Z",
+    "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "Founder, FX Studio AI | Finance executive and AI solutions architect | Enterprise AI transformation",
+    "id": "fernandoxavier02/fernandoxavier02",
+    "language": "\u2014",
+    "name": "fernandoxavier02/fernandoxavier02",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:50:23Z",
+    "url": "https://github.com/fernandoxavier02/fernandoxavier02"
+  },
+  {
+    "description": "Brazilian Tax Reform Oracle \u2014 RAG system for tax law queries with local LLM. Showcase for finance executive portfolio.",
+    "id": "fernandoxavier02/brazilian-tax-reform-oracle-showcase",
+    "language": "TypeScript",
+    "name": "fernandoxavier02/brazilian-tax-reform-oracle-showcase",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:49:50Z",
+    "url": "https://github.com/fernandoxavier02/brazilian-tax-reform-oracle-showcase"
+  },
+  {
+    "description": "Typed building blocks for everything around your LLM call.",
+    "id": "use-crux/crux",
+    "language": "TypeScript",
+    "name": "use-crux/crux",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:50:16Z",
+    "url": "https://github.com/use-crux/crux"
+  },
+  {
+    "description": "Open source claim-to-reference \"verification\" tool using R, API (Ollama as is) and open weight LLMs. More automatically ",
+    "id": "labhstats/checking_unverified_claims_iteratively_nrepeat_generation",
+    "language": "\u2014",
+    "name": "labhstats/checking_unverified_claims_iteratively_nrepeat_generation",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:49:17Z",
+    "url": "https://github.com/labhstats/checking_unverified_claims_iteratively_nrepeat_generation"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:49:12Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 143236,
+    "updated_at": "2026-08-02T19:49:07Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
+    "description": "Zero-dependency, Native AOT-compatible .NET guardrails for prompt injection, jailbreaks, and LLM agent/RAG security.",
+    "id": "ItsNishi/Nephron",
+    "language": "C#",
+    "name": "ItsNishi/Nephron",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:48:32Z",
+    "url": "https://github.com/ItsNishi/Nephron"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:48:12Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP ",
+    "id": "gmickel/gno",
+    "language": "TypeScript",
+    "name": "gmickel/gno",
+    "stars": 99,
+    "updated_at": "2026-08-02T19:48:05Z",
+    "url": "https://github.com/gmickel/gno"
+  },
+  {
+    "description": "Sync Canvas courses into a local Obsidian vault \u2014 transcribed lecture notes, a cross-lecture concept graph, homework and",
+    "id": "mihirargulkar/canvas-obsidian",
+    "language": "Python",
+    "name": "mihirargulkar/canvas-obsidian",
+    "stars": 5,
+    "updated_at": "2026-08-02T19:47:00Z",
+    "url": "https://github.com/mihirargulkar/canvas-obsidian"
+  },
+  {
+    "description": "Local-first AI workspace with pluggable model providers \u2014 chat, agent mode, MCP, local RAG, deep research, model arena, ",
+    "id": "LenSyrudas/syrudas",
+    "language": "Python",
+    "name": "LenSyrudas/syrudas",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:47:58Z",
+    "url": "https://github.com/LenSyrudas/syrudas"
+  },
+  {
+    "description": "A personal operational OS and AI multi-agent orchestration plugin for Obsidian. Features interview-driven onboarding, mu",
+    "id": "scrunchds/Command-Center",
+    "language": "TypeScript",
+    "name": "scrunchds/Command-Center",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:45:44Z",
+    "url": "https://github.com/scrunchds/Command-Center"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:45:27Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 38427,
+    "updated_at": "2026-08-02T19:45:19Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
     "description": "Query-aware context trimming for LLM requests. Your context could use a trim.",
     "id": "NadirRouter/barber",
     "language": "Python",
@@ -9,22 +216,13 @@
     "url": "https://github.com/NadirRouter/barber"
   },
   {
-    "description": "Open-source memory runtime for AI agents \u2014 reproducible, provenance-tagged context bundles instead of query-time retriev",
-    "id": "smaramwbc/statewave",
+    "description": "A Retrieval-Augmented Generation (RAG) application utilizing LangChain, Google Gemini, and Pinecone. Served with a FastA",
+    "id": "Amrit-2002/portfolio-agent",
     "language": "Python",
-    "name": "smaramwbc/statewave",
-    "stars": 288,
-    "updated_at": "2026-08-02T19:43:52Z",
-    "url": "https://github.com/smaramwbc/statewave"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
+    "name": "Amrit-2002/portfolio-agent",
     "stars": 0,
-    "updated_at": "2026-08-02T19:45:20Z",
-    "url": "https://github.com/nacre-work/nacre"
+    "updated_at": "2026-08-02T19:43:04Z",
+    "url": "https://github.com/Amrit-2002/portfolio-agent"
   },
   {
     "description": "Provenance-aware memory for AI agents.",
@@ -99,15 +297,6 @@
     "url": "https://github.com/TSP-Jacob/coach-c"
   },
   {
-    "description": "A personal operational OS and AI multi-agent orchestration plugin for Obsidian. Features interview-driven onboarding, mu",
-    "id": "scrunchds/Command-Center",
-    "language": "TypeScript",
-    "name": "scrunchds/Command-Center",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:39:13Z",
-    "url": "https://github.com/scrunchds/Command-Center"
-  },
-  {
     "description": "Local-first paper research copilot for evidence-grounded QA, paper search, and generating verifiable new model-framework",
     "id": "lemma42796/paper-copilot",
     "language": "Python",
@@ -115,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T19:39:03Z",
     "url": "https://github.com/lemma42796/paper-copilot"
-  },
-  {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:38:55Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -180,33 +360,6 @@
     "url": "https://github.com/Nv18/agentverse-ai"
   },
   {
-    "description": "Sync Canvas courses into a local Obsidian vault \u2014 transcribed lecture notes, a cross-lecture concept graph, homework and",
-    "id": "mihirargulkar/canvas-obsidian",
-    "language": "Python",
-    "name": "mihirargulkar/canvas-obsidian",
-    "stars": 5,
-    "updated_at": "2026-08-02T19:35:14Z",
-    "url": "https://github.com/mihirargulkar/canvas-obsidian"
-  },
-  {
-    "description": "Give any MCP-capable agent persistent memory: remember/recall over a tiered store with hybrid vector + keyword retrieval",
-    "id": "eleboucher/memini",
-    "language": "Go",
-    "name": "eleboucher/memini",
-    "stars": 16,
-    "updated_at": "2026-08-02T19:35:18Z",
-    "url": "https://github.com/eleboucher/memini"
-  },
-  {
-    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
-    "id": "klarlabs-studio/mnemos",
-    "language": "Go",
-    "name": "klarlabs-studio/mnemos",
-    "stars": 4,
-    "updated_at": "2026-08-02T19:43:56Z",
-    "url": "https://github.com/klarlabs-studio/mnemos"
-  },
-  {
     "description": "RAG pipeline evaluation framework \u2014 benchmarks vector DBs & LLMs with real metrics (MRR, Precision, Recall)",
     "id": "nnadir35/rag-vector-db-benchmark",
     "language": "Python",
@@ -230,7 +383,7 @@
     "language": "JavaScript",
     "name": "stuinfla/ruvnet-brain",
     "stars": 25,
-    "updated_at": "2026-08-02T19:34:39Z",
+    "updated_at": "2026-08-02T19:47:05Z",
     "url": "https://github.com/stuinfla/ruvnet-brain"
   },
   {
@@ -295,158 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-02T19:31:17Z",
     "url": "https://github.com/noviciusss/DoCopilot"
-  },
-  {
-    "description": "A model-facing canon for demand-signal architecture, buyer-system mapping, and AI/RAG prospecting reasoning.",
-    "id": "Stunspot/stunspots-guide-to-sales-prospecting-strategy",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-sales-prospecting-strategy",
-    "stars": 5,
-    "updated_at": "2026-08-02T19:30:56Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-sales-prospecting-strategy"
-  },
-  {
-    "description": "Model-facing macroeconomic knowledge canon for AI/RAG use: money, liquidity, credit, regimes, instability, and instituti",
-    "id": "Stunspot/stunspots-guide-to-macroeconomics",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-macroeconomics",
-    "stars": 4,
-    "updated_at": "2026-08-02T19:30:56Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-macroeconomics"
-  },
-  {
-    "description": "A model-facing canon for investigative news intelligence, evidence reasoning, public-reality mapping, and AI/RAG use.",
-    "id": "Stunspot/stunspots-guide-to-investigative-news-intelligence",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-investigative-news-intelligence",
-    "stars": 4,
-    "updated_at": "2026-08-02T19:30:42Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-investigative-news-intelligence"
-  },
-  {
-    "description": "A model-facing field manual for authority, interpretation, proof, procedure, strategy, private ordering, ethics, legal f",
-    "id": "Stunspot/stunspots-guide-to-legal-mastery",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-legal-mastery",
-    "stars": 4,
-    "updated_at": "2026-08-02T19:30:41Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-legal-mastery"
-  },
-  {
-    "description": "A model-facing field substrate for deterministic food physics, culinary formulation, and dietary constraint engineering.",
-    "id": "Stunspot/stunspots-guide-to-gastronomic-engineering",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-gastronomic-engineering",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:30:41Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering"
-  },
-  {
-    "description": "A model-facing field manual for turning venture ideas into inspectable enterprise systems.",
-    "id": "Stunspot/stunspots-guide-to-business-venture-formulation",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-business-venture-formulation",
-    "stars": 4,
-    "updated_at": "2026-08-02T19:30:26Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-business-venture-formulation"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A model-facing knowledge canon for incentives, interdependence, equilibrium, institutional design, strategic failure, an",
-    "id": "Stunspot/stunspots-guide-to-game-theory",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-game-theory",
-    "stars": 3,
-    "updated_at": "2026-08-02T19:30:22Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-game-theory"
-  },
-  {
-    "description": "A model-facing field manual for vehicle reality, machine physics, lifecycle economics, failure diagnosis, and practition",
-    "id": "Stunspot/stunspots-guide-to-automotive-systems",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-automotive-systems",
-    "stars": 4,
-    "updated_at": "2026-08-02T19:30:21Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-automotive-systems"
-  },
-  {
-    "description": "Operational doctrine for practical AI systems design.",
-    "id": "Stunspot/stunspots-guide-to-ai-systems",
-    "language": "\u2014",
-    "name": "Stunspot/stunspots-guide-to-ai-systems",
-    "stars": 41,
-    "updated_at": "2026-08-02T19:30:21Z",
-    "url": "https://github.com/Stunspot/stunspots-guide-to-ai-systems"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:30:16Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Compass \u2014 the native AI IDE for macOS. Agentic coding with your own provider and keys, plus on-device RAG, FIM completio",
-    "id": "jtrefon/compass",
-    "language": "Swift",
-    "name": "jtrefon/compass",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:30:11Z",
-    "url": "https://github.com/jtrefon/compass"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 143236,
-    "updated_at": "2026-08-02T19:45:21Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-02T19:29:12Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:28:53Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Singapore job search and resume workflow with 76K+ live postings, RAG matching, ATS scoring, and validation-gated AI tai",
-    "id": "haomingkoo/job-hunter-sg",
-    "language": "Python",
-    "name": "haomingkoo/job-hunter-sg",
-    "stars": 5,
-    "updated_at": "2026-08-02T19:28:02Z",
-    "url": "https://github.com/haomingkoo/job-hunter-sg"
   }
 ]
