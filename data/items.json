@@ -1,5 +1,50 @@
 [
   {
+    "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
+    "id": "engram-app/Engram",
+    "language": "Elixir",
+    "name": "engram-app/Engram",
+    "stars": 7,
+    "updated_at": "2026-08-02T07:17:16Z",
+    "url": "https://github.com/engram-app/Engram"
+  },
+  {
+    "description": "TurboOCR, >200 img/s OmnidocBench. TensorRT FP16, PP-OCRv6, HTTP + gRPC",
+    "id": "aiptimizer/TurboOCR",
+    "language": "C++",
+    "name": "aiptimizer/TurboOCR",
+    "stars": 830,
+    "updated_at": "2026-08-02T07:16:41Z",
+    "url": "https://github.com/aiptimizer/TurboOCR"
+  },
+  {
+    "description": "An AI that stays with you between conversations. Keeps the threads you didn't finish, answers from your own notes with r",
+    "id": "wlsdks/muse-agent",
+    "language": "TypeScript",
+    "name": "wlsdks/muse-agent",
+    "stars": 4,
+    "updated_at": "2026-08-02T07:15:54Z",
+    "url": "https://github.com/wlsdks/muse-agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-02T07:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "HUDOC Researcher \u2014 paragraph-level structural and semantic search, citation analytics, and source-first reading for ECtH",
     "id": "lszoszk/ECHR-Dashboard",
     "language": "Python",
@@ -76,7 +121,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 29431,
+    "stars": 29432,
     "updated_at": "2026-08-02T07:07:02Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -97,15 +142,6 @@
     "stars": 375,
     "updated_at": "2026-08-02T07:06:33Z",
     "url": "https://github.com/tetherto/qvac"
-  },
-  {
-    "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
-    "id": "engram-app/Engram",
-    "language": "Elixir",
-    "name": "engram-app/Engram",
-    "stars": 7,
-    "updated_at": "2026-08-02T07:04:39Z",
-    "url": "https://github.com/engram-app/Engram"
   },
   {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
@@ -187,24 +223,6 @@
     "stars": 16,
     "updated_at": "2026-08-02T07:00:30Z",
     "url": "https://github.com/Hafiz-Muhammad-Umar-dev/Agentic-Playground"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "strikersam/autonomous-ai-agency",
     "stars": 7,
-    "updated_at": "2026-08-02T07:08:11Z",
+    "updated_at": "2026-08-02T07:16:32Z",
     "url": "https://github.com/strikersam/autonomous-ai-agency"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "FaultMaven/faultmaven",
     "stars": 2,
-    "updated_at": "2026-08-02T06:47:11Z",
+    "updated_at": "2026-08-02T07:17:35Z",
     "url": "https://github.com/FaultMaven/faultmaven"
   },
   {
@@ -364,7 +382,7 @@
     "id": "sergiyclas/citegraph-copilot",
     "language": "Python",
     "name": "sergiyclas/citegraph-copilot",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-02T06:46:41Z",
     "url": "https://github.com/sergiyclas/citegraph-copilot"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T06:45:02Z",
     "url": "https://github.com/MuyuanGuo/badminton-skills-coach"
-  },
-  {
-    "description": "\u81fa\u7063\u4e0a\u5e02\u516c\u53f8\u516c\u958b\u6587\u4ef6\uff08MOPS PDF \uff0b TWSE OpenAPI\uff09\u7684 multimodal filing intelligence \u53ef\u884c\u6027\u9a57\u8b49\u3002\u6578\u503c\u8d70 deterministic SQL \u800c\u975e\u8b93 LLM \u731c;GO\uff0fNO-GO \u9580\u6abb\u4e8b\u524d\u51cd",
-    "id": "kuotunyu/tw-filing-intelligence",
-    "language": "Python",
-    "name": "kuotunyu/tw-filing-intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:41:07Z",
-    "url": "https://github.com/kuotunyu/tw-filing-intelligence"
-  },
-  {
-    "description": "LangChain.js integration for Dakera AI memory \u2014 dakera.ai",
-    "id": "Dakera-AI/dakera-langchain-js",
-    "language": "TypeScript",
-    "name": "Dakera-AI/dakera-langchain-js",
-    "stars": 1,
-    "updated_at": "2026-08-02T06:40:55Z",
-    "url": "https://github.com/Dakera-AI/dakera-langchain-js"
   }
 ]
