@@ -1,11 +1,38 @@
 [
   {
+    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
+    "id": "phonghhd/EvoNet-AI-Core",
+    "language": "Python",
+    "name": "phonghhd/EvoNet-AI-Core",
+    "stars": 4,
+    "updated_at": "2026-08-03T02:31:18Z",
+    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-03T02:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T02:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u9762\u5411\u89c6\u9891\u7684 AI \u77e5\u8bc6\u5e93\u4e0e\u95ee\u7b54\u5e73\u53f0",
     "id": "junnhwan/vid-lens",
     "language": "Go",
     "name": "junnhwan/vid-lens",
     "stars": 10,
-    "updated_at": "2026-08-03T02:30:06Z",
+    "updated_at": "2026-08-03T02:30:26Z",
     "url": "https://github.com/junnhwan/vid-lens"
   },
   {
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "fullstack-ai-infra/digital-employee",
     "stars": 4,
-    "updated_at": "2026-08-03T02:29:47Z",
+    "updated_at": "2026-08-03T02:30:51Z",
     "url": "https://github.com/fullstack-ai-infra/digital-employee"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "kuliantnt/qq-maid-bot",
     "stars": 97,
-    "updated_at": "2026-08-03T02:28:36Z",
+    "updated_at": "2026-08-03T02:30:50Z",
     "url": "https://github.com/kuliantnt/qq-maid-bot"
   },
   {
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-03T02:27:07Z",
+    "updated_at": "2026-08-03T02:30:48Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "sookoothaii/IntelShed",
     "stars": 2,
-    "updated_at": "2026-08-03T02:25:23Z",
+    "updated_at": "2026-08-03T02:30:46Z",
     "url": "https://github.com/sookoothaii/IntelShed"
   },
   {
@@ -378,24 +405,6 @@
     "url": "https://github.com/Adedev-W/ELRAG"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:15:32Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-03T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
     "id": "cgfixit/CyClaw",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T02:11:40Z",
     "url": "https://github.com/aadeshmahesh/maheshbuilds"
-  },
-  {
-    "description": "\ud83d\udc4b Full-Stack Developer & AI/LLM Specialist \u2014 animated TUI-style GitHub profile with live stats, Mermaid diagrams & DevOp",
-    "id": "rbkhan007/rbkhan007",
-    "language": "\u2014",
-    "name": "rbkhan007/rbkhan007",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:11:39Z",
-    "url": "https://github.com/rbkhan007/rbkhan007"
   }
 ]
