@@ -1,5 +1,104 @@
 [
   {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 10,
+    "updated_at": "2026-08-03T22:59:19Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18889,
+    "updated_at": "2026-08-03T22:57:58Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 332,
+    "updated_at": "2026-08-03T22:57:39Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Offline-first RAG system. Your documents, your models, your machine.",
+    "id": "n0nuser/LocalRAG",
+    "language": "Python",
+    "name": "n0nuser/LocalRAG",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:57:35Z",
+    "url": "https://github.com/n0nuser/LocalRAG"
+  },
+  {
+    "description": "Q&A over the Umicore Annual Report 2025 using RAG (LangChain + Chroma + OpenAI)",
+    "id": "rohitj861/rag-umicore",
+    "language": "Python",
+    "name": "rohitj861/rag-umicore",
+    "stars": 0,
+    "updated_at": "2026-08-03T22:57:34Z",
+    "url": "https://github.com/rohitj861/rag-umicore"
+  },
+  {
+    "description": "Repository containing machine learning projects on computer vision image classification and nlp binary text classificati",
+    "id": "SaintJeane/machine-learning-projects",
+    "language": "Jupyter Notebook",
+    "name": "SaintJeane/machine-learning-projects",
+    "stars": 1,
+    "updated_at": "2026-08-03T22:57:07Z",
+    "url": "https://github.com/SaintJeane/machine-learning-projects"
+  },
+  {
+    "description": "Perfect recall for imperfect machines. A shared memory layer for LLMs via MCP",
+    "id": "integratedcomputersolutions/mnem-o-matic",
+    "language": "Python",
+    "name": "integratedcomputersolutions/mnem-o-matic",
+    "stars": 3,
+    "updated_at": "2026-08-03T22:57:06Z",
+    "url": "https://github.com/integratedcomputersolutions/mnem-o-matic"
+  },
+  {
+    "description": "Lineage ledger and drift reconciliation for RAG knowledge bases: signed manifests, Qdrant and pgvector inventory checks,",
+    "id": "yusufornek/rag-knowledge-ledger",
+    "language": "Python",
+    "name": "yusufornek/rag-knowledge-ledger",
+    "stars": 1,
+    "updated_at": "2026-08-03T22:57:04Z",
+    "url": "https://github.com/yusufornek/rag-knowledge-ledger"
+  },
+  {
+    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
+    "id": "NikolaiSachok/ai-engineering-handbook",
+    "language": "Python",
+    "name": "NikolaiSachok/ai-engineering-handbook",
+    "stars": 1,
+    "updated_at": "2026-08-03T22:57:03Z",
+    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-03T22:56:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Esc\u00e1ner de cumplimiento de ciberseguridad para organismos del Estado chileno, alineado a Ley 21.663; y las Instrucciones",
+    "id": "fcarvajalbrown/MuniANCI",
+    "language": "Rust",
+    "name": "fcarvajalbrown/MuniANCI",
+    "stars": 2,
+    "updated_at": "2026-08-03T23:00:18Z",
+    "url": "https://github.com/fcarvajalbrown/MuniANCI"
+  },
+  {
     "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
     "id": "FaultMaven/faultmaven",
     "language": "Python",
@@ -22,18 +121,18 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 64304,
-    "updated_at": "2026-08-03T22:55:18Z",
+    "stars": 64306,
+    "updated_at": "2026-08-03T23:00:02Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 10,
-    "updated_at": "2026-08-03T22:55:08Z",
-    "url": "https://github.com/clay-good/agent-replay"
+    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting + document notebook \u2014 on-device Whisper transcription, source-linked notes, @brain and his",
+    "id": "murmur-io/murmur",
+    "language": "Rust",
+    "name": "murmur-io/murmur",
+    "stars": 7,
+    "updated_at": "2026-08-03T22:54:28Z",
+    "url": "https://github.com/murmur-io/murmur"
   },
   {
     "description": "German Legal QA Assistant \u2013 RAG + LoRA fine-tuned LLM for answering German law questions with statute citations",
@@ -90,33 +189,6 @@
     "url": "https://github.com/brianmcd08/civ-rag-pipeline"
   },
   {
-    "description": "Q&A over the Umicore Annual Report 2025 using RAG (LangChain + Chroma + OpenAI)",
-    "id": "rohitj861/rag-umicore",
-    "language": "Python",
-    "name": "rohitj861/rag-umicore",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:52:45Z",
-    "url": "https://github.com/rohitj861/rag-umicore"
-  },
-  {
-    "description": "Esc\u00e1ner de cumplimiento de ciberseguridad para organismos del Estado chileno, alineado a Ley 21.663; y las Instrucciones",
-    "id": "fcarvajalbrown/MuniANCI",
-    "language": "Rust",
-    "name": "fcarvajalbrown/MuniANCI",
-    "stars": 2,
-    "updated_at": "2026-08-03T22:56:33Z",
-    "url": "https://github.com/fcarvajalbrown/MuniANCI"
-  },
-  {
-    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
-    "id": "NikolaiSachok/ai-engineering-handbook",
-    "language": "Python",
-    "name": "NikolaiSachok/ai-engineering-handbook",
-    "stars": 1,
-    "updated_at": "2026-08-03T22:54:12Z",
-    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
-  },
-  {
     "description": "DAN-O: sovereign RAG AI engine for public-safety and investigations. Runs on-prem/edge, no third-party model calls. By O",
     "id": "Omega-Point-Solutions/dano-desk-public",
     "language": "\u2014",
@@ -135,21 +207,12 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Repository containing machine learning projects on computer vision image classification and nlp binary text classificati",
-    "id": "SaintJeane/machine-learning-projects",
-    "language": "Jupyter Notebook",
-    "name": "SaintJeane/machine-learning-projects",
-    "stars": 1,
-    "updated_at": "2026-08-03T22:49:33Z",
-    "url": "https://github.com/SaintJeane/machine-learning-projects"
-  },
-  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31406,
-    "updated_at": "2026-08-03T22:56:06Z",
+    "updated_at": "2026-08-03T22:59:58Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T22:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
@@ -356,7 +410,7 @@
     "language": "Jupyter Notebook",
     "name": "jackliusr/agents",
     "stars": 0,
-    "updated_at": "2026-08-03T22:36:00Z",
+    "updated_at": "2026-08-03T22:58:13Z",
     "url": "https://github.com/jackliusr/agents"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T22:34:18Z",
     "url": "https://github.com/fctpe/web-data-mcp"
-  },
-  {
-    "description": "A scalable, production-grade Multi-Entity RAG architecture querying 6 country Olympic datasets (1900\u2013Present) using HNSW",
-    "id": "sathyalog/single-index-metadata-rag-olympics",
-    "language": "Python",
-    "name": "sathyalog/single-index-metadata-rag-olympics",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:33:18Z",
-    "url": "https://github.com/sathyalog/single-index-metadata-rag-olympics"
-  },
-  {
-    "description": "Esteira de credito com LLM: API REST em FastAPI, RAG sobre politicas internas com citacoes verificadas, OCR de documento",
-    "id": "DanielRamon10/esteira-credito-llm",
-    "language": "Python",
-    "name": "DanielRamon10/esteira-credito-llm",
-    "stars": 1,
-    "updated_at": "2026-08-03T22:33:08Z",
-    "url": "https://github.com/DanielRamon10/esteira-credito-llm"
-  },
-  {
-    "description": "MoFlo \u2014 an opinionated, local-first AI agent orchestration toolkit for Claude Code: semantic memory, learned routing, ga",
-    "id": "eric-cielo/moflo",
-    "language": "TypeScript",
-    "name": "eric-cielo/moflo",
-    "stars": 16,
-    "updated_at": "2026-08-03T22:49:28Z",
-    "url": "https://github.com/eric-cielo/moflo"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151222,
-    "updated_at": "2026-08-03T22:31:28Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-03T22:30:19Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 2,
-    "updated_at": "2026-08-03T22:29:50Z",
-    "url": "https://github.com/Mubder/kazma"
   }
 ]
