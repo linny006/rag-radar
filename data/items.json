@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI-assisted, evidence-linked effort estimation: turns customer BRDs into auditable Basis-of-Estimate drafts grounded in ",
+    "id": "Sangaibisi/estimo",
+    "language": "Python",
+    "name": "Sangaibisi/estimo",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:59:25Z",
+    "url": "https://github.com/Sangaibisi/estimo"
+  },
+  {
+    "description": "A testbed for faithful, auditable retrieval: Taiwan legal assistant with five anti-hallucination gates and a time-sliced",
+    "id": "0Smallcat0/legal-agent",
+    "language": "Python",
+    "name": "0Smallcat0/legal-agent",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:58:55Z",
+    "url": "https://github.com/0Smallcat0/legal-agent"
+  },
+  {
+    "description": "Self-hosted multi-agent platform that automates data analysis and customer support using MCP tools, agentic RAG, guarded",
+    "id": "badhon1512/DevAnalystAgent",
+    "language": "Python",
+    "name": "badhon1512/DevAnalystAgent",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:57:12Z",
+    "url": "https://github.com/badhon1512/DevAnalystAgent"
+  },
+  {
+    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
+    "id": "FaultMaven/faultmaven",
+    "language": "Python",
+    "name": "FaultMaven/faultmaven",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:57:04Z",
+    "url": "https://github.com/FaultMaven/faultmaven"
+  },
+  {
+    "description": "Spatial intelligence workstation \u2014 47 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 8-phase mult",
+    "id": "sookoothaii/IntelShed",
+    "language": "Python",
+    "name": "sookoothaii/IntelShed",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:56:17Z",
+    "url": "https://github.com/sookoothaii/IntelShed"
+  },
+  {
+    "description": "The code intelligence layer for AI coding agents. Semantic indexing, graph navigation, and repository intelligence",
+    "id": "artk0de/TeaRAGs-MCP",
+    "language": "TypeScript",
+    "name": "artk0de/TeaRAGs-MCP",
+    "stars": 10,
+    "updated_at": "2026-08-02T23:56:02Z",
+    "url": "https://github.com/artk0de/TeaRAGs-MCP"
+  },
+  {
+    "description": "Multi-agent content pipeline with HITL, LangGraph, FastAPI, Next.js \u2014 production deploy on free cloud",
+    "id": "vpeetla-ai/ai-content-factory",
+    "language": "Python",
+    "name": "vpeetla-ai/ai-content-factory",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:55:21Z",
+    "url": "https://github.com/vpeetla-ai/ai-content-factory"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:55:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
+    "id": "vpeetla-ai/enterprise_rag_platform",
+    "language": "Python",
+    "name": "vpeetla-ai/enterprise_rag_platform",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:55:09Z",
+    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -18,15 +99,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Spatial intelligence workstation \u2014 47 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 8-phase mult",
-    "id": "sookoothaii/IntelShed",
-    "language": "Python",
-    "name": "sookoothaii/IntelShed",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:54:15Z",
-    "url": "https://github.com/sookoothaii/IntelShed"
-  },
-  {
     "description": "Principal-architect multi-agent OS \u2014 LangGraph, RAG, Langfuse, Slack/Telegram/WhatsApp delivery",
     "id": "vpeetla-ai/venkat-ai-platform",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T23:53:01Z",
     "url": "https://github.com/ogaston/multi-source-news-verification-pipeline"
-  },
-  {
-    "description": "Self-hosted multi-agent platform that automates data analysis and customer support using MCP tools, agentic RAG, guarded",
-    "id": "badhon1512/DevAnalystAgent",
-    "language": "Python",
-    "name": "badhon1512/DevAnalystAgent",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:52:35Z",
-    "url": "https://github.com/badhon1512/DevAnalystAgent"
   },
   {
     "description": "sovereign Memory Protocol \u2014 continuous memory across non-continuous substrates. Spec + reference engine. No private data",
@@ -225,15 +288,6 @@
     "url": "https://github.com/sfansaria/Aunt-Flo-Assistant-Hybrid-RAG-ondevice"
   },
   {
-    "description": "The code intelligence layer for AI coding agents. Semantic indexing, graph navigation, and repository intelligence",
-    "id": "artk0de/TeaRAGs-MCP",
-    "language": "TypeScript",
-    "name": "artk0de/TeaRAGs-MCP",
-    "stars": 10,
-    "updated_at": "2026-08-02T23:46:58Z",
-    "url": "https://github.com/artk0de/TeaRAGs-MCP"
-  },
-  {
     "description": "A self-maintaining second brain: three local agents that ingest anything, keep a markdown vault clean, and answer with a",
     "id": "Stjojaiss/aielective",
     "language": "HTML",
@@ -268,33 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T23:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Multi-agent content pipeline with HITL, LangGraph, FastAPI, Next.js \u2014 production deploy on free cloud",
-    "id": "vpeetla-ai/ai-content-factory",
-    "language": "Python",
-    "name": "vpeetla-ai/ai-content-factory",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:51:20Z",
-    "url": "https://github.com/vpeetla-ai/ai-content-factory"
-  },
-  {
-    "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
-    "id": "vpeetla-ai/enterprise_rag_platform",
-    "language": "Python",
-    "name": "vpeetla-ai/enterprise_rag_platform",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:55:09Z",
-    "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
     "description": "From the Roots to the Fruits ! ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T23:35:12Z",
     "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
-  },
-  {
-    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
-    "id": "FaultMaven/faultmaven",
-    "language": "Python",
-    "name": "FaultMaven/faultmaven",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:45:07Z",
-    "url": "https://github.com/FaultMaven/faultmaven"
-  },
-  {
-    "description": "Bilingual role-aware RAG operations prototype with citations, evaluation, Docker and CI",
-    "id": "neow355/fang-kee-ops-copilot",
-    "language": "TypeScript",
-    "name": "neow355/fang-kee-ops-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:33:59Z",
-    "url": "https://github.com/neow355/fang-kee-ops-copilot"
-  },
-  {
-    "description": "German Legal QA Assistant \u2013 RAG + LoRA fine-tuned LLM for answering German law questions with statute citations",
-    "id": "myaxyo/german-legal-qa",
-    "language": "Python",
-    "name": "myaxyo/german-legal-qa",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:33:54Z",
-    "url": "https://github.com/myaxyo/german-legal-qa"
   }
 ]
