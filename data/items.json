@@ -1,12 +1,66 @@
 [
   {
+    "description": "Grounded RAG for internal documents with Qdrant retrieval, source citations, and local or OpenAI-compatible generation",
+    "id": "sutasmantas/grounded-knowledge-assistant",
+    "language": "\u2014",
+    "name": "sutasmantas/grounded-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:30:02Z",
+    "url": "https://github.com/sutasmantas/grounded-knowledge-assistant"
+  },
+  {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:29:42Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "AI-powered RAG Study Assistant built with React, FastAPI, FAISS, Sentence Transformers, and LLMs.",
+    "id": "Anmol-devil/Studiora-AI",
+    "language": "JavaScript",
+    "name": "Anmol-devil/Studiora-AI",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:29:31Z",
+    "url": "https://github.com/Anmol-devil/Studiora-AI"
+  },
+  {
+    "description": "Production-oriented RAG playground with hybrid search and citation verification.",
+    "id": "MohammadCZeidan/ragsystems",
+    "language": "Python",
+    "name": "MohammadCZeidan/ragsystems",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:28:31Z",
+    "url": "https://github.com/MohammadCZeidan/ragsystems"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:27:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Your coding agent starts every session with amnesia \u2014 memo fixes that, 100% on your machine. Persistent memory for Claud",
     "id": "jagoff/memo",
     "language": "Python",
     "name": "jagoff/memo",
     "stars": 12,
-    "updated_at": "2026-08-03T17:27:50Z",
+    "updated_at": "2026-08-03T17:28:17Z",
     "url": "https://github.com/jagoff/memo"
+  },
+  {
+    "description": "AI-powered course Q&A system that transcribes videos, generates embeddings, performs semantic search, and answers studen",
+    "id": "ggauravky/RAG-based-Al-Teaching",
+    "language": "Python",
+    "name": "ggauravky/RAG-based-Al-Teaching",
+    "stars": 0,
+    "updated_at": "2026-08-03T17:27:50Z",
+    "url": "https://github.com/ggauravky/RAG-based-Al-Teaching"
   },
   {
     "description": "Full-stack RAG workspace for grounded document question-answering.",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T17:24:35Z",
     "url": "https://github.com/ferrelganendra/rag-chatbot"
-  },
-  {
-    "description": "AI-powered RAG Study Assistant built with React, FastAPI, FAISS, Sentence Transformers, and LLMs.",
-    "id": "Anmol-devil/Studiora-AI",
-    "language": "JavaScript",
-    "name": "Anmol-devil/Studiora-AI",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:24:27Z",
-    "url": "https://github.com/Anmol-devil/Studiora-AI"
   },
   {
     "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31399,
-    "updated_at": "2026-08-03T17:22:52Z",
+    "updated_at": "2026-08-03T17:28:50Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "CaspianG/wavemind",
     "stars": 6,
-    "updated_at": "2026-08-03T17:21:47Z",
+    "updated_at": "2026-08-03T17:29:43Z",
     "url": "https://github.com/CaspianG/wavemind"
-  },
-  {
-    "description": "A knowledge tree of your codebase where every claim carries a verifiable receipt. Local-first: your code never leaves yo",
-    "id": "NORTHTEKDevs/overstory",
-    "language": "TypeScript",
-    "name": "NORTHTEKDevs/overstory",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:14:29Z",
-    "url": "https://github.com/NORTHTEKDevs/overstory"
-  },
-  {
-    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
-    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "language": "JavaScript",
-    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "stars": 0,
-    "updated_at": "2026-08-03T17:14:22Z",
-    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
-  },
-  {
-    "description": "Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch \u2014 a production RAG assist",
-    "id": "zudyog/the-ai-engineer",
-    "language": "TypeScript",
-    "name": "zudyog/the-ai-engineer",
-    "stars": 1,
-    "updated_at": "2026-08-03T17:13:30Z",
-    "url": "https://github.com/zudyog/the-ai-engineer"
-  },
-  {
-    "description": "Agent + Multimodal RAG \u5168\u6808\u5b66\u4e60\u9879\u76ee\uff1aLangGraph PAE/ReAct\u3001Multi-Query\u3001BM25 + pgvector \u6df7\u5408\u68c0\u7d22\u3001RAG-Fusion/RRF\u3001MinerU/OCR/ASR\u3001evidenc",
-    "id": "HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform",
-    "language": "Python",
-    "name": "HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:13:24Z",
-    "url": "https://github.com/HeWhenJay/Multimodal-RAG-Agent-Learning-Evidence-Platform"
   }
 ]
