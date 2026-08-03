@@ -1,5 +1,95 @@
 [
   {
+    "description": "Evidence-grounded research agent: LangGraph state machine + AutoGen review board, with mechanical citation verification,",
+    "id": "Bluetenhonig/scholar-graph",
+    "language": "Python",
+    "name": "Bluetenhonig/scholar-graph",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:59:54Z",
+    "url": "https://github.com/Bluetenhonig/scholar-graph"
+  },
+  {
+    "description": "A local-first AI study companion \u2014 chat, quizzes, spaced repetition, and PDF parsing, running entirely offline on your m",
+    "id": "Sarthak-47/Mimir",
+    "language": "TypeScript",
+    "name": "Sarthak-47/Mimir",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:59:37Z",
+    "url": "https://github.com/Sarthak-47/Mimir"
+  },
+  {
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+    "id": "DEEIX-AI/DEEIX-Chat",
+    "language": "Go",
+    "name": "DEEIX-AI/DEEIX-Chat",
+    "stars": 1128,
+    "updated_at": "2026-08-03T09:59:12Z",
+    "url": "https://github.com/DEEIX-AI/DEEIX-Chat"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151175,
+    "updated_at": "2026-08-03T09:58:13Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "AI server for Orchestra- blueprint generation, task assignment, Clover assistant, and knowledge graph",
+    "id": "orchestra-A/orchestra-ai",
+    "language": "Python",
+    "name": "orchestra-A/orchestra-ai",
+    "stars": 1,
+    "updated_at": "2026-08-03T09:57:40Z",
+    "url": "https://github.com/orchestra-A/orchestra-ai"
+  },
+  {
+    "description": "An offline benchmark for testing document extraction across PDF, PowerPoint and Excel, with exact source provenance.",
+    "id": "sharantulsiani-ui/extractcheck",
+    "language": "Python",
+    "name": "sharantulsiani-ui/extractcheck",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:57:30Z",
+    "url": "https://github.com/sharantulsiani-ui/extractcheck"
+  },
+  {
+    "description": "Production-grade RAG system for financial documents with Auto-Merging Retrieval and MongoDB Atlas",
+    "id": "rodneytals/Apple-10k-advanced-rag-project",
+    "language": "Jupyter Notebook",
+    "name": "rodneytals/Apple-10k-advanced-rag-project",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:57:27Z",
+    "url": "https://github.com/rodneytals/Apple-10k-advanced-rag-project"
+  },
+  {
+    "description": "Selfhosted AI-Platform for using Local LLMs with a Multi-User Terminal and advanced RAG Pipeline for the LLM.",
+    "id": "MosesCommitsFraud/Talos",
+    "language": "Python",
+    "name": "MosesCommitsFraud/Talos",
+    "stars": 2,
+    "updated_at": "2026-08-03T09:57:24Z",
+    "url": "https://github.com/MosesCommitsFraud/Talos"
+  },
+  {
+    "description": "A lightweight Python library for cleaning raw text and documents before NLP and LLM workflows.",
+    "id": "Saim-Chaudhary/DocScrub",
+    "language": "Python",
+    "name": "Saim-Chaudhary/DocScrub",
+    "stars": 1,
+    "updated_at": "2026-08-03T09:57:23Z",
+    "url": "https://github.com/Saim-Chaudhary/DocScrub"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-03T09:57:13Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -81,20 +171,11 @@
     "url": "https://github.com/labring/FastGPT"
   },
   {
-    "description": "An offline benchmark for testing document extraction across PDF, PowerPoint and Excel, with exact source provenance.",
-    "id": "sharantulsiani-ui/extractcheck",
-    "language": "Python",
-    "name": "sharantulsiani-ui/extractcheck",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:53:17Z",
-    "url": "https://github.com/sharantulsiani-ui/extractcheck"
-  },
-  {
     "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 30539,
+    "stars": 30543,
     "updated_at": "2026-08-03T09:52:35Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "Orynode/orynode-local-ai",
     "stars": 1,
-    "updated_at": "2026-08-03T09:52:14Z",
+    "updated_at": "2026-08-03T09:58:25Z",
     "url": "https://github.com/Orynode/orynode-local-ai"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T09:50:39Z",
     "url": "https://github.com/VED-VIVEK-TALMALEY/quantumlens-HSBC"
-  },
-  {
-    "description": "A local-first AI study companion \u2014 chat, quizzes, spaced repetition, and PDF parsing, running entirely offline on your m",
-    "id": "Sarthak-47/Mimir",
-    "language": "TypeScript",
-    "name": "Sarthak-47/Mimir",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:50:38Z",
-    "url": "https://github.com/Sarthak-47/Mimir"
   },
   {
     "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo",
@@ -261,15 +333,6 @@
     "url": "https://github.com/dreamguswn-cmd/QC-starter-edu1"
   },
   {
-    "description": "Production-grade RAG system for financial documents with Auto-Merging Retrieval and MongoDB Atlas",
-    "id": "rodneytals/Apple-10k-advanced-rag-project",
-    "language": "Jupyter Notebook",
-    "name": "rodneytals/Apple-10k-advanced-rag-project",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:57:09Z",
-    "url": "https://github.com/rodneytals/Apple-10k-advanced-rag-project"
-  },
-  {
     "description": "Portfolio-grade smart factory monitoring system built with C++/Qt, Go, MongoDB Atlas, Modbus TCP, and grounded RAG.",
     "id": "Mkie401/factory-insight-console",
     "language": "C++",
@@ -322,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T09:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-03T09:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Point-in-time research over Australian tax law. Every claim is a verified verbatim quote from the source, or the system ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T09:42:18Z",
     "url": "https://github.com/MXC-CKK/huoshu"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151174,
-    "updated_at": "2026-08-03T09:54:24Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "Enterprise-grade RAG platform \u2014 upload PDFs, TXT files, or paste text \u2192 asynchronous vector indexing with Qdrant hybrid ",
-    "id": "noviciusss/DoCopilot",
-    "language": "Python",
-    "name": "noviciusss/DoCopilot",
-    "stars": 3,
-    "updated_at": "2026-08-03T09:41:26Z",
-    "url": "https://github.com/noviciusss/DoCopilot"
-  },
-  {
-    "description": "Portfolio site with a profile-grounded AI assistant. ASP.NET Core, hybrid RAG (embeddings + SQLite FTS5), and OpenAI cha",
-    "id": "Zaid-s-dev/ZaidProfileRag",
-    "language": "C#",
-    "name": "Zaid-s-dev/ZaidProfileRag",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:41:21Z",
-    "url": "https://github.com/Zaid-s-dev/ZaidProfileRag"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-03T09:56:33Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u57fa\u4e8e Spring AI 2.0 \u7684\u751f\u4ea7\u7ea7 ERP \u667a\u80fd\u52a9\u624b\uff5cProduction-ready ERP AI assistant with RAG, Tool Calling, chat memory, dynamic SQL tools,",
-    "id": "ly1836/spring-ai-rag-demo",
-    "language": "Java",
-    "name": "ly1836/spring-ai-rag-demo",
-    "stars": 70,
-    "updated_at": "2026-08-03T09:42:03Z",
-    "url": "https://github.com/ly1836/spring-ai-rag-demo"
-  },
-  {
-    "description": "",
-    "id": "Rsaaaa9/Pleadly",
-    "language": "Python",
-    "name": "Rsaaaa9/Pleadly",
-    "stars": 1,
-    "updated_at": "2026-08-03T09:39:03Z",
-    "url": "https://github.com/Rsaaaa9/Pleadly"
   }
 ]
