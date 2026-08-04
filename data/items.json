@@ -1,5 +1,86 @@
 [
   {
+    "description": "Evaluation and regression-gating harness for a LangGraph RAG agent: RAGAS answer scoring, a trajectory scorer for planni",
+    "id": "ravenZ3/agentic-rag-eval-harness",
+    "language": "Python",
+    "name": "ravenZ3/agentic-rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:15:11Z",
+    "url": "https://github.com/ravenZ3/agentic-rag-eval-harness"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 89,
+    "updated_at": "2026-08-04T19:14:01Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
+    "id": "makoy-daniot2001/agent-session-mirror",
+    "language": "HTML",
+    "name": "makoy-daniot2001/agent-session-mirror",
+    "stars": 1,
+    "updated_at": "2026-08-04T19:13:41Z",
+    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
+  },
+  {
+    "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP \u2014 edits Markdow",
+    "id": "MarcoPorcellato/matryca-plumber",
+    "language": "Python",
+    "name": "MarcoPorcellato/matryca-plumber",
+    "stars": 91,
+    "updated_at": "2026-08-04T19:13:06Z",
+    "url": "https://github.com/MarcoPorcellato/matryca-plumber"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 333,
+    "updated_at": "2026-08-04T19:13:05Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Local-first, auto-injecting context + memory layer for Claude Code, Codex and MCP. Per-prompt hook injection, explicit f",
+    "id": "proofofwork-agency/reporecall",
+    "language": "TypeScript",
+    "name": "proofofwork-agency/reporecall",
+    "stars": 36,
+    "updated_at": "2026-08-04T19:13:17Z",
+    "url": "https://github.com/proofofwork-agency/reporecall"
+  },
+  {
+    "description": "ChatCLI is a command-line application that utilizes LLMs\u2014such as those from Anthropic, OpenAI, and others\u2014to facilitate ",
+    "id": "diillson/chatcli",
+    "language": "Go",
+    "name": "diillson/chatcli",
+    "stars": 87,
+    "updated_at": "2026-08-04T19:12:41Z",
+    "url": "https://github.com/diillson/chatcli"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T19:11:47Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MoFlo \u2014 an opinionated, local-first AI agent orchestration toolkit for Claude Code: semantic memory, learned routing, ga",
+    "id": "eric-cielo/moflo",
+    "language": "TypeScript",
+    "name": "eric-cielo/moflo",
+    "stars": 16,
+    "updated_at": "2026-08-04T19:10:56Z",
+    "url": "https://github.com/eric-cielo/moflo"
+  },
+  {
     "description": "Repositorio educativo en espa\u00f1ol para aprender a construir chats con FastAPI, LangChain y OpenAI.",
     "id": "WhiteRabbitCoder/Riwi-LangChain",
     "language": "Python",
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-04T19:10:34Z",
     "url": "https://github.com/diamantine-aneroidbarometer28/JobPilotAgent"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-04T19:13:56Z",
+    "url": "https://github.com/Matlan1/localm"
   },
   {
     "description": "Selfhosted AI-Platform for using Local LLMs with a Multi-User Terminal and advanced RAG Pipeline for the LLM.",
@@ -72,15 +162,6 @@
     "url": "https://github.com/natagapova/personal-knowledge-system"
   },
   {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:10:06Z",
-    "url": "https://github.com/Matlan1/localm"
-  },
-  {
     "description": "Production-ready AI integration suite using Google Gemini 2.5 API, Streamlit UI, Context Management (RAG), and Structure",
     "id": "Hudsonhiro/API-projects",
     "language": "Python",
@@ -135,6 +216,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Universal memory layer for AI Agents",
+    "id": "mem0ai/mem0",
+    "language": "Python",
+    "name": "mem0ai/mem0",
+    "stars": 62518,
+    "updated_at": "2026-08-04T19:02:44Z",
+    "url": "https://github.com/mem0ai/mem0"
+  },
+  {
     "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise ",
     "id": "pipeshub-ai/pipeshub-ai",
     "language": "Python",
@@ -142,15 +232,6 @@
     "stars": 3155,
     "updated_at": "2026-08-04T19:01:38Z",
     "url": "https://github.com/pipeshub-ai/pipeshub-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -185,7 +266,7 @@
     "language": "TypeScript",
     "name": "juspay/neurolink",
     "stars": 117,
-    "updated_at": "2026-08-04T19:05:02Z",
+    "updated_at": "2026-08-04T19:13:40Z",
     "url": "https://github.com/juspay/neurolink"
   },
   {
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:57:39Z",
     "url": "https://github.com/pateatlau/fullstack-ai-platform"
-  },
-  {
-    "description": "Local-first, auto-injecting context + memory layer for Claude Code, Codex and MCP. Per-prompt hook injection, explicit f",
-    "id": "proofofwork-agency/reporecall",
-    "language": "TypeScript",
-    "name": "proofofwork-agency/reporecall",
-    "stars": 36,
-    "updated_at": "2026-08-04T18:56:41Z",
-    "url": "https://github.com/proofofwork-agency/reporecall"
   },
   {
     "description": "Multi-tenant AI customer support platform, businesses upload docs, FAQs, PDFs, or a website URL and get a RAG-powered as",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-04T19:04:35Z",
     "url": "https://github.com/rosscyking1115/agent-release-gates"
-  },
-  {
-    "description": "Pinakes \u2014 a portable, agent-first knowledge base. One directory = one KB.",
-    "id": "lucagattoni/pinakes",
-    "language": "Python",
-    "name": "lucagattoni/pinakes",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:51:46Z",
-    "url": "https://github.com/lucagattoni/pinakes"
-  },
-  {
-    "description": "RAG-powered chatbot-as-a-service \u2014 embed an AI chatbot trained on your own docs into any website",
-    "id": "arjun16-t/chatbot-saas",
-    "language": "Python",
-    "name": "arjun16-t/chatbot-saas",
-    "stars": 2,
-    "updated_at": "2026-08-04T18:51:33Z",
-    "url": "https://github.com/arjun16-t/chatbot-saas"
-  },
-  {
-    "description": "Decentralized universal memory protocol for AI agents. Built natively on 0G Storage, Chain, and Compute.",
-    "id": "mrnetwork0001/MemoriaDA",
-    "language": "JavaScript",
-    "name": "mrnetwork0001/MemoriaDA",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:51:31Z",
-    "url": "https://github.com/mrnetwork0001/MemoriaDA"
-  },
-  {
-    "description": "AI-generated promotional content for doctors, grounded in an approved claim set and checked against four compliance rule",
-    "id": "Suryansh-Sinha1/hcpengine",
-    "language": "Python",
-    "name": "Suryansh-Sinha1/hcpengine",
-    "stars": 1,
-    "updated_at": "2026-08-04T18:50:11Z",
-    "url": "https://github.com/Suryansh-Sinha1/hcpengine"
-  },
-  {
-    "description": "personal knowledge base and folio & blog with public face, private brain, one app",
-    "id": "parazeeknova/amemorymachine",
-    "language": "TypeScript",
-    "name": "parazeeknova/amemorymachine",
-    "stars": 4,
-    "updated_at": "2026-08-04T18:50:13Z",
-    "url": "https://github.com/parazeeknova/amemorymachine"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-04T18:49:53Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "LlamaIndex tool integration for SearchApi.io \u2014 multi-engine web search (Google, News, Shopping, YouTube, Bing, Baidu)",
-    "id": "axiom-of-choice/llama-index-tools-searchapi",
-    "language": "Python",
-    "name": "axiom-of-choice/llama-index-tools-searchapi",
-    "stars": 4,
-    "updated_at": "2026-08-04T18:54:35Z",
-    "url": "https://github.com/axiom-of-choice/llama-index-tools-searchapi"
-  },
-  {
-    "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
-    "id": "IgorGanapolsky/trading",
-    "language": "Python",
-    "name": "IgorGanapolsky/trading",
-    "stars": 38,
-    "updated_at": "2026-08-04T18:49:14Z",
-    "url": "https://github.com/IgorGanapolsky/trading"
   }
 ]
