@@ -1,5 +1,68 @@
 [
   {
+    "description": "Advanced RAG system for PDF documents with React, FastAPI, hybrid retrieval (FAISS + BM25), cross-encoder reranking, Doc",
+    "id": "VIVPM/document-retrieval-system",
+    "language": "Python",
+    "name": "VIVPM/document-retrieval-system",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:44:58Z",
+    "url": "https://github.com/VIVPM/document-retrieval-system"
+  },
+  {
+    "description": "Adaptive coding-practice platform (Django/DRF/Channels, PostgreSQL/pgvector) with Elo skill modeling, a prerequisite cur",
+    "id": "Kurapati-Sai-Suhas/SparkLM",
+    "language": "Python",
+    "name": "Kurapati-Sai-Suhas/SparkLM",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:44:35Z",
+    "url": "https://github.com/Kurapati-Sai-Suhas/SparkLM"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:44:23Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "Multimodal RAG search across Ohio Wesleyan's student newspaper archive (1950\u20132006). Next.js + Python OCR + Gemini on Neo",
+    "id": "Bamyani1/interactive-newspaper",
+    "language": "TypeScript",
+    "name": "Bamyani1/interactive-newspaper",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:44:12Z",
+    "url": "https://github.com/Bamyani1/interactive-newspaper"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:43:57Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The intelligent guardian of your repositories",
+    "id": "AlexisIvan2000/Commitclarify",
+    "language": "Python",
+    "name": "AlexisIvan2000/Commitclarify",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:43:49Z",
+    "url": "https://github.com/AlexisIvan2000/Commitclarify"
+  },
+  {
+    "description": "\ud83c\udf10 EN/PT/ES/\u4e2d\u6587 \u00b7 Hierarchical L0-L3 memory layer for AI agents \u2014 second brain with Web UI (4 languages), multimodal RAG, ",
+    "id": "hofstatter/prometheus-memory",
+    "language": "Python",
+    "name": "hofstatter/prometheus-memory",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:43:20Z",
+    "url": "https://github.com/hofstatter/prometheus-memory"
+  },
+  {
     "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
     "id": "daanmt/MedHub",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/daanmt/MedHub"
   },
   {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-08-04T17:43:39Z",
-    "url": "https://github.com/Matlan1/localm"
+    "updated_at": "2026-08-04T17:43:12Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Lokale Multi-Persona-KI (LEAH, DORIS, PETER, POPCORN) auf Basis von Python & Ollama \u2013 inkl. Offline-Wikipedia-Integratio",
@@ -25,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-04T17:42:18Z",
     "url": "https://github.com/YulYen/YulYens_AI"
+  },
+  {
+    "description": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/et",
+    "id": "apocas/restai",
+    "language": "Python",
+    "name": "apocas/restai",
+    "stars": 513,
+    "updated_at": "2026-08-04T17:42:17Z",
+    "url": "https://github.com/apocas/restai"
   },
   {
     "description": "Agent Skills for NVIDIA products \u2014 install into Claude Code, Codex, and other coding agents to run Physical AI, robotics",
@@ -221,7 +293,7 @@
     "language": "C#",
     "name": "Krzysztof318/MailFathom",
     "stars": 4,
-    "updated_at": "2026-08-04T17:37:26Z",
+    "updated_at": "2026-08-04T17:44:13Z",
     "url": "https://github.com/Krzysztof318/MailFathom"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:32:22Z",
     "url": "https://github.com/Tsuchiya2/catchup-feed-ai"
-  },
-  {
-    "description": "The intelligent guardian of your repositories",
-    "id": "AlexisIvan2000/Commitclarify",
-    "language": "Python",
-    "name": "AlexisIvan2000/Commitclarify",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:43:49Z",
-    "url": "https://github.com/AlexisIvan2000/Commitclarify"
-  },
-  {
-    "description": "Unified Agentic AI and Business Intelligence Platform",
-    "id": "AgentSwarms-fyi/agentswarms",
-    "language": "TypeScript",
-    "name": "AgentSwarms-fyi/agentswarms",
-    "stars": 93,
-    "updated_at": "2026-08-04T17:32:05Z",
-    "url": "https://github.com/AgentSwarms-fyi/agentswarms"
-  },
-  {
-    "description": "Assistente de voz 100% local (PT-BR): llama.cpp + RAG do vault Obsidian + anti-alucina\u00e7\u00e3o por controle de fluxo. Whisper",
-    "id": "danielpvp22/mente_digital",
-    "language": "Python",
-    "name": "danielpvp22/mente_digital",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:32:00Z",
-    "url": "https://github.com/danielpvp22/mente_digital"
-  },
-  {
-    "description": "Hybrid-retrieval RAG in a single Go binary \u2014 enforced citations, three grounding guards, and a CI-gated eval set. Runs f",
-    "id": "ArekatlaNishanthchowdary/Ask-My-Docs",
-    "language": "Go",
-    "name": "ArekatlaNishanthchowdary/Ask-My-Docs",
-    "stars": 1,
-    "updated_at": "2026-08-04T17:31:11Z",
-    "url": "https://github.com/ArekatlaNishanthchowdary/Ask-My-Docs"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 63,
-    "updated_at": "2026-08-04T17:32:17Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "RAG and Machine Learning pipeline that scrapes IT job postings, performs ETL, and analyzes the tech talent market.",
-    "id": "irmakoznrgz/AI-Tech-Career-Assistant",
-    "language": "Jupyter Notebook",
-    "name": "irmakoznrgz/AI-Tech-Career-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:30:57Z",
-    "url": "https://github.com/irmakoznrgz/AI-Tech-Career-Assistant"
-  },
-  {
-    "description": "Offline Retrieval-Augmented Command-Line Environment for local evidence",
-    "id": "Baulehrer/oracle-of-daedalus",
-    "language": "Rust",
-    "name": "Baulehrer/oracle-of-daedalus",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:30:53Z",
-    "url": "https://github.com/Baulehrer/oracle-of-daedalus"
-  },
-  {
-    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-    "id": "HKUDS/LightRAG",
-    "language": "Python",
-    "name": "HKUDS/LightRAG",
-    "stars": 38504,
-    "updated_at": "2026-08-04T17:34:40Z",
-    "url": "https://github.com/HKUDS/LightRAG"
   }
 ]
