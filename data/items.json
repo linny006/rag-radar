@@ -1,5 +1,176 @@
 [
   {
+    "description": "A serverless AI support agent built with Next.js 16, Vercel AI SDK, and Neon Postgres. Features tool-driven RAG chat wit",
+    "id": "tanmay442/rag_agent",
+    "language": "TypeScript",
+    "name": "tanmay442/rag_agent",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:43:59Z",
+    "url": "https://github.com/tanmay442/rag_agent"
+  },
+  {
+    "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
+    "id": "jrhahn/ai-trainer",
+    "language": "Python",
+    "name": "jrhahn/ai-trainer",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:43:56Z",
+    "url": "https://github.com/jrhahn/ai-trainer"
+  },
+  {
+    "description": "Lightweight memory layer for AI agents: vectors + graph + metadata + entities. Local SQLite, 4-way RRF.",
+    "id": "chinesewebman/mnelo",
+    "language": "Python",
+    "name": "chinesewebman/mnelo",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:43:49Z",
+    "url": "https://github.com/chinesewebman/mnelo"
+  },
+  {
+    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
+    "id": "FaultMaven/faultmaven",
+    "language": "Python",
+    "name": "FaultMaven/faultmaven",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:43:33Z",
+    "url": "https://github.com/FaultMaven/faultmaven"
+  },
+  {
+    "description": "Nextcloud MCP Server",
+    "id": "cbcoutinho/nextcloud-mcp-server",
+    "language": "Python",
+    "name": "cbcoutinho/nextcloud-mcp-server",
+    "stars": 318,
+    "updated_at": "2026-08-04T11:43:27Z",
+    "url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
+  },
+  {
+    "description": "AI-powered academic research platform for paper search, multi-agent reviews, knowledge graphs, and personalized research",
+    "id": "KimJiSeong1994/PaperReview",
+    "language": "Python",
+    "name": "KimJiSeong1994/PaperReview",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:43:23Z",
+    "url": "https://github.com/KimJiSeong1994/PaperReview"
+  },
+  {
+    "description": "AI-assisted, evidence-linked effort estimation: turns customer BRDs into auditable Basis-of-Estimate drafts grounded in ",
+    "id": "Sangaibisi/estimo",
+    "language": "Python",
+    "name": "Sangaibisi/estimo",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:43:20Z",
+    "url": "https://github.com/Sangaibisi/estimo"
+  },
+  {
+    "description": "A production-ready, modular AI agent platform for building intelligent assistants with workflow orchestration, tool exec",
+    "id": "cupidnavaz/ai-agent-platform",
+    "language": "Python",
+    "name": "cupidnavaz/ai-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:42:24Z",
+    "url": "https://github.com/cupidnavaz/ai-agent-platform"
+  },
+  {
+    "description": "Spatial intelligence workstation \u2014 47 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 8-phase mult",
+    "id": "sookoothaii/IntelShed",
+    "language": "Python",
+    "name": "sookoothaii/IntelShed",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:42:19Z",
+    "url": "https://github.com/sookoothaii/IntelShed"
+  },
+  {
+    "description": "ApexGov is a next-generation GovTech agent designed to automate building safety audits and regulatory compliance across ",
+    "id": "AyeshaaRafaqat/ApexGovAI",
+    "language": "TypeScript",
+    "name": "AyeshaaRafaqat/ApexGovAI",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:42:09Z",
+    "url": "https://github.com/AyeshaaRafaqat/ApexGovAI"
+  },
+  {
+    "description": "RAG and Machine Learning pipeline that scrapes IT job postings, performs ETL, and analyzes the tech talent market.",
+    "id": "irmakoznrgz/AI-Tech-Career-Assistant",
+    "language": "Jupyter Notebook",
+    "name": "irmakoznrgz/AI-Tech-Career-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:42:07Z",
+    "url": "https://github.com/irmakoznrgz/AI-Tech-Career-Assistant"
+  },
+  {
+    "description": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 288,
+    "updated_at": "2026-08-04T11:44:01Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "Universal memory layer for AI Agents",
+    "id": "mem0ai/mem0",
+    "language": "Python",
+    "name": "mem0ai/mem0",
+    "stars": 62490,
+    "updated_at": "2026-08-04T11:41:51Z",
+    "url": "https://github.com/mem0ai/mem0"
+  },
+  {
+    "description": "",
+    "id": "FinVerify/Finverify",
+    "language": "Jupyter Notebook",
+    "name": "FinVerify/Finverify",
+    "stars": 3,
+    "updated_at": "2026-08-04T11:41:51Z",
+    "url": "https://github.com/FinVerify/Finverify"
+  },
+  {
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
+    "language": "Python",
+    "name": "schuecl/nexus-rag",
+    "stars": 1,
+    "updated_at": "2026-08-04T11:41:05Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
+    "description": "Adaptive memory for AI agents & teams \u2014 beyond RAG. Self-hosted MCP server that gets smarter every time you search: hybr",
+    "id": "kagura-ai/memory-cloud",
+    "language": "Python",
+    "name": "kagura-ai/memory-cloud",
+    "stars": 8,
+    "updated_at": "2026-08-04T11:39:52Z",
+    "url": "https://github.com/kagura-ai/memory-cloud"
+  },
+  {
+    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
+    "id": "ModelEngine-Group/nexent",
+    "language": "Python",
+    "name": "ModelEngine-Group/nexent",
+    "stars": 5815,
+    "updated_at": "2026-08-04T11:38:32Z",
+    "url": "https://github.com/ModelEngine-Group/nexent"
+  },
+  {
+    "description": "AI-powered bug investigation assistant using LangGraph, RAG, FastAPI and Next.js.",
+    "id": "vishal8248/bugpilot-ai",
+    "language": "TypeScript",
+    "name": "vishal8248/bugpilot-ai",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:38:27Z",
+    "url": "https://github.com/vishal8248/bugpilot-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T11:37:57Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first memory layer for AI agents. Compresses context with a local LLM, indexes it with hybrid search, and serves i",
     "id": "avinash-1707/Strata",
     "language": "\u2014",
@@ -45,21 +216,12 @@
     "url": "https://github.com/coolight7/agentxx"
   },
   {
-    "description": "Spatial intelligence workstation \u2014 47 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 8-phase mult",
-    "id": "sookoothaii/IntelShed",
-    "language": "Python",
-    "name": "sookoothaii/IntelShed",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:35:05Z",
-    "url": "https://github.com/sookoothaii/IntelShed"
-  },
-  {
     "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
     "id": "lemmaoracle/lemma",
     "language": "Astro",
     "name": "lemmaoracle/lemma",
     "stars": 1,
-    "updated_at": "2026-08-04T11:34:58Z",
+    "updated_at": "2026-08-04T11:44:41Z",
     "url": "https://github.com/lemmaoracle/lemma"
   },
   {
@@ -126,15 +288,6 @@
     "url": "https://github.com/HKUDS/LightRAG"
   },
   {
-    "description": "A serverless AI support agent built with Next.js 16, Vercel AI SDK, and Neon Postgres. Features tool-driven RAG chat wit",
-    "id": "tanmay442/rag_agent",
-    "language": "TypeScript",
-    "name": "tanmay442/rag_agent",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:32:08Z",
-    "url": "https://github.com/tanmay442/rag_agent"
-  },
-  {
     "description": "Open source, automated memory layer that builds as you work.",
     "id": "koed-labs/koed",
     "language": "TypeScript",
@@ -162,15 +315,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted multimodal RAG stack integrating Dify, mrag, Docling, Ollama, and Qdrant",
     "id": "bathtimefish/mrag_dify_docker",
     "language": "Python",
@@ -185,7 +329,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3251,
-    "updated_at": "2026-08-04T11:34:13Z",
+    "updated_at": "2026-08-04T11:41:45Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -203,7 +347,7 @@
     "language": "Python",
     "name": "JasonTM17/OpsMind_AI",
     "stars": 0,
-    "updated_at": "2026-08-04T11:37:06Z",
+    "updated_at": "2026-08-04T11:43:58Z",
     "url": "https://github.com/JasonTM17/OpsMind_AI"
   },
   {
@@ -288,15 +432,6 @@
     "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
   },
   {
-    "description": "Nextcloud MCP Server",
-    "id": "cbcoutinho/nextcloud-mcp-server",
-    "language": "Python",
-    "name": "cbcoutinho/nextcloud-mcp-server",
-    "stars": 318,
-    "updated_at": "2026-08-04T11:26:04Z",
-    "url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
-  },
-  {
     "description": "AI-powered course Q&A system that transcribes videos, generates embeddings, performs semantic search, and answers studen",
     "id": "ggauravky/RAG-based-Al-Teaching",
     "language": "Python",
@@ -311,142 +446,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 73,
-    "updated_at": "2026-08-04T11:24:46Z",
+    "updated_at": "2026-08-04T11:40:17Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & dea",
-    "id": "shibing624/agentica",
-    "language": "Python",
-    "name": "shibing624/agentica",
-    "stars": 340,
-    "updated_at": "2026-08-04T11:24:42Z",
-    "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Fast, pure-Python full-text indexing and search. Actively maintained continuation of Whoosh / whoosh-reloaded. Install: ",
-    "id": "priya-sundaram-dev/whoosh",
-    "language": "Python",
-    "name": "priya-sundaram-dev/whoosh",
-    "stars": 8,
-    "updated_at": "2026-08-04T11:24:18Z",
-    "url": "https://github.com/priya-sundaram-dev/whoosh"
-  },
-  {
-    "description": "Cloudflare AI Search toolkit: MCP server, streaming /ask Worker, docs widget, and git-to-R2 corpus sync. AGPL.",
-    "id": "skyphusion-labs/search-mcp",
-    "language": "JavaScript",
-    "name": "skyphusion-labs/search-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-04T11:23:48Z",
-    "url": "https://github.com/skyphusion-labs/search-mcp"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:23:34Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
-  },
-  {
-    "description": "AI assistant for W3C Internationalization guidance",
-    "id": "xfq/i18n-drafts-assistant",
-    "language": "JavaScript",
-    "name": "xfq/i18n-drafts-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-04T11:22:43Z",
-    "url": "https://github.com/xfq/i18n-drafts-assistant"
-  },
-  {
-    "description": "ApexGov is a next-generation GovTech agent designed to automate building safety audits and regulatory compliance across ",
-    "id": "AyeshaaRafaqat/ApexGovAI",
-    "language": "TypeScript",
-    "name": "AyeshaaRafaqat/ApexGovAI",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:22:29Z",
-    "url": "https://github.com/AyeshaaRafaqat/ApexGovAI"
-  },
-  {
-    "description": "Interactive portfolio of Elibariki Jeremia Nkya, a software engineer specializing in frontend development.",
-    "id": "bluebird00002/elibariki-portfolio",
-    "language": "TypeScript",
-    "name": "bluebird00002/elibariki-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:22:18Z",
-    "url": "https://github.com/bluebird00002/elibariki-portfolio"
-  },
-  {
-    "description": "Context Graph for AI Native SDLC",
-    "id": "potpie-ai/potpie",
-    "language": "Python",
-    "name": "potpie-ai/potpie",
-    "stars": 5524,
-    "updated_at": "2026-08-04T11:22:01Z",
-    "url": "https://github.com/potpie-ai/potpie"
-  },
-  {
-    "description": "Governed, GDPR-native memory for AI agents: right-to-erasure, tenant isolation, prompt-injection defense, and audit. A g",
-    "id": "BernhardJackiewicz/provem",
-    "language": "Python",
-    "name": "BernhardJackiewicz/provem",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:22:01Z",
-    "url": "https://github.com/BernhardJackiewicz/provem"
-  },
-  {
-    "description": "Production-oriented multi-tenant RAG platform for document ingestion, hybrid retrieval, grounded AI chat, source tracing",
-    "id": "moad-cod/ragforge",
-    "language": "Python",
-    "name": "moad-cod/ragforge",
-    "stars": 1,
-    "updated_at": "2026-08-04T11:22:00Z",
-    "url": "https://github.com/moad-cod/ragforge"
-  },
-  {
-    "description": "An AI-powered research companion built with LangChain, RAG, Groq, Gemini, and Streamlit.",
-    "id": "rabailcheema/Searchie",
-    "language": "Python",
-    "name": "rabailcheema/Searchie",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:21:46Z",
-    "url": "https://github.com/rabailcheema/Searchie"
-  },
-  {
-    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
-    "id": "phonghhd/EvoNet-AI-Core",
-    "language": "Python",
-    "name": "phonghhd/EvoNet-AI-Core",
-    "stars": 4,
-    "updated_at": "2026-08-04T11:21:23Z",
-    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
-  },
-  {
-    "description": "Self-hostable email for humans and agents on Cloudflare: send, receive, search, MCP, IMAP, and webmail.",
-    "id": "skyphusion-labs/postern",
-    "language": "TypeScript",
-    "name": "skyphusion-labs/postern",
-    "stars": 4,
-    "updated_at": "2026-08-04T11:20:58Z",
-    "url": "https://github.com/skyphusion-labs/postern"
-  },
-  {
-    "description": "Search your browsing history in plain English. Local-first RAG - Chrome extension + private Python backend (FastAPI, SQL",
-    "id": "atliq/recap",
-    "language": "Python",
-    "name": "atliq/recap",
-    "stars": 10,
-    "updated_at": "2026-08-04T11:20:28Z",
-    "url": "https://github.com/atliq/recap"
-  },
-  {
-    "description": "MCP server that lets Claude Code and other AI agents work through large PDFs, and whole folders of them, without overflo",
-    "id": "jztan/pdf-mcp",
-    "language": "Python",
-    "name": "jztan/pdf-mcp",
-    "stars": 94,
-    "updated_at": "2026-08-04T11:20:26Z",
-    "url": "https://github.com/jztan/pdf-mcp"
   }
 ]
