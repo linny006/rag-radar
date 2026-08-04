@@ -1,5 +1,86 @@
 [
   {
+    "description": "Deployed study workspace with Canvas imports, RAG, background jobs, Docker/Jenkins CI/CD, and production operations.",
+    "id": "semyonfox/oghma",
+    "language": "TypeScript",
+    "name": "semyonfox/oghma",
+    "stars": 3,
+    "updated_at": "2026-08-04T21:59:26Z",
+    "url": "https://github.com/semyonfox/oghma"
+  },
+  {
+    "description": "The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing ",
+    "id": "VeriTeknik/pluggedin-app",
+    "language": "TypeScript",
+    "name": "VeriTeknik/pluggedin-app",
+    "stars": 97,
+    "updated_at": "2026-08-04T21:58:56Z",
+    "url": "https://github.com/VeriTeknik/pluggedin-app"
+  },
+  {
+    "description": "Self-hostable email for humans and agents on Cloudflare: send, receive, search, MCP, IMAP, and webmail. Identity-bound c",
+    "id": "skyphusion-labs/postern",
+    "language": "TypeScript",
+    "name": "skyphusion-labs/postern",
+    "stars": 4,
+    "updated_at": "2026-08-04T21:58:25Z",
+    "url": "https://github.com/skyphusion-labs/postern"
+  },
+  {
+    "description": "MOOTx01 Community Edition",
+    "id": "codedaptive/mootx01-ce",
+    "language": "Swift",
+    "name": "codedaptive/mootx01-ce",
+    "stars": 4,
+    "updated_at": "2026-08-04T21:58:01Z",
+    "url": "https://github.com/codedaptive/mootx01-ce"
+  },
+  {
+    "description": "Self-hosted long-term memory for AI systems. The LLM proposes, a deterministic pipeline decides.",
+    "id": "yul761/StateCore",
+    "language": "TypeScript",
+    "name": "yul761/StateCore",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:57:56Z",
+    "url": "https://github.com/yul761/StateCore"
+  },
+  {
+    "description": "Turn PDFs into token-efficient text for LLMs, plus images of the pages that carry their meaning in charts. Strips runnin",
+    "id": "ddbxl/TSP",
+    "language": "Python",
+    "name": "ddbxl/TSP",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:57:05Z",
+    "url": "https://github.com/ddbxl/TSP"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:56:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:56:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:56:40Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
     "description": "RAG pipeline over 18,000+ Usenet posts from 1993 \u2014 semantic search, query rewriting, document grading, FCM cache, and RA",
     "id": "PerinbaBuilds/Semantic-RAG-Search",
     "language": "Python",
@@ -108,15 +189,6 @@
     "url": "https://github.com/skyphusion-labs/SidVicious_exe"
   },
   {
-    "description": "Self-hostable email for humans and agents on Cloudflare: send, receive, search, MCP, IMAP, and webmail. Identity-bound c",
-    "id": "skyphusion-labs/postern",
-    "language": "TypeScript",
-    "name": "skyphusion-labs/postern",
-    "stars": 4,
-    "updated_at": "2026-08-04T21:56:42Z",
-    "url": "https://github.com/skyphusion-labs/postern"
-  },
-  {
     "description": "A testbed for faithful, auditable retrieval: Taiwan legal assistant with five anti-hallucination gates and a time-sliced",
     "id": "0Smallcat0/legal-agent",
     "language": "Python",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "skyphusion-labs/prism",
     "stars": 1,
-    "updated_at": "2026-08-04T21:55:16Z",
+    "updated_at": "2026-08-04T22:00:16Z",
     "url": "https://github.com/skyphusion-labs/prism"
   },
   {
@@ -189,15 +261,6 @@
     "url": "https://github.com/shrirambalakrishnan/tech-news-aggregator"
   },
   {
-    "description": "Turn PDFs into token-efficient text for LLMs, plus images of the pages that carry their meaning in charts. Strips runnin",
-    "id": "ddbxl/TSP",
-    "language": "Python",
-    "name": "ddbxl/TSP",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:46:38Z",
-    "url": "https://github.com/ddbxl/TSP"
-  },
-  {
     "description": "AI firewall for Node.js & TypeScript. Stop prompt injection, audio hallucinations, and RAG data scraping. Zero dependenc",
     "id": "swnotmetal/Project-Koma",
     "language": "TypeScript",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31422,
-    "updated_at": "2026-08-04T21:54:35Z",
+    "updated_at": "2026-08-04T22:00:17Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -234,21 +297,12 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi",
     "id": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "language": "C++",
     "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "stars": 1772,
-    "updated_at": "2026-08-04T21:53:53Z",
+    "updated_at": "2026-08-04T21:59:51Z",
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T21:43:44Z",
     "url": "https://github.com/sookoothaii/IntelShed"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:56:40Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T21:30:56Z",
     "url": "https://github.com/arcadamarket/rag-runtime-kernel"
-  },
-  {
-    "description": "RAG-powered pathology Q&A chatbot built on the SlideChat dataset \u2014 answers grounded strictly in source data with citatio",
-    "id": "harshitnamdev/medical-pathology-chatbot",
-    "language": "Python",
-    "name": "harshitnamdev/medical-pathology-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:30:45Z",
-    "url": "https://github.com/harshitnamdev/medical-pathology-chatbot"
-  },
-  {
-    "description": "AI agent chat UI built with React + Gemini API.   3 tools: calculator, web search, GitHub PR",
-    "id": "gosadev99-bit/gemini-chat-ui",
-    "language": "JavaScript",
-    "name": "gosadev99-bit/gemini-chat-ui",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:30:38Z",
-    "url": "https://github.com/gosadev99-bit/gemini-chat-ui"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-04T21:30:24Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "\ud83d\udc15 Self-hosted security-first AI agent \u00b7 28 providers \u00b7 11 chat channels \u00b7 WebUI \u00b7 3-level memory \u00b7 task-schedule \u00b7 autom",
-    "id": "RikyZ90/ShibaClaw",
-    "language": "Python",
-    "name": "RikyZ90/ShibaClaw",
-    "stars": 79,
-    "updated_at": "2026-08-04T21:30:04Z",
-    "url": "https://github.com/RikyZ90/ShibaClaw"
-  },
-  {
-    "description": "A local Retrieval-Augmented Generation (RAG) chatbot for Canadian tax documents using FastAPI, Next.js, Ollama, and Chro",
-    "id": "meysamrezaee/tax_assistant",
-    "language": "Python",
-    "name": "meysamrezaee/tax_assistant",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:29:48Z",
-    "url": "https://github.com/meysamrezaee/tax_assistant"
   }
 ]
