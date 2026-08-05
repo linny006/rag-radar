@@ -1,5 +1,23 @@
 [
   {
+    "description": "Multi-agent clinical communications assistant built with LangGraph and FastAPI",
+    "id": "AsheryMbilinyi/drhouse",
+    "language": "Python",
+    "name": "AsheryMbilinyi/drhouse",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:14:08Z",
+    "url": "https://github.com/AsheryMbilinyi/drhouse"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T00:14:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31424,
-    "updated_at": "2026-08-05T00:13:33Z",
+    "updated_at": "2026-08-05T00:15:11Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -108,15 +126,6 @@
     "url": "https://github.com/HhhBZzz/SpringClaw"
   },
   {
-    "description": "Multi-agent clinical communications assistant built with LangGraph and FastAPI",
-    "id": "AsheryMbilinyi/drhouse",
-    "language": "Python",
-    "name": "AsheryMbilinyi/drhouse",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:06:23Z",
-    "url": "https://github.com/AsheryMbilinyi/drhouse"
-  },
-  {
     "description": "Open source, local first AI medical agent for desktop and web.",
     "id": "bloodworks-io/phlox",
     "language": "JavaScript",
@@ -149,7 +158,7 @@
     "language": "TypeScript",
     "name": "fstamatelopoulos/cerefox",
     "stars": 14,
-    "updated_at": "2026-08-05T00:05:03Z",
+    "updated_at": "2026-08-05T00:15:02Z",
     "url": "https://github.com/fstamatelopoulos/cerefox"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 6,
     "updated_at": "2026-08-05T00:00:40Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T00:00:31Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Asistente de IA 100% local para el Sistema Nacional de Planificaci\u00f3n (SNP) de Guatemala. I Encuentro Nacional de Planifi",
