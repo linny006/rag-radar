@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
+    "id": "Ikalus1988/MisakaNet",
+    "language": "Python",
+    "name": "Ikalus1988/MisakaNet",
+    "stars": 400,
+    "updated_at": "2026-08-05T17:02:55Z",
+    "url": "https://github.com/Ikalus1988/MisakaNet"
+  },
+  {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:02:19Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
+    "description": "\ud83d\ude80 Portfolio interativo de IA: 247 web apps test\u00e1veis ao vivo (PT/ES/EN) \u2014 Finan\u00e7as, Sa\u00fade, Educa\u00e7\u00e3o, Editoras, Agro, Dir",
+    "id": "jhondados/portfolio",
+    "language": "HTML",
+    "name": "jhondados/portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:00:49Z",
+    "url": "https://github.com/jhondados/portfolio"
+  },
+  {
+    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
+    "id": "ManSio/mscodebase-intelligence",
+    "language": "Python",
+    "name": "ManSio/mscodebase-intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:00:48Z",
+    "url": "https://github.com/ManSio/mscodebase-intelligence"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-05T17:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "SIT MarkEase \u2014 AI-assisted assessment diagnosis: photograph handwritten work, get scored, diagnosed, and matched to targ",
+    "id": "likalight/sit-markease",
+    "language": "TypeScript",
+    "name": "likalight/sit-markease",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:00:32Z",
+    "url": "https://github.com/likalight/sit-markease"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T17:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "hwfengcs/DM-Code-Agent",
+    "language": "Python",
+    "name": "hwfengcs/DM-Code-Agent",
+    "stars": 149,
+    "updated_at": "2026-08-05T17:00:23Z",
+    "url": "https://github.com/hwfengcs/DM-Code-Agent"
+  },
+  {
+    "description": "Persistent memory architecture for LLM agents: episodic memory with vector search, semantic compression, memory consolid",
+    "id": "jhondados/llm-agent-memory-bank",
+    "language": "HTML",
+    "name": "jhondados/llm-agent-memory-bank",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:00:16Z",
+    "url": "https://github.com/jhondados/llm-agent-memory-bank"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-05T17:00:00Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
     "description": "\u79c1\u6709\u5316\u4ea4\u4ed8\u7684 B \u7aef\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u5355\u79df\u6237\uff0cDocker Compose \u4e00\u952e\u90e8\u7f72\uff0c\u7eaf CPU \u53ef\u79bb\u7ebf\u8dd1\u3002RAG \u5168\u94fe\u8def\u5f00\u7bb1\u5373\u7528\u2014\u2014\u6df7\u5408\u68c0\u7d22+\u91cd\u6392\uff0c\u5f15\u7528\u6eaf\u6e90\u5230\u9875\u7801/\u7ae0\u8282/\u8868\u683c/\u63d2\u56fe\uff1b\u626b\u63cf\u4ef6 OCR \u4e0e\u6ee1\u8840 VLM \u6df1\u5ea6\u89e3\u6790\u3001\u8868\u683c\u539f\u5b50\u5206\u5757\u3001\u98de\u4e66 ",
     "id": "EricZehuaChang/KBase",
     "language": "Python",
@@ -36,6 +126,15 @@
     "url": "https://github.com/landing-ai/ade-document-processing-skills"
   },
   {
+    "description": "Retrieval-Augmented Generation (RAG) system for answering legal questions using LangChain, ChromaDB, and Groq.",
+    "id": "shahinsheikh11/legal-rag-pipeline",
+    "language": "Python",
+    "name": "shahinsheikh11/legal-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-05T16:57:56Z",
+    "url": "https://github.com/shahinsheikh11/legal-rag-pipeline"
+  },
+  {
     "description": "Will My Agent Answer This? A knowledge-base AI-readiness linter. Paste an article, get a 0-100 agent-answerability score",
     "id": "roanukz/agent-answer",
     "language": "TypeScript",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "hurry060215-tech/learnnote-assistant",
     "stars": 0,
-    "updated_at": "2026-08-05T16:57:01Z",
+    "updated_at": "2026-08-05T17:00:46Z",
     "url": "https://github.com/hurry060215-tech/learnnote-assistant"
   },
   {
@@ -106,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:55:16Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 400,
-    "updated_at": "2026-08-05T16:55:16Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
   },
   {
     "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
@@ -178,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:54:05Z",
     "url": "https://github.com/arkanere/solar-app"
-  },
-  {
-    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
-    "id": "ManSio/mscodebase-intelligence",
-    "language": "Python",
-    "name": "ManSio/mscodebase-intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-05T16:54:04Z",
-    "url": "https://github.com/ManSio/mscodebase-intelligence"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T16:53:19Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "RoxanaTapia/ai-doc-to-chat-pipeline",
     "stars": 1,
-    "updated_at": "2026-08-05T16:52:30Z",
+    "updated_at": "2026-08-05T17:01:12Z",
     "url": "https://github.com/RoxanaTapia/ai-doc-to-chat-pipeline"
   },
   {
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "HKUDS/LightRAG",
     "stars": 38540,
-    "updated_at": "2026-08-05T16:52:19Z",
+    "updated_at": "2026-08-05T17:02:02Z",
     "url": "https://github.com/HKUDS/LightRAG"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:48:53Z",
     "url": "https://github.com/rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 143493,
-    "updated_at": "2026-08-05T16:48:47Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "GraphRAG para intelig\u00eancia de mercado: grafo de conhecimento extra\u00eddo por LLM combinado com busca vetorial",
-    "id": "lucianoon/techscout-ai",
-    "language": "Python",
-    "name": "lucianoon/techscout-ai",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:47:56Z",
-    "url": "https://github.com/lucianoon/techscout-ai"
-  },
-  {
-    "description": "Assistente de RH com IA generativa e RAG. Responde d\u00favidas sobre benef\u00edcios, f\u00e9rias, pol\u00edticas e folha, liberando o time",
-    "id": "jhondados/chatbot-rh",
-    "language": "HTML",
-    "name": "jhondados/chatbot-rh",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:47:50Z",
-    "url": "https://github.com/jhondados/chatbot-rh"
-  },
-  {
-    "description": "Assistente jur\u00eddico com IA generativa e RAG. Responde d\u00favidas sobre CLT, LGPD, CDC e C\u00f3digo Civil com fundamenta\u00e7\u00e3o e ci",
-    "id": "jhondados/chatbot-juridico",
-    "language": "HTML",
-    "name": "jhondados/chatbot-juridico",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:47:39Z",
-    "url": "https://github.com/jhondados/chatbot-juridico"
-  },
-  {
-    "description": "Assistente de atendimento omnichannel com IA generativa e RAG. Resolve d\u00favidas, faz recomenda\u00e7\u00f5es e escala para humano q",
-    "id": "jhondados/chatbot-atendimento",
-    "language": "HTML",
-    "name": "jhondados/chatbot-atendimento",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:47:28Z",
-    "url": "https://github.com/jhondados/chatbot-atendimento"
-  },
-  {
-    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
-    "id": "kRamu81/MedTrack_Application",
-    "language": "JavaScript",
-    "name": "kRamu81/MedTrack_Application",
-    "stars": 4,
-    "updated_at": "2026-08-05T16:47:19Z",
-    "url": "https://github.com/kRamu81/MedTrack_Application"
-  },
-  {
-    "description": "MoFlo \u2014 an opinionated, local-first AI agent orchestration toolkit for Claude Code: semantic memory, learned routing, ga",
-    "id": "eric-cielo/moflo",
-    "language": "TypeScript",
-    "name": "eric-cielo/moflo",
-    "stars": 16,
-    "updated_at": "2026-08-05T16:47:05Z",
-    "url": "https://github.com/eric-cielo/moflo"
-  },
-  {
-    "description": "Busca sem\u00e2ntica de jurisprud\u00eancia com RAG sobre 2.1M decis\u00f5es do STF/STJ. Encontra precedentes relevantes em linguagem n",
-    "id": "jhondados/busca-jurisprudencia",
-    "language": "HTML",
-    "name": "jhondados/busca-jurisprudencia",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:46:59Z",
-    "url": "https://github.com/jhondados/busca-jurisprudencia"
   }
 ]
