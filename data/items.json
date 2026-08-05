@@ -1,5 +1,95 @@
 [
   {
+    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 242,
+    "updated_at": "2026-08-05T15:30:03Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
+    "id": "ANFAIA/SkillNet",
+    "language": "Python",
+    "name": "ANFAIA/SkillNet",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:28:43Z",
+    "url": "https://github.com/ANFAIA/SkillNet"
+  },
+  {
+    "description": "Open-source coordination memory for multi-agent AI \u2014 shared agent memory with read-your-writes consistency, per-agent ac",
+    "id": "lore-gpt/lore",
+    "language": "Go",
+    "name": "lore-gpt/lore",
+    "stars": 1,
+    "updated_at": "2026-08-05T15:28:13Z",
+    "url": "https://github.com/lore-gpt/lore"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:27:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A harness for question-answering agents over your own documents \u2014 bounded context, bounded cost, every claim cited.",
+    "id": "Construct-Lab/reigner",
+    "language": "Python",
+    "name": "Construct-Lab/reigner",
+    "stars": 5,
+    "updated_at": "2026-08-05T15:27:17Z",
+    "url": "https://github.com/Construct-Lab/reigner"
+  },
+  {
+    "description": "Build, run and scale AI agents like API and microservices",
+    "id": "Agent-Field/agentfield",
+    "language": "Go",
+    "name": "Agent-Field/agentfield",
+    "stars": 2480,
+    "updated_at": "2026-08-05T15:28:16Z",
+    "url": "https://github.com/Agent-Field/agentfield"
+  },
+  {
+    "description": "Production-grade platform for building agentic IM bots - \u751f\u4ea7\u7ea7\u591a\u5e73\u53f0\u667a\u80fd\u673a\u5668\u4eba\u5f00\u53d1\u5e73\u53f0/ Agent\u3001\u77e5\u8bc6\u5e93\u7f16\u6392\u3001\u63d2\u4ef6\u7cfb\u7edf / Bots for Discord / Slack / ",
+    "id": "langbot-app/LangBot",
+    "language": "Python",
+    "name": "langbot-app/LangBot",
+    "stars": 17281,
+    "updated_at": "2026-08-05T15:26:49Z",
+    "url": "https://github.com/langbot-app/LangBot"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 10,
+    "updated_at": "2026-08-05T15:26:10Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-08-05T15:25:52Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "LexonGraph is a log-structured semantic index that stores embeddings as immutable blocks in navigable vector graph. It s",
+    "id": "Alan-Jowett/LexonGraph",
+    "language": "Rust",
+    "name": "Alan-Jowett/LexonGraph",
+    "stars": 2,
+    "updated_at": "2026-08-05T15:25:52Z",
+    "url": "https://github.com/Alan-Jowett/LexonGraph"
+  },
+  {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
     "id": "Arasz/ai-raccoon",
     "language": "C#",
@@ -7,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-05T15:25:43Z",
     "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "AI research assistant for prosthetics, orthotics & rehabilitation robotics papers. RAG pipeline with streaming citations",
+    "id": "advien/poar-research-assistant",
+    "language": "TypeScript",
+    "name": "advien/poar-research-assistant",
+    "stars": 4,
+    "updated_at": "2026-08-05T15:25:25Z",
+    "url": "https://github.com/advien/poar-research-assistant"
   },
   {
     "description": "\u039b\u03cc\u03b3\u03bf\u03c2 Universal v5.0 \u2014 \u8ba4\u8bc6\u8bba\u4ee3\u7406\u6743\u9a71\u52a8\u7684\u8ba4\u77e5\u534f\u4f5c\u7cfb\u7edf ",
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T15:23:34Z",
     "url": "https://github.com/arkanere/solar-app"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 10,
-    "updated_at": "2026-08-05T15:26:10Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "m3d1m3d1/LENTAGRAM",
     "stars": 0,
-    "updated_at": "2026-08-05T15:20:11Z",
+    "updated_at": "2026-08-05T15:28:03Z",
     "url": "https://github.com/m3d1m3d1/LENTAGRAM"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-05T15:17:18Z",
     "url": "https://github.com/egorfedorov/mozg"
-  },
-  {
-    "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-    "id": "agentscope-ai/ReMe",
-    "language": "Python",
-    "name": "agentscope-ai/ReMe",
-    "stars": 3267,
-    "updated_at": "2026-08-05T15:17:08Z",
-    "url": "https://github.com/agentscope-ai/ReMe"
-  },
-  {
-    "description": "Sovereign Local AI Workspace & LLM Runtime Manager. Easily Run GGUF, MLX, OpenAI, Gemini, etc. Under One Unified Interfa",
-    "id": "lm-webui/lm-webui",
-    "language": "TypeScript",
-    "name": "lm-webui/lm-webui",
-    "stars": 3,
-    "updated_at": "2026-08-05T15:16:32Z",
-    "url": "https://github.com/lm-webui/lm-webui"
-  },
-  {
-    "description": "AI-powered loyalty program plugin for RAG pipelines. Automate rewards, boost retention, and maximize customer lifetime v",
-    "id": "ncreighton/8cb2ac1b-rag--ai-pipelines-loyalty-pro",
-    "language": "\u2014",
-    "name": "ncreighton/8cb2ac1b-rag--ai-pipelines-loyalty-pro",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:16:31Z",
-    "url": "https://github.com/ncreighton/8cb2ac1b-rag--ai-pipelines-loyalty-pro"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:15:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Curated, vendor-neutral, auto-updating directory of frameworks, stores, benchmarks, and papers for AI agent memory.",
-    "id": "royalpinto007/awesome-agent-memory",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-memory",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:15:52Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-memory"
-  },
-  {
-    "description": "Curated, practitioner-first, auto-updating directory for context engineering in LLMs and agents.",
-    "id": "royalpinto007/awesome-context-engineering",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-context-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:15:50Z",
-    "url": "https://github.com/royalpinto007/awesome-context-engineering"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T15:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Gate RAG pipelines by membership tier. Monetize AI access, control permissions instantly, sync with WordPress membership",
-    "id": "ncreighton/aae272ed-rag--ai-pipelines-membership-",
-    "language": "\u2014",
-    "name": "ncreighton/aae272ed-rag--ai-pipelines-membership-",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:15:10Z",
-    "url": "https://github.com/ncreighton/aae272ed-rag--ai-pipelines-membership-"
-  },
-  {
-    "description": "Embed a small lesson library and search it by meaning with TypeScript and Infrai.",
-    "id": "williambrown-36/edtech-lesson-search",
-    "language": "TypeScript",
-    "name": "williambrown-36/edtech-lesson-search",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:15:09Z",
-    "url": "https://github.com/williambrown-36/edtech-lesson-search"
   }
 ]
