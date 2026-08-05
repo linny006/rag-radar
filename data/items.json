@@ -1,5 +1,104 @@
 [
   {
+    "description": "Orynode Local AI \u2014 open-source, local-first AI assistant for Apple Silicon Macs",
+    "id": "Orynode/orynode-local-ai",
+    "language": "TypeScript",
+    "name": "Orynode/orynode-local-ai",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:29:51Z",
+    "url": "https://github.com/Orynode/orynode-local-ai"
+  },
+  {
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m",
+    "id": "Tencent/WeKnora",
+    "language": "Go",
+    "name": "Tencent/WeKnora",
+    "stars": 19397,
+    "updated_at": "2026-08-05T11:29:32Z",
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "description": "LLM chat built for University of Helsinki staff and students, for education and research.",
+    "id": "UniversityOfHelsinkiCS/gptwrapper",
+    "language": "TypeScript",
+    "name": "UniversityOfHelsinkiCS/gptwrapper",
+    "stars": 11,
+    "updated_at": "2026-08-05T11:29:26Z",
+    "url": "https://github.com/UniversityOfHelsinkiCS/gptwrapper"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 15,
+    "updated_at": "2026-08-05T11:29:20Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
+    "language": "Python",
+    "name": "schuecl/nexus-rag",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:28:56Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
+    "description": "Internal audit & risk analytics projects: an LLM RAG assistant, Benford's Law forensic screening on real SEC data, and d",
+    "id": "neifertg/risk-analytics-portfolio",
+    "language": "Python",
+    "name": "neifertg/risk-analytics-portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:28:39Z",
+    "url": "https://github.com/neifertg/risk-analytics-portfolio"
+  },
+  {
+    "description": "Open-source coordination memory for multi-agent AI \u2014 shared agent memory with read-your-writes consistency, per-agent ac",
+    "id": "lore-gpt/lore",
+    "language": "Go",
+    "name": "lore-gpt/lore",
+    "stars": 1,
+    "updated_at": "2026-08-05T11:28:35Z",
+    "url": "https://github.com/lore-gpt/lore"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:28:12Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI & Machine Learning Portfolio built with Next.js, TypeScript, Tailwind CSS, showcasing AI, Computer Vision, Machine Le",
+    "id": "DivyashreeNagaraj/ai-portfolio",
+    "language": "TypeScript",
+    "name": "DivyashreeNagaraj/ai-portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:28:02Z",
+    "url": "https://github.com/DivyashreeNagaraj/ai-portfolio"
+  },
+  {
+    "description": "Polymathera's no-RAG, multi-agent framework for extremely long, dense contexts (1B+ tokens).",
+    "id": "Polymathera/colony",
+    "language": "Python",
+    "name": "Polymathera/colony",
+    "stars": 2,
+    "updated_at": "2026-08-05T11:28:01Z",
+    "url": "https://github.com/Polymathera/colony"
+  },
+  {
+    "description": "HazelJS is AI native runtime and framework",
+    "id": "hazel-js/hazeljs",
+    "language": "TypeScript",
+    "name": "hazel-js/hazeljs",
+    "stars": 48,
+    "updated_at": "2026-08-05T11:27:45Z",
+    "url": "https://github.com/hazel-js/hazeljs"
+  },
+  {
     "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 10",
     "id": "xberg-io/xberg",
     "language": "Rust",
@@ -54,6 +153,15 @@
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-05T11:26:17Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
     "description": "Production-grade RAG: hybrid retrieval (BM25+vector), cross-encoder reranking, citation enforcement, and CI-gated Ragas ",
     "id": "mimuruth/prod-rag",
     "language": "Python",
@@ -81,15 +189,6 @@
     "url": "https://github.com/XZZKANY/StoryForge"
   },
   {
-    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m",
-    "id": "Tencent/WeKnora",
-    "language": "Go",
-    "name": "Tencent/WeKnora",
-    "stars": 19396,
-    "updated_at": "2026-08-05T11:25:26Z",
-    "url": "https://github.com/Tencent/WeKnora"
-  },
-  {
     "description": "Plataforma c\u00edvica de transparencia y eficiencia para la Municipalidad de Sunchales",
     "id": "fdelloni/sunchales-transparente",
     "language": "TypeScript",
@@ -97,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T11:25:21Z",
     "url": "https://github.com/fdelloni/sunchales-transparente"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 15,
-    "updated_at": "2026-08-05T11:25:09Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "LangChain / LangGraph \u7cfb\u7edf\u5316\u5b66\u4e60\u7684\u5f00\u6e90\u6559\u7a0b\uff1a9 \u4e2a Phase\u300126 \u4e2a\u53ef\u8fd0\u884c\u793a\u4f8b\u3001\u53cc\u8bed VitePress \u6587\u6863\u7ad9\uff0c\u9012\u8fdb\u63ed\u793a\u5404 Agent \u6846\u67b6\u5171\u901a\u7684\u56fe\u7f16\u6392\u672c\u8d28\u3002(A structured LangChain / L",
@@ -153,7 +243,7 @@
     "url": "https://github.com/tryAGI/Vectara"
   },
   {
-    "description": "Bi-temporal memory engine for AI agents \u2014 persistent, structured, self-hostable memory in two API calls.",
+    "description": "A self-hostable memory engine for AI agents that can distinguish what was true from what the agent knew at the time",
     "id": "g-33-L/anansi",
     "language": "TypeScript",
     "name": "g-33-L/anansi",
@@ -167,7 +257,7 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 233,
-    "updated_at": "2026-08-05T11:23:59Z",
+    "updated_at": "2026-08-05T11:30:12Z",
     "url": "https://github.com/cortexkit/aft"
   },
   {
@@ -207,15 +297,6 @@
     "url": "https://github.com/udjin-labs/mnemostack"
   },
   {
-    "description": "HazelJS is AI native runtime and framework",
-    "id": "hazel-js/hazeljs",
-    "language": "TypeScript",
-    "name": "hazel-js/hazeljs",
-    "stars": 48,
-    "updated_at": "2026-08-05T11:27:45Z",
-    "url": "https://github.com/hazel-js/hazeljs"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -243,15 +324,6 @@
     "url": "https://github.com/likalight/sit-markease"
   },
   {
-    "description": "Orynode Local AI \u2014 open-source, local-first AI assistant for Apple Silicon Macs",
-    "id": "Orynode/orynode-local-ai",
-    "language": "TypeScript",
-    "name": "Orynode/orynode-local-ai",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:21:09Z",
-    "url": "https://github.com/Orynode/orynode-local-ai"
-  },
-  {
     "description": "Persistent memory & code intelligence server for AI coding agents. Deploy on VPS for shared memory across machines. Hybr",
     "id": "nano-step/nano-brain",
     "language": "Go",
@@ -270,15 +342,6 @@
     "url": "https://github.com/Data-Masterclass/sovereign-agentic-os"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-05T11:26:17Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
     "description": "Self-verifying AI competitive intelligence tool for PMM/GTM teams \u2014 every claim sourced, unverifiable claims cut and log",
     "id": "uroshp/scout-ci",
     "language": "Python",
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "deepset-ai/haystack",
     "stars": 26115,
-    "updated_at": "2026-08-05T11:23:17Z",
+    "updated_at": "2026-08-05T11:29:44Z",
     "url": "https://github.com/deepset-ai/haystack"
   },
   {
@@ -342,15 +405,6 @@
     "url": "https://github.com/Ki1shan/bughunter"
   },
   {
-    "description": "Open-source coordination memory for multi-agent AI \u2014 shared agent memory with read-your-writes consistency, per-agent ac",
-    "id": "lore-gpt/lore",
-    "language": "Go",
-    "name": "lore-gpt/lore",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:28:00Z",
-    "url": "https://github.com/lore-gpt/lore"
-  },
-  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-05T11:15:41Z",
     "url": "https://github.com/Krzysztof318/MailFathom"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-05T11:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI & Machine Learning Portfolio built with Next.js, TypeScript, Tailwind CSS, showcasing AI, Computer Vision, Machine Le",
-    "id": "DivyashreeNagaraj/ai-portfolio",
-    "language": "TypeScript",
-    "name": "DivyashreeNagaraj/ai-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:28:02Z",
-    "url": "https://github.com/DivyashreeNagaraj/ai-portfolio"
-  },
-  {
-    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
-    "id": "schuecl/nexus-rag",
-    "language": "Python",
-    "name": "schuecl/nexus-rag",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:14:45Z",
-    "url": "https://github.com/schuecl/nexus-rag"
-  },
-  {
-    "description": "Context-OS monorepo: workspace-centric RAG, agent loop, Rust backend, Next.js, desktop client",
-    "id": "xingchuan0105/context-osv6",
-    "language": "Rust",
-    "name": "xingchuan0105/context-osv6",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:14:26Z",
-    "url": "https://github.com/xingchuan0105/context-osv6"
-  },
-  {
-    "description": "Production-grade TypeScript AI runtime focused on reliability, governance, and reproducible LLM systems. Multi-provider ",
-    "id": "elsium-ai/elsium-ai",
-    "language": "TypeScript",
-    "name": "elsium-ai/elsium-ai",
-    "stars": 13,
-    "updated_at": "2026-08-05T11:16:19Z",
-    "url": "https://github.com/elsium-ai/elsium-ai"
   }
 ]
