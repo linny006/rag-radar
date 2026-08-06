@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-06T04:30:18Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmark",
+    "id": "modelscope/evalscope",
+    "language": "Python",
+    "name": "modelscope/evalscope",
+    "stars": 3199,
+    "updated_at": "2026-08-06T04:30:02Z",
+    "url": "https://github.com/modelscope/evalscope"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T04:29:47Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Store emotional memories and personality profiles for LLMs to deliver real-time emotion detection and tailored advice",
+    "id": "Prudencefiberscope303/emograph",
+    "language": "Python",
+    "name": "Prudencefiberscope303/emograph",
+    "stars": 1,
+    "updated_at": "2026-08-06T04:29:40Z",
+    "url": "https://github.com/Prudencefiberscope303/emograph"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151482,
+    "updated_at": "2026-08-06T04:29:39Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Analyze Alipay SecurityGuard SDK architecture, privacy, and attack surface to expose unprotected APIs and VM bypass risk",
+    "id": "emapleural312/alipay-securityguard-analysis",
+    "language": "C",
+    "name": "emapleural312/alipay-securityguard-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-06T04:29:35Z",
+    "url": "https://github.com/emapleural312/alipay-securityguard-analysis"
+  },
+  {
     "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
     "id": "schuecl/nexus-rag",
     "language": "Python",
@@ -194,7 +248,7 @@
     "language": "TypeScript",
     "name": "fullstack-ai-infra/digital-employee",
     "stars": 7,
-    "updated_at": "2026-08-06T04:26:48Z",
+    "updated_at": "2026-08-06T04:29:46Z",
     "url": "https://github.com/fullstack-ai-infra/digital-employee"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 18,
     "updated_at": "2026-08-06T04:23:35Z",
     "url": "https://github.com/speedyk-005/yasbd-lib"
-  },
-  {
-    "description": "Provide a clear, step-by-step guide to enable Secure Boot with module signature enforcement on Arch Linux using rEFInd a",
-    "id": "purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd",
-    "language": "\u2014",
-    "name": "purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:23:28Z",
-    "url": "https://github.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-06T04:23:24Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-08-06T04:22:59Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\u7e41\u9ad4\u4e2d\u6587\u6587\u4ef6\u7406\u89e3 Benchmark\uff1a\u6bd4\u8f03\u50b3\u7d71 OCR \u8207\u7aef\u5230\u7aef VLM\uff0c\u4e26\u8a55\u4f30\u8907\u96dc\u6587\u4ef6\u89e3\u6790\u5c0d chunking\u3001retrieval \u8207\u7b54\u6848\u54c1\u8cea\u7684\u9023\u9396\u5f71\u97ff\u3002",
-    "id": "kuotunyu/receipt-ocr-vlm-benchmark",
-    "language": "Python",
-    "name": "kuotunyu/receipt-ocr-vlm-benchmark",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:22:56Z",
-    "url": "https://github.com/kuotunyu/receipt-ocr-vlm-benchmark"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151482,
-    "updated_at": "2026-08-06T04:29:39Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "\ud83d\udcda Build and evaluate RAG pipelines to ingest, embed, retrieve, and answer questions with metrics for accuracy and releva",
-    "id": "Monke1/ragcraft",
-    "language": "Python",
-    "name": "Monke1/ragcraft",
-    "stars": 1,
-    "updated_at": "2026-08-06T04:22:33Z",
-    "url": "https://github.com/Monke1/ragcraft"
   }
 ]
