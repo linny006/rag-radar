@@ -1,5 +1,131 @@
 [
   {
+    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
+    "id": "off-grid-ai/OGAC",
+    "language": "TypeScript",
+    "name": "off-grid-ai/OGAC",
+    "stars": 12,
+    "updated_at": "2026-08-06T07:19:20Z",
+    "url": "https://github.com/off-grid-ai/OGAC"
+  },
+  {
+    "description": "A portfolio of things I\u2019ve built, explored, and learned along the way. Data. Models. Intelligence.",
+    "id": "kanikapitaliya/kanika-pitaliya",
+    "language": "TypeScript",
+    "name": "kanikapitaliya/kanika-pitaliya",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:18:55Z",
+    "url": "https://github.com/kanikapitaliya/kanika-pitaliya"
+  },
+  {
+    "description": "Hybrid AST + Vector RAG codebase search engine powered by Tree-sitter & Reciprocal Rank Fusion.",
+    "id": "G10DC/prism-search",
+    "language": "JavaScript",
+    "name": "G10DC/prism-search",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:18:38Z",
+    "url": "https://github.com/G10DC/prism-search"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151500,
+    "updated_at": "2026-08-06T07:18:31Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "\u690d\u7269\u5b66\u53c2\u8003\u77e5\u8bc6\u5e93 \u00b7 \u4ee5\u9010\u7269\u79cd YAML \u4e3a\u552f\u4e00\u771f\u76f8\u6e90\uff0c\u4e00\u952e\u5bfc\u51fa JSON / Markdown / SQLite\u3002",
+    "id": "yhz61010/PlantsDataCenter",
+    "language": "Python",
+    "name": "yhz61010/PlantsDataCenter",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:18:27Z",
+    "url": "https://github.com/yhz61010/PlantsDataCenter"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:18:02Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-08-06T07:17:58Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 62,
+    "updated_at": "2026-08-06T07:17:47Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "CI-first evaluation harness planning and implementation for verifiable AI applications.",
+    "id": "yuyukosama2004/eval42",
+    "language": "Python",
+    "name": "yuyukosama2004/eval42",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:17:38Z",
+    "url": "https://github.com/yuyukosama2004/eval42"
+  },
+  {
+    "description": "Citation-first RAG template with FastAPI, retrieval, and reproducible chunk preparation",
+    "id": "rai0409/chatbot",
+    "language": "Python",
+    "name": "rai0409/chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-06T07:16:44Z",
+    "url": "https://github.com/rai0409/chatbot"
+  },
+  {
+    "description": "Lightweight memory layer for AI agents: vectors + graph + metadata + entities. Local SQLite, 4-way RRF.",
+    "id": "chinesewebman/mnelo",
+    "language": "Python",
+    "name": "chinesewebman/mnelo",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:18:11Z",
+    "url": "https://github.com/chinesewebman/mnelo"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18911,
+    "updated_at": "2026-08-06T07:16:06Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production-grade RAG platform on Azure \u2014 GPT-5.1, hybrid vector search, Entra ID auth, speech I/O, safety evals, full CI",
     "id": "esuneelkumar722/knowledge-retrieval-platform",
     "language": "Python",
@@ -16,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T07:14:33Z",
     "url": "https://github.com/chobizzy/llm-wiki"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151499,
-    "updated_at": "2026-08-06T07:14:23Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
@@ -45,13 +162,13 @@
     "url": "https://github.com/UniversityOfHelsinkiCS/gptwrapper"
   },
   {
-    "description": "Lightweight memory layer for AI agents: vectors + graph + metadata + entities. Local SQLite, 4-way RRF.",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-08-06T07:13:01Z",
-    "url": "https://github.com/chinesewebman/mnelo"
+    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 29353,
+    "updated_at": "2026-08-06T07:13:00Z",
+    "url": "https://github.com/simstudioai/sim"
   },
   {
     "description": "Physical AI & Humanoid Robotics Textbook ",
@@ -131,7 +248,7 @@
     "language": "Python",
     "name": "schuecl/nexus-rag",
     "stars": 1,
-    "updated_at": "2026-08-06T07:10:41Z",
+    "updated_at": "2026-08-06T07:16:23Z",
     "url": "https://github.com/schuecl/nexus-rag"
   },
   {
@@ -160,15 +277,6 @@
     "stars": 403,
     "updated_at": "2026-08-06T07:07:56Z",
     "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 14,
-    "updated_at": "2026-08-06T07:07:32Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
     "description": "Coroutine-first Kotlin client for the Qdrant vector database: suspend APIs and type-safe DSLs, REST or opt-in gRPC behin",
@@ -261,33 +369,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Open-source control plane for private, governed enterprise AI \u2014 one gateway for every model, composable governed pipelin",
-    "id": "off-grid-ai/OGAC",
-    "language": "TypeScript",
-    "name": "off-grid-ai/OGAC",
-    "stars": 12,
-    "updated_at": "2026-08-06T07:01:35Z",
-    "url": "https://github.com/off-grid-ai/OGAC"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-06T07:00:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-06T07:00:34Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Retrieval & Reasoning Engine. A modular, RAG-based AI agentic core for automated medical telephony and patient triage.",
     "id": "DanielDeshmukh/ella",
     "language": "Python",
@@ -310,7 +391,7 @@
     "id": "zhenkun26/BusinessAgent",
     "language": "CSS",
     "name": "zhenkun26/BusinessAgent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-06T06:59:55Z",
     "url": "https://github.com/zhenkun26/BusinessAgent"
   },
@@ -338,7 +419,7 @@
     "language": "Java",
     "name": "zeweihan/aiworkdeck",
     "stars": 72,
-    "updated_at": "2026-08-06T07:11:50Z",
+    "updated_at": "2026-08-06T07:17:00Z",
     "url": "https://github.com/zeweihan/aiworkdeck"
   },
   {
@@ -349,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T06:58:42Z",
     "url": "https://github.com/ANFAIA/SkillNet"
-  },
-  {
-    "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 29352,
-    "updated_at": "2026-08-06T07:13:00Z",
-    "url": "https://github.com/simstudioai/sim"
   },
   {
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:57:39Z",
     "url": "https://github.com/hurry060215-tech/learnnote-assistant"
-  },
-  {
-    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
-    "id": "FaultMaven/faultmaven",
-    "language": "Python",
-    "name": "FaultMaven/faultmaven",
-    "stars": 2,
-    "updated_at": "2026-08-06T07:03:04Z",
-    "url": "https://github.com/FaultMaven/faultmaven"
-  },
-  {
-    "description": "Better, open-source, LLM wrapper (user management, text processing, file processing, image generation, web search, local",
-    "id": "asya-ai/asya-chat-ui",
-    "language": "Python",
-    "name": "asya-ai/asya-chat-ui",
-    "stars": 9,
-    "updated_at": "2026-08-06T06:56:52Z",
-    "url": "https://github.com/asya-ai/asya-chat-ui"
-  },
-  {
-    "description": "Personal knowledge base with hybrid search and read/write access for AI agents",
-    "id": "fstamatelopoulos/cerefox",
-    "language": "TypeScript",
-    "name": "fstamatelopoulos/cerefox",
-    "stars": 14,
-    "updated_at": "2026-08-06T07:12:34Z",
-    "url": "https://github.com/fstamatelopoulos/cerefox"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18912,
-    "updated_at": "2026-08-06T07:08:28Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Knaix | CLI for Kovalent AI",
-    "id": "kovalentai/knaix-cli",
-    "language": "Rust",
-    "name": "kovalentai/knaix-cli",
-    "stars": 0,
-    "updated_at": "2026-08-06T07:03:36Z",
-    "url": "https://github.com/kovalentai/knaix-cli"
-  },
-  {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 1,
-    "updated_at": "2026-08-06T06:55:24Z",
-    "url": "https://github.com/Matlan1/localm"
-  },
-  {
-    "description": "AnyCrawl \ud83d\ude80: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results fr",
-    "id": "any4ai/AnyCrawl",
-    "language": "TypeScript",
-    "name": "any4ai/AnyCrawl",
-    "stars": 3401,
-    "updated_at": "2026-08-06T06:54:14Z",
-    "url": "https://github.com/any4ai/AnyCrawl"
-  },
-  {
-    "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a app \u4e2d\u8f85\u52a9\u5b9e\u73b0ai\u529f\u80fd",
-    "id": "coolight7/agentxx",
-    "language": "C++",
-    "name": "coolight7/agentxx",
-    "stars": 5,
-    "updated_at": "2026-08-06T06:54:11Z",
-    "url": "https://github.com/coolight7/agentxx"
   }
 ]
