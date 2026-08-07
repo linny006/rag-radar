@@ -1,11 +1,92 @@
 [
   {
+    "description": "G\u00fcvenlik kurallar\u0131, kaynak izlenebilirli\u011fi ve RAG kullanan ki\u015fiselle\u015ftirilmi\u015f beslenme karar destek prototipi.",
+    "id": "sametcsk/CureMenu",
+    "language": "Python",
+    "name": "sametcsk/CureMenu",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:14:51Z",
+    "url": "https://github.com/sametcsk/CureMenu"
+  },
+  {
+    "description": "Deep learning implementations (ANN, CNN, RNN, LSTM, Transfer Learning) with a RAG-based document Q&A chatbot supporting ",
+    "id": "SameerAhmedAI/DL-RAG-toolkit",
+    "language": "Python",
+    "name": "SameerAhmedAI/DL-RAG-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:14:41Z",
+    "url": "https://github.com/SameerAhmedAI/DL-RAG-toolkit"
+  },
+  {
+    "description": "Teacher: del temario PDF a materiales de clase verificables (guion, diapositivas, pr\u00e1cticas, evaluaci\u00f3n). CLI open sourc",
+    "id": "686f6c61/teacher",
+    "language": "TypeScript",
+    "name": "686f6c61/teacher",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:14:40Z",
+    "url": "https://github.com/686f6c61/teacher"
+  },
+  {
+    "description": "Full-stack RAG intelligence platform using Go, Vue 3, PostgreSQL + pgvector, OpenAI, AWS, Docker, and GitHub Actions.",
+    "id": "atbakhru/signalstack-ai",
+    "language": "Go",
+    "name": "atbakhru/signalstack-ai",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:14:32Z",
+    "url": "https://github.com/atbakhru/signalstack-ai"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-07T19:14:06Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Full AI context and content layer for coding agents over one MCP server \u2014 tree-sitter code-map, document RAG, shared mem",
+    "id": "Goldziher/basemind",
+    "language": "Rust",
+    "name": "Goldziher/basemind",
+    "stars": 72,
+    "updated_at": "2026-08-07T19:14:01Z",
+    "url": "https://github.com/Goldziher/basemind"
+  },
+  {
+    "description": "A secure web-browsing proxy skill for AnythingLLM that uses Gemini to sanitize internet requests and prevent prompt inje",
+    "id": "bsagarzazu/wash-your-hands",
+    "language": "JavaScript",
+    "name": "bsagarzazu/wash-your-hands",
+    "stars": 0,
+    "updated_at": "2026-08-07T19:15:06Z",
+    "url": "https://github.com/bsagarzazu/wash-your-hands"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:13:42Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31486,
+    "updated_at": "2026-08-07T19:13:42Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
     "description": "A regulatory prep accelerator for a generic-drug Clinical Regulatory Affairs team.",
     "id": "Hussain0327/amneal",
     "language": "Python",
     "name": "Hussain0327/amneal",
     "stars": 0,
-    "updated_at": "2026-08-07T19:12:59Z",
+    "updated_at": "2026-08-07T19:14:18Z",
     "url": "https://github.com/Hussain0327/amneal"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T19:11:20Z",
     "url": "https://github.com/moad-cod/qwen-medquad-finetuning"
-  },
-  {
-    "description": "G\u00fcvenlik kurallar\u0131, kaynak izlenebilirli\u011fi ve RAG kullanan ki\u015fiselle\u015ftirilmi\u015f beslenme karar destek prototipi.",
-    "id": "sametcsk/CureMenu",
-    "language": "Python",
-    "name": "sametcsk/CureMenu",
-    "stars": 0,
-    "updated_at": "2026-08-07T19:13:33Z",
-    "url": "https://github.com/sametcsk/CureMenu"
   },
   {
     "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "Agent-Field/agentfield",
     "stars": 2488,
-    "updated_at": "2026-08-07T19:11:22Z",
+    "updated_at": "2026-08-07T19:13:54Z",
     "url": "https://github.com/Agent-Field/agentfield"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "MihaiBuilds/memory-vault",
     "stars": 60,
-    "updated_at": "2026-08-07T19:06:07Z",
+    "updated_at": "2026-08-07T19:13:44Z",
     "url": "https://github.com/MihaiBuilds/memory-vault"
   },
   {
@@ -176,7 +248,7 @@
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-07T19:05:29Z",
+    "updated_at": "2026-08-07T19:14:45Z",
     "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/abbashumein/pharmacist-cdss-api"
   },
   {
-    "description": "A secure web-browsing proxy skill for AnythingLLM that uses Gemini to sanitize internet requests and prevent prompt inje",
-    "id": "bsagarzazu/wash-your-hands",
-    "language": "JavaScript",
-    "name": "bsagarzazu/wash-your-hands",
-    "stars": 0,
-    "updated_at": "2026-08-07T19:02:03Z",
-    "url": "https://github.com/bsagarzazu/wash-your-hands"
-  },
-  {
     "description": "C# SDK for the LlamaParse API -- document parsing, extraction, RAG pipelines, and file management",
     "id": "tryAGI/LlamaParse",
     "language": "C#",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T19:01:31Z",
     "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "26 hands-on Amazon Bedrock labs: RAG with FAISS + BM25 hybrid retrieval, agents, guardrails, LLM-as-judge evaluation. Py",
-    "id": "santiago-paz/bedrock-genai-labs",
-    "language": "Python",
-    "name": "santiago-paz/bedrock-genai-labs",
-    "stars": 0,
-    "updated_at": "2026-08-07T19:01:07Z",
-    "url": "https://github.com/santiago-paz/bedrock-genai-labs"
-  },
-  {
-    "description": "RAG-powered chatbot-as-a-service \u2014 embed an AI chatbot trained on your own docs into any website",
-    "id": "arjun16-t/chatbot-saas",
-    "language": "JavaScript",
-    "name": "arjun16-t/chatbot-saas",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:00:51Z",
-    "url": "https://github.com/arjun16-t/chatbot-saas"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151713,
-    "updated_at": "2026-08-07T19:00:10Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
-    "id": "justForever17/v8-agent-os",
-    "language": "Python",
-    "name": "justForever17/v8-agent-os",
-    "stars": 1,
-    "updated_at": "2026-08-07T19:00:02Z",
-    "url": "https://github.com/justForever17/v8-agent-os"
-  },
-  {
-    "description": "\ud83e\udd8d Local, private LLM studio that brings its own engine \u2014 projects, Claude-style skills, and live file knowledge. Nothing",
-    "id": "codalanguez/MechApe",
-    "language": "JavaScript",
-    "name": "codalanguez/MechApe",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:59:45Z",
-    "url": "https://github.com/codalanguez/MechApe"
   }
 ]
