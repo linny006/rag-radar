@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T12:59:53Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Governed shared memory for AI agent fleets \u2014 multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audi",
     "id": "caura-ai/caura-memclaw",
     "language": "Python",
     "name": "caura-ai/caura-memclaw",
     "stars": 413,
-    "updated_at": "2026-08-07T12:59:19Z",
+    "updated_at": "2026-08-07T12:59:52Z",
     "url": "https://github.com/caura-ai/caura-memclaw"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Rust",
     "name": "SudoJacky/tinybot",
     "stars": 187,
-    "updated_at": "2026-08-07T12:58:43Z",
+    "updated_at": "2026-08-07T13:00:12Z",
     "url": "https://github.com/SudoJacky/tinybot"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "wish-maker/minder",
     "stars": 1,
-    "updated_at": "2026-08-07T12:59:19Z",
+    "updated_at": "2026-08-07T13:00:03Z",
     "url": "https://github.com/wish-maker/minder"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "jrhahn/ai-trainer",
     "stars": 0,
-    "updated_at": "2026-08-07T12:45:59Z",
+    "updated_at": "2026-08-07T12:59:57Z",
     "url": "https://github.com/jrhahn/ai-trainer"
   },
   {
@@ -385,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T12:45:26Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agentic AI copilot that finds freelance clients & drafts tailored proposals (RAG over portfolio, multi-agent, MCP) \u2014 hum",
