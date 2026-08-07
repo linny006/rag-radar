@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T14:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T14:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Answer ultra-precise questions \u2014 and generate grounded, citation-checked reference docs \u2014 about any open-source project ",
+    "id": "maxgfr/ultradoc",
+    "language": "JavaScript",
+    "name": "maxgfr/ultradoc",
+    "stars": 0,
+    "updated_at": "2026-08-07T14:16:09Z",
+    "url": "https://github.com/maxgfr/ultradoc"
+  },
+  {
     "description": "Recap everything the web says about a topic \u2014 keyless multi-backend web search into a citation-checked, tiered Markdown ",
     "id": "maxgfr/ultrasearch",
     "language": "TypeScript",
     "name": "maxgfr/ultrasearch",
     "stars": 0,
-    "updated_at": "2026-08-07T14:14:59Z",
+    "updated_at": "2026-08-07T14:15:46Z",
     "url": "https://github.com/maxgfr/ultrasearch"
   },
   {
@@ -25,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:14:59Z",
     "url": "https://github.com/Aditya060806/Brutus"
+  },
+  {
+    "description": "Data Engineering Handbook ti\u1ebfng Vi\u1ec7t cho Agentic AI, AIOps v\u00e0 h\u1ec7 th\u1ed1ng d\u1eef li\u1ec7u production",
+    "id": "XUanhoa04/data-engineering-handbook",
+    "language": "\u2014",
+    "name": "XUanhoa04/data-engineering-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-07T14:14:39Z",
+    "url": "https://github.com/XUanhoa04/data-engineering-handbook"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -108,15 +144,6 @@
     "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "Data Engineering Handbook ti\u1ebfng Vi\u1ec7t cho Agentic AI, AIOps v\u00e0 h\u1ec7 th\u1ed1ng d\u1eef li\u1ec7u production",
-    "id": "XUanhoa04/data-engineering-handbook",
-    "language": "\u2014",
-    "name": "XUanhoa04/data-engineering-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-07T14:14:39Z",
-    "url": "https://github.com/XUanhoa04/data-engineering-handbook"
-  },
-  {
     "description": "Helps dedupe your paperless-ngx instance",
     "id": "rknightion/paperless-ngx-dedupe",
     "language": "TypeScript",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "BandarAlmutairi-dev/arabic-document-rag",
     "stars": 1,
-    "updated_at": "2026-08-07T14:08:49Z",
+    "updated_at": "2026-08-07T14:15:43Z",
     "url": "https://github.com/BandarAlmutairi-dev/arabic-document-rag"
   },
   {
@@ -410,26 +437,8 @@
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-07T14:12:41Z",
+    "updated_at": "2026-08-07T14:16:00Z",
     "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T14:00:00Z",
     "url": "https://github.com/justForever17/v8-agent-os"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-07T13:58:50Z",
-    "url": "https://github.com/dmirain/OctoForge"
   }
 ]
