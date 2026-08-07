@@ -1,5 +1,122 @@
 [
   {
+    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
+    "id": "mezmo/aura",
+    "language": "Rust",
+    "name": "mezmo/aura",
+    "stars": 247,
+    "updated_at": "2026-08-07T21:34:50Z",
+    "url": "https://github.com/mezmo/aura"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-07T21:34:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Multimodal AI playground on Cloudflare Workers: public signup, per-user AI Gateway BYOK, chat, voice, image/video/music,",
+    "id": "skyphusion-labs/prism",
+    "language": "TypeScript",
+    "name": "skyphusion-labs/prism",
+    "stars": 1,
+    "updated_at": "2026-08-07T21:34:38Z",
+    "url": "https://github.com/skyphusion-labs/prism"
+  },
+  {
+    "description": "An AI-powered RAG chatbot built with FastAPI, LangChain, FAISS, and React.",
+    "id": "veenatanneeru/ai-knowledge-assistant",
+    "language": "Python",
+    "name": "veenatanneeru/ai-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:33:48Z",
+    "url": "https://github.com/veenatanneeru/ai-knowledge-assistant"
+  },
+  {
+    "description": "Context-efficient repository intelligence: deterministic scanning, evidence packets, validation, offline browsing, and p",
+    "id": "alphazede/bran",
+    "language": "Rust",
+    "name": "alphazede/bran",
+    "stars": 1,
+    "updated_at": "2026-08-07T21:33:37Z",
+    "url": "https://github.com/alphazede/bran"
+  },
+  {
+    "description": "Conversational paper-trading agent with a confirmation gate enforced by graph shape. FastAPI + LangGraph + RAG. AI.Accel",
+    "id": "Dera219/tradedesk",
+    "language": "Python",
+    "name": "Dera219/tradedesk",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:31:44Z",
+    "url": "https://github.com/Dera219/tradedesk"
+  },
+  {
+    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
+    "id": "tomyimkc/sophia-agi",
+    "language": "Python",
+    "name": "tomyimkc/sophia-agi",
+    "stars": 6,
+    "updated_at": "2026-08-07T21:33:08Z",
+    "url": "https://github.com/tomyimkc/sophia-agi"
+  },
+  {
+    "description": "Open-source AI Software Engineering Intelligence Platform for repository analysis, architecture understanding, code inte",
+    "id": "akinwumifakokunde-source/devmind-ai",
+    "language": "Python",
+    "name": "akinwumifakokunde-source/devmind-ai",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:31:43Z",
+    "url": "https://github.com/akinwumifakokunde-source/devmind-ai"
+  },
+  {
+    "description": "Local-first, self-evolving multi-agent council \u2014 local LLMs debate, research, and evolve to solve goals behind a Verifie",
+    "id": "sudhu72/oracle",
+    "language": "Python",
+    "name": "sudhu72/oracle",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:31:11Z",
+    "url": "https://github.com/sudhu72/oracle"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 20,
+    "updated_at": "2026-08-07T21:30:58Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Self-hosted, AI-enabled freight Fleet Management System (FMS) in Rust \u2014 loads, trips, drivers, and fleet, with an MCP se",
+    "id": "olliefms/ollie",
+    "language": "Rust",
+    "name": "olliefms/ollie",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:31:26Z",
+    "url": "https://github.com/olliefms/ollie"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-07T21:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T21:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Document Intelligence \u2014 Ask questions, extract data & compare PDF/DOCX files using RAG + Groq + LangChain. ",
     "id": "hikmat690/docai-document-intelligence",
     "language": "HTML",
@@ -185,7 +302,7 @@
     "language": "TypeScript",
     "name": "gigabyte22/elephant",
     "stars": 0,
-    "updated_at": "2026-08-07T21:27:12Z",
+    "updated_at": "2026-08-07T21:32:50Z",
     "url": "https://github.com/gigabyte22/elephant"
   },
   {
@@ -261,15 +378,6 @@
     "url": "https://github.com/AbdAsh/abdash-labs"
   },
   {
-    "description": "Local-first, self-evolving multi-agent council \u2014 local LLMs debate, research, and evolve to solve goals behind a Verifie",
-    "id": "sudhu72/oracle",
-    "language": "Python",
-    "name": "sudhu72/oracle",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:22:17Z",
-    "url": "https://github.com/sudhu72/oracle"
-  },
-  {
     "description": "Vector retrieval engine built from scratch - custom HNSW, KD-Tree, and brute-force search with grounded RAG, live benchm",
     "id": "pruthvi189/Custom-Retrieval-Engine",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T21:22:54Z",
     "url": "https://github.com/ericmey/openclaw-musubi"
-  },
-  {
-    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
-    "id": "BugraAkdemir/memo",
-    "language": "Go",
-    "name": "BugraAkdemir/memo",
-    "stars": 5,
-    "updated_at": "2026-08-07T21:20:01Z",
-    "url": "https://github.com/BugraAkdemir/memo"
-  },
-  {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:18:49Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-07T21:18:23Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
-    "id": "Krzysztof318/MailFathom",
-    "language": "C#",
-    "name": "Krzysztof318/MailFathom",
-    "stars": 4,
-    "updated_at": "2026-08-07T21:26:14Z",
-    "url": "https://github.com/Krzysztof318/MailFathom"
-  },
-  {
-    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 247,
-    "updated_at": "2026-08-07T21:17:50Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Unified Agentic AI and Business Intelligence Platform",
-    "id": "AgentSwarms-fyi/agentswarms",
-    "language": "TypeScript",
-    "name": "AgentSwarms-fyi/agentswarms",
-    "stars": 129,
-    "updated_at": "2026-08-07T21:17:12Z",
-    "url": "https://github.com/AgentSwarms-fyi/agentswarms"
-  },
-  {
-    "description": "Orchestrate armies of AI agents from a single prompt. Open-core, bring-your-own-key, and self-hostable \u2014 Orchestrator ro",
-    "id": "Yigtwxx/Maestro",
-    "language": "Python",
-    "name": "Yigtwxx/Maestro",
-    "stars": 1,
-    "updated_at": "2026-08-07T21:16:44Z",
-    "url": "https://github.com/Yigtwxx/Maestro"
-  },
-  {
-    "description": "Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating \u2014 stops LLMs inventi",
-    "id": "tomyimkc/sophia-agi",
-    "language": "Python",
-    "name": "tomyimkc/sophia-agi",
-    "stars": 6,
-    "updated_at": "2026-08-07T21:27:39Z",
-    "url": "https://github.com/tomyimkc/sophia-agi"
-  },
-  {
-    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP ",
-    "id": "gmickel/gno",
-    "language": "TypeScript",
-    "name": "gmickel/gno",
-    "stars": 102,
-    "updated_at": "2026-08-07T21:20:25Z",
-    "url": "https://github.com/gmickel/gno"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-07T21:16:05Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-07T21:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T21:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
