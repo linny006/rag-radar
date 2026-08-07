@@ -1,5 +1,32 @@
 [
   {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-07T20:00:18Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "Private search and Q&A for your documents. One binary that watches your folders and answers questions with citations, fu",
+    "id": "BenyD/haypile",
+    "language": "Go",
+    "name": "BenyD/haypile",
+    "stars": 2,
+    "updated_at": "2026-08-07T20:00:07Z",
+    "url": "https://github.com/BenyD/haypile"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-07T19:59:53Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An open-source platform for building, configuring, and deploying intelligent knowledge assistants from your documents an",
     "id": "sisques-labs/shiori-api",
     "language": "TypeScript",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31487,
-    "updated_at": "2026-08-07T19:57:31Z",
+    "updated_at": "2026-08-07T20:00:04Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "edycutjong/quorum",
     "stars": 0,
-    "updated_at": "2026-08-07T19:57:29Z",
+    "updated_at": "2026-08-07T20:00:00Z",
     "url": "https://github.com/edycutjong/quorum"
   },
   {
@@ -189,15 +216,6 @@
     "url": "https://github.com/dharmikd2905/DocIntel-agentic-RAG-platform-for-PDF-Q-A"
   },
   {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 1,
-    "updated_at": "2026-08-07T19:58:28Z",
-    "url": "https://github.com/Matlan1/localm"
-  },
-  {
     "description": "NYC High School AI Application Navigator",
     "id": "neinna/AdmitDay",
     "language": "TypeScript",
@@ -324,15 +342,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-07T19:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Automated pipeline that mirrors the Digital Research Alliance of Canada MediaWiki docs into a RAGFlow knowledge base, ge",
     "id": "ualberta-rcg/ragflow-wiki-data",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-07T19:41:03Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 1,
-    "updated_at": "2026-08-07T19:40:50Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
   }
 ]
