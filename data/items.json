@@ -1,5 +1,95 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T09:33:06Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3253,
+    "updated_at": "2026-08-08T09:33:10Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "A personal knowledge engine that synthesizes instead of transcribes \u2014 every claim carries a citation back to its source.",
+    "id": "stanleytejakusuma/alexandria",
+    "language": "Python",
+    "name": "stanleytejakusuma/alexandria",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:32:25Z",
+    "url": "https://github.com/stanleytejakusuma/alexandria"
+  },
+  {
+    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
+    "id": "ManSio/mscodebase-intelligence",
+    "language": "Python",
+    "name": "ManSio/mscodebase-intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-08T09:31:59Z",
+    "url": "https://github.com/ManSio/mscodebase-intelligence"
+  },
+  {
+    "description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+    "id": "eosphoros-ai/DB-GPT",
+    "language": "Python",
+    "name": "eosphoros-ai/DB-GPT",
+    "stars": 19667,
+    "updated_at": "2026-08-08T09:31:45Z",
+    "url": "https://github.com/eosphoros-ai/DB-GPT"
+  },
+  {
+    "description": "Build your AI team with Crewform. Orchestrate specialized, autonomous agents to collaborate on complex tasks and connect",
+    "id": "CrewForm/crewform",
+    "language": "TypeScript",
+    "name": "CrewForm/crewform",
+    "stars": 44,
+    "updated_at": "2026-08-08T09:31:35Z",
+    "url": "https://github.com/CrewForm/crewform"
+  },
+  {
+    "description": "Persian-first, offline-capable AI meeting assistant \u2014 on-premise server, live Persian transcription (faster-whisper), me",
+    "id": "Dr-Bagheri/neurai-mvp",
+    "language": "Python",
+    "name": "Dr-Bagheri/neurai-mvp",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:30:30Z",
+    "url": "https://github.com/Dr-Bagheri/neurai-mvp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T09:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T09:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite.",
+    "id": "chinesewebman/mnelo",
+    "language": "Python",
+    "name": "chinesewebman/mnelo",
+    "stars": 1,
+    "updated_at": "2026-08-08T09:30:11Z",
+    "url": "https://github.com/chinesewebman/mnelo"
+  },
+  {
     "description": "\u6e38\u620f\u738b OCG \u88c1\u5b9a\u52a9\u624b\uff1a\u7ed3\u5408\u5b98\u65b9 Q&A\u3001\u89c4\u5219\u8d44\u6599\u3001\u5361\u7247\u6587\u672c\u4e0e Lua \u8f85\u52a9\u8bed\u4e49\u751f\u6210\u53ef\u8ffd\u6eaf\u7684\u89c4\u5219\u5206\u6790\u3002Yu-Gi-Oh! OCG ruling assistant for Chinese players.",
     "id": "coldiceh/ocg-ruling-assistant",
     "language": "JavaScript",
@@ -61,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T09:27:52Z",
     "url": "https://github.com/syshin0116/syshin0116.dev"
-  },
-  {
-    "description": "Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite.",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-08-08T09:30:11Z",
-    "url": "https://github.com/chinesewebman/mnelo"
-  },
-  {
-    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
-    "id": "ManSio/mscodebase-intelligence",
-    "language": "Python",
-    "name": "ManSio/mscodebase-intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-08T09:26:40Z",
-    "url": "https://github.com/ManSio/mscodebase-intelligence"
   },
   {
     "description": "Secure RAG knowledge assistant with document ingestion, source-grounded answers, access controls, analytics, and human e",
@@ -151,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T09:24:02Z",
     "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "Persian-first, offline-capable AI meeting assistant \u2014 on-premise server, live Persian transcription (faster-whisper), me",
-    "id": "Dr-Bagheri/neurai-mvp",
-    "language": "Python",
-    "name": "Dr-Bagheri/neurai-mvp",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:24:02Z",
-    "url": "https://github.com/Dr-Bagheri/neurai-mvp"
   },
   {
     "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
@@ -248,7 +311,7 @@
     "language": "Java",
     "name": "zeweihan/aiworkdeck",
     "stars": 72,
-    "updated_at": "2026-08-08T09:28:29Z",
+    "updated_at": "2026-08-08T09:32:42Z",
     "url": "https://github.com/zeweihan/aiworkdeck"
   },
   {
@@ -288,24 +351,6 @@
     "url": "https://github.com/caura-ai/caura-memclaw"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T09:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T09:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -333,15 +378,6 @@
     "url": "https://github.com/tywangq/leasehound"
   },
   {
-    "description": "A personal knowledge engine that synthesizes instead of transcribes \u2014 every claim carries a citation back to its source.",
-    "id": "stanleytejakusuma/alexandria",
-    "language": "Python",
-    "name": "stanleytejakusuma/alexandria",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:12:48Z",
-    "url": "https://github.com/stanleytejakusuma/alexandria"
-  },
-  {
     "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
     "id": "BugraAkdemir/memo",
     "language": "Go",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "imrohitagrawal/narratwin-ai",
     "stars": 0,
-    "updated_at": "2026-08-08T09:26:20Z",
+    "updated_at": "2026-08-08T09:32:02Z",
     "url": "https://github.com/imrohitagrawal/narratwin-ai"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T09:06:11Z",
     "url": "https://github.com/EvosROAR/lumen"
-  },
-  {
-    "description": "Evidence-grounded, agentic AI health & training coach: grounded RAG with citations, Gemini function-calling tools, long-",
-    "id": "GabrieleBosi/lodestar-coach",
-    "language": "TypeScript",
-    "name": "GabrieleBosi/lodestar-coach",
-    "stars": 0,
-    "updated_at": "2026-08-08T09:06:10Z",
-    "url": "https://github.com/GabrieleBosi/lodestar-coach"
-  },
-  {
-    "description": "Self-hosted RAG stack for crawl, scrape, search, ingest, query, and ask workflows with Qdrant, TEI embeddings, Chrome re",
-    "id": "dinglebear-ai/axon",
-    "language": "Rust",
-    "name": "dinglebear-ai/axon",
-    "stars": 3,
-    "updated_at": "2026-08-08T09:29:54Z",
-    "url": "https://github.com/dinglebear-ai/axon"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-08T09:04:00Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3253,
-    "updated_at": "2026-08-08T09:29:04Z",
-    "url": "https://github.com/neomjs/neo"
   }
 ]
