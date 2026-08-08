@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T22:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T22:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting + document notebook \u2014 on-device Whisper transcription, source-linked notes, @brain and his",
     "id": "murmur-io/murmur",
     "language": "Rust",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "inite-ai/inite-brain-service",
     "stars": 32,
-    "updated_at": "2026-08-08T21:59:42Z",
+    "updated_at": "2026-08-08T22:00:54Z",
     "url": "https://github.com/inite-ai/inite-brain-service"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/nifontovoleg/haystack-telegram-agent"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T21:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Personal portfolio of Gagan Jain \u2014 AI / LLM Engineer. Astro 7 + Tailwind CSS v4 + GSAP. Features a data-driven r\u00e9sum\u00e9, d",
     "id": "gaganjainse/portfolio",
     "language": "Astro",
@@ -241,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T21:45:19Z",
     "url": "https://github.com/gaganjainse/portfolio"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T21:45:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fully local governed RAG for code, documents, and tables. No LLM API key. No GPU. No infrastructure.",
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18975,
-    "updated_at": "2026-08-08T21:57:50Z",
+    "updated_at": "2026-08-08T22:00:29Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
