@@ -1,12 +1,111 @@
 [
   {
+    "description": "Provenance-aware memory for AI agents.",
+    "id": "veracium-ai/Veracium",
+    "language": "Python",
+    "name": "veracium-ai/Veracium",
+    "stars": 7,
+    "updated_at": "2026-08-08T16:50:07Z",
+    "url": "https://github.com/veracium-ai/Veracium"
+  },
+  {
+    "description": "Self-hosted corporate AI assistant: 12 messengers, RAG, monitors, coding tools, RBAC. Python/TS/Go/Rust stack. Privacy-f",
+    "id": "ssrjkk/raven",
+    "language": "Python",
+    "name": "ssrjkk/raven",
+    "stars": 3,
+    "updated_at": "2026-08-08T16:49:30Z",
+    "url": "https://github.com/ssrjkk/raven"
+  },
+  {
+    "description": "Ready to Self Deployed Final Project App",
+    "id": "thirza258/CRAG_MultiHop_App-Non-Experiment-Result-",
+    "language": "Python",
+    "name": "thirza258/CRAG_MultiHop_App-Non-Experiment-Result-",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:48:36Z",
+    "url": "https://github.com/thirza258/CRAG_MultiHop_App-Non-Experiment-Result-"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5713,
+    "updated_at": "2026-08-08T16:48:27Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
     "id": "Arasz/ai-raccoon",
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-08T16:45:12Z",
+    "updated_at": "2026-08-08T16:46:55Z",
     "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "The open-source alternative to Ironclad + Harvey. Self-hosted, AI-native contract lifecycle management \u2014 your contracts ",
+    "id": "AniketTati/draft-legal",
+    "language": "TypeScript",
+    "name": "AniketTati/draft-legal",
+    "stars": 11,
+    "updated_at": "2026-08-08T16:46:50Z",
+    "url": "https://github.com/AniketTati/draft-legal"
+  },
+  {
+    "description": "CodeSheriff is an intelligent AI-powered code review assistant that automates the analysis of pull requests. By integrat",
+    "id": "amaan-ur-raheman/codesheriff",
+    "language": "TypeScript",
+    "name": "amaan-ur-raheman/codesheriff",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:46:48Z",
+    "url": "https://github.com/amaan-ur-raheman/codesheriff"
+  },
+  {
+    "description": "Arabic document question-answering API under active development using FastAPI, with planned RAG, vector search, evaluati",
+    "id": "BandarAlmutairi-dev/arabic-document-rag",
+    "language": "Python",
+    "name": "BandarAlmutairi-dev/arabic-document-rag",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:46:12Z",
+    "url": "https://github.com/BandarAlmutairi-dev/arabic-document-rag"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-08T16:45:55Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "A self-hosted AI workspace that remembers your work and shows its reasoning \u2014 running entirely on your own computer, wit",
+    "id": "d4shm1r/amagra",
+    "language": "Python",
+    "name": "d4shm1r/amagra",
+    "stars": 0,
+    "updated_at": "2026-08-08T16:45:36Z",
+    "url": "https://github.com/d4shm1r/amagra"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:45:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T16:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast, pure-Python full-text indexing and search. Actively maintained continuation of Whoosh / whoosh-reloaded. Install: ",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "priya-sundaram-dev/whoosh",
     "stars": 24,
-    "updated_at": "2026-08-08T16:45:04Z",
+    "updated_at": "2026-08-08T16:46:35Z",
     "url": "https://github.com/priya-sundaram-dev/whoosh"
   },
   {
@@ -131,7 +230,7 @@
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 215,
-    "updated_at": "2026-08-08T16:43:07Z",
+    "updated_at": "2026-08-08T16:46:37Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -194,7 +293,7 @@
     "language": "Python",
     "name": "HKUDS/LightRAG",
     "stars": 38649,
-    "updated_at": "2026-08-08T16:40:35Z",
+    "updated_at": "2026-08-08T16:46:49Z",
     "url": "https://github.com/HKUDS/LightRAG"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T16:36:15Z",
     "url": "https://github.com/imrohitagrawal/narratwin-ai"
-  },
-  {
-    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
-    "id": "bimal1023/AI-native-engineer",
-    "language": "\u2014",
-    "name": "bimal1023/AI-native-engineer",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:35:33Z",
-    "url": "https://github.com/bimal1023/AI-native-engineer"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 14,
-    "updated_at": "2026-08-08T16:34:13Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:34:00Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
-  },
-  {
-    "description": "Open-source multi-agent orchestration with cost-awareness, security, and compliance built in. Anthropic, OpenAI, and off",
-    "id": "sekacorn/AgentForge",
-    "language": "Python",
-    "name": "sekacorn/AgentForge",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:34:09Z",
-    "url": "https://github.com/sekacorn/AgentForge"
-  },
-  {
-    "description": "Production-grade blueprint for building AI/LLM platforms \u2014 FastAPI, local-first LLM runtime (Ollama), and vector search,",
-    "id": "rafael-ceotto/ai-platform-blueprint",
-    "language": "Python",
-    "name": "rafael-ceotto/ai-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:33:46Z",
-    "url": "https://github.com/rafael-ceotto/ai-platform-blueprint"
-  },
-  {
-    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
-    "id": "mabaeyens/mira-core",
-    "language": "Python",
-    "name": "mabaeyens/mira-core",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:33:44Z",
-    "url": "https://github.com/mabaeyens/mira-core"
-  },
-  {
-    "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. ",
-    "id": "cactus-compute/cactus",
-    "language": "C++",
-    "name": "cactus-compute/cactus",
-    "stars": 5565,
-    "updated_at": "2026-08-08T16:33:41Z",
-    "url": "https://github.com/cactus-compute/cactus"
-  },
-  {
-    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging",
-    "id": "Ikalus1988/MisakaNet",
-    "language": "Python",
-    "name": "Ikalus1988/MisakaNet",
-    "stars": 419,
-    "updated_at": "2026-08-08T16:32:35Z",
-    "url": "https://github.com/Ikalus1988/MisakaNet"
-  },
-  {
-    "description": "\u26a1 The fastest semantic text chunking library a SIMD-accelerated Rust core with a sync + async Python API.",
-    "id": "Deepchavda007/blazechunk",
-    "language": "Rust",
-    "name": "Deepchavda007/blazechunk",
-    "stars": 3,
-    "updated_at": "2026-08-08T16:31:22Z",
-    "url": "https://github.com/Deepchavda007/blazechunk"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T16:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   }
 ]
