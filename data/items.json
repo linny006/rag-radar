@@ -1,5 +1,95 @@
 [
   {
+    "description": "Agent memory that needs no API key, no LLM, and no embedding provider. One command on Bun and it is serving MCP over std",
+    "id": "RamaAditya49/titen",
+    "language": "TypeScript",
+    "name": "RamaAditya49/titen",
+    "stars": 9,
+    "updated_at": "2026-08-08T10:49:46Z",
+    "url": "https://github.com/RamaAditya49/titen"
+  },
+  {
+    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
+    "id": "mabaeyens/mira-core",
+    "language": "Python",
+    "name": "mabaeyens/mira-core",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:49:43Z",
+    "url": "https://github.com/mabaeyens/mira-core"
+  },
+  {
+    "description": "Open-source AI project operations workbench for event, brand, and B2B marketing",
+    "id": "Patch-A/marketops-ai-workbench",
+    "language": "CSS",
+    "name": "Patch-A/marketops-ai-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:48:54Z",
+    "url": "https://github.com/Patch-A/marketops-ai-workbench"
+  },
+  {
+    "description": "Practical Generative AI projects covering LLMs, RAG, AI agents, SQL agents, tool calling, and Streamlit applications bui",
+    "id": "pranayprasad7001/generative-ai-projects",
+    "language": "Python",
+    "name": "pranayprasad7001/generative-ai-projects",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:47:14Z",
+    "url": "https://github.com/pranayprasad7001/generative-ai-projects"
+  },
+  {
+    "description": "A 100% offline Local RAG (Retrieval-Augmented Generation) assistant built with Microsoft Foundry Local, utilizing Phi-3.",
+    "id": "berktopal/microsoft-foundry-local-rag",
+    "language": "Python",
+    "name": "berktopal/microsoft-foundry-local-rag",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:47:03Z",
+    "url": "https://github.com/berktopal/microsoft-foundry-local-rag"
+  },
+  {
+    "description": "In modern international business, conversations often shift between languages. Transcript AI bridges this gap by utilizi",
+    "id": "aiKunalBisht/Transcript-ai",
+    "language": "Python",
+    "name": "aiKunalBisht/Transcript-ai",
+    "stars": 3,
+    "updated_at": "2026-08-08T10:47:02Z",
+    "url": "https://github.com/aiKunalBisht/Transcript-ai"
+  },
+  {
+    "description": "A local-first, open-source knowledge engine for document ingestion, retrieval, grounded synthesis, citations, and MCP. P",
+    "id": "atharvpatil2748/Mnemo",
+    "language": "Python",
+    "name": "atharvpatil2748/Mnemo",
+    "stars": 0,
+    "updated_at": "2026-08-08T10:46:36Z",
+    "url": "https://github.com/atharvpatil2748/Mnemo"
+  },
+  {
+    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+    "id": "bojieli/ai-agent-book",
+    "language": "Python",
+    "name": "bojieli/ai-agent-book",
+    "stars": 34549,
+    "updated_at": "2026-08-08T10:46:17Z",
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T10:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T10:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG-based document Q&A platform with source-grounded citations and rate limiting. Bun + Express backend, LangChain for c",
     "id": "subhamoydatta703/DocSense",
     "language": "TypeScript",
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 9,
-    "updated_at": "2026-08-08T10:43:29Z",
+    "updated_at": "2026-08-08T10:45:21Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -97,6 +187,15 @@
     "stars": 10,
     "updated_at": "2026-08-08T10:42:56Z",
     "url": "https://github.com/mshtawythug/second-brain"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151763,
+    "updated_at": "2026-08-08T10:41:02Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -261,15 +360,6 @@
     "url": "https://github.com/oigrex666/mcp-context-chronicler"
   },
   {
-    "description": "Open-source AI project operations workbench for event, brand, and B2B marketing",
-    "id": "Patch-A/marketops-ai-workbench",
-    "language": "CSS",
-    "name": "Patch-A/marketops-ai-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:33:47Z",
-    "url": "https://github.com/Patch-A/marketops-ai-workbench"
-  },
-  {
     "description": "Persian-first, offline-capable AI meeting assistant \u2014 on-premise server, live Persian transcription (faster-whisper), me",
     "id": "Dr-Bagheri/neurai-mvp",
     "language": "Python",
@@ -304,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:31:10Z",
     "url": "https://github.com/shakfu/infer-app"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:31:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Answer ultra-precise questions \u2014 and generate grounded, citation-checked reference docs \u2014 about any open-source project ",
@@ -351,15 +432,6 @@
     "url": "https://github.com/brimstonevegetablemarrow362/QS-LORA"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI \u5168\u6808\u5f00\u53d1\u5b66\u4e60\u5b9e\u9a8c\u5ba4 - 496\u9053\u7f16\u7a0b\u7ec3\u4e60 (Python/C/Rust/Go/20+\u8bed\u8a00 + AI\u6570\u5b66 + RAG + DevOps + \u5b89\u5168\u653b\u9632)",
     "id": "Z4OR-cyber/ai-fullstack-lab",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:28:53Z",
     "url": "https://github.com/lucagattoni/pinakes"
-  },
-  {
-    "description": "\u2702\ufe0f High-performance SIMD tokenizer and multi-mode strategy chunker for FastJava retrieval pipelines (0.1.2)",
-    "id": "andrestubbe/FastContentChunk",
-    "language": "Java",
-    "name": "andrestubbe/FastContentChunk",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:28:31Z",
-    "url": "https://github.com/andrestubbe/FastContentChunk"
-  },
-  {
-    "description": "A RAG app to breakdown complex technical documents ",
-    "id": "Kaynaaf/NanoRAG",
-    "language": "Python",
-    "name": "Kaynaaf/NanoRAG",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:27:36Z",
-    "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "Recap everything the web says about a topic \u2014 keyless multi-backend web search into a citation-checked, tiered Markdown ",
-    "id": "maxgfr/ultrasearch",
-    "language": "TypeScript",
-    "name": "maxgfr/ultrasearch",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:26:58Z",
-    "url": "https://github.com/maxgfr/ultrasearch"
-  },
-  {
-    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
-    "id": "CSE-Sudo-26/sudo-capstone-project",
-    "language": "Dart",
-    "name": "CSE-Sudo-26/sudo-capstone-project",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:26:48Z",
-    "url": "https://github.com/CSE-Sudo-26/sudo-capstone-project"
-  },
-  {
-    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
-    "id": "tale-project/tale",
-    "language": "TypeScript",
-    "name": "tale-project/tale",
-    "stars": 20,
-    "updated_at": "2026-08-08T10:26:05Z",
-    "url": "https://github.com/tale-project/tale"
-  },
-  {
-    "description": "Fusion \u591a\u6a21\u578b AI \u5de5\u4f5c\u53f0\u524d\u7aef\u4e0e\u684c\u9762\u7aef\uff1a\u652f\u6301\u667a\u80fd\u5bf9\u8bdd\u3001\u6587\u4ef6\u7406\u89e3\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u591a\u7aef\u4f53\u9a8c\u3002",
-    "id": "HyxiaoGe/fusion-ui",
-    "language": "TypeScript",
-    "name": "HyxiaoGe/fusion-ui",
-    "stars": 7,
-    "updated_at": "2026-08-08T10:24:45Z",
-    "url": "https://github.com/HyxiaoGe/fusion-ui"
-  },
-  {
-    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
-    "id": "debasish3807-afk/sona-ai-os",
-    "language": "Python",
-    "name": "debasish3807-afk/sona-ai-os",
-    "stars": 1,
-    "updated_at": "2026-08-08T10:24:12Z",
-    "url": "https://github.com/debasish3807-afk/sona-ai-os"
-  },
-  {
-    "description": "Private search and Q&A for your documents. One binary that watches your folders and answers questions with citations, fu",
-    "id": "BenyD/haypile",
-    "language": "Go",
-    "name": "BenyD/haypile",
-    "stars": 2,
-    "updated_at": "2026-08-08T10:24:06Z",
-    "url": "https://github.com/BenyD/haypile"
   }
 ]
