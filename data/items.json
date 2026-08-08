@@ -1,5 +1,113 @@
 [
   {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 5,
+    "updated_at": "2026-08-08T14:16:59Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "A stateful roleplay agent with layered memory, hybrid RAG, structured world state, and auditable tool execution.",
+    "id": "maximilian-2778/saraswati-agent",
+    "language": "Python",
+    "name": "maximilian-2778/saraswati-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:16:59Z",
+    "url": "https://github.com/maximilian-2778/saraswati-agent"
+  },
+  {
+    "description": "Open-source chatbot builder \u2014 easy creation of conversational interfaces. Visual flow canvas + form builder, RAG knowled",
+    "id": "muhammadsami987123/chatforge",
+    "language": "TypeScript",
+    "name": "muhammadsami987123/chatforge",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:16:55Z",
+    "url": "https://github.com/muhammadsami987123/chatforge"
+  },
+  {
+    "description": "Agent-compiled knowledge base: compile/cache/retrieve as one answer ladder, with computable staleness and machine-verifi",
+    "id": "coredipper/scriptorium",
+    "language": "Python",
+    "name": "coredipper/scriptorium",
+    "stars": 4,
+    "updated_at": "2026-08-08T14:16:55Z",
+    "url": "https://github.com/coredipper/scriptorium"
+  },
+  {
+    "description": "Agent memory that needs no API key, no LLM, and no embedding provider. One command on Bun and it is serving MCP over std",
+    "id": "RamaAditya49/titen",
+    "language": "TypeScript",
+    "name": "RamaAditya49/titen",
+    "stars": 10,
+    "updated_at": "2026-08-08T14:16:27Z",
+    "url": "https://github.com/RamaAditya49/titen"
+  },
+  {
+    "description": "\ud83d\udc0d Personal AI agent in pure Python \u2014 OpenClaw reimagined. Memory, RAG, skills marketplace, cron, voice. Telegram/Discord",
+    "id": "ericwang915/PythonClaw",
+    "language": "Python",
+    "name": "ericwang915/PythonClaw",
+    "stars": 38,
+    "updated_at": "2026-08-08T14:16:22Z",
+    "url": "https://github.com/ericwang915/PythonClaw"
+  },
+  {
+    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:16:01Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
+    "id": "bailong-Hakuryu/E.R.I.I",
+    "language": "Python",
+    "name": "bailong-Hakuryu/E.R.I.I",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:15:58Z",
+    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T14:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T14:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chain",
+    "id": "zeweihan/aiworkdeck",
+    "language": "Java",
+    "name": "zeweihan/aiworkdeck",
+    "stars": 72,
+    "updated_at": "2026-08-08T14:15:19Z",
+    "url": "https://github.com/zeweihan/aiworkdeck"
+  },
+  {
+    "description": "\ub2e8\uc21c \uac80\uc0c9\uc744 \ub118\uc5b4\uc120 \uc2e4\uc804\ud615 Advanced RAG \ubc31\uc5d4\ub4dc. \ud558\uc774\ube0c\ub9ac\ub4dc \uac80\uc0c9(RRF), \ub3d9\uc801 \ub9ac\ub7ad\ud0b9, \uadf8\ub9ac\uace0 \ud658\uac01(Hallucination) \uc81c\uc5b4 \ud30c\uc774\ud504\ub77c\uc778\uc744 \uad6c\ucd95\ud55c RAG \ud504\ub85c\uc81d\ud2b8\uc785\ub2c8\ub2e4",
+    "id": "Hgon86/DochiBot",
+    "language": "Kotlin",
+    "name": "Hgon86/DochiBot",
+    "stars": 1,
+    "updated_at": "2026-08-08T14:15:16Z",
+    "url": "https://github.com/Hgon86/DochiBot"
+  },
+  {
     "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
     "id": "Yacine-ai-tech/RAGeval",
     "language": "HTML",
@@ -7,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-08-08T14:15:06Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP \u2014 edits Markdow",
+    "id": "MarcoPorcellato/matryca-plumber",
+    "language": "Python",
+    "name": "MarcoPorcellato/matryca-plumber",
+    "stars": 91,
+    "updated_at": "2026-08-08T14:14:54Z",
+    "url": "https://github.com/MarcoPorcellato/matryca-plumber"
   },
   {
     "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
@@ -27,15 +144,6 @@
     "url": "https://github.com/xuiltul/animaworks"
   },
   {
-    "description": "A decoupled, zero-dependency dual-track long-term memory engine for LLM AI Agents. | \u7ecf\u9a8c\u56de\u60f3\u4e0e\u5370\u8c61\u6574\u5408\u5f15\u64ce",
-    "id": "bailong-Hakuryu/E.R.I.I",
-    "language": "Python",
-    "name": "bailong-Hakuryu/E.R.I.I",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:14:05Z",
-    "url": "https://github.com/bailong-Hakuryu/E.R.I.I"
-  },
-  {
     "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
     "id": "mabaeyens/mira-core",
     "language": "Python",
@@ -50,7 +158,7 @@
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 215,
-    "updated_at": "2026-08-08T14:14:33Z",
+    "updated_at": "2026-08-08T14:15:34Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -97,15 +205,6 @@
     "stars": 34634,
     "updated_at": "2026-08-08T14:12:09Z",
     "url": "https://github.com/bojieli/ai-agent-book"
-  },
-  {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 5,
-    "updated_at": "2026-08-08T14:11:43Z",
-    "url": "https://github.com/Mubder/kazma"
   },
   {
     "description": "An AI-powered Study Assistant using RAG, LangChain, FAISS, and Google Gemini for intelligent document-based learning.",
@@ -207,15 +306,6 @@
     "url": "https://github.com/markfietje/brain-server"
   },
   {
-    "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chain",
-    "id": "zeweihan/aiworkdeck",
-    "language": "Java",
-    "name": "zeweihan/aiworkdeck",
-    "stars": 72,
-    "updated_at": "2026-08-08T14:14:39Z",
-    "url": "https://github.com/zeweihan/aiworkdeck"
-  },
-  {
     "description": "\u901a\u7528\u5973\u4ec6\u673a\u5668\u4eba\u672c\u5730\u7248 Rust \u670d\u52a1",
     "id": "kuliantnt/qq-maid-bot",
     "language": "Rust",
@@ -270,15 +360,6 @@
     "url": "https://github.com/arnaudlopez/SuperMemory"
   },
   {
-    "description": "Agent-compiled knowledge base: compile/cache/retrieve as one answer ladder, with computable staleness and machine-verifi",
-    "id": "coredipper/scriptorium",
-    "language": "Python",
-    "name": "coredipper/scriptorium",
-    "stars": 4,
-    "updated_at": "2026-08-08T14:13:25Z",
-    "url": "https://github.com/coredipper/scriptorium"
-  },
-  {
     "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
     "id": "tobocop2/lilbee",
     "language": "Python",
@@ -313,24 +394,6 @@
     "stars": 55,
     "updated_at": "2026-08-08T14:02:42Z",
     "url": "https://github.com/xiyue188/RAG"
-  },
-  {
-    "description": "\ud83d\udc0d Personal AI agent in pure Python \u2014 OpenClaw reimagined. Memory, RAG, skills marketplace, cron, voice. Telegram/Discord",
-    "id": "ericwang915/PythonClaw",
-    "language": "Python",
-    "name": "ericwang915/PythonClaw",
-    "stars": 38,
-    "updated_at": "2026-08-08T14:02:10Z",
-    "url": "https://github.com/ericwang915/PythonClaw"
-  },
-  {
-    "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP \u2014 edits Markdow",
-    "id": "MarcoPorcellato/matryca-plumber",
-    "language": "Python",
-    "name": "MarcoPorcellato/matryca-plumber",
-    "stars": 91,
-    "updated_at": "2026-08-08T14:14:54Z",
-    "url": "https://github.com/MarcoPorcellato/matryca-plumber"
   },
   {
     "description": "Provenance-aware memory for AI agents.",
@@ -369,24 +432,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
     "id": "ghourimarti/Product-Recommender-Engine",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T14:00:16Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Production-grade blueprint for building AI/LLM platforms \u2014 FastAPI, local-first LLM runtime (Ollama), and vector search,",
-    "id": "rafael-ceotto/ai-platform-blueprint",
-    "language": "Python",
-    "name": "rafael-ceotto/ai-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:00:16Z",
-    "url": "https://github.com/rafael-ceotto/ai-platform-blueprint"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "TypeScript",
-    "name": "EVEDensity/AgentHub",
-    "stars": 21,
-    "updated_at": "2026-08-08T13:59:29Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-08T13:58:55Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "ui for ansible with AI",
-    "id": "mar0ls/playforge",
-    "language": "Python",
-    "name": "mar0ls/playforge",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:11:55Z",
-    "url": "https://github.com/mar0ls/playforge"
-  },
-  {
-    "description": "RAG-based document Q&A platform with source-grounded citations and rate limiting. Bun + Express backend, LangChain for c",
-    "id": "subhamoydatta703/DocSense",
-    "language": "TypeScript",
-    "name": "subhamoydatta703/DocSense",
-    "stars": 0,
-    "updated_at": "2026-08-08T13:57:40Z",
-    "url": "https://github.com/subhamoydatta703/DocSense"
   }
 ]
