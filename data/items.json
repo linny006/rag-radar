@@ -1,5 +1,113 @@
 [
   {
+    "description": "Stop feeding broken Markdown to your AI. A deterministic Logseq parser that preserves parent-child context for RAG, plus",
+    "id": "MarcoPorcellato/logseq-matryca-parser",
+    "language": "Python",
+    "name": "MarcoPorcellato/logseq-matryca-parser",
+    "stars": 27,
+    "updated_at": "2026-08-08T07:03:07Z",
+    "url": "https://github.com/MarcoPorcellato/logseq-matryca-parser"
+  },
+  {
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
+    "language": "Python",
+    "name": "schuecl/nexus-rag",
+    "stars": 2,
+    "updated_at": "2026-08-08T07:03:01Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-08T07:02:34Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "An AI-powered Study Assistant using RAG, LangChain, FAISS, and Google Gemini for intelligent document-based learning.",
+    "id": "thotliharshitha/nex-01-ai",
+    "language": "Python",
+    "name": "thotliharshitha/nex-01-ai",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:02:21Z",
+    "url": "https://github.com/thotliharshitha/nex-01-ai"
+  },
+  {
+    "description": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, Lang",
+    "id": "Haozhe-Xing/agent_learning",
+    "language": "HTML",
+    "name": "Haozhe-Xing/agent_learning",
+    "stars": 380,
+    "updated_at": "2026-08-08T07:02:01Z",
+    "url": "https://github.com/Haozhe-Xing/agent_learning"
+  },
+  {
+    "description": "A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste",
+    "id": "RIT-MESH/system-design-mastery",
+    "language": "Mermaid",
+    "name": "RIT-MESH/system-design-mastery",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:01:37Z",
+    "url": "https://github.com/RIT-MESH/system-design-mastery"
+  },
+  {
+    "description": "Local, private semantic (vector) search over any folder of Markdown files. Cross-lingual, offline, no API keys, no vecto",
+    "id": "chelslava/md-semantic-search",
+    "language": "JavaScript",
+    "name": "chelslava/md-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:01:32Z",
+    "url": "https://github.com/chelslava/md-semantic-search"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 9,
+    "updated_at": "2026-08-08T07:01:29Z",
+    "url": "https://github.com/Artexis10/exomem"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T07:00:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Help AI agents remember, reason, and continue work across sessions through event-sourced cognitive continuity.",
+    "id": "NeutronZero/RationaleVault",
+    "language": "Python",
+    "name": "NeutronZero/RationaleVault",
+    "stars": 0,
+    "updated_at": "2026-08-08T07:00:27Z",
+    "url": "https://github.com/NeutronZero/RationaleVault"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T07:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T07:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
     "id": "VINAY7033/docu-query-assistant",
     "language": "HTML",
@@ -16,24 +124,6 @@
     "stars": 241,
     "updated_at": "2026-08-08T06:59:50Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
-    "id": "schuecl/nexus-rag",
-    "language": "Python",
-    "name": "schuecl/nexus-rag",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:59:49Z",
-    "url": "https://github.com/schuecl/nexus-rag"
-  },
-  {
-    "description": "A graded, original system-design curriculum from prerequisites to extreme scale - 97 chapters, 66 case studies, AI syste",
-    "id": "RIT-MESH/system-design-mastery",
-    "language": "Mermaid",
-    "name": "RIT-MESH/system-design-mastery",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:59:40Z",
-    "url": "https://github.com/RIT-MESH/system-design-mastery"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -59,7 +149,7 @@
     "language": "JavaScript",
     "name": "kujolang/rag",
     "stars": 0,
-    "updated_at": "2026-08-08T06:59:17Z",
+    "updated_at": "2026-08-08T07:00:43Z",
     "url": "https://github.com/kujolang/rag"
   },
   {
@@ -103,7 +193,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 65431,
+    "stars": 65430,
     "updated_at": "2026-08-08T06:57:55Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "debasish3807-afk/sona-ai-os",
     "stars": 1,
-    "updated_at": "2026-08-08T06:56:54Z",
+    "updated_at": "2026-08-08T07:01:09Z",
     "url": "https://github.com/debasish3807-afk/sona-ai-os"
   },
   {
@@ -288,24 +378,6 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u9762\u5411\u4e00\u7ea7\u80a1\u6743\u6295\u8d44\u4eba\u7684 AI \u589e\u5f3a\u5de5\u4f5c\u53f0\u3002BP\u5206\u6790\u00b7\u79c1\u6709\u77e5\u8bc6\u5e93\u00b7\u6295\u8d44\u5224\u65ad\u6c89\u6dc0\u00b7\u8de8\u4f1a\u8bdd\u8bb0\u5fc6\u3002\u6570\u636e\u4e3b\u6743\u5f52\u7528\u6237\u3002",
     "id": "zhongzhir/Aivestor",
     "language": "TypeScript",
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T06:45:10Z",
     "url": "https://github.com/Rinosa123/Bilingual-Enterprise-RAG-Copilot"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-08T06:44:08Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "AI meeting intelligence workspace for video transcription, structured insights, and transcript-grounded RAG conversation",
@@ -374,7 +437,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18946,
-    "updated_at": "2026-08-08T06:40:36Z",
+    "updated_at": "2026-08-08T07:02:20Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-08T06:40:49Z",
     "url": "https://github.com/rknightion/paperless-ngx-dedupe"
-  },
-  {
-    "description": "An offline Retrieval-Augmented Generation (RAG) application built with Streamlit, LangChain, Ollama, and ChromaDB. The a",
-    "id": "chmodgaurav/AI-HR-Agent",
-    "language": "Python",
-    "name": "chmodgaurav/AI-HR-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:40:00Z",
-    "url": "https://github.com/chmodgaurav/AI-HR-Agent"
-  },
-  {
-    "description": "Deterministic ATS-optimized resume compiler and AI-driven cover letter generator (RAG), built with Typst and Next.js.",
-    "id": "renteria-luis/career-forge",
-    "language": "TypeScript",
-    "name": "renteria-luis/career-forge",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:40:25Z",
-    "url": "https://github.com/renteria-luis/career-forge"
-  },
-  {
-    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
-    "id": "bimal1023/AI-native-engineer",
-    "language": "\u2014",
-    "name": "bimal1023/AI-native-engineer",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:39:46Z",
-    "url": "https://github.com/bimal1023/AI-native-engineer"
-  },
-  {
-    "description": "Sovereign Local AI Workspace & LLM Runtime Manager. Easily Run GGUF, MLX, OpenAI, Gemini, etc. Under One Unified Interfa",
-    "id": "lm-webui/lm-webui",
-    "language": "TypeScript",
-    "name": "lm-webui/lm-webui",
-    "stars": 3,
-    "updated_at": "2026-08-08T06:38:50Z",
-    "url": "https://github.com/lm-webui/lm-webui"
-  },
-  {
-    "description": "Hands-on Generative AI engineering lab: RAG, prompt evals, safety, agents, and production patterns from scratch.",
-    "id": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
-    "language": "Python",
-    "name": "P-r-e-m-i-u-m/generative-ai-engineering-lab",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:38:44Z",
-    "url": "https://github.com/P-r-e-m-i-u-m/generative-ai-engineering-lab"
-  },
-  {
-    "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
-    "id": "jrhahn/ai-trainer",
-    "language": "Python",
-    "name": "jrhahn/ai-trainer",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:38:39Z",
-    "url": "https://github.com/jrhahn/ai-trainer"
-  },
-  {
-    "description": "An AI-powered document intelligence platform for verified, citation-backed search across institutional documents.",
-    "id": "surediepie/WATCHTOWER",
-    "language": "TypeScript",
-    "name": "surediepie/WATCHTOWER",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:38:28Z",
-    "url": "https://github.com/surediepie/WATCHTOWER"
   }
 ]
