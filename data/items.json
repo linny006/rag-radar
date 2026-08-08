@@ -1,11 +1,146 @@
 [
   {
+    "description": "Lucidworks builds AI-powered search, discovery, and agent platforms used by enterprise commerce, support, and workplace ",
+    "id": "api-evangelist/lucidworks",
+    "language": "\u2014",
+    "name": "api-evangelist/lucidworks",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:17:26Z",
+    "url": "https://github.com/api-evangelist/lucidworks"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "JavaScript",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-08-08T01:17:57Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "A RAG app to breakdown complex technical documents ",
+    "id": "Kaynaaf/NanoRAG",
+    "language": "Python",
+    "name": "Kaynaaf/NanoRAG",
+    "stars": 2,
+    "updated_at": "2026-08-08T01:17:08Z",
+    "url": "https://github.com/Kaynaaf/NanoRAG"
+  },
+  {
+    "description": "LlamaCloud is the managed document parsing, extraction, indexing, and retrieval platform from LlamaIndex. It exposes RES",
+    "id": "api-evangelist/llamacloud",
+    "language": "\u2014",
+    "name": "api-evangelist/llamacloud",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:16:48Z",
+    "url": "https://github.com/api-evangelist/llamacloud"
+  },
+  {
+    "description": "LlamaCloud is a hosted service for document processing and search, powered by LlamaIndex.",
+    "id": "api-evangelist/llamaindex",
+    "language": "\u2014",
+    "name": "api-evangelist/llamaindex",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:16:48Z",
+    "url": "https://github.com/api-evangelist/llamaindex"
+  },
+  {
+    "description": "LlamaParse is an enterprise document parsing and AI pipeline platform from LlamaIndex that converts complex PDFs, Office",
+    "id": "api-evangelist/llamaparse",
+    "language": "\u2014",
+    "name": "api-evangelist/llamaparse",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:16:48Z",
+    "url": "https://github.com/api-evangelist/llamaparse"
+  },
+  {
+    "description": "Give your AI agent eyes for PDFs \u2014 structured text, tables, OCR, visual evidence, and page-level citations via MCP. Nati",
+    "id": "SylphxAI/pdf-reader-mcp",
+    "language": "TypeScript",
+    "name": "SylphxAI/pdf-reader-mcp",
+    "stars": 886,
+    "updated_at": "2026-08-08T01:16:46Z",
+    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-08T01:16:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Enhanced LanceDB memory plugin for OpenClaw \u2014 Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolat",
+    "id": "CortexReach/memory-lancedb-pro",
+    "language": "JavaScript",
+    "name": "CortexReach/memory-lancedb-pro",
+    "stars": 4459,
+    "updated_at": "2026-08-08T01:16:37Z",
+    "url": "https://github.com/CortexReach/memory-lancedb-pro"
+  },
+  {
+    "description": "Hardware-Accelerated Cryptographic RAG System \u2014 GPU simulation of SHA-256 hash engine with AES-256-GCM encryption and Me",
+    "id": "Agnuxo1/ASIC-RAG-CHIMERA",
+    "language": "Python",
+    "name": "Agnuxo1/ASIC-RAG-CHIMERA",
+    "stars": 5,
+    "updated_at": "2026-08-08T01:16:35Z",
+    "url": "https://github.com/Agnuxo1/ASIC-RAG-CHIMERA"
+  },
+  {
+    "description": "Linkup is a production-grade web search and answer API for AI agents and LLMs. Its /search endpoint grounds model respon",
+    "id": "api-evangelist/linkup-so",
+    "language": "\u2014",
+    "name": "api-evangelist/linkup-so",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:16:28Z",
+    "url": "https://github.com/api-evangelist/linkup-so"
+  },
+  {
+    "description": "\u8c46\u82bd Douya \u2014 \u57fa\u4e8e llama.cpp \u7684\u9690\u79c1\u4f18\u5148\u672c\u5730 AI \u684c\u9762\u52a9\u624b \u00b7 \u5b8c\u5168\u79bb\u7ebf \u00b7 \u591a\u540e\u7aef(CUDA/HIP/Vulkan/SYCL) \u00b7 GPU \u52a0\u901f \u00b7 \u591a\u6a21\u6001 \u00b7 RAG \u00b7 OpenAI \u517c\u5bb9 API",
+    "id": "zifeiyu2025/douya",
+    "language": "Go",
+    "name": "zifeiyu2025/douya",
+    "stars": 8,
+    "updated_at": "2026-08-08T01:16:05Z",
+    "url": "https://github.com/zifeiyu2025/douya"
+  },
+  {
+    "description": "Letta (formerly MemGPT) is a stateful AI agents platform built around long-term memory, tool execution, and multi-agent ",
+    "id": "api-evangelist/letta",
+    "language": "\u2014",
+    "name": "api-evangelist/letta",
+    "stars": 2,
+    "updated_at": "2026-08-08T01:15:45Z",
+    "url": "https://github.com/api-evangelist/letta"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T01:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T01:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Knaix | CLI for Kovalent AI",
     "id": "kovalentai/knaix-cli",
     "language": "Rust",
     "name": "kovalentai/knaix-cli",
     "stars": 0,
-    "updated_at": "2026-08-08T01:15:16Z",
+    "updated_at": "2026-08-08T01:15:27Z",
     "url": "https://github.com/kovalentai/knaix-cli"
   },
   {
@@ -261,15 +396,6 @@
     "url": "https://github.com/dineshkumar-mb/Brand-os-multi-agent"
   },
   {
-    "description": "Give your AI agent eyes for PDFs \u2014 structured text, tables, OCR, visual evidence, and page-level citations via MCP. Nati",
-    "id": "SylphxAI/pdf-reader-mcp",
-    "language": "TypeScript",
-    "name": "SylphxAI/pdf-reader-mcp",
-    "stars": 886,
-    "updated_at": "2026-08-08T01:07:33Z",
-    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
-  },
-  {
     "description": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
     "id": "kraft87/synapse",
     "language": "Python",
@@ -277,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:06:46Z",
     "url": "https://github.com/kraft87/synapse"
-  },
-  {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "JavaScript",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-08-08T01:07:25Z",
-    "url": "https://github.com/alex-place/lantern-os"
   },
   {
     "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:05:35Z",
     "url": "https://github.com/flxhrdyn/Sekilas.ai"
-  },
-  {
-    "description": "A deployable architecture that automates the deployment of a sample gen AI Pattern on IBM Cloud, including all underlyin",
-    "id": "terraform-ibm-modules/terraform-ibm-cloud-native-ai",
-    "language": "HCL",
-    "name": "terraform-ibm-modules/terraform-ibm-cloud-native-ai",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:05:32Z",
-    "url": "https://github.com/terraform-ibm-modules/terraform-ibm-cloud-native-ai"
-  },
-  {
-    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
-    "id": "justForever17/v8-agent-os",
-    "language": "Python",
-    "name": "justForever17/v8-agent-os",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:08:24Z",
-    "url": "https://github.com/justForever17/v8-agent-os"
-  },
-  {
-    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
-    "id": "apod-1/ZoltarFinancial",
-    "language": "Python",
-    "name": "apod-1/ZoltarFinancial",
-    "stars": 3,
-    "updated_at": "2026-08-08T01:04:24Z",
-    "url": "https://github.com/apod-1/ZoltarFinancial"
-  },
-  {
-    "description": "\u8c46\u82bd Douya \u2014 \u57fa\u4e8e llama.cpp \u7684\u9690\u79c1\u4f18\u5148\u672c\u5730 AI \u684c\u9762\u52a9\u624b \u00b7 \u5b8c\u5168\u79bb\u7ebf \u00b7 \u591a\u540e\u7aef(CUDA/HIP/Vulkan/SYCL) \u00b7 GPU \u52a0\u901f \u00b7 \u591a\u6a21\u6001 \u00b7 RAG \u00b7 OpenAI \u517c\u5bb9 API",
-    "id": "zifeiyu2025/douya",
-    "language": "Go",
-    "name": "zifeiyu2025/douya",
-    "stars": 8,
-    "updated_at": "2026-08-08T01:03:59Z",
-    "url": "https://github.com/zifeiyu2025/douya"
-  },
-  {
-    "description": "Glean is an AI-powered work assistant and enterprise search platform that connects to a company's apps and data sources ",
-    "id": "api-evangelist/glean",
-    "language": "\u2014",
-    "name": "api-evangelist/glean",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:02:58Z",
-    "url": "https://github.com/api-evangelist/glean"
-  },
-  {
-    "description": "Clara \u2014 Agente de voz IA para seguimiento postoperatorio: 100% local, 100% CPU (4 n\u00facleos / 8 GB RAM), Llama 3.2 3B + wh",
-    "id": "stiven-skyward/clara-postop-voice-agent",
-    "language": "Python",
-    "name": "stiven-skyward/clara-postop-voice-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:02:47Z",
-    "url": "https://github.com/stiven-skyward/clara-postop-voice-agent"
-  },
-  {
-    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
-    "id": "LocketKeyLLC/scaffold-engine",
-    "language": "Python",
-    "name": "LocketKeyLLC/scaffold-engine",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:02:43Z",
-    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
-  },
-  {
-    "description": "Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite.",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-08-08T01:01:58Z",
-    "url": "https://github.com/chinesewebman/mnelo"
-  },
-  {
-    "description": "Frontend SvelteKit do SpeechCode. Upload de PDFs e chat com o tutor RAG via API FastAPI",
-    "id": "jhiltonsantos/retriever-web",
-    "language": "Svelte",
-    "name": "jhiltonsantos/retriever-web",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:01:33Z",
-    "url": "https://github.com/jhiltonsantos/retriever-web"
-  },
-  {
-    "description": "Backend FastAPI do SpeechCode. RAG com LangChain, ChromaDB e Modelo de IA para estudos",
-    "id": "jhiltonsantos/retriever-api",
-    "language": "Python",
-    "name": "jhiltonsantos/retriever-api",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:01:20Z",
-    "url": "https://github.com/jhiltonsantos/retriever-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T01:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T01:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Flowise is an open-source, low-code visual builder for LangChain-based LLM workflows and AI agents. Built on Node.js and",
-    "id": "api-evangelist/flowise",
-    "language": "\u2014",
-    "name": "api-evangelist/flowise",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:00:05Z",
-    "url": "https://github.com/api-evangelist/flowise"
   }
 ]
