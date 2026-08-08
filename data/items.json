@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agente de voz en espa\u00f1ol para seguimiento postoperatorio: conversaci\u00f3n en tiempo real, RAG cl\u00ednico con trazabilidad y co",
+    "id": "Elorro/voice-agent-postop",
+    "language": "\u2014",
+    "name": "Elorro/voice-agent-postop",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:59:59Z",
+    "url": "https://github.com/Elorro/voice-agent-postop"
+  },
+  {
+    "description": "OpenGod - 14-module AI super skill. Fuses 18 of Top 50 GitHub AI projects.",
+    "id": "381487190/opengod",
+    "language": "Python",
+    "name": "381487190/opengod",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:59:31Z",
+    "url": "https://github.com/381487190/opengod"
+  },
+  {
+    "description": "A modern markdown AI note-taking application",
+    "id": "jetyu/Snaptium",
+    "language": "TypeScript",
+    "name": "jetyu/Snaptium",
+    "stars": 74,
+    "updated_at": "2026-08-08T14:59:11Z",
+    "url": "https://github.com/jetyu/Snaptium"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code \u2014 114 skills, 37 agents, 212 hooks. Production-ready patterns for fu",
+    "id": "yonatangross/orchestkit",
+    "language": "TypeScript",
+    "name": "yonatangross/orchestkit",
+    "stars": 215,
+    "updated_at": "2026-08-08T14:59:58Z",
+    "url": "https://github.com/yonatangross/orchestkit"
+  },
+  {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 5,
+    "updated_at": "2026-08-08T14:57:50Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "Citation-grounded RAG over real AI/LLM production incident postmortems \u2014 hybrid retrieval, reranking, CI-gated generatio",
+    "id": "dineshyadav03/ai-incident-rag",
+    "language": "Python",
+    "name": "dineshyadav03/ai-incident-rag",
+    "stars": 0,
+    "updated_at": "2026-08-08T14:57:49Z",
+    "url": "https://github.com/dineshyadav03/ai-incident-rag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T14:57:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Agentic RAG assistant untuk tanya-jawab dokumen PDF pipeline retrieve-grade-generate berbasis LangGraph",
     "id": "dimssrmdn01/agentic-rag-journal",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18958,
-    "updated_at": "2026-08-08T14:56:47Z",
+    "updated_at": "2026-08-08T15:00:16Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T14:55:36Z",
     "url": "https://github.com/falses00/agent-learning-report"
-  },
-  {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 5,
-    "updated_at": "2026-08-08T14:55:25Z",
-    "url": "https://github.com/Mubder/kazma"
   },
   {
     "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
@@ -297,15 +351,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T14:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-08T14:41:49Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Local-first, privacy-preserving multi-agent AI: a planner + adaptive router turn small GGUF models (llama.cpp/Vulkan) in",
-    "id": "rbkhan007/Sovereign-Agentic-AI",
-    "language": "Python",
-    "name": "rbkhan007/Sovereign-Agentic-AI",
-    "stars": 0,
-    "updated_at": "2026-08-08T14:40:21Z",
-    "url": "https://github.com/rbkhan007/Sovereign-Agentic-AI"
-  },
-  {
-    "description": "Local-first personal knowledge base CLI \u2014 hybrid FTS + pgvector search, a GraphRAG entity graph, and LLM enrichment over",
-    "id": "mshtawythug/second-brain",
-    "language": "Python",
-    "name": "mshtawythug/second-brain",
-    "stars": 10,
-    "updated_at": "2026-08-08T14:39:49Z",
-    "url": "https://github.com/mshtawythug/second-brain"
-  },
-  {
-    "description": "Agent-native CLI, package contracts, and seller-owned local Runner framework for portable digital employees.",
-    "id": "fullstack-ai-infra/digital-employee",
-    "language": "TypeScript",
-    "name": "fullstack-ai-infra/digital-employee",
-    "stars": 7,
-    "updated_at": "2026-08-08T14:42:06Z",
-    "url": "https://github.com/fullstack-ai-infra/digital-employee"
-  },
-  {
-    "description": "\u5f00\u7bb1\u5373\u7528\u7684AI\u6807\u4e66\u7f16\u5199\u5de5\u5177\uff0c\u6807\u4e66AI\u751f\u6210\u5de5\u5177\uff0c\u6295\u6807\u5de5\u5177\u7bb1\u3001\u77e5\u8bc6\u5e93\u3001\u6807\u4e66\u67e5\u91cd\u3001\u5e9f\u6807\u9879\u68c0\u67e5\uff0c\u5b8c\u5168\u5f00\u6e90\u514d\u8d39\uff0c\u6b22\u8fce\u4f7f\u7528",
-    "id": "FB208/OpenBidKit_Yibiao",
-    "language": "JavaScript",
-    "name": "FB208/OpenBidKit_Yibiao",
-    "stars": 2292,
-    "updated_at": "2026-08-08T14:39:38Z",
-    "url": "https://github.com/FB208/OpenBidKit_Yibiao"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:38:52Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
