@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ub3c4\uba54\uc778 \ud2b9\ud654 RAG AI \uc5d0\uc774\uc804\ud2b8 \u2014 \uc758\ud559\u00b7\uace0\uad50 \uc601\uc5b4\u00b7\uae08\uc735/\ud22c\uc790 (FastAPI + Qdrant + pgvector)",
+    "id": "edumgt/domain-rag-lab",
+    "language": "Python",
+    "name": "edumgt/domain-rag-lab",
+    "stars": 2,
+    "updated_at": "2026-08-08T03:06:56Z",
+    "url": "https://github.com/edumgt/domain-rag-lab"
+  },
+  {
+    "description": "Daily updated LLM papers.        \u6bcf\u65e5\u66f4\u65b0 LLM \u76f8\u5173\u7684\u8bba\u6587\uff0c\u6b22\u8fce\u8ba2\u9605 \ud83d\udc4f   \u559c\u6b22\u7684\u8bdd\u52a8\u52a8\u4f60\u7684\u5c0f\u624b \ud83c\udf1f \u4e00\u4e2a",
+    "id": "xianshang33/llm-paper-daily",
+    "language": "Python",
+    "name": "xianshang33/llm-paper-daily",
+    "stars": 1306,
+    "updated_at": "2026-08-08T03:06:25Z",
+    "url": "https://github.com/xianshang33/llm-paper-daily"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151739,
+    "updated_at": "2026-08-08T03:06:15Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-08-08T03:04:28Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+    "id": "bojieli/ai-agent-book",
+    "language": "Python",
+    "name": "bojieli/ai-agent-book",
+    "stars": 34375,
+    "updated_at": "2026-08-08T03:04:14Z",
+    "url": "https://github.com/bojieli/ai-agent-book"
+  },
+  {
+    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
+    "id": "xuiltul/animaworks",
+    "language": "Python",
+    "name": "xuiltul/animaworks",
+    "stars": 253,
+    "updated_at": "2026-08-08T03:03:41Z",
+    "url": "https://github.com/xuiltul/animaworks"
+  },
+  {
+    "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
+    "id": "jgouviergmail/LIA-Assistant",
+    "language": "Python",
+    "name": "jgouviergmail/LIA-Assistant",
+    "stars": 37,
+    "updated_at": "2026-08-08T03:02:49Z",
+    "url": "https://github.com/jgouviergmail/LIA-Assistant"
+  },
+  {
+    "description": "A RAG-based AI agent for generating daily AWS best-practice tips.",
+    "id": "wahreus/daily-tip-agent",
+    "language": "Python",
+    "name": "wahreus/daily-tip-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:01:43Z",
+    "url": "https://github.com/wahreus/daily-tip-agent"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 11,
+    "updated_at": "2026-08-08T03:01:05Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T03:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T03:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents.",
     "id": "Amal-David/docingest",
     "language": "TypeScript",
@@ -45,15 +144,6 @@
     "url": "https://github.com/protocorn/clippy-vision"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 11,
-    "updated_at": "2026-08-08T02:58:11Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "An AI-powered document intelligence platform for verified, citation-backed search across institutional documents.",
     "id": "surediepie/WATCHTOWER",
     "language": "TypeScript",
@@ -95,7 +185,7 @@
     "language": "TypeScript",
     "name": "Fangyuan025/Chaty",
     "stars": 23,
-    "updated_at": "2026-08-08T02:55:39Z",
+    "updated_at": "2026-08-08T03:06:42Z",
     "url": "https://github.com/Fangyuan025/Chaty"
   },
   {
@@ -140,17 +230,8 @@
     "language": "Python",
     "name": "jagoff/memo",
     "stars": 12,
-    "updated_at": "2026-08-08T02:54:10Z",
+    "updated_at": "2026-08-08T03:06:47Z",
     "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model ",
-    "id": "xuiltul/animaworks",
-    "language": "Python",
-    "name": "xuiltul/animaworks",
-    "stars": 253,
-    "updated_at": "2026-08-08T02:54:06Z",
-    "url": "https://github.com/xuiltul/animaworks"
   },
   {
     "description": "Open-source AI Model Builder launcher, documentation, extensions, and secure private-core distribution by Reallexi LLC.",
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "chaoscypherinc/chaoscypher",
     "stars": 3,
-    "updated_at": "2026-08-08T02:53:23Z",
+    "updated_at": "2026-08-08T03:00:38Z",
     "url": "https://github.com/chaoscypherinc/chaoscypher"
   },
   {
@@ -207,6 +288,15 @@
     "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
   },
   {
+    "description": "AI \u516b\u5b57\u8fd0\u52bf\u684c\u9762\u5e94\u7528 \u00b7 \u652f\u6301\u547d\u76d8\u5206\u6790 / \u4e8c\u4eba\u5408\u76d8 / RAG \u547d\u7406\u77e5\u8bc6\u5e93",
+    "id": "Harmaker/Caler--DailyFortune",
+    "language": "Vue",
+    "name": "Harmaker/Caler--DailyFortune",
+    "stars": 1,
+    "updated_at": "2026-08-08T02:51:36Z",
+    "url": "https://github.com/Harmaker/Caler--DailyFortune"
+  },
+  {
     "description": "",
     "id": "KING2MO123/KING2MO-RAG",
     "language": "TypeScript",
@@ -214,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T02:51:14Z",
     "url": "https://github.com/KING2MO123/KING2MO-RAG"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151739,
-    "updated_at": "2026-08-08T02:50:43Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
@@ -261,15 +342,6 @@
     "url": "https://github.com/swnotmetal/Project-Koma"
   },
   {
-    "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
-    "id": "jgouviergmail/LIA-Assistant",
-    "language": "Python",
-    "name": "jgouviergmail/LIA-Assistant",
-    "stars": 37,
-    "updated_at": "2026-08-08T02:49:18Z",
-    "url": "https://github.com/jgouviergmail/LIA-Assistant"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "TruaShamu/booksearch",
     "stars": 0,
-    "updated_at": "2026-08-08T02:46:48Z",
+    "updated_at": "2026-08-08T03:00:58Z",
     "url": "https://github.com/TruaShamu/booksearch"
   },
   {
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "harundarat/evalu8",
     "stars": 0,
-    "updated_at": "2026-08-08T02:46:31Z",
+    "updated_at": "2026-08-08T03:06:10Z",
     "url": "https://github.com/harundarat/evalu8"
   },
   {
@@ -338,26 +410,8 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29369,
-    "updated_at": "2026-08-08T03:00:15Z",
+    "updated_at": "2026-08-08T03:05:20Z",
     "url": "https://github.com/simstudioai/sim"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T02:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T02:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T02:42:39Z",
     "url": "https://github.com/fullstack-ai-infra/digital-employee-quickstart"
-  },
-  {
-    "description": "Automated pipeline that mirrors the Digital Research Alliance of Canada MediaWiki docs into a RAGFlow knowledge base, ge",
-    "id": "ualberta-rcg/ragflow-wiki-data",
-    "language": "Python",
-    "name": "ualberta-rcg/ragflow-wiki-data",
-    "stars": 0,
-    "updated_at": "2026-08-08T02:41:49Z",
-    "url": "https://github.com/ualberta-rcg/ragflow-wiki-data"
-  },
-  {
-    "description": "Production-grade Modular AI Operating System with AI Kernel, Multi-Agent Orchestration, Memory, RAG, MCP, Security, and ",
-    "id": "debasish3807-afk/sona-ai-os",
-    "language": "Python",
-    "name": "debasish3807-afk/sona-ai-os",
-    "stars": 1,
-    "updated_at": "2026-08-08T02:40:18Z",
-    "url": "https://github.com/debasish3807-afk/sona-ai-os"
-  },
-  {
-    "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automatio",
-    "id": "henrydaum/second-brain",
-    "language": "Python",
-    "name": "henrydaum/second-brain",
-    "stars": 594,
-    "updated_at": "2026-08-08T02:39:28Z",
-    "url": "https://github.com/henrydaum/second-brain"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-08T02:38:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 206,
-    "updated_at": "2026-08-08T02:38:33Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "\ub3c4\uba54\uc778 \ud2b9\ud654 RAG AI \uc5d0\uc774\uc804\ud2b8 \u2014 \uc758\ud559\u00b7\uace0\uad50 \uc601\uc5b4\u00b7\uae08\uc735/\ud22c\uc790 (FastAPI + Qdrant + pgvector)",
-    "id": "edumgt/domain-rag-lab",
-    "language": "Python",
-    "name": "edumgt/domain-rag-lab",
-    "stars": 2,
-    "updated_at": "2026-08-08T02:36:53Z",
-    "url": "https://github.com/edumgt/domain-rag-lab"
   }
 ]
