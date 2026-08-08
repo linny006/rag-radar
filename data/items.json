@@ -1,5 +1,122 @@
 [
   {
+    "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
+    "id": "sepahead/sepahead",
+    "language": "JavaScript",
+    "name": "sepahead/sepahead",
+    "stars": 0,
+    "updated_at": "2026-08-08T18:00:02Z",
+    "url": "https://github.com/sepahead/sepahead"
+  },
+  {
+    "description": "Fully-local terminal AI agent for Ollama. 34 tools, MCP, local RAG, deterministic hallucination checks. No cloud, no API",
+    "id": "Eqqinox/Ollamancer",
+    "language": "Python",
+    "name": "Eqqinox/Ollamancer",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:59:34Z",
+    "url": "https://github.com/Eqqinox/Ollamancer"
+  },
+  {
+    "description": "Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents.",
+    "id": "lpaiu-cs/osk-system",
+    "language": "Python",
+    "name": "lpaiu-cs/osk-system",
+    "stars": 4,
+    "updated_at": "2026-08-08T17:59:27Z",
+    "url": "https://github.com/lpaiu-cs/osk-system"
+  },
+  {
+    "description": "Low-latency C++ order book + Python backtester with a RAG-based signal research pipeline",
+    "id": "Mireinstein/QuantIQ",
+    "language": "Python",
+    "name": "Mireinstein/QuantIQ",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:59:20Z",
+    "url": "https://github.com/Mireinstein/QuantIQ"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:59:19Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A calm, cited AI study space for lecture notes & PDFs featuring vector search (pgvector), cited RAG Q&A, auto-generated ",
+    "id": "matorverse/Retrivo",
+    "language": "TypeScript",
+    "name": "matorverse/Retrivo",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:58:55Z",
+    "url": "https://github.com/matorverse/Retrivo"
+  },
+  {
+    "description": "A multi-agent system that navigates ML repositories, reproduces reported results, and repairs failures in isolated envir",
+    "id": "MRPRESIDENT66/repro-agent",
+    "language": "Python",
+    "name": "MRPRESIDENT66/repro-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:58:56Z",
+    "url": "https://github.com/MRPRESIDENT66/repro-agent"
+  },
+  {
+    "description": "AI Job Research Automation Workflow",
+    "id": "yuriykravets/AI-Automation-Workflow",
+    "language": "Python",
+    "name": "yuriykravets/AI-Automation-Workflow",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:58:09Z",
+    "url": "https://github.com/yuriykravets/AI-Automation-Workflow"
+  },
+  {
+    "description": "Provenance-aware memory for AI agents.",
+    "id": "veracium-ai/Veracium",
+    "language": "Python",
+    "name": "veracium-ai/Veracium",
+    "stars": 7,
+    "updated_at": "2026-08-08T17:57:51Z",
+    "url": "https://github.com/veracium-ai/Veracium"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 435,
+    "updated_at": "2026-08-08T17:57:44Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 6,
+    "updated_at": "2026-08-08T17:57:37Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 243,
+    "updated_at": "2026-08-08T17:57:20Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T17:57:04Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Professional data engineering portfolio showcasing Azure and AWS cloud pipeline projects, analytics-ready datasets, and ",
     "id": "rihua-tech/data-ai-portfolio",
     "language": "TypeScript",
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:53:29Z",
     "url": "https://github.com/rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-"
-  },
-  {
-    "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
-    "id": "sepahead/sepahead",
-    "language": "JavaScript",
-    "name": "sepahead/sepahead",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:53:20Z",
-    "url": "https://github.com/sepahead/sepahead"
   },
   {
     "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
@@ -225,24 +333,6 @@
     "url": "https://github.com/neomjs/neo"
   },
   {
-    "description": "Fully-local terminal AI agent for Ollama. 34 tools, MCP, local RAG, deterministic hallucination checks. No cloud, no API",
-    "id": "Eqqinox/Ollamancer",
-    "language": "Python",
-    "name": "Eqqinox/Ollamancer",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:48:57Z",
-    "url": "https://github.com/Eqqinox/Ollamancer"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 6,
-    "updated_at": "2026-08-08T17:48:41Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -261,15 +351,6 @@
     "url": "https://github.com/debxylen/distrack"
   },
   {
-    "description": "A calm, cited AI study space for lecture notes & PDFs featuring vector search (pgvector), cited RAG Q&A, auto-generated ",
-    "id": "matorverse/Retrivo",
-    "language": "TypeScript",
-    "name": "matorverse/Retrivo",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:47:04Z",
-    "url": "https://github.com/matorverse/Retrivo"
-  },
-  {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
     "id": "atishay-kasliwal/atriveo-app",
     "language": "TypeScript",
@@ -277,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:46:20Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Provenance-aware memory for AI agents.",
-    "id": "veracium-ai/Veracium",
-    "language": "Python",
-    "name": "veracium-ai/Veracium",
-    "stars": 7,
-    "updated_at": "2026-08-08T17:46:07Z",
-    "url": "https://github.com/veracium-ai/Veracium"
   },
   {
     "description": "AURIXA: Real-time conversational AI orchestration platform. Multi-tenant, modular microservices with pluggable LLM provi",
@@ -297,22 +369,13 @@
     "url": "https://github.com/ax5hay/AURIXA"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "id": "HKUDS/DeepTutor",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "HKUDS/DeepTutor",
+    "stars": 33150,
+    "updated_at": "2026-08-08T17:59:27Z",
+    "url": "https://github.com/HKUDS/DeepTutor"
   },
   {
     "description": "A friendly little robot for your desktop - a Windows app or a Rainmeter skin. Free, bring your own API key, or run a loc",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T17:41:09Z",
     "url": "https://github.com/Hikmahx/QuizMe"
-  },
-  {
-    "description": "Powerful Python agent runtime with tools, MCP, Hooks, Skills, Rag, memory, sessions, reasoning, and streaming packets.",
-    "id": "shipiit/shipit_agent",
-    "language": "Python",
-    "name": "shipiit/shipit_agent",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:39:59Z",
-    "url": "https://github.com/shipiit/shipit_agent"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 17,
-    "updated_at": "2026-08-08T17:39:47Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Fully local retrieval over a document corpus: hybrid search, RAPTOR summaries, and a queryable knowledge graph, served t",
-    "id": "CreateM1nd/maria-rag",
-    "language": "Python",
-    "name": "CreateM1nd/maria-rag",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:37:38Z",
-    "url": "https://github.com/CreateM1nd/maria-rag"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:37:13Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:36:53Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Open-source AI Model Builder launcher, documentation, extensions, and secure private-core distribution by Reallexi LLC.",
-    "id": "ddkits/reallexi-ai-model-builder",
-    "language": "JavaScript",
-    "name": "ddkits/reallexi-ai-model-builder",
-    "stars": 1,
-    "updated_at": "2026-08-08T17:36:53Z",
-    "url": "https://github.com/ddkits/reallexi-ai-model-builder"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:36:44Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
   }
 ]
