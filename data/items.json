@@ -1,5 +1,95 @@
 [
   {
+    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 5,
+    "updated_at": "2026-08-08T23:30:08Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 2621,
+    "updated_at": "2026-08-08T23:29:49Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
+    "id": "oigrex666/mcp-context-chronicler",
+    "language": "HTML",
+    "name": "oigrex666/mcp-context-chronicler",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:28:55Z",
+    "url": "https://github.com/oigrex666/mcp-context-chronicler"
+  },
+  {
+    "description": "EchoMind - AI-powered knowledge management with local LLM engine",
+    "id": "lisering/EchoMind",
+    "language": "Rust",
+    "name": "lisering/EchoMind",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:29:04Z",
+    "url": "https://github.com/lisering/EchoMind"
+  },
+  {
+    "description": "Personal portfolio of Gagan Jain \u2014 AI / LLM Engineer. Astro 7 + Tailwind CSS v4 + GSAP. Features a data-driven r\u00e9sum\u00e9, d",
+    "id": "gaganjainse/portfolio",
+    "language": "MDX",
+    "name": "gaganjainse/portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-08T23:29:36Z",
+    "url": "https://github.com/gaganjainse/portfolio"
+  },
+  {
+    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
+    "id": "thekaveh/NNx",
+    "language": "Python",
+    "name": "thekaveh/NNx",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:28:25Z",
+    "url": "https://github.com/thekaveh/NNx"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 84,
+    "updated_at": "2026-08-08T23:27:32Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "RAG in pure Python: PDF ingestion, OpenAI embeddings, SQLite vectorstore, cosine similarity, Claude generator. No LangCh",
+    "id": "Dimitrearaujo/rag-python-documentos",
+    "language": "Python",
+    "name": "Dimitrearaujo/rag-python-documentos",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:24:52Z",
+    "url": "https://github.com/Dimitrearaujo/rag-python-documentos"
+  },
+  {
+    "description": "Benchmark reproduzivel de RAG aplicado a decisoes logisticas, com corpus sintetico, avaliacao de LLMs e integracao Ardui",
+    "id": "CaioMoraes-enginer/last-mile-rag-lab",
+    "language": "Python",
+    "name": "CaioMoraes-enginer/last-mile-rag-lab",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:24:44Z",
+    "url": "https://github.com/CaioMoraes-enginer/last-mile-rag-lab"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:24:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
     "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:22:08Z",
     "url": "https://github.com/VaibhavSaran/Stock-Pilot-AI"
-  },
-  {
-    "description": "Benchmark reproduzivel de RAG aplicado a decisoes logisticas, com corpus sintetico, avaliacao de LLMs e integracao Ardui",
-    "id": "CaioMoraes-enginer/last-mile-rag-lab",
-    "language": "Python",
-    "name": "CaioMoraes-enginer/last-mile-rag-lab",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:21:33Z",
-    "url": "https://github.com/CaioMoraes-enginer/last-mile-rag-lab"
   },
   {
     "description": "Self-hosted long-term memory for AI systems. The LLM proposes, a deterministic pipeline decides.",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "chinesewebman/mnelo",
     "stars": 1,
-    "updated_at": "2026-08-08T23:18:07Z",
+    "updated_at": "2026-08-08T23:27:04Z",
     "url": "https://github.com/chinesewebman/mnelo"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/opencorex-org/corex-agentos"
   },
   {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 2620,
-    "updated_at": "2026-08-08T23:16:31Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -153,15 +225,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An AI-powered behavioral recommendation system built for SmartReco Build Challenge 2026 using FastAPI, LangGraph, Chroma",
     "id": "Ahmed2797/smartreco-agentic-recommendation-system-2026",
     "language": "Python",
@@ -169,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:15:05Z",
     "url": "https://github.com/Ahmed2797/smartreco-agentic-recommendation-system-2026"
-  },
-  {
-    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
-    "id": "thekaveh/NNx",
-    "language": "Python",
-    "name": "thekaveh/NNx",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:23:01Z",
-    "url": "https://github.com/thekaveh/NNx"
   },
   {
     "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
@@ -205,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:14:30Z",
     "url": "https://github.com/nfoav8or/coder-engram"
-  },
-  {
-    "description": "Personal portfolio of Gagan Jain \u2014 AI / LLM Engineer. Astro 7 + Tailwind CSS v4 + GSAP. Features a data-driven r\u00e9sum\u00e9, d",
-    "id": "gaganjainse/portfolio",
-    "language": "MDX",
-    "name": "gaganjainse/portfolio",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:12:29Z",
-    "url": "https://github.com/gaganjainse/portfolio"
-  },
-  {
-    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
-    "id": "BugraAkdemir/memo",
-    "language": "Go",
-    "name": "BugraAkdemir/memo",
-    "stars": 5,
-    "updated_at": "2026-08-08T23:12:07Z",
-    "url": "https://github.com/BugraAkdemir/memo"
   },
   {
     "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
@@ -284,7 +320,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3253,
-    "updated_at": "2026-08-08T23:17:23Z",
+    "updated_at": "2026-08-08T23:30:08Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T22:59:39Z",
     "url": "https://github.com/priyanchen/token-distiller"
-  },
-  {
-    "description": "Reads the small print and flags unfair clauses in plain English. Sentence-BERT + FAISS retrieval grounds the analysis, c",
-    "id": "iamtamilore/terms-guard-ai",
-    "language": "Python",
-    "name": "iamtamilore/terms-guard-ai",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:59:11Z",
-    "url": "https://github.com/iamtamilore/terms-guard-ai"
-  },
-  {
-    "description": "AI technical-support copilot demonstrating RAG, deterministic tools, model routing, human approval, security boundaries,",
-    "id": "ashirimi1019/careassist-ai",
-    "language": "Python",
-    "name": "ashirimi1019/careassist-ai",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:58:54Z",
-    "url": "https://github.com/ashirimi1019/careassist-ai"
-  },
-  {
-    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
-    "id": "inite-ai/inite-brain-service",
-    "language": "TypeScript",
-    "name": "inite-ai/inite-brain-service",
-    "stars": 32,
-    "updated_at": "2026-08-08T22:54:32Z",
-    "url": "https://github.com/inite-ai/inite-brain-service"
-  },
-  {
-    "description": "Clinical RAG assistant: doctors query patient records in plain English. Per-patient scoped vector search in Postgres/pgv",
-    "id": "iamtamilore/agentic_rag_fastapi",
-    "language": "Python",
-    "name": "iamtamilore/agentic_rag_fastapi",
-    "stars": 0,
-    "updated_at": "2026-08-08T22:54:24Z",
-    "url": "https://github.com/iamtamilore/agentic_rag_fastapi"
   }
 ]
