@@ -1,5 +1,50 @@
 [
   {
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-08T05:59:33Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 18943,
+    "updated_at": "2026-08-08T05:59:10Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 2,
+    "updated_at": "2026-08-08T05:59:10Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 193,
+    "updated_at": "2026-08-08T05:58:59Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T05:58:52Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Privacy-first AI novel writing IDE. Full workflow: outline\u2192draft\u2192review\u2192finalize. Local RAG + multi-model routing. Trili",
     "id": "LunaRime/novelforge",
     "language": "TypeScript",
@@ -52,6 +97,15 @@
     "stars": 47,
     "updated_at": "2026-08-08T05:56:01Z",
     "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "AI customer-support agent (RAG + MCP + guardrails) where every design decision is backed by an eval metric \u2014 leak rate 0",
+    "id": "YoniRaviv/shopmate-agent",
+    "language": "Python",
+    "name": "YoniRaviv/shopmate-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T05:55:39Z",
+    "url": "https://github.com/YoniRaviv/shopmate-agent"
   },
   {
     "description": "\u6e38\u620f\u738b OCG \u88c1\u5b9a\u52a9\u624b\uff1a\u7ed3\u5408\u5b98\u65b9 Q&A\u3001\u89c4\u5219\u8d44\u6599\u3001\u5361\u7247\u6587\u672c\u4e0e Lua \u8f85\u52a9\u8bed\u4e49\u751f\u6210\u53ef\u8ffd\u6eaf\u7684\u89c4\u5219\u5206\u6790\u3002Yu-Gi-Oh! OCG ruling assistant for Chinese players.",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Neeeser/Ragworks"
   },
   {
-    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
-    "id": "xyver/daedal-map",
-    "language": "Python",
-    "name": "xyver/daedal-map",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:51:27Z",
-    "url": "https://github.com/xyver/daedal-map"
-  },
-  {
     "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
     "id": "Sachin23991/dreamflow-rag-updater",
     "language": "Python",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "tobocop2/lilbee",
     "stars": 40,
-    "updated_at": "2026-08-08T05:49:46Z",
+    "updated_at": "2026-08-08T05:59:19Z",
     "url": "https://github.com/tobocop2/lilbee"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T05:49:09Z",
     "url": "https://github.com/duskydaydreamer/Mutual-Fund-Rag"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 18942,
-    "updated_at": "2026-08-08T05:48:46Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -313,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T05:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-08T05:37:03Z",
     "url": "https://github.com/Prasukj7-arch/Incedo_advisor_Ai"
-  },
-  {
-    "description": "Composable Streaming Intelligence",
-    "id": "winkjs/composer",
-    "language": "JavaScript",
-    "name": "winkjs/composer",
-    "stars": 16,
-    "updated_at": "2026-08-08T05:37:47Z",
-    "url": "https://github.com/winkjs/composer"
-  },
-  {
-    "description": "Clara \u2014 Agente de voz IA para seguimiento postoperatorio: 100% local, 100% CPU (4 n\u00facleos / 8 GB RAM), Llama 3.2 3B + wh",
-    "id": "stiven-skyward/clara-postop-voice-agent",
-    "language": "Python",
-    "name": "stiven-skyward/clara-postop-voice-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:36:24Z",
-    "url": "https://github.com/stiven-skyward/clara-postop-voice-agent"
-  },
-  {
-    "description": "Self-hosted AI company OS for solo founders: autonomous agents, ERPNext business memory, and owner-visible governance.",
-    "id": "Hyper-AI-Lab/cyber-ai-team",
-    "language": "Python",
-    "name": "Hyper-AI-Lab/cyber-ai-team",
-    "stars": 5,
-    "updated_at": "2026-08-08T05:36:18Z",
-    "url": "https://github.com/Hyper-AI-Lab/cyber-ai-team"
   }
 ]
