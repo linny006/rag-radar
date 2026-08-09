@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u9762\u5411\u804c\u4e1a\u9662\u6821\u7684 AI-Native \u77e5\u8bc6\u57fa\u5ea7\uff0cRAG + \u5c42\u7ea7\u77e5\u8bc6\u56fe\u8c31 +ES\u5168\u6587\u7d22\u5f15",
+    "id": "MarkDanile/MetaEduBase",
+    "language": "Python",
+    "name": "MarkDanile/MetaEduBase",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:34:28Z",
+    "url": "https://github.com/MarkDanile/MetaEduBase"
+  },
+  {
+    "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
+    "id": "DanceNitra/agora",
+    "language": "Python",
+    "name": "DanceNitra/agora",
+    "stars": 3,
+    "updated_at": "2026-08-09T05:33:27Z",
+    "url": "https://github.com/DanceNitra/agora"
+  },
+  {
+    "description": "Enterprise Angular 21 AI agent workspace with NestJS orchestrator, RAG, MCP tools, SSE streaming, Playwright workers, ad",
+    "id": "AnkitParekh007/org-ai-force",
+    "language": "TypeScript",
+    "name": "AnkitParekh007/org-ai-force",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:33:08Z",
+    "url": "https://github.com/AnkitParekh007/org-ai-force"
+  },
+  {
+    "description": "Angular AI copilot platform with an Angular SDK, Next.js RAG backend, Supabase pgvector retrieval, streaming chat, and e",
+    "id": "AnkitParekh007/ngx-copilot-platform",
+    "language": "TypeScript",
+    "name": "AnkitParekh007/ngx-copilot-platform",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:32:52Z",
+    "url": "https://github.com/AnkitParekh007/ngx-copilot-platform"
+  },
+  {
+    "description": "Angular AI copilot starter with streaming chat UX, RAG source cards, tool-call timeline, action approvals, mock MCP tool",
+    "id": "AnkitParekh007/angular-ai-copilot-starter",
+    "language": "TypeScript",
+    "name": "AnkitParekh007/angular-ai-copilot-starter",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:32:44Z",
+    "url": "https://github.com/AnkitParekh007/angular-ai-copilot-starter"
+  },
+  {
+    "description": "Angular and TypeScript patterns for AI frontend systems: streaming UX, RAG citations, tool calling, MCP tools, approvals",
+    "id": "AnkitParekh007/frontend-ai-patterns",
+    "language": "JavaScript",
+    "name": "AnkitParekh007/frontend-ai-patterns",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:32:35Z",
+    "url": "https://github.com/AnkitParekh007/frontend-ai-patterns"
+  },
+  {
+    "description": "An AI that stays with you between conversations. Keeps the threads you didn't finish, answers from your own notes with r",
+    "id": "wlsdks/muse-agent",
+    "language": "TypeScript",
+    "name": "wlsdks/muse-agent",
+    "stars": 3,
+    "updated_at": "2026-08-09T05:32:13Z",
+    "url": "https://github.com/wlsdks/muse-agent"
+  },
+  {
+    "description": "Recruiter-facing, source-grounded AI twin with an authority-gated research context",
+    "id": "prathamesh-git9/digital-twin",
+    "language": "Python",
+    "name": "prathamesh-git9/digital-twin",
+    "stars": 1,
+    "updated_at": "2026-08-09T05:32:04Z",
+    "url": "https://github.com/prathamesh-git9/digital-twin"
+  },
+  {
+    "description": "AI-powered Research Assistant using RAG, FAISS, Sentence Transformers, Streamlit, and Google Gemini 3.5 Flash.",
+    "id": "ellurunandini80-prog/AI-Research-Agent",
+    "language": "Python",
+    "name": "ellurunandini80-prog/AI-Research-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-09T05:31:29Z",
+    "url": "https://github.com/ellurunandini80-prog/AI-Research-Agent"
+  },
+  {
+    "description": "Self-hosted long-term memory for AI systems. The LLM proposes, a deterministic pipeline decides.",
+    "id": "yul761/StateCore",
+    "language": "TypeScript",
+    "name": "yul761/StateCore",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:31:20Z",
+    "url": "https://github.com/yul761/StateCore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T05:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a app \u4e2d\u8f85\u52a9\u5b9e\u73b0ai\u529f\u80fd",
     "id": "coolight7/agentxx",
     "language": "C++",
@@ -7,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-08-09T05:29:25Z",
     "url": "https://github.com/coolight7/agentxx"
-  },
-  {
-    "description": "\u9762\u5411\u804c\u4e1a\u9662\u6821\u7684 AI-Native \u77e5\u8bc6\u57fa\u5ea7\uff0cRAG + \u5c42\u7ea7\u77e5\u8bc6\u56fe\u8c31 +ES\u5168\u6587\u7d22\u5f15",
-    "id": "MarkDanile/MetaEduBase",
-    "language": "Python",
-    "name": "MarkDanile/MetaEduBase",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:29:19Z",
-    "url": "https://github.com/MarkDanile/MetaEduBase"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -43,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-09T05:28:15Z",
     "url": "https://github.com/Open-Technology-Foundation/appliedanthropology"
-  },
-  {
-    "description": "Self-hosted long-term memory for AI systems. The LLM proposes, a deterministic pipeline decides.",
-    "id": "yul761/StateCore",
-    "language": "TypeScript",
-    "name": "yul761/StateCore",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:27:57Z",
-    "url": "https://github.com/yul761/StateCore"
   },
   {
     "description": "Concise, connected notes on AI, materials science, and chemistry.",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:25:17Z",
     "url": "https://github.com/markfietje/brain-server"
-  },
-  {
-    "description": "An AI that stays with you between conversations. Keeps the threads you didn't finish, answers from your own notes with r",
-    "id": "wlsdks/muse-agent",
-    "language": "TypeScript",
-    "name": "wlsdks/muse-agent",
-    "stars": 3,
-    "updated_at": "2026-08-09T05:24:03Z",
-    "url": "https://github.com/wlsdks/muse-agent"
   },
   {
     "description": "Arabic-First PDF Extraction, RTL Normalization & Table Chunking Engine for RAG Systems (PyPI Package).",
@@ -194,26 +275,8 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18983,
-    "updated_at": "2026-08-09T05:27:43Z",
+    "updated_at": "2026-08-09T05:32:02Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T05:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
@@ -252,15 +315,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "AI-powered Research Assistant using RAG, FAISS, Sentence Transformers, Streamlit, and Google Gemini 3.5 Flash.",
-    "id": "ellurunandini80-prog/AI-Research-Agent",
-    "language": "Python",
-    "name": "ellurunandini80-prog/AI-Research-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:12:59Z",
-    "url": "https://github.com/ellurunandini80-prog/AI-Research-Agent"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:12:08Z",
     "url": "https://github.com/shaba5h/document-qa"
-  },
-  {
-    "description": "Recruiter-facing, source-grounded AI twin with an authority-gated research context",
-    "id": "prathamesh-git9/digital-twin",
-    "language": "Python",
-    "name": "prathamesh-git9/digital-twin",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:12:22Z",
-    "url": "https://github.com/prathamesh-git9/digital-twin"
   },
   {
     "description": "\ud83d\udcc4 Daily paper discovery for AI Agent, RAG, Knowledge Graph - arXiv + HuggingFace + Papers With Code",
@@ -328,7 +373,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 34882,
+    "stars": 34885,
     "updated_at": "2026-08-09T05:09:43Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -403,50 +448,5 @@
     "stars": 104,
     "updated_at": "2026-08-09T05:03:48Z",
     "url": "https://github.com/OWWZO/ai-agent"
-  },
-  {
-    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo",
-    "id": "onestardao/WFGY",
-    "language": "Jupyter Notebook",
-    "name": "onestardao/WFGY",
-    "stars": 1778,
-    "updated_at": "2026-08-09T05:03:11Z",
-    "url": "https://github.com/onestardao/WFGY"
-  },
-  {
-    "description": "Self-hosted AI workbench for knowledge, RAG, model providers, and safely governed user-built agents. Public Preview; pro",
-    "id": "lss100200/omnibase",
-    "language": "Python",
-    "name": "lss100200/omnibase",
-    "stars": 97,
-    "updated_at": "2026-08-09T05:19:13Z",
-    "url": "https://github.com/lss100200/omnibase"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:00:22Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
-    "id": "threejay20/homelab-ai-stack",
-    "language": "Python",
-    "name": "threejay20/homelab-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:59:19Z",
-    "url": "https://github.com/threejay20/homelab-ai-stack"
-  },
-  {
-    "description": "Fast, deterministic document parser and chunker for RAG and agent pipelines",
-    "id": "DocSlicer/DocSlicer",
-    "language": "Python",
-    "name": "DocSlicer/DocSlicer",
-    "stars": 14,
-    "updated_at": "2026-08-09T04:59:14Z",
-    "url": "https://github.com/DocSlicer/DocSlicer"
   }
 ]
