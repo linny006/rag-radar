@@ -1,5 +1,167 @@
 [
   {
+    "description": "GraphRAG Lore & World-Building System",
+    "id": "LuminariMUD/sage",
+    "language": "Python",
+    "name": "LuminariMUD/sage",
+    "stars": 3,
+    "updated_at": "2026-08-09T19:19:27Z",
+    "url": "https://github.com/LuminariMUD/sage"
+  },
+  {
+    "description": "An end-to-end Python RAG framework featuring document ingestion, semantic search, conversational AI, multi-user retrieva",
+    "id": "sachncs/raghub",
+    "language": "Python",
+    "name": "sachncs/raghub",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:19:11Z",
+    "url": "https://github.com/sachncs/raghub"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 4,
+    "updated_at": "2026-08-09T19:18:56Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3254,
+    "updated_at": "2026-08-09T19:19:42Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Low-latency C++ order book + Python backtester with a RAG-based signal research pipeline",
+    "id": "Mireinstein/QuantML",
+    "language": "Python",
+    "name": "Mireinstein/QuantML",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:18:04Z",
+    "url": "https://github.com/Mireinstein/QuantML"
+  },
+  {
+    "description": "A full-stack AI-Powered Document Learning Platform",
+    "id": "Hikmahx/QuizMe",
+    "language": "TypeScript",
+    "name": "Hikmahx/QuizMe",
+    "stars": 1,
+    "updated_at": "2026-08-09T19:17:58Z",
+    "url": "https://github.com/Hikmahx/QuizMe"
+  },
+  {
+    "description": "Fast, deterministic document parser and chunker for RAG and agent pipelines. Ships an MCP server for agents navigating l",
+    "id": "DocSlicer/DocSlicer",
+    "language": "Python",
+    "name": "DocSlicer/DocSlicer",
+    "stars": 14,
+    "updated_at": "2026-08-09T19:17:27Z",
+    "url": "https://github.com/DocSlicer/DocSlicer"
+  },
+  {
+    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
+    "id": "The-Geek-Freaks/NEOTH",
+    "language": "Rust",
+    "name": "The-Geek-Freaks/NEOTH",
+    "stars": 5,
+    "updated_at": "2026-08-09T19:16:35Z",
+    "url": "https://github.com/The-Geek-Freaks/NEOTH"
+  },
+  {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 1,
+    "updated_at": "2026-08-09T19:16:21Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
+    "description": "Adaptive memory for agents: durable local-first state, scoped recall, reinforcement, forgetting, consolidation, and repr",
+    "id": "CaspianG/wavemind",
+    "language": "Python",
+    "name": "CaspianG/wavemind",
+    "stars": 6,
+    "updated_at": "2026-08-09T19:16:09Z",
+    "url": "https://github.com/CaspianG/wavemind"
+  },
+  {
+    "description": "AI-powered IT triage built on Claude + ServiceNow. Demonstrates RAG, model failover, structured output, and observabilit",
+    "id": "Zijadx/sn-triage-copilot",
+    "language": "JavaScript",
+    "name": "Zijadx/sn-triage-copilot",
+    "stars": 1,
+    "updated_at": "2026-08-09T19:15:54Z",
+    "url": "https://github.com/Zijadx/sn-triage-copilot"
+  },
+  {
+    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
+    "id": "generalbots/generalbots",
+    "language": "Rust",
+    "name": "generalbots/generalbots",
+    "stars": 84,
+    "updated_at": "2026-08-09T19:15:53Z",
+    "url": "https://github.com/generalbots/generalbots"
+  },
+  {
+    "description": "A bilingual academic wiki with searchable knowledge, citation-grounded LLM answers, and agent-readable OKF exports.",
+    "id": "XinbaoQiao/XinbaoWiki",
+    "language": "JavaScript",
+    "name": "XinbaoQiao/XinbaoWiki",
+    "stars": 1,
+    "updated_at": "2026-08-09T19:15:31Z",
+    "url": "https://github.com/XinbaoQiao/XinbaoWiki"
+  },
+  {
+    "description": "Citation-first RAG over official EU law \u2014 compliance & funding answers for SMEs with enforced, resolvable citations. EUR",
+    "id": "kashastic/eu-rag",
+    "language": "Python",
+    "name": "kashastic/eu-rag",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:15:31Z",
+    "url": "https://github.com/kashastic/eu-rag"
+  },
+  {
+    "description": "Captures methods to train Large Language Models and Retrieval Augmented Generation Processes",
+    "id": "marcus-24/LLM-and-RAG-Algorithms",
+    "language": "Python",
+    "name": "marcus-24/LLM-and-RAG-Algorithms",
+    "stars": 2,
+    "updated_at": "2026-08-09T19:15:23Z",
+    "url": "https://github.com/marcus-24/LLM-and-RAG-Algorithms"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T19:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T19:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS \u2014 MLX inference, live voice, knowledge graph + RAG, ",
+    "id": "Round-Tower/m1k3",
+    "language": "Swift",
+    "name": "Round-Tower/m1k3",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:15:14Z",
+    "url": "https://github.com/Round-Tower/m1k3"
+  },
+  {
     "description": "Fetch interesting technical blogs",
     "id": "shrirambalakrishnan/tech-news-aggregator",
     "language": "Go",
@@ -25,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T19:14:00Z",
     "url": "https://github.com/tridibbanik17/CUTC-Transform-Hackathon-2026"
-  },
-  {
-    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
-    "id": "generalbots/generalbots",
-    "language": "Rust",
-    "name": "generalbots/generalbots",
-    "stars": 84,
-    "updated_at": "2026-08-09T19:13:58Z",
-    "url": "https://github.com/generalbots/generalbots"
   },
   {
     "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
@@ -95,7 +248,7 @@
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-09T19:12:57Z",
+    "updated_at": "2026-08-09T19:15:34Z",
     "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
@@ -124,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-08-09T19:08:07Z",
     "url": "https://github.com/Mubder/kazma"
-  },
-  {
-    "description": "Citation-first RAG over official EU law \u2014 compliance & funding answers for SMEs with enforced, resolvable citations. EUR",
-    "id": "kashastic/eu-rag",
-    "language": "Python",
-    "name": "kashastic/eu-rag",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:07:26Z",
-    "url": "https://github.com/kashastic/eu-rag"
   },
   {
     "description": "Pacific Slate: a self-hosted, multi-agent personal AI platform. Architecture and key design decisions.",
@@ -180,15 +324,6 @@
     "url": "https://github.com/sepahead/sepahead"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3254,
-    "updated_at": "2026-08-09T19:07:15Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
     "id": "sharfuddin18/Codemaster-Ai",
     "language": "Python",
@@ -234,15 +369,6 @@
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
-    "description": "GraphRAG Lore & World-Building System",
-    "id": "LuminariMUD/sage",
-    "language": "Python",
-    "name": "LuminariMUD/sage",
-    "stars": 3,
-    "updated_at": "2026-08-09T19:03:42Z",
-    "url": "https://github.com/LuminariMUD/sage"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -250,15 +376,6 @@
     "stars": 796,
     "updated_at": "2026-08-09T19:03:22Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS \u2014 MLX inference, live voice, knowledge graph + RAG, ",
-    "id": "Round-Tower/m1k3",
-    "language": "Swift",
-    "name": "Round-Tower/m1k3",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:15:14Z",
-    "url": "https://github.com/Round-Tower/m1k3"
   },
   {
     "description": "BETA \u2014 Local-first memory for AI agents. Serves records with their source, date, and whether they actually answer the qu",
@@ -315,33 +432,6 @@
     "url": "https://github.com/r-uby-dev/llm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T19:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T19:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Low-latency C++ order book + Python backtester with a RAG-based signal research pipeline",
-    "id": "Mireinstein/QuantML",
-    "language": "Python",
-    "name": "Mireinstein/QuantML",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:58:32Z",
-    "url": "https://github.com/Mireinstein/QuantML"
-  },
-  {
     "description": "Personal tech blog, portfolio, and AI chatbot \u2014 built with Next.js 15, Nuartz, and LangGraph",
     "id": "syshin0116/syshin0116.dev",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-09T18:57:14Z",
     "url": "https://github.com/veracium-ai/Veracium"
-  },
-  {
-    "description": "Production-grade full-stack AI chat platform with RAG, tools, agents, MCP, and voice.",
-    "id": "pateatlau/fullstack-ai-platform",
-    "language": "Python",
-    "name": "pateatlau/fullstack-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:10:12Z",
-    "url": "https://github.com/pateatlau/fullstack-ai-platform"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-09T18:55:51Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:55:38Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 335,
-    "updated_at": "2026-08-09T18:55:02Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
-    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "language": "JavaScript",
-    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:54:49Z",
-    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
-  },
-  {
-    "description": "MCP server with a RAG pipeline over SEC EDGAR 10-K filings: section-aware chunking, BGE embeddings, ChromaDB, Loughran-M",
-    "id": "ninadpshah/SEC-RAG-MCP",
-    "language": "Python",
-    "name": "ninadpshah/SEC-RAG-MCP",
-    "stars": 1,
-    "updated_at": "2026-08-09T18:54:28Z",
-    "url": "https://github.com/ninadpshah/SEC-RAG-MCP"
-  },
-  {
-    "description": "Self-hosted idea capture and retrieval assistant",
-    "id": "triskattie/idea-inbox",
-    "language": "Python",
-    "name": "triskattie/idea-inbox",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:53:45Z",
-    "url": "https://github.com/triskattie/idea-inbox"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 1,
-    "updated_at": "2026-08-09T19:07:30Z",
-    "url": "https://github.com/wish-maker/minder"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-09T18:53:19Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "An open source, AI-powered PDF reader for math papers and textbooks.",
-    "id": "stephan271c/math_reader",
-    "language": "Python",
-    "name": "stephan271c/math_reader",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:53:11Z",
-    "url": "https://github.com/stephan271c/math_reader"
   }
 ]
