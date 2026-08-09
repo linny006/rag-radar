@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
+    "id": "kriid08/SkillForge",
+    "language": "JavaScript",
+    "name": "kriid08/SkillForge",
+    "stars": 1,
+    "updated_at": "2026-08-09T11:45:02Z",
+    "url": "https://github.com/kriid08/SkillForge"
+  },
+  {
+    "description": "\ud83e\uddec Build consistent AI personalities with the Kotodama Framework, ensuring engaging, reliable interactions throughout you",
+    "id": "LegendsVenom/kotodama-framework",
+    "language": "\u2014",
+    "name": "LegendsVenom/kotodama-framework",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:44:53Z",
+    "url": "https://github.com/LegendsVenom/kotodama-framework"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance learning with DeepTutor, an AI-powered assistant that personalizes education to fit your needs. Discover tailo",
+    "id": "miljuds2/DeepTutor",
+    "language": "\u2014",
+    "name": "miljuds2/DeepTutor",
+    "stars": 1,
+    "updated_at": "2026-08-09T11:44:47Z",
+    "url": "https://github.com/miljuds2/DeepTutor"
+  },
+  {
+    "description": "Drop-in LLMOps observability for RAG \u2014 multi-judge consensus (disagreement as the alarm), 5 scorers, cost/latency, OpenT",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 1,
+    "updated_at": "2026-08-09T11:44:47Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:44:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-powered internal knowledge base assistant featuring hybrid semantic search, local LLM inference with Ollama, MongoDB,",
+    "id": "nourhamdan2005/smart-internal-knowledge-base-assistant",
+    "language": "Python",
+    "name": "nourhamdan2005/smart-internal-knowledge-base-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:44:16Z",
+    "url": "https://github.com/nourhamdan2005/smart-internal-knowledge-base-assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:44:14Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP server for business-intelligence agents \u2014 6 tools / 6 resources / 1 prompt over real KPI analytics; works from Claud",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:44:12Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Evidence-grounded medical QA agent and reproducible public benchmark platform",
+    "id": "My13ad/pathagent-rag",
+    "language": "Python",
+    "name": "My13ad/pathagent-rag",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:44:04Z",
+    "url": "https://github.com/My13ad/pathagent-rag"
+  },
+  {
     "description": "Self-hosted RAG stack for crawl, scrape, search, ingest, query, and ask workflows with Qdrant, TEI embeddings, Chrome re",
     "id": "dinglebear-ai/axon",
     "language": "Rust",
@@ -16,6 +97,15 @@
     "stars": 103,
     "updated_at": "2026-08-09T11:43:50Z",
     "url": "https://github.com/swarmauri/swarmauri-sdk"
+  },
+  {
+    "description": "Persona-aware AI analytics & RAG copilot \u2014 9 role-scoped personas, hybrid retrieval (BGE+BM25+RRF+reranker) + GraphRAG-l",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:43:40Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
     "description": "AI-powered document intelligence platform with semantic search, Retrieval-Augmented Generation (RAG), executive summarie",
@@ -59,7 +149,7 @@
     "language": "TypeScript",
     "name": "mrashis06/Ash.Tech",
     "stars": 0,
-    "updated_at": "2026-08-09T11:43:16Z",
+    "updated_at": "2026-08-09T11:45:06Z",
     "url": "https://github.com/mrashis06/Ash.Tech"
   },
   {
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "caura-ai/caura-memclaw",
     "stars": 420,
-    "updated_at": "2026-08-09T11:43:09Z",
+    "updated_at": "2026-08-09T11:44:52Z",
     "url": "https://github.com/caura-ai/caura-memclaw"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T11:37:19Z",
     "url": "https://github.com/Pintaro/mem0"
-  },
-  {
-    "description": "\ud83c\udfac Explore AI-driven film theory with the Film Theory RAG knowledge base, enhancing creative processes through innovative",
-    "id": "Boyohboyisverycool/film-theory-rag",
-    "language": "\u2014",
-    "name": "Boyohboyisverycool/film-theory-rag",
-    "stars": 0,
-    "updated_at": "2026-08-09T11:37:07Z",
-    "url": "https://github.com/Boyohboyisverycool/film-theory-rag"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-09T11:36:52Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": " AI research chatbot with dynamic query planning, parallel search, and RAGAS-evaluated grounded answers.",
-    "id": "Aniruddha072/ai-search-chatbot",
-    "language": "Python",
-    "name": "Aniruddha072/ai-search-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-09T11:36:29Z",
-    "url": "https://github.com/Aniruddha072/ai-search-chatbot"
-  },
-  {
-    "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 327,
-    "updated_at": "2026-08-09T11:36:06Z",
-    "url": "https://github.com/xr843/fojin"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-09T11:35:59Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Local, cross-AI memory for coding agents \u2014 Claude Code, Codex, Gemini, Antigravity, Cursor, Kimi & more share one privat",
-    "id": "kalinbogatzevski/captain-memo",
-    "language": "TypeScript",
-    "name": "kalinbogatzevski/captain-memo",
-    "stars": 2,
-    "updated_at": "2026-08-09T11:35:42Z",
-    "url": "https://github.com/kalinbogatzevski/captain-memo"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-09T11:35:39Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "All-in-one Chrome extension for website security scanning and page-aware AI chat. Detects AI-generated content, scams, a",
-    "id": "Bhavya-Annabattula/All_for_One",
-    "language": "JavaScript",
-    "name": "Bhavya-Annabattula/All_for_One",
-    "stars": 0,
-    "updated_at": "2026-08-09T11:35:36Z",
-    "url": "https://github.com/Bhavya-Annabattula/All_for_One"
-  },
-  {
-    "description": "AI automation engineering portfolio \u2014 five live, clickable systems (lead routing, RAG support agent, invoice pipeline, A",
-    "id": "wasay-09/ai-automation-studio",
-    "language": "\u2014",
-    "name": "wasay-09/ai-automation-studio",
-    "stars": 0,
-    "updated_at": "2026-08-09T11:35:35Z",
-    "url": "https://github.com/wasay-09/ai-automation-studio"
-  },
-  {
-    "description": "",
-    "id": "TheEspresso/prompt-engineering",
-    "language": "\u2014",
-    "name": "TheEspresso/prompt-engineering",
-    "stars": 2,
-    "updated_at": "2026-08-09T11:35:31Z",
-    "url": "https://github.com/TheEspresso/prompt-engineering"
   }
 ]
