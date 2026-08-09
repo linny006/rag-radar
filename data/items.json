@@ -1,20 +1,11 @@
 [
   {
-    "description": "Persistent long-term memory for Claude Code \u2014 local PostgreSQL + pgvector + Streamlit. Ingests JSONL sessions, extracts ",
-    "id": "mkupermann/throughline",
-    "language": "Python",
-    "name": "mkupermann/throughline",
-    "stars": 21,
-    "updated_at": "2026-08-09T11:00:03Z",
-    "url": "https://github.com/mkupermann/throughline"
-  },
-  {
     "description": "Enterprise Multi-Node Hybrid RAG, PyTorch Neural Vector Reranker & GPU Compute Console",
     "id": "areqpl/Owlbearag",
     "language": "Python",
     "name": "areqpl/Owlbearag",
     "stars": 0,
-    "updated_at": "2026-08-09T10:59:54Z",
+    "updated_at": "2026-08-09T11:02:59Z",
     "url": "https://github.com/areqpl/Owlbearag"
   },
   {
@@ -23,8 +14,98 @@
     "language": "Rust",
     "name": "xberg-io/xberg",
     "stars": 8936,
-    "updated_at": "2026-08-09T10:59:39Z",
+    "updated_at": "2026-08-09T11:02:48Z",
     "url": "https://github.com/xberg-io/xberg"
+  },
+  {
+    "description": "Azure VM \u00fczerinde ve bilgisayarda \u00e7al\u0131\u015fan yerel RAG asistan\u0131 ",
+    "id": "Mss004/rag-project",
+    "language": "Python",
+    "name": "Mss004/rag-project",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:02:35Z",
+    "url": "https://github.com/Mss004/rag-project"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3253,
+    "updated_at": "2026-08-09T11:02:30Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4379,
+    "updated_at": "2026-08-09T11:01:53Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Gebo.ai The open source Enterprise AI vendor agnostic platform",
+    "id": "geboai/Gebo.ai",
+    "language": "Java",
+    "name": "geboai/Gebo.ai",
+    "stars": 6,
+    "updated_at": "2026-08-09T11:01:12Z",
+    "url": "https://github.com/geboai/Gebo.ai"
+  },
+  {
+    "description": "Versioned, fast and scalable nearest neighbor search.",
+    "id": "replikativ/proximum",
+    "language": "Clojure",
+    "name": "replikativ/proximum",
+    "stars": 30,
+    "updated_at": "2026-08-09T11:00:48Z",
+    "url": "https://github.com/replikativ/proximum"
+  },
+  {
+    "description": "An AI research assistant that searches the web, analyzes sources, and generates citation-backed answers using RAG, tool ",
+    "id": "Teedor01/research-assistant",
+    "language": "Python",
+    "name": "Teedor01/research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-09T11:00:32Z",
+    "url": "https://github.com/Teedor01/research-assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T11:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151833,
+    "updated_at": "2026-08-09T11:02:40Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Persistent long-term memory for Claude Code \u2014 local PostgreSQL + pgvector + Streamlit. Ingests JSONL sessions, extracts ",
+    "id": "mkupermann/throughline",
+    "language": "Python",
+    "name": "mkupermann/throughline",
+    "stars": 21,
+    "updated_at": "2026-08-09T11:00:03Z",
+    "url": "https://github.com/mkupermann/throughline"
   },
   {
     "description": "\u4f01\u4e1a\u77e5\u8bc6\u751f\u4ea7\u3001\u5ba1\u6279\u53d1\u5e03\u3001\u6743\u9650\u6cbb\u7406\u3001\u8bed\u4e49\u68c0\u7d22\u4e0e\u53ef\u4fe1 AI \u95ee\u7b54\u5e73\u53f0",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "tomyimkc/sophia-agi",
     "stars": 6,
-    "updated_at": "2026-08-09T10:59:19Z",
+    "updated_at": "2026-08-09T11:03:36Z",
     "url": "https://github.com/tomyimkc/sophia-agi"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3253,
-    "updated_at": "2026-08-09T10:58:11Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -103,7 +175,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 35011,
+    "stars": 35012,
     "updated_at": "2026-08-09T10:57:51Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "EtanHey/brainlayer",
     "stars": 8,
-    "updated_at": "2026-08-09T10:56:32Z",
+    "updated_at": "2026-08-09T11:01:18Z",
     "url": "https://github.com/EtanHey/brainlayer"
   },
   {
@@ -214,6 +286,15 @@
     "stars": 2,
     "updated_at": "2026-08-09T10:53:52Z",
     "url": "https://github.com/sreesyam064/vaultiq"
+  },
+  {
+    "description": "RAG-based interview assistant with hybrid dense+sparse retrieval, query routing, and source-cited answers grounded in re",
+    "id": "prachi463/interview-copilot-rag",
+    "language": "Python",
+    "name": "prachi463/interview-copilot-rag",
+    "stars": 0,
+    "updated_at": "2026-08-09T10:53:19Z",
+    "url": "https://github.com/prachi463/interview-copilot-rag"
   },
   {
     "description": "AI-powered document intelligence platform with semantic search, Retrieval-Augmented Generation (RAG), executive summarie",
@@ -232,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T10:52:13Z",
     "url": "https://github.com/zhongzhir/Aivestor"
-  },
-  {
-    "description": "An AI research assistant that searches the web, analyzes sources, and generates citation-backed answers using RAG, tool ",
-    "id": "Teedor01/research-assistant",
-    "language": "Python",
-    "name": "Teedor01/research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:51:30Z",
-    "url": "https://github.com/Teedor01/research-assistant"
   },
   {
     "description": "Persistent memory, BM25 code search, MCP tools, and hook guardrails for AI coding agents \u2014 Claude Code, Codex CLI & Anti",
@@ -329,7 +401,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-09T10:50:59Z",
+    "updated_at": "2026-08-09T11:02:20Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-09T10:45:28Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-09T10:52:01Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "AI-powered academic research platform for paper search, multi-agent reviews, knowledge graphs, and personalized research",
-    "id": "KimJiSeong1994/PaperReview",
-    "language": "Python",
-    "name": "KimJiSeong1994/PaperReview",
-    "stars": 1,
-    "updated_at": "2026-08-09T10:44:13Z",
-    "url": "https://github.com/KimJiSeong1994/PaperReview"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:44:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Personal portfolio showcasing AI Engineering, Machine Learning, NLP, Computer Vision, Data Analytics, and React projects",
-    "id": "MCPraveen1/Portfolio",
-    "language": "JavaScript",
-    "name": "MCPraveen1/Portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:45:40Z",
-    "url": "https://github.com/MCPraveen1/Portfolio"
-  },
-  {
-    "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a",
-    "id": "mtrnix/metronix-memory",
-    "language": "Python",
-    "name": "mtrnix/metronix-memory",
-    "stars": 33,
-    "updated_at": "2026-08-09T10:53:40Z",
-    "url": "https://github.com/mtrnix/metronix-memory"
-  },
-  {
-    "description": "Reads the small print and flags unfair clauses in plain English. Sentence-BERT + FAISS retrieval grounds the analysis, c",
-    "id": "iamtamilore/terms-guard-ai",
-    "language": "Python",
-    "name": "iamtamilore/terms-guard-ai",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:43:17Z",
-    "url": "https://github.com/iamtamilore/terms-guard-ai"
   }
 ]
