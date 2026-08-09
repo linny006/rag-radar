@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T03:14:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Machine-readable Luxembourg and reviewed EU law: per-article Markdown and JSON, validity intervals, and hashes chained t",
     "id": "SFHAJJI/lex-articles",
     "language": "\u2014",
@@ -295,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T03:00:30Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T03:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",

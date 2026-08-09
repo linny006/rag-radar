@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 03:14 UTC
+> ⏰ Last updated: 2026-08-09 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,40 +42,40 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SFHAJJI/lex-articles](https://github.com/SFHAJJI/lex-articles) | 0 | — | 2026-08-09 | Machine-readable Luxembourg and reviewed EU law: per-article Markdown and JSON, validity intervals, and hashes chained t |
-| 2 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 206 | Python | 2026-08-09 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
-| 3 | [Elorro/voice-agent-postop](https://github.com/Elorro/voice-agent-postop) | 0 | Python | 2026-08-09 | Agente de voz en español para seguimiento postoperatorio: conversación en tiempo real, RAG clínico con trazabilidad y co |
-| 4 | [Mullassery/PyVectorHound](https://github.com/Mullassery/PyVectorHound) | 0 | Python | 2026-08-09 | Diagnostic engine for RAG retrieval failures. Component-level analysis, root cause detection, optimization recommendatio |
-| 5 | [IQZZ020501/NexaFlow](https://github.com/IQZZ020501/NexaFlow) | 0 | Python | 2026-08-09 | “企业级AI原生协作平台核心架构：支持多租户隔离的向量知识库（RAG）、具备上下文感知的LLM Agent编排，以及基于MCP（模型上下文协议）的工作区级工具集成；后端采用FastAPI异步框架，前端基于Next.js 14构建高交互体验。 |
-| 6 | [prathamesh-git9/digital-twin](https://github.com/prathamesh-git9/digital-twin) | 1 | Python | 2026-08-09 | Recruiter-facing, source-grounded AI twin with an authority-gated research context |
-| 7 | [ber4444/compose-multiplatform-chess](https://github.com/ber4444/compose-multiplatform-chess) | 7 | Kotlin | 2026-08-09 | Multiplatform 3D chess app powered by Stockfish, featuring on-device AI move coaching and cloud-based RAG for position c |
-| 8 | [pranayprasad7001/generative-ai-projects](https://github.com/pranayprasad7001/generative-ai-projects) | 0 | Python | 2026-08-09 | Practical Generative AI projects covering LLMs, RAG, AI agents, SQL agents, tool calling, and Streamlit applications bui |
-| 9 | [AnkitParekh007/resume](https://github.com/AnkitParekh007/resume) | 0 | HTML | 2026-08-09 | AI Frontend Architect portfolio and resume focused on Angular copilots, agentic UI, RAG UX, MCP/tool execution, and ente |
-| 10 | [LindaHaviv/second-brain](https://github.com/LindaHaviv/second-brain) | 8 | Python | 2026-08-09 | Build a second brain every AI can share: your content in Oracle AI Database 26ai — semantic search with in-database embe |
-| 11 | [wahreus/daily-tip-agent](https://github.com/wahreus/daily-tip-agent) | 0 | Python | 2026-08-09 | A RAG-based AI agent for generating daily AWS best-practice tips. |
-| 12 | [however-yir/knowledgeops-agent](https://github.com/however-yir/knowledgeops-agent) | 188 | Java | 2026-08-09 | Enterprise-ready Spring AI platform for RAG, tool calling, async ingestion, JWT/RBAC security, and observability. |
-| 13 | [AnkitParekh007/AnkitParekh007](https://github.com/AnkitParekh007/AnkitParekh007) | 0 | — | 2026-08-09 | AI Frontend Architect profile focused on Angular copilots, UI agents, and AI-native enterprise interfaces. |
-| 14 | [tomyimkc/sophia-agi](https://github.com/tomyimkc/sophia-agi) | 6 | Python | 2026-08-09 | Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating — stops LLMs inventi |
-| 15 | [AndriiArtemenko3/MasterVaultPublic](https://github.com/AndriiArtemenko3/MasterVaultPublic) | 1 | Python | 2026-08-09 | Local-first agentic RAG for internal knowledge: a Markdown-canonical vault with claim-level provenance, contradiction ro |
-| 16 | [however-yir/ragproof](https://github.com/however-yir/ragproof) | 2 | Python | 2026-08-09 | Framework-agnostic RAG evaluation & regression-testing CLI — recall@k, MRR, faithfulness, citation metrics, CI gate |
-| 17 | [AnkitParekh007/Agentic-Engineering-Playbook](https://github.com/AnkitParekh007/Agentic-Engineering-Playbook) | 1 | TypeScript | 2026-08-09 | A practical open-source roadmap to build production-grade AI agents, copilots, RAG systems, MCP tools, and agentic appli |
-| 18 | [ManifoldKit/ManifoldKit](https://github.com/ManifoldKit/ManifoldKit) | 5 | Swift | 2026-08-09 | Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms |
-| 19 | [cgfixit/Insight_Extractor](https://github.com/cgfixit/Insight_Extractor) | 0 | Python | 2026-08-09 | Take Long Threads and Turn them into notes for yourself or AI - BERT + regex insight extractor with dynamic keyword stem |
-| 20 | [dinglebear-ai/axon](https://github.com/dinglebear-ai/axon) | 3 | Rust | 2026-08-09 | Self-hosted RAG stack for crawl, scrape, search, ingest, query, and ask workflows with Qdrant, TEI embeddings, Chrome re |
-| 21 | [chinesewebman/mnelo](https://github.com/chinesewebman/mnelo) | 1 | Python | 2026-08-09 | Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite. |
-| 22 | [AnkitParekh007/angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter) | 0 | TypeScript | 2026-08-09 | Angular AI copilot starter with streaming chat UX, RAG source cards, tool-call timeline, action approvals, mock MCP tool |
-| 23 | [AnkitParekh007/frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns) | 0 | JavaScript | 2026-08-09 | Angular and TypeScript patterns for AI frontend systems: streaming UX, RAG citations, tool calling, MCP tools, approvals |
-| 24 | [iome-sh/memory](https://github.com/iome-sh/memory) | 0 | Go | 2026-08-09 | Palace memory kernel (Go) — local-primary hierarchical FS palace, hybrid search, temporal lite; not product Memory GA |
-| 25 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 18981 | TypeScript | 2026-08-09 | Open source agentic operating system |
-| 26 | [AnkitParekh007/org-ai-force](https://github.com/AnkitParekh007/org-ai-force) | 0 | TypeScript | 2026-08-09 | Enterprise Angular 21 AI agent workspace with NestJS orchestrator, RAG, MCP tools, SSE streaming, Playwright workers, ad |
-| 27 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 17 | JavaScript | 2026-08-09 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
-| 28 | [AnkitParekh007/ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform) | 0 | TypeScript | 2026-08-09 | Angular AI copilot platform with an Angular SDK, Next.js RAG backend, Supabase pgvector retrieval, streaming chat, and e |
-| 29 | [jee3m/augmentative-knowledge-hooks](https://github.com/jee3m/augmentative-knowledge-hooks) | 0 | HTML | 2026-08-09 | Semantic Search for Pi 2026: Local Knowledge Base & AI Tool |
-| 30 | [nupsea/luminary](https://github.com/nupsea/luminary) | 7 | Python | 2026-08-09 | A local-first app that turns your documents into a personal knowledge base you can read, search, and actually retain — w |
-| 31 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-08-09 | Agent 运行时 — 三类应用（编码/客服/RAG）· 多 app HTTP · 证据化文档排障 · Harness/StepWatcher（v0.5.1） |
-| 32 | [Open-Technology-Foundation/appliedanthropology](https://github.com/Open-Technology-Foundation/appliedanthropology) | 4 | Shell | 2026-08-09 | The Applied Anthropology Knowledgebase: biology, evolution, cultural evolution, technological evolution, secular dharma  |
-| 33 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 34 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [SFHAJJI/lex-articles](https://github.com/SFHAJJI/lex-articles) | 0 | — | 2026-08-09 | Machine-readable Luxembourg and reviewed EU law: per-article Markdown and JSON, validity intervals, and hashes chained t |
+| 3 | [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX) | 206 | Python | 2026-08-09 | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop ap |
+| 4 | [Elorro/voice-agent-postop](https://github.com/Elorro/voice-agent-postop) | 0 | Python | 2026-08-09 | Agente de voz en español para seguimiento postoperatorio: conversación en tiempo real, RAG clínico con trazabilidad y co |
+| 5 | [Mullassery/PyVectorHound](https://github.com/Mullassery/PyVectorHound) | 0 | Python | 2026-08-09 | Diagnostic engine for RAG retrieval failures. Component-level analysis, root cause detection, optimization recommendatio |
+| 6 | [IQZZ020501/NexaFlow](https://github.com/IQZZ020501/NexaFlow) | 0 | Python | 2026-08-09 | “企业级AI原生协作平台核心架构：支持多租户隔离的向量知识库（RAG）、具备上下文感知的LLM Agent编排，以及基于MCP（模型上下文协议）的工作区级工具集成；后端采用FastAPI异步框架，前端基于Next.js 14构建高交互体验。 |
+| 7 | [prathamesh-git9/digital-twin](https://github.com/prathamesh-git9/digital-twin) | 1 | Python | 2026-08-09 | Recruiter-facing, source-grounded AI twin with an authority-gated research context |
+| 8 | [ber4444/compose-multiplatform-chess](https://github.com/ber4444/compose-multiplatform-chess) | 7 | Kotlin | 2026-08-09 | Multiplatform 3D chess app powered by Stockfish, featuring on-device AI move coaching and cloud-based RAG for position c |
+| 9 | [pranayprasad7001/generative-ai-projects](https://github.com/pranayprasad7001/generative-ai-projects) | 0 | Python | 2026-08-09 | Practical Generative AI projects covering LLMs, RAG, AI agents, SQL agents, tool calling, and Streamlit applications bui |
+| 10 | [AnkitParekh007/resume](https://github.com/AnkitParekh007/resume) | 0 | HTML | 2026-08-09 | AI Frontend Architect portfolio and resume focused on Angular copilots, agentic UI, RAG UX, MCP/tool execution, and ente |
+| 11 | [LindaHaviv/second-brain](https://github.com/LindaHaviv/second-brain) | 8 | Python | 2026-08-09 | Build a second brain every AI can share: your content in Oracle AI Database 26ai — semantic search with in-database embe |
+| 12 | [wahreus/daily-tip-agent](https://github.com/wahreus/daily-tip-agent) | 0 | Python | 2026-08-09 | A RAG-based AI agent for generating daily AWS best-practice tips. |
+| 13 | [however-yir/knowledgeops-agent](https://github.com/however-yir/knowledgeops-agent) | 188 | Java | 2026-08-09 | Enterprise-ready Spring AI platform for RAG, tool calling, async ingestion, JWT/RBAC security, and observability. |
+| 14 | [AnkitParekh007/AnkitParekh007](https://github.com/AnkitParekh007/AnkitParekh007) | 0 | — | 2026-08-09 | AI Frontend Architect profile focused on Angular copilots, UI agents, and AI-native enterprise interfaces. |
+| 15 | [tomyimkc/sophia-agi](https://github.com/tomyimkc/sophia-agi) | 6 | Python | 2026-08-09 | Wisdom before intelligence. A provenance-aware reasoning layer that abstains instead of fabricating — stops LLMs inventi |
+| 16 | [AndriiArtemenko3/MasterVaultPublic](https://github.com/AndriiArtemenko3/MasterVaultPublic) | 1 | Python | 2026-08-09 | Local-first agentic RAG for internal knowledge: a Markdown-canonical vault with claim-level provenance, contradiction ro |
+| 17 | [however-yir/ragproof](https://github.com/however-yir/ragproof) | 2 | Python | 2026-08-09 | Framework-agnostic RAG evaluation & regression-testing CLI — recall@k, MRR, faithfulness, citation metrics, CI gate |
+| 18 | [AnkitParekh007/Agentic-Engineering-Playbook](https://github.com/AnkitParekh007/Agentic-Engineering-Playbook) | 1 | TypeScript | 2026-08-09 | A practical open-source roadmap to build production-grade AI agents, copilots, RAG systems, MCP tools, and agentic appli |
+| 19 | [ManifoldKit/ManifoldKit](https://github.com/ManifoldKit/ManifoldKit) | 5 | Swift | 2026-08-09 | Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms |
+| 20 | [cgfixit/Insight_Extractor](https://github.com/cgfixit/Insight_Extractor) | 0 | Python | 2026-08-09 | Take Long Threads and Turn them into notes for yourself or AI - BERT + regex insight extractor with dynamic keyword stem |
+| 21 | [dinglebear-ai/axon](https://github.com/dinglebear-ai/axon) | 3 | Rust | 2026-08-09 | Self-hosted RAG stack for crawl, scrape, search, ingest, query, and ask workflows with Qdrant, TEI embeddings, Chrome re |
+| 22 | [chinesewebman/mnelo](https://github.com/chinesewebman/mnelo) | 1 | Python | 2026-08-09 | Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite. |
+| 23 | [AnkitParekh007/angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter) | 0 | TypeScript | 2026-08-09 | Angular AI copilot starter with streaming chat UX, RAG source cards, tool-call timeline, action approvals, mock MCP tool |
+| 24 | [AnkitParekh007/frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns) | 0 | JavaScript | 2026-08-09 | Angular and TypeScript patterns for AI frontend systems: streaming UX, RAG citations, tool calling, MCP tools, approvals |
+| 25 | [iome-sh/memory](https://github.com/iome-sh/memory) | 0 | Go | 2026-08-09 | Palace memory kernel (Go) — local-primary hierarchical FS palace, hybrid search, temporal lite; not product Memory GA |
+| 26 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 18981 | TypeScript | 2026-08-09 | Open source agentic operating system |
+| 27 | [AnkitParekh007/org-ai-force](https://github.com/AnkitParekh007/org-ai-force) | 0 | TypeScript | 2026-08-09 | Enterprise Angular 21 AI agent workspace with NestJS orchestrator, RAG, MCP tools, SSE streaming, Playwright workers, ad |
+| 28 | [sairaman436/vybe-intelligence-vault](https://github.com/sairaman436/vybe-intelligence-vault) | 17 | JavaScript | 2026-08-09 | An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati |
+| 29 | [AnkitParekh007/ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform) | 0 | TypeScript | 2026-08-09 | Angular AI copilot platform with an Angular SDK, Next.js RAG backend, Supabase pgvector retrieval, streaming chat, and e |
+| 30 | [jee3m/augmentative-knowledge-hooks](https://github.com/jee3m/augmentative-knowledge-hooks) | 0 | HTML | 2026-08-09 | Semantic Search for Pi 2026: Local Knowledge Base & AI Tool |
+| 31 | [nupsea/luminary](https://github.com/nupsea/luminary) | 7 | Python | 2026-08-09 | A local-first app that turns your documents into a personal knowledge base you can read, search, and actually retain — w |
+| 32 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-08-09 | Agent 运行时 — 三类应用（编码/客服/RAG）· 多 app HTTP · 证据化文档排障 · Harness/StepWatcher（v0.5.1） |
+| 33 | [Open-Technology-Foundation/appliedanthropology](https://github.com/Open-Technology-Foundation/appliedanthropology) | 4 | Shell | 2026-08-09 | The Applied Anthropology Knowledgebase: biology, evolution, cultural evolution, technological evolution, secular dharma  |
+| 34 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
 | 35 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 495 | Python | 2026-08-09 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
 | 36 | [Amal-David/docingest](https://github.com/Amal-David/docingest) | 13 | TypeScript | 2026-08-09 | Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents. |
 | 37 | [cgfixit/CyClaw](https://github.com/cgfixit/CyClaw) | 5 | Python | 2026-08-09 | CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s |
