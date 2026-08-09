@@ -1,5 +1,68 @@
 [
   {
+    "description": "IgniteAI Studio is a multi-provider AI workspace for document-grounded chat, content generation, and structured-data que",
+    "id": "proteendas/ignite-ai-studio",
+    "language": "TypeScript",
+    "name": "proteendas/ignite-ai-studio",
+    "stars": 0,
+    "updated_at": "2026-08-09T06:30:05Z",
+    "url": "https://github.com/proteendas/ignite-ai-studio"
+  },
+  {
+    "description": "Local-first RAG engine with cited answers from your own docs. GraphRAG, sealed sharing, MCP-native, VS Code Copilot inte",
+    "id": "jyunming/Axon",
+    "language": "Python",
+    "name": "jyunming/Axon",
+    "stars": 5,
+    "updated_at": "2026-08-09T06:30:01Z",
+    "url": "https://github.com/jyunming/Axon"
+  },
+  {
+    "description": "RAG-powered chatbot-as-a-service \u2014 embed an AI chatbot trained on your own docs into any website",
+    "id": "arjun16-t/chatbot-saas",
+    "language": "JavaScript",
+    "name": "arjun16-t/chatbot-saas",
+    "stars": 2,
+    "updated_at": "2026-08-09T06:29:59Z",
+    "url": "https://github.com/arjun16-t/chatbot-saas"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151814,
+    "updated_at": "2026-08-09T06:29:55Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code \u2014 114 skills, 37 agents, 212 hooks. Production-ready patterns for fu",
+    "id": "yonatangross/orchestkit",
+    "language": "TypeScript",
+    "name": "yonatangross/orchestkit",
+    "stars": 217,
+    "updated_at": "2026-08-09T06:29:34Z",
+    "url": "https://github.com/yonatangross/orchestkit"
+  },
+  {
+    "description": "Ultra-lightweight native AI agent framework written entirely in Object Pascal for Delphi and Free Pascal, designed for p",
+    "id": "FMXExpress/PasClaw",
+    "language": "Pascal",
+    "name": "FMXExpress/PasClaw",
+    "stars": 45,
+    "updated_at": "2026-08-09T06:28:35Z",
+    "url": "https://github.com/FMXExpress/PasClaw"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T06:28:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Practical evaluation rubrics for RAG (retrieval-augmented generation) systems. Concrete checks, not vague metrics.",
     "id": "0xelitesystem/rag-evaluation-rubrics",
     "language": "\u2014",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T06:27:23Z",
     "url": "https://github.com/Cman886/deeptutor-rag-learning"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151814,
-    "updated_at": "2026-08-09T06:27:17Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
@@ -243,15 +297,6 @@
     "url": "https://github.com/wlsdks/muse-agent"
   },
   {
-    "description": "Ultra-lightweight native AI agent framework written entirely in Object Pascal for Delphi and Free Pascal, designed for p",
-    "id": "FMXExpress/PasClaw",
-    "language": "Pascal",
-    "name": "FMXExpress/PasClaw",
-    "stars": 45,
-    "updated_at": "2026-08-09T06:24:57Z",
-    "url": "https://github.com/FMXExpress/PasClaw"
-  },
-  {
     "description": "Reusable SwiftUI chat framework for local and cloud LLM inference on Apple platforms",
     "id": "ManifoldKit/ManifoldKit",
     "language": "Swift",
@@ -295,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T06:15:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T06:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Personal tech blog, portfolio, and AI chatbot \u2014 built with Next.js 15, Nuartz, and LangGraph",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-09T06:03:50Z",
     "url": "https://github.com/shno-labs/mem-forge"
-  },
-  {
-    "description": "A quality-gated League of Legends post-game coaching agent built on deterministic match data, RAG, and LLM evaluation.",
-    "id": "123Cx330Yrx/riftcoach-agent",
-    "language": "Python",
-    "name": "123Cx330Yrx/riftcoach-agent",
-    "stars": 2,
-    "updated_at": "2026-08-09T06:02:59Z",
-    "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
-  },
-  {
-    "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
-    "id": "The-Geek-Freaks/NEOTH",
-    "language": "Rust",
-    "name": "The-Geek-Freaks/NEOTH",
-    "stars": 5,
-    "updated_at": "2026-08-09T06:02:53Z",
-    "url": "https://github.com/The-Geek-Freaks/NEOTH"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-09T06:01:56Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Henry \u2014 terminal-first personal AI chief-of-staff: 3 chat surfaces (REPL/web/Telegram), SQLite memory + local RAG, job-h",
-    "id": "Luvishgulati03/henry-digital-personality-of-luvish",
-    "language": "TypeScript",
-    "name": "Luvishgulati03/henry-digital-personality-of-luvish",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:01:56Z",
-    "url": "https://github.com/Luvishgulati03/henry-digital-personality-of-luvish"
   }
 ]
