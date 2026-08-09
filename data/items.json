@@ -5,8 +5,80 @@
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-09T07:30:04Z",
+    "updated_at": "2026-08-09T07:34:14Z",
     "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 795,
+    "updated_at": "2026-08-09T07:33:38Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u9762\u5411\u5de5\u4e1a\u64cd\u4f5c\u7684\u591a\u6a21\u6001\u5177\u8eab\u667a\u80fd\u95ed\u73af\u7cfb\u7edf\uff1a\u72b6\u6001\u7ed1\u5b9a\u89c4\u5212\u3001\u591a\u6e90\u590d\u68c0\u4e0e\u53cd\u9988\u6062\u590d\u3002",
+    "id": "allensteveshaw/Gongzhi-Lingxi",
+    "language": "Python",
+    "name": "allensteveshaw/Gongzhi-Lingxi",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:32:41Z",
+    "url": "https://github.com/allensteveshaw/Gongzhi-Lingxi"
+  },
+  {
+    "description": "A per-repo markdown wiki your coding agent writes and searches \u2014 persistent memory for Claude Code and any MCP harness, ",
+    "id": "paulnsorensen/hallouminate",
+    "language": "Rust",
+    "name": "paulnsorensen/hallouminate",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:32:07Z",
+    "url": "https://github.com/paulnsorensen/hallouminate"
+  },
+  {
+    "description": "\u4ece\u96f6\u57fa\u7840\u6559\u7a0b\u5230\u751f\u4ea7\u7ea7\u9a8c\u8bc1\u7684\u672c\u5730 AI Agent / AgentOps \u9879\u76ee\uff1aRAG\u3001\u5ba1\u6279\u3001\u6700\u5c0f\u6388\u6743\u3001\u5e42\u7b49\u3001\u5d29\u6e83\u6062\u590d\u4e0e\u5bc6\u5c01\u8bc4\u6d4b",
+    "id": "tianhao8687/shou-ba-shou-jiaoxue-ai-agent",
+    "language": "Python",
+    "name": "tianhao8687/shou-ba-shou-jiaoxue-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:31:52Z",
+    "url": "https://github.com/tianhao8687/shou-ba-shou-jiaoxue-ai-agent"
+  },
+  {
+    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
+    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "language": "Python",
+    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
+    "stars": 4,
+    "updated_at": "2026-08-09T07:31:30Z",
+    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+  },
+  {
+    "description": "Exam-scored knowledge brains for AI agents: paste a docs URL, get a searchable brain over MCP with a measured score and ",
+    "id": "egorfedorov/mozg",
+    "language": "TypeScript",
+    "name": "egorfedorov/mozg",
+    "stars": 7,
+    "updated_at": "2026-08-09T07:31:07Z",
+    "url": "https://github.com/egorfedorov/mozg"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-09T07:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T07:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 151819,
-    "updated_at": "2026-08-09T07:28:04Z",
+    "updated_at": "2026-08-09T07:31:46Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -248,17 +320,8 @@
     "language": "Python",
     "name": "0verL1nk/PaperSage",
     "stars": 38,
-    "updated_at": "2026-08-09T07:26:13Z",
+    "updated_at": "2026-08-09T07:33:06Z",
     "url": "https://github.com/0verL1nk/PaperSage"
-  },
-  {
-    "description": "Exam-scored knowledge brains for AI agents: paste a docs URL, get a searchable brain over MCP with a measured score and ",
-    "id": "egorfedorov/mozg",
-    "language": "TypeScript",
-    "name": "egorfedorov/mozg",
-    "stars": 7,
-    "updated_at": "2026-08-09T07:18:45Z",
-    "url": "https://github.com/egorfedorov/mozg"
   },
   {
     "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
@@ -266,8 +329,17 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-09T07:27:09Z",
+    "updated_at": "2026-08-09T07:33:46Z",
     "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "\uacf5\uc2dd \ub300\ud559 \uc790\ub8cc\ub97c \uac80\uc0c9\u00b7\uac80\uc99d\ud574 \uadfc\uac70 \uae30\ubc18 \ud559\uc0ac \ub2f5\ubcc0\uc744 \uc81c\uacf5\ud558\ub294 FastAPI\u00b7React AI \uc11c\ube44\uc2a4",
+    "id": "nsjjjjjj/KNU-Ask",
+    "language": "Python",
+    "name": "nsjjjjjj/KNU-Ask",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:18:43Z",
+    "url": "https://github.com/nsjjjjjj/KNU-Ask"
   },
   {
     "description": "Self-hosted, zero-trust RAG with role-based access control enforced at the database level. PostgreSQL RLS + pgvector + F",
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "xr843/fojin",
     "stars": 327,
-    "updated_at": "2026-08-09T07:26:55Z",
+    "updated_at": "2026-08-09T07:34:22Z",
     "url": "https://github.com/xr843/fojin"
   },
   {
@@ -295,24 +367,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T07:15:48Z",
     "url": "https://github.com/faresmohamed260/saga"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first Memory Framework for AI Agents \u00b7 99.2% LongMemEval-S retrieval @ k=10 \u00b7 Supports Claude \u00b7 Antigravity \u00b7 Lang",
@@ -378,15 +432,6 @@
     "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
   },
   {
-    "description": "Local insurance-clause RAG agent: hybrid retrieve (BGE+BM25), cited answers, honest refuse. Not regulated advice. | \u672c\u5730\u4fdd\u9669",
-    "id": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "language": "Python",
-    "name": "Phoenix0531-sudo/InsurIntellect-Agent",
-    "stars": 4,
-    "updated_at": "2026-08-09T07:07:39Z",
-    "url": "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-09T07:07:00Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI-powered blood report analyzer: hybrid RAG (BM25 + FAISS + reranking), hybrid regex+LLM extraction, and 4 specialist X",
-    "id": "santosh374maker/Mediscan-AI",
-    "language": "Python",
-    "name": "santosh374maker/Mediscan-AI",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:06:45Z",
-    "url": "https://github.com/santosh374maker/Mediscan-AI"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:06:21Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:05:55Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:04:42Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Composable, dependency-free TypeScript core for LLM workflows and adapters. Clean runtime, high coverage, no heavy frame",
-    "id": "theGeekist/llm-core",
-    "language": "TypeScript",
-    "name": "theGeekist/llm-core",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:03:39Z",
-    "url": "https://github.com/theGeekist/llm-core"
   }
 ]
