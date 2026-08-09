@@ -1,5 +1,50 @@
 [
   {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 5,
+    "updated_at": "2026-08-09T20:30:05Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "Enforce citation-first research with Claude to verify facts, identify uncertainty, and eliminate hallucinations through ",
+    "id": "Out-treatyofversailles910/grounded-research",
+    "language": "\u2014",
+    "name": "Out-treatyofversailles910/grounded-research",
+    "stars": 0,
+    "updated_at": "2026-08-09T20:30:05Z",
+    "url": "https://github.com/Out-treatyofversailles910/grounded-research"
+  },
+  {
+    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
+    "id": "generalbots/generalbots",
+    "language": "Rust",
+    "name": "generalbots/generalbots",
+    "stars": 85,
+    "updated_at": "2026-08-09T20:29:58Z",
+    "url": "https://github.com/generalbots/generalbots"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-09T20:29:57Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build and operate production-grade AI agent systems through this 22-chapter technical course designed for collaborative ",
+    "id": "120th-westgermany829/agentic-ai-system-course",
+    "language": "Shell",
+    "name": "120th-westgermany829/agentic-ai-system-course",
+    "stars": 2,
+    "updated_at": "2026-08-09T20:29:57Z",
+    "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
+  },
+  {
     "description": "RAG systems, LLM agents, and production pipelines for legal and financial document intelligence.",
     "id": "DocumentLab-ai/core",
     "language": "\u2014",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T20:26:55Z",
     "url": "https://github.com/Kaynaaf/NanoRAG"
-  },
-  {
-    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
-    "id": "generalbots/generalbots",
-    "language": "Rust",
-    "name": "generalbots/generalbots",
-    "stars": 85,
-    "updated_at": "2026-08-09T20:26:50Z",
-    "url": "https://github.com/generalbots/generalbots"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "noah-sheldon/production-agentic-rag-from-scratch",
     "stars": 0,
-    "updated_at": "2026-08-09T20:25:13Z",
+    "updated_at": "2026-08-09T20:30:18Z",
     "url": "https://github.com/noah-sheldon/production-agentic-rag-from-scratch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:25:00Z",
     "url": "https://github.com/vanessaunliterary62/turboquant"
-  },
-  {
-    "description": "",
-    "id": "Cash4478/design-system-skill",
-    "language": "\u2014",
-    "name": "Cash4478/design-system-skill",
-    "stars": 4,
-    "updated_at": "2026-08-09T20:24:57Z",
-    "url": "https://github.com/Cash4478/design-system-skill"
-  },
-  {
-    "description": "Capture AI coding decisions and dead ends in a self-hosted memory store for your codebase and agents",
-    "id": "kuldeepsuryawanshi56-del/pulse-ai",
-    "language": "TypeScript",
-    "name": "kuldeepsuryawanshi56-del/pulse-ai",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:24:57Z",
-    "url": "https://github.com/kuldeepsuryawanshi56-del/pulse-ai"
-  },
-  {
-    "description": "",
-    "id": "Lemuelendoscopic797/vecmem",
-    "language": "TypeScript",
-    "name": "Lemuelendoscopic797/vecmem",
-    "stars": 1,
-    "updated_at": "2026-08-09T20:24:47Z",
-    "url": "https://github.com/Lemuelendoscopic797/vecmem"
-  },
-  {
-    "description": "Personal tech blog, portfolio, and AI chatbot \u2014 built with Next.js 15, Nuartz, and LangGraph",
-    "id": "syshin0116/syshin0116.dev",
-    "language": "Python",
-    "name": "syshin0116/syshin0116.dev",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:24:44Z",
-    "url": "https://github.com/syshin0116/syshin0116.dev"
   }
 ]
