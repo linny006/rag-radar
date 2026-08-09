@@ -1,5 +1,104 @@
 [
   {
+    "description": "Self-hosted long-term memory for AI systems. The LLM proposes, a deterministic pipeline decides.",
+    "id": "yul761/StateCore",
+    "language": "TypeScript",
+    "name": "yul761/StateCore",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:59:05Z",
+    "url": "https://github.com/yul761/StateCore"
+  },
+  {
+    "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
+    "id": "MarwaBS/production-rag-platform",
+    "language": "Python",
+    "name": "MarwaBS/production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:59:22Z",
+    "url": "https://github.com/MarwaBS/production-rag-platform"
+  },
+  {
+    "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
+    "id": "vincent123zhang/PaperClaw",
+    "language": "Python",
+    "name": "vincent123zhang/PaperClaw",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:57:19Z",
+    "url": "https://github.com/vincent123zhang/PaperClaw"
+  },
+  {
+    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
+    "id": "ANFAIA/SkillNet",
+    "language": "Python",
+    "name": "ANFAIA/SkillNet",
+    "stars": 1,
+    "updated_at": "2026-08-08T23:57:16Z",
+    "url": "https://github.com/ANFAIA/SkillNet"
+  },
+  {
+    "description": "Benchmark reproduzivel de RAG aplicado a decisoes logisticas, com corpus sintetico, avaliacao de LLMs e integracao Ardui",
+    "id": "CaioMoraes-enginer/last-mile-rag-lab",
+    "language": "Python",
+    "name": "CaioMoraes-enginer/last-mile-rag-lab",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:57:07Z",
+    "url": "https://github.com/CaioMoraes-enginer/last-mile-rag-lab"
+  },
+  {
+    "description": "AI-powered stock market analysis agent using LangGraph, Claude AI & Apache Airflow \u2014 with real-time data pipelines, agen",
+    "id": "VaibhavSaran/Stock-Pilot-AI",
+    "language": "Python",
+    "name": "VaibhavSaran/Stock-Pilot-AI",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:57:01Z",
+    "url": "https://github.com/VaibhavSaran/Stock-Pilot-AI"
+  },
+  {
+    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
+    "id": "thekaveh/NNx",
+    "language": "Python",
+    "name": "thekaveh/NNx",
+    "stars": 2,
+    "updated_at": "2026-08-09T00:00:04Z",
+    "url": "https://github.com/thekaveh/NNx"
+  },
+  {
+    "description": "A team of specialized AI agents covering the complete software development flow \u2014 from requirements discovery to deploy.",
+    "id": "leorsousa05/CrewLoop",
+    "language": "TypeScript",
+    "name": "leorsousa05/CrewLoop",
+    "stars": 8,
+    "updated_at": "2026-08-08T23:55:03Z",
+    "url": "https://github.com/leorsousa05/CrewLoop"
+  },
+  {
+    "description": "Exam-scored knowledge brains for AI agents: paste a docs URL, get a searchable brain over MCP with a measured score and ",
+    "id": "egorfedorov/mozg",
+    "language": "TypeScript",
+    "name": "egorfedorov/mozg",
+    "stars": 6,
+    "updated_at": "2026-08-08T23:54:27Z",
+    "url": "https://github.com/egorfedorov/mozg"
+  },
+  {
+    "description": "\uae08\uc735\u00b7\uc0dd\ud65c\uac70\ub798 \ud559\uc2b5 RAG\uc640 QuantConnect LEAN \ubc31\ud14c\uc2a4\ud2b8 \uc6cc\ud06c\ud50c\ub85c\uc6b0 (FastAPI, Qdrant, pgvector, Docker)",
+    "id": "edumgt/domain-rag-lab",
+    "language": "Python",
+    "name": "edumgt/domain-rag-lab",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:54:21Z",
+    "url": "https://github.com/edumgt/domain-rag-lab"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-08T23:53:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Content-addressed database in Rust for AI agent memory. Every write is a Merkle-DAG object with an offline proof, so you",
     "id": "auralshin/neleus-db",
     "language": "Rust",
@@ -22,7 +121,7 @@
     "id": "vitali87/code-graph-rag",
     "language": "Python",
     "name": "vitali87/code-graph-rag",
-    "stars": 2622,
+    "stars": 2623,
     "updated_at": "2026-08-08T23:50:46Z",
     "url": "https://github.com/vitali87/code-graph-rag"
   },
@@ -54,21 +153,12 @@
     "url": "https://github.com/PapaKoftes/Layla"
   },
   {
-    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
-    "id": "ANFAIA/SkillNet",
-    "language": "Python",
-    "name": "ANFAIA/SkillNet",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:48:47Z",
-    "url": "https://github.com/ANFAIA/SkillNet"
-  },
-  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3253,
-    "updated_at": "2026-08-08T23:48:43Z",
+    "updated_at": "2026-08-08T23:59:53Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -153,15 +243,6 @@
     "url": "https://github.com/zifeiyu2025/douya"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:44:36Z",
     "url": "https://github.com/priyanchen/token-distiller"
-  },
-  {
-    "description": "Self-hosted long-term memory for AI systems. The LLM proposes, a deterministic pipeline decides.",
-    "id": "yul761/StateCore",
-    "language": "TypeScript",
-    "name": "yul761/StateCore",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:44:30Z",
-    "url": "https://github.com/yul761/StateCore"
   },
   {
     "description": "Recruiter-facing, source-grounded AI twin with an authority-gated research context",
@@ -234,15 +306,6 @@
     "url": "https://github.com/Yacine-ai-tech/DocIntel"
   },
   {
-    "description": "Benchmark reproduzivel de RAG aplicado a decisoes logisticas, com corpus sintetico, avaliacao de LLMs e integracao Ardui",
-    "id": "CaioMoraes-enginer/last-mile-rag-lab",
-    "language": "Python",
-    "name": "CaioMoraes-enginer/last-mile-rag-lab",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:42:34Z",
-    "url": "https://github.com/CaioMoraes-enginer/last-mile-rag-lab"
-  },
-  {
     "description": "P\u00e1gina del proyecto https://github.com/CodeandoGuadalajara/dof-rag/",
     "id": "CodeandoGuadalajara/dof-rag-website",
     "language": "Astro",
@@ -277,15 +340,6 @@
     "stars": 195,
     "updated_at": "2026-08-08T23:40:35Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
-    "id": "thekaveh/NNx",
-    "language": "Python",
-    "name": "thekaveh/NNx",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:51:22Z",
-    "url": "https://github.com/thekaveh/NNx"
   },
   {
     "description": "Local-first, self-hosted personal AI assistant with private memory, RAG, prompt-injection defenses, and explicit GPT-5.6",
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "EtanHey/brainlayer",
     "stars": 8,
-    "updated_at": "2026-08-08T23:36:41Z",
+    "updated_at": "2026-08-08T23:56:15Z",
     "url": "https://github.com/EtanHey/brainlayer"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 102,
     "updated_at": "2026-08-08T23:39:54Z",
     "url": "https://github.com/gmickel/gno"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:36:10Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "RAG document Q&A with source citations: LangChain, ChromaDB, Claude API, FastAPI, Docker, CI/CD.",
-    "id": "yigit-8/document-qa",
-    "language": "Python",
-    "name": "yigit-8/document-qa",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:36:09Z",
-    "url": "https://github.com/yigit-8/document-qa"
-  },
-  {
-    "description": "Debug AI agent traces locally: deterministic failure detection, fully offline, no API keys \u2014 optional LLM root-cause ana",
-    "id": "haseebraza715/agent-autopsy",
-    "language": "Python",
-    "name": "haseebraza715/agent-autopsy",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:36:08Z",
-    "url": "https://github.com/haseebraza715/agent-autopsy"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:35:18Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-08T23:35:01Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "Multi-agent system with Supervisor",
-    "id": "felkost/MA_systems_hl8",
-    "language": "Python",
-    "name": "felkost/MA_systems_hl8",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:34:16Z",
-    "url": "https://github.com/felkost/MA_systems_hl8"
   }
 ]
