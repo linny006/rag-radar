@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agentic AI for specialized food R&D \u2014 multi-agent system for clinical and medical food formulation.",
+    "id": "craft-b/formula-forge",
+    "language": "Python",
+    "name": "craft-b/formula-forge",
+    "stars": 0,
+    "updated_at": "2026-08-10T04:17:34Z",
+    "url": "https://github.com/craft-b/formula-forge"
+  },
+  {
+    "description": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Se",
+    "id": "CyberSunil/LLMVault",
+    "language": "Python",
+    "name": "CyberSunil/LLMVault",
+    "stars": 273,
+    "updated_at": "2026-08-10T04:17:08Z",
+    "url": "https://github.com/CyberSunil/LLMVault"
+  },
+  {
+    "description": "Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite.",
+    "id": "chinesewebman/mnelo",
+    "language": "Python",
+    "name": "chinesewebman/mnelo",
+    "stars": 1,
+    "updated_at": "2026-08-10T04:16:46Z",
+    "url": "https://github.com/chinesewebman/mnelo"
+  },
+  {
+    "description": "Local-first AI knowledge app and Agent Skill with evidence-backed Wiki, an interactive knowledge universe, Viki Q&A, and",
+    "id": "NimaChu/my-wiki",
+    "language": "JavaScript",
+    "name": "NimaChu/my-wiki",
+    "stars": 105,
+    "updated_at": "2026-08-10T04:16:45Z",
+    "url": "https://github.com/NimaChu/my-wiki"
+  },
+  {
+    "description": "Daily updated bilingual collection of trending AI projects on GitHub.",
+    "id": "dingminghbut/Awesome-AI-GitHub",
+    "language": "TypeScript",
+    "name": "dingminghbut/Awesome-AI-GitHub",
+    "stars": 1,
+    "updated_at": "2026-08-10T04:16:31Z",
+    "url": "https://github.com/dingminghbut/Awesome-AI-GitHub"
+  },
+  {
+    "description": "Local-first Memory Framework for AI Agents \u00b7 99.2% LongMemEval-S retrieval @ k=10 \u00b7 Supports Claude \u00b7 Antigravity \u00b7 Lang",
+    "id": "skynetcmd/m3-memory",
+    "language": "Python",
+    "name": "skynetcmd/m3-memory",
+    "stars": 19,
+    "updated_at": "2026-08-10T04:16:10Z",
+    "url": "https://github.com/skynetcmd/m3-memory"
+  },
+  {
+    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 38700,
+    "updated_at": "2026-08-10T04:15:57Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "description": "Self-evolving, evidence-based memory layer for coding agents and development teams.",
+    "id": "shno-labs/mem-forge",
+    "language": "Python",
+    "name": "shno-labs/mem-forge",
+    "stars": 4,
+    "updated_at": "2026-08-10T04:16:54Z",
+    "url": "https://github.com/shno-labs/mem-forge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T04:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code \u2014 114 skills, 37 agents, 212 hooks. Production-ready patterns for fu",
+    "id": "yonatangross/orchestkit",
+    "language": "TypeScript",
+    "name": "yonatangross/orchestkit",
+    "stars": 218,
+    "updated_at": "2026-08-10T04:15:48Z",
+    "url": "https://github.com/yonatangross/orchestkit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T04:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
     "id": "langgenius/dify",
     "language": "TypeScript",
@@ -9,22 +108,13 @@
     "url": "https://github.com/langgenius/dify"
   },
   {
-    "description": "Local-first Memory Framework for AI Agents \u00b7 99.2% LongMemEval-S retrieval @ k=10 \u00b7 Supports Claude \u00b7 Antigravity \u00b7 Lang",
-    "id": "skynetcmd/m3-memory",
-    "language": "Python",
-    "name": "skynetcmd/m3-memory",
-    "stars": 19,
-    "updated_at": "2026-08-10T04:14:31Z",
-    "url": "https://github.com/skynetcmd/m3-memory"
-  },
-  {
-    "description": "Knowledge-graph memory layer that Mem0 charges for: 4-way RRF + L2 maintenance + bilingual classifier, one local SQLite.",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-08-10T04:13:48Z",
-    "url": "https://github.com/chinesewebman/mnelo"
+    "description": "Local-first, provider-neutral contracts and runtimes for records, retrieval, RAG, durable execution, and stateless MCP.",
+    "id": "Univeracity/vyral",
+    "language": "C#",
+    "name": "Univeracity/vyral",
+    "stars": 0,
+    "updated_at": "2026-08-10T04:15:28Z",
+    "url": "https://github.com/Univeracity/vyral"
   },
   {
     "description": "A full-stack, multi-agent BI platform. Connect Google Sheets, Gmail, and Notion, ask natural-language questions, and get",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 84,
-    "updated_at": "2026-08-10T04:13:33Z",
+    "updated_at": "2026-08-10T04:17:05Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -54,21 +144,12 @@
     "url": "https://github.com/FaultMaven/faultmaven"
   },
   {
-    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-    "id": "HKUDS/LightRAG",
-    "language": "Python",
-    "name": "HKUDS/LightRAG",
-    "stars": 38700,
-    "updated_at": "2026-08-10T04:12:30Z",
-    "url": "https://github.com/HKUDS/LightRAG"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18989,
-    "updated_at": "2026-08-10T04:12:28Z",
+    "updated_at": "2026-08-10T04:15:38Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -333,15 +414,6 @@
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   },
   {
-    "description": "The Complete AI Development Toolkit for Claude Code \u2014 114 skills, 37 agents, 212 hooks. Production-ready patterns for fu",
-    "id": "yonatangross/orchestkit",
-    "language": "TypeScript",
-    "name": "yonatangross/orchestkit",
-    "stars": 218,
-    "updated_at": "2026-08-10T04:02:40Z",
-    "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
     "description": "Build AI agent systems from theory to production with this guide on foundational concepts and multi-agent application de",
     "id": "causesubpopulation914/Hello-Agents",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T04:00:28Z",
     "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T04:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T04:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Build RAG systems to combine large language models with external documents for accurate, grounded, and factual responses",
-    "id": "yeicaicedo-19/What-Is-RAG",
-    "language": "Jupyter Notebook",
-    "name": "yeicaicedo-19/What-Is-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-10T04:00:03Z",
-    "url": "https://github.com/yeicaicedo-19/What-Is-RAG"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-08-10T03:59:54Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Enforce citation-first research with Claude to verify facts, identify uncertainty, and eliminate hallucinations through ",
-    "id": "Out-treatyofversailles910/grounded-research",
-    "language": "\u2014",
-    "name": "Out-treatyofversailles910/grounded-research",
-    "stars": 0,
-    "updated_at": "2026-08-10T03:59:24Z",
-    "url": "https://github.com/Out-treatyofversailles910/grounded-research"
-  },
-  {
-    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natur",
-    "id": "Canner/WrenAI",
-    "language": "Python",
-    "name": "Canner/WrenAI",
-    "stars": 17203,
-    "updated_at": "2026-08-10T03:59:22Z",
-    "url": "https://github.com/Canner/WrenAI"
-  },
-  {
-    "description": "Build and operate production-grade AI agent systems through this 22-chapter technical course designed for collaborative ",
-    "id": "120th-westgermany829/agentic-ai-system-course",
-    "language": "Shell",
-    "name": "120th-westgermany829/agentic-ai-system-course",
-    "stars": 2,
-    "updated_at": "2026-08-10T03:59:12Z",
-    "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
-  },
-  {
-    "description": "Local, private semantic (vector) search over any folder of Markdown files. Cross-lingual, offline, no API keys, no vecto",
-    "id": "chelslava/md-semantic-search",
-    "language": "JavaScript",
-    "name": "chelslava/md-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-08-10T03:59:11Z",
-    "url": "https://github.com/chelslava/md-semantic-search"
   }
 ]
