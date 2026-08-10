@@ -1,5 +1,23 @@
 [
   {
+    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
+    "id": "parkerluxu/Awesome-agent-cases",
+    "language": "JavaScript",
+    "name": "parkerluxu/Awesome-agent-cases",
+    "stars": 2,
+    "updated_at": "2026-08-10T14:44:32Z",
+    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T14:44:14Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Provenance-aware memory for AI agents.",
     "id": "veracium-ai/Veracium",
     "language": "Python",
@@ -7,6 +25,24 @@
     "stars": 7,
     "updated_at": "2026-08-10T14:43:06Z",
     "url": "https://github.com/veracium-ai/Veracium"
+  },
+  {
+    "description": "NAS OS",
+    "id": "GeneralLibrary/fortOS",
+    "language": "C#",
+    "name": "GeneralLibrary/fortOS",
+    "stars": 4,
+    "updated_at": "2026-08-10T14:43:00Z",
+    "url": "https://github.com/GeneralLibrary/fortOS"
+  },
+  {
+    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
+    "id": "tywangq/leasehound",
+    "language": "Python",
+    "name": "tywangq/leasehound",
+    "stars": 2,
+    "updated_at": "2026-08-10T14:42:16Z",
+    "url": "https://github.com/tywangq/leasehound"
   },
   {
     "description": "Semantic code searcher and codebase utility",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4379,
-    "updated_at": "2026-08-10T14:44:08Z",
+    "updated_at": "2026-08-10T14:45:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:42:30Z",
     "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
-  },
-  {
-    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
-    "id": "tywangq/leasehound",
-    "language": "Python",
-    "name": "tywangq/leasehound",
-    "stars": 2,
-    "updated_at": "2026-08-10T14:42:16Z",
-    "url": "https://github.com/tywangq/leasehound"
   },
   {
     "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:37:23Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "NAS OS",
-    "id": "GeneralLibrary/fortOS",
-    "language": "C#",
-    "name": "GeneralLibrary/fortOS",
-    "stars": 4,
-    "updated_at": "2026-08-10T14:43:00Z",
-    "url": "https://github.com/GeneralLibrary/fortOS"
   },
   {
     "description": "Reinforcement learning for hybrid GUI and MCP action-space control on the OSWorld computer-use benchmark.",
@@ -324,6 +342,15 @@
     "url": "https://github.com/liliu-z/stashbase"
   },
   {
+    "description": "\u4ece\u96f6\u57fa\u7840\u6559\u7a0b\u5230\u751f\u4ea7\u7ea7\u9a8c\u8bc1\u7684\u672c\u5730 AI Agent / AgentOps \u9879\u76ee\uff1aRAG\u3001\u5ba1\u6279\u3001\u6700\u5c0f\u6388\u6743\u3001\u5e42\u7b49\u3001\u5d29\u6e83\u6062\u590d\u4e0e\u5bc6\u5c01\u8bc4\u6d4b",
+    "id": "tianhao8687/shou-ba-shou-jiaoxue-ai-agent",
+    "language": "Python",
+    "name": "tianhao8687/shou-ba-shou-jiaoxue-ai-agent",
+    "stars": 4,
+    "updated_at": "2026-08-10T14:35:27Z",
+    "url": "https://github.com/tianhao8687/shou-ba-shou-jiaoxue-ai-agent"
+  },
+  {
     "description": "Python script to convert a document (PDF, EPUB, XPS, MOBI, FB2, CBZ, images, ... - anything PyMuPDF can open) into reada",
     "id": "lopatnov/doc2html",
     "language": "Python",
@@ -346,7 +373,7 @@
     "id": "HKUDS/DeepTutor",
     "language": "Python",
     "name": "HKUDS/DeepTutor",
-    "stars": 33697,
+    "stars": 33700,
     "updated_at": "2026-08-10T14:35:01Z",
     "url": "https://github.com/HKUDS/DeepTutor"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:34:23Z",
     "url": "https://github.com/Pincasromany553/ai-navigator"
-  },
-  {
-    "description": "Sovereign Agentic OS \u2014 self-hostable, EU-sovereign agentic data platform on Kubernetes (pre-beta). One Helm chart, runs ",
-    "id": "Data-Masterclass/sovereign-agentic-os",
-    "language": "TypeScript",
-    "name": "Data-Masterclass/sovereign-agentic-os",
-    "stars": 3,
-    "updated_at": "2026-08-10T14:33:44Z",
-    "url": "https://github.com/Data-Masterclass/sovereign-agentic-os"
-  },
-  {
-    "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
-    "id": "KanenasInGreece/Shared_Memory",
-    "language": "Python",
-    "name": "KanenasInGreece/Shared_Memory",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:33:42Z",
-    "url": "https://github.com/KanenasInGreece/Shared_Memory"
-  },
-  {
-    "description": "",
-    "id": "Emre1145/DevOpsPilot-AI-RAG",
-    "language": "Python",
-    "name": "Emre1145/DevOpsPilot-AI-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:33:31Z",
-    "url": "https://github.com/Emre1145/DevOpsPilot-AI-RAG"
   }
 ]
