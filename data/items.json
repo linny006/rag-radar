@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "MohammadAlyounes/End-to-End-LLM-app",
+    "language": "Python",
+    "name": "MohammadAlyounes/End-to-End-LLM-app",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:30:10Z",
+    "url": "https://github.com/MohammadAlyounes/End-to-End-LLM-app"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCodeDev1000/webfang",
+    "language": "Rust",
+    "name": "XaviCodeDev1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:29:50Z",
+    "url": "https://github.com/XaviCodeDev1000/webfang"
+  },
+  {
+    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
+    "id": "ANFAIA/SkillNet",
+    "language": "Python",
+    "name": "ANFAIA/SkillNet",
+    "stars": 1,
+    "updated_at": "2026-08-10T11:29:46Z",
+    "url": "https://github.com/ANFAIA/SkillNet"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T11:29:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Answer ultra-precise questions \u2014 and generate grounded, citation-checked reference docs \u2014 about any open-source project ",
+    "id": "maxgfr/ultradoc",
+    "language": "JavaScript",
+    "name": "maxgfr/ultradoc",
+    "stars": 0,
+    "updated_at": "2026-08-10T11:29:24Z",
+    "url": "https://github.com/maxgfr/ultradoc"
+  },
+  {
     "description": "Recap everything the web says about a topic \u2014 keyless multi-backend web search into a citation-checked, tiered Markdown ",
     "id": "maxgfr/ultrasearch",
     "language": "TypeScript",
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "mohamed-em2m/dynaprompt",
     "stars": 7,
-    "updated_at": "2026-08-10T11:29:02Z",
+    "updated_at": "2026-08-10T11:29:28Z",
     "url": "https://github.com/mohamed-em2m/dynaprompt"
-  },
-  {
-    "description": "Answer ultra-precise questions \u2014 and generate grounded, citation-checked reference docs \u2014 about any open-source project ",
-    "id": "maxgfr/ultradoc",
-    "language": "JavaScript",
-    "name": "maxgfr/ultradoc",
-    "stars": 0,
-    "updated_at": "2026-08-10T11:29:22Z",
-    "url": "https://github.com/maxgfr/ultradoc"
   },
   {
     "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a app \u4e2d\u8f85\u52a9\u5b9e\u73b0ai\u529f\u80fd",
@@ -95,7 +131,7 @@
     "language": "Java",
     "name": "sf0rzin/nora",
     "stars": 2,
-    "updated_at": "2026-08-10T11:29:19Z",
+    "updated_at": "2026-08-10T11:30:03Z",
     "url": "https://github.com/sf0rzin/nora"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/Tencent/WeKnora"
   },
   {
-    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
-    "id": "ANFAIA/SkillNet",
-    "language": "Python",
-    "name": "ANFAIA/SkillNet",
-    "stars": 1,
-    "updated_at": "2026-08-10T11:25:22Z",
-    "url": "https://github.com/ANFAIA/SkillNet"
-  },
-  {
     "description": "Open-source, self-hosted enterprise & site search server built on OpenSearch. Crawls web / file / DB / cloud sources, 20",
     "id": "codelibs/fess",
     "language": "Java",
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 151945,
-    "updated_at": "2026-08-10T11:24:10Z",
+    "updated_at": "2026-08-10T11:30:17Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T11:19:35Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee0 Master Claude Code with a complete guide on AI coding assistants, featuring agents, commands, skills, and rules to str",
-    "id": "enju0122/claude-code-master",
-    "language": "MDX",
-    "name": "enju0122/claude-code-master",
-    "stars": 1,
-    "updated_at": "2026-08-10T11:18:53Z",
-    "url": "https://github.com/enju0122/claude-code-master"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-10T11:18:52Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG Framework for hybrid search, query classification, and answer fusion in product",
-    "id": "strewerwer/agentic-rag-framework",
-    "language": "HTML",
-    "name": "strewerwer/agentic-rag-framework",
-    "stars": 1,
-    "updated_at": "2026-08-10T11:18:49Z",
-    "url": "https://github.com/strewerwer/agentic-rag-framework"
   }
 ]
