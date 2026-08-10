@@ -1,5 +1,77 @@
 [
   {
+    "description": "RuvNet Brain \u2014 a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/",
+    "id": "stuinfla/ruvnet-brain",
+    "language": "JavaScript",
+    "name": "stuinfla/ruvnet-brain",
+    "stars": 57,
+    "updated_at": "2026-08-10T08:59:44Z",
+    "url": "https://github.com/stuinfla/ruvnet-brain"
+  },
+  {
+    "description": "[Official] IAIGEO: Generative Engine Optimization (GEO) infrastructure. \u9762\u5411\u5927\u8bed\u8a00\u6a21\u578b\u63d0\u4f9b\u9ad8\u5bc6\u5ea6\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u4e0e RAG \u68c0\u7d22\u589e\u5f3a\u53ec\u56de\u4f18\u5316\uff0c\u63d0\u5347 AI \u95ee\u7b54\u5f15\u7528\u7387\u3002",
+    "id": "kevin131419344/iaigeo",
+    "language": "HTML",
+    "name": "kevin131419344/iaigeo",
+    "stars": 0,
+    "updated_at": "2026-08-10T08:59:18Z",
+    "url": "https://github.com/kevin131419344/iaigeo"
+  },
+  {
+    "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+    "id": "datawhalechina/hello-agents",
+    "language": "Python",
+    "name": "datawhalechina/hello-agents",
+    "stars": 71959,
+    "updated_at": "2026-08-10T08:58:48Z",
+    "url": "https://github.com/datawhalechina/hello-agents"
+  },
+  {
+    "description": "50 published n8n workflow templates: fraud screening, CSV reconciliation, deadline calculation, approval gates, SLA audi",
+    "id": "exekyute/n8n-exekyute-templates",
+    "language": "JavaScript",
+    "name": "exekyute/n8n-exekyute-templates",
+    "stars": 1,
+    "updated_at": "2026-08-10T08:58:37Z",
+    "url": "https://github.com/exekyute/n8n-exekyute-templates"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 151931,
+    "updated_at": "2026-08-10T08:58:29Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "An LLM builds and maintains your personal wiki. Vectorless, cited, git-native markdown \u2014 five slash commands, no SaaS.",
+    "id": "FrancyJGLisboa/context-compiler-bootstrap",
+    "language": "Shell",
+    "name": "FrancyJGLisboa/context-compiler-bootstrap",
+    "stars": 5,
+    "updated_at": "2026-08-10T08:58:25Z",
+    "url": "https://github.com/FrancyJGLisboa/context-compiler-bootstrap"
+  },
+  {
+    "description": "A framework for building intelligent agents",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 43,
+    "updated_at": "2026-08-10T08:57:25Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T08:56:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first, provider-neutral contracts and runtimes for records, retrieval, RAG, durable execution, and stateless MCP.",
     "id": "Univeracity/vyral",
     "language": "C#",
@@ -9,13 +81,22 @@
     "url": "https://github.com/Univeracity/vyral"
   },
   {
-    "description": "[Official] IAIGEO: Generative Engine Optimization (GEO) infrastructure. \u9762\u5411\u5927\u8bed\u8a00\u6a21\u578b\u63d0\u4f9b\u9ad8\u5bc6\u5ea6\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u4e0e RAG \u68c0\u7d22\u589e\u5f3a\u53ec\u56de\u4f18\u5316\uff0c\u63d0\u5347 AI \u95ee\u7b54\u5f15\u7528\u7387\u3002",
-    "id": "kevin131419344/iaigeo",
-    "language": "HTML",
-    "name": "kevin131419344/iaigeo",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:56:27Z",
-    "url": "https://github.com/kevin131419344/iaigeo"
+    "description": "Local-first AI knowledge app and Agent Skill with evidence-backed Wiki, an interactive knowledge universe, Viki Q&A, and",
+    "id": "NimaChu/my-wiki",
+    "language": "JavaScript",
+    "name": "NimaChu/my-wiki",
+    "stars": 106,
+    "updated_at": "2026-08-10T08:56:39Z",
+    "url": "https://github.com/NimaChu/my-wiki"
+  },
+  {
+    "description": "\u4f60\u7684\u865a\u62df\u8d22\u52a1\u90e8\u95e8 \u2014 \u591a Agent \u66ff\u4ee3\u516c\u53f8\u8d22\u52a1\u804c\u80fd\uff1a\u8bb0\u8d26\u3001\u9884\u7b97\u3001\u8d44\u91d1\u3001\u7a0e\u52a1\u3001\u62a5\u8868\u3001\u5ba1\u8ba1\uff0c\u5bf9\u8bdd\u5373\u53ef\u5b8c\u6210\u3002FastAPI + LangGraph + CrewAI + React \u5f00\u6e90\u3002",
+    "id": "weed33834/FinPilot",
+    "language": "Python",
+    "name": "weed33834/FinPilot",
+    "stars": 10,
+    "updated_at": "2026-08-10T08:56:12Z",
+    "url": "https://github.com/weed33834/FinPilot"
   },
   {
     "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmark",
@@ -234,15 +315,6 @@
     "url": "https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop"
   },
   {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 151931,
-    "updated_at": "2026-08-10T08:50:56Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
     "description": "Patch WeMod to enable premium features for single-player games on Windows using this .NET 8 tool.",
     "id": "Natalinefenestral664/WeMod-Pro-Patcher",
     "language": "\u2014",
@@ -293,7 +365,7 @@
     "language": "Python",
     "name": "AQ-Labs/cybergraph",
     "stars": 24,
-    "updated_at": "2026-08-10T08:52:59Z",
+    "updated_at": "2026-08-10T08:58:49Z",
     "url": "https://github.com/AQ-Labs/cybergraph"
   },
   {
@@ -329,7 +401,7 @@
     "language": "Java",
     "name": "sf0rzin/nora",
     "stars": 2,
-    "updated_at": "2026-08-10T08:56:04Z",
+    "updated_at": "2026-08-10T09:00:11Z",
     "url": "https://github.com/sf0rzin/nora"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T08:48:40Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference.",
-    "id": "tysto1727/ComfyUI-Boogu",
-    "language": "Python",
-    "name": "tysto1727/ComfyUI-Boogu",
-    "stars": 1,
-    "updated_at": "2026-08-10T08:48:18Z",
-    "url": "https://github.com/tysto1727/ComfyUI-Boogu"
-  },
-  {
-    "description": "Index local documents for AI search and visualize them as a 3D knowledge nebula with this one-click MCP installer for Wi",
-    "id": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "language": "Batchfile",
-    "name": "lightmeterminiaturisation293/Langent-MCP_One-Click_Kit",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:48:15Z",
-    "url": "https://github.com/lightmeterminiaturisation293/Langent-MCP_One-Click_Kit"
-  },
-  {
-    "description": "Semark converts PDFs, Office files, HTML, and images into RAG-ready semantic Markdown using MinerU and VLM/LLM review, w",
-    "id": "KingsleyOWO/Semark",
-    "language": "Python",
-    "name": "KingsleyOWO/Semark",
-    "stars": 25,
-    "updated_at": "2026-08-10T08:47:59Z",
-    "url": "https://github.com/KingsleyOWO/Semark"
-  },
-  {
-    "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 327,
-    "updated_at": "2026-08-10T08:47:56Z",
-    "url": "https://github.com/xr843/fojin"
-  },
-  {
-    "description": "Convert documents once. Give agents only what they need \u2014 PDFs and Office files to clean Markdown, chunks and local sear",
-    "id": "anishmoncivarghese/docsift",
-    "language": "Python",
-    "name": "anishmoncivarghese/docsift",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:47:55Z",
-    "url": "https://github.com/anishmoncivarghese/docsift"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 2,
-    "updated_at": "2026-08-10T08:47:51Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Retrieve biomedical data across decentralized hospital nodes using federated learning and differential privacy to enable",
-    "id": "Sean9582/FedRAG",
-    "language": "\u2014",
-    "name": "Sean9582/FedRAG",
-    "stars": 0,
-    "updated_at": "2026-08-10T08:47:44Z",
-    "url": "https://github.com/Sean9582/FedRAG"
-  },
-  {
-    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
-    "id": "Krzysztof318/MailFathom",
-    "language": "C#",
-    "name": "Krzysztof318/MailFathom",
-    "stars": 5,
-    "updated_at": "2026-08-10T08:47:34Z",
-    "url": "https://github.com/Krzysztof318/MailFathom"
   }
 ]
