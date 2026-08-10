@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T18:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Provenance-aware memory for AI agents.",
+    "id": "veracium-ai/Veracium",
+    "language": "Python",
+    "name": "veracium-ai/Veracium",
+    "stars": 7,
+    "updated_at": "2026-08-10T18:30:07Z",
+    "url": "https://github.com/veracium-ai/Veracium"
+  },
+  {
+    "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF,",
+    "id": "EvotecIT/OfficeIMO",
+    "language": "C#",
+    "name": "EvotecIT/OfficeIMO",
+    "stars": 503,
+    "updated_at": "2026-08-10T18:30:04Z",
+    "url": "https://github.com/EvotecIT/OfficeIMO"
+  },
+  {
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "id": "RyanCodrai/turbovec",
+    "language": "Rust",
+    "name": "RyanCodrai/turbovec",
+    "stars": 14710,
+    "updated_at": "2026-08-10T18:29:54Z",
+    "url": "https://github.com/RyanCodrai/turbovec"
+  },
+  {
     "description": "Build, run and scale AI agents like API and microservices",
     "id": "Agent-Field/agentfield",
     "language": "Go",
@@ -54,15 +99,6 @@
     "url": "https://github.com/off-grid-ai/OGAC"
   },
   {
-    "description": "Provenance-aware memory for AI agents.",
-    "id": "veracium-ai/Veracium",
-    "language": "Python",
-    "name": "veracium-ai/Veracium",
-    "stars": 7,
-    "updated_at": "2026-08-10T18:30:07Z",
-    "url": "https://github.com/veracium-ai/Veracium"
-  },
-  {
     "description": "Bringing real-time, multimodal AI fact-checking directly to WhatsApp in 10+ Indic languages along with English support -",
     "id": "Aditya-Lingam-9000/SATYAMEV-BOT",
     "language": "Python",
@@ -106,6 +142,15 @@
     "stars": 45,
     "updated_at": "2026-08-10T18:24:20Z",
     "url": "https://github.com/FMXExpress/PasClaw"
+  },
+  {
+    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+    "id": "bojieli/ai-agent-book",
+    "language": "Python",
+    "name": "bojieli/ai-agent-book",
+    "stars": 35666,
+    "updated_at": "2026-08-10T18:23:55Z",
+    "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18990,
-    "updated_at": "2026-08-10T18:20:21Z",
+    "updated_at": "2026-08-10T18:31:32Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/dev-core-busy/jarvis"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Recruiter-facing AI/ML portfolio: every metric traces to a committed source, with mechanical CI gates keeping that true ",
     "id": "gaurav-gandhi-2411/gg-portfolio",
     "language": "HTML",
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:19:32Z",
     "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T18:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:11:00Z",
     "url": "https://github.com/kylecoutray/private-ai-pilot-toolkit"
-  },
-  {
-    "description": "Universal Agent Builder \u4e07\u80fdAgent\u6784\u5efa\u5668 \u2014 10-layer spec-driven agent development framework with 6 framework adapters (LangGra",
-    "id": "weed33834/agent-builder-skill",
-    "language": "Python",
-    "name": "weed33834/agent-builder-skill",
-    "stars": 3,
-    "updated_at": "2026-08-10T18:13:08Z",
-    "url": "https://github.com/weed33834/agent-builder-skill"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 17,
-    "updated_at": "2026-08-10T18:10:28Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "AI-powered document intelligence platform for research administration",
-    "id": "ui-insight/vandalizer",
-    "language": "Python",
-    "name": "ui-insight/vandalizer",
-    "stars": 10,
-    "updated_at": "2026-08-10T18:10:11Z",
-    "url": "https://github.com/ui-insight/vandalizer"
   }
 ]
