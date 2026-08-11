@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-10T23:59:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
     "id": "IgorGanapolsky/trading",
     "language": "Python",
     "name": "IgorGanapolsky/trading",
     "stars": 38,
-    "updated_at": "2026-08-10T23:59:09Z",
+    "updated_at": "2026-08-11T00:00:15Z",
     "url": "https://github.com/IgorGanapolsky/trading"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "vitali87/code-graph-rag",
     "stars": 3516,
-    "updated_at": "2026-08-10T23:57:23Z",
+    "updated_at": "2026-08-11T00:00:04Z",
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
@@ -288,21 +297,12 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-10T23:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 18993,
-    "updated_at": "2026-08-10T23:45:12Z",
+    "updated_at": "2026-08-10T23:59:37Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
