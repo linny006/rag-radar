@@ -1,5 +1,140 @@
 [
   {
+    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natur",
+    "id": "Canner/WrenAI",
+    "language": "Python",
+    "name": "Canner/WrenAI",
+    "stars": 17215,
+    "updated_at": "2026-08-11T02:19:01Z",
+    "url": "https://github.com/Canner/WrenAI"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 5151,
+    "updated_at": "2026-08-11T02:18:38Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-11T02:18:38Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "",
+    "id": "bhvishal9/ritam",
+    "language": "Python",
+    "name": "bhvishal9/ritam",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:18:31Z",
+    "url": "https://github.com/bhvishal9/ritam"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15416,
+    "updated_at": "2026-08-11T02:18:27Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "\u5de5\u5382\u672c\u4f53\u9a71\u52a8\u7684\u6570\u636e\u95ee\u7b54\u6846\u67b6\uff1aCSV\u2192\u672c\u4f53\u2192\u81ea\u7136\u8bed\u8a00\u95ee\u7b54\uff0c\u9886\u57df\u65e0\u5173\u53ef\u8fc1\u79fb\uff0c\u6362\u6570\u636e\u5373\u590d\u7528\u3002",
+    "id": "zhengjinjun1975/factory-ontology",
+    "language": "Python",
+    "name": "zhengjinjun1975/factory-ontology",
+    "stars": 3,
+    "updated_at": "2026-08-11T02:18:24Z",
+    "url": "https://github.com/zhengjinjun1975/factory-ontology"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-11T02:18:17Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 422,
+    "updated_at": "2026-08-11T02:18:08Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
+    "id": "jazz1x/ohmyboring",
+    "language": "Rust",
+    "name": "jazz1x/ohmyboring",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:17:13Z",
+    "url": "https://github.com/jazz1x/ohmyboring"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-11T02:17:36Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:16:54Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Provenance-aware memory for AI agents.",
+    "id": "veracium-ai/Veracium",
+    "language": "Python",
+    "name": "veracium-ai/Veracium",
+    "stars": 7,
+    "updated_at": "2026-08-11T02:16:43Z",
+    "url": "https://github.com/veracium-ai/Veracium"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T02:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP server that lets Claude Code and other AI agents work through large PDFs, and whole folders of them, without overflo",
+    "id": "jztan/pdf-mcp",
+    "language": "Python",
+    "name": "jztan/pdf-mcp",
+    "stars": 101,
+    "updated_at": "2026-08-11T02:15:19Z",
+    "url": "https://github.com/jztan/pdf-mcp"
+  },
+  {
     "description": "Agentic memory for open source maintainers. Reads a repo's review history, answers with citations and learns from mainta",
     "id": "pyarchana/precedent",
     "language": "Python",
@@ -14,17 +149,8 @@
     "language": "Python",
     "name": "NikolaiSachok/ai-engineering-handbook",
     "stars": 1,
-    "updated_at": "2026-08-11T02:14:38Z",
+    "updated_at": "2026-08-11T02:16:01Z",
     "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
-  },
-  {
-    "description": "\u5de5\u5382\u672c\u4f53\u9a71\u52a8\u7684\u6570\u636e\u95ee\u7b54\u6846\u67b6\uff1aCSV\u2192\u672c\u4f53\u2192\u81ea\u7136\u8bed\u8a00\u95ee\u7b54\uff0c\u9886\u57df\u65e0\u5173\u53ef\u8fc1\u79fb\uff0c\u6362\u6570\u636e\u5373\u590d\u7528\u3002",
-    "id": "zhengjinjun1975/factory-ontology",
-    "language": "Python",
-    "name": "zhengjinjun1975/factory-ontology",
-    "stars": 3,
-    "updated_at": "2026-08-11T02:14:29Z",
-    "url": "https://github.com/zhengjinjun1975/factory-ontology"
   },
   {
     "description": "MemOS - Universal local-first persistent memory layer for AI agents and LLMs",
@@ -34,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-11T02:14:26Z",
     "url": "https://github.com/Markgatcha/memos"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-11T02:14:26Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -77,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24117,
-    "updated_at": "2026-08-11T02:14:03Z",
+    "updated_at": "2026-08-11T02:18:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -151,15 +268,6 @@
     "stars": 87201,
     "updated_at": "2026-08-11T02:09:07Z",
     "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Provenance-aware memory for AI agents.",
-    "id": "veracium-ai/Veracium",
-    "language": "Python",
-    "name": "veracium-ai/Veracium",
-    "stars": 7,
-    "updated_at": "2026-08-11T02:08:57Z",
-    "url": "https://github.com/veracium-ai/Veracium"
   },
   {
     "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
@@ -243,15 +351,6 @@
     "url": "https://github.com/fangyuan-3149/book-learning-tutor"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15416,
-    "updated_at": "2026-08-11T02:05:57Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -259,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T02:04:57Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 422,
-    "updated_at": "2026-08-11T02:12:31Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
     "description": "RAG over your own documents: answers cite the exact sentence they came from. FastAPI, Next.js and pgvector, with a label",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T02:00:40Z",
     "url": "https://github.com/sanlee-ys/learning-notes"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T02:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T02:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 143921,
-    "updated_at": "2026-08-11T02:00:05Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown \u2014 and back. Built for LLMs, RAG & Python pipe",
-    "id": "thomas-villani/all2md",
-    "language": "Python",
-    "name": "thomas-villani/all2md",
-    "stars": 26,
-    "updated_at": "2026-08-11T01:59:58Z",
-    "url": "https://github.com/thomas-villani/all2md"
-  },
-  {
-    "description": "DeltaRAG + Graph-RAG pipeline turning 10 live Android security feeds into evidence-backed risk tickets. 93% retrieval pr",
-    "id": "Srivatsa03/ECI-Pipeline",
-    "language": "Python",
-    "name": "Srivatsa03/ECI-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-11T01:59:49Z",
-    "url": "https://github.com/Srivatsa03/ECI-Pipeline"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-11T01:59:15Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "LLM \ub17c\ubb38 \ub9ac\ubdf0 116\ud3b8 \u2014 \ucd94\ub860 \ucd5c\uc801\ud654\u00b7\uc591\uc790\ud654\u00b7PEFT\u00b7\uc544\ud0a4\ud14d\ucc98\u00b7RAG 5\uac1c \ud30c\ud2b8 \uc815\ub9ac",
-    "id": "gihong0303/Paper-Summary",
-    "language": "\u2014",
-    "name": "gihong0303/Paper-Summary",
-    "stars": 0,
-    "updated_at": "2026-08-11T01:59:09Z",
-    "url": "https://github.com/gihong0303/Paper-Summary"
-  },
-  {
-    "description": "Fusion \u591a\u6a21\u578b AI \u5de5\u4f5c\u53f0\u524d\u7aef\u4e0e\u684c\u9762\u7aef\uff1a\u652f\u6301\u667a\u80fd\u5bf9\u8bdd\u3001\u6587\u4ef6\u7406\u89e3\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u591a\u7aef\u4f53\u9a8c\u3002",
-    "id": "HyxiaoGe/fusion-ui",
-    "language": "TypeScript",
-    "name": "HyxiaoGe/fusion-ui",
-    "stars": 7,
-    "updated_at": "2026-08-11T01:58:59Z",
-    "url": "https://github.com/HyxiaoGe/fusion-ui"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-08-11T01:58:48Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "Red-team your RAG pipeline for prompt injection, source-document leakage, and cross-document smuggling, in CI. The gap b",
-    "id": "Srivatsa03/rag-redteam",
-    "language": "Python",
-    "name": "Srivatsa03/rag-redteam",
-    "stars": 4,
-    "updated_at": "2026-08-11T01:58:03Z",
-    "url": "https://github.com/Srivatsa03/rag-redteam"
   }
 ]
