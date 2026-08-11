@@ -1,12 +1,75 @@
 [
   {
+    "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
+    "id": "Gunnarguy/OpenIntelligence",
+    "language": "Swift",
+    "name": "Gunnarguy/OpenIntelligence",
+    "stars": 21,
+    "updated_at": "2026-08-11T03:59:52Z",
+    "url": "https://github.com/Gunnarguy/OpenIntelligence"
+  },
+  {
+    "description": "AI job-search agent \u2014 multi-agent orchestration (Supervisor + ReAct) over RAG, built with Java, Spring Boot, Vue and MCP",
+    "id": "dezhiguan/careermate",
+    "language": "Java",
+    "name": "dezhiguan/careermate",
+    "stars": 0,
+    "updated_at": "2026-08-11T04:00:05Z",
+    "url": "https://github.com/dezhiguan/careermate"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 632,
+    "updated_at": "2026-08-11T03:59:50Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "T\u00fcrkiye's sovereign, airgapped preparedness command center \u2014 local AI (RAG over verified AFAD/Health docs), SDR, and Mes",
+    "id": "MonarchCastleTech/prepturk",
+    "language": "TypeScript",
+    "name": "MonarchCastleTech/prepturk",
+    "stars": 1,
+    "updated_at": "2026-08-11T03:59:40Z",
+    "url": "https://github.com/MonarchCastleTech/prepturk"
+  },
+  {
     "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
     "id": "Abishang21/enterprise-rag-knowledge-assistant",
     "language": "Python",
     "name": "Abishang21/enterprise-rag-knowledge-assistant",
     "stars": 0,
-    "updated_at": "2026-08-11T03:58:31Z",
+    "updated_at": "2026-08-11T04:00:14Z",
     "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "Turn your Bilibili favorites and cloud documents into a chat-ready personal knowledge base. Agentic RAG with ASR   trans",
+    "id": "atoncooper/MindBase",
+    "language": "Python",
+    "name": "atoncooper/MindBase",
+    "stars": 31,
+    "updated_at": "2026-08-11T03:59:38Z",
+    "url": "https://github.com/atoncooper/MindBase"
+  },
+  {
+    "description": "Software Engineering Portfolio | Web Development | Desktop App Development ",
+    "id": "rosa-lpz/software-and-ai-engineering-portfolio",
+    "language": "\u2014",
+    "name": "rosa-lpz/software-and-ai-engineering-portfolio",
+    "stars": 1,
+    "updated_at": "2026-08-11T03:59:05Z",
+    "url": "https://github.com/rosa-lpz/software-and-ai-engineering-portfolio"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T03:59:01Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Plataforma de intelig\u00eancia imobili\u00e1ria open-source: Next.js + Hono API + RAG local + CRM Twenty + identidade visual fora",
@@ -68,17 +131,8 @@
     "language": "Go",
     "name": "infiniflow/ragflow",
     "stars": 87210,
-    "updated_at": "2026-08-11T03:54:57Z",
+    "updated_at": "2026-08-11T03:59:41Z",
     "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "T\u00fcrkiye's sovereign, airgapped preparedness command center \u2014 local AI (RAG over verified AFAD/Health docs), SDR, and Mes",
-    "id": "MonarchCastleTech/prepturk",
-    "language": "TypeScript",
-    "name": "MonarchCastleTech/prepturk",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:54:48Z",
-    "url": "https://github.com/MonarchCastleTech/prepturk"
   },
   {
     "description": "A RAG over HIPAA regulation running entirely on my own server: local embeddings, nothing leaves the box. 20 hand-verifie",
@@ -234,15 +288,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Nova runs AI models entirely on your device - no data is sent to external servers. Get fast, private AI assistance with ",
     "id": "involvex/nova-assistant",
     "language": "Dart",
@@ -295,6 +340,15 @@
     "stars": 1,
     "updated_at": "2026-08-11T03:44:06Z",
     "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
+  },
+  {
+    "description": "\ud83d\udc18 A zero-dependency, drop-in hybrid RAG engine for PHP. Bring vector search and conversational AI to any traditional PHP",
+    "id": "devalexanderdaza/PocketRAG",
+    "language": "PHP",
+    "name": "devalexanderdaza/PocketRAG",
+    "stars": 0,
+    "updated_at": "2026-08-11T03:42:37Z",
+    "url": "https://github.com/devalexanderdaza/PocketRAG"
   },
   {
     "description": "AI/RAG powered job posting and CV analysis",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T03:39:23Z",
     "url": "https://github.com/karanparekh14/sourcewithai-platform"
-  },
-  {
-    "description": "From-scratch HNSW vector search engine in Rust with PyO3 Python bindings, a FastAPI retrieval service, and a Next.js RAG",
-    "id": "1816x/RAG-Engine",
-    "language": "Python",
-    "name": "1816x/RAG-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:38:43Z",
-    "url": "https://github.com/1816x/RAG-Engine"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-11T03:37:49Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Convert documents once. Give agents only what they need \u2014 PDFs and Office files to clean Markdown, chunks and local sear",
-    "id": "anishmoncivarghese/docsift",
-    "language": "Python",
-    "name": "anishmoncivarghese/docsift",
-    "stars": 3,
-    "updated_at": "2026-08-11T03:37:14Z",
-    "url": "https://github.com/anishmoncivarghese/docsift"
-  },
-  {
-    "description": "Bank RAG Benchmark \u4e2d\u6587\u94f6\u884c\u77e5\u8bc6\u5e93 RAG \u8bc4\u6d4b\u57fa\u51c6\uff0c\u5305\u542b 100 \u4efd PDF \u6587\u6863\u548c 450 \u6761\u6d4b\u8bd5\u6848\u4f8b\u3002\u8054\u5408\u53d1\u5e03\u5355\u4f4d\uff1a\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u82cf\u5dde\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u9662\u3001\u4e0a\u4ea4\u81f4\u5fae\uff08\u82cf\u5dde\uff09\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8\u3002",
-    "id": "sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark",
-    "language": "\u2014",
-    "name": "sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:36:30Z",
-    "url": "https://github.com/sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark"
-  },
-  {
-    "description": "\ud83d\udc18 A zero-dependency, drop-in hybrid RAG engine for PHP. Bring vector search and conversational AI to any traditional PHP",
-    "id": "devalexanderdaza/PocketRAG",
-    "language": "PHP",
-    "name": "devalexanderdaza/PocketRAG",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:42:37Z",
-    "url": "https://github.com/devalexanderdaza/PocketRAG"
-  },
-  {
-    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
-    "id": "bojieli/ai-agent-book",
-    "language": "Python",
-    "name": "bojieli/ai-agent-book",
-    "stars": 35817,
-    "updated_at": "2026-08-11T03:36:12Z",
-    "url": "https://github.com/bojieli/ai-agent-book"
   }
 ]
