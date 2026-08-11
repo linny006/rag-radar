@@ -1,5 +1,68 @@
 [
   {
+    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
+    "id": "Sachin23991/dreamflow-rag-updater",
+    "language": "Python",
+    "name": "Sachin23991/dreamflow-rag-updater",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:59:32Z",
+    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
+  },
+  {
+    "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
+    "id": "sepahead/sepahead",
+    "language": "JavaScript",
+    "name": "sepahead/sepahead",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:59:19Z",
+    "url": "https://github.com/sepahead/sepahead"
+  },
+  {
+    "description": "10 RAG patterns as runnable notebooks, benchmarked on the same corpus and eval set.",
+    "id": "rajeshm71/rag-recipes",
+    "language": "\u2014",
+    "name": "rajeshm71/rag-recipes",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:59:16Z",
+    "url": "https://github.com/rajeshm71/rag-recipes"
+  },
+  {
+    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
+    "id": "NikolaiSachok/ai-engineering-handbook",
+    "language": "Python",
+    "name": "NikolaiSachok/ai-engineering-handbook",
+    "stars": 1,
+    "updated_at": "2026-08-11T17:00:20Z",
+    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
+  },
+  {
+    "description": "Magyar jogi dokumentumokra specializ\u00e1lt Multi-Agent RAG (Retrieval-Augmented Generation) rendszer CrewAI \u00e9s LangChain al",
+    "id": "LeventeTasy/jogi-agent-rag",
+    "language": "Python",
+    "name": "LeventeTasy/jogi-agent-rag",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:58:21Z",
+    "url": "https://github.com/LeventeTasy/jogi-agent-rag"
+  },
+  {
+    "description": "Vyact \u2014 Open-source local AI workspace with Ollama, RAG, AI agents, and Google Workspace integration.",
+    "id": "vyact/vyact",
+    "language": "TypeScript",
+    "name": "vyact/vyact",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:58:16Z",
+    "url": "https://github.com/vyact/vyact"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:58:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Assistente universitario multiagente com FastAPI, LangGraph e RAG, publicado no Azure.",
     "id": "henriquebotelhogomes/UsiEdu",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-11T16:57:53Z",
     "url": "https://github.com/henriquebotelhogomes/UsiEdu"
+  },
+  {
+    "description": "RAG chatbot engine using Laravel for Wordpress Posts",
+    "id": "FabricioLR/Laravel_Rag_Chabot",
+    "language": "PHP",
+    "name": "FabricioLR/Laravel_Rag_Chabot",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:57:38Z",
+    "url": "https://github.com/FabricioLR/Laravel_Rag_Chabot"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -68,7 +140,7 @@
     "language": "JavaScript",
     "name": "MK023/marcobellingeri.dev",
     "stars": 0,
-    "updated_at": "2026-08-11T16:55:26Z",
+    "updated_at": "2026-08-11T17:00:15Z",
     "url": "https://github.com/MK023/marcobellingeri.dev"
   },
   {
@@ -135,15 +207,6 @@
     "url": "https://github.com/kRamu81/MedTrack_Application"
   },
   {
-    "description": "Vyact \u2014 Open-source local AI workspace with Ollama, RAG, AI agents, and Google Workspace integration.",
-    "id": "vyact/vyact",
-    "language": "TypeScript",
-    "name": "vyact/vyact",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:54:04Z",
-    "url": "https://github.com/vyact/vyact"
-  },
-  {
     "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
     "id": "tetherto/qvac",
     "language": "TypeScript",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "kahz12/Grimore-MD",
     "stars": 33,
-    "updated_at": "2026-08-11T16:53:40Z",
+    "updated_at": "2026-08-11T16:58:44Z",
     "url": "https://github.com/kahz12/Grimore-MD"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-08-11T16:53:20Z",
     "url": "https://github.com/Hayredin950/SYNAPSE"
-  },
-  {
-    "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
-    "id": "sepahead/sepahead",
-    "language": "JavaScript",
-    "name": "sepahead/sepahead",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:52:16Z",
-    "url": "https://github.com/sepahead/sepahead"
   },
   {
     "description": "Embeddable enterprise AI assistant SDK \u2014 Spring Boot Starter + Vue 3 widget \u00b7 16 LLM providers \u00b7 RAG \u00b7 Agent \u00b7 Docker de",
@@ -284,7 +338,7 @@
     "language": "Dart",
     "name": "CSE-Sudo-26/on-care",
     "stars": 0,
-    "updated_at": "2026-08-11T16:48:10Z",
+    "updated_at": "2026-08-11T16:59:41Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T16:46:08Z",
     "url": "https://github.com/YihengLi-1/forward-deployed-agent-lab"
-  },
-  {
-    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
-    "id": "apod-1/ZoltarFinancial",
-    "language": "Python",
-    "name": "apod-1/ZoltarFinancial",
-    "stars": 3,
-    "updated_at": "2026-08-11T16:45:43Z",
-    "url": "https://github.com/apod-1/ZoltarFinancial"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Production-grade RAG pipeline built from scratch (no LangChain) \u2014 hybrid FAISS + BM25 retrieval, cross-encoder reranking",
-    "id": "Vikas9892/rag_evaluation",
-    "language": "Python",
-    "name": "Vikas9892/rag_evaluation",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:45:31Z",
-    "url": "https://github.com/Vikas9892/rag_evaluation"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Practical AI/LLM Agent Skills (SKILL.md) for Cline & Claude Code: prompt-engineering, prompt-optimizer, data-cleaning, r",
-    "id": "kiko197/ai-agent-skills",
-    "language": "\u2014",
-    "name": "kiko197/ai-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:45:11Z",
-    "url": "https://github.com/kiko197/ai-agent-skills"
-  },
-  {
-    "description": "Spatial intelligence workstation \u2014 53 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 9\u2011phase mult",
-    "id": "sookoothaii/IntelShed",
-    "language": "Python",
-    "name": "sookoothaii/IntelShed",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:44:17Z",
-    "url": "https://github.com/sookoothaii/IntelShed"
   }
 ]
