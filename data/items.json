@@ -1,5 +1,50 @@
 [
   {
+    "description": "FinchBot is an AI Agent framework that empowers agents with true autonomy, built on LangChain v1.2 and LangGraph v1.0. W",
+    "id": "xt765/FinchBot",
+    "language": "Python",
+    "name": "xt765/FinchBot",
+    "stars": 65,
+    "updated_at": "2026-08-11T11:29:57Z",
+    "url": "https://github.com/xt765/FinchBot"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19001,
+    "updated_at": "2026-08-11T11:29:55Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Decodo Python SDK is an official Python client for the Decodo Web Scraping API. Typed, validated targets with IDE autoco",
+    "id": "Decodo/sdk-python",
+    "language": "Python",
+    "name": "Decodo/sdk-python",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:29:48Z",
+    "url": "https://github.com/Decodo/sdk-python"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:29:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first, citation-aware document ingestion and retrieval for AI agents.",
+    "id": "alp78/CorpusDock",
+    "language": "Python",
+    "name": "alp78/CorpusDock",
+    "stars": 0,
+    "updated_at": "2026-08-11T11:29:31Z",
+    "url": "https://github.com/alp78/CorpusDock"
+  },
+  {
     "description": "An AI RAG Tool that gives book recommendations based on user query",
     "id": "Zwriter/Smart-Librarian",
     "language": "Python",
@@ -34,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-11T11:28:57Z",
     "url": "https://github.com/Shikhaar/TestPilot-AI"
+  },
+  {
+    "description": "Production-grade full-stack AI chat platform with RAG, tools, agents, MCP, and voice.",
+    "id": "pateatlau/fullstack-ai-platform",
+    "language": "Python",
+    "name": "pateatlau/fullstack-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-11T11:28:51Z",
+    "url": "https://github.com/pateatlau/fullstack-ai-platform"
   },
   {
     "description": "MCP server for reed: cited evidence from your private documents, without a byte leaving your machine",
@@ -394,59 +448,5 @@
     "stars": 73,
     "updated_at": "2026-08-11T11:19:14Z",
     "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
-  },
-  {
-    "description": "Multi-RAG AI university assistant for intelligent document retrieval and question answering.",
-    "id": "Areesha643/Unimate",
-    "language": "CSS",
-    "name": "Areesha643/Unimate",
-    "stars": 0,
-    "updated_at": "2026-08-11T11:19:09Z",
-    "url": "https://github.com/Areesha643/Unimate"
-  },
-  {
-    "description": "A Research Cortex. A research companion for Claude. Your library, notes & memory stay on your machine; answers cited fro",
-    "id": "SVerITG/Metis_PH",
-    "language": "Python",
-    "name": "SVerITG/Metis_PH",
-    "stars": 1,
-    "updated_at": "2026-08-11T11:18:44Z",
-    "url": "https://github.com/SVerITG/Metis_PH"
-  },
-  {
-    "description": "Sovereign single-binary knowledge mesh for coding agents (MCP): index, search and serve your notes + code as context. Fa",
-    "id": "bright-interaction/mesh",
-    "language": "Go",
-    "name": "bright-interaction/mesh",
-    "stars": 3,
-    "updated_at": "2026-08-11T11:18:40Z",
-    "url": "https://github.com/bright-interaction/mesh"
-  },
-  {
-    "description": "Self-verifying AI competitive intelligence tool for PMM/GTM teams \u2014 every claim sourced, unverifiable claims cut and log",
-    "id": "uroshp/scout-ci",
-    "language": "Python",
-    "name": "uroshp/scout-ci",
-    "stars": 1,
-    "updated_at": "2026-08-11T11:18:35Z",
-    "url": "https://github.com/uroshp/scout-ci"
-  },
-  {
-    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
-    "id": "tetherto/qvac",
-    "language": "TypeScript",
-    "name": "tetherto/qvac",
-    "stars": 399,
-    "updated_at": "2026-08-11T11:22:29Z",
-    "url": "https://github.com/tetherto/qvac"
-  },
-  {
-    "description": "Multi-agent research assistant that searches the web, reads sources, and answers with verifiable citations. Hallucinated",
-    "id": "gowtham2891/agentic-research-assistant",
-    "language": "Python",
-    "name": "gowtham2891/agentic-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-11T11:18:14Z",
-    "url": "https://github.com/gowtham2891/agentic-research-assistant"
   }
 ]
