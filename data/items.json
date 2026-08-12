@@ -1,5 +1,86 @@
 [
   {
+    "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
+    "id": "alifim/sujudsense",
+    "language": "Python",
+    "name": "alifim/sujudsense",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:59:32Z",
+    "url": "https://github.com/alifim/sujudsense"
+  },
+  {
+    "description": "LLM-powered GeoAI research assistant with full-text Hybrid retrieval over Earth Observation literature.",
+    "id": "Vaibhav170216/geoai-research-assistant",
+    "language": "Python",
+    "name": "Vaibhav170216/geoai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:59:30Z",
+    "url": "https://github.com/Vaibhav170216/geoai-research-assistant"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:59:27Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a",
+    "id": "trpc-group/trpc-agent-go",
+    "language": "Go",
+    "name": "trpc-group/trpc-agent-go",
+    "stars": 1674,
+    "updated_at": "2026-08-12T09:59:15Z",
+    "url": "https://github.com/trpc-group/trpc-agent-go"
+  },
+  {
+    "description": "A Research Cortex. A research companion for Claude. Your library, notes & memory stay on your machine; answers cited fro",
+    "id": "SVerITG/Metis_PH",
+    "language": "Python",
+    "name": "SVerITG/Metis_PH",
+    "stars": 1,
+    "updated_at": "2026-08-12T09:59:06Z",
+    "url": "https://github.com/SVerITG/Metis_PH"
+  },
+  {
+    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents.  \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
+    "id": "1Panel-dev/MaxKB",
+    "language": "Python",
+    "name": "1Panel-dev/MaxKB",
+    "stars": 22486,
+    "updated_at": "2026-08-12T09:59:04Z",
+    "url": "https://github.com/1Panel-dev/MaxKB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T09:58:46Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Plataforma c\u00edvica de transparencia y eficiencia para la Municipalidad de Sunchales",
+    "id": "fdelloni/sunchales-transparente",
+    "language": "TypeScript",
+    "name": "fdelloni/sunchales-transparente",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:58:33Z",
+    "url": "https://github.com/fdelloni/sunchales-transparente"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-12T09:58:31Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
     "id": "langgenius/dify",
     "language": "TypeScript",
@@ -7,6 +88,15 @@
     "stars": 152187,
     "updated_at": "2026-08-12T09:58:05Z",
     "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
+    "id": "sturlese/stigmergy",
+    "language": "Python",
+    "name": "sturlese/stigmergy",
+    "stars": 1,
+    "updated_at": "2026-08-12T09:57:34Z",
+    "url": "https://github.com/sturlese/stigmergy"
   },
   {
     "description": "CreditFlow AI Agent - \uc18c\uc0c1\uacf5\uc778 \ub300\ucd9c \uc0ac\uc804\uc2ec\uc0ac \ubc0f \uc790\ub3d9 \uc18c\uc561\ub300\ucd9c \uc9d1\ud589 \uc5d0\uc774\uc804\ud2b8 (Google Cloud AI \u00d7 Solana\ub85c \uad6c\ud604\ud558\ub294  \ucc28\uc138\ub300 AI Agentic \ud574\ucee4\ud1a4)",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "SVerITG/Metis",
     "stars": 3,
-    "updated_at": "2026-08-12T09:55:42Z",
+    "updated_at": "2026-08-12T10:00:09Z",
     "url": "https://github.com/SVerITG/Metis"
   },
   {
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:55:35Z",
     "url": "https://github.com/pateatlau/fullstack-ai-platform"
-  },
-  {
-    "description": "A Research Cortex. A research companion for Claude. Your library, notes & memory stay on your machine; answers cited fro",
-    "id": "SVerITG/Metis_PH",
-    "language": "Python",
-    "name": "SVerITG/Metis_PH",
-    "stars": 1,
-    "updated_at": "2026-08-12T09:55:04Z",
-    "url": "https://github.com/SVerITG/Metis_PH"
   },
   {
     "description": "Turn PDFs into token-efficient text for LLMs, plus images of the pages that carry their meaning in charts. Strips runnin",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "SnowWarri0r/lingxi",
     "stars": 10,
-    "updated_at": "2026-08-12T09:54:35Z",
+    "updated_at": "2026-08-12T09:59:27Z",
     "url": "https://github.com/SnowWarri0r/lingxi"
   },
   {
@@ -131,7 +212,7 @@
     "language": "C++",
     "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "stars": 1794,
-    "updated_at": "2026-08-12T09:56:51Z",
+    "updated_at": "2026-08-12T09:59:50Z",
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
@@ -185,7 +266,7 @@
     "language": "TypeScript",
     "name": "akapril/keelson",
     "stars": 1,
-    "updated_at": "2026-08-12T09:52:16Z",
+    "updated_at": "2026-08-12T09:59:04Z",
     "url": "https://github.com/akapril/keelson"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:45:49Z",
     "url": "https://github.com/xiehuaian77-sketch/wechat-ai-bot"
-  },
-  {
-    "description": "Professional AI development CLI \u2014 19 providers, 22 agent tools, automatic model routing by task type, built-in RAG and b",
-    "id": "Emrevrg/Cude-Code",
-    "language": "TypeScript",
-    "name": "Emrevrg/Cude-Code",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:45:48Z",
-    "url": "https://github.com/Emrevrg/Cude-Code"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise ",
-    "id": "pipeshub-ai/pipeshub-ai",
-    "language": "Python",
-    "name": "pipeshub-ai/pipeshub-ai",
-    "stars": 3188,
-    "updated_at": "2026-08-12T09:45:16Z",
-    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
-  },
-  {
-    "description": "SHM v5.27.2 \u2014 \u81ea\u6f14\u5316\u8d85\u56fe\u8bb0\u5fc6\u7cfb\u7edf: \u68a6\u5883PRUNE\u4fdd\u62a4(force_promote\u6c38\u4e45\u4fdd\u7559+50%\u526a\u679d\u62a4\u680f), \u6df7\u5408\u68c0\u7d22\u56fe\u6269\u6563, Hermes\u5bf9\u63a5(shm_v5)",
-    "id": "Neocher/self-evolving-hypergraph-memory",
-    "language": "Python",
-    "name": "Neocher/self-evolving-hypergraph-memory",
-    "stars": 3,
-    "updated_at": "2026-08-12T09:45:12Z",
-    "url": "https://github.com/Neocher/self-evolving-hypergraph-memory"
-  },
-  {
-    "description": "latent \u2014 a working log on building AI systems that survive production. Astro blog, lab-notebook identity. https://ai-blo",
-    "id": "chirag127/oriz-blog-ai",
-    "language": "Astro",
-    "name": "chirag127/oriz-blog-ai",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:44:02Z",
-    "url": "https://github.com/chirag127/oriz-blog-ai"
-  },
-  {
-    "description": "Alpha \u00b7 Tier 1 \u2014 \u4e2d\u6587 AI \u5de5\u7a0b\u5e2b\u65e5\u5831 + \u9762\u8a66\u984c\u81ea\u52d5\u751f\u6210\u5668 + on-prem RAG \u77e5\u8b58\u5eab. RSS \u2192 Gemini Flash \u2192 FTS5 pipeline on phantom-mesh.",
-    "id": "markl-a/spectyn-ai-feed",
-    "language": "Python",
-    "name": "markl-a/spectyn-ai-feed",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:43:00Z",
-    "url": "https://github.com/markl-a/spectyn-ai-feed"
-  },
-  {
-    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
-    "id": "NaCode-Studios/Kmemo",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kmemo",
-    "stars": 7,
-    "updated_at": "2026-08-12T09:42:39Z",
-    "url": "https://github.com/NaCode-Studios/Kmemo"
-  },
-  {
-    "description": "Self-hosted long-term temporal graph memory for AI agents \u2014 MCP, REST and a dashboard in one container, with FalkorDB or",
-    "id": "cortadel/cortadel",
-    "language": "C#",
-    "name": "cortadel/cortadel",
-    "stars": 1,
-    "updated_at": "2026-08-12T09:42:36Z",
-    "url": "https://github.com/cortadel/cortadel"
   }
 ]
