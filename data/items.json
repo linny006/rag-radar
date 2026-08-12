@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI-powered customer support platform, add one script tag to any site, and it answers customers from your team's knowledg",
+    "id": "thefremn/solvia",
+    "language": "TypeScript",
+    "name": "thefremn/solvia",
+    "stars": 1,
+    "updated_at": "2026-08-12T12:00:05Z",
+    "url": "https://github.com/thefremn/solvia"
+  },
+  {
+    "description": "Private, 100% local AI assistant that turns your Obsidian vault into a semantic second brain \u2014 accessed via Telegram. Ze",
+    "id": "rufae/Rafita",
+    "language": "Python",
+    "name": "rufae/Rafita",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:59:19Z",
+    "url": "https://github.com/rufae/Rafita"
+  },
+  {
+    "description": "Reproducible RAG evaluation and hardening benchmark with frozen datasets, pre-registered retrieval arms, process-kill re",
+    "id": "My-Denia/rag-production-hardening",
+    "language": "Python",
+    "name": "My-Denia/rag-production-hardening",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:59:13Z",
+    "url": "https://github.com/My-Denia/rag-production-hardening"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-12T11:59:03Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "Local-first desktop assistant for the whole job hunt \u2014 scrape listings, match with a local LLM, generate applications in",
+    "id": "Keljian/JSE",
+    "language": "Python",
+    "name": "Keljian/JSE",
+    "stars": 23,
+    "updated_at": "2026-08-12T11:58:55Z",
+    "url": "https://github.com/Keljian/JSE"
+  },
+  {
+    "description": "Voyant.io is a brand-context platform that turns a company's positioning, messaging, personas, products, pricing, and co",
+    "id": "api-evangelist/voyant",
+    "language": "\u2014",
+    "name": "api-evangelist/voyant",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:58:41Z",
+    "url": "https://github.com/api-evangelist/voyant"
+  },
+  {
+    "description": "NVIDIA NIM RAG Platform \u7684\u70cf\u9f9c\u98fc\u990a\u5b8c\u6574\u793a\u7bc4\uff1aProfile\u3001Vision \u5716\u7247\u5206\u6790\u3001\u7e41\u4e2d RAG \u5f15\u7528\u3001\u91ab\u7642\u5b89\u5168\u8207\u7ba1\u7406\u5f8c\u53f0\u3002",
+    "id": "richie7p/turtle-care-assistant-demo",
+    "language": "Python",
+    "name": "richie7p/turtle-care-assistant-demo",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:58:14Z",
+    "url": "https://github.com/richie7p/turtle-care-assistant-demo"
+  },
+  {
+    "description": "\u53ef\u81ea\u884c\u66ff\u63db Markdown \u77e5\u8b58\u5eab\u3001\u54c1\u724c\u8207 System Prompt \u7684 NVIDIA NIM RAG \u5e73\u53f0\uff0c\u542b\u5b8c\u6574\u524d\u5f8c\u7aef\u3001\u767b\u5165\u6b0a\u9650\u3001SSE \u4e32\u6d41\u8207\u7ba1\u7406\u5f8c\u53f0\u3002",
+    "id": "richie7p/nvidia-nim-rag-platform",
+    "language": "Python",
+    "name": "richie7p/nvidia-nim-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:58:12Z",
+    "url": "https://github.com/richie7p/nvidia-nim-rag-platform"
+  },
+  {
+    "description": "Konsole.ai \u2014 a local-first AI/LLM platform: FastAPI, Ollama, and vector search, designed to scale from prototype to prod",
+    "id": "rafael-ceotto/konsole-ai",
+    "language": "Python",
+    "name": "rafael-ceotto/konsole-ai",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:57:51Z",
+    "url": "https://github.com/rafael-ceotto/konsole-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:57:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CreditFlow AI Agent - \uc18c\uc0c1\uacf5\uc778 \ub300\ucd9c \uc0ac\uc804\uc2ec\uc0ac \ubc0f \uc790\ub3d9 \uc18c\uc561\ub300\ucd9c \uc9d1\ud589 \uc5d0\uc774\uc804\ud2b8 (Google Cloud AI \u00d7 Solana\ub85c \uad6c\ud604\ud558\ub294  \ucc28\uc138\ub300 AI Agentic \ud574\ucee4\ud1a4)",
+    "id": "sujin-1015/creditflow-ai-agent",
+    "language": "Python",
+    "name": "sujin-1015/creditflow-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:57:21Z",
+    "url": "https://github.com/sujin-1015/creditflow-ai-agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:57:06Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Interactive 3D portfolio built with React, Three.js, and a RAG-powered AI assistant.",
     "id": "andref218/3d_portfolio",
     "language": "JavaScript",
@@ -7,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-08-12T11:57:01Z",
     "url": "https://github.com/andref218/3d_portfolio"
+  },
+  {
+    "description": "CareerOS\uff1a\u9762\u5411\u9ad8\u6821\u804c\u89c4\u8d5b\u4e0e\u804c\u4e1a\u53d1\u5c55\u7684 AI Agent \u64cd\u4f5c\u7cfb\u7edf\uff0c\u96c6\u6210\u591a\u6a21\u578b\u8def\u7531\u3001\u77e5\u8bc6\u5e93\u68c0\u7d22\u3001\u8bc1\u636e\u94fe\u3001\u4f5c\u54c1\u7248\u672c\u7ba1\u7406\u53ca\u5e08\u751f\u534f\u540c\u3002",
+    "id": "a2098127101-droid/CareerOS",
+    "language": "Python",
+    "name": "a2098127101-droid/CareerOS",
+    "stars": 1,
+    "updated_at": "2026-08-12T11:56:40Z",
+    "url": "https://github.com/a2098127101-droid/CareerOS"
   },
   {
     "description": "AI compliance assistant for fintech risk teams \u2014 RAG system over the FCA Handbook with hybrid retrieval, reranking, and ",
@@ -27,33 +144,6 @@
     "url": "https://github.com/sookoothaii/IntelShed"
   },
   {
-    "description": "NVIDIA NIM RAG Platform \u7684\u70cf\u9f9c\u98fc\u990a\u5b8c\u6574\u793a\u7bc4\uff1aProfile\u3001Vision \u5716\u7247\u5206\u6790\u3001\u7e41\u4e2d RAG \u5f15\u7528\u3001\u91ab\u7642\u5b89\u5168\u8207\u7ba1\u7406\u5f8c\u53f0\u3002",
-    "id": "richie7p/turtle-care-assistant-demo",
-    "language": "Python",
-    "name": "richie7p/turtle-care-assistant-demo",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:56:14Z",
-    "url": "https://github.com/richie7p/turtle-care-assistant-demo"
-  },
-  {
-    "description": "\u53ef\u81ea\u884c\u66ff\u63db Markdown \u77e5\u8b58\u5eab\u3001\u54c1\u724c\u8207 System Prompt \u7684 NVIDIA NIM RAG \u5e73\u53f0\uff0c\u542b\u5b8c\u6574\u524d\u5f8c\u7aef\u3001\u767b\u5165\u6b0a\u9650\u3001SSE \u4e32\u6d41\u8207\u7ba1\u7406\u5f8c\u53f0\u3002",
-    "id": "richie7p/nvidia-nim-rag-platform",
-    "language": "Python",
-    "name": "richie7p/nvidia-nim-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:56:12Z",
-    "url": "https://github.com/richie7p/nvidia-nim-rag-platform"
-  },
-  {
-    "description": "CareerOS\uff1a\u9762\u5411\u9ad8\u6821\u804c\u89c4\u8d5b\u4e0e\u804c\u4e1a\u53d1\u5c55\u7684 AI Agent \u64cd\u4f5c\u7cfb\u7edf\uff0c\u96c6\u6210\u591a\u6a21\u578b\u8def\u7531\u3001\u77e5\u8bc6\u5e93\u68c0\u7d22\u3001\u8bc1\u636e\u94fe\u3001\u4f5c\u54c1\u7248\u672c\u7ba1\u7406\u53ca\u5e08\u751f\u534f\u540c\u3002",
-    "id": "a2098127101-droid/CareerOS",
-    "language": "Python",
-    "name": "a2098127101-droid/CareerOS",
-    "stars": 1,
-    "updated_at": "2026-08-12T11:56:40Z",
-    "url": "https://github.com/a2098127101-droid/CareerOS"
-  },
-  {
     "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 10",
     "id": "xberg-io/xberg",
     "language": "Rust",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T11:55:17Z",
     "url": "https://github.com/tomato371/fugu-local"
-  },
-  {
-    "description": "Private, 100% local AI assistant that turns your Obsidian vault into a semantic second brain \u2014 accessed via Telegram. Ze",
-    "id": "rufae/Rafita",
-    "language": "Python",
-    "name": "rufae/Rafita",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:55:00Z",
-    "url": "https://github.com/rufae/Rafita"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -140,7 +221,7 @@
     "language": "TypeScript",
     "name": "tetherto/qvac",
     "stars": 405,
-    "updated_at": "2026-08-12T11:54:32Z",
+    "updated_at": "2026-08-12T11:59:51Z",
     "url": "https://github.com/tetherto/qvac"
   },
   {
@@ -234,30 +315,12 @@
     "url": "https://github.com/imrohitagrawal/citevyn"
   },
   {
-    "description": "Konsole.ai \u2014 a local-first AI/LLM platform: FastAPI, Ollama, and vector search, designed to scale from prototype to prod",
-    "id": "rafael-ceotto/konsole-ai",
-    "language": "Python",
-    "name": "rafael-ceotto/konsole-ai",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:52:39Z",
-    "url": "https://github.com/rafael-ceotto/konsole-ai"
-  },
-  {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 1,
-    "updated_at": "2026-08-12T11:56:41Z",
-    "url": "https://github.com/Matlan1/localm"
-  },
-  {
     "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
     "id": "melgarafael/DeskcommCRM",
     "language": "TypeScript",
     "name": "melgarafael/DeskcommCRM",
     "stars": 489,
-    "updated_at": "2026-08-12T11:55:51Z",
+    "updated_at": "2026-08-12T11:57:39Z",
     "url": "https://github.com/melgarafael/DeskcommCRM"
   },
   {
@@ -328,7 +391,7 @@
     "id": "langbot-app/LangBot",
     "language": "Python",
     "name": "langbot-app/LangBot",
-    "stars": 17375,
+    "stars": 17376,
     "updated_at": "2026-08-12T11:49:59Z",
     "url": "https://github.com/langbot-app/LangBot"
   },
@@ -356,7 +419,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 85,
-    "updated_at": "2026-08-12T11:54:11Z",
+    "updated_at": "2026-08-12T11:59:44Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/imrohitagrawal/narratwin-ai"
   },
   {
-    "description": "AI-powered customer support platform, add one script tag to any site, and it answers customers from your team's knowledg",
-    "id": "thefremn/solvia",
-    "language": "TypeScript",
-    "name": "thefremn/solvia",
-    "stars": 1,
-    "updated_at": "2026-08-12T11:48:54Z",
-    "url": "https://github.com/thefremn/solvia"
-  },
-  {
     "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
     "id": "caura-ai/caura-memclaw",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 429,
     "updated_at": "2026-08-12T11:51:20Z",
     "url": "https://github.com/caura-ai/caura-memclaw"
-  },
-  {
-    "description": "Enterprise-grade RAG platform for natural-language Q&A over documents with citation-backed answers - runs locally, no pa",
-    "id": "AmnaKhan1323/nexusai",
-    "language": "Python",
-    "name": "AmnaKhan1323/nexusai",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:48:33Z",
-    "url": "https://github.com/AmnaKhan1323/nexusai"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2246,
-    "updated_at": "2026-08-12T11:48:02Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
-    "id": "gaurav-gandhi-2411/gg-portfolio",
-    "language": "HTML",
-    "name": "gaurav-gandhi-2411/gg-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:48:01Z",
-    "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
-  },
-  {
-    "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
-    "id": "GramosoftAI/GcrawlAI",
-    "language": "Python",
-    "name": "GramosoftAI/GcrawlAI",
-    "stars": 33,
-    "updated_at": "2026-08-12T11:46:37Z",
-    "url": "https://github.com/GramosoftAI/GcrawlAI"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:46:36Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An AI war room where 16 simulated investor legends \u2014 Thiel, Gurley, Son, Guo, Khosla \u2014 debate, cross-examine and kill st",
-    "id": "aashishngupta/pantheon",
-    "language": "Python",
-    "name": "aashishngupta/pantheon",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:46:30Z",
-    "url": "https://github.com/aashishngupta/pantheon"
   }
 ]
