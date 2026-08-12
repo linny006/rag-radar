@@ -1,11 +1,83 @@
 [
   {
+    "description": "\ud83e\udd57 AI Nutrition Assistant / AI \u667a\u80fd\u8425\u517b\u5e08 \u2014 Photo food recognition, AI nutrition analysis & personalized dietary advice. \u62cd\u7167\u8bc6\u522b\u98df",
+    "id": "Green-hats/NutriGo",
+    "language": "Python",
+    "name": "Green-hats/NutriGo",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:15:07Z",
+    "url": "https://github.com/Green-hats/NutriGo"
+  },
+  {
+    "description": "Context-aware AI grounding responses in verified Islamic scholarship \u2014 fights misinformation with structured retrieval. ",
+    "id": "ameedanxari/shamelagpt",
+    "language": "Swift",
+    "name": "ameedanxari/shamelagpt",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:14:51Z",
+    "url": "https://github.com/ameedanxari/shamelagpt"
+  },
+  {
+    "description": "AI \u5168\u6808\u5f00\u53d1\u5b66\u4e60\u5b9e\u9a8c\u5ba4 - 496\u9053\u7f16\u7a0b\u7ec3\u4e60 (Python/C/Rust/Go/20+\u8bed\u8a00 + AI\u6570\u5b66 + RAG + DevOps + \u5b89\u5168\u653b\u9632)",
+    "id": "Z4OR-cyber/ai-fullstack-lab",
+    "language": "Python",
+    "name": "Z4OR-cyber/ai-fullstack-lab",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:14:36Z",
+    "url": "https://github.com/Z4OR-cyber/ai-fullstack-lab"
+  },
+  {
+    "description": "Full-Stack Engineer & AI Builder | Next.js \u00b7 FastAPI \u00b7 LangChain \u00b7 RAG | Building intelligent web apps \ud83d\ude80",
+    "id": "Kianis534/kianis534",
+    "language": "\u2014",
+    "name": "Kianis534/kianis534",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:13:57Z",
+    "url": "https://github.com/Kianis534/kianis534"
+  },
+  {
+    "description": "\u878d\u5408 RAG\u3001\u5b9e\u65f6\u4f4d\u7f6e\u5929\u6c14\u548c\u53ef\u89c6\u5316\u6267\u884c\u6458\u8981\u7684\u626b\u5730\u673a\u5668\u4eba\u667a\u80fd\u5ba2\u670d Agent\u3002",
+    "id": "HHHFFF-HHHFFF/autonomous-cleaning-support-agent",
+    "language": "Python",
+    "name": "HHHFFF-HHHFFF/autonomous-cleaning-support-agent",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:13:16Z",
+    "url": "https://github.com/HHHFFF-HHHFFF/autonomous-cleaning-support-agent"
+  },
+  {
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 41,
+    "updated_at": "2026-08-12T13:13:14Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:12:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:12:02Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
     "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
     "id": "elchemista/vettore",
     "language": "Elixir",
     "name": "elchemista/vettore",
     "stars": 22,
-    "updated_at": "2026-08-12T13:10:57Z",
+    "updated_at": "2026-08-12T13:12:45Z",
     "url": "https://github.com/elchemista/vettore"
   },
   {
@@ -64,12 +136,12 @@
   },
   {
     "description": "Memory layer for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
-    "id": "memoket/kite",
+    "id": "memoket/memoket-kite",
     "language": "Python",
-    "name": "memoket/kite",
+    "name": "memoket/memoket-kite",
     "stars": 2,
     "updated_at": "2026-08-12T13:07:35Z",
-    "url": "https://github.com/memoket/kite"
+    "url": "https://github.com/memoket/memoket-kite"
   },
   {
     "description": "A TypeScript memory substrate for AI agents featuring human-like decay, consolidation, trait crystallization, and MMR re",
@@ -203,7 +275,7 @@
     "language": "JavaScript",
     "name": "pulseforgeatmns-ops/pulseforge-leadgen",
     "stars": 0,
-    "updated_at": "2026-08-12T13:04:01Z",
+    "updated_at": "2026-08-12T13:13:53Z",
     "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
   },
   {
@@ -256,7 +328,7 @@
     "id": "vitali87/code-graph-rag",
     "language": "Python",
     "name": "vitali87/code-graph-rag",
-    "stars": 4006,
+    "stars": 4007,
     "updated_at": "2026-08-12T13:02:28Z",
     "url": "https://github.com/vitali87/code-graph-rag"
   },
@@ -360,15 +432,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Evidence-first financial research RAG and retrieval evaluation workbench.",
     "id": "nikashen/FinSight-RAG",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T12:59:52Z",
     "url": "https://github.com/mabaeyens/mira-core"
-  },
-  {
-    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc",
-    "id": "labring/FastGPT",
-    "language": "TypeScript",
-    "name": "labring/FastGPT",
-    "stars": 29342,
-    "updated_at": "2026-08-12T12:59:50Z",
-    "url": "https://github.com/labring/FastGPT"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T12:59:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Grounded RAG for official AI documentation with citations, strict refusal, evaluation gates, and versioned retrieval.",
-    "id": "imrohitagrawal/citevyn",
-    "language": "Python",
-    "name": "imrohitagrawal/citevyn",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:02:05Z",
-    "url": "https://github.com/imrohitagrawal/citevyn"
-  },
-  {
-    "description": "A modern markdown AI note-taking application",
-    "id": "jetyu/Snaptium",
-    "language": "TypeScript",
-    "name": "jetyu/Snaptium",
-    "stars": 74,
-    "updated_at": "2026-08-12T13:00:02Z",
-    "url": "https://github.com/jetyu/Snaptium"
-  },
-  {
-    "description": "A zero-dependency, drop-in hybrid RAG engine for PHP 8+ with SQLite.",
-    "id": "devalexanderdaza/PocketRAG",
-    "language": "PHP",
-    "name": "devalexanderdaza/PocketRAG",
-    "stars": 3,
-    "updated_at": "2026-08-12T13:02:56Z",
-    "url": "https://github.com/devalexanderdaza/PocketRAG"
-  },
-  {
-    "description": "Self-hosted AI company OS for solo founders: autonomous agents, ERPNext business memory, and owner-visible governance.",
-    "id": "Hyper-AI-Lab/cyber-ai-team",
-    "language": "Python",
-    "name": "Hyper-AI-Lab/cyber-ai-team",
-    "stars": 5,
-    "updated_at": "2026-08-12T12:58:42Z",
-    "url": "https://github.com/Hyper-AI-Lab/cyber-ai-team"
-  },
-  {
-    "description": "\u8c46\u82bd Douya \u2014 \u57fa\u4e8e llama.cpp \u7684\u9690\u79c1\u4f18\u5148\u672c\u5730 AI \u684c\u9762\u52a9\u624b \u00b7 \u5b8c\u5168\u79bb\u7ebf \u00b7 \u591a\u540e\u7aef(CUDA/HIP/Vulkan/SYCL) \u00b7 GPU \u52a0\u901f \u00b7 \u591a\u6a21\u6001 \u00b7 RAG \u00b7 OpenAI \u517c\u5bb9 API",
-    "id": "zifeiyu2025/douya",
-    "language": "Go",
-    "name": "zifeiyu2025/douya",
-    "stars": 8,
-    "updated_at": "2026-08-12T12:58:36Z",
-    "url": "https://github.com/zifeiyu2025/douya"
   }
 ]
