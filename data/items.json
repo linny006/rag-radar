@@ -1,5 +1,50 @@
 [
   {
+    "description": "Fail-closed adapters and runnable proofs for AI automation handoffs \u2014 fixed 3\u20135 day sprint.",
+    "id": "DiadkoShmek/evidence-gated-agent-workflows",
+    "language": "Python",
+    "name": "DiadkoShmek/evidence-gated-agent-workflows",
+    "stars": 0,
+    "updated_at": "2026-08-12T00:00:09Z",
+    "url": "https://github.com/DiadkoShmek/evidence-gated-agent-workflows"
+  },
+  {
+    "description": "Exam-scored knowledge brains for AI agents: paste a docs URL, get a searchable brain over MCP with a measured score and ",
+    "id": "egorfedorov/mozg",
+    "language": "TypeScript",
+    "name": "egorfedorov/mozg",
+    "stars": 8,
+    "updated_at": "2026-08-11T23:59:53Z",
+    "url": "https://github.com/egorfedorov/mozg"
+  },
+  {
+    "description": "Failure-aware evaluation for enterprise RAG model selection",
+    "id": "taixingbi/failure-aware-rag-eval",
+    "language": "Python",
+    "name": "taixingbi/failure-aware-rag-eval",
+    "stars": 0,
+    "updated_at": "2026-08-11T23:59:35Z",
+    "url": "https://github.com/taixingbi/failure-aware-rag-eval"
+  },
+  {
+    "description": "Inkeep is an AI support and agent platform for documentation and products. Its developer platform exposes an OpenAI-comp",
+    "id": "api-evangelist/inkeep",
+    "language": "\u2014",
+    "name": "api-evangelist/inkeep",
+    "stars": 0,
+    "updated_at": "2026-08-11T23:59:18Z",
+    "url": "https://github.com/api-evangelist/inkeep"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T23:58:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Astro (static), bilingual EN/IT, security-by-design, AI-assisted monthly RAG magazine. Deployed on Cloudflare.",
     "id": "MK023/marcobellingeri.dev",
     "language": "JavaScript",
@@ -288,15 +333,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T23:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T23:40:45Z",
     "url": "https://github.com/api-evangelist/delphi"
-  },
-  {
-    "description": "Open\u2011source web app for AI\u2011assisted literature management and academic review writing. Free for non\u2011commercial use.",
-    "id": "bulls-cows/paper",
-    "language": "TypeScript",
-    "name": "bulls-cows/paper",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:40:42Z",
-    "url": "https://github.com/bulls-cows/paper"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:40:40Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
-  },
-  {
-    "description": "Local-first multimodal knowledge intelligence: hybrid RAG, agentic retrieval, spreadsheet analysis, cited answers, roadm",
-    "id": "Fyxod/KnowledgeForge",
-    "language": "Python",
-    "name": "Fyxod/KnowledgeForge",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:40:24Z",
-    "url": "https://github.com/Fyxod/KnowledgeForge"
-  },
-  {
-    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:39:53Z",
-    "url": "https://github.com/api-evangelist/datastax"
   }
 ]
