@@ -1,228 +1,39 @@
 [
   {
-    "description": "Private, permission-aware enterprise knowledge grounded in evidence.",
-    "id": "codexlin/UnoRAG",
-    "language": "TypeScript",
-    "name": "codexlin/UnoRAG",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:29:11Z",
-    "url": "https://github.com/codexlin/UnoRAG"
-  },
-  {
-    "description": "A TypeScript memory substrate for AI agents featuring human-like decay, consolidation, trait crystallization, and MMR re",
-    "id": "v1b3x0r/living-memory-engine",
-    "language": "TypeScript",
-    "name": "v1b3x0r/living-memory-engine",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:28:50Z",
-    "url": "https://github.com/v1b3x0r/living-memory-engine"
-  },
-  {
-    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill fo",
-    "id": "Graphify-Labs/graphify",
-    "language": "Python",
-    "name": "Graphify-Labs/graphify",
-    "stars": 105541,
-    "updated_at": "2026-08-12T13:28:38Z",
-    "url": "https://github.com/Graphify-Labs/graphify"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7046,
-    "updated_at": "2026-08-12T13:28:28Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
     "id": "os-tack/ostk-recall",
     "language": "Rust",
     "name": "os-tack/ostk-recall",
     "stars": 6,
-    "updated_at": "2026-08-12T13:28:25Z",
+    "updated_at": "2026-08-12T13:44:51Z",
     "url": "https://github.com/os-tack/ostk-recall"
   },
   {
-    "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-t",
-    "id": "tetherto/qvac",
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4018,
+    "updated_at": "2026-08-12T13:44:39Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
-    "name": "tetherto/qvac",
-    "stars": 405,
-    "updated_at": "2026-08-12T13:29:37Z",
-    "url": "https://github.com/tetherto/qvac"
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-08-12T13:45:20Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
-    "description": "Open source, automated memory layer that builds as you work.",
-    "id": "koed-labs/koed",
-    "language": "TypeScript",
-    "name": "koed-labs/koed",
-    "stars": 7,
-    "updated_at": "2026-08-12T13:28:12Z",
-    "url": "https://github.com/koed-labs/koed"
-  },
-  {
-    "description": "A deep, visual, source-grounded guide from LLMs and agent architectures to secure agentic AI systems.",
-    "id": "RenatoMignone/From-LLMs-to-Secure-Agents",
+    "description": "What the four-box RAG diagram leaves out hybrid retrieval, chunking, security trimming, and groundedness evaluation, as ",
+    "id": "steefjan1/naive-rag-gap",
     "language": "Python",
-    "name": "RenatoMignone/From-LLMs-to-Secure-Agents",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:27:55Z",
-    "url": "https://github.com/RenatoMignone/From-LLMs-to-Secure-Agents"
-  },
-  {
-    "description": "Document Understanding, Measured. Everyone has an opinion about RAG vs. long context. This one you can run.",
-    "id": "OlgaMaslova/doc-understanding",
-    "language": "TypeScript",
-    "name": "OlgaMaslova/doc-understanding",
+    "name": "steefjan1/naive-rag-gap",
     "stars": 0,
-    "updated_at": "2026-08-12T13:27:43Z",
-    "url": "https://github.com/OlgaMaslova/doc-understanding"
-  },
-  {
-    "description": "An end-to-end RAG pipeline built with LangChain, ChromaDB, and IBM watsonx.ai Granite LLMs featuring a Gradio UI for con",
-    "id": "Anshu1-ux/RAG-Based-Document-Q-A-Chatbot",
-    "language": "Python",
-    "name": "Anshu1-ux/RAG-Based-Document-Q-A-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:27:42Z",
-    "url": "https://github.com/Anshu1-ux/RAG-Based-Document-Q-A-Chatbot"
-  },
-  {
-    "description": "Assistente universitario multiagente com FastAPI, LangGraph e RAG, publicado no Azure.",
-    "id": "henriquebotelhogomes/UsiEdu",
-    "language": "HTML",
-    "name": "henriquebotelhogomes/UsiEdu",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:27:37Z",
-    "url": "https://github.com/henriquebotelhogomes/UsiEdu"
-  },
-  {
-    "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
-    "id": "Marker-Inc-Korea/AutoRAG",
-    "language": "TypeScript",
-    "name": "Marker-Inc-Korea/AutoRAG",
-    "stars": 4990,
-    "updated_at": "2026-08-12T13:27:17Z",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:26:58Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 327,
-    "updated_at": "2026-08-12T13:26:56Z",
-    "url": "https://github.com/xr843/fojin"
-  },
-  {
-    "description": "Mobius Reflective Context Governor \u2014 local-first semantic hygiene and context governance for LLM systems. Govern what a ",
-    "id": "mobius-style/rcgov",
-    "language": "Python",
-    "name": "mobius-style/rcgov",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:26:52Z",
-    "url": "https://github.com/mobius-style/rcgov"
-  },
-  {
-    "description": "AI server for Orchestra- blueprint generation, task assignment, Clover assistant, and knowledge graph",
-    "id": "orchestra-A/orchestra-ai",
-    "language": "Python",
-    "name": "orchestra-A/orchestra-ai",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:26:39Z",
-    "url": "https://github.com/orchestra-A/orchestra-ai"
-  },
-  {
-    "description": "Open, structured corpus of US primary law: 2M+ sections of state statutory codes, the US Code, and state constitutions, ",
-    "id": "Vaquill-AI/open-us-law",
-    "language": "Python",
-    "name": "Vaquill-AI/open-us-law",
-    "stars": 42,
-    "updated_at": "2026-08-12T13:26:32Z",
-    "url": "https://github.com/Vaquill-AI/open-us-law"
-  },
-  {
-    "description": "Vietnam Travel Agent",
-    "id": "Nnguyen-dev2805/travel-agent",
-    "language": "Python",
-    "name": "Nnguyen-dev2805/travel-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:25:54Z",
-    "url": "https://github.com/Nnguyen-dev2805/travel-agent"
-  },
-  {
-    "description": "Autonomous flood-risk intelligence platform for Nepal \u2014 Python microservices, Kafka streaming, Neo4j graph, ML ensemble ",
-    "id": "Bishrav/AEGIS",
-    "language": "Python",
-    "name": "Bishrav/AEGIS",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:25:51Z",
-    "url": "https://github.com/Bishrav/AEGIS"
-  },
-  {
-    "description": "Local-first Maine family-law research, record review, exact-source verification, and review-required drafting workbench.",
-    "id": "JTAHAI/maine-family-law-llm",
-    "language": "Python",
-    "name": "JTAHAI/maine-family-law-llm",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:25:18Z",
-    "url": "https://github.com/JTAHAI/maine-family-law-llm"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:25:16Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Inference Hub for AI at Scale",
-    "id": "adrianliechti/wingman",
-    "language": "Go",
-    "name": "adrianliechti/wingman",
-    "stars": 77,
-    "updated_at": "2026-08-12T13:25:03Z",
-    "url": "https://github.com/adrianliechti/wingman"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:24:45Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 22,
-    "updated_at": "2026-08-12T13:24:38Z",
-    "url": "https://github.com/elchemista/vettore"
-  },
-  {
-    "description": "Open-source adaptive AI learning platform. Learn anything. Remember everything.",
-    "id": "aislamsilvalol-ctrl/noema",
-    "language": "Python",
-    "name": "aislamsilvalol-ctrl/noema",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:24:34Z",
-    "url": "https://github.com/aislamsilvalol-ctrl/noema"
+    "updated_at": "2026-08-12T13:43:34Z",
+    "url": "https://github.com/steefjan1/naive-rag-gap"
   },
   {
     "description": "Compendio is an MCP server that indexes a project's markdown documentation and exposes it to any AI agent.",
@@ -230,188 +41,125 @@
     "language": "TypeScript",
     "name": "RuloGB/compendio-mcp",
     "stars": 0,
-    "updated_at": "2026-08-12T13:24:26Z",
+    "updated_at": "2026-08-12T13:43:26Z",
     "url": "https://github.com/RuloGB/compendio-mcp"
   },
   {
-    "description": "AI smart-contract auditor: static detectors + RAG + agent with provenance-checked citations and measurable quality. Hexa",
-    "id": "gorka2354/audit-copilot",
-    "language": "Python",
-    "name": "gorka2354/audit-copilot",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:24:18Z",
-    "url": "https://github.com/gorka2354/audit-copilot"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 18,
-    "updated_at": "2026-08-12T13:24:16Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Local-first Windows AI workspace for cited RAG and safe CSV data analysis.",
-    "id": "HBG129/knowbase",
-    "language": "Python",
-    "name": "HBG129/knowbase",
+    "description": "Hybrid semantic code search for Azure DevOps / Git / GitHub - native SQL vector search + RRF fusion, ONNX/Hugging Face e",
+    "id": "disisnoturbusiness/AzureDevOpsForager",
+    "language": "C#",
+    "name": "disisnoturbusiness/AzureDevOpsForager",
     "stars": 0,
-    "updated_at": "2026-08-12T13:30:03Z",
-    "url": "https://github.com/HBG129/knowbase"
+    "updated_at": "2026-08-12T13:43:26Z",
+    "url": "https://github.com/disisnoturbusiness/AzureDevOpsForager"
   },
   {
-    "description": "AI-powered Copenhagen trip planner \u2014 FastAPI + Postgres/pgvector + XGBoost + CrewAI agents + Next.js, built and deployed",
-    "id": "RakibHasan221b/AI-Travel-Assistant-Denmark",
-    "language": "Python",
-    "name": "RakibHasan221b/AI-Travel-Assistant-Denmark",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:24:08Z",
-    "url": "https://github.com/RakibHasan221b/AI-Travel-Assistant-Denmark"
+    "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi",
+    "id": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "language": "C++",
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "stars": 1795,
+    "updated_at": "2026-08-12T13:42:57Z",
+    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
-    "description": "Nextcloud MCP Server",
-    "id": "cbcoutinho/nextcloud-mcp-server",
-    "language": "Python",
-    "name": "cbcoutinho/nextcloud-mcp-server",
-    "stars": 323,
-    "updated_at": "2026-08-12T13:24:01Z",
-    "url": "https://github.com/cbcoutinho/nextcloud-mcp-server"
-  },
-  {
-    "description": "\u79d1\u6280\u524d\u77bb TechPulse\uff1a\u975e\u76c8\u5229\u516c\u76ca\u7684\u6bcf\u5468\u79d1\u6280\u8d44\u8baf\u7ad9\uff08\u65b0\u95fb\u6027+\u5b66\u4e60\u6027+\u53ef\u5bf9\u8bdd BYOK \u52a9\u624b+\u771f\u5b9e\u4f18\u60e0\u5708\uff09\uff0c\u7eaf\u9759\u6001 0 \u5143 GitHub Pages\u3002",
-    "id": "huanweide/tech-news-hub",
+    "description": "Hoovik: Distributed meeting intelligence platform with WebRTC peer-to-peer video, real-time multimodal emotion inference",
+    "id": "AnupamKumar-1/Hoovik",
     "language": "JavaScript",
-    "name": "huanweide/tech-news-hub",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:23:57Z",
-    "url": "https://github.com/huanweide/tech-news-hub"
+    "name": "AnupamKumar-1/Hoovik",
+    "stars": 7,
+    "updated_at": "2026-08-12T13:44:42Z",
+    "url": "https://github.com/AnupamKumar-1/Hoovik"
   },
   {
-    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc",
-    "id": "labring/FastGPT",
+    "description": "Private, 100% local AI assistant that turns your Obsidian vault into a semantic second brain \u2014 accessed via Telegram. Ze",
+    "id": "rufae/Rafita",
+    "language": "Python",
+    "name": "rufae/Rafita",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:42:28Z",
+    "url": "https://github.com/rufae/Rafita"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:41:41Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service\uff0calternative to slack + zen",
+    "id": "Bytedesk/bytedesk",
+    "language": "Java",
+    "name": "Bytedesk/bytedesk",
+    "stars": 465,
+    "updated_at": "2026-08-12T13:41:35Z",
+    "url": "https://github.com/Bytedesk/bytedesk"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code \u2014 105 skills, 36 agents, 217 hooks. Production-ready patterns for fu",
+    "id": "yonatangross/orchestkit",
     "language": "TypeScript",
-    "name": "labring/FastGPT",
-    "stars": 29342,
-    "updated_at": "2026-08-12T13:23:55Z",
-    "url": "https://github.com/labring/FastGPT"
+    "name": "yonatangross/orchestkit",
+    "stars": 218,
+    "updated_at": "2026-08-12T13:41:28Z",
+    "url": "https://github.com/yonatangross/orchestkit"
   },
   {
-    "description": "Open-source memory runtime for AI agents \u2014 reproducible, provenance-tagged context bundles instead of query-time retriev",
-    "id": "smaramwbc/statewave",
-    "language": "Python",
-    "name": "smaramwbc/statewave",
-    "stars": 309,
-    "updated_at": "2026-08-12T13:23:55Z",
-    "url": "https://github.com/smaramwbc/statewave"
-  },
-  {
-    "description": "MCP server for semantic hybrid search (sqlite-vec + FTS5 with optional cross-encoder reranking) over a Markdown / plain-",
-    "id": "alphabet-h/kb-mcp",
-    "language": "Rust",
-    "name": "alphabet-h/kb-mcp",
+    "description": "Sovereign Local AI Workspace & LLM Runtime Manager. Easily Run GGUF, MLX, OpenAI, Gemini, etc. Under One Unified Interfa",
+    "id": "lm-webui/lm-webui",
+    "language": "TypeScript",
+    "name": "lm-webui/lm-webui",
     "stars": 3,
-    "updated_at": "2026-08-12T13:23:36Z",
-    "url": "https://github.com/alphabet-h/kb-mcp"
+    "updated_at": "2026-08-12T13:40:44Z",
+    "url": "https://github.com/lm-webui/lm-webui"
   },
   {
-    "description": "AI service for StudyLife \u2014 RAG-powered study assistant with agentic actions (LangGraph + FastAPI), source-cited answers ",
-    "id": "lukislp/studylife-ai",
-    "language": "Python",
-    "name": "lukislp/studylife-ai",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:23:25Z",
-    "url": "https://github.com/lukislp/studylife-ai"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:23:01Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Self-hosted, agent-first long-term memory with Qdrant, MCP, and Claude Code integration.",
-    "id": "Erichan12818/kb-core",
-    "language": "Python",
-    "name": "Erichan12818/kb-core",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:22:41Z",
-    "url": "https://github.com/Erichan12818/kb-core"
-  },
-  {
-    "description": "A production-grade harness for a document-grounded QA agent: a retrieve, draft, self-score, re-draft, escalate loop with",
-    "id": "aasimmalikin/agentic-qa",
-    "language": "Python",
-    "name": "aasimmalikin/agentic-qa",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:22:22Z",
-    "url": "https://github.com/aasimmalikin/agentic-qa"
-  },
-  {
-    "description": "Agent-driven system for deep novel analysis \u2014 ingests PDF/DOCX, builds a knowledge graph, and runs LLM-powered character",
-    "id": "willim9313/storysphere",
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
     "language": "TypeScript",
-    "name": "willim9313/storysphere",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:21:24Z",
-    "url": "https://github.com/willim9313/storysphere"
+    "name": "langgenius/dify",
+    "stars": 152206,
+    "updated_at": "2026-08-12T13:44:49Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
-    "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
-    "id": "DBlassio/rag-arxiv-fds",
+    "description": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
+    "id": "qdrant/fastembed",
     "language": "Python",
-    "name": "DBlassio/rag-arxiv-fds",
+    "name": "qdrant/fastembed",
+    "stars": 3137,
+    "updated_at": "2026-08-12T13:41:22Z",
+    "url": "https://github.com/qdrant/fastembed"
+  },
+  {
+    "description": "Agent Skills for NVIDIA products \u2014 install into Claude Code, Codex, and other coding agents to run Physical AI, robotics",
+    "id": "NVIDIA/skills",
+    "language": "Python",
+    "name": "NVIDIA/skills",
+    "stars": 2867,
+    "updated_at": "2026-08-12T13:39:51Z",
+    "url": "https://github.com/NVIDIA/skills"
+  },
+  {
+    "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5c\u52a9\u624bAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
+    "id": "Athas-Ed/Logos",
+    "language": "Python",
+    "name": "Athas-Ed/Logos",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:39:49Z",
+    "url": "https://github.com/Athas-Ed/Logos"
+  },
+  {
+    "description": "Fresh-history public sanitized RAGTune governance validation bundle.",
+    "id": "AIM-RAGTune/rag-tuning-governance",
+    "language": "Python",
+    "name": "AIM-RAGTune/rag-tuning-governance",
     "stars": 0,
-    "updated_at": "2026-08-12T13:21:15Z",
-    "url": "https://github.com/DBlassio/rag-arxiv-fds"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:21:12Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4011,
-    "updated_at": "2026-08-12T13:28:07Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:20:23Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
-    "id": "Berserk-hub150/moodle-ai-skill-navigator",
-    "language": "PHP",
-    "name": "Berserk-hub150/moodle-ai-skill-navigator",
-    "stars": 159,
-    "updated_at": "2026-08-12T13:20:13Z",
-    "url": "https://github.com/Berserk-hub150/moodle-ai-skill-navigator"
-  },
-  {
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Cla",
-    "id": "hjxwz123/Aivory",
-    "language": "Go",
-    "name": "hjxwz123/Aivory",
-    "stars": 5,
-    "updated_at": "2026-08-12T13:20:09Z",
-    "url": "https://github.com/hjxwz123/Aivory"
+    "updated_at": "2026-08-12T13:39:17Z",
+    "url": "https://github.com/AIM-RAGTune/rag-tuning-governance"
   },
   {
     "description": "\ud83e\udd57 AI Nutrition Assistant / AI \u667a\u80fd\u8425\u517b\u5e08 \u2014 Photo food recognition, AI nutrition analysis & personalized dietary advice. \u62cd\u7167\u8bc6\u522b\u98df",
@@ -419,26 +167,233 @@
     "language": "Python",
     "name": "Green-hats/NutriGo",
     "stars": 2,
-    "updated_at": "2026-08-12T13:19:08Z",
+    "updated_at": "2026-08-12T13:39:15Z",
     "url": "https://github.com/Green-hats/NutriGo"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3254,
-    "updated_at": "2026-08-12T13:19:02Z",
-    "url": "https://github.com/neomjs/neo"
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 13,
+    "updated_at": "2026-08-12T13:39:13Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "A RAG-based conversational AI for knowledge seekers and autodidactic learners.",
-    "id": "Aaryam-7d6/knowledge-seeker-chatbot-streamlit-live",
+    "description": "Context Collapse \u2014 Benchmarking hierarchical memory, RAG, and summarization for long-horizon LLM agents.",
+    "id": "ebaadraheem/Context-Collapse_Research",
     "language": "Python",
-    "name": "Aaryam-7d6/knowledge-seeker-chatbot-streamlit-live",
-    "stars": 5,
-    "updated_at": "2026-08-12T13:19:01Z",
-    "url": "https://github.com/Aaryam-7d6/knowledge-seeker-chatbot-streamlit-live"
+    "name": "ebaadraheem/Context-Collapse_Research",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:38:47Z",
+    "url": "https://github.com/ebaadraheem/Context-Collapse_Research"
+  },
+  {
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
+    "id": "Bike4Mind/bike4mind",
+    "language": "TypeScript",
+    "name": "Bike4Mind/bike4mind",
+    "stars": 85,
+    "updated_at": "2026-08-12T13:44:05Z",
+    "url": "https://github.com/Bike4Mind/bike4mind"
+  },
+  {
+    "description": "Local-first personal AI assistant: runs local LLMs with approval-gated tools and retrieval memory, fully offline \u2014 for c",
+    "id": "PapaKoftes/Layla",
+    "language": "Python",
+    "name": "PapaKoftes/Layla",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:37:53Z",
+    "url": "https://github.com/PapaKoftes/Layla"
+  },
+  {
+    "description": "The helm, not the autopilot \u2014 self-hosted cockpit for parallel Claude Code sessions, with your project memory auto-injec",
+    "id": "ninabot-ch/sokkan",
+    "language": "Python",
+    "name": "ninabot-ch/sokkan",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:37:50Z",
+    "url": "https://github.com/ninabot-ch/sokkan"
+  },
+  {
+    "description": "Context-aware AI grounding responses in verified Islamic scholarship \u2014 fights misinformation with structured retrieval. ",
+    "id": "ameedanxari/shamelagpt",
+    "language": "Swift",
+    "name": "ameedanxari/shamelagpt",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:37:46Z",
+    "url": "https://github.com/ameedanxari/shamelagpt"
+  },
+  {
+    "description": "RAG assistant answering questions grounded in a real library's source code and docs together, with AST-based code chunki",
+    "id": "Tej2426/rag-assistant",
+    "language": "Python",
+    "name": "Tej2426/rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:37:40Z",
+    "url": "https://github.com/Tej2426/rag-assistant"
+  },
+  {
+    "description": "A RAG pipeline engine for scale",
+    "id": "inherent-prime/inherent",
+    "language": "Python",
+    "name": "inherent-prime/inherent",
+    "stars": 4,
+    "updated_at": "2026-08-12T13:37:26Z",
+    "url": "https://github.com/inherent-prime/inherent"
+  },
+  {
+    "description": "AI research assistant for prosthetics, orthotics & rehabilitation robotics papers. RAG pipeline with streaming citations",
+    "id": "advien/poar-research-assistant",
+    "language": "TypeScript",
+    "name": "advien/poar-research-assistant",
+    "stars": 4,
+    "updated_at": "2026-08-12T13:37:19Z",
+    "url": "https://github.com/advien/poar-research-assistant"
+  },
+  {
+    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
+    "id": "elchemista/vettore",
+    "language": "Elixir",
+    "name": "elchemista/vettore",
+    "stars": 22,
+    "updated_at": "2026-08-12T13:37:09Z",
+    "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 Agentic RAG \u667a\u80fd\u4f53 - \u5168\u94fe\u8def\u8986\u76d6\u6587\u6863\u89e3\u6790\u3001\u591a\u8def\u68c0\u7d22\u3001\u610f\u56fe\u8bc6\u522b\u3001\u95ee\u9898\u91cd\u5199\u3001\u4f1a\u8bdd\u8bb0\u5fc6\u3001MCP \u5de5\u5177\u8c03\u7528\u4e0e\u6df1\u5ea6\u601d\u8003\u3002\u9762\u5411\u771f\u5b9e\u4e1a\u52a1\u573a\u666f\uff0c\u4ece 0 \u5230 1 \u5b8c\u6574\u5de5\u7a0b\u5b9e\u73b0\u3002",
+    "id": "nageoffer/ragent",
+    "language": "Java",
+    "name": "nageoffer/ragent",
+    "stars": 3534,
+    "updated_at": "2026-08-12T13:37:00Z",
+    "url": "https://github.com/nageoffer/ragent"
+  },
+  {
+    "description": "Chatbot RAG oparty na sekcji \"pomoc\"  z allegro. ",
+    "id": "OskarOG1/Chatbot-RAG",
+    "language": "Python",
+    "name": "OskarOG1/Chatbot-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:36:45Z",
+    "url": "https://github.com/OskarOG1/Chatbot-RAG"
+  },
+  {
+    "description": "Assistente universitario multiagente com FastAPI, LangGraph e RAG, publicado no Azure.",
+    "id": "henriquebotelhogomes/UsiEdu",
+    "language": "HTML",
+    "name": "henriquebotelhogomes/UsiEdu",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:36:42Z",
+    "url": "https://github.com/henriquebotelhogomes/UsiEdu"
+  },
+  {
+    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
+    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "language": "JavaScript",
+    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:36:05Z",
+    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
+  },
+  {
+    "description": "Open\u2011source web app for AI\u2011assisted literature management and academic review writing. Free for non\u2011commercial use.",
+    "id": "bulls-cows/paper",
+    "language": "TypeScript",
+    "name": "bulls-cows/paper",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:36:02Z",
+    "url": "https://github.com/bulls-cows/paper"
+  },
+  {
+    "description": "LLM-powered support ticket classifier and response drafter, grounded in historical precedents.",
+    "id": "AvitalFinanaser/relay-ticket-triage",
+    "language": "Jupyter Notebook",
+    "name": "AvitalFinanaser/relay-ticket-triage",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:35:45Z",
+    "url": "https://github.com/AvitalFinanaser/relay-ticket-triage"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12876,
+    "updated_at": "2026-08-12T13:42:39Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Production-grade full-stack AI chat platform with RAG, tools, agents, MCP, and voice.",
+    "id": "pateatlau/fullstack-ai-platform",
+    "language": "Python",
+    "name": "pateatlau/fullstack-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:35:08Z",
+    "url": "https://github.com/pateatlau/fullstack-ai-platform"
+  },
+  {
+    "description": "API-backed multimodal video RAG vertical slice with Qdrant, Claude, timestamped citations, and evidence inspection",
+    "id": "ggindinson/signaldesk-multimodal-rag",
+    "language": "Python",
+    "name": "ggindinson/signaldesk-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:34:44Z",
+    "url": "https://github.com/ggindinson/signaldesk-multimodal-rag"
+  },
+  {
+    "description": "NestJS Helper + AI Chatbot Development",
+    "id": "samchon/nestia",
+    "language": "TypeScript",
+    "name": "samchon/nestia",
+    "stars": 2172,
+    "updated_at": "2026-08-12T13:44:33Z",
+    "url": "https://github.com/samchon/nestia"
+  },
+  {
+    "description": "A TypeScript memory substrate for AI agents featuring human-like decay, consolidation, trait crystallization, and MMR re",
+    "id": "v1b3x0r/living-memory-engine",
+    "language": "TypeScript",
+    "name": "v1b3x0r/living-memory-engine",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:34:13Z",
+    "url": "https://github.com/v1b3x0r/living-memory-engine"
+  },
+  {
+    "description": "Durable, harness-agnostic memory and context for coding agents",
+    "id": "cairnkeep/cairnkeep",
+    "language": "JavaScript",
+    "name": "cairnkeep/cairnkeep",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:33:58Z",
+    "url": "https://github.com/cairnkeep/cairnkeep"
+  },
+  {
+    "description": "End-to-end Retrieval-Augmented Generation (RAG) analytics application built with Streamlit, Pandas, Plotly, YAML prompt ",
+    "id": "NishaVijai/streamlit-rag-data-analyst",
+    "language": "Python",
+    "name": "NishaVijai/streamlit-rag-data-analyst",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:33:57Z",
+    "url": "https://github.com/NishaVijai/streamlit-rag-data-analyst"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:33:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u57fa\u4e8e Spring Boot 3 + Spring AI \u7684\u533b\u9662\u751f\u4ea7\u7ea7 AI \u95ee\u8bca\u540e\u7aef\uff1a\u5b98\u65b9 ChatMemory + \u81ea\u5b9a\u4e49\u4ed3\u50a8\uff08ShardingSphere-JDBC 16\u5206\u8868 + Redis \u7f13\u5b58\u3001Protobuf \u5e8f\u5217\u5316\uff09\uff0cSpri",
+    "id": "xxinjie21/springai-med-qa",
+    "language": "Java",
+    "name": "xxinjie21/springai-med-qa",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:33:15Z",
+    "url": "https://github.com/xxinjie21/springai-med-qa"
   },
   {
     "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
@@ -446,7 +401,52 @@
     "language": "Python",
     "name": "schuecl/nexus-rag",
     "stars": 2,
-    "updated_at": "2026-08-12T13:26:15Z",
+    "updated_at": "2026-08-12T13:33:10Z",
     "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
+    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
+    "id": "NikolaiSachok/ai-engineering-handbook",
+    "language": "Python",
+    "name": "NikolaiSachok/ai-engineering-handbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:32:39Z",
+    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
+  },
+  {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 87390,
+    "updated_at": "2026-08-12T13:32:28Z",
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "description": "Fully offline RAG Q&A assistant for Vera-Finance \u2014 local retrieval + on-device inference via Microsoft Foundry Local, no",
+    "id": "OmerHarmankayaC/Vera_RAG_Assistant",
+    "language": "Python",
+    "name": "OmerHarmankayaC/Vera_RAG_Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:32:06Z",
+    "url": "https://github.com/OmerHarmankayaC/Vera_RAG_Assistant"
+  },
+  {
+    "description": "Better, open-source, LLM wrapper (user management, text processing, file processing, image generation, web search, local",
+    "id": "asya-ai/asya-chat-ui",
+    "language": "Python",
+    "name": "asya-ai/asya-chat-ui",
+    "stars": 9,
+    "updated_at": "2026-08-12T13:31:59Z",
+    "url": "https://github.com/asya-ai/asya-chat-ui"
+  },
+  {
+    "description": "Local-first Windows AI workspace for cited RAG and safe CSV data analysis.",
+    "id": "HBG129/knowbase",
+    "language": "Python",
+    "name": "HBG129/knowbase",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:31:54Z",
+    "url": "https://github.com/HBG129/knowbase"
   }
 ]
