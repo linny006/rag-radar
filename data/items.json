@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19014,
+    "updated_at": "2026-08-12T19:47:22Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 2,
+    "updated_at": "2026-08-12T19:45:55Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "Self-improving, self-hosted memory across every AI coding tool, project, and team (Claude Code, Cursor, Copilot, any MCP",
+    "id": "bejranonda/ExternalBrain",
+    "language": "TypeScript",
+    "name": "bejranonda/ExternalBrain",
+    "stars": 2,
+    "updated_at": "2026-08-12T19:47:08Z",
+    "url": "https://github.com/bejranonda/ExternalBrain"
+  },
+  {
+    "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for productio",
+    "id": "Protocol-Lattice/go-agent",
+    "language": "Go",
+    "name": "Protocol-Lattice/go-agent",
+    "stars": 253,
+    "updated_at": "2026-08-12T19:47:19Z",
+    "url": "https://github.com/Protocol-Lattice/go-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T19:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-agent AI video interview platform \u2014 auto-generates interview plans from JD + resume, runs staged multi-round inter",
+    "id": "lulululu-debug/AutoView",
+    "language": "Python",
+    "name": "lulululu-debug/AutoView",
+    "stars": 1,
+    "updated_at": "2026-08-12T19:45:19Z",
+    "url": "https://github.com/lulululu-debug/AutoView"
+  },
+  {
     "description": "Una memoria de I+D sobre Agno, construida al rev\u00e9s: primero el instrumento que mide, despu\u00e9s el sistema que se mide.",
     "id": "Jorge-Medina-Diaz/research-RAG",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:45:04Z",
     "url": "https://github.com/Jorge-Medina-Diaz/research-RAG"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19014,
-    "updated_at": "2026-08-12T19:44:42Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Universal Agent Builder \u4e07\u80fdAgent\u6784\u5efa\u5668 \u2014 10-layer spec-driven agent development framework with 6 framework adapters (LangGra",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-08-12T19:44:01Z",
+    "updated_at": "2026-08-12T19:46:06Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T19:42:32Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
-    "id": "xyver/daedal-map",
-    "language": "Python",
-    "name": "xyver/daedal-map",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:42:16Z",
-    "url": "https://github.com/xyver/daedal-map"
   },
   {
     "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "prjct-app/cli",
     "stars": 1,
-    "updated_at": "2026-08-12T19:40:40Z",
+    "updated_at": "2026-08-12T19:47:13Z",
     "url": "https://github.com/prjct-app/cli"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "proovcme/les_rag_public",
     "stars": 5,
-    "updated_at": "2026-08-12T19:38:35Z",
+    "updated_at": "2026-08-12T19:46:47Z",
     "url": "https://github.com/proovcme/les_rag_public"
   },
   {
@@ -333,21 +378,12 @@
     "url": "https://github.com/sturlese/stigmergy"
   },
   {
-    "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for productio",
-    "id": "Protocol-Lattice/go-agent",
-    "language": "Go",
-    "name": "Protocol-Lattice/go-agent",
-    "stars": 253,
-    "updated_at": "2026-08-12T19:40:23Z",
-    "url": "https://github.com/Protocol-Lattice/go-agent"
-  },
-  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 47,
-    "updated_at": "2026-08-12T19:34:24Z",
+    "updated_at": "2026-08-12T19:45:21Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -405,24 +441,6 @@
     "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:30:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
     "id": "sepahead/sepahead",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:30:24Z",
     "url": "https://github.com/sepahead/sepahead"
-  },
-  {
-    "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
-    "id": "kenhayward/Diariz",
-    "language": "C#",
-    "name": "kenhayward/Diariz",
-    "stars": 3,
-    "updated_at": "2026-08-12T19:30:18Z",
-    "url": "https://github.com/kenhayward/Diariz"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:30:13Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
