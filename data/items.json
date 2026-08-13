@@ -1,10 +1,91 @@
 [
   {
+    "description": "Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deep",
+    "id": "michaelwilhelmsen/humla",
+    "language": "Rust",
+    "name": "michaelwilhelmsen/humla",
+    "stars": 201,
+    "updated_at": "2026-08-13T22:03:19Z",
+    "url": "https://github.com/michaelwilhelmsen/humla"
+  },
+  {
+    "description": "Production-ready AI Resume Intelligence & ATS platform with Gemini, RAG, hybrid search, candidate ranking, job matching,",
+    "id": "baramee-chaisuwan/AI-Document-Intelligence",
+    "language": "Python",
+    "name": "baramee-chaisuwan/AI-Document-Intelligence",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:02:55Z",
+    "url": "https://github.com/baramee-chaisuwan/AI-Document-Intelligence"
+  },
+  {
+    "description": "Deterministic AI agent orchestration \u2014 comment via Discussions & Issues; code changes by maintainers only.",
+    "id": "insightitsGit/ChorusGraph",
+    "language": "Python",
+    "name": "insightitsGit/ChorusGraph",
+    "stars": 6,
+    "updated_at": "2026-08-13T22:01:58Z",
+    "url": "https://github.com/insightitsGit/ChorusGraph"
+  },
+  {
+    "description": "MCP server for Autodesk Flame \u2014 clip control, timelines, and effects with RAG search, anti-hallucination safety, and sel",
+    "id": "abrahamADSK/flame-mcp",
+    "language": "Python",
+    "name": "abrahamADSK/flame-mcp",
+    "stars": 7,
+    "updated_at": "2026-08-13T22:01:12Z",
+    "url": "https://github.com/abrahamADSK/flame-mcp"
+  },
+  {
+    "description": "codegraph is a local-first code context engine and MCP server for repositories. It incrementally indexes source code int",
+    "id": "isink17/codegraph",
+    "language": "Go",
+    "name": "isink17/codegraph",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:01:00Z",
+    "url": "https://github.com/isink17/codegraph"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:00:43Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "\ud83e\uddea Experimental local-first RAG with desktop GUI \u2014 drop documents in a folder, chat with them. Ollama / fastembed / OCR /",
+    "id": "jrounds99/ez-rag",
+    "language": "Python",
+    "name": "jrounds99/ez-rag",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:34Z",
+    "url": "https://github.com/jrounds99/ez-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T22:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T22:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Build Real-Time Knowledge Graphs for AI Agents",
     "id": "getzep/graphiti",
     "language": "Python",
     "name": "getzep/graphiti",
-    "stars": 29893,
+    "stars": 29895,
     "updated_at": "2026-08-13T21:59:47Z",
     "url": "https://github.com/getzep/graphiti"
   },
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31583,
-    "updated_at": "2026-08-13T21:59:38Z",
+    "updated_at": "2026-08-13T22:03:45Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "iDiagoValeta/localOllamaRAG",
     "stars": 13,
-    "updated_at": "2026-08-13T21:56:50Z",
+    "updated_at": "2026-08-13T22:02:31Z",
     "url": "https://github.com/iDiagoValeta/localOllamaRAG"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Production-ready AI Resume Intelligence & ATS platform with Gemini, RAG, hybrid search, candidate ranking, job matching,",
-    "id": "baramee-chaisuwan/AI-Document-Intelligence",
-    "language": "Python",
-    "name": "baramee-chaisuwan/AI-Document-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:51:27Z",
-    "url": "https://github.com/baramee-chaisuwan/AI-Document-Intelligence"
-  },
-  {
     "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
     "id": "vcmf/dim0",
     "language": "TypeScript",
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "jasonssdev/openkos",
     "stars": 2,
-    "updated_at": "2026-08-13T21:51:11Z",
+    "updated_at": "2026-08-13T22:00:35Z",
     "url": "https://github.com/jasonssdev/openkos"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 249,
     "updated_at": "2026-08-13T21:48:44Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Local, source-grounded RAG over a CV \u2014 Spring Boot 3, hand-rolled retrieval on Ollama + pgvector, with retry, circuit br",
-    "id": "egecoskun121/cv-rag-bot",
-    "language": "Java",
-    "name": "egecoskun121/cv-rag-bot",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:55:57Z",
-    "url": "https://github.com/egecoskun121/cv-rag-bot"
-  },
-  {
-    "description": "Local-first, provider-neutral contracts and runtimes for records, retrieval, RAG, durable execution, and stateless MCP.",
-    "id": "Univeracity/vyral",
-    "language": "C#",
-    "name": "Univeracity/vyral",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:47:24Z",
-    "url": "https://github.com/Univeracity/vyral"
-  },
-  {
-    "description": "MCP server for Autodesk Flame \u2014 clip control, timelines, and effects with RAG search, anti-hallucination safety, and sel",
-    "id": "abrahamADSK/flame-mcp",
-    "language": "Python",
-    "name": "abrahamADSK/flame-mcp",
-    "stars": 7,
-    "updated_at": "2026-08-13T21:58:01Z",
-    "url": "https://github.com/abrahamADSK/flame-mcp"
-  },
-  {
-    "description": "AI\uac00 HWP\u00b7HWPX\ub97c \uc9c1\uc811 \uc77d\uac8c \ud558\ub294 \uc2a4\ud0ac. SKILL.md\uc640 \ud55c\uae00 \ubb38\uc11c\ub97c \ucc57\ubd07\uc5d0 \ud568\uaed8 \ucca8\ubd80\ud558\uba74 \ub05d. \ubcd1\ud569 \ud45c\u00b72\u00b73\ub2e8 \ud5e4\ub354\u00b7\ud45c \uc548\uc758 \ud45c\u00b7\uc228\uc740 \uba54\ubaa8\u00b7\ubcc0\uacbd\ucd94\uc801\uae4c\uc9c0 \ubcf4\uc874. \uc758\uc874\uc131 0, \uc77d\uae30 \uc804\uc6a9.",
-    "id": "renovys/ai-hwp-reader",
-    "language": "Python",
-    "name": "renovys/ai-hwp-reader",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:46:50Z",
-    "url": "https://github.com/renovys/ai-hwp-reader"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T21:45:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing ",
-    "id": "VeriTeknik/pluggedin-app",
-    "language": "TypeScript",
-    "name": "VeriTeknik/pluggedin-app",
-    "stars": 98,
-    "updated_at": "2026-08-13T21:46:17Z",
-    "url": "https://github.com/VeriTeknik/pluggedin-app"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T21:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:45:27Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
