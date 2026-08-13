@@ -1,5 +1,68 @@
 [
   {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 21,
+    "updated_at": "2026-08-13T23:01:00Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "Grounded QA over the EU AI Act where the evaluation harness is the deliverable: retrieval, faithfulness and hallucinatio",
+    "id": "aghasalim/eu-ai-act-rag",
+    "language": "HTML",
+    "name": "aghasalim/eu-ai-act-rag",
+    "stars": 0,
+    "updated_at": "2026-08-13T23:00:45Z",
+    "url": "https://github.com/aghasalim/eu-ai-act-rag"
+  },
+  {
+    "description": "AI-ready pentest/bug-bounty scenario dataset: generalized condition/step/impact/remediation playbooks grounded in real, ",
+    "id": "AlaBYahya/pwn-scenarios",
+    "language": "Python",
+    "name": "AlaBYahya/pwn-scenarios",
+    "stars": 0,
+    "updated_at": "2026-08-13T23:00:43Z",
+    "url": "https://github.com/AlaBYahya/pwn-scenarios"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7\u77e5\u8bc6\u7ba1\u7406\u5e73\u53f0\uff1a\u4e0a\u4f20\u6587\u6863\u5373\u53ef\u83b7\u5f97\u5e26\u5f15\u7528\u6765\u6e90\u4e0e\u7f6e\u4fe1\u5ea6\u7684 RAG \u667a\u80fd\u95ee\u7b54\uff0c\u4ee5\u53ca LangGraph \u7f16\u6392\u7684 Agent \u5de5\u4f5c\u6d41\uff08\u542b human-in-the-loop \u4eba\u5de5\u786e\u8ba4\u8282\u70b9\uff09\u3002Spring Boot 3 + Vue 3 + Fas",
+    "id": "shanhuhai12138/KnowledgeFlow-AI",
+    "language": "Java",
+    "name": "shanhuhai12138/KnowledgeFlow-AI",
+    "stars": 4,
+    "updated_at": "2026-08-13T23:00:30Z",
+    "url": "https://github.com/shanhuhai12138/KnowledgeFlow-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\u6d77\u5916\u30c6\u30c3\u30af\u30cb\u30e5\u30fc\u30b9\u3092\u81ea\u52d5\u53ce\u96c6\u3057\u3001AI\u3067\u7ffb\u8a33\u30fb\u8981\u7d04\u30fb\u6295\u8cc7\u6587\u8108\u3092\u5206\u6790\u3059\u308b\u30ea\u30b5\u30fc\u30c1\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9",
+    "id": "yook11/Vector",
+    "language": "Python",
+    "name": "yook11/Vector",
+    "stars": 1,
+    "updated_at": "2026-08-13T23:00:21Z",
+    "url": "https://github.com/yook11/Vector"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 6,
     "updated_at": "2026-08-13T22:56:30Z",
     "url": "https://github.com/Mubder/kazma"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7\u77e5\u8bc6\u7ba1\u7406\u5e73\u53f0\uff1a\u4e0a\u4f20\u6587\u6863\u5373\u53ef\u83b7\u5f97\u5e26\u5f15\u7528\u6765\u6e90\u4e0e\u7f6e\u4fe1\u5ea6\u7684 RAG \u667a\u80fd\u95ee\u7b54\uff0c\u4ee5\u53ca LangGraph \u7f16\u6392\u7684 Agent \u5de5\u4f5c\u6d41\uff08\u542b human-in-the-loop \u4eba\u5de5\u786e\u8ba4\u8282\u70b9\uff09\u3002Spring Boot 3 + Vue 3 + Fas",
-    "id": "shanhuhai12138/KnowledgeFlow-AI",
-    "language": "Java",
-    "name": "shanhuhai12138/KnowledgeFlow-AI",
-    "stars": 4,
-    "updated_at": "2026-08-13T22:55:38Z",
-    "url": "https://github.com/shanhuhai12138/KnowledgeFlow-AI"
   },
   {
     "description": "Local, source-grounded RAG over a CV \u2014 Spring Boot 3, hand-rolled retrieval on Ollama + pgvector, with retry, circuit br",
@@ -324,15 +378,6 @@
     "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
   },
   {
-    "description": "AI-ready pentest/bug-bounty scenario dataset: generalized condition/step/impact/remediation playbooks grounded in real, ",
-    "id": "AlaBYahya/pwn-scenarios",
-    "language": "Python",
-    "name": "AlaBYahya/pwn-scenarios",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:46:17Z",
-    "url": "https://github.com/AlaBYahya/pwn-scenarios"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -358,24 +403,6 @@
     "stars": 66228,
     "updated_at": "2026-08-13T22:45:21Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:45:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Provider-agnostic semantic memory service with multimodal ingestion, hybrid retrieval, knowledge graphs, and RAG-powered",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T22:44:10Z",
     "url": "https://github.com/narenkumararajah1/Scout"
-  },
-  {
-    "description": "Agent Skills for NVIDIA products \u2014 install into Claude Code, Codex, and other coding agents to run Physical AI, robotics",
-    "id": "NVIDIA/skills",
-    "language": "Python",
-    "name": "NVIDIA/skills",
-    "stars": 2919,
-    "updated_at": "2026-08-13T22:43:57Z",
-    "url": "https://github.com/NVIDIA/skills"
-  },
-  {
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
-    "id": "AgentsKit-io/agentskit",
-    "language": "TypeScript",
-    "name": "AgentsKit-io/agentskit",
-    "stars": 21,
-    "updated_at": "2026-08-13T22:45:09Z",
-    "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:42:06Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
