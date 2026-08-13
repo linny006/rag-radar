@@ -1,5 +1,68 @@
 [
   {
+    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 38838,
+    "updated_at": "2026-08-13T19:45:15Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-08-13T19:45:03Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31582,
+    "updated_at": "2026-08-13T19:44:51Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deep",
+    "id": "michaelwilhelmsen/humla",
+    "language": "Rust",
+    "name": "michaelwilhelmsen/humla",
+    "stars": 201,
+    "updated_at": "2026-08-13T19:44:24Z",
+    "url": "https://github.com/michaelwilhelmsen/humla"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T19:44:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T19:43:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-13T19:43:30Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "Agentic memory built on Postgres",
     "id": "timescale/memory-engine",
     "language": "TypeScript",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 430,
-    "updated_at": "2026-08-13T19:42:09Z",
+    "updated_at": "2026-08-13T19:44:34Z",
     "url": "https://github.com/caura-ai/caura"
   },
   {
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19040,
-    "updated_at": "2026-08-13T19:39:59Z",
+    "updated_at": "2026-08-13T19:45:01Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T19:37:59Z",
     "url": "https://github.com/LPK3215/agentbase"
-  },
-  {
-    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
-    "id": "HKUDS/LightRAG",
-    "language": "Python",
-    "name": "HKUDS/LightRAG",
-    "stars": 38838,
-    "updated_at": "2026-08-13T19:40:44Z",
-    "url": "https://github.com/HKUDS/LightRAG"
   },
   {
     "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
@@ -297,15 +351,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-13T19:43:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Build resilient agents.",
     "id": "langchain-ai/langgraph",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T19:32:54Z",
     "url": "https://github.com/schuecl/nexus-rag"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:32:54Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Agent Skills for NVIDIA products \u2014 install into Claude Code, Codex, and other coding agents to run Physical AI, robotics",
-    "id": "NVIDIA/skills",
-    "language": "Python",
-    "name": "NVIDIA/skills",
-    "stars": 2914,
-    "updated_at": "2026-08-13T19:32:38Z",
-    "url": "https://github.com/NVIDIA/skills"
-  },
-  {
-    "description": "Access the Claude Mythos AI model through a native desktop application for coding, reasoning, and multimodal assistance.",
-    "id": "Betor4583/Claude-Mythos-AI-Free-desktop",
-    "language": "\u2014",
-    "name": "Betor4583/Claude-Mythos-AI-Free-desktop",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:32:30Z",
-    "url": "https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop"
-  },
-  {
-    "description": "Patch WeMod to enable premium features for single-player games on Windows using this .NET 8 tool.",
-    "id": "Natalinefenestral664/WeMod-Pro-Patcher",
-    "language": "\u2014",
-    "name": "Natalinefenestral664/WeMod-Pro-Patcher",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:32:29Z",
-    "url": "https://github.com/Natalinefenestral664/WeMod-Pro-Patcher"
-  },
-  {
-    "description": "Build agentic workflows with long-term memory and RAG to convert data into action.",
-    "id": "marthiram4878/norma-ai-agent-platform",
-    "language": "Python",
-    "name": "marthiram4878/norma-ai-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:32:28Z",
-    "url": "https://github.com/marthiram4878/norma-ai-agent-platform"
   }
 ]
