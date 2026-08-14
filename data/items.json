@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multimodal Agent Harness for overseas jigsaw puzzle content operations with VLM, RAG, Memory, HITL, Eval, FastAPI and Fe",
+    "id": "FangLemin/puzzle-agent",
+    "language": "Python",
+    "name": "FangLemin/puzzle-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T11:29:56Z",
+    "url": "https://github.com/FangLemin/puzzle-agent"
+  },
+  {
+    "description": "Agentic AI platform for repository analysis, migration planning, context-grounded code transformation, and post-migratio",
+    "id": "AsaifAli/AI-Code-Modernization-Platform",
+    "language": "Python",
+    "name": "AsaifAli/AI-Code-Modernization-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-14T11:29:47Z",
+    "url": "https://github.com/AsaifAli/AI-Code-Modernization-Platform"
+  },
+  {
+    "description": "Private agent search over specialized corpora with cited answers, provenance, and schema-aware retrieval.",
+    "id": "sass-maker/knowledge-base",
+    "language": "TypeScript",
+    "name": "sass-maker/knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-08-14T11:29:28Z",
+    "url": "https://github.com/sass-maker/knowledge-base"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T11:29:11Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-14T11:28:23Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "AI compliance assistant for fintech risk teams \u2014 RAG system over the FCA Handbook with hybrid retrieval, reranking, and ",
+    "id": "RahimAbbas55/RegRadar",
+    "language": "Python",
+    "name": "RahimAbbas55/RegRadar",
+    "stars": 0,
+    "updated_at": "2026-08-14T11:28:19Z",
+    "url": "https://github.com/RahimAbbas55/RegRadar"
+  },
+  {
+    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
+    "id": "geckse/markdown-vdb",
+    "language": "Rust",
+    "name": "geckse/markdown-vdb",
+    "stars": 23,
+    "updated_at": "2026-08-14T11:28:15Z",
+    "url": "https://github.com/geckse/markdown-vdb"
+  },
+  {
+    "description": "Local-first private AI memory layer / Digital Brain for conversations, documents, decisions, and model-agnostic knowledg",
+    "id": "TaeSooPark-PTS/LatticeAI",
+    "language": "Python",
+    "name": "TaeSooPark-PTS/LatticeAI",
+    "stars": 2,
+    "updated_at": "2026-08-14T11:28:00Z",
+    "url": "https://github.com/TaeSooPark-PTS/LatticeAI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T11:27:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "benny-daniel6/Autonomous-Deep-Research-Agent-System",
     "language": "TypeScript",
@@ -81,15 +162,6 @@
     "url": "https://github.com/ryanduguid/au-tax-legislation-corpus"
   },
   {
-    "description": "Local-first private AI memory layer / Digital Brain for conversations, documents, decisions, and model-agnostic knowledg",
-    "id": "TaeSooPark-PTS/LatticeAI",
-    "language": "Python",
-    "name": "TaeSooPark-PTS/LatticeAI",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:26:28Z",
-    "url": "https://github.com/TaeSooPark-PTS/LatticeAI"
-  },
-  {
     "description": "AI support routing system with deterministic triage, bounded RAG, and local LLM inference for low-latency customer suppo",
     "id": "Yiu-dororong/AI-support-routing-system",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 73,
     "updated_at": "2026-08-14T11:26:07Z",
     "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
-  },
-  {
-    "description": "AI compliance assistant for fintech risk teams \u2014 RAG system over the FCA Handbook with hybrid retrieval, reranking, and ",
-    "id": "RahimAbbas55/RegRadar",
-    "language": "Python",
-    "name": "RahimAbbas55/RegRadar",
-    "stars": 0,
-    "updated_at": "2026-08-14T11:25:32Z",
-    "url": "https://github.com/RahimAbbas55/RegRadar"
   },
   {
     "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
@@ -211,7 +274,7 @@
     "id": "infiniflow/ragflow",
     "language": "Go",
     "name": "infiniflow/ragflow",
-    "stars": 88269,
+    "stars": 88270,
     "updated_at": "2026-08-14T11:22:37Z",
     "url": "https://github.com/infiniflow/ragflow"
   },
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T11:21:48Z",
     "url": "https://github.com/LivingLikeKrillin/khala"
-  },
-  {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:27:01Z",
-    "url": "https://github.com/Matlan1/localm"
   },
   {
     "description": "Scrape US health insurance medical policies, coverage guidelines & prior authorization criteria from Aetna, Anthem, Cign",
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19047,
-    "updated_at": "2026-08-14T11:18:23Z",
+    "updated_at": "2026-08-14T11:28:52Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -378,24 +432,6 @@
     "url": "https://github.com/sametcsk/CureMenu"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI servic",
     "id": "oracle-devrel/oracle-ai-developer-hub",
     "language": "Jupyter Notebook",
@@ -412,41 +448,5 @@
     "stars": 446,
     "updated_at": "2026-08-14T11:13:50Z",
     "url": "https://github.com/opensolon/solon-ai"
-  },
-  {
-    "description": "Local-first RAG over your own document library (PDFs, papers, books, notes). Grounded answers with inline citations, eva",
-    "id": "ldele/doc_assistant",
-    "language": "Python",
-    "name": "ldele/doc_assistant",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:13:33Z",
-    "url": "https://github.com/ldele/doc_assistant"
-  },
-  {
-    "description": "Buscador sem\u00e1ntico + RAG sobre un corpus legal de derecho registral inmobiliario, con visualizaci\u00f3n 3D del embedding spa",
-    "id": "Leonardorf/aleph-rag-legal",
-    "language": "HTML",
-    "name": "Leonardorf/aleph-rag-legal",
-    "stars": 0,
-    "updated_at": "2026-08-14T11:13:08Z",
-    "url": "https://github.com/Leonardorf/aleph-rag-legal"
-  },
-  {
-    "description": "Evidence-first brain: LadybugDB knowledge graph + hybrid RAG (model2vec) over the ops/eSlider stack. Facts need two sour",
-    "id": "eSlider/2dph",
-    "language": "Go",
-    "name": "eSlider/2dph",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:15:40Z",
-    "url": "https://github.com/eSlider/2dph"
-  },
-  {
-    "description": "codegraph is a local-first code context engine and MCP server for repositories. It incrementally indexes source code int",
-    "id": "isink17/codegraph",
-    "language": "Go",
-    "name": "isink17/codegraph",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:11:59Z",
-    "url": "https://github.com/isink17/codegraph"
   }
 ]
