@@ -1,5 +1,59 @@
 [
   {
+    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
+    "id": "kRamu81/MedTrack_Application",
+    "language": "JavaScript",
+    "name": "kRamu81/MedTrack_Application",
+    "stars": 4,
+    "updated_at": "2026-08-14T20:15:13Z",
+    "url": "https://github.com/kRamu81/MedTrack_Application"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31596,
+    "updated_at": "2026-08-14T20:14:21Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "AI sales-intelligence platform: researches companies, matches them against real delivery capabilities, and generates gro",
+    "id": "narenkumararajah1/Scout",
+    "language": "Python",
+    "name": "narenkumararajah1/Scout",
+    "stars": 0,
+    "updated_at": "2026-08-14T20:14:15Z",
+    "url": "https://github.com/narenkumararajah1/Scout"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:14:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Musubi (\u7d50\u3073) \u2014 Ai Agent shared memory and thought layer. The braiding of threads between presences.",
+    "id": "ericmey/musubi",
+    "language": "Python",
+    "name": "ericmey/musubi",
+    "stars": 6,
+    "updated_at": "2026-08-14T20:14:52Z",
+    "url": "https://github.com/ericmey/musubi"
+  },
+  {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:14:46Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
     "description": "\ud83e\udde0\ud83d\udcbb Reimagine the Internet as Self-Organizing Mind Map    \ud83e\udd16\ud83d\udd0e STREAM: Search with Top Result Extraction & Answer Model \ud83d\udcc8\ud83d\udcdd ",
     "id": "OpenSourceAGI/qwksearch-research-agent",
     "language": "TypeScript",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T20:13:06Z",
     "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 31596,
-    "updated_at": "2026-08-14T20:12:22Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
@@ -144,13 +189,13 @@
     "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
   },
   {
-    "description": "Musubi (\u7d50\u3073) \u2014 Ai Agent shared memory and thought layer. The braiding of threads between presences.",
-    "id": "ericmey/musubi",
-    "language": "Python",
-    "name": "ericmey/musubi",
-    "stars": 6,
-    "updated_at": "2026-08-14T20:07:10Z",
-    "url": "https://github.com/ericmey/musubi"
+    "description": "A full-stack AI LMS with role-based accounts, course management, depertman management, question banks, timed quiz attemp",
+    "id": "Gestusition/Quiz-LMS",
+    "language": "JavaScript",
+    "name": "Gestusition/Quiz-LMS",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:07:20Z",
+    "url": "https://github.com/Gestusition/Quiz-LMS"
   },
   {
     "description": "Practical GenAI & AI Engineering projects covering LLMs, RAG, AI agents, LangGraph, MCP, tool calling, guardrails, and L",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "MemoriLabs/Memori",
     "stars": 15950,
-    "updated_at": "2026-08-14T20:05:59Z",
+    "updated_at": "2026-08-14T20:14:19Z",
     "url": "https://github.com/MemoriLabs/Memori"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/vkiragi/MailFind"
   },
   {
-    "description": "AI sales-intelligence platform: researches companies, matches them against real delivery capabilities, and generates gro",
-    "id": "narenkumararajah1/Scout",
-    "language": "Python",
-    "name": "narenkumararajah1/Scout",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:02:36Z",
-    "url": "https://github.com/narenkumararajah1/Scout"
-  },
-  {
     "description": "Hybrid RAG: dense + BM25 + RRF, citations-or-refuse, fail-open rerank, allowlist filters, free-path evals. No API key.",
     "id": "pabloalvarez99/production-rag",
     "language": "Python",
@@ -288,15 +324,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T20:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Unified CLI over 6 commercial search APIs (Brave/Serper/Exa/Tavily/Firecrawl/Jina) \u2014 answer mode, multi-provider dedup, ",
     "id": "AnyGenIO/anygen-search-cli",
     "language": "Python",
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T20:02:25Z",
     "url": "https://github.com/Aarti-panchal01/eka"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 1,
-    "updated_at": "2026-08-14T20:14:05Z",
-    "url": "https://github.com/wish-maker/minder"
   },
   {
     "description": "Risk-controlled evaluation & release-gating for LLM/RAG/agent systems: LLM-as-judge with bias probes, Prediction-Powered",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T19:54:08Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
-    "id": "felladrin/MiniSearch",
-    "language": "TypeScript",
-    "name": "felladrin/MiniSearch",
-    "stars": 580,
-    "updated_at": "2026-08-14T19:53:11Z",
-    "url": "https://github.com/felladrin/MiniSearch"
-  },
-  {
-    "description": "Code Q&A with AST-aware chunks and path:line citations. Fixture-backed, offline, no embeddings required.",
-    "id": "pabloalvarez99/repomind",
-    "language": "Python",
-    "name": "pabloalvarez99/repomind",
-    "stars": 0,
-    "updated_at": "2026-08-14T19:53:04Z",
-    "url": "https://github.com/pabloalvarez99/repomind"
   }
 ]
