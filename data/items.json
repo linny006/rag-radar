@@ -1,5 +1,86 @@
 [
   {
+    "description": "WordPress RAG chatbot that turns office pages and documents into cited answers with feedback tools.",
+    "id": "tatselkrik/bcc-office-chatbot",
+    "language": "PHP",
+    "name": "tatselkrik/bcc-office-chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:45:18Z",
+    "url": "https://github.com/tatselkrik/bcc-office-chatbot"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4253,
+    "updated_at": "2026-08-14T09:44:45Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 88241,
+    "updated_at": "2026-08-14T09:44:38Z",
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "description": "Local-first, auditable knowledge compiler for technical docs and source code",
+    "id": "still0123/MemoryForge",
+    "language": "Python",
+    "name": "still0123/MemoryForge",
+    "stars": 4,
+    "updated_at": "2026-08-14T09:44:30Z",
+    "url": "https://github.com/still0123/MemoryForge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:44:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source metasearch backend, MCP server, and AI search API for LLM agents. Python FastAPI search gateway with Google ",
+    "id": "gefsikatsinelou/MetaSearchMCP",
+    "language": "Python",
+    "name": "gefsikatsinelou/MetaSearchMCP",
+    "stars": 52,
+    "updated_at": "2026-08-14T09:44:26Z",
+    "url": "https://github.com/gefsikatsinelou/MetaSearchMCP"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:43:45Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
+    "id": "mabaeyens/mira-core",
+    "language": "Python",
+    "name": "mabaeyens/mira-core",
+    "stars": 3,
+    "updated_at": "2026-08-14T09:43:43Z",
+    "url": "https://github.com/mabaeyens/mira-core"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:43:41Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u7d22\u9690 - Enterprise RAG Knowledge Platform",
     "id": "1y4w1s/rag-knowledge-platform",
     "language": "Python",
@@ -63,15 +144,6 @@
     "url": "https://github.com/alex-place/lantern-os"
   },
   {
-    "description": "Local-first, auditable knowledge compiler for technical docs and source code",
-    "id": "still0123/MemoryForge",
-    "language": "Python",
-    "name": "still0123/MemoryForge",
-    "stars": 4,
-    "updated_at": "2026-08-14T09:41:22Z",
-    "url": "https://github.com/still0123/MemoryForge"
-  },
-  {
     "description": "Local-first engine that grounds an AI agent's answers in your own Markdown and captures what it learns back into the KB ",
     "id": "dimosgit/grounded-knowledge-engine",
     "language": "TypeScript",
@@ -115,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T09:40:02Z",
     "url": "https://github.com/openarsenalspecs/AI-Infrastructure"
-  },
-  {
-    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
-    "id": "mabaeyens/mira-core",
-    "language": "Python",
-    "name": "mabaeyens/mira-core",
-    "stars": 3,
-    "updated_at": "2026-08-14T09:39:50Z",
-    "url": "https://github.com/mabaeyens/mira-core"
   },
   {
     "description": "Pharmacist CDSS, AI clinical decision support system built with FastAPI, LangGraph, RAG, ChromaDB, and Gemini 2.5 Flash.",
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-08-14T09:32:39Z",
+    "updated_at": "2026-08-14T09:44:19Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "bojieli/ai-agent-book",
     "stars": 37219,
-    "updated_at": "2026-08-14T09:32:09Z",
+    "updated_at": "2026-08-14T09:44:36Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -338,7 +401,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19044,
-    "updated_at": "2026-08-14T09:43:29Z",
+    "updated_at": "2026-08-14T09:44:33Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -358,24 +421,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T09:30:43Z",
     "url": "https://github.com/SagaSmithAI/Sagasmith-core"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Give your coding agent a memory that survives the session \u2014 a file format, hooks, and grounding discipline that keeps it",
@@ -403,50 +448,5 @@
     "stars": 19,
     "updated_at": "2026-08-14T09:35:29Z",
     "url": "https://github.com/qyiun666/MemHop"
-  },
-  {
-    "description": "Interest Growth \u2014 an AI-assisted system for cultivating durable interests through curiosity, evidence, practice, express",
-    "id": "hello-yunshu/interest-growth",
-    "language": "Python",
-    "name": "hello-yunshu/interest-growth",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:28:12Z",
-    "url": "https://github.com/hello-yunshu/interest-growth"
-  },
-  {
-    "description": "\u5f00\u7bb1\u5373\u7528\u7684AI\u6807\u4e66\u7f16\u5199\u5de5\u5177\uff0c\u6807\u4e66AI\u751f\u6210\u5de5\u5177\uff0c\u6295\u6807\u5de5\u5177\u7bb1\u3001\u77e5\u8bc6\u5e93\u3001\u6807\u4e66\u67e5\u91cd\u3001\u5e9f\u6807\u9879\u68c0\u67e5\uff0c\u5b8c\u5168\u5f00\u6e90\u514d\u8d39\uff0c\u6b22\u8fce\u4f7f\u7528",
-    "id": "FB208/OpenBidKit_Yibiao",
-    "language": "JavaScript",
-    "name": "FB208/OpenBidKit_Yibiao",
-    "stars": 2353,
-    "updated_at": "2026-08-14T09:27:50Z",
-    "url": "https://github.com/FB208/OpenBidKit_Yibiao"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 152430,
-    "updated_at": "2026-08-14T09:43:26Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "Local, private semantic (vector) search over any folder of Markdown files. Cross-lingual, offline, no API keys, no vecto",
-    "id": "chelslava/md-semantic-search",
-    "language": "JavaScript",
-    "name": "chelslava/md-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:25:47Z",
-    "url": "https://github.com/chelslava/md-semantic-search"
-  },
-  {
-    "description": "Ask your own notes. Get answers that cite their sources \u2014 and a daily check that tells you when a source changed underne",
-    "id": "abm9111/chamber",
-    "language": "TypeScript",
-    "name": "abm9111/chamber",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:25:46Z",
-    "url": "https://github.com/abm9111/chamber"
   }
 ]
