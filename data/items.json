@@ -1,11 +1,128 @@
 [
   {
+    "description": "cruby's capable AI runtime",
+    "id": "r-uby-dev/llm",
+    "language": "Ruby",
+    "name": "r-uby-dev/llm",
+    "stars": 136,
+    "updated_at": "2026-08-14T06:00:11Z",
+    "url": "https://github.com/r-uby-dev/llm"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3254,
+    "updated_at": "2026-08-14T05:58:33Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19044,
+    "updated_at": "2026-08-14T05:57:43Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Knowledge Stack developer docs (Mintlify). Guides, concept docs, API reference, and auto-synced SDK docs from ks-sdk-pyt",
+    "id": "knowledgestack/ks-docs",
+    "language": "MDX",
+    "name": "knowledgestack/ks-docs",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:57:36Z",
+    "url": "https://github.com/knowledgestack/ks-docs"
+  },
+  {
+    "description": "Knowledge Stack TypeScript/JavaScript SDK (@knowledge-stack/ksapi) \u2014 auto-generated from the OpenAPI spec. For most agen",
+    "id": "knowledgestack/ks-sdk-ts",
+    "language": "TypeScript",
+    "name": "knowledgestack/ks-sdk-ts",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:57:10Z",
+    "url": "https://github.com/knowledgestack/ks-sdk-ts"
+  },
+  {
+    "description": "Knowledge Stack Python SDK (ksapi) \u2014 auto-generated from the OpenAPI spec. For most agent use cases, use the MCP server ",
+    "id": "knowledgestack/ks-sdk-python",
+    "language": "Python",
+    "name": "knowledgestack/ks-sdk-python",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:57:08Z",
+    "url": "https://github.com/knowledgestack/ks-sdk-python"
+  },
+  {
+    "description": "An offline benchmark for testing document extraction across PDF, PowerPoint and Excel, with exact source provenance.",
+    "id": "sharantulsiani-ui/extractcheck",
+    "language": "Python",
+    "name": "sharantulsiani-ui/extractcheck",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:58:09Z",
+    "url": "https://github.com/sharantulsiani-ui/extractcheck"
+  },
+  {
+    "description": "\ud55c\uad6d \ubc95\ub839\uc744 \uc790\uc5f0\uc5b4\ub85c \ubb3b\uace0 \uc6d0\ubb38 \uadfc\uac70\uc640 \ud568\uaed8 \ub2f5\uc744 \ubc1b\ub294 \uac80\uc0c9 \uc11c\ube44\uc2a4. \uc2e0\uad6c\uc870\ubb38 \ube44\uad50\uc640 \ud310\ub840\u00b7\ud574\uc11d\ub840 \uc5f0\uacb0 | Ask Korean law in plain language, get answers grounded in ve",
+    "id": "chrisryugj/lexdiff",
+    "language": "TypeScript",
+    "name": "chrisryugj/lexdiff",
+    "stars": 3,
+    "updated_at": "2026-08-14T05:55:28Z",
+    "url": "https://github.com/chrisryugj/lexdiff"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:55:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 26,
+    "updated_at": "2026-08-14T05:54:23Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "An implementation of a document-centric conversational retrieval system combining semantic search, Retrieval-Augmented G",
+    "id": "Kbansheen/rag-semantic-search-document-retrieval",
+    "language": "Python",
+    "name": "Kbansheen/rag-semantic-search-document-retrieval",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:54:20Z",
+    "url": "https://github.com/Kbansheen/rag-semantic-search-document-retrieval"
+  },
+  {
+    "description": "Agentic RAG that verifies every citation against source text before answering, and abstains when the evidence does not h",
+    "id": "deepeshgupta12/agentic-rag-verified-citations",
+    "language": "Python",
+    "name": "deepeshgupta12/agentic-rag-verified-citations",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:53:57Z",
+    "url": "https://github.com/deepeshgupta12/agentic-rag-verified-citations"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:53:41Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Structure-aware document splitter for RAG \u2014 parses any document into a unified AST and chunks by section/block boundarie",
     "id": "ouyangfeng2022/lumberjack",
     "language": "Python",
     "name": "ouyangfeng2022/lumberjack",
     "stars": 1,
-    "updated_at": "2026-08-14T05:53:24Z",
+    "updated_at": "2026-08-14T05:53:55Z",
     "url": "https://github.com/ouyangfeng2022/lumberjack"
   },
   {
@@ -76,18 +193,9 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 37114,
+    "stars": 37118,
     "updated_at": "2026-08-14T05:49:39Z",
     "url": "https://github.com/bojieli/ai-agent-book"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19044,
-    "updated_at": "2026-08-14T05:52:49Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "The open-source core of RagLeap \u2014 a self-hosted RAG chat engine (document ingestion, retrieval, citations) powering RagL",
@@ -162,29 +270,11 @@
     "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
     "id": "infiniflow/ragflow",
     "language": "Go",
     "name": "infiniflow/ragflow",
-    "stars": 88132,
+    "stars": 88136,
     "updated_at": "2026-08-14T05:45:14Z",
     "url": "https://github.com/infiniflow/ragflow"
   },
@@ -315,15 +405,6 @@
     "url": "https://github.com/infino-ai/infino-cli"
   },
   {
-    "description": "Agentic RAG that verifies every citation against source text before answering, and abstains when the evidence does not h",
-    "id": "deepeshgupta12/agentic-rag-verified-citations",
-    "language": "Python",
-    "name": "deepeshgupta12/agentic-rag-verified-citations",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:38:46Z",
-    "url": "https://github.com/deepeshgupta12/agentic-rag-verified-citations"
-  },
-  {
     "description": "Self-improving, self-hosted memory across every AI coding tool, project, and team (Claude Code, Cursor, Copilot, any MCP",
     "id": "bejranonda/ExternalBrain",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T05:36:56Z",
     "url": "https://github.com/jazz1x/ohmyboring"
-  },
-  {
-    "description": "Local-first memory governance for AI agents: shared, reviewable, auditable memory via SQLite and MCP.",
-    "id": "zycaskevin/Vault-Agent-Memory",
-    "language": "Python",
-    "name": "zycaskevin/Vault-Agent-Memory",
-    "stars": 47,
-    "updated_at": "2026-08-14T05:36:48Z",
-    "url": "https://github.com/zycaskevin/Vault-Agent-Memory"
-  },
-  {
-    "description": "Ask a GitHub repository why it evolved the way it did. Local-first RAG over commits, PRs, issues and reviews \u2014 every cla",
-    "id": "sairamsrujan/RepoMind",
-    "language": "Python",
-    "name": "sairamsrujan/RepoMind",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:36:41Z",
-    "url": "https://github.com/sairamsrujan/RepoMind"
-  },
-  {
-    "description": "AI \u9a71\u52a8\u7684\u4e92\u52a8\u5c0f\u8bf4 Galgame \u5f15\u64ce\u3002\u81ea\u5907\u4efb\u610f\u5927\u6a21\u578b / \u7ed8\u56fe / TTS\uff0c\u652f\u6301\u5c0f\u8bf4 RAG \u5b66\u4e60\u3001\u6d41\u5f0f\u5267\u60c5\u3001\u7acb\u7ed8\u5dee\u5206\u4e0e\u672c\u5730\u5b58\u6863\u5bfc\u51fa\u3002",
-    "id": "ZNaiGaomu/ai-galgame",
-    "language": "TypeScript",
-    "name": "ZNaiGaomu/ai-galgame",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:36:36Z",
-    "url": "https://github.com/ZNaiGaomu/ai-galgame"
-  },
-  {
-    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo",
-    "id": "onestardao/WFGY",
-    "language": "Jupyter Notebook",
-    "name": "onestardao/WFGY",
-    "stars": 1778,
-    "updated_at": "2026-08-14T05:36:35Z",
-    "url": "https://github.com/onestardao/WFGY"
-  },
-  {
-    "description": "Does RAG actually earn its cost? ragornot runs the same query through four retrieval modes (Flat/BM25, Hierarchical, LLM",
-    "id": "Raxorr/ragornot",
-    "language": "TypeScript",
-    "name": "Raxorr/ragornot",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:36:33Z",
-    "url": "https://github.com/Raxorr/ragornot"
-  },
-  {
-    "description": "AI-optimized stash storage \u2014 dynamic RAG for agents. Store, search, and retrieve docs, code, and data on demand via MCP ",
-    "id": "fo0/clawstash",
-    "language": "TypeScript",
-    "name": "fo0/clawstash",
-    "stars": 1,
-    "updated_at": "2026-08-14T05:36:11Z",
-    "url": "https://github.com/fo0/clawstash"
-  },
-  {
-    "description": "Local RAG MCP for markdown docs \u2014 retrieval with citations from a local path or git URL (no answer LLM).",
-    "id": "alyiox/mcp-docs-ask",
-    "language": "Python",
-    "name": "alyiox/mcp-docs-ask",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:35:50Z",
-    "url": "https://github.com/alyiox/mcp-docs-ask"
-  },
-  {
-    "description": "Practical GenAI & AI Engineering projects covering LLMs, RAG, AI agents, LangGraph, MCP, tool calling, guardrails, and L",
-    "id": "pranayprasad7001/generative-ai-projects",
-    "language": "Python",
-    "name": "pranayprasad7001/generative-ai-projects",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:35:47Z",
-    "url": "https://github.com/pranayprasad7001/generative-ai-projects"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-08-14T05:35:28Z",
-    "url": "https://github.com/fewshot-works/academy"
   }
 ]
