@@ -1,12 +1,66 @@
 [
   {
-    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
-    "id": "jasonssdev/openkos",
+    "description": "Context-aware Medical Retrieval-Augmented Generation (RAG) chatbot using FAISS, Sentence Transformers, Ollama (Llama 3.2",
+    "id": "Madiha64/ContextAware-Medical-RAG",
     "language": "Python",
-    "name": "jasonssdev/openkos",
+    "name": "Madiha64/ContextAware-Medical-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:31:10Z",
+    "url": "https://github.com/Madiha64/ContextAware-Medical-RAG"
+  },
+  {
+    "description": "Muhammad Awais | AI Engineer & BS Artificial Intelligence student at FAST-NUCES Peshawar. Personal portfolio & blog buil",
+    "id": "ik-awais/ik-awais.github.io",
+    "language": "CSS",
+    "name": "ik-awais/ik-awais.github.io",
+    "stars": 1,
+    "updated_at": "2026-08-14T18:31:10Z",
+    "url": "https://github.com/ik-awais/ik-awais.github.io"
+  },
+  {
+    "description": "Retrieval-Augmented Generation platform with FAISS-based semantic search, claim-level hallucination detection, and confi",
+    "id": "yamini-nlp/prism",
+    "language": "TypeScript",
+    "name": "yamini-nlp/prism",
+    "stars": 1,
+    "updated_at": "2026-08-14T18:31:50Z",
+    "url": "https://github.com/yamini-nlp/prism"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:30:29Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "A RAG-based FastAPI docs assistant with a Streamlit UI, RAGAS evals, and Langfuse observability \u2014 built to test whether ",
+    "id": "arvindacharya/rag-docs-assistant",
+    "language": "Python",
+    "name": "arvindacharya/rag-docs-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:30:27Z",
+    "url": "https://github.com/arvindacharya/rag-docs-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-14T18:29:31Z",
-    "url": "https://github.com/jasonssdev/openkos"
+    "updated_at": "2026-08-14T18:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LangGraph agent that reads leases, insurance policies, and ToS and traces every conclusion to its source clause. Custom ",
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T18:30:09Z",
     "url": "https://github.com/NidhiDekate/ClauseGuard"
+  },
+  {
+    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
+    "id": "jasonssdev/openkos",
+    "language": "Python",
+    "name": "jasonssdev/openkos",
+    "stars": 2,
+    "updated_at": "2026-08-14T18:29:31Z",
+    "url": "https://github.com/jasonssdev/openkos"
   },
   {
     "description": "Senior DevOps / Platform Engineer portfolio - CI/CD, release automation, production reliability, Python/.NET tooling, an",
@@ -72,15 +135,6 @@
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
-    "description": "Muhammad Awais | AI Engineer & BS Artificial Intelligence student at FAST-NUCES Peshawar. Personal portfolio & blog buil",
-    "id": "ik-awais/ik-awais.github.io",
-    "language": "CSS",
-    "name": "ik-awais/ik-awais.github.io",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:26:35Z",
-    "url": "https://github.com/ik-awais/ik-awais.github.io"
-  },
-  {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
     "id": "redevops-io/RAAAL",
     "language": "HTML",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "johapark/research-wiki",
     "stars": 0,
-    "updated_at": "2026-08-14T18:24:50Z",
+    "updated_at": "2026-08-14T18:31:40Z",
     "url": "https://github.com/johapark/research-wiki"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T18:24:47Z",
     "url": "https://github.com/danielchen26/governed-multi-agent-rag"
-  },
-  {
-    "description": "Retrieval-Augmented Generation platform with FAISS-based semantic search, claim-level hallucination detection, and confi",
-    "id": "yamini-nlp/prism",
-    "language": "TypeScript",
-    "name": "yamini-nlp/prism",
-    "stars": 1,
-    "updated_at": "2026-08-14T18:24:39Z",
-    "url": "https://github.com/yamini-nlp/prism"
   },
   {
     "description": "Voice-first AI automotive diagnostic assistant for Egyptian Arabic, featuring hybrid retrieval, conversational diagnosis",
@@ -205,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T18:22:51Z",
     "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "A self-updating registry of retrieval-augmented generation technologies.",
+    "id": "laputski/rag-world",
+    "language": "Python",
+    "name": "laputski/rag-world",
+    "stars": 0,
+    "updated_at": "2026-08-14T18:22:43Z",
+    "url": "https://github.com/laputski/rag-world"
   },
   {
     "description": "Personal site and technical write-ups. Next.js + MDX, with an agentic RAG chatbot on Cloudflare Workers over every post.",
@@ -369,15 +423,6 @@
     "url": "https://github.com/liliu-z/stashbase"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T18:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF,",
     "id": "EvotecIT/OfficeIMO",
     "language": "C#",
@@ -385,15 +430,6 @@
     "stars": 504,
     "updated_at": "2026-08-14T18:15:27Z",
     "url": "https://github.com/EvotecIT/OfficeIMO"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T18:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered Coffee Barista built using Google ADK, Gemini, Streamlit and Google Cloud Run.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T18:15:23Z",
     "url": "https://github.com/sebastianspicker/mailarium"
-  },
-  {
-    "description": "Local, source-grounded RAG over a CV \u2014 Spring Boot 3, hand-rolled retrieval on Ollama + pgvector, with retry, circuit br",
-    "id": "egecoskun121/cv-rag-bot",
-    "language": "Java",
-    "name": "egecoskun121/cv-rag-bot",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:26:10Z",
-    "url": "https://github.com/egecoskun121/cv-rag-bot"
-  },
-  {
-    "description": "A regulatory prep accelerator for a generic-drug Clinical Regulatory Affairs team.",
-    "id": "Hussain0327/amneal",
-    "language": "Python",
-    "name": "Hussain0327/amneal",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:14:35Z",
-    "url": "https://github.com/Hussain0327/amneal"
-  },
-  {
-    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
-    "id": "microsoft/graphrag",
-    "language": "Python",
-    "name": "microsoft/graphrag",
-    "stars": 35498,
-    "updated_at": "2026-08-14T18:16:11Z",
-    "url": "https://github.com/microsoft/graphrag"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 144264,
-    "updated_at": "2026-08-14T18:13:55Z",
-    "url": "https://github.com/langchain-ai/langchain"
   }
 ]
