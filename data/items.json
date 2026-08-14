@@ -1,11 +1,101 @@
 [
   {
+    "description": "\u6821\u56ed\u793e\u533a\uff1a\u5730\u7406\u4f4d\u7f6e\u8303\u56f4\u5185\u5bb9 \u00b7 RAG \u6df7\u5408\u68c0\u7d22 \u00b7 \u95ee\u9898\u8ffd\u8e2a \u00b7 AI \u52a9\u624b\uff08\u5343\u95ee v3-flash\uff09",
+    "id": "tyj-618/UniNook",
+    "language": "Java",
+    "name": "tyj-618/UniNook",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:44:58Z",
+    "url": "https://github.com/tyj-618/UniNook"
+  },
+  {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 2,
+    "updated_at": "2026-08-14T08:44:46Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "MCP server for Autodesk Flame \u2014 clip control, timelines, and effects with RAG search, anti-hallucination safety, and sel",
+    "id": "abrahamADSK/flame-mcp",
+    "language": "Python",
+    "name": "abrahamADSK/flame-mcp",
+    "stars": 7,
+    "updated_at": "2026-08-14T08:44:29Z",
+    "url": "https://github.com/abrahamADSK/flame-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T08:44:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "GeneTech 14????? - ?????????? (6700+ entities, 14 domains)",
+    "id": "lm203688/genetech-14-sites",
+    "language": "JavaScript",
+    "name": "lm203688/genetech-14-sites",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:44:12Z",
+    "url": "https://github.com/lm203688/genetech-14-sites"
+  },
+  {
+    "description": "\u9762\u5411\u4e00\u7ea7\u80a1\u6743\u6295\u8d44\u4eba\u7684 AI \u589e\u5f3a\u5de5\u4f5c\u53f0\u3002BP\u5206\u6790\u00b7\u79c1\u6709\u77e5\u8bc6\u5e93\u00b7\u6295\u8d44\u5224\u65ad\u6c89\u6dc0\u00b7\u8de8\u4f1a\u8bdd\u8bb0\u5fc6\u3002\u6570\u636e\u4e3b\u6743\u5f52\u7528\u6237\u3002",
+    "id": "zhongzhir/Aivestor",
+    "language": "TypeScript",
+    "name": "zhongzhir/Aivestor",
+    "stars": 3,
+    "updated_at": "2026-08-14T08:43:42Z",
+    "url": "https://github.com/zhongzhir/Aivestor"
+  },
+  {
+    "description": "Sovereign single-binary knowledge mesh for coding agents (MCP): index, search and serve your notes + code as context. Fa",
+    "id": "bright-interaction/mesh",
+    "language": "Go",
+    "name": "bright-interaction/mesh",
+    "stars": 3,
+    "updated_at": "2026-08-14T08:43:37Z",
+    "url": "https://github.com/bright-interaction/mesh"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 152423,
+    "updated_at": "2026-08-14T08:44:08Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T08:42:53Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
+    "id": "kRamu81/MedTrack_Application",
+    "language": "JavaScript",
+    "name": "kRamu81/MedTrack_Application",
+    "stars": 4,
+    "updated_at": "2026-08-14T08:42:41Z",
+    "url": "https://github.com/kRamu81/MedTrack_Application"
+  },
+  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3254,
-    "updated_at": "2026-08-14T08:42:30Z",
+    "updated_at": "2026-08-14T08:43:02Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -176,7 +266,7 @@
     "language": "Dart",
     "name": "CSE-Sudo-26/on-care",
     "stars": 0,
-    "updated_at": "2026-08-14T08:38:10Z",
+    "updated_at": "2026-08-14T08:44:07Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
@@ -187,6 +277,15 @@
     "stars": 1,
     "updated_at": "2026-08-14T08:38:08Z",
     "url": "https://github.com/bsospace/blog-bsospace-mono-repo"
+  },
+  {
+    "description": "A new SOTA for RAG \u2014 an original retrieval architecture and an open-source knowledge base for humans and agents.",
+    "id": "Zleap-AI/SAG",
+    "language": "TypeScript",
+    "name": "Zleap-AI/SAG",
+    "stars": 2338,
+    "updated_at": "2026-08-14T08:38:04Z",
+    "url": "https://github.com/Zleap-AI/SAG"
   },
   {
     "description": "Open source agentic operating system",
@@ -288,24 +387,6 @@
     "url": "https://github.com/locutus71/enterprise-knowledge-architecture"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-grade, self-hosted document ingestion and retrieval service.",
     "id": "furyhawk/rag-agent",
     "language": "Python",
@@ -320,7 +401,7 @@
     "language": "Java",
     "name": "eliasjustus/justsearch",
     "stars": 0,
-    "updated_at": "2026-08-14T08:36:43Z",
+    "updated_at": "2026-08-14T08:45:05Z",
     "url": "https://github.com/eliasjustus/justsearch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T08:39:03Z",
     "url": "https://github.com/puffball1567/koutendb-python"
-  },
-  {
-    "description": "Agentic RAG that verifies every citation against source text before answering, and abstains when the evidence does not h",
-    "id": "deepeshgupta12/agentic-rag-verified-citations",
-    "language": "Python",
-    "name": "deepeshgupta12/agentic-rag-verified-citations",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:28:28Z",
-    "url": "https://github.com/deepeshgupta12/agentic-rag-verified-citations"
-  },
-  {
-    "description": "JavaScript / TypeScript driver for KoutenDB",
-    "id": "puffball1567/koutendb-js",
-    "language": "C++",
-    "name": "puffball1567/koutendb-js",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:39:01Z",
-    "url": "https://github.com/puffball1567/koutendb-js"
-  },
-  {
-    "description": "Search private data inside your app. A fast local SDK for vector, BM25, hybrid, and graph-aware retrieval\u2014no server, acc",
-    "id": "gungorbasa/RetrievalKit",
-    "language": "JavaScript",
-    "name": "gungorbasa/RetrievalKit",
-    "stars": 4,
-    "updated_at": "2026-08-14T08:28:11Z",
-    "url": "https://github.com/gungorbasa/RetrievalKit"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 88215,
-    "updated_at": "2026-08-14T08:27:34Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Fact-checks a report against trusted source PDFs: claim extraction, FAISS retrieval + Claude verdicts, accuracy/credibil",
-    "id": "vfeliu04/author-accuracy-ai",
-    "language": "Python",
-    "name": "vfeliu04/author-accuracy-ai",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:27:16Z",
-    "url": "https://github.com/vfeliu04/author-accuracy-ai"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 152423,
-    "updated_at": "2026-08-14T08:27:35Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
-    "description": "Pharmacist CDSS, AI clinical decision support system built with FastAPI, LangGraph, RAG, ChromaDB, and Gemini 2.5 Flash.",
-    "id": "abbashumein/pharmacist-cdss-api",
-    "language": "Python",
-    "name": "abbashumein/pharmacist-cdss-api",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:25:38Z",
-    "url": "https://github.com/abbashumein/pharmacist-cdss-api"
-  },
-  {
-    "description": "Agent skill for reading PDFs properly: fast local text extraction, plus vision only on what it provably missed - charts,",
-    "id": "LPSlv/doc-extract",
-    "language": "Python",
-    "name": "LPSlv/doc-extract",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:25:33Z",
-    "url": "https://github.com/LPSlv/doc-extract"
-  },
-  {
-    "description": "Sovereign single-binary knowledge mesh for coding agents (MCP): index, search and serve your notes + code as context. Fa",
-    "id": "bright-interaction/mesh",
-    "language": "Go",
-    "name": "bright-interaction/mesh",
-    "stars": 3,
-    "updated_at": "2026-08-14T08:25:27Z",
-    "url": "https://github.com/bright-interaction/mesh"
   }
 ]
