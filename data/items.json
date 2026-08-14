@@ -1,5 +1,158 @@
 [
   {
+    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
+    "id": "jasonssdev/openkos",
+    "language": "Python",
+    "name": "jasonssdev/openkos",
+    "stars": 2,
+    "updated_at": "2026-08-14T21:21:03Z",
+    "url": "https://github.com/jasonssdev/openkos"
+  },
+  {
+    "description": "Local AI agent lab: Ollama, structured output, safe tools, memory, RAG, evaluation, FastAPI and Docker",
+    "id": "aka-gst/ai-agent-service-lab",
+    "language": "\u2014",
+    "name": "aka-gst/ai-agent-service-lab",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:20:56Z",
+    "url": "https://github.com/aka-gst/ai-agent-service-lab"
+  },
+  {
+    "description": "An unofficial, idiomatic C++20 take on LangChain \u2014 chat models, tool-calling agents, and RAG, composed with prompt | mod",
+    "id": "fba5147/langchain-cpp",
+    "language": "C++",
+    "name": "fba5147/langchain-cpp",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:20:44Z",
+    "url": "https://github.com/fba5147/langchain-cpp"
+  },
+  {
+    "description": "Convert, inspect, OCR, and translate any document entirely in the browser via WebAssembly. Layout-preserving translation",
+    "id": "murilonerdx/anydoc-studio",
+    "language": "JavaScript",
+    "name": "murilonerdx/anydoc-studio",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:20:40Z",
+    "url": "https://github.com/murilonerdx/anydoc-studio"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:20:38Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Semantic search and Q&A over Chinese engineering lectures: whisper \u2192 BGE-M3 \u2192 pgvector \u2192 FastAPI",
+    "id": "nyveth/LecTrack-ZH",
+    "language": "TypeScript",
+    "name": "nyveth/LecTrack-ZH",
+    "stars": 1,
+    "updated_at": "2026-08-14T21:19:09Z",
+    "url": "https://github.com/nyveth/LecTrack-ZH"
+  },
+  {
+    "description": "",
+    "id": "antflydb/antfly",
+    "language": "Zig",
+    "name": "antflydb/antfly",
+    "stars": 422,
+    "updated_at": "2026-08-14T21:18:44Z",
+    "url": "https://github.com/antflydb/antfly"
+  },
+  {
+    "description": "Tesseract.md \u2013 Featurerich Markdown Editor and Graph Vizsualization with Obsidian-like and Notion-like Experience. Power",
+    "id": "geckse/tesseract-md-app",
+    "language": "TypeScript",
+    "name": "geckse/tesseract-md-app",
+    "stars": 11,
+    "updated_at": "2026-08-14T21:18:31Z",
+    "url": "https://github.com/geckse/tesseract-md-app"
+  },
+  {
+    "description": "",
+    "id": "cdevarenne/grounded-context-jvm",
+    "language": "Java",
+    "name": "cdevarenne/grounded-context-jvm",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:18:03Z",
+    "url": "https://github.com/cdevarenne/grounded-context-jvm"
+  },
+  {
+    "description": "Chrome extension that brings RAG-powered AI tutoring to any Learning Management System (LMS); from high school to univer",
+    "id": "tridibbanik17/CUTC-Transform-Hackathon-2026",
+    "language": "JavaScript",
+    "name": "tridibbanik17/CUTC-Transform-Hackathon-2026",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:17:26Z",
+    "url": "https://github.com/tridibbanik17/CUTC-Transform-Hackathon-2026"
+  },
+  {
+    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
+    "id": "alex-place/lantern-os",
+    "language": "JavaScript",
+    "name": "alex-place/lantern-os",
+    "stars": 3,
+    "updated_at": "2026-08-14T21:17:24Z",
+    "url": "https://github.com/alex-place/lantern-os"
+  },
+  {
+    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
+    "id": "jee3m/augmentative-knowledge-hooks",
+    "language": "HTML",
+    "name": "jee3m/augmentative-knowledge-hooks",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:16:24Z",
+    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
+  },
+  {
+    "description": "An all-in-one, microservice-ready AI Career Development Platform featuring gamified skill tracking, AI career coaching, ",
+    "id": "Kaustubh0043/pathpilot-ai",
+    "language": "TypeScript",
+    "name": "Kaustubh0043/pathpilot-ai",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:15:52Z",
+    "url": "https://github.com/Kaustubh0043/pathpilot-ai"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:15:40Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "\ud83e\udde0\ud83d\udcbb Reimagine the Internet as Self-Organizing Mind Map    \ud83e\udd16\ud83d\udd0e STREAM: Search with Top Result Extraction & Answer Model \ud83d\udcc8\ud83d\udcdd ",
+    "id": "OpenSourceAGI/qwksearch-research-agent",
+    "language": "TypeScript",
+    "name": "OpenSourceAGI/qwksearch-research-agent",
+    "stars": 73,
+    "updated_at": "2026-08-14T21:15:39Z",
+    "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T21:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -18,22 +171,22 @@
     "url": "https://github.com/lofcz/LLMTornado"
   },
   {
+    "description": "Bespoke unified web-search & research MCP server: 18 sources fused (weighted RRF), cross-encoder re-ranked, MMR-diversif",
+    "id": "kbjama8/search-gateway",
+    "language": "Python",
+    "name": "kbjama8/search-gateway",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:14:39Z",
+    "url": "https://github.com/kbjama8/search-gateway"
+  },
+  {
     "description": "Musubi (\u7d50\u3073) \u2014 Ai Agent shared memory and thought layer. The braiding of threads between presences.",
     "id": "ericmey/musubi",
     "language": "Python",
     "name": "ericmey/musubi",
     "stars": 6,
-    "updated_at": "2026-08-14T21:14:48Z",
+    "updated_at": "2026-08-14T21:17:37Z",
     "url": "https://github.com/ericmey/musubi"
-  },
-  {
-    "description": "Convert, inspect, OCR, and translate any document entirely in the browser via WebAssembly. Layout-preserving translation",
-    "id": "murilonerdx/anydoc-studio",
-    "language": "JavaScript",
-    "name": "murilonerdx/anydoc-studio",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:14:19Z",
-    "url": "https://github.com/murilonerdx/anydoc-studio"
   },
   {
     "description": "Personal Portfolio Website of Dhruv Mishra. A sketchbook style website, with details about me. It also has a feedback se",
@@ -41,7 +194,7 @@
     "language": "TypeScript",
     "name": "Dhruv-Mishra/portfolioWebsite",
     "stars": 2,
-    "updated_at": "2026-08-14T21:14:19Z",
+    "updated_at": "2026-08-14T21:15:19Z",
     "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
   },
   {
@@ -54,6 +207,15 @@
     "url": "https://github.com/wish-maker/minder"
   },
   {
+    "description": "Evidence-first AI systems and product engineering portfolio",
+    "id": "pabloalvarez99/paxdev",
+    "language": "TypeScript",
+    "name": "pabloalvarez99/paxdev",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:16:29Z",
+    "url": "https://github.com/pabloalvarez99/paxdev"
+  },
+  {
     "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
     "id": "daanmt/MedHub",
     "language": "Python",
@@ -61,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T21:14:06Z",
     "url": "https://github.com/daanmt/MedHub"
-  },
-  {
-    "description": "",
-    "id": "cdevarenne/grounded-context-jvm",
-    "language": "Java",
-    "name": "cdevarenne/grounded-context-jvm",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:14:01Z",
-    "url": "https://github.com/cdevarenne/grounded-context-jvm"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -86,7 +239,7 @@
     "language": "Python",
     "name": "cdevarenne/grounded-context",
     "stars": 0,
-    "updated_at": "2026-08-14T21:13:53Z",
+    "updated_at": "2026-08-14T21:20:24Z",
     "url": "https://github.com/cdevarenne/grounded-context"
   },
   {
@@ -171,31 +324,13 @@
     "url": "https://github.com/EstaxNet/Inferpal"
   },
   {
-    "description": "Lantern OS convergence repo for COMET LEAP, dual boot, Windows surfaces, and v1 readiness",
-    "id": "alex-place/lantern-os",
-    "language": "JavaScript",
-    "name": "alex-place/lantern-os",
-    "stars": 3,
-    "updated_at": "2026-08-14T21:13:44Z",
-    "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31597,
-    "updated_at": "2026-08-14T21:14:02Z",
+    "updated_at": "2026-08-14T21:19:35Z",
     "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Chrome extension that brings RAG-powered AI tutoring to any Learning Management System (LMS); from high school to univer",
-    "id": "tridibbanik17/CUTC-Transform-Hackathon-2026",
-    "language": "JavaScript",
-    "name": "tridibbanik17/CUTC-Transform-Hackathon-2026",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:08:38Z",
-    "url": "https://github.com/tridibbanik17/CUTC-Transform-Hackathon-2026"
   },
   {
     "description": "Academic management platform with retrieval-grounded AI assistance and student risk prediction. FastAPI + React. Honest ",
@@ -212,7 +347,7 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 63,
-    "updated_at": "2026-08-14T21:13:29Z",
+    "updated_at": "2026-08-14T21:19:58Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -261,15 +396,6 @@
     "url": "https://github.com/pabloalvarez99/pabloalvarez99"
   },
   {
-    "description": "Evidence-first AI systems and product engineering portfolio",
-    "id": "pabloalvarez99/paxdev",
-    "language": "TypeScript",
-    "name": "pabloalvarez99/paxdev",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:14:11Z",
-    "url": "https://github.com/pabloalvarez99/paxdev"
-  },
-  {
     "description": "Personal knowledge base with hybrid search and read/write access for AI agents",
     "id": "fstamatelopoulos/cerefox",
     "language": "TypeScript",
@@ -277,24 +403,6 @@
     "stars": 15,
     "updated_at": "2026-08-14T21:05:58Z",
     "url": "https://github.com/fstamatelopoulos/cerefox"
-  },
-  {
-    "description": "Tesseract.md \u2013 Featurerich Markdown Editor and Graph Vizsualization with Obsidian-like and Notion-like Experience. Power",
-    "id": "geckse/tesseract-md-app",
-    "language": "TypeScript",
-    "name": "geckse/tesseract-md-app",
-    "stars": 11,
-    "updated_at": "2026-08-14T21:05:40Z",
-    "url": "https://github.com/geckse/tesseract-md-app"
-  },
-  {
-    "description": "An all-in-one, microservice-ready AI Career Development Platform featuring gamified skill tracking, AI career coaching, ",
-    "id": "Kaustubh0043/pathpilot-ai",
-    "language": "TypeScript",
-    "name": "Kaustubh0043/pathpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:05:26Z",
-    "url": "https://github.com/Kaustubh0043/pathpilot-ai"
   },
   {
     "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
@@ -340,113 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-14T21:04:31Z",
     "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "\ud83e\udde0\ud83d\udcbb Reimagine the Internet as Self-Organizing Mind Map    \ud83e\udd16\ud83d\udd0e STREAM: Search with Top Result Extraction & Answer Model \ud83d\udcc8\ud83d\udcdd ",
-    "id": "OpenSourceAGI/qwksearch-research-agent",
-    "language": "TypeScript",
-    "name": "OpenSourceAGI/qwksearch-research-agent",
-    "stars": 73,
-    "updated_at": "2026-08-14T21:13:42Z",
-    "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
-  },
-  {
-    "description": "An interactive AI interview coach for Pakistani tech candidates. Tayari.ai features real-time voice loops, custom resume",
-    "id": "Mahnoor-Zaffar/Tayari.ai",
-    "language": "JavaScript",
-    "name": "Mahnoor-Zaffar/Tayari.ai",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:02:27Z",
-    "url": "https://github.com/Mahnoor-Zaffar/Tayari.ai"
-  },
-  {
-    "description": "Spec-driven development stack for AI coding agents: layered agent rules, skills, slash commands, git-worktree automation",
-    "id": "Rene-Kuhm/atlas-sdd-stack",
-    "language": "Shell",
-    "name": "Rene-Kuhm/atlas-sdd-stack",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:02:21Z",
-    "url": "https://github.com/Rene-Kuhm/atlas-sdd-stack"
-  },
-  {
-    "description": "Private, local-first semantic search and Q&A over your iCloud Mail. Tauri + Rust, runs entirely on-device.",
-    "id": "vkiragi/MailFind",
-    "language": "Rust",
-    "name": "vkiragi/MailFind",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:02:14Z",
-    "url": "https://github.com/vkiragi/MailFind"
-  },
-  {
-    "description": "AI agent orchestration platform with RAG, LangGraph workflows, observability, and evaluation",
-    "id": "kernelpanic09/agents-platform",
-    "language": "JavaScript",
-    "name": "kernelpanic09/agents-platform",
-    "stars": 3,
-    "updated_at": "2026-08-14T21:01:17Z",
-    "url": "https://github.com/kernelpanic09/agents-platform"
-  },
-  {
-    "description": "MemLocal: cross-app, local-first, user-owned unified memory layer for code agents. One source of truth, synced to every ",
-    "id": "jinxinfuture/memlocal",
-    "language": "JavaScript",
-    "name": "jinxinfuture/memlocal",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:01:13Z",
-    "url": "https://github.com/jinxinfuture/memlocal"
-  },
-  {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 6,
-    "updated_at": "2026-08-14T21:00:57Z",
-    "url": "https://github.com/Mubder/kazma"
-  },
-  {
-    "description": "A self-hosted personal assistant: memory, notes, calendar, todos, and feeds, running on Claude or a local model by chang",
-    "id": "rogjenkins/ryoaa",
-    "language": "Python",
-    "name": "rogjenkins/ryoaa",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:00:51Z",
-    "url": "https://github.com/rogjenkins/ryoaa"
-  },
-  {
-    "description": "Practical GenAI & AI Engineering projects covering LLMs, RAG, AI agents, LangGraph, MCP, tool calling, guardrails, and L",
-    "id": "pranayprasad7001/generative-ai-projects",
-    "language": "Python",
-    "name": "pranayprasad7001/generative-ai-projects",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:00:50Z",
-    "url": "https://github.com/pranayprasad7001/generative-ai-projects"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T21:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T21:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "winnow \u2014 \u628a\u7fa4\u804a\u566a\u58f0\u538b\u7f29\u4e3a\u7ed3\u6784\u5316\u77e5\u8bc6\uff1aLangGraph \u964d\u566a\u7ba1\u9053 + L3 \u77e5\u8bc6\u5c42 + MCP \u63a5\u53e3 + \u957f\u671f\u7fa4\u8bb0\u5fc6",
-    "id": "zenthos-z/z-winnow",
-    "language": "Python",
-    "name": "zenthos-z/z-winnow",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:59:41Z",
-    "url": "https://github.com/zenthos-z/z-winnow"
   }
 ]
