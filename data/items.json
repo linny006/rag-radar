@@ -1,5 +1,59 @@
 [
   {
+    "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys",
+    "id": "arc53/DocsGPT",
+    "language": "Python",
+    "name": "arc53/DocsGPT",
+    "stars": 18214,
+    "updated_at": "2026-08-14T16:30:39Z",
+    "url": "https://github.com/arc53/DocsGPT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Cla",
+    "id": "hjxwz123/Aivory",
+    "language": "Go",
+    "name": "hjxwz123/Aivory",
+    "stars": 5,
+    "updated_at": "2026-08-14T16:30:27Z",
+    "url": "https://github.com/hjxwz123/Aivory"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Grounded QA over the EU AI Act where the evaluation harness is the deliverable: retrieval, faithfulness and hallucinatio",
+    "id": "aghasalim/eu-ai-act-rag",
+    "language": "HTML",
+    "name": "aghasalim/eu-ai-act-rag",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:30:19Z",
+    "url": "https://github.com/aghasalim/eu-ai-act-rag"
+  },
+  {
+    "description": "Lightweight HTML-to-Markdown parser for AI agent workflows \u2014 Python CLI and API around a fast Go engine, available on Py",
+    "id": "appautomaton/markmaton",
+    "language": "Go",
+    "name": "appautomaton/markmaton",
+    "stars": 4,
+    "updated_at": "2026-08-14T16:30:14Z",
+    "url": "https://github.com/appautomaton/markmaton"
+  },
+  {
     "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
     "id": "felladrin/MiniSearch",
     "language": "TypeScript",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31594,
-    "updated_at": "2026-08-14T16:29:09Z",
+    "updated_at": "2026-08-14T16:31:01Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -70,6 +124,15 @@
     "stars": 2,
     "updated_at": "2026-08-14T16:28:57Z",
     "url": "https://github.com/sandeepparmar3006/senpai"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 14,
+    "updated_at": "2026-08-14T16:28:57Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
     "description": "Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS \u2014 MLX inference, live voice, knowledge graph + RAG, ",
@@ -95,7 +158,7 @@
     "language": "Kotlin",
     "name": "Quor-a/ZorvAI",
     "stars": 20,
-    "updated_at": "2026-08-14T16:27:59Z",
+    "updated_at": "2026-08-14T16:30:44Z",
     "url": "https://github.com/Quor-a/ZorvAI"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 38,
     "updated_at": "2026-08-14T16:18:48Z",
     "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Self-hosted personal AI knowledge brain -- hybrid (vector + keyword + entity-graph) search over your notes and code, ser",
-    "id": "timurgaleev/memex",
-    "language": "TypeScript",
-    "name": "timurgaleev/memex",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:17:57Z",
-    "url": "https://github.com/timurgaleev/memex"
-  },
-  {
-    "description": "Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown \u2014 and back. Built for LLMs, RAG & Python pipe",
-    "id": "thomas-villani/all2md",
-    "language": "Python",
-    "name": "thomas-villani/all2md",
-    "stars": 26,
-    "updated_at": "2026-08-14T16:17:55Z",
-    "url": "https://github.com/thomas-villani/all2md"
-  },
-  {
-    "description": "AI Agent \u667a\u80fd\u4f53\u811a\u624b\u67b6 \u00b7 LLM Agent \u6846\u67b6 / \u9879\u76ee\u811a\u624b\u67b6. Configuration-driven AI Agent backend on deepagents + LangChain + LangGraph. YAM",
-    "id": "LPK3215/agentbase",
-    "language": "Python",
-    "name": "LPK3215/agentbase",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:17:42Z",
-    "url": "https://github.com/LPK3215/agentbase"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:17:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26207,
-    "updated_at": "2026-08-14T16:17:16Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "A lightweight, open-source RAG knowledge base application that supports private data uploads, trusted question answering",
-    "id": "Cris-z123/oriona-mesh",
-    "language": "Python",
-    "name": "Cris-z123/oriona-mesh",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:16:17Z",
-    "url": "https://github.com/Cris-z123/oriona-mesh"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 144259,
-    "updated_at": "2026-08-14T16:16:13Z",
-    "url": "https://github.com/langchain-ai/langchain"
   }
 ]
