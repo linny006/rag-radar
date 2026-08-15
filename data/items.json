@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 5,
+    "updated_at": "2026-08-15T17:44:43Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "Gebo.ai The open source Enterprise AI vendor agnostic platform",
+    "id": "geboai/Gebo.ai",
+    "language": "Java",
+    "name": "geboai/Gebo.ai",
+    "stars": 6,
+    "updated_at": "2026-08-15T17:44:38Z",
+    "url": "https://github.com/geboai/Gebo.ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:44:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ReAct-loop LangChain agent orchestrating 8 tools over PostgreSQL + pgvector, Redis session memory, FastAPI backend, and ",
+    "id": "aravgarg28/Agentic-Financial-Analyzer",
+    "language": "Python",
+    "name": "aravgarg28/Agentic-Financial-Analyzer",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:44:13Z",
+    "url": "https://github.com/aravgarg28/Agentic-Financial-Analyzer"
+  },
+  {
     "description": "Flask backend for RoadSense AI, providing road issue prediction, local AI chat, and RAG APIs.",
     "id": "Jaturaput-Jongsubcharoen/RoadSense-AI-Backend",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 9,
-    "updated_at": "2026-08-15T17:43:58Z",
+    "updated_at": "2026-08-15T17:44:27Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T17:41:52Z",
     "url": "https://github.com/wish-maker/minder"
-  },
-  {
-    "description": "ReAct-loop LangChain agent orchestrating 8 tools over PostgreSQL + pgvector, Redis session memory, FastAPI backend, and ",
-    "id": "aravgarg28/Agentic-Financial-Analyzer",
-    "language": "Python",
-    "name": "aravgarg28/Agentic-Financial-Analyzer",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:44:13Z",
-    "url": "https://github.com/aravgarg28/Agentic-Financial-Analyzer"
   },
   {
     "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for productio",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T17:31:17Z",
     "url": "https://github.com/yamini-nlp/prism"
-  },
-  {
-    "description": "Microcosm is an AI-native Knowledge Operating System for capturing, organizing, retrieving, and growing personal knowled",
-    "id": "adityakumarsingh2/microcosm",
-    "language": "TypeScript",
-    "name": "adityakumarsingh2/microcosm",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:31:10Z",
-    "url": "https://github.com/adityakumarsingh2/microcosm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T17:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T17:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
