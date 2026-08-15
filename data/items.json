@@ -1,5 +1,68 @@
 [
   {
+    "description": "KnowLP-RAG: dual knowledge-graph RAG for Markdown notes \u2014 dsh plugin add @eqman00003/knowlp-rag \u00b7 MCP + native Cordis pl",
+    "id": "wly8691-jpg/knowlp-rag",
+    "language": "Python",
+    "name": "wly8691-jpg/knowlp-rag",
+    "stars": 2,
+    "updated_at": "2026-08-15T06:31:52Z",
+    "url": "https://github.com/wly8691-jpg/knowlp-rag"
+  },
+  {
+    "description": "RAG assistant for recent tech news \u2014 hybrid retrieval, Qdrant Cloud, auto-updated daily via GitHub Actions.",
+    "id": "Nestallum/tech-news-rag-assistant",
+    "language": "Python",
+    "name": "Nestallum/tech-news-rag-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-15T06:31:34Z",
+    "url": "https://github.com/Nestallum/tech-news-rag-assistant"
+  },
+  {
+    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
+    "id": "krunlp/AI-Prep-Buddy",
+    "language": "HTML",
+    "name": "krunlp/AI-Prep-Buddy",
+    "stars": 0,
+    "updated_at": "2026-08-15T06:31:07Z",
+    "url": "https://github.com/krunlp/AI-Prep-Buddy"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T06:30:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Nexora \u2014 tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, ",
+    "id": "JasonTM17/Nexora",
+    "language": "Java",
+    "name": "JasonTM17/Nexora",
+    "stars": 0,
+    "updated_at": "2026-08-15T06:30:55Z",
+    "url": "https://github.com/JasonTM17/Nexora"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T06:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T06:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Constant token budget for long-form LLM writing. Chapter 1000 costs the same as chapter 10 (61,331 \u2192 4,396 tokens measur",
     "id": "song-finder-free/longform-memory",
     "language": "TypeScript",
@@ -7,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T06:29:35Z",
     "url": "https://github.com/song-finder-free/longform-memory"
-  },
-  {
-    "description": "KnowLP-RAG: dual knowledge-graph RAG for Markdown notes \u2014 dsh plugin add @eqman00003/knowlp-rag \u00b7 MCP + native Cordis pl",
-    "id": "wly8691-jpg/knowlp-rag",
-    "language": "Python",
-    "name": "wly8691-jpg/knowlp-rag",
-    "stars": 2,
-    "updated_at": "2026-08-15T06:29:11Z",
-    "url": "https://github.com/wly8691-jpg/knowlp-rag"
   },
   {
     "description": "It shows how to use wiki for the data source of agent.",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19056,
-    "updated_at": "2026-08-15T06:28:27Z",
+    "updated_at": "2026-08-15T06:32:07Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 26,
-    "updated_at": "2026-08-15T06:26:33Z",
+    "updated_at": "2026-08-15T06:31:34Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "Sqhao-O/dsh-docs",
     "stars": 4,
-    "updated_at": "2026-08-15T06:24:58Z",
+    "updated_at": "2026-08-15T06:30:48Z",
     "url": "https://github.com/Sqhao-O/dsh-docs"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/yfedoseev/pdf_oxide"
   },
   {
-    "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
-    "id": "krunlp/AI-Prep-Buddy",
-    "language": "HTML",
-    "name": "krunlp/AI-Prep-Buddy",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:22:45Z",
-    "url": "https://github.com/krunlp/AI-Prep-Buddy"
-  },
-  {
     "description": "BidGenius \u2014 AI RFP & tender response agent. Reads tenders, builds a compliance matrix, matches company evidence (RAG), a",
     "id": "NAME0x0/BidGenius",
     "language": "C#",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T06:20:17Z",
     "url": "https://github.com/VarshneysvAI/VarshneysvAI"
-  },
-  {
-    "description": "Nexora \u2014 tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, ",
-    "id": "JasonTM17/Nexora",
-    "language": "Java",
-    "name": "JasonTM17/Nexora",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:19:52Z",
-    "url": "https://github.com/JasonTM17/Nexora"
   },
   {
     "description": "An end-to-end, production-style Retrieval-Augmented Generation system over the GitLab Handbook with agentic actions, aut",
@@ -360,24 +396,6 @@
     "url": "https://github.com/mclaut/ariadne"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T06:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T06:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An advance discord forum bot that has RAG in it.",
     "id": "Renerfia/Night-Studio-LLM",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 213,
     "updated_at": "2026-08-15T06:11:23Z",
     "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Vendor-neutral document extraction for search & RAG",
-    "id": "srivnamrata/multixtract",
-    "language": "Python",
-    "name": "srivnamrata/multixtract",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:10:35Z",
-    "url": "https://github.com/srivnamrata/multixtract"
-  },
-  {
-    "description": "Agent Platform for building, running, managing, and serving production-ready AI agents.",
-    "id": "Refinex-Space/agentark",
-    "language": "Python",
-    "name": "Refinex-Space/agentark",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:10:03Z",
-    "url": "https://github.com/Refinex-Space/agentark"
   }
 ]
