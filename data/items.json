@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:44:59Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Full featured aggregation of all your AI agents in single vector database for full MCP search.",
+    "id": "no13productions/ai-agent-history-rag-mcp",
+    "language": "Python",
+    "name": "no13productions/ai-agent-history-rag-mcp",
+    "stars": 5,
+    "updated_at": "2026-08-15T15:44:54Z",
+    "url": "https://github.com/no13productions/ai-agent-history-rag-mcp"
+  },
+  {
+    "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
+    "id": "ajaypv/fde101",
+    "language": "MDX",
+    "name": "ajaypv/fde101",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:43:52Z",
+    "url": "https://github.com/ajaypv/fde101"
+  },
+  {
+    "description": "EU AI Act readiness tool for small businesses. Describe an AI system, get its risk tier and obligations cited to the Act",
+    "id": "noble-chidera-onyema/ugegbe",
+    "language": "Python",
+    "name": "noble-chidera-onyema/ugegbe",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:43:48Z",
+    "url": "https://github.com/noble-chidera-onyema/ugegbe"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:43:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
     "id": "jammindev/house",
     "language": "Python",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19062,
-    "updated_at": "2026-08-15T15:42:49Z",
+    "updated_at": "2026-08-15T15:45:16Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -229,7 +274,7 @@
     "id": "bharath-inamdar/github-team-brain",
     "language": "Python",
     "name": "bharath-inamdar/github-team-brain",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-15T15:37:15Z",
     "url": "https://github.com/bharath-inamdar/github-team-brain"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T15:33:21Z",
     "url": "https://github.com/sunwoo8478/sunwoo8478"
-  },
-  {
-    "description": "A production-grade, security-hardened RAG agent built for enterprise support. Features high-performance vector retrieval",
-    "id": "Sumedh-6504/enkrypt-secure-support-agent",
-    "language": "TypeScript",
-    "name": "Sumedh-6504/enkrypt-secure-support-agent",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:32:38Z",
-    "url": "https://github.com/Sumedh-6504/enkrypt-secure-support-agent"
-  },
-  {
-    "description": "\u201c\u4f01\u4e1a\u7ea7AI\u539f\u751f\u534f\u4f5c\u5e73\u53f0\u6838\u5fc3\u67b6\u6784\uff1a\u652f\u6301\u591a\u79df\u6237\u9694\u79bb\u7684\u5411\u91cf\u77e5\u8bc6\u5e93\uff08RAG\uff09\u3001\u5177\u5907\u4e0a\u4e0b\u6587\u611f\u77e5\u7684LLM Agent\u7f16\u6392\uff0c\u4ee5\u53ca\u57fa\u4e8eMCP\uff08\u6a21\u578b\u4e0a\u4e0b\u6587\u534f\u8bae\uff09\u7684\u5de5\u4f5c\u533a\u7ea7\u5de5\u5177\u96c6\u6210\uff1b\u540e\u7aef\u91c7\u7528FastAPI\u5f02\u6b65\u6846\u67b6\uff0c\u524d\u7aef\u57fa\u4e8eNext.js 14\u6784\u5efa\u9ad8\u4ea4\u4e92\u4f53\u9a8c\u3002",
-    "id": "IQZZ020501/NexaFlow",
-    "language": "Python",
-    "name": "IQZZ020501/NexaFlow",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:32:29Z",
-    "url": "https://github.com/IQZZ020501/NexaFlow"
-  },
-  {
-    "description": "Chrome extension that brings RAG-powered AI tutoring to any Learning Management System (LMS); from high school to univer",
-    "id": "tridibbanik17/CUTC-Transform-Hackathon-2026",
-    "language": "JavaScript",
-    "name": "tridibbanik17/CUTC-Transform-Hackathon-2026",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:32:13Z",
-    "url": "https://github.com/tridibbanik17/CUTC-Transform-Hackathon-2026"
-  },
-  {
-    "description": "AI risk operations platform for monitoring LLM, RAG, and Agent application risk posture, events, analytics, policies, an",
-    "id": "SweetVege/AI-RiskOps",
-    "language": "TypeScript",
-    "name": "SweetVege/AI-RiskOps",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:31:39Z",
-    "url": "https://github.com/SweetVege/AI-RiskOps"
-  },
-  {
-    "description": "AI service backend portfolio website",
-    "id": "JW020799/JW020799.github.io",
-    "language": "HTML",
-    "name": "JW020799/JW020799.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:31:27Z",
-    "url": "https://github.com/JW020799/JW020799.github.io"
   }
 ]
