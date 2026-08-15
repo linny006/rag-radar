@@ -1,5 +1,41 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T11:16:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Graxon: First Open-Source Hybrid RAG to eliminate hallucinations through a persistent Knowledge Graph layer.",
+    "id": "Graxon-rag/app",
+    "language": "TypeScript",
+    "name": "Graxon-rag/app",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:15:28Z",
+    "url": "https://github.com/Graxon-rag/app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Minerva: Personal mail knowledge layer on classic Outlook (COM) \u2014 SQLite/FTS5 index, quote-verified Q&A, human-approved ",
     "id": "dongjinpark-maker/mailkb",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19060,
-    "updated_at": "2026-08-15T11:14:58Z",
+    "updated_at": "2026-08-15T11:16:33Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "jammindev/house",
     "stars": 0,
-    "updated_at": "2026-08-15T11:12:03Z",
+    "updated_at": "2026-08-15T11:15:34Z",
     "url": "https://github.com/jammindev/house"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T11:01:35Z",
     "url": "https://github.com/arvindacharya/rag-docs-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-15T10:59:47Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
-    "id": "jaylfc/taosmd",
-    "language": "Python",
-    "name": "jaylfc/taosmd",
-    "stars": 77,
-    "updated_at": "2026-08-15T11:13:40Z",
-    "url": "https://github.com/jaylfc/taosmd"
   }
 ]
