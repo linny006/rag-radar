@@ -1,5 +1,59 @@
 [
   {
+    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
+    "id": "felladrin/MiniSearch",
+    "language": "TypeScript",
+    "name": "felladrin/MiniSearch",
+    "stars": 580,
+    "updated_at": "2026-08-15T02:17:17Z",
+    "url": "https://github.com/felladrin/MiniSearch"
+  },
+  {
+    "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
+    "id": "markfietje/brain-server",
+    "language": "Rust",
+    "name": "markfietje/brain-server",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:16:47Z",
+    "url": "https://github.com/markfietje/brain-server"
+  },
+  {
+    "description": "Click any point on a NYC map for a data-driven neighborhood dossier on safety, transit, amenities and housing \u2014 narrated",
+    "id": "Paradox07127/Urban-Dossier",
+    "language": "Python",
+    "name": "Paradox07127/Urban-Dossier",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:16:44Z",
+    "url": "https://github.com/Paradox07127/Urban-Dossier"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19054,
+    "updated_at": "2026-08-15T02:18:20Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T02:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Polymathera's no-RAG, multi-agent framework for extremely long, dense contexts (1B+ tokens).",
     "id": "Polymathera/colony",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 11,
     "updated_at": "2026-08-15T02:13:29Z",
     "url": "https://github.com/RamaAditya49/titen"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19054,
-    "updated_at": "2026-08-15T02:15:10Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Evidence-grounded RAG assistant for analyzing Alphabet, Amazon, and Microsoft 10-K filings with citations, Streamlit, FA",
@@ -122,7 +167,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-15T02:14:59Z",
+    "updated_at": "2026-08-15T02:15:54Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -184,8 +229,8 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 37357,
-    "updated_at": "2026-08-15T02:08:22Z",
+    "stars": 37358,
+    "updated_at": "2026-08-15T02:17:31Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -261,6 +306,15 @@
     "url": "https://github.com/shakfu/inferna"
   },
   {
+    "description": "RAG assistant over Google Cloud docs \u2014 grounded, cited answers with a retrieval + faithfulness eval harness. FastAPI \u00b7 p",
+    "id": "Umrii/cloudops-copilot",
+    "language": "Python",
+    "name": "Umrii/cloudops-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-15T02:06:06Z",
+    "url": "https://github.com/Umrii/cloudops-copilot"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "LocketKeyLLC/scaffold-engine",
     "stars": 0,
-    "updated_at": "2026-08-15T02:06:07Z",
+    "updated_at": "2026-08-15T02:15:57Z",
     "url": "https://github.com/LocketKeyLLC/scaffold-engine"
   },
   {
@@ -360,24 +414,6 @@
     "url": "https://github.com/alphabet-h/kb-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T02:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T02:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u9cf3\u554f Ask Audrey \u2014 cited AI answers from Audrey Tang's 30-year transcript archive (archive.tw). Cloudflare Workers + Hono; ",
     "id": "bestian/askit-hono",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 14,
     "updated_at": "2026-08-15T01:57:57Z",
     "url": "https://github.com/msu-denver/bili-core"
-  },
-  {
-    "description": "",
-    "id": "rajaganaa/100-AI-Projects",
-    "language": "Python",
-    "name": "rajaganaa/100-AI-Projects",
-    "stars": 1,
-    "updated_at": "2026-08-15T01:56:55Z",
-    "url": "https://github.com/rajaganaa/100-AI-Projects"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 2,
-    "updated_at": "2026-08-15T01:55:27Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-15T01:54:00Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
-    "id": "redevops-io/RAAAL",
-    "language": "HTML",
-    "name": "redevops-io/RAAAL",
-    "stars": 0,
-    "updated_at": "2026-08-15T01:52:51Z",
-    "url": "https://github.com/redevops-io/RAAAL"
   }
 ]
