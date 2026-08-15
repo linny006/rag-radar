@@ -1,5 +1,131 @@
 [
   {
+    "description": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard",
+    "id": "georgeguimaraes/arcana",
+    "language": "Elixir",
+    "name": "georgeguimaraes/arcana",
+    "stars": 325,
+    "updated_at": "2026-08-15T04:30:08Z",
+    "url": "https://github.com/georgeguimaraes/arcana"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19054,
+    "updated_at": "2026-08-15T04:29:24Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo",
+    "id": "onestardao/WFGY",
+    "language": "Jupyter Notebook",
+    "name": "onestardao/WFGY",
+    "stars": 1778,
+    "updated_at": "2026-08-15T04:29:20Z",
+    "url": "https://github.com/onestardao/WFGY"
+  },
+  {
+    "description": "\u6d77\u5916\u30c6\u30c3\u30af\u30cb\u30e5\u30fc\u30b9\u3092\u81ea\u52d5\u53ce\u96c6\u3057\u3001AI\u3067\u7ffb\u8a33\u30fb\u8981\u7d04\u30fb\u6295\u8cc7\u6587\u8108\u3092\u5206\u6790\u3059\u308b\u30ea\u30b5\u30fc\u30c1\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9",
+    "id": "yook11/Vector",
+    "language": "Python",
+    "name": "yook11/Vector",
+    "stars": 1,
+    "updated_at": "2026-08-15T04:29:13Z",
+    "url": "https://github.com/yook11/Vector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T04:28:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An alliance of tools for the AI era: grounded knowledge (Nexus\u00b7Archon), accountable review & governance (Arbiter\u00b7Observe",
+    "id": "LivingLikeKrillin/khala",
+    "language": "Python",
+    "name": "LivingLikeKrillin/khala",
+    "stars": 0,
+    "updated_at": "2026-08-15T04:28:29Z",
+    "url": "https://github.com/LivingLikeKrillin/khala"
+  },
+  {
+    "description": "iterative-retrieval - Claude Code Skill",
+    "id": "Jorgut/iterative-retrieval-skill",
+    "language": "\u2014",
+    "name": "Jorgut/iterative-retrieval-skill",
+    "stars": 0,
+    "updated_at": "2026-08-15T04:28:06Z",
+    "url": "https://github.com/Jorgut/iterative-retrieval-skill"
+  },
+  {
+    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
+    "id": "cgfixit/CyClaw",
+    "language": "Python",
+    "name": "cgfixit/CyClaw",
+    "stars": 5,
+    "updated_at": "2026-08-15T04:27:38Z",
+    "url": "https://github.com/cgfixit/CyClaw"
+  },
+  {
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
+    "language": "Python",
+    "name": "xyver/daedal-map",
+    "stars": 2,
+    "updated_at": "2026-08-15T04:27:35Z",
+    "url": "https://github.com/xyver/daedal-map"
+  },
+  {
+    "description": "A quality-gated League of Legends post-game coaching agent built on deterministic match data, RAG, and LLM evaluation.",
+    "id": "123Cx330Yrx/riftcoach-agent",
+    "language": "Python",
+    "name": "123Cx330Yrx/riftcoach-agent",
+    "stars": 3,
+    "updated_at": "2026-08-15T04:27:09Z",
+    "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 19,
+    "updated_at": "2026-08-15T04:27:06Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
+    "id": "markfietje/brain-server",
+    "language": "Rust",
+    "name": "markfietje/brain-server",
+    "stars": 0,
+    "updated_at": "2026-08-15T04:27:05Z",
+    "url": "https://github.com/markfietje/brain-server"
+  },
+  {
+    "description": "Open-source multi-agent research platform \u2014 Planner, Researcher, Critic & Synthesizer agents with human-in-the-loop appr",
+    "id": "adityamhaske/Multi-Agent-Research-Assistant",
+    "language": "Python",
+    "name": "adityamhaske/Multi-Agent-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-15T04:26:44Z",
+    "url": "https://github.com/adityamhaske/Multi-Agent-Research-Assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T04:25:50Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,42 +135,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A quality-gated League of Legends post-game coaching agent built on deterministic match data, RAG, and LLM evaluation.",
-    "id": "123Cx330Yrx/riftcoach-agent",
-    "language": "Python",
-    "name": "123Cx330Yrx/riftcoach-agent",
-    "stars": 3,
-    "updated_at": "2026-08-15T04:25:04Z",
-    "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19054,
-    "updated_at": "2026-08-15T04:24:57Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-15T04:25:26Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard",
-    "id": "georgeguimaraes/arcana",
-    "language": "Elixir",
-    "name": "georgeguimaraes/arcana",
-    "stars": 325,
-    "updated_at": "2026-08-15T04:25:46Z",
-    "url": "https://github.com/georgeguimaraes/arcana"
-  },
-  {
     "description": "Fully local document intelligence for DeepSeek Harness. Parse PDF, Office files, images, and scanned documents with offl",
     "id": "Sqhao-O/dsh-docs",
     "language": "TypeScript",
@@ -52,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-15T04:23:40Z",
     "url": "https://github.com/Sqhao-O/dsh-docs"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 19,
-    "updated_at": "2026-08-15T04:23:40Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
@@ -144,15 +225,6 @@
     "url": "https://github.com/minkaiwang/dgbl-wechat-kb"
   },
   {
-    "description": "Open-source multi-agent research platform \u2014 Planner, Researcher, Critic & Synthesizer agents with human-in-the-loop appr",
-    "id": "adityamhaske/Multi-Agent-Research-Assistant",
-    "language": "Python",
-    "name": "adityamhaske/Multi-Agent-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-15T04:19:23Z",
-    "url": "https://github.com/adityamhaske/Multi-Agent-Research-Assistant"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -225,24 +297,6 @@
     "url": "https://github.com/Z4OR-cyber/ai-fullstack-lab"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T04:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T04:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Official SearchCans Agent Skills for deep research, SERP intelligence, and web-to-Markdown workflows.",
     "id": "SearchCans/searchcans-skills",
     "language": "Python",
@@ -250,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T04:15:21Z",
     "url": "https://github.com/SearchCans/searchcans-skills"
-  },
-  {
-    "description": "An alliance of tools for the AI era: grounded knowledge (Nexus\u00b7Archon), accountable review & governance (Arbiter\u00b7Observe",
-    "id": "LivingLikeKrillin/khala",
-    "language": "Python",
-    "name": "LivingLikeKrillin/khala",
-    "stars": 0,
-    "updated_at": "2026-08-15T04:23:10Z",
-    "url": "https://github.com/LivingLikeKrillin/khala"
   },
   {
     "description": "Open-source, self-hosted knowledge backend for AI agents \u2014 hybrid search (vector + keyword), MCP server, 5 connectors, D",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "xr843/fojin",
     "stars": 331,
-    "updated_at": "2026-08-15T04:24:24Z",
+    "updated_at": "2026-08-15T04:28:45Z",
     "url": "https://github.com/xr843/fojin"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-15T04:00:01Z",
     "url": "https://github.com/Quor-a/ZorvAI"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:59:37Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "AI-powered multimodal jewelry search engine using CLIP embeddings, FAISS vector search, FastAPI backend, and React front",
-    "id": "Kavithamani7/JwelLensAI-Multimodal-Jewelry-Search-Engine",
-    "language": "JavaScript",
-    "name": "Kavithamani7/JwelLensAI-Multimodal-Jewelry-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-15T03:59:04Z",
-    "url": "https://github.com/Kavithamani7/JwelLensAI-Multimodal-Jewelry-Search-Engine"
-  },
-  {
-    "description": "A production-grade RAG platform with hybrid retrieval, multi-tenancy, and streaming chat.",
-    "id": "ollmo-go/ollmo",
-    "language": "Go",
-    "name": "ollmo-go/ollmo",
-    "stars": 3,
-    "updated_at": "2026-08-15T03:58:17Z",
-    "url": "https://github.com/ollmo-go/ollmo"
-  },
-  {
-    "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
-    "id": "daanmt/MedHub",
-    "language": "Python",
-    "name": "daanmt/MedHub",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:57:21Z",
-    "url": "https://github.com/daanmt/MedHub"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:57:10Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
