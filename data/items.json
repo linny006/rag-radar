@@ -1,5 +1,104 @@
 [
   {
+    "description": "MCP server for Autodesk Flame \u2014 clip control, timelines, and effects with RAG search, anti-hallucination safety, and sel",
+    "id": "abrahamADSK/flame-mcp",
+    "language": "Python",
+    "name": "abrahamADSK/flame-mcp",
+    "stars": 7,
+    "updated_at": "2026-08-15T14:17:04Z",
+    "url": "https://github.com/abrahamADSK/flame-mcp"
+  },
+  {
+    "description": "Open-source RAG engine for ingesting, indexing, and querying unstructured documents",
+    "id": "chatvector-ai/chatvector-ai",
+    "language": "Python",
+    "name": "chatvector-ai/chatvector-ai",
+    "stars": 25,
+    "updated_at": "2026-08-15T14:16:44Z",
+    "url": "https://github.com/chatvector-ai/chatvector-ai"
+  },
+  {
+    "description": "A production-grade RAG platform with hybrid retrieval, multi-tenancy, and streaming chat.",
+    "id": "ollmo-go/ollmo",
+    "language": "Go",
+    "name": "ollmo-go/ollmo",
+    "stars": 5,
+    "updated_at": "2026-08-15T14:16:42Z",
+    "url": "https://github.com/ollmo-go/ollmo"
+  },
+  {
+    "description": "Retrieval-grounded legal assistant for India \u2014 statute-cited answers in 8 languages. Hybrid BM25 + cross-lingual lexicon",
+    "id": "AmanDadsena/NyaySetu",
+    "language": "Python",
+    "name": "AmanDadsena/NyaySetu",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:16:29Z",
+    "url": "https://github.com/AmanDadsena/NyaySetu"
+  },
+  {
+    "description": "MuseXR \u2014 FastAPI + GPT-4o backend for an AI museum guide at the Louvre. RAG Q&A, Vision-based sculpture recognition, and",
+    "id": "jeannineshiu/louvre-xr-backend",
+    "language": "Python",
+    "name": "jeannineshiu/louvre-xr-backend",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:17:37Z",
+    "url": "https://github.com/jeannineshiu/louvre-xr-backend"
+  },
+  {
+    "description": "Give your agent a memory it can prove. One Python file: local SQLite vault, hybrid FTS5 + vector retrieval, Cloudflare-a",
+    "id": "jjjardev/HoardCore",
+    "language": "Python",
+    "name": "jjjardev/HoardCore",
+    "stars": 7,
+    "updated_at": "2026-08-15T14:16:21Z",
+    "url": "https://github.com/jjjardev/HoardCore"
+  },
+  {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 6,
+    "updated_at": "2026-08-15T14:16:02Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:15:46Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "25 audited Uzbek legal codes, article-level JSONL, CC0",
+    "id": "javohirmat/uzbek-legal-corpus",
+    "language": "JavaScript",
+    "name": "javohirmat/uzbek-legal-corpus",
+    "stars": 3,
+    "updated_at": "2026-08-15T14:15:16Z",
+    "url": "https://github.com/javohirmat/uzbek-legal-corpus"
+  },
+  {
     "description": "A testbed for faithful, auditable retrieval: Taiwan legal assistant with five anti-hallucination gates and a time-sliced",
     "id": "0Smallcat0/legal-agent",
     "language": "Python",
@@ -27,30 +126,12 @@
     "url": "https://github.com/Doctacon/buoy"
   },
   {
-    "description": "Open-source RAG engine for ingesting, indexing, and querying unstructured documents",
-    "id": "chatvector-ai/chatvector-ai",
-    "language": "Python",
-    "name": "chatvector-ai/chatvector-ai",
-    "stars": 25,
-    "updated_at": "2026-08-15T14:13:42Z",
-    "url": "https://github.com/chatvector-ai/chatvector-ai"
-  },
-  {
-    "description": "Retrieval-grounded legal assistant for India \u2014 statute-cited answers in 8 languages. Hybrid BM25 + cross-lingual lexicon",
-    "id": "AmanDadsena/NyaySetu",
-    "language": "Python",
-    "name": "AmanDadsena/NyaySetu",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:15:17Z",
-    "url": "https://github.com/AmanDadsena/NyaySetu"
-  },
-  {
     "description": "RAG + tool-calling agent demo that turns a requirement CSV into a generated C++ header, splitting deterministic logic fr",
     "id": "plutorion275/radar-req-agent-demo",
     "language": "Python",
     "name": "plutorion275/radar-req-agent-demo",
     "stars": 0,
-    "updated_at": "2026-08-15T14:13:01Z",
+    "updated_at": "2026-08-15T14:17:21Z",
     "url": "https://github.com/plutorion275/radar-req-agent-demo"
   },
   {
@@ -99,21 +180,12 @@
     "url": "https://github.com/sagesta/infraguad_ai"
   },
   {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 6,
-    "updated_at": "2026-08-15T14:11:50Z",
-    "url": "https://github.com/Mubder/kazma"
-  },
-  {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
     "id": "Arasz/ai-raccoon",
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-15T14:11:38Z",
+    "updated_at": "2026-08-15T14:15:32Z",
     "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
@@ -148,8 +220,8 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 37510,
-    "updated_at": "2026-08-15T14:10:47Z",
+    "stars": 37513,
+    "updated_at": "2026-08-15T14:17:31Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -293,7 +365,7 @@
     "language": "TypeScript",
     "name": "blakebauman/contentworker",
     "stars": 0,
-    "updated_at": "2026-08-15T14:07:42Z",
+    "updated_at": "2026-08-15T14:15:32Z",
     "url": "https://github.com/blakebauman/contentworker"
   },
   {
@@ -333,15 +405,6 @@
     "url": "https://github.com/varadharajanv0310/SEVA-RAG"
   },
   {
-    "description": "25 audited Uzbek legal codes, article-level JSONL, CC0",
-    "id": "javohirmat/uzbek-legal-corpus",
-    "language": "JavaScript",
-    "name": "javohirmat/uzbek-legal-corpus",
-    "stars": 3,
-    "updated_at": "2026-08-15T14:15:16Z",
-    "url": "https://github.com/javohirmat/uzbek-legal-corpus"
-  },
-  {
     "description": "A practical, book-style field guide for Forward Deployed AI Engineers covering LLMs, production RAG, agents, LangGraph, ",
     "id": "ajaypv/fde101",
     "language": "MDX",
@@ -349,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T14:06:55Z",
     "url": "https://github.com/ajaypv/fde101"
-  },
-  {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 2,
-    "updated_at": "2026-08-15T14:06:53Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
   },
   {
     "description": "1,716 AI/ML interview questions with answer frameworks, 69 architecture diagrams, role-based study paths, and a voice-en",
@@ -374,7 +428,7 @@
     "language": "TypeScript",
     "name": "inite-ai/inite-brain-service",
     "stars": 32,
-    "updated_at": "2026-08-15T14:05:23Z",
+    "updated_at": "2026-08-15T14:17:36Z",
     "url": "https://github.com/inite-ai/inite-brain-service"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T14:13:02Z",
     "url": "https://github.com/RoxanaTapia/ai-doc-to-chat-pipeline"
-  },
-  {
-    "description": "\ud83c\udf32 Fast, reliable code intelligence \u2014 Tree-sitter AST parsing, contextual hybrid search, adaptive query planning, call-gr",
-    "id": "sairam0424/trelix",
-    "language": "Python",
-    "name": "sairam0424/trelix",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:12:20Z",
-    "url": "https://github.com/sairam0424/trelix"
-  },
-  {
-    "description": "Local-first knowledge-graph memory layer for AI agents \u2014 what Mem0 charges for: 4-way RRF + L2 maintenance + bilingual c",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:04:34Z",
-    "url": "https://github.com/chinesewebman/mnelo"
-  },
-  {
-    "description": "Graxon: First Open-Source Hybrid RAG to eliminate hallucinations through a persistent Knowledge Graph layer.",
-    "id": "Graxon-rag/graxon",
-    "language": "Python",
-    "name": "Graxon-rag/graxon",
-    "stars": 5,
-    "updated_at": "2026-08-15T14:04:07Z",
-    "url": "https://github.com/Graxon-rag/graxon"
-  },
-  {
-    "description": "A learning-focused Agentic RAG system built to explore LangGraph orchestration, hybrid retrieval, semantic caching, and ",
-    "id": "akshitchoudhary100/Nexus-RAG",
-    "language": "Python",
-    "name": "akshitchoudhary100/Nexus-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:04:01Z",
-    "url": "https://github.com/akshitchoudhary100/Nexus-RAG"
-  },
-  {
-    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
-    "id": "jihadkhawaja/mem0sharp",
-    "language": "C#",
-    "name": "jihadkhawaja/mem0sharp",
-    "stars": 11,
-    "updated_at": "2026-08-15T14:03:10Z",
-    "url": "https://github.com/jihadkhawaja/mem0sharp"
-  },
-  {
-    "description": "Evidence-grounded RAG over synthetic insurance policy documents, with a measured chunking-strategy comparison and a test",
-    "id": "ahmedabuzaid15-git/insurance-document-rag",
-    "language": "Python",
-    "name": "ahmedabuzaid15-git/insurance-document-rag",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:02:31Z",
-    "url": "https://github.com/ahmedabuzaid15-git/insurance-document-rag"
   }
 ]
