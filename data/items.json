@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:59:48Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source, self-hosted knowledge backend for AI agents \u2014 hybrid search (vector + keyword), MCP server, 5 connectors, D",
+    "id": "Destrayon/Connapse",
+    "language": "C#",
+    "name": "Destrayon/Connapse",
+    "stars": 15,
+    "updated_at": "2026-08-15T15:59:25Z",
+    "url": "https://github.com/Destrayon/Connapse"
+  },
+  {
+    "description": "Production-style Spring AI 2.0 app: Text-to-SQL, cited RAG, support, reports, and evidence-based resume review with guar",
+    "id": "qcodingdev/spring-ai-business-copilot",
+    "language": "Java",
+    "name": "qcodingdev/spring-ai-business-copilot",
+    "stars": 3,
+    "updated_at": "2026-08-15T16:00:12Z",
+    "url": "https://github.com/qcodingdev/spring-ai-business-copilot"
+  },
+  {
+    "description": "Spatial intelligence workstation \u2014 53 live OSINT feeds, FollowTheMoney entity graph on PostgreSQL+pgvector, 9\u2011phase mult",
+    "id": "sookoothaii/IntelShed",
+    "language": "Python",
+    "name": "sookoothaii/IntelShed",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:58:39Z",
+    "url": "https://github.com/sookoothaii/IntelShed"
+  },
+  {
+    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
+    "id": "generalbots/generalbots",
+    "language": "Rust",
+    "name": "generalbots/generalbots",
+    "stars": 85,
+    "updated_at": "2026-08-15T15:58:37Z",
+    "url": "https://github.com/generalbots/generalbots"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:58:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Singapore job search and resume workflow with 76K+ live postings, RAG matching, ATS scoring, and validation-gated AI tai",
+    "id": "haomingkoo/job-hunter-sg",
+    "language": "Python",
+    "name": "haomingkoo/job-hunter-sg",
+    "stars": 5,
+    "updated_at": "2026-08-15T15:58:12Z",
+    "url": "https://github.com/haomingkoo/job-hunter-sg"
+  },
+  {
     "description": "Most RAG demos stop at \"ask a PDF a question.\" This one goes further swap chunking strategies, measure retrieval precisi",
     "id": "Saravanan-vasudevan/Rag-Evaluation-Engine",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-15T15:58:11Z",
     "url": "https://github.com/Saravanan-vasudevan/Rag-Evaluation-Engine"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 9,
+    "updated_at": "2026-08-15T15:59:29Z",
+    "url": "https://github.com/Artexis10/exomem"
   },
   {
     "description": "No-code AI chatbot platform with Zero-Speculation RAG. Train chatbots on your documents and embed them into any website ",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19062,
-    "updated_at": "2026-08-15T15:57:24Z",
+    "updated_at": "2026-08-15T15:59:42Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-15T15:55:12Z",
     "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 9,
-    "updated_at": "2026-08-15T15:58:00Z",
-    "url": "https://github.com/Artexis10/exomem"
   },
   {
     "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "blakebauman/contentworker",
     "stars": 0,
-    "updated_at": "2026-08-15T15:54:02Z",
+    "updated_at": "2026-08-15T16:00:08Z",
     "url": "https://github.com/blakebauman/contentworker"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Your local and open source business AI toolkit ...synthetic data, LoRA fine-tuning workflow, HDC retrieval, offline RAG",
     "id": "mkupermann/souprise",
     "language": "Python",
@@ -304,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T15:45:23Z",
     "url": "https://github.com/mkupermann/souprise"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MuseXR \u2014 FastAPI + GPT-4o backend for an AI museum guide at the Louvre. RAG Q&A, Vision-based sculpture recognition, and",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Srivatsa03/rag-redteam",
     "stars": 4,
-    "updated_at": "2026-08-15T15:41:38Z",
+    "updated_at": "2026-08-15T16:00:07Z",
     "url": "https://github.com/Srivatsa03/rag-redteam"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T15:40:47Z",
     "url": "https://github.com/Zephyrex21/chatsite-ai"
-  },
-  {
-    "description": "AI-native wealth advisory platform with multi-agent orchestration, live market data, and RAG intelligence. Built with La",
-    "id": "ctkaruppiah/FinAdvisorGPT",
-    "language": "Python",
-    "name": "ctkaruppiah/FinAdvisorGPT",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:40:45Z",
-    "url": "https://github.com/ctkaruppiah/FinAdvisorGPT"
-  },
-  {
-    "description": "Production-grade Arabic Poetry RAG: 355k+ classical verses, LanceDB hybrid retrieval (Vector + BM25 RRF), zero-framework",
-    "id": "BaraaJadaan/poetry-rag",
-    "language": "HTML",
-    "name": "BaraaJadaan/poetry-rag",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:39:12Z",
-    "url": "https://github.com/BaraaJadaan/poetry-rag"
-  },
-  {
-    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
-    "id": "Krzysztof318/MailFathom",
-    "language": "C#",
-    "name": "Krzysztof318/MailFathom",
-    "stars": 6,
-    "updated_at": "2026-08-15T15:39:11Z",
-    "url": "https://github.com/Krzysztof318/MailFathom"
-  },
-  {
-    "description": "A practical, first-principles handbook on production RAG & agentic systems \u2014 RU/EN/SK, built with Docusaurus.",
-    "id": "NikolaiSachok/ai-engineering-handbook",
-    "language": "Python",
-    "name": "NikolaiSachok/ai-engineering-handbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:39:09Z",
-    "url": "https://github.com/NikolaiSachok/ai-engineering-handbook"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:39:01Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   }
 ]
