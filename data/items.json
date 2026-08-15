@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multimodal, agentic RAG study tool \u2014 chat with lecture audio, YouTube & slide figures with deep-linked citations. LangGr",
+    "id": "Tanmay-Singh-24/courselens",
+    "language": "Python",
+    "name": "Tanmay-Singh-24/courselens",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:59:32Z",
+    "url": "https://github.com/Tanmay-Singh-24/courselens"
+  },
+  {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 4,
+    "updated_at": "2026-08-15T17:59:33Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:58:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG pipeline for Victron Energy documentation with pgvector, LangChain, and FastAPI",
+    "id": "4alvit/energy-data-rag-pipeline",
+    "language": "Python",
+    "name": "4alvit/energy-data-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:58:47Z",
+    "url": "https://github.com/4alvit/energy-data-rag-pipeline"
+  },
+  {
     "description": "NLP engineering for FinTech : TF-IDF to BERT fine-tuning to RAG to LLM agents. Real payment domain.",
     "id": "mitalidaduria/nlp-payments-lab",
     "language": "Jupyter Notebook",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "heymrun/heym",
     "stars": 936,
-    "updated_at": "2026-08-15T17:58:14Z",
+    "updated_at": "2026-08-15T17:59:58Z",
     "url": "https://github.com/heymrun/heym"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T17:54:16Z",
     "url": "https://github.com/tridibbanik17/CUTC-Transform-Hackathon-2026"
-  },
-  {
-    "description": "Multimodal, agentic RAG study tool \u2014 chat with lecture audio, YouTube & slide figures with deep-linked citations. LangGr",
-    "id": "Tanmay-Singh-24/courselens",
-    "language": "Python",
-    "name": "Tanmay-Singh-24/courselens",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:53:47Z",
-    "url": "https://github.com/Tanmay-Singh-24/courselens"
   },
   {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
@@ -396,15 +423,6 @@
     "url": "https://github.com/keenableai/keenable-sdk"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T17:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MCP server for business-intelligence agents \u2014 6 tools / 6 resources / 1 prompt over real KPI analytics; works from Claud",
     "id": "Yacine-ai-tech/AgentKit",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-15T17:44:38Z",
     "url": "https://github.com/geboai/Gebo.ai"
-  },
-  {
-    "description": "Flask backend for RoadSense AI, providing road issue prediction, local AI chat, and RAG APIs.",
-    "id": "Jaturaput-Jongsubcharoen/RoadSense-AI-Backend",
-    "language": "Python",
-    "name": "Jaturaput-Jongsubcharoen/RoadSense-AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:44:05Z",
-    "url": "https://github.com/Jaturaput-Jongsubcharoen/RoadSense-AI-Backend"
-  },
-  {
-    "description": "Assistant de voyage LLM : base de connaissances RAG + tool calling, routage automatique par une seule boucle de function",
-    "id": "SaadTadja/SafarIA-Assistant",
-    "language": "Python",
-    "name": "SaadTadja/SafarIA-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:43:51Z",
-    "url": "https://github.com/SaadTadja/SafarIA-Assistant"
   }
 ]
