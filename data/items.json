@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:32:22Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
+    "description": "Local-first AI knowledge pipeline: Scrapling crawler + video-note sync + book-to-skill + ChromaDB/Ollama RAG with SiYuan",
+    "id": "YuMu247/kb-rag",
+    "language": "Python",
+    "name": "YuMu247/kb-rag",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:31:21Z",
+    "url": "https://github.com/YuMu247/kb-rag"
+  },
+  {
+    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
+    "id": "Arasz/ai-raccoon",
+    "language": "C#",
+    "name": "Arasz/ai-raccoon",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:32:40Z",
+    "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "Autonomous, local-first multi-agent AI assistant framework built in TypeScript. Features native terminal & browser autom",
+    "id": "RAGHUTTAMA-DEV/Athena",
+    "language": "TypeScript",
+    "name": "RAGHUTTAMA-DEV/Athena",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:30:41Z",
+    "url": "https://github.com/RAGHUTTAMA-DEV/Athena"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T19:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T19:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build a production text-to-SQL data agent from scratch. No frameworks, no black boxes, no demo mode. Runs offline on a l",
+    "id": "chanderbhanu096/data-agent-from-scratch",
+    "language": "Python",
+    "name": "chanderbhanu096/data-agent-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:30:11Z",
+    "url": "https://github.com/chanderbhanu096/data-agent-from-scratch"
+  },
+  {
     "description": "Agentic system for situation report, secondary reviews, weekly bulletin, proposal writing and more",
     "id": "serkankzlrmk/sightline",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "jagoff/memo",
     "stars": 12,
-    "updated_at": "2026-08-15T19:28:24Z",
+    "updated_at": "2026-08-15T19:32:42Z",
     "url": "https://github.com/jagoff/memo"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T19:28:17Z",
     "url": "https://github.com/ddmd72/alekbot-core"
-  },
-  {
-    "description": "Autonomous, local-first multi-agent AI assistant framework built in TypeScript. Features native terminal & browser autom",
-    "id": "RAGHUTTAMA-DEV/Athena",
-    "language": "TypeScript",
-    "name": "RAGHUTTAMA-DEV/Athena",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:27:48Z",
-    "url": "https://github.com/RAGHUTTAMA-DEV/Athena"
   },
   {
     "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
@@ -194,7 +248,7 @@
     "language": "HTML",
     "name": "gaurav-gandhi-2411/gg-portfolio",
     "stars": 0,
-    "updated_at": "2026-08-15T19:28:07Z",
+    "updated_at": "2026-08-15T19:32:41Z",
     "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
   },
   {
@@ -234,15 +288,6 @@
     "url": "https://github.com/lycohana/BiliSum"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T19:23:18Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted personal AI knowledge brain -- hybrid (vector + keyword + entity-graph) search over your notes and code, ser",
     "id": "timurgaleev/memex",
     "language": "TypeScript",
@@ -250,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T19:24:11Z",
     "url": "https://github.com/timurgaleev/memex"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:24:10Z",
-    "url": "https://github.com/wish-maker/minder"
   },
   {
     "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
@@ -405,15 +441,6 @@
     "url": "https://github.com/akallam04/shopify-support-agent"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T19:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
     "id": "jee3m/augmentative-knowledge-hooks",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T19:14:45Z",
     "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 33,
-    "updated_at": "2026-08-15T19:14:42Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "Self-hosted AI company OS for solo founders: autonomous agents, ERPNext business memory, and owner-visible governance.",
-    "id": "Hyper-AI-Lab/cyber-ai-team",
-    "language": "Python",
-    "name": "Hyper-AI-Lab/cyber-ai-team",
-    "stars": 6,
-    "updated_at": "2026-08-15T19:14:28Z",
-    "url": "https://github.com/Hyper-AI-Lab/cyber-ai-team"
-  },
-  {
-    "description": "Built for LLMs memory",
-    "id": "arunksn/Adaptive-Conversational-Memory",
-    "language": "Python",
-    "name": "arunksn/Adaptive-Conversational-Memory",
-    "stars": 0,
-    "updated_at": "2026-08-15T19:13:28Z",
-    "url": "https://github.com/arunksn/Adaptive-Conversational-Memory"
   }
 ]
