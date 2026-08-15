@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
+    "id": "jasonssdev/openkos",
+    "language": "Python",
+    "name": "jasonssdev/openkos",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:44:57Z",
+    "url": "https://github.com/jasonssdev/openkos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:44:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:43:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ask-Echo is a lightweight, production-grade Retrieval-Augmented Generation (RAG) backend and React frontend that allows ",
     "id": "Rudra-PT/ask-echo",
     "language": "Python",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19062,
-    "updated_at": "2026-08-15T11:42:52Z",
+    "updated_at": "2026-08-15T11:44:26Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -360,24 +387,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A production-grade RAG platform with hybrid retrieval, multi-tenancy, and streaming chat.",
     "id": "ollmo-go/ollmo",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T11:25:45Z",
     "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:25:29Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
