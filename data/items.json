@@ -1,12 +1,21 @@
 [
   {
-    "description": "Claim-level grounding eval for RAG. Verifies each claim against only the chunk it cites, and surfaces the failure mode c",
-    "id": "samarpassey/ledger",
+    "description": "RAG for code documentation. A repo for exploring retrieval techniques.",
+    "id": "Mimran0715/docs_rag",
     "language": "Python",
-    "name": "samarpassey/ledger",
-    "stars": 1,
-    "updated_at": "2026-08-15T22:44:57Z",
-    "url": "https://github.com/samarpassey/ledger"
+    "name": "Mimran0715/docs_rag",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:48:20Z",
+    "url": "https://github.com/Mimran0715/docs_rag"
+  },
+  {
+    "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
+    "id": "Arpit104147/DeepThink-AIOS",
+    "language": "Python",
+    "name": "Arpit104147/DeepThink-AIOS",
+    "stars": 5,
+    "updated_at": "2026-08-15T22:48:06Z",
+    "url": "https://github.com/Arpit104147/DeepThink-AIOS"
   },
   {
     "description": "Open source agentic operating system",
@@ -14,8 +23,98 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19063,
-    "updated_at": "2026-08-15T22:45:18Z",
+    "updated_at": "2026-08-15T22:48:05Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Dxrk Ecosystem Configurator \u2014 supercharge AI coding agents",
+    "id": "Dxrk777/Dxrk",
+    "language": "Python",
+    "name": "Dxrk777/Dxrk",
+    "stars": 1,
+    "updated_at": "2026-08-15T22:47:50Z",
+    "url": "https://github.com/Dxrk777/Dxrk"
+  },
+  {
+    "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
+    "id": "gaurav-gandhi-2411/gg-portfolio",
+    "language": "HTML",
+    "name": "gaurav-gandhi-2411/gg-portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:47:49Z",
+    "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
+  },
+  {
+    "description": "An RAG algorithm that injects an overall view of the user as context while not disregarding details.",
+    "id": "naromil/setree-rag",
+    "language": "C++",
+    "name": "naromil/setree-rag",
+    "stars": 1,
+    "updated_at": "2026-08-15T22:47:31Z",
+    "url": "https://github.com/naromil/setree-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:47:11Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Outis Mneme \u2014 self-hosted LLM inference + document RAG on NVIDIA GB10: llama.cpp (Qwen3.5-122B, nomic/bge-m3), Open WebU",
+    "id": "ankurtrapasiya/outis-mneme",
+    "language": "Python",
+    "name": "ankurtrapasiya/outis-mneme",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:45:56Z",
+    "url": "https://github.com/ankurtrapasiya/outis-mneme"
+  },
+  {
+    "description": "AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat w",
+    "id": "Deodat-Lawson/LaunchStack",
+    "language": "TypeScript",
+    "name": "Deodat-Lawson/LaunchStack",
+    "stars": 885,
+    "updated_at": "2026-08-15T22:47:14Z",
+    "url": "https://github.com/Deodat-Lawson/LaunchStack"
+  },
+  {
+    "description": "Compendio is an MCP server that indexes a project's markdown documentation and exposes it to any AI agent.",
+    "id": "RuloGB/compendio-mcp",
+    "language": "TypeScript",
+    "name": "RuloGB/compendio-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:45:46Z",
+    "url": "https://github.com/RuloGB/compendio-mcp"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3253,
+    "updated_at": "2026-08-15T22:47:23Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Claim-level grounding eval for RAG. Verifies each claim against only the chunk it cites, and surfaces the failure mode c",
+    "id": "samarpassey/ledger",
+    "language": "Python",
+    "name": "samarpassey/ledger",
+    "stars": 1,
+    "updated_at": "2026-08-15T22:44:57Z",
+    "url": "https://github.com/samarpassey/ledger"
   },
   {
     "description": "AI-powered adaptive learning platform - team capstone project (RAG, LLM tutoring, curriculum management)",
@@ -189,24 +288,6 @@
     "url": "https://github.com/mimfort/rag_for_git"
   },
   {
-    "description": "AI-powered StartUp Accelerator Engine built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat w",
-    "id": "Deodat-Lawson/LaunchStack",
-    "language": "TypeScript",
-    "name": "Deodat-Lawson/LaunchStack",
-    "stars": 885,
-    "updated_at": "2026-08-15T22:38:57Z",
-    "url": "https://github.com/Deodat-Lawson/LaunchStack"
-  },
-  {
-    "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
-    "id": "Arpit104147/DeepThink-AIOS",
-    "language": "Python",
-    "name": "Arpit104147/DeepThink-AIOS",
-    "stars": 5,
-    "updated_at": "2026-08-15T22:37:14Z",
-    "url": "https://github.com/Arpit104147/DeepThink-AIOS"
-  },
-  {
     "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
     "id": "alimaandev/Friday",
     "language": "Python",
@@ -261,15 +342,6 @@
     "url": "https://github.com/yasmine2512/LangGraph-Ai-Agent"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3253,
-    "updated_at": "2026-08-15T22:45:16Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "Harness de avaliacao para RAG sobre normativos do BACEN. 44,6% do corpus esta revogado e 80% das perguntas entregam norm",
     "id": "guilhermehrsilva/regulatory-rag-eval",
     "language": "Python",
@@ -295,24 +367,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T22:41:43Z",
     "url": "https://github.com/Dhruv-Mishra/portfolioWebsite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T22:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T22:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T22:28:41Z",
     "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "MCP server for Autodesk Flame \u2014 clip control, timelines, and effects with RAG search, anti-hallucination safety, and sel",
-    "id": "abrahamADSK/flame-mcp",
-    "language": "Python",
-    "name": "abrahamADSK/flame-mcp",
-    "stars": 7,
-    "updated_at": "2026-08-15T22:28:37Z",
-    "url": "https://github.com/abrahamADSK/flame-mcp"
-  },
-  {
-    "description": "Self-curating memory for LLM agents: MeMo-style external memory kept honest by survival-based selection. No reward model",
-    "id": "rogermsc/darwin-memo",
-    "language": "Python",
-    "name": "rogermsc/darwin-memo",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:28:36Z",
-    "url": "https://github.com/rogermsc/darwin-memo"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-15T22:27:33Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Multi-agent insurance customer support system built with LangGraph and Claude: a Supervisor routes queries to Policy, Bi",
-    "id": "kumarthiagarajan/insurance-support-agent",
-    "language": "Python",
-    "name": "kumarthiagarajan/insurance-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:26:41Z",
-    "url": "https://github.com/kumarthiagarajan/insurance-support-agent"
-  },
-  {
-    "description": "Dxrk Ecosystem Configurator \u2014 supercharge AI coding agents",
-    "id": "Dxrk777/Dxrk",
-    "language": "Python",
-    "name": "Dxrk777/Dxrk",
-    "stars": 1,
-    "updated_at": "2026-08-15T22:26:33Z",
-    "url": "https://github.com/Dxrk777/Dxrk"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T22:26:29Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
