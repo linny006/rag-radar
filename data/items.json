@@ -1,5 +1,86 @@
 [
   {
+    "description": "Persona-aware AI analytics & RAG copilot \u2014 9 role-scoped personas, hybrid retrieval (BGE+BM25+RRF+reranker) + GraphRAG-l",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 2,
+    "updated_at": "2026-08-15T10:46:54Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "",
+    "id": "vs4vijay/vibecoding",
+    "language": "JavaScript",
+    "name": "vs4vijay/vibecoding",
+    "stars": 0,
+    "updated_at": "2026-08-15T10:46:46Z",
+    "url": "https://github.com/vs4vijay/vibecoding"
+  },
+  {
+    "description": "A fully local Retrieval Augmented Generation (RAG) pipeline that allows an LLM to answer questions using external knowle",
+    "id": "HxWildE/Local_ai_tutor",
+    "language": "Python",
+    "name": "HxWildE/Local_ai_tutor",
+    "stars": 0,
+    "updated_at": "2026-08-15T10:46:39Z",
+    "url": "https://github.com/HxWildE/Local_ai_tutor"
+  },
+  {
+    "description": "Local-first knowledge-graph memory layer for AI agents \u2014 what Mem0 charges for: 4-way RRF + L2 maintenance + bilingual c",
+    "id": "chinesewebman/mnelo",
+    "language": "Python",
+    "name": "chinesewebman/mnelo",
+    "stars": 1,
+    "updated_at": "2026-08-15T10:46:36Z",
+    "url": "https://github.com/chinesewebman/mnelo"
+  },
+  {
+    "description": "A structured and rule-guided multi-agent framework for interpretable legal reasoning.",
+    "id": "AKAFX/LGAgent",
+    "language": "Python",
+    "name": "AKAFX/LGAgent",
+    "stars": 1,
+    "updated_at": "2026-08-15T10:46:13Z",
+    "url": "https://github.com/AKAFX/LGAgent"
+  },
+  {
+    "description": "K\u1ebft n\u1ed1i tri th\u1ee9c y h\u1ecdc c\u1ed5 truy\u1ec1n v\u1edbi c\u00f4ng ngh\u1ec7 hi\u1ec7n \u0111\u1ea1i ",
+    "id": "hadv/yitam",
+    "language": "TypeScript",
+    "name": "hadv/yitam",
+    "stars": 3,
+    "updated_at": "2026-08-15T10:46:02Z",
+    "url": "https://github.com/hadv/yitam"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) \u2013 From Basics to Advanced",
+    "id": "SamanCh/RAG_implementations",
+    "language": "Python",
+    "name": "SamanCh/RAG_implementations",
+    "stars": 0,
+    "updated_at": "2026-08-15T10:45:33Z",
+    "url": "https://github.com/SamanCh/RAG_implementations"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T10:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T10:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
     "id": "aureliocpr-ctrl/verimem",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19060,
-    "updated_at": "2026-08-15T10:44:51Z",
+    "updated_at": "2026-08-15T10:46:40Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "0verL1nk/PaperSage",
     "stars": 38,
-    "updated_at": "2026-08-15T10:43:56Z",
+    "updated_at": "2026-08-15T10:46:31Z",
     "url": "https://github.com/0verL1nk/PaperSage"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "Retrieval-Augmented Generation (RAG) \u2013 From Basics to Advanced",
-    "id": "SamanCh/RAG_implementations",
-    "language": "Python",
-    "name": "SamanCh/RAG_implementations",
-    "stars": 0,
-    "updated_at": "2026-08-15T10:45:14Z",
-    "url": "https://github.com/SamanCh/RAG_implementations"
-  },
-  {
     "description": "Ask-Echo is a lightweight, production-grade Retrieval-Augmented Generation (RAG) backend and React frontend that allows ",
     "id": "Rudra-PT/ask-echo",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T10:41:44Z",
     "url": "https://github.com/Rudra-PT/ask-echo"
-  },
-  {
-    "description": "K\u1ebft n\u1ed1i tri th\u1ee9c y h\u1ecdc c\u1ed5 truy\u1ec1n v\u1edbi c\u00f4ng ngh\u1ec7 hi\u1ec7n \u0111\u1ea1i ",
-    "id": "hadv/yitam",
-    "language": "TypeScript",
-    "name": "hadv/yitam",
-    "stars": 3,
-    "updated_at": "2026-08-15T10:42:42Z",
-    "url": "https://github.com/hadv/yitam"
   },
   {
     "description": "Local-first desktop AI cowork assistant (Tauri). Open a project folder; work with Word, Excel, PDF using local memory an",
@@ -178,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-15T10:37:29Z",
     "url": "https://github.com/alimaandev/Friday"
-  },
-  {
-    "description": "Local-first knowledge-graph memory layer for AI agents \u2014 what Mem0 charges for: 4-way RRF + L2 maintenance + bilingual c",
-    "id": "chinesewebman/mnelo",
-    "language": "Python",
-    "name": "chinesewebman/mnelo",
-    "stars": 1,
-    "updated_at": "2026-08-15T10:37:18Z",
-    "url": "https://github.com/chinesewebman/mnelo"
   },
   {
     "description": "AI brain for your Paperless-ngx archive \u2014 chat with your documents via local (Ollama) or cloud  LLMs, with agentic tool ",
@@ -342,15 +396,6 @@
     "url": "https://github.com/ontorag/ontorag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T10:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Vision-first document AI \u2014 drop a PDF/image, get structured JSON. Three routes (Claude Vision / local Ollama / Tesseract",
     "id": "Yacine-ai-tech/DocIntel",
     "language": "Python",
@@ -358,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T10:30:24Z",
     "url": "https://github.com/Yacine-ai-tech/DocIntel"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T10:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T10:29:38Z",
     "url": "https://github.com/limingren0803-lgtm/Mako-Public"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-15T10:29:15Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-15T10:29:07Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "API based inference server with real-time token streaming (SSE) and interrupt support.",
-    "id": "rahul-dangi-ai/streaming-llm-inference",
-    "language": "Python",
-    "name": "rahul-dangi-ai/streaming-llm-inference",
-    "stars": 0,
-    "updated_at": "2026-08-15T10:28:23Z",
-    "url": "https://github.com/rahul-dangi-ai/streaming-llm-inference"
-  },
-  {
-    "description": "AI pull-request reviewer: hybrid RAG + a code graph + Claude Code. Whole-repo context, inline GitHub comments grounded o",
-    "id": "mimfort/rag_for_git",
-    "language": "Python",
-    "name": "mimfort/rag_for_git",
-    "stars": 20,
-    "updated_at": "2026-08-15T10:28:12Z",
-    "url": "https://github.com/mimfort/rag_for_git"
   }
 ]
