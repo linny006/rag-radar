@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "My complete journey to becoming an Agentic AI Engineer through structured learning, projects, experiments, and productio",
+    "id": "NIKHIL-KASHMEERABEN-RUPALA/Agentic_AI_Engineer",
+    "language": "Jupyter Notebook",
+    "name": "NIKHIL-KASHMEERABEN-RUPALA/Agentic_AI_Engineer",
+    "stars": 20,
+    "updated_at": "2026-08-15T03:14:53Z",
+    "url": "https://github.com/NIKHIL-KASHMEERABEN-RUPALA/Agentic_AI_Engineer"
+  },
+  {
+    "description": "Daily updated bilingual collection of trending AI projects on GitHub.",
+    "id": "dingminghbut/Awesome-AI-GitHub",
+    "language": "TypeScript",
+    "name": "dingminghbut/Awesome-AI-GitHub",
+    "stars": 1,
+    "updated_at": "2026-08-15T03:14:43Z",
+    "url": "https://github.com/dingminghbut/Awesome-AI-GitHub"
+  },
+  {
+    "description": "Fully local document intelligence for DeepSeek Harness. Parse PDF, Office files, images, and scanned documents with offl",
+    "id": "Sqhao-O/dsh-docs",
+    "language": "TypeScript",
+    "name": "Sqhao-O/dsh-docs",
+    "stars": 3,
+    "updated_at": "2026-08-15T03:13:38Z",
+    "url": "https://github.com/Sqhao-O/dsh-docs"
+  },
+  {
+    "description": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
+    "id": "kraft87/synapse",
+    "language": "Python",
+    "name": "kraft87/synapse",
+    "stars": 0,
+    "updated_at": "2026-08-15T03:13:15Z",
+    "url": "https://github.com/kraft87/synapse"
+  },
+  {
+    "description": "\ud83e\udde0\ud83d\udcbb Reimagine the Internet as Self-Organizing Mind Map    \ud83e\udd16\ud83d\udd0e STREAM: Search with Top Result Extraction & Answer Model \ud83d\udcc8\ud83d\udcdd ",
+    "id": "OpenSourceAGI/qwksearch-research-agent",
+    "language": "TypeScript",
+    "name": "OpenSourceAGI/qwksearch-research-agent",
+    "stars": 73,
+    "updated_at": "2026-08-15T03:12:56Z",
+    "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T03:11:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 1,
+    "updated_at": "2026-08-15T03:11:22Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
     "description": "Self-hostable, MCP-native memory backend for teams of humans and AI agents. A FastAPI service enforces a tagging contrac",
     "id": "mrboups/xbrain",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19054,
-    "updated_at": "2026-08-15T03:11:15Z",
+    "updated_at": "2026-08-15T03:11:39Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24237,
-    "updated_at": "2026-08-15T03:10:58Z",
+    "updated_at": "2026-08-15T03:14:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -50,7 +122,7 @@
     "language": "C#",
     "name": "Destrayon/Connapse",
     "stars": 15,
-    "updated_at": "2026-08-15T03:09:33Z",
+    "updated_at": "2026-08-15T03:12:44Z",
     "url": "https://github.com/Destrayon/Connapse"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T03:07:46Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "\ud83e\udde0\ud83d\udcbb Reimagine the Internet as Self-Organizing Mind Map    \ud83e\udd16\ud83d\udd0e STREAM: Search with Top Result Extraction & Answer Model \ud83d\udcc8\ud83d\udcdd ",
-    "id": "OpenSourceAGI/qwksearch-research-agent",
-    "language": "TypeScript",
-    "name": "OpenSourceAGI/qwksearch-research-agent",
-    "stars": 73,
-    "updated_at": "2026-08-15T03:08:55Z",
-    "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
   },
   {
     "description": "KnowLP-RAG: dual knowledge-graph RAG for Markdown notes \u2014 dsh plugin add @eqman00003/knowlp-rag \u00b7 MCP + native Cordis pl",
@@ -216,24 +279,6 @@
     "url": "https://github.com/cgfixit/CyClaw"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T03:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T03:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source engine for turning documentation sites into searchable, MCP-accessible context for humans and coding agents.",
     "id": "Amal-David/docingest",
     "language": "TypeScript",
@@ -259,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T02:58:37Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
-    "id": "kraft87/synapse",
-    "language": "Python",
-    "name": "kraft87/synapse",
-    "stars": 0,
-    "updated_at": "2026-08-15T03:10:08Z",
-    "url": "https://github.com/kraft87/synapse"
   },
   {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T02:52:48Z",
     "url": "https://github.com/rhoel7/rs-ai-chat"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-15T02:51:51Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
-  },
-  {
-    "description": "A local, private personal knowledge engine to guide your AI, all on your own hardware. Cited, grounded, non-hallucinator",
-    "id": "dantroline-sys/vinur",
-    "language": "Python",
-    "name": "dantroline-sys/vinur",
-    "stars": 0,
-    "updated_at": "2026-08-15T02:49:58Z",
-    "url": "https://github.com/dantroline-sys/vinur"
-  },
-  {
-    "description": "Enterprise policy AI Q&A system \u2014 policy management + RAG Q&A + action  guidance, deployable on-premises",
-    "id": "johnnyhcm/XunRAG",
-    "language": "TypeScript",
-    "name": "johnnyhcm/XunRAG",
-    "stars": 1,
-    "updated_at": "2026-08-15T02:49:52Z",
-    "url": "https://github.com/johnnyhcm/XunRAG"
-  },
-  {
-    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
-    "id": "juspay/neurolink",
-    "language": "TypeScript",
-    "name": "juspay/neurolink",
-    "stars": 121,
-    "updated_at": "2026-08-15T02:57:16Z",
-    "url": "https://github.com/juspay/neurolink"
   }
 ]
