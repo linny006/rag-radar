@@ -1,5 +1,122 @@
 [
   {
+    "description": "A high-performance memory management system for AI agents using SQLite with zlib compression. Designed for the agentic s",
+    "id": "marc-shade/enhanced-memory-mcp",
+    "language": "Python",
+    "name": "marc-shade/enhanced-memory-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:17:23Z",
+    "url": "https://github.com/marc-shade/enhanced-memory-mcp"
+  },
+  {
+    "description": "Open-source metasearch backend, MCP server, and AI search API for LLM agents. Python FastAPI search gateway with Google ",
+    "id": "gefsikatsinelou/MetaSearchMCP",
+    "language": "Python",
+    "name": "gefsikatsinelou/MetaSearchMCP",
+    "stars": 52,
+    "updated_at": "2026-08-15T17:17:19Z",
+    "url": "https://github.com/gefsikatsinelou/MetaSearchMCP"
+  },
+  {
+    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
+    "id": "Arasz/ai-raccoon",
+    "language": "C#",
+    "name": "Arasz/ai-raccoon",
+    "stars": 1,
+    "updated_at": "2026-08-15T17:17:10Z",
+    "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "\u57fa\u4e8e DeepSeek Harness \u7684\u667a\u80fd\u5ba2\u670d\u5de5\u5355\u5904\u7406 Agent\uff1a\u81ea\u52a8\u5206\u7c7b\u3001\u4f18\u5148\u7ea7\u8bc4\u4f30\u3001\u77e5\u8bc6\u5e93\u68c0\u7d22\uff08BM25\uff09\u4e0e\u5efa\u8bae\u7b54\u590d\uff0c\u7ed3\u8bba\u5199\u56de SQLite \u5e76\u53ef\u5168\u7a0b\u5ba1\u8ba1",
+    "id": "weol0820/ticket-agent",
+    "language": "Python",
+    "name": "weol0820/ticket-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:17:00Z",
+    "url": "https://github.com/weol0820/ticket-agent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T17:16:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
+    "id": "alimaandev/Friday",
+    "language": "Python",
+    "name": "alimaandev/Friday",
+    "stars": 5,
+    "updated_at": "2026-08-15T17:16:39Z",
+    "url": "https://github.com/alimaandev/Friday"
+  },
+  {
+    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
+    "id": "tobocop2/lilbee",
+    "language": "Python",
+    "name": "tobocop2/lilbee",
+    "stars": 44,
+    "updated_at": "2026-08-15T17:16:26Z",
+    "url": "https://github.com/tobocop2/lilbee"
+  },
+  {
+    "description": "A local-first, open-source knowledge engine for document ingestion, retrieval, grounded synthesis, citations, and MCP. P",
+    "id": "atharvpatil2748/Mnemo",
+    "language": "Python",
+    "name": "atharvpatil2748/Mnemo",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:16:13Z",
+    "url": "https://github.com/atharvpatil2748/Mnemo"
+  },
+  {
+    "description": "Local-first AI memory for coding agents. NouGenShards stores reusable \"shards\" in a local SQLite + FTS5 database with ou",
+    "id": "Who-Visions/NouGenShards",
+    "language": "Python",
+    "name": "Who-Visions/NouGenShards",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:15:56Z",
+    "url": "https://github.com/Who-Visions/NouGenShards"
+  },
+  {
+    "description": "Local-first personal AI assistant & operating system \u2014 a real-life JARVIS / FRIDAY (Tony Stark\u2013style AI): voice, autonom",
+    "id": "LakshyaBadjatya/Friday",
+    "language": "Python",
+    "name": "LakshyaBadjatya/Friday",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:15:35Z",
+    "url": "https://github.com/LakshyaBadjatya/Friday"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T17:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Chrome extension that turns your course materials into a RAG-powered AI study tutor. Upload lectures, exams, and notes \u2014",
+    "id": "tridibbanik17/CUTC-Transform-Hackathon-2026",
+    "language": "JavaScript",
+    "name": "tridibbanik17/CUTC-Transform-Hackathon-2026",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:14:58Z",
+    "url": "https://github.com/tridibbanik17/CUTC-Transform-Hackathon-2026"
+  },
+  {
     "description": "AI agent job-search platform \u2014 resume analysis, job matching across LinkedIn/Indeed/Glassdoor, and interview prep in one",
     "id": "Zulqarnain-10/JobCraft",
     "language": "Python",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "schuecl/nexus-rag",
     "stars": 2,
-    "updated_at": "2026-08-15T17:14:18Z",
+    "updated_at": "2026-08-15T17:16:05Z",
     "url": "https://github.com/schuecl/nexus-rag"
   },
   {
@@ -34,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T17:14:08Z",
     "url": "https://github.com/JW020799/JW020799.github.io"
-  },
-  {
-    "description": "A local-first, open-source knowledge engine for document ingestion, retrieval, grounded synthesis, citations, and MCP. P",
-    "id": "atharvpatil2748/Mnemo",
-    "language": "Python",
-    "name": "atharvpatil2748/Mnemo",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:13:52Z",
-    "url": "https://github.com/atharvpatil2748/Mnemo"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -153,15 +261,6 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Local-first personal AI assistant & operating system \u2014 a real-life JARVIS / FRIDAY (Tony Stark\u2013style AI): voice, autonom",
-    "id": "LakshyaBadjatya/Friday",
-    "language": "Python",
-    "name": "LakshyaBadjatya/Friday",
-    "stars": 2,
-    "updated_at": "2026-08-15T17:10:34Z",
-    "url": "https://github.com/LakshyaBadjatya/Friday"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -261,15 +360,6 @@
     "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:12:58Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
     "description": "Assistant de voyage LLM : base de connaissances RAG + tool calling, routage automatique par une seule boucle de function",
     "id": "SaadTadja/SafarIA-Assistant",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T17:05:31Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Natural-language video editor where hallucinated cuts are structurally impossible. The LLM never emits a timestamp \u2014 a c",
-    "id": "ShAuRyA-Noodle/AI-Cut",
-    "language": "Python",
-    "name": "ShAuRyA-Noodle/AI-Cut",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:05:17Z",
-    "url": "https://github.com/ShAuRyA-Noodle/AI-Cut"
-  },
-  {
-    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
-    "id": "generalbots/generalbots",
-    "language": "Rust",
-    "name": "generalbots/generalbots",
-    "stars": 85,
-    "updated_at": "2026-08-15T17:04:23Z",
-    "url": "https://github.com/generalbots/generalbots"
-  },
-  {
-    "description": "Ultra-lightweight native AI agent framework written entirely in Object Pascal for Delphi and Free Pascal, designed for p",
-    "id": "FMXExpress/PasClaw",
-    "language": "Pascal",
-    "name": "FMXExpress/PasClaw",
-    "stars": 47,
-    "updated_at": "2026-08-15T17:12:40Z",
-    "url": "https://github.com/FMXExpress/PasClaw"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 9,
-    "updated_at": "2026-08-15T17:05:48Z",
-    "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 90,
-    "updated_at": "2026-08-15T17:02:42Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "\u57fa\u4e8e DeepSeek Harness \u7684\u667a\u80fd\u5ba2\u670d\u5de5\u5355\u5904\u7406 Agent\uff1a\u81ea\u52a8\u5206\u7c7b\u3001\u4f18\u5148\u7ea7\u8bc4\u4f30\u3001\u77e5\u8bc6\u5e93\u68c0\u7d22\uff08BM25\uff09\u4e0e\u5efa\u8bae\u7b54\u590d\uff0c\u7ed3\u8bba\u5199\u56de SQLite \u5e76\u53ef\u5168\u7a0b\u5ba1\u8ba1",
-    "id": "weol0820/ticket-agent",
-    "language": "Python",
-    "name": "weol0820/ticket-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:02:33Z",
-    "url": "https://github.com/weol0820/ticket-agent"
-  },
-  {
-    "description": "A local-first pipeline that turns messy, hand-typed meeting notes into a structured, searchable knowledgebase \u2014 no audio",
-    "id": "heyimmitzu/cortex",
-    "language": "Python",
-    "name": "heyimmitzu/cortex",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:02:32Z",
-    "url": "https://github.com/heyimmitzu/cortex"
-  },
-  {
-    "description": "Embed de-identified health documents and rank them with a compact local cosine index.",
-    "id": "Rp26Lwk84zb7/private-health-document-search",
-    "language": "Python",
-    "name": "Rp26Lwk84zb7/private-health-document-search",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:02:10Z",
-    "url": "https://github.com/Rp26Lwk84zb7/private-health-document-search"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:12:43Z",
-    "url": "https://github.com/wish-maker/minder"
-  },
-  {
-    "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
-    "id": "jammindev/house",
-    "language": "Python",
-    "name": "jammindev/house",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:01:20Z",
-    "url": "https://github.com/jammindev/house"
   }
 ]
