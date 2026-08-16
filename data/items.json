@@ -1,5 +1,41 @@
 [
   {
+    "description": "A RAG pipeline you can see through \u2014 retrieval, chunking, semantic caching and cost, all visible.",
+    "id": "gauravpatil97886/RagLens",
+    "language": "TypeScript",
+    "name": "gauravpatil97886/RagLens",
+    "stars": 0,
+    "updated_at": "2026-08-16T12:00:04Z",
+    "url": "https://github.com/gauravpatil97886/RagLens"
+  },
+  {
+    "description": "Zodiac Bank AI Security Lab \u2014 a hands-on, local-first training lab that takes AI security students from scratch to advan",
+    "id": "youseefhamdi/AI-Security-Lab",
+    "language": "Python",
+    "name": "youseefhamdi/AI-Security-Lab",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:59:22Z",
+    "url": "https://github.com/youseefhamdi/AI-Security-Lab"
+  },
+  {
+    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
+    "id": "jaylfc/taosmd",
+    "language": "Python",
+    "name": "jaylfc/taosmd",
+    "stars": 77,
+    "updated_at": "2026-08-16T11:58:47Z",
+    "url": "https://github.com/jaylfc/taosmd"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:58:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The Open-Source Local-First AI Chief of Staff & Thought Architecture framework with DB-first memory and 3-track evals.",
     "id": "Monish-Nallagondalla/Nirixa",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-08-16T11:58:35Z",
     "url": "https://github.com/Monish-Nallagondalla/Nirixa"
+  },
+  {
+    "description": "Low-footprint memory backend for AI agents \u2014 single binary, ~50MB RAM, verify-augmented accuracy",
+    "id": "djasdh/interest-memory",
+    "language": "Go",
+    "name": "djasdh/interest-memory",
+    "stars": 2,
+    "updated_at": "2026-08-16T12:00:09Z",
+    "url": "https://github.com/djasdh/interest-memory"
   },
   {
     "description": "Local RAG & LLM Sandbox Journey A high-performance, offline-first Local Retrieval-Augmented Generation (RAG) Platform de",
@@ -18,13 +63,13 @@
     "url": "https://github.com/amitkpconsulting-spec/Bookworm-RAG"
   },
   {
-    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
-    "id": "generalbots/generalbots",
-    "language": "Rust",
-    "name": "generalbots/generalbots",
-    "stars": 85,
-    "updated_at": "2026-08-16T11:57:43Z",
-    "url": "https://github.com/generalbots/generalbots"
+    "description": "AI health companion with clinical triage and a PHI boundary \u2014 self-hosted medical LLM, pgvector RAG over synthetic FHIR ",
+    "id": "xeliankunal/h-care",
+    "language": "TypeScript",
+    "name": "xeliankunal/h-care",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:58:17Z",
+    "url": "https://github.com/xeliankunal/h-care"
   },
   {
     "description": "Agentic AI reference implementation for Lights-Out finance: LangGraph close orchestrator, A0-A4 autonomy dial, hash-chai",
@@ -34,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:58:11Z",
     "url": "https://github.com/adil-bahir/lights-out-agents"
+  },
+  {
+    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
+    "id": "generalbots/generalbots",
+    "language": "Rust",
+    "name": "generalbots/generalbots",
+    "stars": 85,
+    "updated_at": "2026-08-16T11:57:43Z",
+    "url": "https://github.com/generalbots/generalbots"
   },
   {
     "description": "",
@@ -171,21 +225,12 @@
     "url": "https://github.com/cidade360/mneme-memory-forge"
   },
   {
-    "description": "Zodiac Bank AI Security Lab \u2014 a hands-on, local-first training lab that takes AI security students from scratch to advan",
-    "id": "youseefhamdi/AI-Security-Lab",
-    "language": "Python",
-    "name": "youseefhamdi/AI-Security-Lab",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:47:39Z",
-    "url": "https://github.com/youseefhamdi/AI-Security-Lab"
-  },
-  {
     "description": "Detects likely RAG failures after knowledge-base updates and localizes the stage to investigate.",
     "id": "yoon-chan-hyeok/temporal-rag-drift",
     "language": "Python",
     "name": "yoon-chan-hyeok/temporal-rag-drift",
     "stars": 0,
-    "updated_at": "2026-08-16T11:47:35Z",
+    "updated_at": "2026-08-16T11:59:55Z",
     "url": "https://github.com/yoon-chan-hyeok/temporal-rag-drift"
   },
   {
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19064,
-    "updated_at": "2026-08-16T11:46:22Z",
+    "updated_at": "2026-08-16T12:00:19Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:45:25Z",
     "url": "https://github.com/suhaniii1704/CareerPilot-AI"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Unified Agentic AI and Business Intelligence Platform",
@@ -266,7 +302,7 @@
     "language": "TypeScript",
     "name": "Iammilansoni/MiningNiti",
     "stars": 0,
-    "updated_at": "2026-08-16T11:44:27Z",
+    "updated_at": "2026-08-16T11:58:52Z",
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T11:42:15Z",
     "url": "https://github.com/IQZZ020501/NexaFlow"
-  },
-  {
-    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
-    "id": "caura-ai/caura",
-    "language": "Python",
-    "name": "caura-ai/caura",
-    "stars": 429,
-    "updated_at": "2026-08-16T11:40:04Z",
-    "url": "https://github.com/caura-ai/caura"
-  },
-  {
-    "description": "Graph-based tool retrieval for LLM agents \u2014 248 tools \u2192 82% accuracy, 79% fewer tokens. Zero dependencies. OpenAPI / MCP",
-    "id": "SonAIengine/graph-tool-call",
-    "language": "Python",
-    "name": "SonAIengine/graph-tool-call",
-    "stars": 16,
-    "updated_at": "2026-08-16T11:41:34Z",
-    "url": "https://github.com/SonAIengine/graph-tool-call"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-16T11:38:44Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
-    "id": "Arpit104147/DeepThink-AIOS",
-    "language": "Python",
-    "name": "Arpit104147/DeepThink-AIOS",
-    "stars": 5,
-    "updated_at": "2026-08-16T11:37:52Z",
-    "url": "https://github.com/Arpit104147/DeepThink-AIOS"
   }
 ]
