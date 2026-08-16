@@ -1,5 +1,50 @@
 [
   {
+    "description": "Base de conhecimento RAG-ready para desenvolvimento de software com rastreabilidade, guardrails e evals",
+    "id": "bdz-marketing/ai-engineering-knowledge-base",
+    "language": "\u2014",
+    "name": "bdz-marketing/ai-engineering-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:00:19Z",
+    "url": "https://github.com/bdz-marketing/ai-engineering-knowledge-base"
+  },
+  {
+    "description": "The coding harness that measures itself. Wraps Claude Code / Codex / OpenCode, blocks false \"done\" with an independent v",
+    "id": "adaline-ankit/oh-no-my-claudecode",
+    "language": "Python",
+    "name": "adaline-ankit/oh-no-my-claudecode",
+    "stars": 1,
+    "updated_at": "2026-08-16T17:59:19Z",
+    "url": "https://github.com/adaline-ankit/oh-no-my-claudecode"
+  },
+  {
+    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
+    "id": "kRamu81/MedTrack_Application",
+    "language": "JavaScript",
+    "name": "kRamu81/MedTrack_Application",
+    "stars": 4,
+    "updated_at": "2026-08-16T17:59:12Z",
+    "url": "https://github.com/kRamu81/MedTrack_Application"
+  },
+  {
+    "description": "Interest Growth \u2014 an AI-assisted system for cultivating durable interests through curiosity, evidence, practice, express",
+    "id": "hello-yunshu/interest-growth",
+    "language": "Python",
+    "name": "hello-yunshu/interest-growth",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:58:07Z",
+    "url": "https://github.com/hello-yunshu/interest-growth"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:58:04Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T17:57:11Z",
     "url": "https://github.com/AcnologiaK2Q/Noteworthy"
-  },
-  {
-    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
-    "id": "kRamu81/MedTrack_Application",
-    "language": "JavaScript",
-    "name": "kRamu81/MedTrack_Application",
-    "stars": 4,
-    "updated_at": "2026-08-16T17:57:11Z",
-    "url": "https://github.com/kRamu81/MedTrack_Application"
   },
   {
     "description": "Personal Portfolio Website of Dhruv Mishra. A sketchbook style website, with details about me. It also has a feedback se",
@@ -144,6 +180,15 @@
     "url": "https://github.com/wish-maker/minder"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 90888,
+    "updated_at": "2026-08-16T17:54:45Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "",
     "id": "antflydb/antfly",
     "language": "Zig",
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "felladrin/MiniSearch",
     "stars": 581,
-    "updated_at": "2026-08-16T17:54:03Z",
+    "updated_at": "2026-08-16T18:00:10Z",
     "url": "https://github.com/felladrin/MiniSearch"
   },
   {
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19066,
-    "updated_at": "2026-08-16T17:53:50Z",
+    "updated_at": "2026-08-16T17:59:23Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-08-16T17:52:01Z",
     "url": "https://github.com/rohit-gotgit/Papermind-AI"
-  },
-  {
-    "description": "Interest Growth \u2014 an AI-assisted system for cultivating durable interests through curiosity, evidence, practice, express",
-    "id": "hello-yunshu/interest-growth",
-    "language": "Python",
-    "name": "hello-yunshu/interest-growth",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:51:23Z",
-    "url": "https://github.com/hello-yunshu/interest-growth"
   },
   {
     "description": "Turn documents, wikis, emails, and Confluence/SharePoint/OneDrive/Google Drive sources into governed, provenance-bearing",
@@ -238,7 +274,7 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 152606,
+    "stars": 152607,
     "updated_at": "2026-08-16T17:50:39Z",
     "url": "https://github.com/langgenius/dify"
   },
@@ -387,15 +423,6 @@
     "url": "https://github.com/shivaumsharma/FinSight-AI"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T17:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
     "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T17:44:48Z",
     "url": "https://github.com/yeongjunyoo/onprem-mcp-data"
-  },
-  {
-    "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & edit",
-    "id": "yfedoseev/pdf_oxide",
-    "language": "Rust",
-    "name": "yfedoseev/pdf_oxide",
-    "stars": 957,
-    "updated_at": "2026-08-16T17:45:48Z",
-    "url": "https://github.com/yfedoseev/pdf_oxide"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 90887,
-    "updated_at": "2026-08-16T17:54:45Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "id": "HKUDS/DeepTutor",
-    "language": "Python",
-    "name": "HKUDS/DeepTutor",
-    "stars": 35926,
-    "updated_at": "2026-08-16T17:54:02Z",
-    "url": "https://github.com/HKUDS/DeepTutor"
   }
 ]
