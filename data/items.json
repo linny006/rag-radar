@@ -1,5 +1,131 @@
 [
   {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3253,
+    "updated_at": "2026-08-16T10:50:13Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "A quality-gated League of Legends post-game coaching agent built on deterministic match data, RAG, and LLM evaluation.",
+    "id": "123Cx330Yrx/riftcoach-agent",
+    "language": "Python",
+    "name": "123Cx330Yrx/riftcoach-agent",
+    "stars": 3,
+    "updated_at": "2026-08-16T10:48:58Z",
+    "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
+  },
+  {
+    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
+    "id": "Peuqui/AIfred-Intelligence",
+    "language": "Python",
+    "name": "Peuqui/AIfred-Intelligence",
+    "stars": 33,
+    "updated_at": "2026-08-16T10:48:30Z",
+    "url": "https://github.com/Peuqui/AIfred-Intelligence"
+  },
+  {
+    "description": "Graxon: First Open-Source Hybrid RAG to eliminate hallucinations through a persistent Knowledge Graph layer.",
+    "id": "Graxon-rag/graxon",
+    "language": "Python",
+    "name": "Graxon-rag/graxon",
+    "stars": 5,
+    "updated_at": "2026-08-16T10:48:25Z",
+    "url": "https://github.com/Graxon-rag/graxon"
+  },
+  {
+    "description": "Production-focused full-stack RAG system with hybrid retrieval, citations, traces, evals, FastAPI, and Next.js.",
+    "id": "Yashsh101/trace-rag-system",
+    "language": "Python",
+    "name": "Yashsh101/trace-rag-system",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:47:56Z",
+    "url": "https://github.com/Yashsh101/trace-rag-system"
+  },
+  {
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
+    "language": "Python",
+    "name": "schuecl/nexus-rag",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:47:47Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
+    "description": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcribes speech, reads behind login",
+    "id": "Battam1111/omniseek",
+    "language": "Python",
+    "name": "Battam1111/omniseek",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:47:12Z",
+    "url": "https://github.com/Battam1111/omniseek"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19064,
+    "updated_at": "2026-08-16T10:46:28Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
+    "id": "Hai-Wenxiang/StarryVector",
+    "language": "C++",
+    "name": "Hai-Wenxiang/StarryVector",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:46:18Z",
+    "url": "https://github.com/Hai-Wenxiang/StarryVector"
+  },
+  {
+    "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
+    "id": "alimaandev/Friday",
+    "language": "Python",
+    "name": "alimaandev/Friday",
+    "stars": 5,
+    "updated_at": "2026-08-16T10:46:16Z",
+    "url": "https://github.com/alimaandev/Friday"
+  },
+  {
+    "description": "Trustworthy RAG research platform: evidence-grounded answers, verifiable citations, and quality evaluation.",
+    "id": "wyl0828/deep-searcher-study",
+    "language": "Python",
+    "name": "wyl0828/deep-searcher-study",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:46:13Z",
+    "url": "https://github.com/wyl0828/deep-searcher-study"
+  },
+  {
+    "description": "AI-powered network intrusion detection platform  \u2014 ML ensemble (98.43% Macro F1) + sliding-window  attribution + RAG-gro",
+    "id": "prerak1603/flow-based-anomaly-detection",
+    "language": "Python",
+    "name": "prerak1603/flow-based-anomaly-detection",
+    "stars": 5,
+    "updated_at": "2026-08-16T10:45:33Z",
+    "url": "https://github.com/prerak1603/flow-based-anomaly-detection"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
     "id": "Arpit104147/DeepThink-AIOS",
     "language": "Python",
@@ -34,15 +160,6 @@
     "stars": 25,
     "updated_at": "2026-08-16T10:44:06Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Production-focused full-stack RAG system with hybrid retrieval, citations, traces, evals, FastAPI, and Next.js.",
-    "id": "Yashsh101/trace-rag-system",
-    "language": "Python",
-    "name": "Yashsh101/trace-rag-system",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:43:43Z",
-    "url": "https://github.com/Yashsh101/trace-rag-system"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -157,7 +274,7 @@
     "id": "yaminbkk/NexusMem",
     "language": "TypeScript",
     "name": "yaminbkk/NexusMem",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-08-16T10:38:11Z",
     "url": "https://github.com/yaminbkk/NexusMem"
   },
@@ -288,20 +405,11 @@
     "url": "https://github.com/dongjinpark-maker/mailkb"
   },
   {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 33,
-    "updated_at": "2026-08-16T10:34:37Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
     "description": "AI research workspace with two modes \u2014 DeepSearch turns a query into a cited web report in ~2 min; Research Mode runs a ",
     "id": "Aryan-Pardeshi/DeepResearch_AI",
     "language": "Python",
     "name": "Aryan-Pardeshi/DeepResearch_AI",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-08-16T10:34:36Z",
     "url": "https://github.com/Aryan-Pardeshi/DeepResearch_AI"
   },
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T10:31:43Z",
     "url": "https://github.com/markfietje/brain-server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:31:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Cla",
-    "id": "hjxwz123/Aivory",
-    "language": "Go",
-    "name": "hjxwz123/Aivory",
-    "stars": 5,
-    "updated_at": "2026-08-16T10:31:23Z",
-    "url": "https://github.com/hjxwz123/Aivory"
-  },
-  {
-    "description": "offline RAG assistant for biomedical engineers, built on Microsoft Foundry Local",
-    "id": "sheidacode/Improved-BioDocAI",
-    "language": "Python",
-    "name": "sheidacode/Improved-BioDocAI",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:31:06Z",
-    "url": "https://github.com/sheidacode/Improved-BioDocAI"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:30:27Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:29:22Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "AI Research Agent 2026 \ud83d\udd0d - Autonomous Deep Web Explorer & Adversarial Synthesis",
-    "id": "grassman23gith/athena-nexus",
-    "language": "HTML",
-    "name": "grassman23gith/athena-nexus",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:29:15Z",
-    "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
-    "id": "Hai-Wenxiang/StarryVector",
-    "language": "C++",
-    "name": "Hai-Wenxiang/StarryVector",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:43:27Z",
-    "url": "https://github.com/Hai-Wenxiang/StarryVector"
-  },
-  {
-    "description": "\u6f5c\u4f0f\u5728\u7ec8\u7aef\u4e0e\u684c\u9762\u91cc\u7684\u5e7d\u7075 AI \u7f16\u7a0b agent\u300cWraith\u300d\u00b7 A ghost-themed AI coding agent for terminal & desktop ",
-    "id": "JavaLyHn/wraith",
-    "language": "Java",
-    "name": "JavaLyHn/wraith",
-    "stars": 7,
-    "updated_at": "2026-08-16T10:28:45Z",
-    "url": "https://github.com/JavaLyHn/wraith"
-  },
-  {
-    "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
-    "id": "jgouviergmail/LIA-Assistant",
-    "language": "Python",
-    "name": "jgouviergmail/LIA-Assistant",
-    "stars": 40,
-    "updated_at": "2026-08-16T10:44:25Z",
-    "url": "https://github.com/jgouviergmail/LIA-Assistant"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-16T10:28:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A lightweight, open-source RAG knowledge base application that supports private data uploads, trusted question answering",
-    "id": "Cris-z123/oriona-mesh",
-    "language": "Python",
-    "name": "Cris-z123/oriona-mesh",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:27:59Z",
-    "url": "https://github.com/Cris-z123/oriona-mesh"
   }
 ]
