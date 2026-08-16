@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open-source multi-agent research platform \u2014 Planner, Researcher, Critic & Synthesizer agents with human-in-the-loop appr",
+    "id": "adityamhaske/Multi-Agent-Research-Assistant",
+    "language": "Python",
+    "name": "adityamhaske/Multi-Agent-Research-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:17:13Z",
+    "url": "https://github.com/adityamhaske/Multi-Agent-Research-Assistant"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:16:39Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Hebbia provides institutional-grade AI for finance and high-stakes enterprise work, centered on its Matrix product that ",
+    "id": "api-evangelist/hebbia",
+    "language": "\u2014",
+    "name": "api-evangelist/hebbia",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:16:28Z",
+    "url": "https://github.com/api-evangelist/hebbia"
+  },
+  {
+    "description": "Haystack is deepset's open-source Python framework for building context-engineered, production-ready LLM applications - ",
+    "id": "api-evangelist/haystack-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/haystack-ai",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:16:17Z",
+    "url": "https://github.com/api-evangelist/haystack-ai"
+  },
+  {
+    "description": "codegraph is a local-first code context engine and MCP server for repositories. It incrementally indexes source code int",
+    "id": "isink17/codegraph",
+    "language": "Go",
+    "name": "isink17/codegraph",
+    "stars": 1,
+    "updated_at": "2026-08-16T15:16:16Z",
+    "url": "https://github.com/isink17/codegraph"
+  },
+  {
+    "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise ",
+    "id": "pipeshub-ai/pipeshub-ai",
+    "language": "Python",
+    "name": "pipeshub-ai/pipeshub-ai",
+    "stars": 3297,
+    "updated_at": "2026-08-16T15:16:05Z",
+    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  },
+  {
+    "description": "Benchmarking and improving Retrieval-Augmented Generation (RAG) for low-resource and code-mixed Indian languages (Hindi,",
+    "id": "Kushagra-Kapoor-04/multilingual-rag-benchmark",
+    "language": "Python",
+    "name": "Kushagra-Kapoor-04/multilingual-rag-benchmark",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:16:04Z",
+    "url": "https://github.com/Kushagra-Kapoor-04/multilingual-rag-benchmark"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
+    "id": "justForever17/v8-agent-os",
+    "language": "Python",
+    "name": "justForever17/v8-agent-os",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:15:22Z",
+    "url": "https://github.com/justForever17/v8-agent-os"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Generative AI Professional Certification course repo (EduHubSpot Season 2) by HERE AND NOW AI - Python, LLM APIs, RAG an",
+    "id": "hereandnowai/generative-ai-professional-certification-eduhubspot-s2",
+    "language": "Python",
+    "name": "hereandnowai/generative-ai-professional-certification-eduhubspot-s2",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:15:14Z",
+    "url": "https://github.com/hereandnowai/generative-ai-professional-certification-eduhubspot-s2"
+  },
+  {
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
+    "language": "Python",
+    "name": "schuecl/nexus-rag",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:14:58Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
     "description": "Configurable RAG engine that turns unstructured news into typed trading signals \u2014 declarative pipelines, pgvector corpus",
     "id": "dc-deal/FiniexRAGEngine",
     "language": "Python",
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "blakebauman/contentworker",
     "stars": 0,
-    "updated_at": "2026-08-16T15:14:00Z",
+    "updated_at": "2026-08-16T15:15:19Z",
     "url": "https://github.com/blakebauman/contentworker"
   },
   {
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T15:12:28Z",
     "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-16T15:12:06Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "AI Agent \u667a\u80fd\u4f53\u811a\u624b\u67b6 \u00b7 LLM Agent \u6846\u67b6 / \u9879\u76ee\u811a\u624b\u67b6. Configuration-driven AI Agent backend on deepagents + LangChain + LangGraph. YAM",
@@ -297,15 +396,6 @@
     "url": "https://github.com/drpwchen/vault-search"
   },
   {
-    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
-    "id": "schuecl/nexus-rag",
-    "language": "Python",
-    "name": "schuecl/nexus-rag",
-    "stars": 2,
-    "updated_at": "2026-08-16T15:14:58Z",
-    "url": "https://github.com/schuecl/nexus-rag"
-  },
-  {
     "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
     "id": "alimaandev/Friday",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 472,
     "updated_at": "2026-08-16T15:09:26Z",
     "url": "https://github.com/lycohana/BiliSum"
-  },
-  {
-    "description": "AI-powered ICU clinical decision-support prototype with RAG, patient history analysis, trend visualization, and doctor-i",
-    "id": "Adham-Irzeqat/Smart-ICU",
-    "language": "Python",
-    "name": "Adham-Irzeqat/Smart-ICU",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:04:51Z",
-    "url": "https://github.com/Adham-Irzeqat/Smart-ICU"
-  },
-  {
-    "description": "Enterprise Conversational RAG customer support chatbot built with Python, LangChain, ChromaDB, and Streamlit. Features m",
-    "id": "mvigneswar/ai-support-chatbot",
-    "language": "Python",
-    "name": "mvigneswar/ai-support-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:04:39Z",
-    "url": "https://github.com/mvigneswar/ai-support-chatbot"
-  },
-  {
-    "description": "Local-first, agent-agnostic memory system that closes the agent loop on any AI agent. Watches any agent's transcript dir",
-    "id": "smartfind/loop-memory",
-    "language": "Python",
-    "name": "smartfind/loop-memory",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:04:20Z",
-    "url": "https://github.com/smartfind/loop-memory"
-  },
-  {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 33,
-    "updated_at": "2026-08-16T15:04:19Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "Graph-based tool retrieval for LLM agents \u2014 248 tools \u2192 82% accuracy, 79% fewer tokens. Zero dependencies. OpenAPI / MCP",
-    "id": "SonAIengine/graph-tool-call",
-    "language": "Python",
-    "name": "SonAIengine/graph-tool-call",
-    "stars": 16,
-    "updated_at": "2026-08-16T15:04:04Z",
-    "url": "https://github.com/SonAIengine/graph-tool-call"
-  },
-  {
-    "description": "\ud83e\uddec AI-powered biomedical literature review platform that retrieves PubMed papers, performs semantic search using FAISS, a",
-    "id": "sarojjriyaaa/BioResearch-AI",
-    "language": "Python",
-    "name": "sarojjriyaaa/BioResearch-AI",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:04:00Z",
-    "url": "https://github.com/sarojjriyaaa/BioResearch-AI"
-  },
-  {
-    "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
-    "id": "IgorGanapolsky/trading",
-    "language": "Python",
-    "name": "IgorGanapolsky/trading",
-    "stars": 38,
-    "updated_at": "2026-08-16T15:03:51Z",
-    "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 2,
-    "updated_at": "2026-08-16T15:03:47Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
-  },
-  {
-    "description": "Environmental-test lab platform: SOP execution, ISO 17025 report generation, fixture tracking, and AI-assisted schedulin",
-    "id": "shengsheng-cai/dqa-lab-platform",
-    "language": "Python",
-    "name": "shengsheng-cai/dqa-lab-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T15:03:37Z",
-    "url": "https://github.com/shengsheng-cai/dqa-lab-platform"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:03:31Z",
-    "url": "https://github.com/vgp7758/Agt"
   }
 ]
