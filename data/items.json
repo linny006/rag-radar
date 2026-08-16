@@ -1,5 +1,113 @@
 [
   {
+    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
+    "id": "mabaeyens/mira-core",
+    "language": "Python",
+    "name": "mabaeyens/mira-core",
+    "stars": 3,
+    "updated_at": "2026-08-16T09:01:53Z",
+    "url": "https://github.com/mabaeyens/mira-core"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3253,
+    "updated_at": "2026-08-16T09:01:29Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Production-shaped RAG helpdesk assistant \u2014 FastAPI, Celery, Qdrant, PostgreSQL, Docker Compose",
+    "id": "Pramod0210/HELPDESKPRO",
+    "language": "Python",
+    "name": "Pramod0210/HELPDESKPRO",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:01:26Z",
+    "url": "https://github.com/Pramod0210/HELPDESKPRO"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:01:24Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-16T09:01:11Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:00:55Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "A production-style retrieval-augmented generation (RAG) pipeline for arXiv research papers \u2014 fetch new papers daily, par",
+    "id": "k-Rohit/Arxiv_Paper_Curator",
+    "language": "Python",
+    "name": "k-Rohit/Arxiv_Paper_Curator",
+    "stars": 5,
+    "updated_at": "2026-08-16T09:00:41Z",
+    "url": "https://github.com/k-Rohit/Arxiv_Paper_Curator"
+  },
+  {
+    "description": "Avatar-based dementia-care assistant for iOS, Android and web \u2014 RAG chat with cited answers from a curated NZ knowledge ",
+    "id": "Richman-Tan/DementiaGuideAI",
+    "language": "JavaScript",
+    "name": "Richman-Tan/DementiaGuideAI",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:00:31Z",
+    "url": "https://github.com/Richman-Tan/DementiaGuideAI"
+  },
+  {
+    "description": "Local-first personal AI assistant & operating system \u2014 a real-life JARVIS / FRIDAY (Tony Stark\u2013style AI): voice, autonom",
+    "id": "LakshyaBadjatya/Friday",
+    "language": "Python",
+    "name": "LakshyaBadjatya/Friday",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:00:27Z",
+    "url": "https://github.com/LakshyaBadjatya/Friday"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19064,
+    "updated_at": "2026-08-16T09:01:38Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-agent-native token-efficient CLI for Tencent ima (ima.qq.com) \u2014 Hunyuan 3 / DeepSeek-V4-Flash / GLM-5.3 chat with web",
     "id": "lesterppo/hermes-ima-cli",
     "language": "Python",
@@ -9,15 +117,6 @@
     "url": "https://github.com/lesterppo/hermes-ima-cli"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19064,
-    "updated_at": "2026-08-16T08:59:49Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "",
     "id": "vin0san/retrieval-engine",
     "language": "Python",
@@ -25,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T08:59:47Z",
     "url": "https://github.com/vin0san/retrieval-engine"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 152574,
+    "updated_at": "2026-08-16T08:59:32Z",
+    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Equaxis: a governed, observable and reliable agent runtime powered by Pi.",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T08:59:05Z",
     "url": "https://github.com/shivaumsharma/FinSight-AI"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3253,
-    "updated_at": "2026-08-16T08:58:21Z",
-    "url": "https://github.com/neomjs/neo"
   },
   {
     "description": "Progressive-retrieval MCP server for Wikipedia",
@@ -99,15 +198,6 @@
     "url": "https://github.com/ollmo-go/ollmo"
   },
   {
-    "description": "Local-first personal AI assistant & operating system \u2014 a real-life JARVIS / FRIDAY (Tony Stark\u2013style AI): voice, autonom",
-    "id": "LakshyaBadjatya/Friday",
-    "language": "Python",
-    "name": "LakshyaBadjatya/Friday",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:57:35Z",
-    "url": "https://github.com/LakshyaBadjatya/Friday"
-  },
-  {
     "description": "The copilot that closes deals with you. ",
     "id": "avinashgaurav/project-wingman",
     "language": "TypeScript",
@@ -153,15 +243,6 @@
     "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
-    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
-    "id": "mabaeyens/mira-core",
-    "language": "Python",
-    "name": "mabaeyens/mira-core",
-    "stars": 3,
-    "updated_at": "2026-08-16T08:55:48Z",
-    "url": "https://github.com/mabaeyens/mira-core"
-  },
-  {
     "description": "\u4e3a Bilibili\u3001YouTube \u53ca\u672c\u5730\u89c6\u9891\u63d0\u4f9b AI \u89c6\u9891\u6458\u8981\u548c\u77e5\u8bc6\u5e93.AI video summarizer and knowledge base for Bilibili, YouTube and local videos.",
     "id": "lycohana/BiliSum",
     "language": "Python",
@@ -189,15 +270,6 @@
     "url": "https://github.com/tanmay442/Destr"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T08:54:54Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
     "id": "sturlese/stigmergy",
     "language": "Python",
@@ -205,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-08-16T08:54:50Z",
     "url": "https://github.com/sturlese/stigmergy"
-  },
-  {
-    "description": "Avatar-based dementia-care assistant for iOS, Android and web \u2014 RAG chat with cited answers from a curated NZ knowledge ",
-    "id": "Richman-Tan/DementiaGuideAI",
-    "language": "JavaScript",
-    "name": "Richman-Tan/DementiaGuideAI",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:56:07Z",
-    "url": "https://github.com/Richman-Tan/DementiaGuideAI"
   },
   {
     "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
@@ -257,7 +320,7 @@
     "language": "JavaScript",
     "name": "sepahead/sepahead",
     "stars": 0,
-    "updated_at": "2026-08-16T08:50:29Z",
+    "updated_at": "2026-08-16T09:01:52Z",
     "url": "https://github.com/sepahead/sepahead"
   },
   {
@@ -338,7 +401,7 @@
     "language": "TypeScript",
     "name": "libre-webui/libre-webui",
     "stars": 62,
-    "updated_at": "2026-08-16T08:48:01Z",
+    "updated_at": "2026-08-16T09:01:05Z",
     "url": "https://github.com/libre-webui/libre-webui"
   },
   {
@@ -349,15 +412,6 @@
     "stars": 5,
     "updated_at": "2026-08-16T08:47:49Z",
     "url": "https://github.com/alimaandev/Friday"
-  },
-  {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 152573,
-    "updated_at": "2026-08-16T08:59:32Z",
-    "url": "https://github.com/langgenius/dify"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -387,66 +441,12 @@
     "url": "https://github.com/shahd-v/rag-chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
     "id": "Arasz/ai-raccoon",
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-16T08:55:10Z",
+    "updated_at": "2026-08-16T09:02:00Z",
     "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, gra",
-    "id": "scszcoder/eCan.ai",
-    "language": "Python",
-    "name": "scszcoder/eCan.ai",
-    "stars": 16,
-    "updated_at": "2026-08-16T08:48:01Z",
-    "url": "https://github.com/scszcoder/eCan.ai"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 250,
-    "updated_at": "2026-08-16T08:47:38Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for productio",
-    "id": "Protocol-Lattice/go-agent",
-    "language": "Go",
-    "name": "Protocol-Lattice/go-agent",
-    "stars": 253,
-    "updated_at": "2026-08-16T08:43:41Z",
-    "url": "https://github.com/Protocol-Lattice/go-agent"
-  },
-  {
-    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
-    "id": "ManSio/mscodebase-intelligence",
-    "language": "Python",
-    "name": "ManSio/mscodebase-intelligence",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:43:10Z",
-    "url": "https://github.com/ManSio/mscodebase-intelligence"
   }
 ]
