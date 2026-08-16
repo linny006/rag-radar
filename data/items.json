@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19064,
+    "updated_at": "2026-08-16T02:45:20Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T02:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A Rust framework for building LLM applications with support for 8+ LLM providers, agents, RAG, BM25/hybrid search, LangG",
     "id": "atliliw/langchainrust",
     "language": "Rust",
@@ -54,15 +81,6 @@
     "url": "https://github.com/guptaneev/strength-atlas"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19064,
-    "updated_at": "2026-08-16T02:43:52Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Local, private semantic (vector) search over any folder of Markdown files. Cross-lingual, offline, no API keys, no vecto",
     "id": "chelslava/md-semantic-search",
     "language": "JavaScript",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "jaylfc/taosmd",
     "stars": 77,
-    "updated_at": "2026-08-16T02:39:27Z",
+    "updated_at": "2026-08-16T02:46:03Z",
     "url": "https://github.com/jaylfc/taosmd"
   },
   {
@@ -234,6 +252,15 @@
     "url": "https://github.com/shayeeboy/Enterprise-RAG-Assistant"
   },
   {
+    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 38894,
+    "updated_at": "2026-08-16T02:33:07Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
     "description": "Visual, step-by-step developer roadmaps for building modern AI & app systems \u2014 shared as clean, self-contained HTML arti",
     "id": "fahdi/dev-roadmaps",
     "language": "HTML",
@@ -250,24 +277,6 @@
     "stars": 5,
     "updated_at": "2026-08-16T02:31:06Z",
     "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T02:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T02:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T02:16:35Z",
     "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
-  },
-  {
-    "description": "A typed TypeScript service that embeds and searches checkout, fulfillment, receipt, and customer update documents.",
-    "id": "VaughnKnight7912/ecommerce-order-document-search",
-    "language": "TypeScript",
-    "name": "VaughnKnight7912/ecommerce-order-document-search",
-    "stars": 0,
-    "updated_at": "2026-08-16T02:16:14Z",
-    "url": "https://github.com/VaughnKnight7912/ecommerce-order-document-search"
   }
 ]
