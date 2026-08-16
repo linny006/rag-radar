@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:44:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7ed3\u5408\u77e5\u8bc6\u5e93\u3001\u77e5\u8bc6\u56fe\u8c31\u7ba1\u7406\u7684 \u591a\u79df\u6237 Agent Harness \u5e73\u53f0\u3002 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Bui",
+    "id": "xerrors/Yuxi",
+    "language": "Python",
+    "name": "xerrors/Yuxi",
+    "stars": 6478,
+    "updated_at": "2026-08-16T15:44:48Z",
+    "url": "https://github.com/xerrors/Yuxi"
+  },
+  {
+    "description": "\ud83e\uddec AI-powered biomedical literature review platform that retrieves PubMed papers, performs semantic search using FAISS, a",
+    "id": "sarojjriyaaa/BioResearch-AI",
+    "language": "Python",
+    "name": "sarojjriyaaa/BioResearch-AI",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:44:46Z",
+    "url": "https://github.com/sarojjriyaaa/BioResearch-AI"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 250,
+    "updated_at": "2026-08-16T15:44:24Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
+    "language": "Python",
+    "name": "schuecl/nexus-rag",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:44:04Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u81ea\u52a8\u5316 Agent \u00b7 \u6570\u636e\u4e0d\u51fa\u672c\u5730 \u00b7 \u8fde\u63a5\u4f60\u81ea\u5df1\u7684 LLM / \u6570\u636e\u5e93 / \u77e5\u8bc6\u5e93 \u00b7 ReAct \u63a8\u7406 \u00b7 300+ \u6280\u80fd\u6a21\u677f \u00b7 \u786e\u5b9a\u6027\u5de5\u4f5c\u6d41\u6267\u884c\uff08DAG/WAL/Saga/\u5e42\u7b49\uff09 \u00b7 MCP \u534f\u8bae \u00b7 \u79bb\u7ebf/\u5185\u7f51\u53ef\u7528",
     "id": "alib8b8/aflare",
     "language": "Go",
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T15:39:49Z",
     "url": "https://github.com/realyin/scope-lineage"
-  },
-  {
-    "description": "\ud83e\uddec AI-powered biomedical literature review platform that retrieves PubMed papers, performs semantic search using FAISS, a",
-    "id": "sarojjriyaaa/BioResearch-AI",
-    "language": "Python",
-    "name": "sarojjriyaaa/BioResearch-AI",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:39:34Z",
-    "url": "https://github.com/sarojjriyaaa/BioResearch-AI"
   },
   {
     "description": "\u4f60\u7684 AI\uff0c\u4ece\u6b64\u8bb0\u5f97\u4f60\u2014\u2014\u62fe\u5149\u8bb0\u5fc6\u5f15\u64ce\uff0c\u5b83\u8bb0\u5f97\u4f60\u4eec\u804a\u8fc7\u7684\u6bcf\u4e00\u4ef6\u4e8b\uff0c\u8fd8\u4f1a\u4e3b\u52a8\u5173\u5fc3\u4f60\u3002",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T15:32:20Z",
     "url": "https://github.com/Yangjunjie-Lin/KnowTier"
-  },
-  {
-    "description": "A fully local PDF RAG application using FastAPI, Streamlit, Ollama, Qdrant, Inngest, and LlamaIndex.",
-    "id": "MahamadElshabory/local-pdf-RAG",
-    "language": "Python",
-    "name": "MahamadElshabory/local-pdf-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:32:05Z",
-    "url": "https://github.com/MahamadElshabory/local-pdf-RAG"
-  },
-  {
-    "description": "Memory for AI agents, in any language. Local-first memory engine: 79.3% on LongMemEval with full protocol disclosure, va",
-    "id": "Sahith59/AgentMem-OS",
-    "language": "Python",
-    "name": "Sahith59/AgentMem-OS",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:32:04Z",
-    "url": "https://github.com/Sahith59/AgentMem-OS"
-  },
-  {
-    "description": "AI-powered Business Intelligence & Document Intelligence Copilot built with Streamlit, Gemini, Ollama, ChromaDB and RAG.",
-    "id": "adityakumar45127/DataDoc",
-    "language": "Python",
-    "name": "adityakumar45127/DataDoc",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:32:03Z",
-    "url": "https://github.com/adityakumar45127/DataDoc"
-  },
-  {
-    "description": "Venezuelan legal assistant on Telegram \u2014 hybrid RAG (keywords + BM25 + semantic embeddings) over 62+ indexed Venezuelan ",
-    "id": "jonathanlobo-dev/abotgado",
-    "language": "Python",
-    "name": "jonathanlobo-dev/abotgado",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:31:56Z",
-    "url": "https://github.com/jonathanlobo-dev/abotgado"
   }
 ]
