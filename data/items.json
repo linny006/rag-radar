@@ -1,5 +1,59 @@
 [
   {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 6,
+    "updated_at": "2026-08-16T20:45:49Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "Total conversion for Claude Code. Use RAG and the RPG ruleset apis to play a persistent adventure in any book or world o",
+    "id": "Sstobo/Claude-Code-Game-Master",
+    "language": "Python",
+    "name": "Sstobo/Claude-Code-Game-Master",
+    "stars": 144,
+    "updated_at": "2026-08-16T20:45:21Z",
+    "url": "https://github.com/Sstobo/Claude-Code-Game-Master"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T20:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T20:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Plataforma de intelig\u00eancia imobili\u00e1ria open-source: Next.js + Hono API + RAG local + CRM Twenty + identidade visual fora",
+    "id": "DizzyAdams/LandMap",
+    "language": "TypeScript",
+    "name": "DizzyAdams/LandMap",
+    "stars": 0,
+    "updated_at": "2026-08-16T20:45:11Z",
+    "url": "https://github.com/DizzyAdams/LandMap"
+  },
+  {
+    "description": "Local-first RAG CLI powered by Ollama and FAISS with MMR retrieval, similarity filtering, deterministic citations, and a",
+    "id": "iamrichmack111/saturni-rag",
+    "language": "Python",
+    "name": "iamrichmack111/saturni-rag",
+    "stars": 0,
+    "updated_at": "2026-08-16T20:44:51Z",
+    "url": "https://github.com/iamrichmack111/saturni-rag"
+  },
+  {
     "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
     "id": "FaultMaven/faultmaven",
     "language": "Python",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19070,
-    "updated_at": "2026-08-16T20:44:11Z",
+    "updated_at": "2026-08-16T20:45:23Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/paulnsorensen/hallouminate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -322,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T20:30:26Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T20:26:51Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": ".NET 10 reference implementation for the backend layer around GenAI: secure RAG over PostgreSQL + pgvector, model gatewa",
-    "id": "MelfusX/dotnet-genai-starter",
-    "language": "C#",
-    "name": "MelfusX/dotnet-genai-starter",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:28:24Z",
-    "url": "https://github.com/MelfusX/dotnet-genai-starter"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:25:52Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-16T20:25:00Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
-  },
-  {
-    "description": "Measure retrieval, don't assume it. Deterministic metrics, and filtered vector search that actually returns k results.",
-    "id": "Raghu23-dev/verity",
-    "language": "Python",
-    "name": "Raghu23-dev/verity",
-    "stars": 0,
-    "updated_at": "2026-08-16T20:24:57Z",
-    "url": "https://github.com/Raghu23-dev/verity"
   }
 ]
