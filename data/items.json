@@ -1,5 +1,23 @@
 [
   {
+    "description": "Superlinked is an open-source Python framework for building vector-compute pipelines that encode structured and unstruct",
+    "id": "api-evangelist/superlinked",
+    "language": "\u2014",
+    "name": "api-evangelist/superlinked",
+    "stars": 0,
+    "updated_at": "2026-08-16T16:59:38Z",
+    "url": "https://github.com/api-evangelist/superlinked"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T16:59:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An intelligent research paper assistant that uses Retrieval-Augmented Generation (RAG) to help users search, understand,",
     "id": "octorohan/Intelligent-Research-Paper-Assistant",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:59:21Z",
     "url": "https://github.com/octorohan/Intelligent-Research-Paper-Assistant"
+  },
+  {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 2,
+    "updated_at": "2026-08-16T16:59:18Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
   },
   {
     "description": "An all-in-one, microservice-ready AI Career Development Platform featuring gamified skill tracking, AI career coaching, ",
@@ -43,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:58:33Z",
     "url": "https://github.com/Yashwanth-23/Omnisense"
+  },
+  {
+    "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for productio",
+    "id": "Protocol-Lattice/go-agent",
+    "language": "Go",
+    "name": "Protocol-Lattice/go-agent",
+    "stars": 253,
+    "updated_at": "2026-08-16T16:58:29Z",
+    "url": "https://github.com/Protocol-Lattice/go-agent"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19064,
-    "updated_at": "2026-08-16T16:59:11Z",
+    "updated_at": "2026-08-16T16:59:43Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:46:48Z",
     "url": "https://github.com/sujin-1015/creditflow-ai-agent"
-  },
-  {
-    "description": "Build intelligent applications with visual AI agent workflows, knowledge bases, and multi-model LLM integration.",
-    "id": "nutpineshaking812/ainote",
-    "language": "JavaScript",
-    "name": "nutpineshaking812/ainote",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:46:45Z",
-    "url": "https://github.com/nutpineshaking812/ainote"
-  },
-  {
-    "description": "Architecture foundations for an enterprise RAG knowledge platform and automated GitHub code review agent using Python, F",
-    "id": "Abhrankan-Chakrabarti/ai-platform-foundations",
-    "language": "\u2014",
-    "name": "Abhrankan-Chakrabarti/ai-platform-foundations",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:46:42Z",
-    "url": "https://github.com/Abhrankan-Chakrabarti/ai-platform-foundations"
-  },
-  {
-    "description": "Build a private, local-first AI knowledge base with RAG and your own API key using this fast, cross-platform Rust and Ta",
-    "id": "ethelindcyanobacterial210/EchoMind",
-    "language": "Rust",
-    "name": "ethelindcyanobacterial210/EchoMind",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:46:31Z",
-    "url": "https://github.com/ethelindcyanobacterial210/EchoMind"
-  },
-  {
-    "description": "Track and instantly rewind your SQLite database to any previous state during local development with a video-like scrubbe",
-    "id": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "language": "HTML",
-    "name": "nonliteral-fullhouse266/time-travel-sqlite-debugger",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:46:30Z",
-    "url": "https://github.com/nonliteral-fullhouse266/time-travel-sqlite-debugger"
   }
 ]
