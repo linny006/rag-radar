@@ -1,5 +1,59 @@
 [
   {
+    "description": "B2B SaaS RevOps Intelligence Engine: An enterprise-grade data platform that transforms the Data Warehouse into a Revenue",
+    "id": "farrux05-ai/b2b-saas-revops-intelligence",
+    "language": "Python",
+    "name": "farrux05-ai/b2b-saas-revops-intelligence",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:00:46Z",
+    "url": "https://github.com/farrux05-ai/b2b-saas-revops-intelligence"
+  },
+  {
+    "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
+    "id": "Arpit104147/DeepThink-AIOS",
+    "language": "Python",
+    "name": "Arpit104147/DeepThink-AIOS",
+    "stars": 5,
+    "updated_at": "2026-08-16T19:00:43Z",
+    "url": "https://github.com/Arpit104147/DeepThink-AIOS"
+  },
+  {
+    "description": "Turn markdown docs into a static site with an offline, client-side semantic search chatbot",
+    "id": "usr-wwelsh/botdocs",
+    "language": "TypeScript",
+    "name": "usr-wwelsh/botdocs",
+    "stars": 1,
+    "updated_at": "2026-08-16T19:00:42Z",
+    "url": "https://github.com/usr-wwelsh/botdocs"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "JavaScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 90890,
+    "updated_at": "2026-08-16T19:00:28Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T19:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T19:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A full-stack RAG chatbot built with Python, Flask, and LangChain, enabling intelligent, context-aware question-answering",
     "id": "HAMED-PAYANDA/langchain-document-assistant",
     "language": "Python",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Rupali5253/autonomous-customer-support-copilot"
   },
   {
-    "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
-    "id": "Arpit104147/DeepThink-AIOS",
-    "language": "Python",
-    "name": "Arpit104147/DeepThink-AIOS",
-    "stars": 5,
-    "updated_at": "2026-08-16T18:58:20Z",
-    "url": "https://github.com/Arpit104147/DeepThink-AIOS"
-  },
-  {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
     "id": "clay-good/agent-replay",
     "language": "TypeScript",
@@ -97,15 +142,6 @@
     "stars": 250,
     "updated_at": "2026-08-16T18:58:01Z",
     "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 90890,
-    "updated_at": "2026-08-16T18:57:49Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Open source agentic operating system",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "triskattie/idea-inbox",
     "stars": 0,
-    "updated_at": "2026-08-16T18:47:41Z",
+    "updated_at": "2026-08-16T19:00:41Z",
     "url": "https://github.com/triskattie/idea-inbox"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-16T18:47:16Z",
     "url": "https://github.com/alimaandev/Friday"
-  },
-  {
-    "description": "Local-first, auditable knowledge compiler for technical docs and source code",
-    "id": "still0123/MemoryForge",
-    "language": "Python",
-    "name": "still0123/MemoryForge",
-    "stars": 4,
-    "updated_at": "2026-08-16T18:47:13Z",
-    "url": "https://github.com/still0123/MemoryForge"
-  },
-  {
-    "description": "WardenIQ is an open-source AI test intelligence platform that turns requirements, docs, and code changes into test cases",
-    "id": "adlerqa/wardeniq",
-    "language": "Python",
-    "name": "adlerqa/wardeniq",
-    "stars": 7,
-    "updated_at": "2026-08-16T18:46:34Z",
-    "url": "https://github.com/adlerqa/wardeniq"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 5,
-    "updated_at": "2026-08-16T18:47:35Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "TheKnowledgeOrbits \u2014 AI-powered UPSC exam-prep platform \u2014 Django/DRF + Next.js, built on a hybrid RAG pipeline (pgvector",
-    "id": "vishalgoyal25/TheKnowledgeOrbits",
-    "language": "Python",
-    "name": "vishalgoyal25/TheKnowledgeOrbits",
-    "stars": 1,
-    "updated_at": "2026-08-16T18:45:29Z",
-    "url": "https://github.com/vishalgoyal25/TheKnowledgeOrbits"
   }
 ]
