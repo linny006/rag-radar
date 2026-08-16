@@ -1,5 +1,32 @@
 [
   {
+    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
+    "id": "tobocop2/lilbee",
+    "language": "Python",
+    "name": "tobocop2/lilbee",
+    "stars": 45,
+    "updated_at": "2026-08-16T04:59:45Z",
+    "url": "https://github.com/tobocop2/lilbee"
+  },
+  {
+    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
+    "id": "rongshenCarson/eidetic-memory",
+    "language": "Python",
+    "name": "rongshenCarson/eidetic-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T04:59:44Z",
+    "url": "https://github.com/rongshenCarson/eidetic-memory"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T04:59:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Lazy RAG. Sits beside any RAG. Store stays theirs.",
     "id": "Wolfe-Jam/lazyrag-one",
     "language": "HTML",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19064,
-    "updated_at": "2026-08-16T04:58:58Z",
+    "updated_at": "2026-08-16T05:00:14Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -81,7 +108,7 @@
     "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
   },
   {
-    "description": "Luma is a document intelligence platform that lets users upload documents, ask questions in natural language, and get ac",
+    "description": "Luma Is A Document Intelligence Platform That Lets Users Upload Documents, Ask Questions In Natural Language, And Get Ac",
     "id": "kode-0x/Luma",
     "language": "Python",
     "name": "kode-0x/Luma",
@@ -234,21 +261,12 @@
     "url": "https://github.com/cgfixit/CyClaw"
   },
   {
-    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
-    "id": "tobocop2/lilbee",
-    "language": "Python",
-    "name": "tobocop2/lilbee",
-    "stars": 45,
-    "updated_at": "2026-08-16T04:52:54Z",
-    "url": "https://github.com/tobocop2/lilbee"
-  },
-  {
     "description": "A local-first workspace for chat, private knowledge, artifacts, and isolated model-driven work. Self-hosted. Provider-fl",
     "id": "libre-webui/libre-webui",
     "language": "TypeScript",
     "name": "libre-webui/libre-webui",
     "stars": 62,
-    "updated_at": "2026-08-16T04:59:29Z",
+    "updated_at": "2026-08-16T04:59:45Z",
     "url": "https://github.com/libre-webui/libre-webui"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 45,
     "updated_at": "2026-08-16T04:45:22Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:38:47Z",
     "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
-    "id": "XaviCode1000/webfang",
-    "language": "Rust",
-    "name": "XaviCode1000/webfang",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:38:16Z",
-    "url": "https://github.com/XaviCode1000/webfang"
   }
 ]
