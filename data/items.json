@@ -1,5 +1,41 @@
 [
   {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:44:47Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:44:08Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3253,
+    "updated_at": "2026-08-16T21:43:50Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:43:02Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "MCP server for Autodesk Flame \u2014 clip control, timelines, and effects with RAG search, anti-hallucination safety, and sel",
     "id": "abrahamADSK/flame-mcp",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-08-16T21:41:18Z",
     "url": "https://github.com/EstaxNet/Inferpal"
-  },
-  {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 2,
-    "updated_at": "2026-08-16T21:41:16Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
   },
   {
     "description": "Fresh-history public sanitized RAGTune governance validation bundle.",
@@ -68,7 +95,7 @@
     "language": "Go",
     "name": "petal-labs/cortex",
     "stars": 1,
-    "updated_at": "2026-08-16T21:39:23Z",
+    "updated_at": "2026-08-16T21:43:29Z",
     "url": "https://github.com/petal-labs/cortex"
   },
   {
@@ -324,24 +351,6 @@
     "url": "https://github.com/skyphusion-labs/search-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T21:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T21:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T21:26:08Z",
     "url": "https://github.com/grassman23gith/athena-nexus"
-  },
-  {
-    "description": "AI research workspace: upload a paper, ask questions, get answers grounded in cited evidence. Next.js, Supabase, pgvecto",
-    "id": "AcnologiaK2Q/Noteworthy",
-    "language": "TypeScript",
-    "name": "AcnologiaK2Q/Noteworthy",
-    "stars": 0,
-    "updated_at": "2026-08-16T21:25:50Z",
-    "url": "https://github.com/AcnologiaK2Q/Noteworthy"
   }
 ]
