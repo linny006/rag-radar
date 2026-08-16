@@ -1,5 +1,77 @@
 [
   {
+    "description": "ELRAG: Tools for Agentic AI connected with GCP",
+    "id": "Adedev-W/ELRAG",
+    "language": "Python",
+    "name": "Adedev-W/ELRAG",
+    "stars": 1,
+    "updated_at": "2026-08-16T14:47:05Z",
+    "url": "https://github.com/Adedev-W/ELRAG"
+  },
+  {
+    "description": "A fully local Retrieval Augmented Generation (RAG) pipeline that allows an LLM to answer questions using external knowle",
+    "id": "HxWildE/Local_ai_tutor",
+    "language": "Python",
+    "name": "HxWildE/Local_ai_tutor",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:46:26Z",
+    "url": "https://github.com/HxWildE/Local_ai_tutor"
+  },
+  {
+    "description": "Install-ordered k3s cluster config as code for a private AI platform: Ollama/Qwen3 on a Tesla V100, Milvus RAG, MCP agen",
+    "id": "darthzen/lab-fleet",
+    "language": "Go Template",
+    "name": "darthzen/lab-fleet",
+    "stars": 1,
+    "updated_at": "2026-08-16T14:46:08Z",
+    "url": "https://github.com/darthzen/lab-fleet"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19064,
+    "updated_at": "2026-08-16T14:45:46Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
+    "id": "alimaandev/Friday",
+    "language": "Python",
+    "name": "alimaandev/Friday",
+    "stars": 5,
+    "updated_at": "2026-08-16T14:45:43Z",
+    "url": "https://github.com/alimaandev/Friday"
+  },
+  {
+    "description": "Local PDF-to-text, OCR, page-aware chunking, and AnythingLLM Desktop upload assistant for reliable page-cited RAG retrie",
+    "id": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
+    "language": "Python",
+    "name": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:45:34Z",
+    "url": "https://github.com/OPProductivity/anythingllm-pdf-parser-embedder-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Interest Growth \u2014 an AI-assisted system for cultivating durable interests through curiosity, evidence, practice, express",
     "id": "hello-yunshu/interest-growth",
     "language": "Python",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-16T14:39:48Z",
+    "updated_at": "2026-08-16T14:47:21Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T14:39:44Z",
     "url": "https://github.com/Ukt01/ai-software-engineer-roadmap"
-  },
-  {
-    "description": "Local PDF-to-text, OCR, page-aware chunking, and AnythingLLM Desktop upload assistant for reliable page-cited RAG retrie",
-    "id": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
-    "language": "Python",
-    "name": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:39:42Z",
-    "url": "https://github.com/OPProductivity/anythingllm-pdf-parser-embedder-assistant"
   },
   {
     "description": "Plan, index, and search public knowledge sources with anchored citations.",
@@ -279,15 +342,6 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19064,
-    "updated_at": "2026-08-16T14:35:34Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Grounded-or-silent reference assistant for public agencies: answers only from a supplied corpus, cites everything, refus",
     "id": "ChelseaKR/cairn",
     "language": "Python",
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T14:35:31Z",
     "url": "https://github.com/ChelseaKR/cairn"
-  },
-  {
-    "description": "A fully local Retrieval Augmented Generation (RAG) pipeline that allows an LLM to answer questions using external knowle",
-    "id": "HxWildE/Local_ai_tutor",
-    "language": "Python",
-    "name": "HxWildE/Local_ai_tutor",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:35:23Z",
-    "url": "https://github.com/HxWildE/Local_ai_tutor"
   },
   {
     "description": "A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T14:31:37Z",
     "url": "https://github.com/akcow/Agentic-Financial-Research-Wealth-Copilot"
-  },
-  {
-    "description": "Sovereign Local AI Workspace & LLM Runtime Manager. Easily Run GGUF, MLX, OpenAI, Gemini, etc. Under One Unified Interfa",
-    "id": "lm-webui/lm-webui",
-    "language": "Python",
-    "name": "lm-webui/lm-webui",
-    "stars": 4,
-    "updated_at": "2026-08-16T14:30:57Z",
-    "url": "https://github.com/lm-webui/lm-webui"
-  },
-  {
-    "description": "Zodiac Bank AI Security Lab \u2014 a hands-on, local-first training lab that takes AI security students from scratch to advan",
-    "id": "youseefhamdi/AI-Security-Lab",
-    "language": "Python",
-    "name": "youseefhamdi/AI-Security-Lab",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:30:55Z",
-    "url": "https://github.com/youseefhamdi/AI-Security-Lab"
-  },
-  {
-    "description": "A multi-agent math solver built with LangGraph, featuring CoT + ReAct + Reflection reasoning, three-tier memory, and RAG",
-    "id": "Eiseen0628/math-agent-LangGraph",
-    "language": "\u2014",
-    "name": "Eiseen0628/math-agent-LangGraph",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:30:48Z",
-    "url": "https://github.com/Eiseen0628/math-agent-LangGraph"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
