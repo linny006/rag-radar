@@ -1,5 +1,59 @@
 [
   {
+    "description": "Zodiac Bank AI Security Lab \u2014 a hands-on, local-first training lab that takes AI security students from scratch to advan",
+    "id": "youseefhamdi/AI-Security-Lab",
+    "language": "Python",
+    "name": "youseefhamdi/AI-Security-Lab",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:31:23Z",
+    "url": "https://github.com/youseefhamdi/AI-Security-Lab"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-16T19:30:52Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Persistent memory and deterministic state control for any LLM, in two tiers. Tier 1: a single markdown spec you paste in",
+    "id": "arcadamarket/rag-runtime-kernel",
+    "language": "Python",
+    "name": "arcadamarket/rag-runtime-kernel",
+    "stars": 1,
+    "updated_at": "2026-08-16T19:30:27Z",
+    "url": "https://github.com/arcadamarket/rag-runtime-kernel"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T19:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T19:30:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic memory infra for AI agents",
+    "id": "SodaMem/SodaMem",
+    "language": "Python",
+    "name": "SodaMem/SodaMem",
+    "stars": 23,
+    "updated_at": "2026-08-16T19:30:16Z",
+    "url": "https://github.com/SodaMem/SodaMem"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -9,13 +63,31 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
-    "description": "Zodiac Bank AI Security Lab \u2014 a hands-on, local-first training lab that takes AI security students from scratch to advan",
-    "id": "youseefhamdi/AI-Security-Lab",
+    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
+    "id": "schuecl/nexus-rag",
     "language": "Python",
-    "name": "youseefhamdi/AI-Security-Lab",
+    "name": "schuecl/nexus-rag",
+    "stars": 2,
+    "updated_at": "2026-08-16T19:30:10Z",
+    "url": "https://github.com/schuecl/nexus-rag"
+  },
+  {
+    "description": "Claude Code plugin \u2014 don't sync memory across machines, link it. A single memory hub referenced by junction/symlink from",
+    "id": "smaurier/claude-synapse",
+    "language": "TypeScript",
+    "name": "smaurier/claude-synapse",
     "stars": 0,
-    "updated_at": "2026-08-16T19:29:22Z",
-    "url": "https://github.com/youseefhamdi/AI-Security-Lab"
+    "updated_at": "2026-08-16T19:30:08Z",
+    "url": "https://github.com/smaurier/claude-synapse"
+  },
+  {
+    "description": "Production-grade multi-tenant AI workspace: RAG chat over private knowledge with measured faithfulness & refusal \u2014 built",
+    "id": "Sudeepxe/aether-ai-workspace",
+    "language": "Python",
+    "name": "Sudeepxe/aether-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:29:45Z",
+    "url": "https://github.com/Sudeepxe/aether-ai-workspace"
   },
   {
     "description": "Open source agentic operating system",
@@ -72,15 +144,6 @@
     "url": "https://github.com/XdotX78/Minerva-Project"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-16T19:27:19Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
     "description": "Turn documents, wikis, emails, and Confluence/SharePoint/OneDrive/Google Drive sources into governed, provenance-bearing",
     "id": "aithinkers/knowledge-dlc",
     "language": "JavaScript",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "Rupali5253/autonomous-customer-support-copilot",
     "stars": 0,
-    "updated_at": "2026-08-16T19:26:07Z",
+    "updated_at": "2026-08-16T19:31:25Z",
     "url": "https://github.com/Rupali5253/autonomous-customer-support-copilot"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T19:26:07Z",
     "url": "https://github.com/ManSio/mscodebase-intelligence"
-  },
-  {
-    "description": "Air-gapped RAG pipeline for Kubernetes environments. Adds document ingestion, mandatory classification/releasability tag",
-    "id": "schuecl/nexus-rag",
-    "language": "Python",
-    "name": "schuecl/nexus-rag",
-    "stars": 2,
-    "updated_at": "2026-08-16T19:30:10Z",
-    "url": "https://github.com/schuecl/nexus-rag"
   },
   {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
@@ -333,15 +387,6 @@
     "url": "https://github.com/neomjs/neo"
   },
   {
-    "description": "Claude Code plugin \u2014 don't sync memory across machines, link it. A single memory hub referenced by junction/symlink from",
-    "id": "smaurier/claude-synapse",
-    "language": "TypeScript",
-    "name": "smaurier/claude-synapse",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:30:08Z",
-    "url": "https://github.com/smaurier/claude-synapse"
-  },
-  {
     "description": "Production-ready .NET 10 RAG library with hybrid vector + keyword search, multi-backend storage (SQLite, PostgreSQL, Neo",
     "id": "iyulab/FluxIndex",
     "language": "C#",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:19:38Z",
     "url": "https://github.com/triskattie/idea-inbox"
-  },
-  {
-    "description": "Local-first code context engine in Rust + DuckDB: incremental semantic indexing, hybrid search, MCP server, HTTP API and",
-    "id": "snaven10/DevCtxEngine",
-    "language": "Rust",
-    "name": "snaven10/DevCtxEngine",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:19:04Z",
-    "url": "https://github.com/snaven10/DevCtxEngine"
-  },
-  {
-    "description": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
-    "id": "Berserk-hub150/moodle-ai-skill-navigator",
-    "language": "PHP",
-    "name": "Berserk-hub150/moodle-ai-skill-navigator",
-    "stars": 162,
-    "updated_at": "2026-08-16T19:18:34Z",
-    "url": "https://github.com/Berserk-hub150/moodle-ai-skill-navigator"
-  },
-  {
-    "description": "A personalized RAG chatbot designed to answer questions about me with precisions. Whether it\u2019s facts, timelines, or pers",
-    "id": "yashas-hm/AskYashas",
-    "language": "Python",
-    "name": "yashas-hm/AskYashas",
-    "stars": 1,
-    "updated_at": "2026-08-16T19:18:28Z",
-    "url": "https://github.com/yashas-hm/AskYashas"
-  },
-  {
-    "description": "KardiaFlow is a specialized medical RAG system for analyzing clinical documents. Leveraging Chroma, Sentence-Transformer",
-    "id": "hasnatsakil/KardiaFlow",
-    "language": "HTML",
-    "name": "hasnatsakil/KardiaFlow",
-    "stars": 1,
-    "updated_at": "2026-08-16T19:17:54Z",
-    "url": "https://github.com/hasnatsakil/KardiaFlow"
-  },
-  {
-    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
-    "id": "justForever17/v8-agent-os",
-    "language": "Python",
-    "name": "justForever17/v8-agent-os",
-    "stars": 2,
-    "updated_at": "2026-08-16T19:17:45Z",
-    "url": "https://github.com/justForever17/v8-agent-os"
   }
 ]
