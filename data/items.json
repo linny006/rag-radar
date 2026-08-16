@@ -1,5 +1,50 @@
 [
   {
+    "description": "A curated list of AI agent frameworks, tools, platforms, research papers, and resources",
+    "id": "aloth/awesome-ai-agents",
+    "language": "\u2014",
+    "name": "aloth/awesome-ai-agents",
+    "stars": 26,
+    "updated_at": "2026-08-16T06:00:58Z",
+    "url": "https://github.com/aloth/awesome-ai-agents"
+  },
+  {
+    "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
+    "id": "alimaandev/Friday",
+    "language": "Python",
+    "name": "alimaandev/Friday",
+    "stars": 5,
+    "updated_at": "2026-08-16T06:00:42Z",
+    "url": "https://github.com/alimaandev/Friday"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T06:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T06:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Locally hosted RAG pipeline that verifies fictional backstories against a source novel using atomic claim validation, en",
+    "id": "takeitezybaby/local-backstory-llm-RAG",
+    "language": "Python",
+    "name": "takeitezybaby/local-backstory-llm-RAG",
+    "stars": 2,
+    "updated_at": "2026-08-16T06:00:22Z",
+    "url": "https://github.com/takeitezybaby/local-backstory-llm-RAG"
+  },
+  {
     "description": "Generate, revise, and finalize novel chapters with AI.  RAG-powered context retrieval + multi-provider LLM support + web",
     "id": "ThanhTNV/Novel-Generator",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/jaylfc/taosmd"
   },
   {
-    "description": "Locally hosted RAG pipeline that verifies fictional backstories against a source novel using atomic claim validation, en",
-    "id": "takeitezybaby/local-backstory-llm-RAG",
-    "language": "Python",
-    "name": "takeitezybaby/local-backstory-llm-RAG",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:57:29Z",
-    "url": "https://github.com/takeitezybaby/local-backstory-llm-RAG"
-  },
-  {
     "description": "CI gate for RAG and agent evals. Deterministic checks block the build; LLM judges advise and never do - and never grade ",
     "id": "jluocsa/judgeguard",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "0verL1nk/PaperSage",
     "stars": 38,
-    "updated_at": "2026-08-16T05:56:15Z",
+    "updated_at": "2026-08-16T06:00:34Z",
     "url": "https://github.com/0verL1nk/PaperSage"
   },
   {
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19063,
-    "updated_at": "2026-08-16T05:55:30Z",
+    "updated_at": "2026-08-16T06:01:04Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -193,7 +229,7 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 152565,
+    "stars": 152566,
     "updated_at": "2026-08-16T05:52:59Z",
     "url": "https://github.com/langgenius/dify"
   },
@@ -396,24 +432,6 @@
     "url": "https://github.com/abraxas914/VESTI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
     "id": "CSE-Sudo-26/on-care",
     "language": "Dart",
@@ -430,23 +448,5 @@
     "stars": 136,
     "updated_at": "2026-08-16T05:44:33Z",
     "url": "https://github.com/r-uby-dev/llm"
-  },
-  {
-    "description": "TalaDB - The embedded vector database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-08-16T05:50:06Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
-    "id": "bimal1023/AI-native-engineer",
-    "language": "\u2014",
-    "name": "bimal1023/AI-native-engineer",
-    "stars": 8,
-    "updated_at": "2026-08-16T05:42:41Z",
-    "url": "https://github.com/bimal1023/AI-native-engineer"
   }
 ]
