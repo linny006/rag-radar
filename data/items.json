@@ -1,12 +1,165 @@
 [
   {
+    "description": "Production-grade platform for building agentic IM bots - \u751f\u4ea7\u7ea7\u591a\u5e73\u53f0\u667a\u80fd\u673a\u5668\u4eba\u5f00\u53d1\u5e73\u53f0/ Agent\u3001\u77e5\u8bc6\u5e93\u7f16\u6392\u3001\u63d2\u4ef6\u7cfb\u7edf / Bots for Discord / Slack / ",
+    "id": "langbot-app/LangBot",
+    "language": "Python",
+    "name": "langbot-app/LangBot",
+    "stars": 17430,
+    "updated_at": "2026-08-16T17:29:59Z",
+    "url": "https://github.com/langbot-app/LangBot"
+  },
+  {
     "description": "Local multimodal RAG AI assistant where you can chat with PDFs, images, and video using Llama 3.2, fully offline, zero d",
     "id": "Yashwanth-23/Omnisense",
     "language": "Python",
     "name": "Yashwanth-23/Omnisense",
     "stars": 0,
-    "updated_at": "2026-08-16T17:25:53Z",
+    "updated_at": "2026-08-16T17:29:26Z",
     "url": "https://github.com/Yashwanth-23/Omnisense"
+  },
+  {
+    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
+    "id": "kRamu81/MedTrack_Application",
+    "language": "JavaScript",
+    "name": "kRamu81/MedTrack_Application",
+    "stars": 4,
+    "updated_at": "2026-08-16T17:29:10Z",
+    "url": "https://github.com/kRamu81/MedTrack_Application"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19066,
+    "updated_at": "2026-08-16T17:28:55Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:28:41Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "A memory-first AI agent that remembers why decisions were made \u2014 not just the last message. Runs local (Ollama), cloud (",
+    "id": "bug-ops/zeph",
+    "language": "Rust",
+    "name": "bug-ops/zeph",
+    "stars": 55,
+    "updated_at": "2026-08-16T17:28:23Z",
+    "url": "https://github.com/bug-ops/zeph"
+  },
+  {
+    "description": "Local-first, auditable knowledge compiler for technical docs and source code",
+    "id": "still0123/MemoryForge",
+    "language": "Python",
+    "name": "still0123/MemoryForge",
+    "stars": 4,
+    "updated_at": "2026-08-16T17:28:23Z",
+    "url": "https://github.com/still0123/MemoryForge"
+  },
+  {
+    "description": "AI-powered DevSecOps observability platform; monitors infrastructure, detects threats, and responds using Gemini 2.5, La",
+    "id": "sagesta/infraguad_ai",
+    "language": "Python",
+    "name": "sagesta/infraguad_ai",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:28:17Z",
+    "url": "https://github.com/sagesta/infraguad_ai"
+  },
+  {
+    "description": "Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts & resume sessions",
+    "id": "nicosuave/memex",
+    "language": "Rust",
+    "name": "nicosuave/memex",
+    "stars": 126,
+    "updated_at": "2026-08-16T17:28:16Z",
+    "url": "https://github.com/nicosuave/memex"
+  },
+  {
+    "description": "CreditFlow AI Agent - \uc18c\uc0c1\uacf5\uc778 \ub300\ucd9c \uc0ac\uc804\uc2ec\uc0ac \ubc0f \uc790\ub3d9 \uc18c\uc561\ub300\ucd9c \uc9d1\ud589 \uc5d0\uc774\uc804\ud2b8 (Google Cloud AI \u00d7 Solana\ub85c \uad6c\ud604\ud558\ub294  \ucc28\uc138\ub300 AI Agentic \ud574\ucee4\ud1a4)",
+    "id": "sujin-1015/creditflow-ai-agent",
+    "language": "Python",
+    "name": "sujin-1015/creditflow-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:27:42Z",
+    "url": "https://github.com/sujin-1015/creditflow-ai-agent"
+  },
+  {
+    "description": "Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua",
+    "id": "generalbots/generalbots",
+    "language": "Rust",
+    "name": "generalbots/generalbots",
+    "stars": 85,
+    "updated_at": "2026-08-16T17:27:41Z",
+    "url": "https://github.com/generalbots/generalbots"
+  },
+  {
+    "description": "Digital-HR is an enterprise-grade HR Policy Assistant for Coforge HR-India, featuring Siya\u2014 an intelligent, warm, approa",
+    "id": "RahulNeuroByte/Digital-HR",
+    "language": "Python",
+    "name": "RahulNeuroByte/Digital-HR",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:27:35Z",
+    "url": "https://github.com/RahulNeuroByte/Digital-HR"
+  },
+  {
+    "description": "A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.",
+    "id": "MihaiBuilds/memory-vault",
+    "language": "Python",
+    "name": "MihaiBuilds/memory-vault",
+    "stars": 60,
+    "updated_at": "2026-08-16T17:27:25Z",
+    "url": "https://github.com/MihaiBuilds/memory-vault"
+  },
+  {
+    "description": "\ud83c\udfe6 A RAG system that reads and analyzes central bank policy documents (ECB, Fed, BoE, BoJ, CBI) so you don't have to. Bui",
+    "id": "atijagannadhaaditya/central-mind",
+    "language": "Python",
+    "name": "atijagannadhaaditya/central-mind",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:27:14Z",
+    "url": "https://github.com/atijagannadhaaditya/central-mind"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 21,
+    "updated_at": "2026-08-16T17:27:12Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI-powered RAG assistant for educational video search using Whisper, Gemini Embeddings, cosine similarity, and Gemini 2.",
+    "id": "Anshuman-Patra15/topiclens-ai",
+    "language": "CSS",
+    "name": "Anshuman-Patra15/topiclens-ai",
+    "stars": 1,
+    "updated_at": "2026-08-16T17:26:33Z",
+    "url": "https://github.com/Anshuman-Patra15/topiclens-ai"
+  },
+  {
+    "description": "Turn markdown docs into a static site with an offline, client-side semantic search chatbot",
+    "id": "usr-wwelsh/botdocs",
+    "language": "TypeScript",
+    "name": "usr-wwelsh/botdocs",
+    "stars": 1,
+    "updated_at": "2026-08-16T17:26:11Z",
+    "url": "https://github.com/usr-wwelsh/botdocs"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:26:04Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -22,7 +175,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66513,
+    "stars": 66514,
     "updated_at": "2026-08-16T17:25:47Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -41,7 +194,7 @@
     "language": "JavaScript",
     "name": "pulseforgeatmns-ops/pulseforge-leadgen",
     "stars": 0,
-    "updated_at": "2026-08-16T17:25:17Z",
+    "updated_at": "2026-08-16T17:29:37Z",
     "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
   },
   {
@@ -54,24 +207,6 @@
     "url": "https://github.com/grassman23gith/athena-nexus"
   },
   {
-    "description": "MedTrack is a full-stack medical equipment management system built with React and Spring Boot. It streamlines inventory,",
-    "id": "kRamu81/MedTrack_Application",
-    "language": "JavaScript",
-    "name": "kRamu81/MedTrack_Application",
-    "stars": 4,
-    "updated_at": "2026-08-16T17:24:55Z",
-    "url": "https://github.com/kRamu81/MedTrack_Application"
-  },
-  {
-    "description": "Digital-HR is an enterprise-grade HR Policy Assistant for Coforge HR-India, featuring Siya\u2014 an intelligent, warm, approa",
-    "id": "RahulNeuroByte/Digital-HR",
-    "language": "Python",
-    "name": "RahulNeuroByte/Digital-HR",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:24:42Z",
-    "url": "https://github.com/RahulNeuroByte/Digital-HR"
-  },
-  {
     "description": "Self-evolving, evidence-based memory layer for coding agents and development teams.",
     "id": "shno-labs/mem-forge",
     "language": "Python",
@@ -79,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-08-16T17:24:36Z",
     "url": "https://github.com/shno-labs/mem-forge"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19066,
-    "updated_at": "2026-08-16T17:24:15Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
@@ -142,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T17:22:52Z",
     "url": "https://github.com/vnbochkarev-netizen/ViBo-memory"
-  },
-  {
-    "description": "Turn markdown docs into a static site with an offline, client-side semantic search chatbot",
-    "id": "usr-wwelsh/botdocs",
-    "language": "TypeScript",
-    "name": "usr-wwelsh/botdocs",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:22:49Z",
-    "url": "https://github.com/usr-wwelsh/botdocs"
   },
   {
     "description": "Your agent seeks what search can't find. A self-hosted perception MCP server that transcribes speech, reads behind login",
@@ -315,24 +432,6 @@
     "url": "https://github.com/AgentSwarms-fyi/agentswarms"
   },
   {
-    "description": "Production-grade platform for building agentic IM bots - \u751f\u4ea7\u7ea7\u591a\u5e73\u53f0\u667a\u80fd\u673a\u5668\u4eba\u5f00\u53d1\u5e73\u53f0/ Agent\u3001\u77e5\u8bc6\u5e93\u7f16\u6392\u3001\u63d2\u4ef6\u7cfb\u7edf / Bots for Discord / Slack / ",
-    "id": "langbot-app/LangBot",
-    "language": "Python",
-    "name": "langbot-app/LangBot",
-    "stars": 17430,
-    "updated_at": "2026-08-16T17:15:58Z",
-    "url": "https://github.com/langbot-app/LangBot"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T17:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Private-document RAG service with account-level isolation, grounded citations, and token-bound MCP access",
     "id": "florianjsun/know-relay",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-16T17:14:04Z",
     "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
-  },
-  {
-    "description": "\ud83e\uddec AI-powered biomedical literature review platform that retrieves PubMed papers, performs semantic search using FAISS, a",
-    "id": "sarojjriyaaa/BioResearch-AI",
-    "language": "Python",
-    "name": "sarojjriyaaa/BioResearch-AI",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:13:56Z",
-    "url": "https://github.com/sarojjriyaaa/BioResearch-AI"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 339,
-    "updated_at": "2026-08-16T17:12:23Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "id": "HKUDS/DeepTutor",
-    "language": "Python",
-    "name": "HKUDS/DeepTutor",
-    "stars": 35926,
-    "updated_at": "2026-08-16T17:25:21Z",
-    "url": "https://github.com/HKUDS/DeepTutor"
-  },
-  {
-    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
-    "id": "jee3m/augmentative-knowledge-hooks",
-    "language": "HTML",
-    "name": "jee3m/augmentative-knowledge-hooks",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:11:48Z",
-    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "Multilingual medical triage assistant for Indian clinics \u2014 LangChain + Groq agent, FAISS RAG over WHO symptom guides and",
-    "id": "dhruvWorkss/VaidyaAI",
-    "language": "JavaScript",
-    "name": "dhruvWorkss/VaidyaAI",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:18:08Z",
-    "url": "https://github.com/dhruvWorkss/VaidyaAI"
-  },
-  {
-    "description": "CampusIQ is an AI-powered academic knowledge management and question-answering system that enables intelligent retrieval",
-    "id": "rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-",
-    "language": "Python",
-    "name": "rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:11:10Z",
-    "url": "https://github.com/rjahnavi567-bot/CampusIQ-AI-Powered-Academic-Knowledge-management-and-Question-Answering-System-"
-  },
-  {
-    "description": "EchoMind Enterprise is a fully on\u2011premises, offline\u2011first AI knowledge platform. It runs entirely on your own NVIDIA GPU",
-    "id": "RW2523/echomind-enterprise",
-    "language": "Python",
-    "name": "RW2523/echomind-enterprise",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:10:11Z",
-    "url": "https://github.com/RW2523/echomind-enterprise"
-  },
-  {
-    "description": "LangChain / LangGraph \u7cfb\u7edf\u5316\u5b66\u4e60\u7684\u5f00\u6e90\u6559\u7a0b\uff1a9 \u4e2a Phase\u300126 \u4e2a\u53ef\u8fd0\u884c\u793a\u4f8b\u3001\u53cc\u8bed VitePress \u6587\u6863\u7ad9\uff0c\u9012\u8fdb\u63ed\u793a\u5404 Agent \u6846\u67b6\u5171\u901a\u7684\u56fe\u7f16\u6392\u672c\u8d28\u3002(A structured LangChain / L",
-    "id": "ShadowQuill/langchain-langgraph-tutorial",
-    "language": "Shell",
-    "name": "ShadowQuill/langchain-langgraph-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:09:44Z",
-    "url": "https://github.com/ShadowQuill/langchain-langgraph-tutorial"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T17:09:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-powered Business Intelligence & Document Intelligence Copilot built with Streamlit, Gemini, Ollama, ChromaDB and RAG.",
-    "id": "adityakumar45127/DataDoc",
-    "language": "Python",
-    "name": "adityakumar45127/DataDoc",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:08:40Z",
-    "url": "https://github.com/adityakumar45127/DataDoc"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:08:37Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
   }
 ]
