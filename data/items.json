@@ -1,5 +1,68 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:18:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Agentic Video System \u2014 17-agent LangGraph orchestrator for video editing: 12 laws, human-in-the-loop CEO approvals, LLM ",
+    "id": "lordwhitefire/agentic-video-system",
+    "language": "TypeScript",
+    "name": "lordwhitefire/agentic-video-system",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:18:19Z",
+    "url": "https://github.com/lordwhitefire/agentic-video-system"
+  },
+  {
+    "description": "A personal knowledge system powered by RAG, semantic search, and LLMs.",
+    "id": "natagapova/personal-knowledge-system",
+    "language": "Python",
+    "name": "natagapova/personal-knowledge-system",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:18:00Z",
+    "url": "https://github.com/natagapova/personal-knowledge-system"
+  },
+  {
+    "description": "A chatbot that only talks in memes \u2014 LLM intent routing (Groq/Ollama), RAG template retrieval, multimodal vision, and re",
+    "id": "Moulik04/memegpt",
+    "language": "Python",
+    "name": "Moulik04/memegpt",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:17:35Z",
+    "url": "https://github.com/Moulik04/memegpt"
+  },
+  {
+    "description": "Intelligent codebase search & indexing for Zed. Async MCP server featuring LanceDB/BM25 hybrid search, multi-bucket RAG,",
+    "id": "ManSio/mscodebase-intelligence",
+    "language": "Python",
+    "name": "ManSio/mscodebase-intelligence",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:16:54Z",
+    "url": "https://github.com/ManSio/mscodebase-intelligence"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "[Official] IAIGEO: Generative Engine Optimization (GEO) infrastructure. \u9762\u5411\u5927\u8bed\u8a00\u6a21\u578b\u63d0\u4f9b\u9ad8\u5bc6\u5ea6\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u4e0e RAG \u68c0\u7d22\u589e\u5f3a\u53ec\u56de\u4f18\u5316\uff0c\u63d0\u5347 AI \u95ee\u7b54\u5f15\u7528\u7387\u3002",
     "id": "kevin131419344/iaigeo",
     "language": "HTML",
@@ -34,6 +97,15 @@
     "stars": 16,
     "updated_at": "2026-08-17T23:13:59Z",
     "url": "https://github.com/SonAIengine/graph-tool-call"
+  },
+  {
+    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
+    "id": "jee3m/augmentative-knowledge-hooks",
+    "language": "HTML",
+    "name": "jee3m/augmentative-knowledge-hooks",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:13:37Z",
+    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
   },
   {
     "description": "Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files ",
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "blakebauman/contentworker",
     "stars": 0,
-    "updated_at": "2026-08-17T23:11:34Z",
+    "updated_at": "2026-08-17T23:17:33Z",
     "url": "https://github.com/blakebauman/contentworker"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 9,
-    "updated_at": "2026-08-17T23:07:45Z",
+    "updated_at": "2026-08-17T23:15:39Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-08-17T23:05:45Z",
+    "updated_at": "2026-08-17T23:15:46Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:05:06Z",
     "url": "https://github.com/calmrocks/ai-engineer-notebooks"
-  },
-  {
-    "description": "Agentic Video System \u2014 17-agent LangGraph orchestrator for video editing: 12 laws, human-in-the-loop CEO approvals, LLM ",
-    "id": "lordwhitefire/agentic-video-system",
-    "language": "TypeScript",
-    "name": "lordwhitefire/agentic-video-system",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:05:04Z",
-    "url": "https://github.com/lordwhitefire/agentic-video-system"
   },
   {
     "description": "Full-stack RAG interface for EU shipping emission regulations (EU ETS, FuelEU)",
@@ -324,24 +387,6 @@
     "url": "https://github.com/Mubder/kazma"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:00:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Portfolio and AI automation services for Rolly Calma: AR/AP, website QA, and proof demos.",
     "id": "Ghraven/work",
     "language": "HTML",
@@ -360,6 +405,15 @@
     "url": "https://github.com/sixgodgit/nyx"
   },
   {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 144414,
+    "updated_at": "2026-08-17T23:16:26Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
     "description": "From public static void main to autonomous multi-agent systems \u2014 a code-first journey through Java, Spring AI, Google AD",
     "id": "krishkumar4400/AgenticJVM",
     "language": "Java",
@@ -374,7 +428,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19081,
-    "updated_at": "2026-08-17T22:56:08Z",
+    "updated_at": "2026-08-17T23:16:29Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 77,
     "updated_at": "2026-08-17T23:04:31Z",
     "url": "https://github.com/jaylfc/taosmd"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 31641,
-    "updated_at": "2026-08-17T23:09:40Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "\ud55c\uad6d \ubc95\ub839\uc744 \uc790\uc5f0\uc5b4\ub85c \ubb3b\uace0 \uc6d0\ubb38 \uadfc\uac70\uc640 \ud568\uaed8 \ub2f5\uc744 \ubc1b\ub294 \uac80\uc0c9 \uc11c\ube44\uc2a4. \uc2e0\uad6c\uc870\ubb38 \ube44\uad50\uc640 \ud310\ub840\u00b7\ud574\uc11d\ub840 \uc5f0\uacb0 | Ask Korean law in plain language, get answers grounded in ve",
-    "id": "chrisryugj/lexdiff",
-    "language": "TypeScript",
-    "name": "chrisryugj/lexdiff",
-    "stars": 4,
-    "updated_at": "2026-08-17T22:52:16Z",
-    "url": "https://github.com/chrisryugj/lexdiff"
-  },
-  {
-    "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
-    "id": "Gunnarguy/OpenIntelligence",
-    "language": "Swift",
-    "name": "Gunnarguy/OpenIntelligence",
-    "stars": 21,
-    "updated_at": "2026-08-17T22:52:09Z",
-    "url": "https://github.com/Gunnarguy/OpenIntelligence"
-  },
-  {
-    "description": "",
-    "id": "G1thub001/voyagerai-travel-intelligence",
-    "language": "Python",
-    "name": "G1thub001/voyagerai-travel-intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-17T22:51:47Z",
-    "url": "https://github.com/G1thub001/voyagerai-travel-intelligence"
-  },
-  {
-    "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. ",
-    "id": "cactus-compute/cactus",
-    "language": "C++",
-    "name": "cactus-compute/cactus",
-    "stars": 5805,
-    "updated_at": "2026-08-17T22:52:22Z",
-    "url": "https://github.com/cactus-compute/cactus"
-  },
-  {
-    "description": "Local code search for AI agents: six fast, purpose-built tools that return ranked answers, not raw grep. Because maybe g",
-    "id": "mrsladoje/sweet-search",
-    "language": "JavaScript",
-    "name": "mrsladoje/sweet-search",
-    "stars": 22,
-    "updated_at": "2026-08-17T22:50:03Z",
-    "url": "https://github.com/mrsladoje/sweet-search"
   }
 ]
