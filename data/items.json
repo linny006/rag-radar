@@ -1,5 +1,86 @@
 [
   {
+    "description": "LAN\u30fb\u30aa\u30d5\u30e9\u30a4\u30f3\u74b0\u5883\u5bfe\u5fdc\u306e\u696d\u52d9\u5411\u3051\u30ce\u30fc\u30b3\u30fc\u30c9\u30a2\u30d7\u30ea\u57fa\u76e4",
+    "id": "momomo17svt-dev/nocode-app",
+    "language": "TypeScript",
+    "name": "momomo17svt-dev/nocode-app",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:32:11Z",
+    "url": "https://github.com/momomo17svt-dev/nocode-app"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24287,
+    "updated_at": "2026-08-17T03:32:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Benchmarking and improving Retrieval-Augmented Generation (RAG) for low-resource and code-mixed Indian languages (Hindi,",
+    "id": "Kushagra-Kapoor-04/multilingual-rag-benchmark",
+    "language": "Python",
+    "name": "Kushagra-Kapoor-04/multilingual-rag-benchmark",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:31:53Z",
+    "url": "https://github.com/Kushagra-Kapoor-04/multilingual-rag-benchmark"
+  },
+  {
+    "description": "API-first, AI-agent-native headless CMS \u2014 hexagonal architecture, TypeScript, MCP server, transactional outbox, cloud-ag",
+    "id": "blakebauman/contentworker",
+    "language": "TypeScript",
+    "name": "blakebauman/contentworker",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:31:22Z",
+    "url": "https://github.com/blakebauman/contentworker"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19073,
+    "updated_at": "2026-08-17T03:30:33Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:30:30Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T03:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T03:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This shows how to use multimodal RAG using managed OpenSearch.",
+    "id": "kyopark2014/rag-multimodal",
+    "language": "Python",
+    "name": "kyopark2014/rag-multimodal",
+    "stars": 3,
+    "updated_at": "2026-08-17T03:30:14Z",
+    "url": "https://github.com/kyopark2014/rag-multimodal"
+  },
+  {
     "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
     "id": "XaviCode1000/webfang",
     "language": "Rust",
@@ -90,31 +171,13 @@
     "url": "https://github.com/2betforyou/build-up"
   },
   {
-    "description": "This shows how to use multimodal RAG using managed OpenSearch.",
-    "id": "kyopark2014/rag-multimodal",
-    "language": "Python",
-    "name": "kyopark2014/rag-multimodal",
-    "stars": 3,
-    "updated_at": "2026-08-17T03:30:14Z",
-    "url": "https://github.com/kyopark2014/rag-multimodal"
-  },
-  {
     "description": "Progressive-retrieval MCP server for Wikipedia",
     "id": "surendranb/wikipedia-mcp-server",
     "language": "Python",
     "name": "surendranb/wikipedia-mcp-server",
     "stars": 0,
-    "updated_at": "2026-08-17T03:30:06Z",
+    "updated_at": "2026-08-17T03:31:24Z",
     "url": "https://github.com/surendranb/wikipedia-mcp-server"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19073,
-    "updated_at": "2026-08-17T03:30:10Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Reproducible benchmark and reference pipeline for reranked long-term memory retrieval",
@@ -229,7 +292,7 @@
     "id": "HKUDS/DeepTutor",
     "language": "Python",
     "name": "HKUDS/DeepTutor",
-    "stars": 35971,
+    "stars": 35972,
     "updated_at": "2026-08-17T03:23:09Z",
     "url": "https://github.com/HKUDS/DeepTutor"
   },
@@ -274,7 +337,7 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 37987,
+    "stars": 37988,
     "updated_at": "2026-08-17T03:21:42Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
@@ -313,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T03:20:00Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
-    "id": "CSE-Sudo-26/on-care",
-    "language": "Dart",
-    "name": "CSE-Sudo-26/on-care",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:30:17Z",
-    "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
@@ -382,7 +436,7 @@
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 66544,
+    "stars": 66545,
     "updated_at": "2026-08-17T03:16:53Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -394,59 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-17T03:25:55Z",
     "url": "https://github.com/Keljian/JSE"
-  },
-  {
-    "description": "Conversation intelligence for meetings: turns transcripts into summaries, decisions, action items, risks and opportuniti",
-    "id": "sf0rzin/nora",
-    "language": "Java",
-    "name": "sf0rzin/nora",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:26:16Z",
-    "url": "https://github.com/sf0rzin/nora"
-  },
-  {
-    "description": "The agentic harness for AI coding agents \u2014 intelligence is rented, the harness is owned. Runs the full work cycle: inten",
-    "id": "prjct-app/cli",
-    "language": "TypeScript",
-    "name": "prjct-app/cli",
-    "stars": 1,
-    "updated_at": "2026-08-17T03:15:31Z",
-    "url": "https://github.com/prjct-app/cli"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-17T03:15:25Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "Give your agent a memory it can prove. One Python file: local SQLite vault, hybrid FTS5 + vector retrieval, Cloudflare-a",
-    "id": "jjjardev/HoardCore",
-    "language": "Python",
-    "name": "jjjardev/HoardCore",
-    "stars": 7,
-    "updated_at": "2026-08-17T03:15:23Z",
-    "url": "https://github.com/jjjardev/HoardCore"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
