@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19081,
+    "updated_at": "2026-08-17T23:45:21Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "[2026 LexAI] \ub098\uc774\ub9de\ucda4\ud615 \ubc95\ub960 AI \uc0c1\ub2f4 \ucc57\ubd07 \u2014 RAG \uae30\ubc18 \ubc95\ub960 QA \uc11c\ube44\uc2a4",
     "id": "YunHwa0905/legal-rag-chatbot",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "motojinc25/chatwalaau",
     "stars": 2,
-    "updated_at": "2026-08-17T23:44:42Z",
+    "updated_at": "2026-08-17T23:45:27Z",
     "url": "https://github.com/motojinc25/chatwalaau"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19081,
-    "updated_at": "2026-08-17T23:44:04Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -286,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:30:28Z",
     "url": "https://github.com/bartkamphuis/memore"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Systems & product portfolio \u2014 San Lee",
