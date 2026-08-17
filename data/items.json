@@ -1,5 +1,50 @@
 [
   {
+    "description": "Conversational AI agent for Romanian prim\u0103rie (city-hall) procedures. Describe what you need in plain Romanian by voice ",
+    "id": "Bogzx/eGata",
+    "language": "Python",
+    "name": "Bogzx/eGata",
+    "stars": 0,
+    "updated_at": "2026-08-17T17:02:08Z",
+    "url": "https://github.com/Bogzx/eGata"
+  },
+  {
+    "description": "Local-first hybrid-search RAG over your own documents \u2014 vector + BM25 merged with RRF, cross-encoder reranking, clickabl",
+    "id": "Alistair77/ragstar",
+    "language": "Python",
+    "name": "Alistair77/ragstar",
+    "stars": 0,
+    "updated_at": "2026-08-17T17:01:27Z",
+    "url": "https://github.com/Alistair77/ragstar"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-08-17T17:00:47Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T17:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T17:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG chatbot that redacts personally identifiable information before any text reaches the language model.",
     "id": "senagithubs/rag-pii-guardrail",
     "language": "Python",
@@ -16,6 +61,15 @@
     "stars": 2520,
     "updated_at": "2026-08-17T16:59:36Z",
     "url": "https://github.com/Agent-Field/agentfield"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19078,
+    "updated_at": "2026-08-17T16:59:23Z",
+    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Personal agronomy agent for aquaponics: a tool-calling LLM over a deterministic, tested, cited engineering core. Designs",
@@ -54,12 +108,21 @@
     "url": "https://github.com/cairnkeep/cairnkeep"
   },
   {
+    "description": "AI Novel Reader v2 - \u524d\u540e\u7aef\u5206\u79bb\u7248\u672c\uff08GitHub Pages + \u672c\u5730\u540e\u7aef\u3002\u6d4f\u89c8\u5668\u7aef AI \u5c0f\u8bf4\u9605\u8bfb\u5de5\u5177 \u2014 \u7ae0\u8282\u603b\u7ed3\u3001\u4eba\u7269\u56fe\u8c31\u3001\u65f6\u95f4\u7ebf\u3001AI \u95ee\u7b54\uff0c\u652f\u6301\u79bb\u7ebf\u4f7f\u7528\u548c\u591a\u8bbe\u5907\u540c\u6b65",
+    "id": "AscendJK/ai-novel-reader-v2",
+    "language": "TypeScript",
+    "name": "AscendJK/ai-novel-reader-v2",
+    "stars": 2,
+    "updated_at": "2026-08-17T16:57:42Z",
+    "url": "https://github.com/AscendJK/ai-novel-reader-v2"
+  },
+  {
     "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
     "id": "IgorGanapolsky/trading",
     "language": "Python",
     "name": "IgorGanapolsky/trading",
     "stars": 38,
-    "updated_at": "2026-08-17T16:57:33Z",
+    "updated_at": "2026-08-17T17:01:54Z",
     "url": "https://github.com/IgorGanapolsky/trading"
   },
   {
@@ -77,7 +140,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3253,
-    "updated_at": "2026-08-17T16:56:17Z",
+    "updated_at": "2026-08-17T17:00:38Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "usetheoai/theodb-bench",
     "stars": 0,
-    "updated_at": "2026-08-17T16:50:23Z",
+    "updated_at": "2026-08-17T17:02:07Z",
     "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
@@ -306,15 +369,6 @@
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
   },
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-08-17T16:59:12Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
     "id": "Tunolabs/xyzdb",
     "language": "Rust",
@@ -331,15 +385,6 @@
     "stars": 162,
     "updated_at": "2026-08-17T16:48:03Z",
     "url": "https://github.com/runify-dev/runify"
-  },
-  {
-    "description": "AI Novel Reader v2 - \u524d\u540e\u7aef\u5206\u79bb\u7248\u672c\uff08GitHub Pages + \u672c\u5730\u540e\u7aef\u3002\u6d4f\u89c8\u5668\u7aef AI \u5c0f\u8bf4\u9605\u8bfb\u5de5\u5177 \u2014 \u7ae0\u8282\u603b\u7ed3\u3001\u4eba\u7269\u56fe\u8c31\u3001\u65f6\u95f4\u7ebf\u3001AI \u95ee\u7b54\uff0c\u652f\u6301\u79bb\u7ebf\u4f7f\u7528\u548c\u591a\u8bbe\u5907\u540c\u6b65",
-    "id": "AscendJK/ai-novel-reader-v2",
-    "language": "TypeScript",
-    "name": "AscendJK/ai-novel-reader-v2",
-    "stars": 2,
-    "updated_at": "2026-08-17T16:57:42Z",
-    "url": "https://github.com/AscendJK/ai-novel-reader-v2"
   },
   {
     "description": "Deepdive skill for Claude Code \u2014 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger ",
@@ -367,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T16:47:49Z",
     "url": "https://github.com/Maryam024/Family-Judgment-Agent"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19078,
-    "updated_at": "2026-08-17T16:59:23Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "A regulatory prep accelerator for a generic-drug Clinical Regulatory Affairs team.",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-17T16:46:22Z",
     "url": "https://github.com/Graxon-rag/graxon"
-  },
-  {
-    "description": "A research engine whose reports cannot fake their evidence \u2014 ten agents plan, gather, cross-examine, and verify; a ship-",
-    "id": "sarv-projects/providence",
-    "language": "Python",
-    "name": "sarv-projects/providence",
-    "stars": 0,
-    "updated_at": "2026-08-17T16:46:11Z",
-    "url": "https://github.com/sarv-projects/providence"
-  },
-  {
-    "description": "Personal site and technical write-ups. Next.js + MDX, with an agentic RAG chatbot on Cloudflare Workers over every post.",
-    "id": "ashimsharma10/ashimsharma10.github.io",
-    "language": "MDX",
-    "name": "ashimsharma10/ashimsharma10.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-17T17:00:05Z",
-    "url": "https://github.com/ashimsharma10/ashimsharma10.github.io"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T16:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Multi-agent retrieval and SSE streaming on LangGraph.js. 281 tests, about 98% coverage, streamed and batch parity enforc",
-    "id": "joanna-ciesielski/agentic-learning-copilot",
-    "language": "TypeScript",
-    "name": "joanna-ciesielski/agentic-learning-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-17T16:45:23Z",
-    "url": "https://github.com/joanna-ciesielski/agentic-learning-copilot"
   }
 ]
