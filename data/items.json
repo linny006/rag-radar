@@ -1,5 +1,95 @@
 [
   {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-17T15:02:07Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Task-agnostic Planner\u2013Specialist\u2013Evaluator (PSE) agent framework powered by Microsoft AutoGen. Register tasks under task",
+    "id": "erishen/autogen-pse",
+    "language": "Python",
+    "name": "erishen/autogen-pse",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:01:58Z",
+    "url": "https://github.com/erishen/autogen-pse"
+  },
+  {
+    "description": "Asynchronous task service + RAG document retrieval pipeline in Rust \u2014 axum API, SQLite (WAL) with optimistic concurrency",
+    "id": "erishen/rag-task-service",
+    "language": "Rust",
+    "name": "erishen/rag-task-service",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:01:50Z",
+    "url": "https://github.com/erishen/rag-task-service"
+  },
+  {
+    "description": "An AI journal for energy, wins and gratitude \u2014 one day, one page, with three layers of memory so the record grows foreve",
+    "id": "srichsun/dearme",
+    "language": "Python",
+    "name": "srichsun/dearme",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:01:42Z",
+    "url": "https://github.com/srichsun/dearme"
+  },
+  {
+    "description": "\uacc4\uc57d\ub098\uce68\ubc18 \u2014 \uacf5\uacf5\uacc4\uc57d \ubc29\ubc95 \uacb0\uc815 \ub3c4\uc6b0\ubbf8 (\uad6d\uac00\uacc4\uc57d\ubc95\u00b7\uc9c0\ubc29\uacc4\uc57d\ubc95 \ub8f0\uc5d4\uc9c4 + \ubc95\ub839 RAG)",
+    "id": "sallim-app/contract-compass",
+    "language": "HTML",
+    "name": "sallim-app/contract-compass",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:02:17Z",
+    "url": "https://github.com/sallim-app/contract-compass"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3252,
+    "updated_at": "2026-08-17T15:00:53Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered knowledge management platform with RAG, multi-engine OCR parsing, vector search, wiki graphs, and Agent skill",
+    "id": "roamer-remote/FileX",
+    "language": "Python",
+    "name": "roamer-remote/FileX",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:00:21Z",
+    "url": "https://github.com/roamer-remote/FileX"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:00:20Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
     "description": "Local docs search: copy pages to Markdown, index with SQLite FTS5, and measure retrieval quality.",
     "id": "nstranquist/docs-puller",
     "language": "Go",
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "yeongjunyoo/onprem-mcp-data",
     "stars": 0,
-    "updated_at": "2026-08-17T14:57:42Z",
+    "updated_at": "2026-08-17T15:02:06Z",
     "url": "https://github.com/yeongjunyoo/onprem-mcp-data"
   },
   {
@@ -59,7 +149,7 @@
     "language": "TypeScript",
     "name": "IHUI-INF-AI/IHUI-AI",
     "stars": 14,
-    "updated_at": "2026-08-17T14:56:39Z",
+    "updated_at": "2026-08-17T15:00:34Z",
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
@@ -207,6 +297,15 @@
     "url": "https://github.com/henriquebotelhogomes/UsiEdu"
   },
   {
+    "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. ",
+    "id": "cactus-compute/cactus",
+    "language": "C++",
+    "name": "cactus-compute/cactus",
+    "stars": 5799,
+    "updated_at": "2026-08-17T14:49:59Z",
+    "url": "https://github.com/cactus-compute/cactus"
+  },
+  {
     "description": "Selfhosted AI-Platform for using Local LLMs with a Multi-User Terminal and advanced RAG Pipeline for the LLM.",
     "id": "MosesCommitsFraud/Talos",
     "language": "Python",
@@ -297,42 +396,6 @@
     "url": "https://github.com/AscendJK/ai-novel-reader-v2"
   },
   {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-17T14:45:28Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "An AI journal for energy, wins and gratitude \u2014 one day, one page, with three layers of memory so the record grows foreve",
-    "id": "srichsun/dearme",
-    "language": "Python",
-    "name": "srichsun/dearme",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:44:53Z",
-    "url": "https://github.com/srichsun/dearme"
-  },
-  {
     "description": "Freshness-first streaming RAG for on-call engineers: Kafka ingestion indexed in seconds, hybrid retrieval that wins on r",
     "id": "KrasiKirov/freshet",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T14:42:32Z",
     "url": "https://github.com/FishRaposo/personal-knowledge-base-os"
-  },
-  {
-    "description": "Progressive AI Engineering journey covering Classical ML, Embeddings, emantic search, RAG, Tool Calling Agents, Producti",
-    "id": "sumeetgedam/ai-learning-lab",
-    "language": "Python",
-    "name": "sumeetgedam/ai-learning-lab",
-    "stars": 0,
-    "updated_at": "2026-08-17T14:42:06Z",
-    "url": "https://github.com/sumeetgedam/ai-learning-lab"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-17T14:52:01Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "AI-powered knowledge management platform with RAG, multi-engine OCR parsing, vector search, wiki graphs, and Agent skill",
-    "id": "roamer-remote/FileX",
-    "language": "Python",
-    "name": "roamer-remote/FileX",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:40:52Z",
-    "url": "https://github.com/roamer-remote/FileX"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:40:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
-    "id": "ratel-ai/ratel",
-    "language": "TypeScript",
-    "name": "ratel-ai/ratel",
-    "stars": 421,
-    "updated_at": "2026-08-17T14:39:54Z",
-    "url": "https://github.com/ratel-ai/ratel"
-  },
-  {
-    "description": "Local-first personal AI assistant & operating system \u2014 a real-life JARVIS / FRIDAY (Tony Stark\u2013style AI): voice, autonom",
-    "id": "LakshyaBadjatya/Friday",
-    "language": "Python",
-    "name": "LakshyaBadjatya/Friday",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:39:44Z",
-    "url": "https://github.com/LakshyaBadjatya/Friday"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-17T14:38:44Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   }
 ]
