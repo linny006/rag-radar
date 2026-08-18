@@ -1,5 +1,68 @@
 [
   {
+    "description": "SHM v5.52.0 \u2014 \u81ea\u6f14\u5316\u8d85\u56fe\u8bb0\u5fc6\u7cfb\u7edf (HyDE \u5047\u8bbe\u6587\u6863\u589e\u5f3a\u68c0\u7d22 + \u4e09\u8def\u878d\u5408 + reranker)",
+    "id": "Neocher/self-evolving-hypergraph-memory",
+    "language": "Python",
+    "name": "Neocher/self-evolving-hypergraph-memory",
+    "stars": 3,
+    "updated_at": "2026-08-18T23:17:43Z",
+    "url": "https://github.com/Neocher/self-evolving-hypergraph-memory"
+  },
+  {
+    "description": "Multi-assistant AI platform with RAG-driven context, pluggable LLM providers, and themeable interfaces. Built with Larav",
+    "id": "gaboeremita/laravel-vera",
+    "language": "PHP",
+    "name": "gaboeremita/laravel-vera",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:17:39Z",
+    "url": "https://github.com/gaboeremita/laravel-vera"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 2,
+    "updated_at": "2026-08-18T23:17:21Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T23:17:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:17:40Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T23:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T23:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
     "id": "sturlese/stigmergy",
     "language": "Python",
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19092,
-    "updated_at": "2026-08-18T23:11:16Z",
+    "updated_at": "2026-08-18T23:17:55Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-18T23:08:25Z",
+    "updated_at": "2026-08-18T23:16:45Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -288,6 +351,15 @@
     "url": "https://github.com/cairnkeep/cairnkeep"
   },
   {
+    "description": "Production-oriented Enterprise RAG system using PostgreSQL + pgvector for grounded document intelligence across PDF and ",
+    "id": "kanishkk-gupta/enterprise-rag-postgresql",
+    "language": "Python",
+    "name": "kanishkk-gupta/enterprise-rag-postgresql",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:02:33Z",
+    "url": "https://github.com/kanishkk-gupta/enterprise-rag-postgresql"
+  },
+  {
     "description": "AI Engineer & Full-Stack Developer \u2014 I design and ship complete AI-native and full-stack systems, from architecture to p",
     "id": "francescoveryra-dot/francescoveryra-dot",
     "language": "JavaScript",
@@ -304,24 +376,6 @@
     "stars": 8,
     "updated_at": "2026-08-18T23:00:43Z",
     "url": "https://github.com/EtanHey/brainlayer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T23:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T23:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
@@ -360,15 +414,6 @@
     "url": "https://github.com/samuvm/citebound"
   },
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-08-18T23:02:35Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T23:14:37Z",
     "url": "https://github.com/callumfm/regrag"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3255,
-    "updated_at": "2026-08-18T22:53:27Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "AI-powered SRE agent for homelab infrastructure monitoring, OODA sweeps, RAG memory, and remediation workflows",
-    "id": "aachtenberg/cfoperator",
-    "language": "Python",
-    "name": "aachtenberg/cfoperator",
-    "stars": 2,
-    "updated_at": "2026-08-18T22:52:43Z",
-    "url": "https://github.com/aachtenberg/cfoperator"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-08-18T22:49:12Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Palace memory kernel (Go) \u2014 local-primary hierarchical FS palace, hybrid search, temporal lite; not product Memory GA",
-    "id": "iome-sh/memory",
-    "language": "Go",
-    "name": "iome-sh/memory",
-    "stars": 0,
-    "updated_at": "2026-08-18T22:48:55Z",
-    "url": "https://github.com/iome-sh/memory"
-  },
-  {
-    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
-    "id": "gabaoun/Project-Aether",
-    "language": "Python",
-    "name": "gabaoun/Project-Aether",
-    "stars": 2,
-    "updated_at": "2026-08-18T22:47:46Z",
-    "url": "https://github.com/gabaoun/Project-Aether"
   }
 ]
