@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:44:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MAGI \u2014 Multi-Agent Graph Intelligence. Universal memory server for AI agents. MCP + gRPC + REST API with semantic search",
+    "id": "j33pguy/magi",
+    "language": "Go",
+    "name": "j33pguy/magi",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:44:57Z",
+    "url": "https://github.com/j33pguy/magi"
+  },
+  {
     "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
     "id": "wxxb789/dsh-raven-research",
     "language": "TypeScript",
@@ -18,6 +36,15 @@
     "url": "https://github.com/harveenkaur282-web/RepoMind-AI"
   },
   {
+    "description": "The deny-by-default governance kernel for AI agents \u2014 permissions, L0\u2013L4 guardrails, human approvals and an immutable au",
+    "id": "NexusClawHQ/nexusclaw-agent-governance",
+    "language": "TypeScript",
+    "name": "NexusClawHQ/nexusclaw-agent-governance",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:43:13Z",
+    "url": "https://github.com/NexusClawHQ/nexusclaw-agent-governance"
+  },
+  {
     "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
     "id": "jgouviergmail/LIA-Assistant",
     "language": "Python",
@@ -27,6 +54,15 @@
     "url": "https://github.com/jgouviergmail/LIA-Assistant"
   },
   {
+    "description": "Graph-cut context cropping for AI agents",
+    "id": "giodl73-repo/MDCROP",
+    "language": "Rust",
+    "name": "giodl73-repo/MDCROP",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:42:13Z",
+    "url": "https://github.com/giodl73-repo/MDCROP"
+  },
+  {
     "description": "Retrieval-augmented equity analysis where every claim links to its source. Next.js + FastAPI + pgvector.",
     "id": "oscardanielnc/tickerlens",
     "language": "TypeScript",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T15:41:48Z",
     "url": "https://github.com/oscardanielnc/tickerlens"
-  },
-  {
-    "description": "The deny-by-default governance kernel for AI agents \u2014 permissions, L0\u2013L4 guardrails, human approvals and an immutable au",
-    "id": "NexusClawHQ/nexusclaw-agent-governance",
-    "language": "TypeScript",
-    "name": "NexusClawHQ/nexusclaw-agent-governance",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:43:13Z",
-    "url": "https://github.com/NexusClawHQ/nexusclaw-agent-governance"
   },
   {
     "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
@@ -61,6 +88,15 @@
     "stars": 12,
     "updated_at": "2026-08-18T15:39:49Z",
     "url": "https://github.com/fboiero/MIESC"
+  },
+  {
+    "description": "Henry \u2014 terminal first personal AI chief of staff: 3 chat surfaces (terminal/web/Telegram), SQLite memory + local RAG, j",
+    "id": "Luvishgulati03/henry-digital-personality-of-luvish",
+    "language": "TypeScript",
+    "name": "Luvishgulati03/henry-digital-personality-of-luvish",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:39:34Z",
+    "url": "https://github.com/Luvishgulati03/henry-digital-personality-of-luvish"
   },
   {
     "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
@@ -124,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T15:37:39Z",
     "url": "https://github.com/xingchuan0105/context-osv6"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:36:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Multi-agentic biomedical literature evidence extraction, curation, and summarization from PubMed/PMC in Open Knowledge F",
@@ -333,15 +378,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first code context engine in Rust + DuckDB: incremental semantic indexing, hybrid search, MCP server, HTTP API and",
     "id": "snaven10/DevCtxEngine",
     "language": "Rust",
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "clay-good/agent-replay",
     "stars": 13,
-    "updated_at": "2026-08-18T15:29:04Z",
+    "updated_at": "2026-08-18T15:45:13Z",
     "url": "https://github.com/clay-good/agent-replay"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T15:39:39Z",
     "url": "https://github.com/stanleytejakusuma/alexandria"
-  },
-  {
-    "description": "Autonomous AI Security Agent leveraging LLMs, RAG, and Knowledge Graphs for automated CVE analysis and auto-patching.",
-    "id": "phonghhd/EvoNet-AI-Core",
-    "language": "Python",
-    "name": "phonghhd/EvoNet-AI-Core",
-    "stars": 4,
-    "updated_at": "2026-08-18T15:27:56Z",
-    "url": "https://github.com/phonghhd/EvoNet-AI-Core"
-  },
-  {
-    "description": "Registry of official plugins for mloda.ai",
-    "id": "mloda-ai/mloda-registry",
-    "language": "Python",
-    "name": "mloda-ai/mloda-registry",
-    "stars": 4,
-    "updated_at": "2026-08-18T15:27:01Z",
-    "url": "https://github.com/mloda-ai/mloda-registry"
-  },
-  {
-    "description": "Cache-first GitCode MCP server and CLI for AI agents and developers: durable SQLite sync for issues, PRs, comments and w",
-    "id": "urandon/gitcode-mcp",
-    "language": "Go",
-    "name": "urandon/gitcode-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:26:44Z",
-    "url": "https://github.com/urandon/gitcode-mcp"
-  },
-  {
-    "description": "A RAG app to breakdown complex technical documents ",
-    "id": "Kaynaaf/NanoRAG",
-    "language": "Python",
-    "name": "Kaynaaf/NanoRAG",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:26:41Z",
-    "url": "https://github.com/Kaynaaf/NanoRAG"
   }
 ]
