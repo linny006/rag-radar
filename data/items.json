@@ -1,11 +1,83 @@
 [
   {
+    "description": "Collection of open-source AI infrastructure system specifications designed to be modular, secure, and fully self-hostabl",
+    "id": "openarsenalspecs/AI-Infrastructure",
+    "language": "\u2014",
+    "name": "openarsenalspecs/AI-Infrastructure",
+    "stars": 1,
+    "updated_at": "2026-08-18T22:18:39Z",
+    "url": "https://github.com/openarsenalspecs/AI-Infrastructure"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T22:18:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "sairaman436/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "sairaman436/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-18T22:17:35Z",
+    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
+  },
+  {
+    "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
+    "id": "jammindev/maisonnee",
+    "language": "Python",
+    "name": "jammindev/maisonnee",
+    "stars": 0,
+    "updated_at": "2026-08-18T22:16:36Z",
+    "url": "https://github.com/jammindev/maisonnee"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19092,
+    "updated_at": "2026-08-18T22:16:28Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "25 audited Uzbek legal codes, article-level JSONL, CC0",
+    "id": "javohirmat/uzbek-legal-corpus",
+    "language": "JavaScript",
+    "name": "javohirmat/uzbek-legal-corpus",
+    "stars": 3,
+    "updated_at": "2026-08-18T22:16:14Z",
+    "url": "https://github.com/javohirmat/uzbek-legal-corpus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T22:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T22:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T22:15:03Z",
+    "updated_at": "2026-08-18T22:15:47Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -13,7 +85,7 @@
     "id": "langchain-ai/langchain",
     "language": "Python",
     "name": "langchain-ai/langchain",
-    "stars": 144496,
+    "stars": 144497,
     "updated_at": "2026-08-18T22:14:02Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T22:12:36Z",
     "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19092,
-    "updated_at": "2026-08-18T22:14:56Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Forward any document to WhatsApp and it is read, named from its contents, and filed into the right Google Drive folder. ",
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "SmooAI/smooth-operator",
     "stars": 0,
-    "updated_at": "2026-08-18T22:10:46Z",
+    "updated_at": "2026-08-18T22:18:26Z",
     "url": "https://github.com/SmooAI/smooth-operator"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T22:06:51Z",
     "url": "https://github.com/ssrjkk/raven"
-  },
-  {
-    "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
-    "id": "jammindev/maisonnee",
-    "language": "Python",
-    "name": "jammindev/maisonnee",
-    "stars": 0,
-    "updated_at": "2026-08-18T22:09:18Z",
-    "url": "https://github.com/jammindev/maisonnee"
   },
   {
     "description": "Asistente RAG para consultar documentaci\u00f3n empresarial con Python, Streamlit, embeddings y Gemini.",
@@ -288,24 +342,6 @@
     "url": "https://github.com/suyash503/placement-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T22:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "End-to-end Agentic AI platform for mental health intelligence featuring Transformer-based NLP classification, RAG pipeli",
     "id": "JIYA-YDV/Mental-Health-Agentic-AI-Platform",
     "language": "Python",
@@ -396,7 +432,7 @@
     "url": "https://github.com/hermes-labs-ai/zer0dex"
   },
   {
-    "description": "Frontend GUI for Ollama with optional voice input/output, automatic answering mode and RAG System",
+    "description": "Desktop App for Ollama with optional voice input/output, automatic answering mode and RAG System",
     "id": "zeittresor/OllamaVibeDesk",
     "language": "Python",
     "name": "zeittresor/OllamaVibeDesk",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T21:52:58Z",
     "url": "https://github.com/KanenasInGreece/Shared_Memory"
-  },
-  {
-    "description": "AI research workspace with two modes \u2014 DeepSearch turns a query into a cited web report in ~2 min; Research Mode runs a ",
-    "id": "Aryan-Pardeshi/DeepResearch_AI",
-    "language": "Python",
-    "name": "Aryan-Pardeshi/DeepResearch_AI",
-    "stars": 33,
-    "updated_at": "2026-08-18T21:52:26Z",
-    "url": "https://github.com/Aryan-Pardeshi/DeepResearch_AI"
-  },
-  {
-    "description": "AI automation portfolio featuring n8n workflows, WhatsApp agents, appointment booking, CRM, RAG, and business integratio",
-    "id": "HiyamBader/n8n-ai-automation-portfolio",
-    "language": "\u2014",
-    "name": "HiyamBader/n8n-ai-automation-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-18T21:52:18Z",
-    "url": "https://github.com/HiyamBader/n8n-ai-automation-portfolio"
-  },
-  {
-    "description": "Local, offline RAG assistant that answers questions from your own course materials \u2014 every answer cited to the exact sli",
-    "id": "0bada11/study-companion",
-    "language": "Python",
-    "name": "0bada11/study-companion",
-    "stars": 1,
-    "updated_at": "2026-08-18T21:51:56Z",
-    "url": "https://github.com/0bada11/study-companion"
-  },
-  {
-    "description": "AI-powered Resume Intelligence & ATS Optimization platform with explainable ATS scoring, semantic job matching, skill ga",
-    "id": "rmmehmet/ai-resume-intelligence",
-    "language": "CSS",
-    "name": "rmmehmet/ai-resume-intelligence",
-    "stars": 0,
-    "updated_at": "2026-08-18T21:51:11Z",
-    "url": "https://github.com/rmmehmet/ai-resume-intelligence"
   }
 ]
