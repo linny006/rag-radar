@@ -1,11 +1,56 @@
 [
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 1711,
+    "updated_at": "2026-08-18T20:46:53Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
+    "id": "Bike4Mind/bike4mind",
+    "language": "TypeScript",
+    "name": "Bike4Mind/bike4mind",
+    "stars": 85,
+    "updated_at": "2026-08-18T20:48:05Z",
+    "url": "https://github.com/Bike4Mind/bike4mind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T20:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T20:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-18T20:45:14Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19091,
-    "updated_at": "2026-08-18T20:45:07Z",
+    "updated_at": "2026-08-18T20:47:59Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -16,6 +61,24 @@
     "stars": 0,
     "updated_at": "2026-08-18T20:44:52Z",
     "url": "https://github.com/fba5147/langchain-cpp"
+  },
+  {
+    "description": "Self-hosted personal context server \u2014 one knowledge and trust boundary shared by you and your AI agents: knowledge base,",
+    "id": "JeremiahM37/grimoire",
+    "language": "Go",
+    "name": "JeremiahM37/grimoire",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:44:34Z",
+    "url": "https://github.com/JeremiahM37/grimoire"
+  },
+  {
+    "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
+    "id": "jammindev/house",
+    "language": "Python",
+    "name": "jammindev/house",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:44:31Z",
+    "url": "https://github.com/jammindev/house"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -52,6 +115,24 @@
     "stars": 2,
     "updated_at": "2026-08-18T20:42:10Z",
     "url": "https://github.com/jasonssdev/openkos"
+  },
+  {
+    "description": "CreditFlow AI Agent - \uc18c\uc0c1\uacf5\uc778 \ub300\ucd9c \uc0ac\uc804\uc2ec\uc0ac \ubc0f \uc790\ub3d9 \uc18c\uc561\ub300\ucd9c \uc9d1\ud589 \uc5d0\uc774\uc804\ud2b8 (Google Cloud AI \u00d7 Solana\ub85c \uad6c\ud604\ud558\ub294  \ucc28\uc138\ub300 AI Agentic \ud574\ucee4\ud1a4)",
+    "id": "sujin-1015/creditflow-ai-agent",
+    "language": "Python",
+    "name": "sujin-1015/creditflow-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:41:43Z",
+    "url": "https://github.com/sujin-1015/creditflow-ai-agent"
+  },
+  {
+    "description": "MemOS - Universal local-first persistent memory layer for AI agents and LLMs",
+    "id": "Markgatcha/memos",
+    "language": "TypeScript",
+    "name": "Markgatcha/memos",
+    "stars": 5,
+    "updated_at": "2026-08-18T20:41:36Z",
+    "url": "https://github.com/Markgatcha/memos"
   },
   {
     "description": "MCP server for the AuditSocials Advertising Compliance Glossary \u2014 212 platform-policy, DSA/GDPR/FTC terms, CC BY 4.0.",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31649,
-    "updated_at": "2026-08-18T20:40:00Z",
+    "updated_at": "2026-08-18T20:48:09Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -135,13 +216,13 @@
     "url": "https://github.com/usemoss/moss"
   },
   {
-    "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
-    "id": "jammindev/house",
-    "language": "Python",
-    "name": "jammindev/house",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:44:31Z",
-    "url": "https://github.com/jammindev/house"
+    "description": "Local infrastructure for LLM agents \u2014 hybrid retrieval, cognitive memory, persistent channels",
+    "id": "codefather-labs/claudebase",
+    "language": "Rust",
+    "name": "codefather-labs/claudebase",
+    "stars": 1,
+    "updated_at": "2026-08-18T20:39:37Z",
+    "url": "https://github.com/codefather-labs/claudebase"
   },
   {
     "description": "Research paper knowledge base: PDF extraction \u2192 vector search \u2192 structured summarization RAG (Python)",
@@ -238,7 +319,7 @@
     "id": "RyanCodrai/turbovec",
     "language": "Rust",
     "name": "RyanCodrai/turbovec",
-    "stars": 15114,
+    "stars": 15118,
     "updated_at": "2026-08-18T20:35:43Z",
     "url": "https://github.com/RyanCodrai/turbovec"
   },
@@ -261,15 +342,6 @@
     "url": "https://github.com/flipslidersand-labs/nugget-rag-eval"
   },
   {
-    "description": "Self-hosted personal context server \u2014 one knowledge and trust boundary shared by you and your AI agents: knowledge base,",
-    "id": "JeremiahM37/grimoire",
-    "language": "Go",
-    "name": "JeremiahM37/grimoire",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:44:34Z",
-    "url": "https://github.com/JeremiahM37/grimoire"
-  },
-  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -286,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T20:45:11Z",
     "url": "https://github.com/ApoorvDixitt/Skia"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-18T20:45:14Z",
-    "url": "https://github.com/vgp7758/Agt"
   },
   {
     "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T20:30:29Z",
     "url": "https://github.com/tbalt88/fork-atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T20:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-18T20:30:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "BM25 + vector hybrid search & RAG REST API (FastAPI + SQLite FTS5 + Ollama)",
-    "id": "flipslidersand/search-engine",
-    "language": "Python",
-    "name": "flipslidersand/search-engine",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:30:06Z",
-    "url": "https://github.com/flipslidersand/search-engine"
-  },
-  {
-    "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
-    "id": "vcmf/dim0",
-    "language": "TypeScript",
-    "name": "vcmf/dim0",
-    "stars": 103,
-    "updated_at": "2026-08-18T20:40:37Z",
-    "url": "https://github.com/vcmf/dim0"
-  },
-  {
-    "description": "Local-first code context engine in Rust + DuckDB: incremental semantic indexing, hybrid search, MCP server, HTTP API and",
-    "id": "snaven10/DevCtxEngine",
-    "language": "Rust",
-    "name": "snaven10/DevCtxEngine",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:29:26Z",
-    "url": "https://github.com/snaven10/DevCtxEngine"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:29:13Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
