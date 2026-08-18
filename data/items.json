@@ -1,5 +1,68 @@
 [
   {
+    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
+    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "language": "JavaScript",
+    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:46:28Z",
+    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
+  },
+  {
+    "description": "AI-powered Placement Assistant using RAG (Llama 3.3 & ChromaDB) to query multi-format recruitment records with precise s",
+    "id": "suyash503/placement-rag",
+    "language": "Python",
+    "name": "suyash503/placement-rag",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:46:10Z",
+    "url": "https://github.com/suyash503/placement-rag"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-18T21:46:09Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T21:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T21:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, ",
+    "id": "markhuangai/dense-mem",
+    "language": "Go",
+    "name": "markhuangai/dense-mem",
+    "stars": 37,
+    "updated_at": "2026-08-18T21:45:21Z",
+    "url": "https://github.com/markhuangai/dense-mem"
+  },
+  {
+    "description": "A local dual-layer memory pattern for AI agents: a compact, human-readable markdown index paired with semantic retrieval",
+    "id": "hermes-labs-ai/zer0dex",
+    "language": "Python",
+    "name": "hermes-labs-ai/zer0dex",
+    "stars": 55,
+    "updated_at": "2026-08-18T21:45:07Z",
+    "url": "https://github.com/hermes-labs-ai/zer0dex"
+  },
+  {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
     "id": "sairaman436/vybe-intelligence-vault",
     "language": "JavaScript",
@@ -54,6 +117,15 @@
     "url": "https://github.com/JeremiahM37/grimoire"
   },
   {
+    "description": "Evidence-grounded RAG platform combining hybrid retrieval, reranking, citation verification, and fail-closed answer gene",
+    "id": "AsaifAli/LangGraph-RAG",
+    "language": "Python",
+    "name": "AsaifAli/LangGraph-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:42:12Z",
+    "url": "https://github.com/AsaifAli/LangGraph-RAG"
+  },
+  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -70,6 +142,15 @@
     "stars": 15,
     "updated_at": "2026-08-18T21:41:11Z",
     "url": "https://github.com/wrobeltomasz/OpenSparrow"
+  },
+  {
+    "description": "\u5de5\u5382\u672c\u4f53\u9a71\u52a8\u7684\u6570\u636e\u95ee\u7b54\u6846\u67b6\uff08\u5f00\u6e90\uff0cApache-2.0\uff09\uff1a\u628a\u4e2d\u5c0f\u4f01\u4e1a\u53f0\u8d26/MES/ERP \u53d8\u6210\u53ef\u81ea\u7136\u8bed\u8a00\u95ee\u7b54\u7684\u8bed\u4e49\u77e5\u8bc6\u56fe\u8c31\u3002CSV\u8fdb\u7b54\u6848\u51fa\uff0c\u786e\u5b9a\u6027\u89c4\u5219\u5f15\u64ce+\u672c\u4f53GraphRAG+\u5411\u91cf\u6df7\u5408\u68c0\u7d22\uff0c\u672c\u5730\u5316\u6570\u636e\u4e0d\u51fa\u5382\uff0c\u6362\u884c\u4e1a\u53ea\u6362\u8bcd\u5178\u3002",
+    "id": "zhengjinjun1975/factory-ontology",
+    "language": "JavaScript",
+    "name": "zhengjinjun1975/factory-ontology",
+    "stars": 6,
+    "updated_at": "2026-08-18T21:40:47Z",
+    "url": "https://github.com/zhengjinjun1975/factory-ontology"
   },
   {
     "description": "Graph-based retrieval for RAG \u2014 spreading-activation over a multi-layer vector graph, with redundancy-to-vote dedup and ",
@@ -149,7 +230,7 @@
     "language": "TypeScript",
     "name": "sripwoud/pi-memsearch",
     "stars": 0,
-    "updated_at": "2026-08-18T21:37:57Z",
+    "updated_at": "2026-08-18T21:46:08Z",
     "url": "https://github.com/sripwoud/pi-memsearch"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 4621,
     "updated_at": "2026-08-18T21:37:55Z",
     "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 1,
-    "updated_at": "2026-08-18T21:41:37Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Systems and product work by San Lee. A decision log, reversals included.",
@@ -221,7 +293,7 @@
     "language": "TypeScript",
     "name": "nanohype/slack-knowledge-bot",
     "stars": 0,
-    "updated_at": "2026-08-18T21:44:03Z",
+    "updated_at": "2026-08-18T21:45:54Z",
     "url": "https://github.com/nanohype/slack-knowledge-bot"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 144495,
     "updated_at": "2026-08-18T21:43:06Z",
     "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "Evidence-grounded RAG platform combining hybrid retrieval, reranking, citation verification, and fail-closed answer gene",
-    "id": "AsaifAli/LangGraph-RAG",
-    "language": "Python",
-    "name": "AsaifAli/LangGraph-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-18T21:42:12Z",
-    "url": "https://github.com/AsaifAli/LangGraph-RAG"
   },
   {
     "description": "offline RAG assistant for biomedical engineers, built on Microsoft Foundry Local",
@@ -277,24 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T21:30:36Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T21:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T21:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T21:27:51Z",
     "url": "https://github.com/sandovabarbora/quaesitor-zero"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-08-18T21:27:24Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
-  },
-  {
-    "description": "Open-source homelab SIEM \u2014 your whole lab mapped, logged, and watched. Proxmox + OPNsense + Elastic sync, Suricata threa",
-    "id": "Realynx/PolySIEM",
-    "language": "TypeScript",
-    "name": "Realynx/PolySIEM",
-    "stars": 6,
-    "updated_at": "2026-08-18T21:27:09Z",
-    "url": "https://github.com/Realynx/PolySIEM"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 31651,
-    "updated_at": "2026-08-18T21:42:32Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Your coding agent starts every session with amnesia \u2014 memo fixes that, 100% on your machine. Persistent memory for Claud",
-    "id": "jagoff/memo",
-    "language": "Python",
-    "name": "jagoff/memo",
-    "stars": 13,
-    "updated_at": "2026-08-18T21:25:57Z",
-    "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "Universal memory runtime for AI agents",
-    "id": "major7apps/pensyve",
-    "language": "Rust",
-    "name": "major7apps/pensyve",
-    "stars": 68,
-    "updated_at": "2026-08-18T21:36:11Z",
-    "url": "https://github.com/major7apps/pensyve"
   }
 ]
