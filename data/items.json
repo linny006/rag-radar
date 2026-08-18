@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u5c06\u8bed\u96c0\u7b14\u8bb0\u81ea\u52a8\u8f6c\u5316\u4e3a\u672c\u5730 AI \u77e5\u8bc6\u5e93\u7684\u667a\u80fd\u52a9\u624b\u3002\u57fa\u4e8e LangGraph + RAG + Milvus + Ollama\u3002",
+    "id": "Yixi233-mo/Larkwell",
+    "language": "Python",
+    "name": "Yixi233-mo/Larkwell",
+    "stars": 0,
+    "updated_at": "2026-08-18T11:01:19Z",
+    "url": "https://github.com/Yixi233-mo/Larkwell"
+  },
+  {
+    "description": "Self-Corrective Agentic RAG Engine with LangGraph, BM25 + ChromaDB hybrid retrieval",
+    "id": "Aditya7615/GraphRAG",
+    "language": "Jupyter Notebook",
+    "name": "Aditya7615/GraphRAG",
+    "stars": 0,
+    "updated_at": "2026-08-18T11:01:09Z",
+    "url": "https://github.com/Aditya7615/GraphRAG"
+  },
+  {
+    "description": "Korean crypto \u00d7 AI vertical media + community \u2014 alpha.moss.land. Channel stance, AI briefs, RAG, 8 AI personas with trac",
+    "id": "MosslandOpenDevs/alpha",
+    "language": "TypeScript",
+    "name": "MosslandOpenDevs/alpha",
+    "stars": 2,
+    "updated_at": "2026-08-18T11:00:45Z",
+    "url": "https://github.com/MosslandOpenDevs/alpha"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T11:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T11:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
+    "id": "Bike4Mind/bike4mind",
+    "language": "TypeScript",
+    "name": "Bike4Mind/bike4mind",
+    "stars": 85,
+    "updated_at": "2026-08-18T11:00:00Z",
+    "url": "https://github.com/Bike4Mind/bike4mind"
+  },
+  {
     "description": "Persona-aware AI analytics & RAG copilot \u2014 9 role-scoped personas, hybrid retrieval (BGE+BM25+RRF+reranker) + GraphRAG-l",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "codesoldier99/AI_EDU",
     "stars": 1,
-    "updated_at": "2026-08-18T10:59:38Z",
+    "updated_at": "2026-08-18T11:01:19Z",
     "url": "https://github.com/codesoldier99/AI_EDU"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5775,
+    "updated_at": "2026-08-18T10:59:29Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7054,
+    "updated_at": "2026-08-18T10:59:08Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "LAN\u30fb\u30aa\u30d5\u30e9\u30a4\u30f3\u74b0\u5883\u5bfe\u5fdc\u306e\u696d\u52d9\u5411\u3051\u30ce\u30fc\u30b3\u30fc\u30c9\u30a2\u30d7\u30ea\u57fa\u76e4",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:59:08Z",
     "url": "https://github.com/momomo17svt-dev/nocode-app"
-  },
-  {
-    "description": "Self-Corrective Agentic RAG Engine with LangGraph, BM25 + ChromaDB hybrid retrieval",
-    "id": "Aditya7615/GraphRAG",
-    "language": "Jupyter Notebook",
-    "name": "Aditya7615/GraphRAG",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:58:43Z",
-    "url": "https://github.com/Aditya7615/GraphRAG"
   },
   {
     "description": "High-performance AI memory retrieval for local agent history \u2014 a Rust search core (SDK / API / JSON CLI) plus a desktop ",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:57:46Z",
     "url": "https://github.com/erenulutas0/MOBIT-DURT"
-  },
-  {
-    "description": "\u5c06\u8bed\u96c0\u7b14\u8bb0\u81ea\u52a8\u8f6c\u5316\u4e3a\u672c\u5730 AI \u77e5\u8bc6\u5e93\u7684\u667a\u80fd\u52a9\u624b\u3002\u57fa\u4e8e LangGraph + RAG + Milvus + Ollama\u3002",
-    "id": "Yixi233-mo/Larkwell",
-    "language": "Python",
-    "name": "Yixi233-mo/Larkwell",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:57:28Z",
-    "url": "https://github.com/Yixi233-mo/Larkwell"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -184,8 +238,8 @@
     "id": "langgenius/dify",
     "language": "TypeScript",
     "name": "langgenius/dify",
-    "stars": 152780,
-    "updated_at": "2026-08-18T10:52:45Z",
+    "stars": 152781,
+    "updated_at": "2026-08-18T11:01:39Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -378,24 +432,6 @@
     "url": "https://github.com/mitiamilovanov/datashop-platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:45:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
     "id": "jaylfc/taosmd",
     "language": "Python",
@@ -405,48 +441,12 @@
     "url": "https://github.com/jaylfc/taosmd"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5774,
-    "updated_at": "2026-08-18T10:59:29Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
     "id": "PersonaliAI/chatty",
     "language": "TypeScript",
     "name": "PersonaliAI/chatty",
     "stars": 0,
-    "updated_at": "2026-08-18T10:44:57Z",
+    "updated_at": "2026-08-18T11:00:42Z",
     "url": "https://github.com/PersonaliAI/chatty"
-  },
-  {
-    "description": "Multi-tenant website chatbot SaaS \u2014 RAG chatbot widget for businesses, trained only on their own site content.",
-    "id": "irazaahmed/cs-chatbot",
-    "language": "TypeScript",
-    "name": "irazaahmed/cs-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:42:56Z",
-    "url": "https://github.com/irazaahmed/cs-chatbot"
-  },
-  {
-    "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
-    "id": "sanonone/kektordb",
-    "language": "Go",
-    "name": "sanonone/kektordb",
-    "stars": 83,
-    "updated_at": "2026-08-18T10:42:42Z",
-    "url": "https://github.com/sanonone/kektordb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:41:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
