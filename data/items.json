@@ -1,5 +1,41 @@
 [
   {
+    "description": "Henry \u2014 terminal first personal AI chief of staff: 3 chat surfaces (terminal/web/Telegram), SQLite memory + local RAG, j",
+    "id": "Luvishgulati03/henry-digital-personality-of-luvish",
+    "language": "TypeScript",
+    "name": "Luvishgulati03/henry-digital-personality-of-luvish",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:30:42Z",
+    "url": "https://github.com/Luvishgulati03/henry-digital-personality-of-luvish"
+  },
+  {
+    "description": "",
+    "id": "Yigtwxx/Yigtwxx",
+    "language": "\u2014",
+    "name": "Yigtwxx/Yigtwxx",
+    "stars": 3,
+    "updated_at": "2026-08-18T14:30:41Z",
+    "url": "https://github.com/Yigtwxx/Yigtwxx"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG-powered research platform \u2014 upload documents, search with verity-rag, and synthesise structured reports with pydanti",
     "id": "furyhawk/mysterium",
     "language": "Python",
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "takara-ai/miru-code",
     "stars": 9,
-    "updated_at": "2026-08-18T14:30:16Z",
+    "updated_at": "2026-08-18T14:30:39Z",
     "url": "https://github.com/takara-ai/miru-code"
   },
   {
@@ -155,7 +191,7 @@
   {
     "description": "A typed service that embeds and searches privacy-scoped checkout, fulfillment, receipt, and order update documents.",
     "id": "Serena1551/private-order-document-search",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "Serena1551/private-order-document-search",
     "stars": 0,
     "updated_at": "2026-08-18T14:22:23Z",
@@ -378,24 +414,6 @@
     "url": "https://github.com/clay-good/agent-replay"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A modern markdown AI note-taking application",
     "id": "jetyu/Snaptium",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T14:13:09Z",
     "url": "https://github.com/forhearts/foremeber"
-  },
-  {
-    "description": "Local-first desktop AI cowork assistant (Tauri). Open a project folder; work with Word, Excel, PDF using local memory an",
-    "id": "Improba/workproba",
-    "language": "Python",
-    "name": "Improba/workproba",
-    "stars": 1,
-    "updated_at": "2026-08-18T14:13:01Z",
-    "url": "https://github.com/Improba/workproba"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:12:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
