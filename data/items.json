@@ -1,11 +1,92 @@
 [
   {
+    "description": "AI agent primitives on Upstash Redis: memory, RAG, search, chat history, caching, and rate limiting. With Vercel AI SDK ",
+    "id": "upstash/agentkit",
+    "language": "TypeScript",
+    "name": "upstash/agentkit",
+    "stars": 6,
+    "updated_at": "2026-08-18T08:01:51Z",
+    "url": "https://github.com/upstash/agentkit"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19084,
+    "updated_at": "2026-08-18T08:01:15Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Self-hosted second brain: Telegram/API capture \u2192 classify \u2192 Markdown vault; RAG ask/digest, REST + MCP. MIT portfolio \u00b7 ",
+    "id": "LeekiGitHub/Seiton-Brain",
+    "language": "Python",
+    "name": "LeekiGitHub/Seiton-Brain",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:00:56Z",
+    "url": "https://github.com/LeekiGitHub/Seiton-Brain"
+  },
+  {
+    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "id": "HKUDS/LightRAG",
+    "language": "Python",
+    "name": "HKUDS/LightRAG",
+    "stars": 38938,
+    "updated_at": "2026-08-18T08:00:39Z",
+    "url": "https://github.com/HKUDS/LightRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code \u2014 105 skills, 36 agents, 217 hooks. Production-ready patterns for fu",
+    "id": "yonatangross/orchestkit",
+    "language": "TypeScript",
+    "name": "yonatangross/orchestkit",
+    "stars": 222,
+    "updated_at": "2026-08-18T08:01:38Z",
+    "url": "https://github.com/yonatangross/orchestkit"
+  },
+  {
+    "description": "FTChat is a multi-tenant SaaS platform that turns business documentation into an embeddable AI chat widget. Built with N",
+    "id": "ChauhanJaved/ask-my-docs",
+    "language": "TypeScript",
+    "name": "ChauhanJaved/ask-my-docs",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:59:34Z",
+    "url": "https://github.com/ChauhanJaved/ask-my-docs"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:01:15Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
     "description": "AKB \u2014 Agent Knowledgebase. Organizational memory for AI agents: vault-scoped docs / tables / files unified by URI graph,",
     "id": "dnotitia/akb",
     "language": "Python",
     "name": "dnotitia/akb",
     "stars": 148,
-    "updated_at": "2026-08-18T07:59:13Z",
+    "updated_at": "2026-08-18T08:01:40Z",
     "url": "https://github.com/dnotitia/akb"
   },
   {
@@ -14,8 +95,17 @@
     "language": "TypeScript",
     "name": "momomo17svt-dev/nocode-app",
     "stars": 0,
-    "updated_at": "2026-08-18T07:58:57Z",
+    "updated_at": "2026-08-18T08:00:42Z",
     "url": "https://github.com/momomo17svt-dev/nocode-app"
+  },
+  {
+    "description": "AI Kubernetes Upgrade Intelligence Platform \u2014 deterministic compatibility analysis + RAG-grounded LLM planning for safe ",
+    "id": "ravisinghrajput95/AI-Kubernetes-Upgrade-Advisor",
+    "language": "Python",
+    "name": "ravisinghrajput95/AI-Kubernetes-Upgrade-Advisor",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:58:44Z",
+    "url": "https://github.com/ravisinghrajput95/AI-Kubernetes-Upgrade-Advisor"
   },
   {
     "description": "Java + Python \u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u5de5\u7a0b\u9879\u76ee\uff1a\u6df7\u5408\u68c0\u7d22\u3001\u53ef\u56de\u5f52\u8bc4\u4f30\u3001\u6709\u754c\u5e76\u53d1\u4e0e\u516c\u7f51\u6f14\u793a",
@@ -55,12 +145,12 @@
   },
   {
     "description": "DerridAI",
-    "id": "ajschlosser/derrida",
+    "id": "ajschlosser/DerridAI",
     "language": "Python",
-    "name": "ajschlosser/derrida",
+    "name": "ajschlosser/DerridAI",
     "stars": 1,
     "updated_at": "2026-08-18T07:57:52Z",
-    "url": "https://github.com/ajschlosser/derrida"
+    "url": "https://github.com/ajschlosser/DerridAI"
   },
   {
     "description": "Open-source, self-hosted MCP server for project intelligence, semantic search, context engineering, and persistent agent",
@@ -171,15 +261,6 @@
     "url": "https://github.com/infiniflow/ragflow"
   },
   {
-    "description": "The Complete AI Development Toolkit for Claude Code \u2014 105 skills, 36 agents, 217 hooks. Production-ready patterns for fu",
-    "id": "yonatangross/orchestkit",
-    "language": "TypeScript",
-    "name": "yonatangross/orchestkit",
-    "stars": 222,
-    "updated_at": "2026-08-18T08:00:15Z",
-    "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
     "description": "Knowledge retrieval control plane for scoped and governed context delivery.",
     "id": "TEAM-SEAM-contextctl/contextctl",
     "language": "TypeScript",
@@ -194,7 +275,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 152765,
-    "updated_at": "2026-08-18T07:58:59Z",
+    "updated_at": "2026-08-18T08:01:13Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/coolight7/agentxx"
   },
   {
-    "description": "Self-hosted second brain: Telegram/API capture \u2192 classify \u2192 Markdown vault; RAG ask/digest, REST + MCP. MIT portfolio \u00b7 ",
-    "id": "LeekiGitHub/Seiton-Brain",
-    "language": "Python",
-    "name": "LeekiGitHub/Seiton-Brain",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:58:44Z",
-    "url": "https://github.com/LeekiGitHub/Seiton-Brain"
-  },
-  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -331,15 +403,6 @@
     "stars": 5046,
     "updated_at": "2026-08-18T07:48:54Z",
     "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
-  },
-  {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:59:24Z",
-    "url": "https://github.com/Matlan1/localm"
   },
   {
     "description": "Built for LLMs memory",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T07:46:58Z",
     "url": "https://github.com/Dheemant-Dixit/sift"
-  },
-  {
-    "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation",
-    "id": "guaardvark/guaardvark",
-    "language": "Python",
-    "name": "guaardvark/guaardvark",
-    "stars": 150,
-    "updated_at": "2026-08-18T07:46:57Z",
-    "url": "https://github.com/guaardvark/guaardvark"
-  },
-  {
-    "description": "Skardi is an agent data plane that gives AI agents data autonomy.",
-    "id": "SkardiLabs/skardi",
-    "language": "Rust",
-    "name": "SkardiLabs/skardi",
-    "stars": 99,
-    "updated_at": "2026-08-18T07:56:46Z",
-    "url": "https://github.com/SkardiLabs/skardi"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-18T07:46:40Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
-    "id": "DEEIX-AI/DEEIX-Chat",
-    "language": "Go",
-    "name": "DEEIX-AI/DEEIX-Chat",
-    "stars": 1306,
-    "updated_at": "2026-08-18T07:46:28Z",
-    "url": "https://github.com/DEEIX-AI/DEEIX-Chat"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:46:10Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T07:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T07:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
