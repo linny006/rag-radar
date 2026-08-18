@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-healing docs RAG chatbot for the Into the Scrape-Verse hackathon (WeMakeDevs x Bright Data). Uses Bright Data Scrap",
+    "id": "gitanshulbisht/freshdocs",
+    "language": "Python",
+    "name": "gitanshulbisht/freshdocs",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:00:06Z",
+    "url": "https://github.com/gitanshulbisht/freshdocs"
+  },
+  {
+    "description": "ODW Vault \u2014 self-hosted RAG platform with pre-flight pipeline, hybrid retrieval, and full offline capability",
+    "id": "OnDemandWorld/odw-vault",
+    "language": "Python",
+    "name": "OnDemandWorld/odw-vault",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:00:01Z",
+    "url": "https://github.com/OnDemandWorld/odw-vault"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T11:59:57Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
     "id": "wish-maker/minder",
     "language": "Python",
@@ -63,13 +90,13 @@
     "url": "https://github.com/ggozad/haiku.rag"
   },
   {
-    "description": "Self-healing docs RAG chatbot for the Into the Scrape-Verse hackathon (WeMakeDevs x Bright Data). Uses Bright Data Scrap",
-    "id": "gitanshulbisht/freshdocs",
-    "language": "Python",
-    "name": "gitanshulbisht/freshdocs",
-    "stars": 0,
-    "updated_at": "2026-08-18T11:56:20Z",
-    "url": "https://github.com/gitanshulbisht/freshdocs"
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-18T11:56:22Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
   },
   {
     "description": "Auditable memory layer for AI agents: zero-LLM-call local ingest (~10ms/msg, air-gapped), matches Mem0 on accuracy at ~1",
@@ -284,7 +311,7 @@
     "language": "JavaScript",
     "name": "Richman-Tan/DementiaGuideAI",
     "stars": 2,
-    "updated_at": "2026-08-18T11:47:55Z",
+    "updated_at": "2026-08-18T11:59:57Z",
     "url": "https://github.com/Richman-Tan/DementiaGuideAI"
   },
   {
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 152788,
-    "updated_at": "2026-08-18T11:46:29Z",
+    "updated_at": "2026-08-18T12:00:14Z",
     "url": "https://github.com/langgenius/dify"
   },
   {
@@ -355,18 +382,9 @@
     "id": "thedotmack/claude-mem",
     "language": "JavaScript",
     "name": "thedotmack/claude-mem",
-    "stars": 91078,
+    "stars": 91079,
     "updated_at": "2026-08-18T11:45:29Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A local, agent-queryable mail intelligence layer \u2014 progressive mailbox index + MCP server that gives AI agents recall ov",
@@ -410,7 +428,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 781,
-    "updated_at": "2026-08-18T11:59:35Z",
+    "updated_at": "2026-08-18T11:59:59Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-18T11:44:21Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Kamu ihalelerine giren \u015firketler i\u00e7in operasyon platformu \u2014 g\u00fcnl\u00fck ihale b\u00fclteni s\u00fczme, sonu\u00e7/k\u0131r\u0131m analizi ve \u015fartnamel",
-    "id": "erenulutas0/MOBIT-DURT",
-    "language": "TypeScript",
-    "name": "erenulutas0/MOBIT-DURT",
-    "stars": 0,
-    "updated_at": "2026-08-18T11:44:11Z",
-    "url": "https://github.com/erenulutas0/MOBIT-DURT"
-  },
-  {
-    "description": "AI assistant for insurance agents to draft WhatsApp and WeChat replies using structured product knowledge.",
-    "id": "Wilsonnijc-bot/Claw-Insurance",
-    "language": "Python",
-    "name": "Wilsonnijc-bot/Claw-Insurance",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:43:24Z",
-    "url": "https://github.com/Wilsonnijc-bot/Claw-Insurance"
   }
 ]
