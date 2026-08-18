@@ -1,12 +1,147 @@
 [
   {
+    "description": "Advanced macOS email archive viewer with AI-powered search, summarization, and RAG export. Query emails in natural langu",
+    "id": "kochj23/MBox-Explorer",
+    "language": "Swift",
+    "name": "kochj23/MBox-Explorer",
+    "stars": 6,
+    "updated_at": "2026-08-18T21:19:43Z",
+    "url": "https://github.com/kochj23/MBox-Explorer"
+  },
+  {
+    "description": "Production-grade RAG: hybrid retrieval + reranking, enforced citations, hallucination-guarding abstention, CI-gated eval",
+    "id": "AKB4901/ask-my-docs",
+    "language": "Python",
+    "name": "AKB4901/ask-my-docs",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:19:05Z",
+    "url": "https://github.com/AKB4901/ask-my-docs"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19092,
-    "updated_at": "2026-08-18T21:14:22Z",
+    "updated_at": "2026-08-18T21:18:42Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
+    "id": "vicenteliu/OpsPilot",
+    "language": "Python",
+    "name": "vicenteliu/OpsPilot",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:18:10Z",
+    "url": "https://github.com/vicenteliu/OpsPilot"
+  },
+  {
+    "description": "Minerva: Personal mail knowledge layer on classic Outlook (COM) \u2014 SQLite/FTS5 index, quote-verified Q&A, human-approved ",
+    "id": "dongjinpark-maker/mailkb",
+    "language": "Python",
+    "name": "dongjinpark-maker/mailkb",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:17:58Z",
+    "url": "https://github.com/dongjinpark-maker/mailkb"
+  },
+  {
+    "description": "UniSearch \u662f\u4e00\u6b3e\u57fa\u4e8e AI \u7684\u591a\u5e73\u53f0\u516c\u5f00\u5185\u5bb9\u91c7\u96c6\u4e0e\u8c03\u7814\u684c\u9762\u5de5\u5177\u3002  \u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u63cf\u8ff0\u8c03\u7814\u76ee\u6807\uff0c\u7531 AI \u81ea\u52a8\u89c4\u5212\u4efb\u52a1\u6d41\u7a0b\uff0c\u5e76\u53d1\u8c03\u5ea6\u5e95\u5c42\u8fde\u63a5\u5668\u8fdb\u884c\u516c\u5f00\u6570\u636e\u91c7\u96c6\u4e0e\u6e05\u6d17\u3002",
+    "id": "ucmao/unisearch",
+    "language": "TypeScript",
+    "name": "ucmao/unisearch",
+    "stars": 7,
+    "updated_at": "2026-08-18T21:17:39Z",
+    "url": "https://github.com/ucmao/unisearch"
+  },
+  {
+    "description": "A tiny, offline check for abstention in text-to-SQL and RAG-over-warehouse assistants: does it say it cannot answer inst",
+    "id": "sandovabarbora/quaesitor-zero",
+    "language": "Python",
+    "name": "sandovabarbora/quaesitor-zero",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:17:26Z",
+    "url": "https://github.com/sandovabarbora/quaesitor-zero"
+  },
+  {
+    "description": "Study notes and working code on transformers, retrieval-augmented generation, and neural networks",
+    "id": "0bada11/ai-topics-notes",
+    "language": "Python",
+    "name": "0bada11/ai-topics-notes",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:17:21Z",
+    "url": "https://github.com/0bada11/ai-topics-notes"
+  },
+  {
+    "description": "Living Domain\u00d7Form matrix of every repo I've forked, with one-shot LLM abstraction + use cases. Self-updating via Action",
+    "id": "tbalt88/fork-atlas",
+    "language": "JavaScript",
+    "name": "tbalt88/fork-atlas",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:15:38Z",
+    "url": "https://github.com/tbalt88/fork-atlas"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T21:15:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T21:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Systems & product portfolio \u2014 San Lee",
+    "id": "sanlee-ys/portfolio",
+    "language": "Astro",
+    "name": "sanlee-ys/portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:14:45Z",
+    "url": "https://github.com/sanlee-ys/portfolio"
+  },
+  {
+    "description": "Avatar-based dementia-care assistant for iOS, Android and web \u2014 RAG chat with cited answers from a curated NZ knowledge ",
+    "id": "Richman-Tan/DementiaGuideAI",
+    "language": "JavaScript",
+    "name": "Richman-Tan/DementiaGuideAI",
+    "stars": 2,
+    "updated_at": "2026-08-18T21:14:26Z",
+    "url": "https://github.com/Richman-Tan/DementiaGuideAI"
+  },
+  {
+    "description": "Local infrastructure for LLM agents \u2014 hybrid retrieval, cognitive memory, persistent channels",
+    "id": "codefather-labs/claudebase",
+    "language": "Rust",
+    "name": "codefather-labs/claudebase",
+    "stars": 1,
+    "updated_at": "2026-08-18T21:14:23Z",
+    "url": "https://github.com/codefather-labs/claudebase"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 7,
+    "updated_at": "2026-08-18T21:14:08Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
+    "id": "jee3m/augmentative-knowledge-hooks",
+    "language": "HTML",
+    "name": "jee3m/augmentative-knowledge-hooks",
+    "stars": 0,
+    "updated_at": "2026-08-18T21:13:55Z",
+    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
   },
   {
     "description": "AI application built to help healthcare professionals assess hospital readmission risk",
@@ -18,21 +153,12 @@
     "url": "https://github.com/DanHerman212/enterprise_clinical_copilot"
   },
   {
-    "description": "Study notes and working code on transformers, retrieval-augmented generation, and neural networks",
-    "id": "0bada11/ai-topics-notes",
-    "language": "Python",
-    "name": "0bada11/ai-topics-notes",
-    "stars": 0,
-    "updated_at": "2026-08-18T21:12:42Z",
-    "url": "https://github.com/0bada11/ai-topics-notes"
-  },
-  {
     "description": "Turn a folder of markdown notes into a queryable knowledge graph \u2014 people, companies, projects and the relationships bet",
     "id": "jessicahiggs/context-graph",
     "language": "Python",
     "name": "jessicahiggs/context-graph",
     "stars": 0,
-    "updated_at": "2026-08-18T21:12:35Z",
+    "updated_at": "2026-08-18T21:19:15Z",
     "url": "https://github.com/jessicahiggs/context-graph"
   },
   {
@@ -52,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T21:11:48Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
-    "id": "vicenteliu/OpsPilot",
-    "language": "Python",
-    "name": "vicenteliu/OpsPilot",
-    "stars": 0,
-    "updated_at": "2026-08-18T21:15:23Z",
-    "url": "https://github.com/vicenteliu/OpsPilot"
   },
   {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
@@ -153,15 +270,6 @@
     "url": "https://github.com/Ats-Shengye/GeminiRAG"
   },
   {
-    "description": "Systems & product portfolio \u2014 San Lee",
-    "id": "sanlee-ys/portfolio",
-    "language": "Astro",
-    "name": "sanlee-ys/portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-18T21:14:45Z",
-    "url": "https://github.com/sanlee-ys/portfolio"
-  },
-  {
     "description": "Local knowledge base over my projects. RAG and tool-use agent, with an MCP server and optional calls to project HTTP API",
     "id": "sanlee-ys/kb-agent",
     "language": "Python",
@@ -221,7 +329,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 79,
-    "updated_at": "2026-08-18T21:04:40Z",
+    "updated_at": "2026-08-18T21:18:16Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -248,7 +356,7 @@
     "language": "Python",
     "name": "wish-maker/minder",
     "stars": 4,
-    "updated_at": "2026-08-18T21:00:45Z",
+    "updated_at": "2026-08-18T21:17:06Z",
     "url": "https://github.com/wish-maker/minder"
   },
   {
@@ -259,15 +367,6 @@
     "stars": 4100,
     "updated_at": "2026-08-18T21:00:28Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T21:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
@@ -284,17 +383,8 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29432,
-    "updated_at": "2026-08-18T21:12:07Z",
+    "updated_at": "2026-08-18T21:16:54Z",
     "url": "https://github.com/simstudioai/sim"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T21:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Turn a web crawl into an ML-ready dataset. Boilerplate extraction, Gopher/C4 quality filtering, MinHash near-dedup, shar",
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-18T21:04:23Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Local AI assistant backend \u2014 FastAPI, autonomous web search, RAG, and streaming. Runs fully offline on macOS",
-    "id": "mabaeyens/mira-core",
-    "language": "Python",
-    "name": "mabaeyens/mira-core",
-    "stars": 3,
-    "updated_at": "2026-08-18T20:55:36Z",
-    "url": "https://github.com/mabaeyens/mira-core"
-  },
-  {
-    "description": "Official SkyProgressor Repository",
-    "id": "westkorean/skyProgressor",
-    "language": "TypeScript",
-    "name": "westkorean/skyProgressor",
-    "stars": 1,
-    "updated_at": "2026-08-18T20:54:11Z",
-    "url": "https://github.com/westkorean/skyProgressor"
-  },
-  {
-    "description": "Hands-on AI engineering labs: RAG, agents, MCP, voice AI, LoRA fine-tuning, streaming frontends.",
-    "id": "karamh5/zero-to-hero-AI",
-    "language": "HTML",
-    "name": "karamh5/zero-to-hero-AI",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:53:25Z",
-    "url": "https://github.com/karamh5/zero-to-hero-AI"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4620,
-    "updated_at": "2026-08-18T20:53:01Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3255,
-    "updated_at": "2026-08-18T20:51:47Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "Traceable regulatory intelligence for Chile\u2019s power sector with RAG, verified citations, evals and cost observability.",
-    "id": "JotaTerrasa/CENtinela",
-    "language": "Python",
-    "name": "JotaTerrasa/CENtinela",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:51:28Z",
-    "url": "https://github.com/JotaTerrasa/CENtinela"
-  },
-  {
-    "description": "\ud83e\udde0 A Personal, Memory-First Multi-Agent AI Operating System \u2014 FastAPI \u00b7 Next.js \u00b7 PostgreSQL \u00b7 pgvector \u00b7 Supabase",
-    "id": "Iqbalmeerajohn/GUMMY-OS",
-    "language": "Python",
-    "name": "Iqbalmeerajohn/GUMMY-OS",
-    "stars": 2,
-    "updated_at": "2026-08-18T20:51:16Z",
-    "url": "https://github.com/Iqbalmeerajohn/GUMMY-OS"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:50:58Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Recursive Language Models for .NET \u2014 answer questions over documents larger than any context window, via a smart root mo",
-    "id": "astralmaster/RecursiveLM",
-    "language": "C#",
-    "name": "astralmaster/RecursiveLM",
-    "stars": 0,
-    "updated_at": "2026-08-18T20:49:59Z",
-    "url": "https://github.com/astralmaster/RecursiveLM"
-  },
-  {
-    "description": "Give your AI assistant a map of your codebase, not a pile of files.",
-    "id": "MrNedimBoztepe/Shonkor",
-    "language": "C#",
-    "name": "MrNedimBoztepe/Shonkor",
-    "stars": 1,
-    "updated_at": "2026-08-18T20:52:25Z",
-    "url": "https://github.com/MrNedimBoztepe/Shonkor"
   }
 ]
