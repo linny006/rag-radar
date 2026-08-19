@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:29:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "openMemo is your personal digital space for things worth keeping links, files, notes, videos. On your machine.",
+    "id": "izored/OpenMemo",
+    "language": "Python",
+    "name": "izored/OpenMemo",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:28:20Z",
+    "url": "https://github.com/izored/OpenMemo"
+  },
+  {
+    "description": "Code search that lets AI coding agents find the right files in fewer steps. Use the hosted endpoint or self-host, works ",
+    "id": "takara-ai/miru-code",
+    "language": "TypeScript",
+    "name": "takara-ai/miru-code",
+    "stars": 9,
+    "updated_at": "2026-08-19T09:28:19Z",
+    "url": "https://github.com/takara-ai/miru-code"
+  },
+  {
+    "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
+    "id": "KanenasInGreece/Shared_Memory",
+    "language": "Python",
+    "name": "KanenasInGreece/Shared_Memory",
+    "stars": 1,
+    "updated_at": "2026-08-19T09:28:17Z",
+    "url": "https://github.com/KanenasInGreece/Shared_Memory"
+  },
+  {
     "description": "Embedded Cypher knowledge graph for Python and Rust. Bundled MCP server, describe() schema, and code-graph parser for LL",
     "id": "kkollsga/kglite",
     "language": "Rust",
@@ -7,6 +43,15 @@
     "stars": 34,
     "updated_at": "2026-08-19T09:27:39Z",
     "url": "https://github.com/kkollsga/kglite"
+  },
+  {
+    "description": "A native LLM client for iOS & Apple Watch. Run local GGUF models offline via llama.cpp, or connect to OpenAI/Claude/Gemi",
+    "id": "Eric-Terminal/ETOS-LLM-Studio",
+    "language": "Swift",
+    "name": "Eric-Terminal/ETOS-LLM-Studio",
+    "stars": 190,
+    "updated_at": "2026-08-19T09:27:28Z",
+    "url": "https://github.com/Eric-Terminal/ETOS-LLM-Studio"
   },
   {
     "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chain",
@@ -43,6 +88,15 @@
     "stars": 1065,
     "updated_at": "2026-08-19T09:28:34Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
+    "id": "AnalyseDeCircuit/oxideterm",
+    "language": "Rust",
+    "name": "AnalyseDeCircuit/oxideterm",
+    "stars": 1298,
+    "updated_at": "2026-08-19T09:25:46Z",
+    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "Matlan1/localm",
     "stars": 1,
-    "updated_at": "2026-08-19T09:27:45Z",
+    "updated_at": "2026-08-19T09:29:48Z",
     "url": "https://github.com/Matlan1/localm"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "openMemo is your personal digital space for things worth keeping links, files, notes, videos. On your machine.",
-    "id": "izored/OpenMemo",
-    "language": "Python",
-    "name": "izored/OpenMemo",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:28:20Z",
-    "url": "https://github.com/izored/OpenMemo"
-  },
-  {
     "description": "AI-augmented IT ops workbench \u2014 spec-driven, multi-provider, local-first. Turns incidents and service requests into KB-c",
     "id": "vicenteliu/OpsPilot",
     "language": "Python",
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "atvirokodosprendimai/agentsmemory",
     "stars": 1,
-    "updated_at": "2026-08-19T09:29:08Z",
+    "updated_at": "2026-08-19T09:29:42Z",
     "url": "https://github.com/atvirokodosprendimai/agentsmemory"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T09:29:01Z",
     "url": "https://github.com/stanleytejakusuma/alexandria"
-  },
-  {
-    "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
-    "id": "KanenasInGreece/Shared_Memory",
-    "language": "Python",
-    "name": "KanenasInGreece/Shared_Memory",
-    "stars": 1,
-    "updated_at": "2026-08-19T09:28:17Z",
-    "url": "https://github.com/KanenasInGreece/Shared_Memory"
   },
   {
     "description": "AI pull-request reviewer: hybrid RAG + a code graph + Claude Code. Whole-repo context, inline GitHub comments grounded o",
@@ -387,15 +423,6 @@
     "url": "https://github.com/SaniaKhizar/RAG-from-scratch"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T09:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Retrieval-Augmented Generation (RAG) application for document question answering using FastAPI, Streamlit, Ollama and Op",
     "id": "ddmpriza/ai-document-assistant",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 7054,
     "updated_at": "2026-08-19T09:12:52Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "CLI agent for all",
-    "id": "AmanBanik/Agen",
-    "language": "Python",
-    "name": "AmanBanik/Agen",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:12:37Z",
-    "url": "https://github.com/AmanBanik/Agen"
-  },
-  {
-    "description": "Self-hosted second brain: Telegram/API capture \u2192 classify \u2192 Markdown vault; RAG ask/digest, REST + MCP. MIT portfolio \u00b7 ",
-    "id": "LeekiGitHub/Seiton-Brain",
-    "language": "Python",
-    "name": "LeekiGitHub/Seiton-Brain",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:12:23Z",
-    "url": "https://github.com/LeekiGitHub/Seiton-Brain"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4654,
-    "updated_at": "2026-08-19T09:11:50Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
   }
 ]
