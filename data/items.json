@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T08:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Class-aware Discord AI with assignment retrieval, schedules, OCR, Qdrant RAG, and bounded per-user memory.",
+    "id": "cadornajansen/uno-discord-bot",
+    "language": "Python",
+    "name": "cadornajansen/uno-discord-bot",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:00:28Z",
+    "url": "https://github.com/cadornajansen/uno-discord-bot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T08:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-hosted knowledge engine: ingest your team's tools, hybrid (vector+keyword+graph) retrieval, cited LLM answers.",
     "id": "prbe-ai/prbe-knowledge",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T08:00:14Z",
     "url": "https://github.com/prbe-ai/prbe-knowledge"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:59:47Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
     "description": "Portable contracts and local-first runtimes for canonical data, retrieval, durable execution, and agent-facing AI.",
@@ -18,6 +54,15 @@
     "url": "https://github.com/Univeracity/vyral"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45689,
+    "updated_at": "2026-08-19T07:59:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
@@ -27,6 +72,24 @@
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
+    "id": "deepset-ai/haystack",
+    "language": "Python",
+    "name": "deepset-ai/haystack",
+    "stars": 26251,
+    "updated_at": "2026-08-19T07:59:11Z",
+    "url": "https://github.com/deepset-ai/haystack"
+  },
+  {
+    "description": "FastGPT plugin system. Provide model presets, system tools and other extended functions for FastGPT.",
+    "id": "labring/fastgpt-plugin",
+    "language": "TypeScript",
+    "name": "labring/fastgpt-plugin",
+    "stars": 43,
+    "updated_at": "2026-08-19T07:59:04Z",
+    "url": "https://github.com/labring/fastgpt-plugin"
+  },
+  {
     "description": "Open-source, real-time collaborative AI canvas - notes, mini-apps, and agents on one infinite board.",
     "id": "vcmf/dim0",
     "language": "TypeScript",
@@ -34,6 +97,24 @@
     "stars": 104,
     "updated_at": "2026-08-19T07:58:54Z",
     "url": "https://github.com/vcmf/dim0"
+  },
+  {
+    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
+    "id": "tobocop2/lilbee",
+    "language": "Python",
+    "name": "tobocop2/lilbee",
+    "stars": 47,
+    "updated_at": "2026-08-19T08:00:39Z",
+    "url": "https://github.com/tobocop2/lilbee"
+  },
+  {
+    "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
+    "id": "sturlese/stigmergy",
+    "language": "Python",
+    "name": "sturlese/stigmergy",
+    "stars": 5,
+    "updated_at": "2026-08-19T07:58:38Z",
+    "url": "https://github.com/sturlese/stigmergy"
   },
   {
     "description": "A native macOS app that turns GitHub Stars into a searchable, organized, AI-powered personal knowledge base.",
@@ -194,7 +275,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 85,
-    "updated_at": "2026-08-19T08:00:08Z",
+    "updated_at": "2026-08-19T08:01:46Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -230,7 +311,7 @@
     "language": "TypeScript",
     "name": "IHUI-INF-AI/IHUI-AI",
     "stars": 15,
-    "updated_at": "2026-08-19T07:49:49Z",
+    "updated_at": "2026-08-19T08:00:59Z",
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T07:45:28Z",
     "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Langchain FastAPI server ",
-    "id": "Harmeet10000/AgentNexus-LangChain-FastAPI",
-    "language": "Python",
-    "name": "Harmeet10000/AgentNexus-LangChain-FastAPI",
-    "stars": 35,
-    "updated_at": "2026-08-19T07:45:28Z",
-    "url": "https://github.com/Harmeet10000/AgentNexus-LangChain-FastAPI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T07:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T07:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "My GitHub profile \u2014 built with stats, projects, and a snake that eats my commits.",
-    "id": "ronitgulia/ronitgulia",
-    "language": "\u2014",
-    "name": "ronitgulia/ronitgulia",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:45:10Z",
-    "url": "https://github.com/ronitgulia/ronitgulia"
-  },
-  {
-    "description": "Deepdive skill for Claude Code \u2014 12-phase research pipeline: plan-review gate, parallel sub-agent search, claims-ledger ",
-    "id": "Socialpranker/deepdive",
-    "language": "Python",
-    "name": "Socialpranker/deepdive",
-    "stars": 8,
-    "updated_at": "2026-08-19T07:45:04Z",
-    "url": "https://github.com/Socialpranker/deepdive"
-  },
-  {
-    "description": "Pure Rust PDF library for AI/RAG: structure-aware chunking, no ML, no C deps.",
-    "id": "bzsanti/oxidizePdf",
-    "language": "Rust",
-    "name": "bzsanti/oxidizePdf",
-    "stars": 185,
-    "updated_at": "2026-08-19T07:56:09Z",
-    "url": "https://github.com/bzsanti/oxidizePdf"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T07:44:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3255,
-    "updated_at": "2026-08-19T07:44:57Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "Korean crypto \u00d7 AI vertical media + community \u2014 alpha.moss.land. Channel stance, AI briefs, RAG, 8 AI personas with trac",
-    "id": "MosslandOpenDevs/alpha",
-    "language": "TypeScript",
-    "name": "MosslandOpenDevs/alpha",
-    "stars": 2,
-    "updated_at": "2026-08-19T07:48:52Z",
-    "url": "https://github.com/MosslandOpenDevs/alpha"
   }
 ]
