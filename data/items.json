@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T22:59:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Asistente IA sobre normativa nuclear argentina \u2014 ARN, Ley 24804, protecci\u00f3n radiol\u00f3gica y tratados internacionales.",
     "id": "coderhouse2025-droid/norma-ar",
     "language": "JavaScript",
@@ -7,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T22:59:43Z",
     "url": "https://github.com/coderhouse2025-droid/norma-ar"
+  },
+  {
+    "description": "Portfolio and AI automation services for Rolly Calma: AR/AP, website QA, and proof demos.",
+    "id": "Ghraven/work",
+    "language": "HTML",
+    "name": "Ghraven/work",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:59:35Z",
+    "url": "https://github.com/Ghraven/work"
   },
   {
     "description": "Fine-Tuning Local LLM for Drilling & Completions -- a hands-on Quarto book teaching drilling & completions engineers, ze",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "nanohype/slack-knowledge-bot",
     "stars": 0,
-    "updated_at": "2026-08-19T22:59:56Z",
+    "updated_at": "2026-08-19T22:59:58Z",
     "url": "https://github.com/nanohype/slack-knowledge-bot"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T22:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T22:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T22:31:08Z",
     "url": "https://github.com/MORAWA-dev/dakikobo"
-  },
-  {
-    "description": "A quality-gated League of Legends post-game coaching agent built on deterministic match data, RAG, and LLM evaluation.",
-    "id": "123Cx330Yrx/riftcoach-agent",
-    "language": "Python",
-    "name": "123Cx330Yrx/riftcoach-agent",
-    "stars": 6,
-    "updated_at": "2026-08-19T22:30:52Z",
-    "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
   }
 ]
