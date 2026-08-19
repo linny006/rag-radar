@@ -1,12 +1,120 @@
 [
   {
+    "description": "DrAA: an Applied Anthropology knowledgebase and AI expert covering biology, evolution, cultural evolution, secular dharm",
+    "id": "Open-Technology-Foundation/appliedanthropology",
+    "language": "Shell",
+    "name": "Open-Technology-Foundation/appliedanthropology",
+    "stars": 4,
+    "updated_at": "2026-08-19T23:50:16Z",
+    "url": "https://github.com/Open-Technology-Foundation/appliedanthropology"
+  },
+  {
+    "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
+    "id": "1ay1/agentty",
+    "language": "C++",
+    "name": "1ay1/agentty",
+    "stars": 606,
+    "updated_at": "2026-08-19T23:49:26Z",
+    "url": "https://github.com/1ay1/agentty"
+  },
+  {
+    "description": "Spanish-language F1 analysis tool powered by FastF1 + Claude Sonnet + Supabase. Chat with telemetry, race strategy, pit ",
+    "id": "luc45hn/f1-analyst-pro",
+    "language": "Python",
+    "name": "luc45hn/f1-analyst-pro",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:49:14Z",
+    "url": "https://github.com/luc45hn/f1-analyst-pro"
+  },
+  {
+    "description": "Typed tenant-aware document question answering for SaaS onboarding and admin handbooks.",
+    "id": "AmaraFlint94158/saas-tenant-document-tutor",
+    "language": "TypeScript",
+    "name": "AmaraFlint94158/saas-tenant-document-tutor",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:48:16Z",
+    "url": "https://github.com/AmaraFlint94158/saas-tenant-document-tutor"
+  },
+  {
+    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
+    "id": "SmooAI/smooth-operator",
+    "language": "Rust",
+    "name": "SmooAI/smooth-operator",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:48:13Z",
+    "url": "https://github.com/SmooAI/smooth-operator"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19097,
+    "updated_at": "2026-08-19T23:48:12Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64930,
+    "updated_at": "2026-08-19T23:48:10Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+    "id": "TeleAI-UAGI/Awesome-Agent-Memory",
+    "language": "Python",
+    "name": "TeleAI-UAGI/Awesome-Agent-Memory",
+    "stars": 588,
+    "updated_at": "2026-08-19T23:47:41Z",
+    "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
+  },
+  {
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
+    "id": "Bike4Mind/bike4mind",
+    "language": "TypeScript",
+    "name": "Bike4Mind/bike4mind",
+    "stars": 86,
+    "updated_at": "2026-08-19T23:49:57Z",
+    "url": "https://github.com/Bike4Mind/bike4mind"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3255,
+    "updated_at": "2026-08-19T23:47:16Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
     "description": "Plugin jur\u00eddico para Claude Code com Skills processuais, RAG legislativo h\u00edbrido, valida\u00e7\u00e3o de cita\u00e7\u00f5es, proveni\u00eancia fa",
     "id": "lmgentil/ede-legal-plugin",
-    "language": "\u2014",
+    "language": "Python",
     "name": "lmgentil/ede-legal-plugin",
     "stars": 0,
-    "updated_at": "2026-08-19T23:45:08Z",
+    "updated_at": "2026-08-19T23:46:25Z",
     "url": "https://github.com/lmgentil/ede-legal-plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T23:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T23:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -25,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:44:06Z",
     "url": "https://github.com/vectros-ai/vectros-examples"
+  },
+  {
+    "description": "Token-efficient MCP doc-router \u2014 one canonical doc per query for your coding agents.",
+    "id": "TsukumoHQ/trovex",
+    "language": "HTML",
+    "name": "TsukumoHQ/trovex",
+    "stars": 7,
+    "updated_at": "2026-08-19T23:43:52Z",
+    "url": "https://github.com/TsukumoHQ/trovex"
   },
   {
     "description": "Documentation of AnythingLLM by Mintplex Labs Inc.",
@@ -86,7 +203,7 @@
     "language": "Go",
     "name": "lgldsilva/semidx",
     "stars": 0,
-    "updated_at": "2026-08-19T23:39:56Z",
+    "updated_at": "2026-08-19T23:46:48Z",
     "url": "https://github.com/lgldsilva/semidx"
   },
   {
@@ -106,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:39:38Z",
     "url": "https://github.com/coderhouse2025-droid/norma-ar"
-  },
-  {
-    "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-    "id": "TeleAI-UAGI/Awesome-Agent-Memory",
-    "language": "Python",
-    "name": "TeleAI-UAGI/Awesome-Agent-Memory",
-    "stars": 588,
-    "updated_at": "2026-08-19T23:38:56Z",
-    "url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -180,15 +288,6 @@
     "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
-    "description": "Polyglot AI agent service \u2014 knowledge chat, tools, durable checkpoints, human-in-the-loop, and multi-participant convers",
-    "id": "SmooAI/smooth-operator",
-    "language": "Rust",
-    "name": "SmooAI/smooth-operator",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:39:56Z",
-    "url": "https://github.com/SmooAI/smooth-operator"
-  },
-  {
     "description": "RAFT, or Retrieval-Augmented Fine-Tuning, is a method comprising of a fine-tuning and a RAG-based retrieval phase. It is",
     "id": "lumpenspace/raft",
     "language": "Python",
@@ -243,13 +342,13 @@
     "url": "https://github.com/vectros-ai/vectros-react"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "id": "open-webui/open-webui",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
+    "name": "open-webui/open-webui",
+    "stars": 149271,
     "updated_at": "2026-08-19T23:35:51Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "url": "https://github.com/open-webui/open-webui"
   },
   {
     "description": "Reference admin application for the Vectros platform \u2014 members, API keys, roles and access profiles, activity logs, and ",
@@ -259,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:35:49Z",
     "url": "https://github.com/vectros-ai/vectros-admin-app"
-  },
-  {
-    "description": "Token-efficient MCP doc-router \u2014 one canonical doc per query for your coding agents.",
-    "id": "TsukumoHQ/trovex",
-    "language": "HTML",
-    "name": "TsukumoHQ/trovex",
-    "stars": 7,
-    "updated_at": "2026-08-19T23:43:52Z",
-    "url": "https://github.com/TsukumoHQ/trovex"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -288,15 +378,6 @@
     "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19097,
-    "updated_at": "2026-08-19T23:40:03Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -311,7 +392,7 @@
     "language": "TypeScript",
     "name": "postmill-ai/postmill-app",
     "stars": 0,
-    "updated_at": "2026-08-19T23:31:38Z",
+    "updated_at": "2026-08-19T23:49:13Z",
     "url": "https://github.com/postmill-ai/postmill-app"
   },
   {
@@ -347,7 +428,7 @@
     "language": "Zig",
     "name": "antflydb/antfly",
     "stars": 422,
-    "updated_at": "2026-08-19T23:44:38Z",
+    "updated_at": "2026-08-19T23:49:22Z",
     "url": "https://github.com/antflydb/antfly"
   },
   {
@@ -360,15 +441,6 @@
     "url": "https://github.com/VonderVuflya/Yggdrasil"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T23:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:30:19Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-19T23:30:12Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
-    "id": "bojieli/ai-agent-book",
-    "language": "Python",
-    "name": "bojieli/ai-agent-book",
-    "stars": 39509,
-    "updated_at": "2026-08-19T23:29:48Z",
-    "url": "https://github.com/bojieli/ai-agent-book"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-19T23:29:17Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
-    "id": "1ay1/agentty",
-    "language": "C++",
-    "name": "1ay1/agentty",
-    "stars": 606,
-    "updated_at": "2026-08-19T23:28:52Z",
-    "url": "https://github.com/1ay1/agentty"
-  },
-  {
-    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
-    "id": "Manuelgr928/rusty-beaker",
-    "language": "HTML",
-    "name": "Manuelgr928/rusty-beaker",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:28:42Z",
-    "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-08-19T23:33:18Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-19T23:27:57Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-19T23:27:33Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
