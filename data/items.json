@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:59:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persona-aware AI analytics & RAG copilot \u2014 9 role-scoped personas, hybrid retrieval (BGE+BM25+RRF+reranker) + GraphRAG-l",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:59:08Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
     "description": "Working engineering repository for Frida, an AI assistant runtime with memory, observability, and hermeneutic source arb",
     "id": "Tofmuck/FridaDev",
     "language": "Python",
@@ -25,6 +43,15 @@
     "stars": 152894,
     "updated_at": "2026-08-19T11:58:12Z",
     "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 734,
+    "updated_at": "2026-08-19T11:58:09Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "jgoy-labs/server-nexe",
     "stars": 10,
-    "updated_at": "2026-08-19T11:55:49Z",
+    "updated_at": "2026-08-19T11:59:56Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "VeraTools/Vera",
     "stars": 103,
-    "updated_at": "2026-08-19T11:53:19Z",
+    "updated_at": "2026-08-19T11:59:40Z",
     "url": "https://github.com/VeraTools/Vera"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "vitali87/code-graph-rag",
     "stars": 4656,
-    "updated_at": "2026-08-19T11:51:09Z",
+    "updated_at": "2026-08-19T11:59:47Z",
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-19T11:47:09Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 734,
-    "updated_at": "2026-08-19T11:58:09Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Local-first personal AI assistant & operating system \u2014 a real-life JARVIS / FRIDAY (Tony Stark\u2013style AI): voice, autonom",
-    "id": "LakshyaBadjatya/Friday",
-    "language": "Python",
-    "name": "LakshyaBadjatya/Friday",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:46:42Z",
-    "url": "https://github.com/LakshyaBadjatya/Friday"
-  },
-  {
-    "description": "Give any local LLM a billion-token memory. Open-source, local-first context + memory engine for Ollama and AI agents \u2014 r",
-    "id": "AetherAI3/Unlimited-Context-LLM",
-    "language": "Python",
-    "name": "AetherAI3/Unlimited-Context-LLM",
-    "stars": 28,
-    "updated_at": "2026-08-19T11:45:58Z",
-    "url": "https://github.com/AetherAI3/Unlimited-Context-LLM"
   }
 ]
