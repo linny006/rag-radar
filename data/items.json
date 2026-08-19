@@ -1,11 +1,38 @@
 [
   {
+    "description": "Vyact \u2014 Open-source local AI workspace with Ollama, RAG, AI agents, and Google Workspace integration.",
+    "id": "vyact/vyact",
+    "language": "TypeScript",
+    "name": "vyact/vyact",
+    "stars": 0,
+    "updated_at": "2026-08-19T13:00:51Z",
+    "url": "https://github.com/vyact/vyact"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T13:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An architecture-first legal RAG system demonstrating production-grade subsystem design and clean engineering boundaries.",
     "id": "cesaremcasa/Winter-Garden-Legal-RAG",
     "language": "Python",
     "name": "cesaremcasa/Winter-Garden-Legal-RAG",
     "stars": 3,
-    "updated_at": "2026-08-19T12:59:26Z",
+    "updated_at": "2026-08-19T13:00:50Z",
     "url": "https://github.com/cesaremcasa/Winter-Garden-Legal-RAG"
   },
   {
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "ai-safe-earth/laiive",
     "stars": 3,
-    "updated_at": "2026-08-19T12:59:37Z",
+    "updated_at": "2026-08-19T13:00:44Z",
     "url": "https://github.com/ai-safe-earth/laiive"
+  },
+  {
+    "description": "AI Agents PRO (FwDays, \u043f\u043e\u0442\u0456\u043a 08.2026) \u2014 \u043d\u0430\u0441\u043a\u0440\u0456\u0437\u043d\u0438\u0439 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u043c: \u043e\u0434\u0438\u043d \u0437\u0430\u043f\u0438\u0442 \u043a\u043b\u0456\u0454\u043d\u0442\u0430, \u0432\u0456\u0441\u0456\u043c \u0448\u0430\u0440\u0456\u0432 \u0430\u0433\u0435\u043d\u0442\u043d\u043e\u0457 \u0430\u0440\u0445\u0456\u0442\u0435\u043a\u0442\u0443\u0440\u0438. \u041a\u043e\u0436\u0435",
+    "id": "sanyaden/agents0826",
+    "language": "Python",
+    "name": "sanyaden/agents0826",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:58:15Z",
+    "url": "https://github.com/sanyaden/agents0826"
   },
   {
     "description": "Persistent semantic memory for AI agents \u2014 SQLite + FTS5 + vector hybrid search, optional Qdrant",
@@ -72,6 +108,24 @@
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
   },
   {
+    "description": "\u2696\ufe0f End-to-End Judicial Problem Solving Platform powered by a fine-tuned Legal Llama 3.2 (GGUF), statutory RAG over India",
+    "id": "P-mohith230/LexHelix",
+    "language": "Python",
+    "name": "P-mohith230/LexHelix",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:57:07Z",
+    "url": "https://github.com/P-mohith230/LexHelix"
+  },
+  {
+    "description": "Toolhouse is a Backend-as-a-Service platform for building, deploying, and managing \"AI workers\" (Toolhouse's current pro",
+    "id": "api-evangelist/toolhouse",
+    "language": "\u2014",
+    "name": "api-evangelist/toolhouse",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:56:32Z",
+    "url": "https://github.com/api-evangelist/toolhouse"
+  },
+  {
     "description": "Theta EdgeCloud is a distributed, hybrid AI and video cloud built on the Theta Network blockchain, offering on-demand GP",
     "id": "api-evangelist/theta-edge",
     "language": "\u2014",
@@ -115,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:55:23Z",
     "url": "https://github.com/api-evangelist/tensorlake"
+  },
+  {
+    "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
+    "id": "kenhayward/Diariz",
+    "language": "C#",
+    "name": "kenhayward/Diariz",
+    "stars": 3,
+    "updated_at": "2026-08-19T12:54:37Z",
+    "url": "https://github.com/kenhayward/Diariz"
   },
   {
     "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:46:50Z",
     "url": "https://github.com/ekstasisSH/wenshu"
-  },
-  {
-    "description": "Fine-Tuning Local LLM for Drilling & Completions -- a hands-on Quarto book teaching drilling & completions engineers, ze",
-    "id": "djimrastephane/llm-ft-drilling-completions-book",
-    "language": "Python",
-    "name": "djimrastephane/llm-ft-drilling-completions-book",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:46:50Z",
-    "url": "https://github.com/djimrastephane/llm-ft-drilling-completions-book"
-  },
-  {
-    "description": "Upload a codebase and ask questions about it in plain English \u2014 AI returns answers with exact file and line citations",
-    "id": "shivam-tamboli/AI-CodeBase-Assistant",
-    "language": "Python",
-    "name": "shivam-tamboli/AI-CodeBase-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:46:34Z",
-    "url": "https://github.com/shivam-tamboli/AI-CodeBase-Assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:46:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Ask your Downloads folder where a file is \u2014 and what it says. Local-first semantic search + RAG, no API keys.",
-    "id": "Dheemant-Dixit/sift",
-    "language": "Python",
-    "name": "Dheemant-Dixit/sift",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:45:59Z",
-    "url": "https://github.com/Dheemant-Dixit/sift"
-  },
-  {
-    "description": "PostgresML brings machine learning and AI into PostgreSQL. Using the open-source pgml extension it runs embedding genera",
-    "id": "api-evangelist/postgresml",
-    "language": "\u2014",
-    "name": "api-evangelist/postgresml",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:45:43Z",
-    "url": "https://github.com/api-evangelist/postgresml"
-  },
-  {
-    "description": "PDF Parser (EXE available) is a fast desktop application for extracting text, images, drawings, and metadata from PDF do",
-    "id": "kalle07/pdf2txt-parser",
-    "language": "Python",
-    "name": "kalle07/pdf2txt-parser",
-    "stars": 5,
-    "updated_at": "2026-08-19T12:45:31Z",
-    "url": "https://github.com/kalle07/pdf2txt-parser"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   }
 ]
