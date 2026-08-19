@@ -1,5 +1,23 @@
 [
   {
+    "description": "Enterprise AI Operations Assistant built on AWS using Amazon Bedrock, Retrieval-Augmented Generation (RAG), and serverle",
+    "id": "mkintelligence/enterprise-ai-operations-assistant",
+    "language": "JavaScript",
+    "name": "mkintelligence/enterprise-ai-operations-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:00:06Z",
+    "url": "https://github.com/mkintelligence/enterprise-ai-operations-assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:59:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
@@ -9,6 +27,15 @@
     "url": "https://github.com/elizaOS/eliza"
   },
   {
+    "description": "Local infrastructure for LLM agents \u2014 hybrid retrieval, cognitive memory, persistent channels",
+    "id": "codefather-labs/claudebase",
+    "language": "Rust",
+    "name": "codefather-labs/claudebase",
+    "stars": 1,
+    "updated_at": "2026-08-19T21:58:59Z",
+    "url": "https://github.com/codefather-labs/claudebase"
+  },
+  {
     "description": "RAG Biomed service with hybrid retrieval and cross-encoder reranking, evaluated against a 133-query golden QA harness (9",
     "id": "juan-casimiro/ai-research-assistant",
     "language": "Python",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T21:58:25Z",
     "url": "https://github.com/juan-casimiro/ai-research-assistant"
+  },
+  {
+    "description": "AI-driven enterprise project intelligence and risk management platform using machine learning, RAG, and project analytic",
+    "id": "KunalaNehaLakshmi/Development-of-AI-Driven-Enterprise-Project-Intelligence-and-Risk-Management-Platform",
+    "language": "Python",
+    "name": "KunalaNehaLakshmi/Development-of-AI-Driven-Enterprise-Project-Intelligence-and-Risk-Management-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-19T21:57:58Z",
+    "url": "https://github.com/KunalaNehaLakshmi/Development-of-AI-Driven-Enterprise-Project-Intelligence-and-Risk-Management-Platform"
   },
   {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T21:57:05Z",
     "url": "https://github.com/JeremiahM37/grimoire"
-  },
-  {
-    "description": "AI-driven enterprise project intelligence and risk management platform using machine learning, RAG, and project analytic",
-    "id": "KunalaNehaLakshmi/Development-of-AI-Driven-Enterprise-Project-Intelligence-and-Risk-Management-Platform",
-    "language": "Python",
-    "name": "KunalaNehaLakshmi/Development-of-AI-Driven-Enterprise-Project-Intelligence-and-Risk-Management-Platform",
-    "stars": 0,
-    "updated_at": "2026-08-19T21:57:58Z",
-    "url": "https://github.com/KunalaNehaLakshmi/Development-of-AI-Driven-Enterprise-Project-Intelligence-and-Risk-Management-Platform"
   },
   {
     "description": "Multi-agent business research assistant \u2014 4 AI agents collaborate via LangGraph to deliver sourced intelligence reports ",
@@ -252,15 +279,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automatio",
     "id": "henrydaum/second-brain",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "langchain-ai/langchain",
     "stars": 144576,
-    "updated_at": "2026-08-19T21:45:02Z",
+    "updated_at": "2026-08-19T21:59:39Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T21:44:15Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Local infrastructure for LLM agents \u2014 hybrid retrieval, cognitive memory, persistent channels",
-    "id": "codefather-labs/claudebase",
-    "language": "Rust",
-    "name": "codefather-labs/claudebase",
-    "stars": 1,
-    "updated_at": "2026-08-19T21:58:59Z",
-    "url": "https://github.com/codefather-labs/claudebase"
   },
   {
     "description": "FRC AI Chatbot and Assistant",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T21:33:41Z",
     "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
-    "description": "\ud83c\udfa5 Enterprise-grade Conversational AI & Automated Fact-Checker for video transcripts using Groq LLM (Llama 3.3 70B), Qdra",
-    "id": "SgAtjiit/VideoQuery",
-    "language": "Python",
-    "name": "SgAtjiit/VideoQuery",
-    "stars": 0,
-    "updated_at": "2026-08-19T21:33:02Z",
-    "url": "https://github.com/SgAtjiit/VideoQuery"
   }
 ]
