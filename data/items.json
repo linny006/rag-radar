@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "thomas-villani/all2md",
     "stars": 27,
-    "updated_at": "2026-08-19T18:26:49Z",
+    "updated_at": "2026-08-19T18:29:56Z",
     "url": "https://github.com/thomas-villani/all2md"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T18:29:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 7,
+    "updated_at": "2026-08-19T18:28:38Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T18:28:28Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open source agentic operating system",
@@ -34,6 +61,24 @@
     "stars": 5,
     "updated_at": "2026-08-19T18:26:05Z",
     "url": "https://github.com/Graxon-rag/graxon"
+  },
+  {
+    "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 38,
+    "updated_at": "2026-08-19T18:25:45Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "From public static void main to autonomous multi-agent systems \u2014 a code-first journey through Java, Spring AI, Google AD",
+    "id": "krishkumar4400/AgenticJVM",
+    "language": "Java",
+    "name": "krishkumar4400/AgenticJVM",
+    "stars": 1,
+    "updated_at": "2026-08-19T18:25:31Z",
+    "url": "https://github.com/krishkumar4400/AgenticJVM"
   },
   {
     "description": "Internal audit & risk analytics projects: an LLM RAG assistant, Benford's Law forensic screening on real SEC data, and d",
@@ -79,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T18:25:00Z",
     "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "A privacy-first, zero-data-training RAG application powered by FastAPI, React, ChromaDB hybrid search (BM25 + Dense Vect",
+    "id": "Sudhanshub27/rag-system",
+    "language": "Python",
+    "name": "Sudhanshub27/rag-system",
+    "stars": 1,
+    "updated_at": "2026-08-19T18:24:37Z",
+    "url": "https://github.com/Sudhanshub27/rag-system"
   },
   {
     "description": "Compresr is an LLM context-compression API. You send the long context you would otherwise pass to a model plus the query",
@@ -320,7 +374,7 @@
     "language": "Rust",
     "name": "harf-promo/indexa",
     "stars": 1,
-    "updated_at": "2026-08-19T18:24:26Z",
+    "updated_at": "2026-08-19T18:29:54Z",
     "url": "https://github.com/harf-promo/indexa"
   },
   {
@@ -365,7 +419,7 @@
     "language": "TypeScript",
     "name": "yeongjunyoo/onprem-mcp-data",
     "stars": 0,
-    "updated_at": "2026-08-19T18:16:35Z",
+    "updated_at": "2026-08-19T18:29:10Z",
     "url": "https://github.com/yeongjunyoo/onprem-mcp-data"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T18:15:27Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T18:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 4,
-    "updated_at": "2026-08-19T18:15:03Z",
-    "url": "https://github.com/wish-maker/minder"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:14:57Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "CreditFlow AI Agent - \uc18c\uc0c1\uacf5\uc778 \ub300\ucd9c \uc0ac\uc804\uc2ec\uc0ac \ubc0f \uc790\ub3d9 \uc18c\uc561\ub300\ucd9c \uc9d1\ud589 \uc5d0\uc774\uc804\ud2b8 (Google Cloud AI \u00d7 Solana\ub85c \uad6c\ud604\ud558\ub294  \ucc28\uc138\ub300 AI Agentic \ud574\ucee4\ud1a4)",
-    "id": "sujin-1015/creditflow-ai-agent",
-    "language": "Python",
-    "name": "sujin-1015/creditflow-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:14:52Z",
-    "url": "https://github.com/sujin-1015/creditflow-ai-agent"
-  },
-  {
-    "description": "Private hybrid search over your files, fully offline, 70+ languages. An MCP retrieval backend for AI agents.",
-    "id": "justsearch-app/justsearch",
-    "language": "Java",
-    "name": "justsearch-app/justsearch",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:14:34Z",
-    "url": "https://github.com/justsearch-app/justsearch"
-  },
-  {
-    "description": "RuvNet Brain \u2014 a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/",
-    "id": "stuinfla/ruvnet-brain",
-    "language": "JavaScript",
-    "name": "stuinfla/ruvnet-brain",
-    "stars": 63,
-    "updated_at": "2026-08-19T18:13:40Z",
-    "url": "https://github.com/stuinfla/ruvnet-brain"
   }
 ]
