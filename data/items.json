@@ -1,5 +1,32 @@
 [
   {
+    "description": "Compliance Q&A over public regulatory text \u2014 every answer cites an exact section, and unverifiable sentences are deleted",
+    "id": "frankTurtle/citeline",
+    "language": "Python",
+    "name": "frankTurtle/citeline",
+    "stars": 1,
+    "updated_at": "2026-08-19T15:45:17Z",
+    "url": "https://github.com/frankTurtle/citeline"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T15:45:04Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MIA-RAG - Membership Inference Attacks su un sistema RAG  Proof-of-Concept sperimentale a corredo della tesi magistrale:",
+    "id": "dantavo/miarag",
+    "language": "Python",
+    "name": "dantavo/miarag",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:45:01Z",
+    "url": "https://github.com/dantavo/miarag"
+  },
+  {
     "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0",
     "id": "KnockOutEZ/wigolo",
     "language": "TypeScript",
@@ -117,15 +144,6 @@
     "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "MIA-RAG - Membership Inference Attacks su un sistema RAG  Proof-of-Concept sperimentale a corredo della tesi magistrale:",
-    "id": "dantavo/miarag",
-    "language": "Python",
-    "name": "dantavo/miarag",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:45:01Z",
-    "url": "https://github.com/dantavo/miarag"
-  },
-  {
     "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
     "id": "harf-promo/indexa",
     "language": "Rust",
@@ -241,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T15:30:29Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T15:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered Git copilot for your terminal. Talk to Git in plain English, automate commits, review code, and manage repos ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T15:24:20Z",
     "url": "https://github.com/Baulehrer/OmaRag"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 784,
-    "updated_at": "2026-08-19T15:24:00Z",
-    "url": "https://github.com/christopherkarani/Wax"
   }
 ]
