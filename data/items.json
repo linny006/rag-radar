@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
     "id": "jgouviergmail/LIA-Assistant",
     "language": "Python",
@@ -25,6 +43,15 @@
     "stars": 5762,
     "updated_at": "2026-08-19T10:59:18Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 88817,
+    "updated_at": "2026-08-19T10:59:01Z",
+    "url": "https://github.com/infiniflow/ragflow"
   },
   {
     "description": "Structured Python notebooks for engineers building agentic AI systems - LLM APIs, tool use, agent loops, memory/RAG, mul",
@@ -99,15 +126,6 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 88817,
-    "updated_at": "2026-08-19T10:59:01Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
     "description": "A lightweight, open-source RAG knowledge base application that supports private data uploads, trusted question answering",
     "id": "Cris-z123/oriona-mesh",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-19T10:55:49Z",
     "url": "https://github.com/sturlese/stigmergy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:55:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "Hashevolution/James-RAG-Evol",
     "stars": 20,
-    "updated_at": "2026-08-19T10:51:33Z",
+    "updated_at": "2026-08-19T11:00:49Z",
     "url": "https://github.com/Hashevolution/James-RAG-Evol"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "jjjardev/HoardCore",
     "stars": 7,
-    "updated_at": "2026-08-19T10:48:19Z",
+    "updated_at": "2026-08-19T11:00:42Z",
     "url": "https://github.com/jjjardev/HoardCore"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-19T11:00:17Z",
+    "updated_at": "2026-08-19T11:00:20Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T10:47:38Z",
     "url": "https://github.com/jasonssdev/openkos"
-  },
-  {
-    "description": "\u5f00\u7bb1\u5373\u7528\u7684AI\u6807\u4e66\u7f16\u5199\u5de5\u5177\uff0c\u6807\u4e66AI\u751f\u6210\u5de5\u5177\uff0c\u6295\u6807\u5de5\u5177\u7bb1\u3001\u77e5\u8bc6\u5e93\u3001\u6807\u4e66\u67e5\u91cd\u3001\u5e9f\u6807\u9879\u68c0\u67e5\uff0c\u5b8c\u5168\u5f00\u6e90\u514d\u8d39\uff0c\u6b22\u8fce\u4f7f\u7528",
-    "id": "FB208/OpenBidKit_Yibiao",
-    "language": "JavaScript",
-    "name": "FB208/OpenBidKit_Yibiao",
-    "stars": 2391,
-    "updated_at": "2026-08-19T10:47:32Z",
-    "url": "https://github.com/FB208/OpenBidKit_Yibiao"
   }
 ]
