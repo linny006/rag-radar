@@ -1,5 +1,59 @@
 [
   {
+    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
+    "id": "HybridAIOne/hybridclaw",
+    "language": "TypeScript",
+    "name": "HybridAIOne/hybridclaw",
+    "stars": 127,
+    "updated_at": "2026-08-20T13:32:14Z",
+    "url": "https://github.com/HybridAIOne/hybridclaw"
+  },
+  {
+    "description": "RAG Biomed service with hybrid retrieval and cross-encoder reranking, evaluated against a 133-query golden QA harness (9",
+    "id": "juan-casimiro/ai-research-assistant",
+    "language": "Python",
+    "name": "juan-casimiro/ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-20T13:32:02Z",
+    "url": "https://github.com/juan-casimiro/ai-research-assistant"
+  },
+  {
+    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+    "id": "langgenius/dify",
+    "language": "TypeScript",
+    "name": "langgenius/dify",
+    "stars": 153029,
+    "updated_at": "2026-08-20T13:30:45Z",
+    "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4708,
+    "updated_at": "2026-08-20T13:32:26Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T13:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T13:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Model-agnostic local AI workstation and offline hybrid RAG knowledge system",
     "id": "chase-irql/ai-workstation",
     "language": "Python",
@@ -18,6 +72,15 @@
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
+    "description": "Personal AI research radar: GitHub Actions + GPT-4o-mini read hundreds of new arXiv papers daily and deliver a ranked di",
+    "id": "Bhanubathini2002/arxiv-radar",
+    "language": "Python",
+    "name": "Bhanubathini2002/arxiv-radar",
+    "stars": 0,
+    "updated_at": "2026-08-20T13:26:21Z",
+    "url": "https://github.com/Bhanubathini2002/arxiv-radar"
+  },
+  {
     "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
     "id": "KanenasInGreece/Shared_Memory",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 66969,
-    "updated_at": "2026-08-20T13:27:53Z",
+    "updated_at": "2026-08-20T13:32:30Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/dongjinpark-maker/mailkb"
   },
   {
-    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
-    "id": "langgenius/dify",
-    "language": "TypeScript",
-    "name": "langgenius/dify",
-    "stars": 153028,
-    "updated_at": "2026-08-20T13:30:21Z",
-    "url": "https://github.com/langgenius/dify"
-  },
-  {
     "description": "Universal memory layer for AI Agents",
     "id": "mem0ai/mem0",
     "language": "Python",
@@ -97,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:23:08Z",
     "url": "https://github.com/Swayam1705/Signal"
+  },
+  {
+    "description": "Durable hybrid memory for AI agents: vector + BM25 + temporal + graph recall, exposed through MCP, HTTP, and Python.",
+    "id": "udjin-labs/mnemostack",
+    "language": "Python",
+    "name": "udjin-labs/mnemostack",
+    "stars": 6,
+    "updated_at": "2026-08-20T13:22:49Z",
+    "url": "https://github.com/udjin-labs/mnemostack"
   },
   {
     "description": "\u4f60\u7684 AI\uff0c\u4ece\u6b64\u8bb0\u5f97\u4f60\u2014\u2014\u62fe\u5149\u8bb0\u5fc6\u5f15\u64ce\uff0c\u5b83\u8bb0\u5f97\u4f60\u4eec\u804a\u8fc7\u7684\u6bcf\u4e00\u4ef6\u4e8b\uff0c\u8fd8\u4f1a\u4e3b\u52a8\u5173\u5fc3\u4f60\u3002",
@@ -131,7 +194,7 @@
     "language": "Rust",
     "name": "harf-promo/indexa",
     "stars": 1,
-    "updated_at": "2026-08-20T13:21:39Z",
+    "updated_at": "2026-08-20T13:30:51Z",
     "url": "https://github.com/harf-promo/indexa"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "The-Geek-Freaks/NEOTH",
     "stars": 5,
-    "updated_at": "2026-08-20T13:20:04Z",
+    "updated_at": "2026-08-20T13:30:57Z",
     "url": "https://github.com/The-Geek-Freaks/NEOTH"
   },
   {
@@ -270,24 +333,6 @@
     "url": "https://github.com/JasonTM17/HealthCare_Project"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T13:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T13:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -338,7 +383,7 @@
     "language": "JavaScript",
     "name": "sepahead/sepahead",
     "stars": 0,
-    "updated_at": "2026-08-20T13:13:38Z",
+    "updated_at": "2026-08-20T13:31:19Z",
     "url": "https://github.com/sepahead/sepahead"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Rust",
     "name": "markfietje/brain-server",
     "stars": 0,
-    "updated_at": "2026-08-20T13:11:29Z",
+    "updated_at": "2026-08-20T13:32:18Z",
     "url": "https://github.com/markfietje/brain-server"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-20T13:11:18Z",
     "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
-  },
-  {
-    "description": "Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over ",
-    "id": "ctxr-dev/llm-wiki-memory",
-    "language": "JavaScript",
-    "name": "ctxr-dev/llm-wiki-memory",
-    "stars": 126,
-    "updated_at": "2026-08-20T13:11:11Z",
-    "url": "https://github.com/ctxr-dev/llm-wiki-memory"
-  },
-  {
-    "description": "",
-    "id": "ashok-dahal-codes/RAG-Chatbot",
-    "language": "Python",
-    "name": "ashok-dahal-codes/RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-20T13:11:11Z",
-    "url": "https://github.com/ashok-dahal-codes/RAG-Chatbot"
-  },
-  {
-    "description": "Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel",
-    "id": "Soren-ABT/dsh-knowledge",
-    "language": "TypeScript",
-    "name": "Soren-ABT/dsh-knowledge",
-    "stars": 7,
-    "updated_at": "2026-08-20T13:09:34Z",
-    "url": "https://github.com/Soren-ABT/dsh-knowledge"
-  },
-  {
-    "description": "A design-of-experiments platform for evaluating compound AI systems - find which technique drives quality, by how much, ",
-    "id": "fabian-lu/Cafe",
-    "language": "Python",
-    "name": "fabian-lu/Cafe",
-    "stars": 45,
-    "updated_at": "2026-08-20T13:09:25Z",
-    "url": "https://github.com/fabian-lu/Cafe"
-  },
-  {
-    "description": "AI-powered terminal environment for penetration testers",
-    "id": "PurrSh3ll/purrsh3ll",
-    "language": "Python",
-    "name": "PurrSh3ll/purrsh3ll",
-    "stars": 4,
-    "updated_at": "2026-08-20T13:09:19Z",
-    "url": "https://github.com/PurrSh3ll/purrsh3ll"
   }
 ]
