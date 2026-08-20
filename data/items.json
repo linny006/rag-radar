@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T18:14:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A terminal AI roleplay client with a memory that does not forget \u2014 local SQLite, semantic recall, and what every call co",
+    "id": "argamboad/custom-airp",
+    "language": "C#",
+    "name": "argamboad/custom-airp",
+    "stars": 0,
+    "updated_at": "2026-08-20T18:14:18Z",
+    "url": "https://github.com/argamboad/custom-airp"
+  },
+  {
+    "description": "Deterministic code-graph (GraphRAG) over your repo for LLM agents \u2014 local-first, git-native, zero-infra, served via MCP.",
+    "id": "reposkein/reposkein",
+    "language": "TypeScript",
+    "name": "reposkein/reposkein",
+    "stars": 11,
+    "updated_at": "2026-08-20T18:15:01Z",
+    "url": "https://github.com/reposkein/reposkein"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T18:13:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A pnpm workspace of TypeScript projects exploring AI/LLM patterns \u2014 LangChain, LangGraph, RAG, vector stores, MCP, and m",
     "id": "dilumdarshana/ai-concepts",
     "language": "TypeScript",
@@ -7,6 +43,24 @@
     "stars": 0,
     "updated_at": "2026-08-20T18:13:13Z",
     "url": "https://github.com/dilumdarshana/ai-concepts"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T18:13:00Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Voice-first AI operating system and intelligent financial ledger for rural micro-entrepreneurs & Self-Help Groups (SHGs)",
+    "id": "AkashKundu114/AI-SATHI",
+    "language": "Python",
+    "name": "AkashKundu114/AI-SATHI",
+    "stars": 1,
+    "updated_at": "2026-08-20T18:12:29Z",
+    "url": "https://github.com/AkashKundu114/AI-SATHI"
   },
   {
     "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
@@ -23,8 +77,17 @@
     "language": "TypeScript",
     "name": "AbuWabu3697/Sommelier-AI",
     "stars": 0,
-    "updated_at": "2026-08-20T18:11:32Z",
+    "updated_at": "2026-08-20T18:14:36Z",
     "url": "https://github.com/AbuWabu3697/Sommelier-AI"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6349,
+    "updated_at": "2026-08-20T18:14:45Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "bleach the rot away",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "sameerhimati/sourcery",
     "stars": 0,
-    "updated_at": "2026-08-20T18:10:42Z",
+    "updated_at": "2026-08-20T18:15:14Z",
     "url": "https://github.com/sameerhimati/sourcery"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "JeremiahM37/grimoire",
     "stars": 0,
-    "updated_at": "2026-08-20T18:10:19Z",
+    "updated_at": "2026-08-20T18:13:35Z",
     "url": "https://github.com/JeremiahM37/grimoire"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 7,
     "updated_at": "2026-08-20T18:09:43Z",
     "url": "https://github.com/groundlens-dev/groundlens"
-  },
-  {
-    "description": "Voice-first AI operating system and intelligent financial ledger for rural micro-entrepreneurs & Self-Help Groups (SHGs)",
-    "id": "AkashKundu114/AI-SATHI",
-    "language": "Python",
-    "name": "AkashKundu114/AI-SATHI",
-    "stars": 1,
-    "updated_at": "2026-08-20T18:12:29Z",
-    "url": "https://github.com/AkashKundu114/AI-SATHI"
   },
   {
     "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
@@ -234,15 +288,6 @@
     "url": "https://github.com/AKRai-2005/dhwani"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-08-20T18:13:00Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Building intelligent AI systems with Python, LangChain, FastAPI, RAG, AI Agents, and Machine Learning.",
     "id": "atharv-0705/atharv-0705",
     "language": "\u2014",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "harf-promo/indexa",
     "stars": 1,
-    "updated_at": "2026-08-20T18:01:32Z",
+    "updated_at": "2026-08-20T18:13:43Z",
     "url": "https://github.com/harf-promo/indexa"
   },
   {
@@ -277,24 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T18:09:30Z",
     "url": "https://github.com/sathwikr010-svg/OmniBrain"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T18:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T18:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "AsaifAli/asaifali-portfolio",
     "stars": 0,
-    "updated_at": "2026-08-20T17:58:47Z",
+    "updated_at": "2026-08-20T18:13:57Z",
     "url": "https://github.com/AsaifAli/asaifali-portfolio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 339,
     "updated_at": "2026-08-20T17:55:55Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
-    "id": "apod-1/ZoltarFinancial",
-    "language": "Python",
-    "name": "apod-1/ZoltarFinancial",
-    "stars": 3,
-    "updated_at": "2026-08-20T17:55:40Z",
-    "url": "https://github.com/apod-1/ZoltarFinancial"
-  },
-  {
-    "description": "Expo + TS: secure token storage, RAG chat screen, Axios interceptors.",
-    "id": "Krispy145/react-native-chat-rag",
-    "language": "TypeScript",
-    "name": "Krispy145/react-native-chat-rag",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:55:39Z",
-    "url": "https://github.com/Krispy145/react-native-chat-rag"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4733,
-    "updated_at": "2026-08-20T17:55:39Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
   }
 ]
