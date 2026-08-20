@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:45:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-powered document intelligence platform for research administration",
+    "id": "ui-insight/vandalizer",
+    "language": "Python",
+    "name": "ui-insight/vandalizer",
+    "stars": 11,
+    "updated_at": "2026-08-20T19:44:59Z",
+    "url": "https://github.com/ui-insight/vandalizer"
+  },
+  {
+    "description": "",
+    "id": "Ankan0503/RagInGoa",
+    "language": "Python",
+    "name": "Ankan0503/RagInGoa",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:44:49Z",
+    "url": "https://github.com/Ankan0503/RagInGoa"
+  },
+  {
+    "description": "A local-first, generic persistent memory layer for MCP agents, with semantic search, revisions, provenance, temporal rec",
+    "id": "gmacev/Simple-Memory-Extension-MCP-Server",
+    "language": "TypeScript",
+    "name": "gmacev/Simple-Memory-Extension-MCP-Server",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:44:41Z",
+    "url": "https://github.com/gmacev/Simple-Memory-Extension-MCP-Server"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:44:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Patient app and clinician dashboard over a FastAPI backend, where LangGraph agents triage incoming chat, pull structured",
     "id": "sjsu-masters-projects/medi-agent",
     "language": "Python",
     "name": "sjsu-masters-projects/medi-agent",
     "stars": 0,
-    "updated_at": "2026-08-20T19:44:25Z",
+    "updated_at": "2026-08-20T19:45:15Z",
     "url": "https://github.com/sjsu-masters-projects/medi-agent"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T19:42:55Z",
     "url": "https://github.com/Saim-Chaudhary/DocScrub"
-  },
-  {
-    "description": "AI-powered document intelligence platform for research administration",
-    "id": "ui-insight/vandalizer",
-    "language": "Python",
-    "name": "ui-insight/vandalizer",
-    "stars": 11,
-    "updated_at": "2026-08-20T19:41:42Z",
-    "url": "https://github.com/ui-insight/vandalizer"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -97,6 +133,15 @@
     "stars": 19108,
     "updated_at": "2026-08-20T19:44:34Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI-native markdown knowledge base with semantic search, RAG, and MCP server",
+    "id": "apresai/2ndbrain",
+    "language": "Go",
+    "name": "apresai/2ndbrain",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:39:55Z",
+    "url": "https://github.com/apresai/2ndbrain"
   },
   {
     "description": "bleach the rot away",
@@ -203,7 +248,7 @@
     "language": "Dart",
     "name": "involvex/nova-assistant",
     "stars": 1,
-    "updated_at": "2026-08-20T19:36:25Z",
+    "updated_at": "2026-08-20T19:44:51Z",
     "url": "https://github.com/involvex/nova-assistant"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/dbtinoy-/lexigram"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
     "id": "IgorGanapolsky/trading",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 38,
     "updated_at": "2026-08-20T19:42:53Z",
     "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u4e00\u4e2a\u57fa\u4e8e NoneBot2, OneBot v11, Docker, and OpenAI-compatible LLM APIs \u7684 QQ\u804a\u5929 AI agent",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T19:26:12Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
-    "id": "felladrin/MiniSearch",
-    "language": "TypeScript",
-    "name": "felladrin/MiniSearch",
-    "stars": 581,
-    "updated_at": "2026-08-20T19:26:12Z",
-    "url": "https://github.com/felladrin/MiniSearch"
-  },
-  {
-    "description": "Ask your Downloads folder where a file is \u2014 and what it says. Local-first semantic search + RAG, no API keys.",
-    "id": "Dheemant-Dixit/sift",
-    "language": "Python",
-    "name": "Dheemant-Dixit/sift",
-    "stars": 1,
-    "updated_at": "2026-08-20T19:25:41Z",
-    "url": "https://github.com/Dheemant-Dixit/sift"
-  },
-  {
-    "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
-    "id": "Smart-AI-Memory/attune-ai",
-    "language": "HTML",
-    "name": "Smart-AI-Memory/attune-ai",
-    "stars": 10,
-    "updated_at": "2026-08-20T19:38:53Z",
-    "url": "https://github.com/Smart-AI-Memory/attune-ai"
   }
 ]
