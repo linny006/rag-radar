@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "bleach the rot away",
     "id": "s-b-repo/subnext",
     "language": "Rust",
@@ -13,7 +31,7 @@
     "id": "Valdivia94x/laletra-api",
     "language": "\u2014",
     "name": "Valdivia94x/laletra-api",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-20T18:59:00Z",
     "url": "https://github.com/Valdivia94x/laletra-api"
   },
@@ -385,24 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T18:45:28Z",
     "url": "https://github.com/VINAY7033/docu-query-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T18:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Top Open-Source AI Agents 2026 \ud83e\udd16 | Best Autonomous Tools & Frameworks",
