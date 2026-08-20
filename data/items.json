@@ -1,5 +1,32 @@
 [
   {
+    "description": "Multi-assistant AI platform with RAG-driven context, pluggable LLM providers, and themeable interfaces. Built with Larav",
+    "id": "gaboeremita/laravel-vera",
+    "language": "PHP",
+    "name": "gaboeremita/laravel-vera",
+    "stars": 0,
+    "updated_at": "2026-08-20T06:44:09Z",
+    "url": "https://github.com/gaboeremita/laravel-vera"
+  },
+  {
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
+    "id": "cortexkit/aft",
+    "language": "Rust",
+    "name": "cortexkit/aft",
+    "stars": 254,
+    "updated_at": "2026-08-20T06:44:06Z",
+    "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T06:43:41Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source JARVIS-class desktop AI. Zen mode orb, computer control, plugin marketplace, custom tools, local RAG, knowle",
     "id": "alimaandev/Friday",
     "language": "Python",
@@ -7,6 +34,24 @@
     "stars": 5,
     "updated_at": "2026-08-20T06:43:13Z",
     "url": "https://github.com/alimaandev/Friday"
+  },
+  {
+    "description": "",
+    "id": "riddhimachat18/DocuMind-V2",
+    "language": "Rich Text Format",
+    "name": "riddhimachat18/DocuMind-V2",
+    "stars": 0,
+    "updated_at": "2026-08-20T06:43:06Z",
+    "url": "https://github.com/riddhimachat18/DocuMind-V2"
+  },
+  {
+    "description": "A production-grade RAG system enabling legal professionals to query large document sets in natural language, with automa",
+    "id": "Calladrus2001/paralegal",
+    "language": "TypeScript",
+    "name": "Calladrus2001/paralegal",
+    "stars": 0,
+    "updated_at": "2026-08-20T06:42:50Z",
+    "url": "https://github.com/Calladrus2001/paralegal"
   },
   {
     "description": "Answer product Discord questions from public docs only; fail-closed leak guards; escalate the unsure to founders.",
@@ -18,12 +63,21 @@
     "url": "https://github.com/DaizeDong/auto-support"
   },
   {
+    "description": "cruby's capable AI runtime",
+    "id": "r-uby-dev/llm",
+    "language": "Ruby",
+    "name": "r-uby-dev/llm",
+    "stars": 136,
+    "updated_at": "2026-08-20T06:42:21Z",
+    "url": "https://github.com/r-uby-dev/llm"
+  },
+  {
     "description": "Low-latency C++ order book + Python backtester with a RAG-based signal research pipeline",
     "id": "Mireinstein/QuantML",
     "language": "Python",
     "name": "Mireinstein/QuantML",
     "stars": 0,
-    "updated_at": "2026-08-20T06:42:02Z",
+    "updated_at": "2026-08-20T06:44:32Z",
     "url": "https://github.com/Mireinstein/QuantML"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A production-grade RAG system enabling legal professionals to query large document sets in natural language, with automa",
-    "id": "Calladrus2001/paralegal",
-    "language": "TypeScript",
-    "name": "Calladrus2001/paralegal",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:42:50Z",
-    "url": "https://github.com/Calladrus2001/paralegal"
-  },
-  {
     "description": "RAG Application",
     "id": "saptarshiroy39/arkiv",
     "language": "TypeScript",
@@ -212,7 +257,7 @@
     "language": "Java",
     "name": "zeweihan/aiworkdeck",
     "stars": 76,
-    "updated_at": "2026-08-20T06:42:45Z",
+    "updated_at": "2026-08-20T06:45:10Z",
     "url": "https://github.com/zeweihan/aiworkdeck"
   },
   {
@@ -247,7 +292,7 @@
     "id": "Tencent/WeKnora",
     "language": "Go",
     "name": "Tencent/WeKnora",
-    "stars": 20102,
+    "stars": 20103,
     "updated_at": "2026-08-20T06:35:50Z",
     "url": "https://github.com/Tencent/WeKnora"
   },
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "realyin/scope-lineage",
     "stars": 1,
-    "updated_at": "2026-08-20T06:34:14Z",
+    "updated_at": "2026-08-20T06:45:07Z",
     "url": "https://github.com/realyin/scope-lineage"
   },
   {
@@ -343,21 +388,12 @@
   },
   {
     "description": "Retrieval-augmented critique of paper PDFs. Rewritten without LangChain after finding it silently dropped 75% of retriev",
-    "id": "Goober-ly/Research-paper-critic-bot",
+    "id": "AagRaj/Research-paper-critic-bot",
     "language": "Python",
-    "name": "Goober-ly/Research-paper-critic-bot",
+    "name": "AagRaj/Research-paper-critic-bot",
     "stars": 0,
     "updated_at": "2026-08-20T06:32:00Z",
-    "url": "https://github.com/Goober-ly/Research-paper-critic-bot"
-  },
-  {
-    "description": "Multi-assistant AI platform with RAG-driven context, pluggable LLM providers, and themeable interfaces. Built with Larav",
-    "id": "gaboeremita/laravel-vera",
-    "language": "PHP",
-    "name": "gaboeremita/laravel-vera",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:38:43Z",
-    "url": "https://github.com/gaboeremita/laravel-vera"
+    "url": "https://github.com/AagRaj/Research-paper-critic-bot"
   },
   {
     "description": "\u9762\u5411 AI Search \u4e0e RAG \u53ec\u56de\u7684\u4f01\u4e1a\u7ea7\u6570\u5b57\u8d44\u4ea7\u67b6\u6784\u5b9e\u8df5\u3002\u63d0\u51fa AI-Trustor \u4e0e\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u7406\u8bba\uff0c\u89e3\u51b3 B2B \u51fa\u6d77\u4f01\u4e1a\u5728 ChatGPT Search\u3001Perplexity \u7b49\u751f\u6210\u5f0f\u5f15\u64ce\u4e2d\u7684\u673a\u5668\u4e0d\u53ef\u8bfb\u4e0e RAG \u53ec\u56de\u96be\u9898",
@@ -376,15 +412,6 @@
     "stars": 20,
     "updated_at": "2026-08-20T06:31:17Z",
     "url": "https://github.com/qyiun666/MemHop"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T06:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-20T06:39:27Z",
     "url": "https://github.com/wish-maker/minder"
-  },
-  {
-    "description": "Sovereign AI Infrastructure for Enterprise RAG. Zero-Trust PII Sanitization, Local Inference (CPU-optimized), and Docker",
-    "id": "Zyrabit-tech/zyrabit-SLM",
-    "language": "Python",
-    "name": "Zyrabit-tech/zyrabit-SLM",
-    "stars": 3,
-    "updated_at": "2026-08-20T06:29:39Z",
-    "url": "https://github.com/Zyrabit-tech/zyrabit-SLM"
-  },
-  {
-    "description": "Sovereign Prompt Stack: the production control plane for reasoning models and autonomous agents. System-level AI infrast",
-    "id": "cuic19053-hue/sovereign-system-prompts",
-    "language": "Python",
-    "name": "cuic19053-hue/sovereign-system-prompts",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:28:12Z",
-    "url": "https://github.com/cuic19053-hue/sovereign-system-prompts"
-  },
-  {
-    "description": "\u4f60\u7684 AI\uff0c\u4ece\u6b64\u8bb0\u5f97\u4f60\u2014\u2014\u62fe\u5149\u8bb0\u5fc6\u5f15\u64ce\uff0c\u5b83\u8bb0\u5f97\u4f60\u4eec\u804a\u8fc7\u7684\u6bcf\u4e00\u4ef6\u4e8b\uff0c\u8fd8\u4f1a\u4e3b\u52a8\u5173\u5fc3\u4f60\u3002",
-    "id": "freehul/sgme",
-    "language": "Python",
-    "name": "freehul/sgme",
-    "stars": 5,
-    "updated_at": "2026-08-20T06:27:51Z",
-    "url": "https://github.com/freehul/sgme"
   }
 ]
