@@ -1,5 +1,140 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T22:22:00Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 8,
+    "updated_at": "2026-08-20T22:21:33Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 11,
+    "updated_at": "2026-08-20T22:21:07Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "\ud55c\uad6d \ub370\uc774\ud130 MCP \uc11c\ubc84\ub97c \uc9c1\uc811 \ubd99\uc5ec\uc11c \uc7ac\uace0 \uadf8 \uac12\uc744 \uacf5\uac1c\ud558\ub294 \uc2e4\uce21 \ubaa9\ub85d \u2014 \uce21\uc815 \uc2a4\ud06c\ub9bd\ud2b8\uc640 \uc6d0\uc790\ub8cc \ud3ec\ud568",
+    "id": "sallim-app/korea-mcp-index",
+    "language": "Python",
+    "name": "sallim-app/korea-mcp-index",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:20:34Z",
+    "url": "https://github.com/sallim-app/korea-mcp-index"
+  },
+  {
+    "description": "Tutor de normativa de circulaci\u00f3n espa\u00f1ola con cita cerrada: no puede citar un art\u00edculo que no haya recuperado. Verifica",
+    "id": "samuvm/citebound",
+    "language": "Python",
+    "name": "samuvm/citebound",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:20:19Z",
+    "url": "https://github.com/samuvm/citebound"
+  },
+  {
+    "description": "Build large Python systems without losing control.  Contract-first. Async-native. Fully modular.      Dependency Injecti",
+    "id": "dbtinoy-/lexigram",
+    "language": "Python",
+    "name": "dbtinoy-/lexigram",
+    "stars": 1,
+    "updated_at": "2026-08-20T22:20:17Z",
+    "url": "https://github.com/dbtinoy-/lexigram"
+  },
+  {
+    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
+    "id": "juspay/neurolink",
+    "language": "TypeScript",
+    "name": "juspay/neurolink",
+    "stars": 121,
+    "updated_at": "2026-08-20T22:22:37Z",
+    "url": "https://github.com/juspay/neurolink"
+  },
+  {
+    "description": "Voice-enabled cross-lingual RAG over MSMARCO-XI. Ask aloud in 14 Indian languages; speech is transcribed directly into E",
+    "id": "AKRai-2005/dhwani",
+    "language": "Python",
+    "name": "AKRai-2005/dhwani",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:19:39Z",
+    "url": "https://github.com/AKRai-2005/dhwani"
+  },
+  {
+    "description": "Evidence-grounded RAG platform combining hybrid retrieval, reranking, citation verification, and fail-closed answer gene",
+    "id": "AsaifAli/LangGraph-RAG",
+    "language": "Python",
+    "name": "AsaifAli/LangGraph-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:18:20Z",
+    "url": "https://github.com/AsaifAli/LangGraph-RAG"
+  },
+  {
+    "description": "Local, single-user agentic workbench over your knowledge bases (curiosity-engine substrate).",
+    "id": "benjsmith/switchbay",
+    "language": "Python",
+    "name": "benjsmith/switchbay",
+    "stars": 1,
+    "updated_at": "2026-08-20T22:17:26Z",
+    "url": "https://github.com/benjsmith/switchbay"
+  },
+  {
+    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
+    "id": "jee3m/augmentative-knowledge-hooks",
+    "language": "HTML",
+    "name": "jee3m/augmentative-knowledge-hooks",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:16:36Z",
+    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
+  },
+  {
+    "description": "Agentic legacy-code modernization platform using program analysis, RAG, migration planning, context-grounded code transf",
+    "id": "AsaifAli/AI-Code-Modernization-Platform",
+    "language": "Python",
+    "name": "AsaifAli/AI-Code-Modernization-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:16:17Z",
+    "url": "https://github.com/AsaifAli/AI-Code-Modernization-Platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent long-term memory for Claude Code \u2014 local PostgreSQL + pgvector + Streamlit. Ingests JSONL sessions, extracts ",
+    "id": "mkupermann/throughline",
+    "language": "Python",
+    "name": "mkupermann/throughline",
+    "stars": 21,
+    "updated_at": "2026-08-20T22:15:15Z",
+    "url": "https://github.com/mkupermann/throughline"
+  },
+  {
     "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
     "id": "kimsanguine/AI_Human",
     "language": "Shell",
@@ -32,7 +167,7 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 434,
-    "updated_at": "2026-08-20T22:14:07Z",
+    "updated_at": "2026-08-20T22:16:37Z",
     "url": "https://github.com/caura-ai/caura"
   },
   {
@@ -43,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T22:13:15Z",
     "url": "https://github.com/jagadeesh-0101/secops-copilot"
-  },
-  {
-    "description": "Build large Python systems without losing control.  Contract-first. Async-native. Fully modular.      Dependency Injecti",
-    "id": "dbtinoy-/lexigram",
-    "language": "Python",
-    "name": "dbtinoy-/lexigram",
-    "stars": 1,
-    "updated_at": "2026-08-20T22:13:14Z",
-    "url": "https://github.com/dbtinoy-/lexigram"
   },
   {
     "description": "Official Jamdesk documentation \u2014 guides, API reference, components, and tutorials for the Jamdesk documentation platform",
@@ -95,7 +221,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3254,
-    "updated_at": "2026-08-20T22:11:01Z",
+    "updated_at": "2026-08-20T22:16:36Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -167,7 +293,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 28,
-    "updated_at": "2026-08-20T22:08:45Z",
+    "updated_at": "2026-08-20T22:20:39Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -185,7 +311,7 @@
     "language": "Python",
     "name": "DanHerman212/enterprise_clinical_copilot",
     "stars": 0,
-    "updated_at": "2026-08-20T22:07:53Z",
+    "updated_at": "2026-08-20T22:22:41Z",
     "url": "https://github.com/DanHerman212/enterprise_clinical_copilot"
   },
   {
@@ -266,17 +392,8 @@
     "language": "Python",
     "name": "automatiabcn/abs",
     "stars": 2,
-    "updated_at": "2026-08-20T22:12:33Z",
+    "updated_at": "2026-08-20T22:22:26Z",
     "url": "https://github.com/automatiabcn/abs"
-  },
-  {
-    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
-    "id": "Krzysztof318/MailFathom",
-    "language": "C#",
-    "name": "Krzysztof318/MailFathom",
-    "stars": 11,
-    "updated_at": "2026-08-20T22:12:29Z",
-    "url": "https://github.com/Krzysztof318/MailFathom"
   },
   {
     "description": "Local PDF-to-text, OCR, page-aware chunking, and AnythingLLM Desktop upload assistant for reliable page-cited RAG retrie",
@@ -297,15 +414,6 @@
     "url": "https://github.com/DonovanPierce6738/grounded-commerce-order-updates"
   },
   {
-    "description": "Voice-enabled cross-lingual RAG over MSMARCO-XI. Ask aloud in 14 Indian languages; speech is transcribed directly into E",
-    "id": "AKRai-2005/dhwani",
-    "language": "Python",
-    "name": "AKRai-2005/dhwani",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:01:44Z",
-    "url": "https://github.com/AKRai-2005/dhwani"
-  },
-  {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -324,24 +432,6 @@
     "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "bleach the rot away",
     "id": "s-b-repo/subnext",
     "language": "Rust",
@@ -358,95 +448,5 @@
     "stars": 24410,
     "updated_at": "2026-08-20T22:03:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Reusable, tool-agnostic AI engineering skills, workflows, templates, and evaluation playbooks for AI coding agents.",
-    "id": "karthikrshet/aiskills",
-    "language": "Python",
-    "name": "karthikrshet/aiskills",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:59:31Z",
-    "url": "https://github.com/karthikrshet/aiskills"
-  },
-  {
-    "description": "Engineering case study of Athleta, an AI fitness product with a per-user knowledge graph where the agent proposes and th",
-    "id": "francescoveryra-dot/athleta-showcase",
-    "language": "\u2014",
-    "name": "francescoveryra-dot/athleta-showcase",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:58:30Z",
-    "url": "https://github.com/francescoveryra-dot/athleta-showcase"
-  },
-  {
-    "description": "Engineering case study of Mielepi\u00f9, a B2B sales platform whose AI agent answers on real data and cites its sources.",
-    "id": "francescoveryra-dot/miele-plus-showcase",
-    "language": "\u2014",
-    "name": "francescoveryra-dot/miele-plus-showcase",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:58:19Z",
-    "url": "https://github.com/francescoveryra-dot/miele-plus-showcase"
-  },
-  {
-    "description": "Persistent long-term memory for Claude Code \u2014 local PostgreSQL + pgvector + Streamlit. Ingests JSONL sessions, extracts ",
-    "id": "mkupermann/throughline",
-    "language": "Python",
-    "name": "mkupermann/throughline",
-    "stars": 21,
-    "updated_at": "2026-08-20T22:15:15Z",
-    "url": "https://github.com/mkupermann/throughline"
-  },
-  {
-    "description": "A privacy-first, open-source Retrieval-Augmented Generation platform with real-time confidence metrics and source highli",
-    "id": "stjude-c3d/MyGPT",
-    "language": "TypeScript",
-    "name": "stjude-c3d/MyGPT",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:55:21Z",
-    "url": "https://github.com/stjude-c3d/MyGPT"
-  },
-  {
-    "description": "Local private AI platform with FastAPI, RAG, pgvector, auth and observability",
-    "id": "leonwwest/private-ai-lab",
-    "language": "Python",
-    "name": "leonwwest/private-ai-lab",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:55:21Z",
-    "url": "https://github.com/leonwwest/private-ai-lab"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 9,
-    "updated_at": "2026-08-20T21:55:02Z",
-    "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "AI-native markdown knowledge base with semantic search, RAG, and MCP server",
-    "id": "apresai/2ndbrain",
-    "language": "Go",
-    "name": "apresai/2ndbrain",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:54:43Z",
-    "url": "https://github.com/apresai/2ndbrain"
-  },
-  {
-    "description": "Local-first semantic paging and durable virtual memory for bounded AI context",
-    "id": "hwillGIT/library-of-context",
-    "language": "Python",
-    "name": "hwillGIT/library-of-context",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:54:41Z",
-    "url": "https://github.com/hwillGIT/library-of-context"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-08-20T21:53:10Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
