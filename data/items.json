@@ -1,12 +1,66 @@
 [
   {
-    "description": "A Knowledge Graph quality assessment and enrichment pipeline for Vietnamese land law, built to benchmark RAG retrieval s",
-    "id": "tdm291104/legal-kg-enrichment",
+    "description": "Exam-scored knowledge brains for AI agents: paste a docs URL, get a searchable brain over MCP with a measured score and ",
+    "id": "egorfedorov/mozg",
+    "language": "TypeScript",
+    "name": "egorfedorov/mozg",
+    "stars": 8,
+    "updated_at": "2026-08-20T05:29:06Z",
+    "url": "https://github.com/egorfedorov/mozg"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
-    "name": "tdm291104/legal-kg-enrichment",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
     "stars": 0,
-    "updated_at": "2026-08-20T05:26:03Z",
-    "url": "https://github.com/tdm291104/legal-kg-enrichment"
+    "updated_at": "2026-08-20T05:29:34Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chain",
+    "id": "zeweihan/aiworkdeck",
+    "language": "Java",
+    "name": "zeweihan/aiworkdeck",
+    "stars": 76,
+    "updated_at": "2026-08-20T05:28:39Z",
+    "url": "https://github.com/zeweihan/aiworkdeck"
+  },
+  {
+    "description": "Deterministic business-change safety gate for coding agents \u2014 evidence-backed BLOCK/ALLOW decisions",
+    "id": "PureBlueFrank/bizguard",
+    "language": "Python",
+    "name": "PureBlueFrank/bizguard",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:28:33Z",
+    "url": "https://github.com/PureBlueFrank/bizguard"
+  },
+  {
+    "description": "Deploy and run a local RAG instance",
+    "id": "jpete2477/homebrew-rag",
+    "language": "Python",
+    "name": "jpete2477/homebrew-rag",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:28:13Z",
+    "url": "https://github.com/jpete2477/homebrew-rag"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:27:01Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
+    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
+    "id": "GizClaw/flowcraft",
+    "language": "Go",
+    "name": "GizClaw/flowcraft",
+    "stars": 416,
+    "updated_at": "2026-08-20T05:27:12Z",
+    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
@@ -14,8 +68,62 @@
     "language": "TypeScript",
     "name": "langgenius/dify",
     "stars": 152959,
-    "updated_at": "2026-08-20T05:25:59Z",
+    "updated_at": "2026-08-20T05:26:56Z",
     "url": "https://github.com/langgenius/dify"
+  },
+  {
+    "description": "AI \u6559\u6750\u6570\u5b57\u5316\u4e0e\u4e92\u52a8\u8f85\u5bfc\u5e73\u53f0\uff1aPDF/\u626b\u63cf\u6559\u6750\u7ecf MinerU OCR \u7ed3\u6784\u5316\u51fa\u9898\uff0c\u6587\u672c + \u89c6\u89c9\u53cc\u6a21\u578b\u5ba1\u6821\u4e0e\u786e\u5b9a\u6027\u8d28\u91cf\u95e8\u7981\uff1b\u5b66\u751f\u7aef\u4e03\u79cd\u9898\u578b\u4e92\u52a8\u3001\u5206\u5c42\u63d0\u793a\u4e0e\u9519\u9898\u591a\u8f6e\u966a\u7ec3\u95ed\u73af\uff1bFastAPI + PostgreSQL JSONB + Rea",
+    "id": "ningkaikok/dotty-tutor",
+    "language": "Python",
+    "name": "ningkaikok/dotty-tutor",
+    "stars": 1,
+    "updated_at": "2026-08-20T05:26:49Z",
+    "url": "https://github.com/ningkaikok/dotty-tutor"
+  },
+  {
+    "description": "An end-to-end Python RAG framework featuring document ingestion, semantic search, conversational AI, multi-user retrieva",
+    "id": "sachncs/raghub",
+    "language": "Python",
+    "name": "sachncs/raghub",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:26:47Z",
+    "url": "https://github.com/sachncs/raghub"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-20T05:26:45Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 231,
+    "updated_at": "2026-08-20T05:26:49Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T05:26:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A Knowledge Graph quality assessment and enrichment pipeline for Vietnamese land law, built to benchmark RAG retrieval s",
+    "id": "tdm291104/legal-kg-enrichment",
+    "language": "Python",
+    "name": "tdm291104/legal-kg-enrichment",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:26:03Z",
+    "url": "https://github.com/tdm291104/legal-kg-enrichment"
   },
   {
     "description": "\u9762\u5411 AI Search \u4e0e RAG \u53ec\u56de\u7684\u4f01\u4e1a\u7ea7\u6570\u5b57\u8d44\u4ea7\u67b6\u6784\u5b9e\u8df5\u3002\u63d0\u51fa AI-Trustor \u4e0e\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u7406\u8bba\uff0c\u89e3\u51b3 B2B \u51fa\u6d77\u4f01\u4e1a\u5728 ChatGPT Search\u3001Perplexity \u7b49\u751f\u6210\u5f0f\u5f15\u64ce\u4e2d\u7684\u673a\u5668\u4e0d\u53ef\u8bfb\u4e0e RAG \u53ec\u56de\u96be\u9898",
@@ -43,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T05:25:23Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Exam-scored knowledge brains for AI agents: paste a docs URL, get a searchable brain over MCP with a measured score and ",
-    "id": "egorfedorov/mozg",
-    "language": "TypeScript",
-    "name": "egorfedorov/mozg",
-    "stars": 8,
-    "updated_at": "2026-08-20T05:25:19Z",
-    "url": "https://github.com/egorfedorov/mozg"
   },
   {
     "description": "A RAG app to breakdown complex technical documents ",
@@ -162,6 +261,15 @@
     "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45705,
+    "updated_at": "2026-08-20T05:21:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Korean crypto \u00d7 AI vertical media + community \u2014 alpha.moss.land. Channel stance, AI briefs, RAG, 8 AI personas with trac",
     "id": "MosslandOpenDevs/alpha",
     "language": "TypeScript",
@@ -252,15 +360,6 @@
     "url": "https://github.com/alphabet-h/grooveseek"
   },
   {
-    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
-    "id": "CSE-Sudo-26/on-care",
-    "language": "Dart",
-    "name": "CSE-Sudo-26/on-care",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:18:22Z",
-    "url": "https://github.com/CSE-Sudo-26/on-care"
-  },
-  {
     "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
     "id": "jgouviergmail/LIA-Assistant",
     "language": "Python",
@@ -293,7 +392,7 @@
     "language": "Python",
     "name": "FaultMaven/faultmaven",
     "stars": 2,
-    "updated_at": "2026-08-20T05:16:47Z",
+    "updated_at": "2026-08-20T05:28:32Z",
     "url": "https://github.com/FaultMaven/faultmaven"
   },
   {
@@ -304,15 +403,6 @@
     "stars": 17,
     "updated_at": "2026-08-20T05:17:58Z",
     "url": "https://github.com/scszcoder/eCan.ai"
-  },
-  {
-    "description": "Production-grade Go SDK for building AI agents with long-term memory, knowledge retrieval, and voice \u2014 runnable as a lib",
-    "id": "GizClaw/flowcraft",
-    "language": "Go",
-    "name": "GizClaw/flowcraft",
-    "stars": 416,
-    "updated_at": "2026-08-20T05:23:28Z",
-    "url": "https://github.com/GizClaw/flowcraft"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -351,15 +441,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T05:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Speech-to-intelligence \u2014 provider-agnostic transcription (WhisperX/Groq/Deepgram/AssemblyAI) + multi-LLM analysis by cal",
     "id": "Yacine-ai-tech/VoiceFlow",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T05:15:16Z",
     "url": "https://github.com/Yacine-ai-tech/VoiceFlow"
-  },
-  {
-    "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & edit",
-    "id": "yfedoseev/pdf_oxide",
-    "language": "Rust",
-    "name": "yfedoseev/pdf_oxide",
-    "stars": 959,
-    "updated_at": "2026-08-20T05:13:01Z",
-    "url": "https://github.com/yfedoseev/pdf_oxide"
-  },
-  {
-    "description": "\u4ece\u8fd0\u884c\u624b\u518c\u4e2d\u627e\u5230\u4f9d\u636e\uff0c\u5e76\u7ed9\u51fa\u5e26\u6765\u6e90\u7684\u6545\u969c\u6392\u67e5\u5efa\u8bae\u3002",
-    "id": "Viansan/oncall-agent-lab",
-    "language": "Python",
-    "name": "Viansan/oncall-agent-lab",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:12:54Z",
-    "url": "https://github.com/Viansan/oncall-agent-lab"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1734,
-    "updated_at": "2026-08-20T05:24:23Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Document ingestion pipeline for RAG on Azure \u2014 Blob Storage triggers, chunking, embeddings, and Azure AI Search indexing",
-    "id": "srikanthot/rag-data-ingestion-pipeline-azure",
-    "language": "Python",
-    "name": "srikanthot/rag-data-ingestion-pipeline-azure",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:12:18Z",
-    "url": "https://github.com/srikanthot/rag-data-ingestion-pipeline-azure"
-  },
-  {
-    "description": "An open-source AI engine for turning novels into interactive worlds.",
-    "id": "hao00sun/novel_game",
-    "language": "\u2014",
-    "name": "hao00sun/novel_game",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:11:46Z",
-    "url": "https://github.com/hao00sun/novel_game"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 63,
-    "updated_at": "2026-08-20T05:11:40Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T05:11:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Streaming RAG chatbot with SSE token streaming, hybrid retrieval, confidence gate, and citations \u2014 FastAPI + Azure AI Se",
-    "id": "srikanthot/streaming-rag-chatbot-sse-fastapi",
-    "language": "Python",
-    "name": "srikanthot/streaming-rag-chatbot-sse-fastapi",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:11:03Z",
-    "url": "https://github.com/srikanthot/streaming-rag-chatbot-sse-fastapi"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:10:46Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
   }
 ]
