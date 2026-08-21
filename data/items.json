@@ -1,5 +1,50 @@
 [
   {
+    "description": "Four production-style AI automation workflows built with n8n \u2014 RAG search, email triage, WhatsApp support, and competito",
+    "id": "hanyG175/n8n-ai-automation",
+    "language": "\u2014",
+    "name": "hanyG175/n8n-ai-automation",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:46:15Z",
+    "url": "https://github.com/hanyG175/n8n-ai-automation"
+  },
+  {
+    "description": "Session-scoped memory plugin for DeepSeek Harness (DSH / Cordis): auto-extraction, cache-aware injection, scoring retrie",
+    "id": "mook-wenyu/EchoCore",
+    "language": "TypeScript",
+    "name": "mook-wenyu/EchoCore",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:46:48Z",
+    "url": "https://github.com/mook-wenyu/EchoCore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T19:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T19:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19116,
+    "updated_at": "2026-08-21T19:46:36Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
     "description": "The agentic harness for AI coding agents \u2014 intelligence is rented, the harness is owned. Runs the full work cycle: inten",
     "id": "prjct-app/cli",
     "language": "TypeScript",
@@ -9,6 +54,24 @@
     "url": "https://github.com/prjct-app/cli"
   },
   {
+    "description": "Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports.",
+    "id": "holoviz/lumen",
+    "language": "Python",
+    "name": "holoviz/lumen",
+    "stars": 309,
+    "updated_at": "2026-08-21T19:44:54Z",
+    "url": "https://github.com/holoviz/lumen"
+  },
+  {
+    "description": "Mendable is an AI answers and enterprise search platform that lets teams ingest their documentation, websites, and knowl",
+    "id": "api-evangelist/mendable",
+    "language": "\u2014",
+    "name": "api-evangelist/mendable",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:43:14Z",
+    "url": "https://github.com/api-evangelist/mendable"
+  },
+  {
     "description": "Internal audit & risk analytics projects: an LLM RAG assistant, Benford's Law forensic screening on real SEC data, and d",
     "id": "neifertg/risk-analytics-portfolio",
     "language": "JavaScript",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:43:07Z",
     "url": "https://github.com/neifertg/risk-analytics-portfolio"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19116,
-    "updated_at": "2026-08-21T19:45:06Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "juspay/neurolink",
     "stars": 121,
-    "updated_at": "2026-08-21T19:43:16Z",
+    "updated_at": "2026-08-21T19:46:42Z",
     "url": "https://github.com/juspay/neurolink"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:33:13Z",
     "url": "https://github.com/DevBehindYou/MDify-Pro"
-  },
-  {
-    "description": "Verifies that each citation in a draft actually supports the claim it's attached to. Faithfulness, not existence.",
-    "id": "aadarsh012/citation-checker",
-    "language": "Python",
-    "name": "aadarsh012/citation-checker",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:32:34Z",
-    "url": "https://github.com/aadarsh012/citation-checker"
-  },
-  {
-    "description": "Converters where figures survive \u2014 DOCX/XLSX to Markdown with native OOXML chart-data extraction (no rasterize/OCR/VLM n",
-    "id": "HelgDemidov/refigure",
-    "language": "Python",
-    "name": "HelgDemidov/refigure",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:41:40Z",
-    "url": "https://github.com/HelgDemidov/refigure"
-  },
-  {
-    "description": "Universal, vendor-agnostic memory layer for AI coding assistants. Local PostgreSQL + pgvector, FastAPI + React web UI, M",
-    "id": "mkupermann/throughline",
-    "language": "Python",
-    "name": "mkupermann/throughline",
-    "stars": 21,
-    "updated_at": "2026-08-21T19:32:15Z",
-    "url": "https://github.com/mkupermann/throughline"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:31:58Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Implementations of AI agent patterns, each isolating one design decision and its trade-off. LangGraph, RAG, multi-agent,",
-    "id": "yagosamu/agent-patterns-lab",
-    "language": "Python",
-    "name": "yagosamu/agent-patterns-lab",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:31:42Z",
-    "url": "https://github.com/yagosamu/agent-patterns-lab"
-  },
-  {
-    "description": "Inkeep is an AI support and agent platform for documentation and products. Its developer platform exposes an OpenAI-comp",
-    "id": "api-evangelist/inkeep",
-    "language": "\u2014",
-    "name": "api-evangelist/inkeep",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:31:09Z",
-    "url": "https://github.com/api-evangelist/inkeep"
   }
 ]
