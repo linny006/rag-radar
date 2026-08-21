@@ -1,5 +1,50 @@
 [
   {
+    "description": "SEC filings are dense and most investors never read them. I built a language model from scratch (tokenizer, transformer,",
+    "id": "Aaryak01/Sec-Analyst-LLM",
+    "language": "Python",
+    "name": "Aaryak01/Sec-Analyst-LLM",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:46:57Z",
+    "url": "https://github.com/Aaryak01/Sec-Analyst-LLM"
+  },
+  {
+    "description": "Explainable multi-tenant RAG for hospitals and regulated businesses to search internal policies and knowledge with citat",
+    "id": "Muhammad-Tayyab1/aegis-rag",
+    "language": "TypeScript",
+    "name": "Muhammad-Tayyab1/aegis-rag",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:46:21Z",
+    "url": "https://github.com/Muhammad-Tayyab1/aegis-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19113,
+    "updated_at": "2026-08-21T15:45:18Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -7,6 +52,24 @@
     "stars": 1,
     "updated_at": "2026-08-21T15:44:46Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-21T15:44:36Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-powered Tier-1 customer support triage with knowledge-grounded answers, confidence-based escalation, multi-turn conve",
+    "id": "sumaya18/Customer-Support-AI-Employee-Tier-1-Triage",
+    "language": "Python",
+    "name": "sumaya18/Customer-Support-AI-Employee-Tier-1-Triage",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:44:23Z",
+    "url": "https://github.com/sumaya18/Customer-Support-AI-Employee-Tier-1-Triage"
   },
   {
     "description": "Persistent-Driven Memory (PDM) SDK: A biological-inspired memory substrate for AI agents. Features resonance-based retri",
@@ -18,13 +81,22 @@
     "url": "https://github.com/Westfield-Innovations/pdm-memory"
   },
   {
-    "description": "Explainable multi-tenant RAG for hospitals and regulated businesses to search internal policies and knowledge with citat",
-    "id": "Muhammad-Tayyab1/aegis-rag",
-    "language": "TypeScript",
-    "name": "Muhammad-Tayyab1/aegis-rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T15:44:19Z",
-    "url": "https://github.com/Muhammad-Tayyab1/aegis-rag"
+    "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 38,
+    "updated_at": "2026-08-21T15:44:14Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "Semantic code searcher and codebase utility",
+    "id": "Muvon/octocode",
+    "language": "Rust",
+    "name": "Muvon/octocode",
+    "stars": 451,
+    "updated_at": "2026-08-21T15:43:59Z",
+    "url": "https://github.com/Muvon/octocode"
   },
   {
     "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for productio",
@@ -63,13 +135,13 @@
     "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19113,
-    "updated_at": "2026-08-21T15:42:46Z",
-    "url": "https://github.com/elizaOS/eliza"
+    "description": "",
+    "id": "Ankan0503/RagInGoa",
+    "language": "Python",
+    "name": "Ankan0503/RagInGoa",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:42:35Z",
+    "url": "https://github.com/Ankan0503/RagInGoa"
   },
   {
     "description": "Turn Spark/Hive SQL into structured, traceable facts for Agents, RAG, and AI knowledge bases.",
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "juspay/neurolink",
     "stars": 121,
-    "updated_at": "2026-08-21T15:42:30Z",
+    "updated_at": "2026-08-21T15:45:41Z",
     "url": "https://github.com/juspay/neurolink"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-21T15:44:04Z",
+    "updated_at": "2026-08-21T15:46:22Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/apod-1/ZoltarFinancial"
   },
   {
-    "description": "",
-    "id": "Ankan0503/RagInGoa",
-    "language": "Python",
-    "name": "Ankan0503/RagInGoa",
-    "stars": 0,
-    "updated_at": "2026-08-21T15:42:35Z",
-    "url": "https://github.com/Ankan0503/RagInGoa"
-  },
-  {
     "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
     "id": "ANFAIA/SkillNet",
     "language": "Python",
@@ -383,70 +446,7 @@
     "language": "PowerShell",
     "name": "tpriyadata/microsoft-ai-103-study-guide",
     "stars": 0,
-    "updated_at": "2026-08-21T15:31:31Z",
+    "updated_at": "2026-08-21T15:45:47Z",
     "url": "https://github.com/tpriyadata/microsoft-ai-103-study-guide"
-  },
-  {
-    "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, WPS editing, OCR, evidence chain",
-    "id": "zeweihan/aiworkdeck",
-    "language": "Java",
-    "name": "zeweihan/aiworkdeck",
-    "stars": 77,
-    "updated_at": "2026-08-21T15:30:34Z",
-    "url": "https://github.com/zeweihan/aiworkdeck"
-  },
-  {
-    "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
-    "stars": 1,
-    "updated_at": "2026-08-21T15:30:32Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
-  },
-  {
-    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
-    "id": "DemonDamon/AgenticX",
-    "language": "Python",
-    "name": "DemonDamon/AgenticX",
-    "stars": 216,
-    "updated_at": "2026-08-21T15:30:31Z",
-    "url": "https://github.com/DemonDamon/AgenticX"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T15:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T15:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
-    "id": "cgfixit/CyClaw",
-    "language": "Python",
-    "name": "cgfixit/CyClaw",
-    "stars": 5,
-    "updated_at": "2026-08-21T15:30:11Z",
-    "url": "https://github.com/cgfixit/CyClaw"
-  },
-  {
-    "description": "Citation-verified RAG system for CKD clinical guidelines \u2014 hybrid retrieval, cross-encoder reranking, and LLM-as-judge c",
-    "id": "suvarna7002/ckd-rag-system",
-    "language": "Python",
-    "name": "suvarna7002/ckd-rag-system",
-    "stars": 0,
-    "updated_at": "2026-08-21T15:29:25Z",
-    "url": "https://github.com/suvarna7002/ckd-rag-system"
   }
 ]
