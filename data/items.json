@@ -1,5 +1,68 @@
 [
   {
+    "description": "Build, deploy, and orchestrate event-driven agents natively on Apache Flink\u00ae and Apache Kafka\u00ae",
+    "id": "confluentinc/quickstart-streaming-agents",
+    "language": "Python",
+    "name": "confluentinc/quickstart-streaming-agents",
+    "stars": 89,
+    "updated_at": "2026-08-21T05:02:19Z",
+    "url": "https://github.com/confluentinc/quickstart-streaming-agents"
+  },
+  {
+    "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 99,
+    "updated_at": "2026-08-21T05:02:28Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Minerva: Personal mail knowledge layer on classic Outlook (COM) \u2014 SQLite/FTS5 index, quote-verified Q&A, human-approved ",
+    "id": "dongjinpark-maker/mailkb",
+    "language": "Python",
+    "name": "dongjinpark-maker/mailkb",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:02:08Z",
+    "url": "https://github.com/dongjinpark-maker/mailkb"
+  },
+  {
+    "description": "Multi-agent PR review system (Style, Logic, Security agents) with Celery workers, tree-sitter AST parsing, ChromaDB RAG,",
+    "id": "purvanshh/PRGuard-AI",
+    "language": "Python",
+    "name": "purvanshh/PRGuard-AI",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:01:44Z",
+    "url": "https://github.com/purvanshh/PRGuard-AI"
+  },
+  {
+    "description": "Cross-platform AI health journal with bounded Multi-Agent workflows, RAG evaluation, local-first sync and Dockerized Fas",
+    "id": "boom080/journey",
+    "language": "Python",
+    "name": "boom080/journey",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:01:16Z",
+    "url": "https://github.com/boom080/journey"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 10",
     "id": "xberg-io/xberg",
     "language": "Rust",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19110,
-    "updated_at": "2026-08-21T04:59:10Z",
+    "updated_at": "2026-08-21T05:02:42Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-21T04:54:13Z",
     "url": "https://github.com/alphabet-h/grooveseek"
-  },
-  {
-    "description": "Minerva: Personal mail knowledge layer on classic Outlook (COM) \u2014 SQLite/FTS5 index, quote-verified Q&A, human-approved ",
-    "id": "dongjinpark-maker/mailkb",
-    "language": "Python",
-    "name": "dongjinpark-maker/mailkb",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:54:06Z",
-    "url": "https://github.com/dongjinpark-maker/mailkb"
   },
   {
     "description": "Local code search combining BM25, vector similarity, and cross-encoder reranking. Parses 60+ languages with tree-sitter,",
@@ -211,8 +265,8 @@
     "id": "bojieli/ai-agent-book",
     "language": "Python",
     "name": "bojieli/ai-agent-book",
-    "stars": 40415,
-    "updated_at": "2026-08-21T04:51:04Z",
+    "stars": 40416,
+    "updated_at": "2026-08-21T05:02:55Z",
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -225,31 +279,13 @@
     "url": "https://github.com/dev-bricks/WikiStub-Seed"
   },
   {
-    "description": "Cross-platform AI health journal with bounded Multi-Agent workflows, RAG evaluation, local-first sync and Dockerized Fas",
-    "id": "boom080/journey",
-    "language": "Python",
-    "name": "boom080/journey",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:50:01Z",
-    "url": "https://github.com/boom080/journey"
-  },
-  {
     "description": "Source-available Harness AI / Agent OS for teams building governed agent applications - with Nexus orchestration, policy",
     "id": "jakbuczarnecki/intergrax",
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-21T04:49:35Z",
+    "updated_at": "2026-08-21T05:02:28Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Multi-agent PR review system (Style, Logic, Security agents) with Celery workers, tree-sitter AST parsing, ChromaDB RAG,",
-    "id": "purvanshh/PRGuard-AI",
-    "language": "Python",
-    "name": "purvanshh/PRGuard-AI",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:47:33Z",
-    "url": "https://github.com/purvanshh/PRGuard-AI"
   },
   {
     "description": "AI health platform with custom MCP server for LLM context injection",
@@ -333,15 +369,6 @@
     "url": "https://github.com/nicosuave/memex"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T04:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -358,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T04:45:20Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T04:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T04:42:51Z",
     "url": "https://github.com/vasovagal/vasovagal.github.io"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4760,
-    "updated_at": "2026-08-21T04:42:36Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:42:22Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
   }
 ]
