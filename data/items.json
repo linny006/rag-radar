@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u84b8\u7559\u8535 \u2014 distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ship",
+    "id": "lna-lab/distill-kura",
+    "language": "Python",
+    "name": "lna-lab/distill-kura",
+    "stars": 2,
+    "updated_at": "2026-08-21T23:19:34Z",
+    "url": "https://github.com/lna-lab/distill-kura"
+  },
+  {
+    "description": "Open-source framework for building and evaluating Retrieval-Augmented Generation (RAG) systems.",
+    "id": "bksampadi/SignalRank-RAG",
+    "language": "Python",
+    "name": "bksampadi/SignalRank-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:19:27Z",
+    "url": "https://github.com/bksampadi/SignalRank-RAG"
+  },
+  {
+    "description": "Multi-agent AI research platform with RAG, knowledge graphs, document intelligence, and grounded research chat.",
+    "id": "Vishal202-rgb/ResearchAI-MultiAgent",
+    "language": "JavaScript",
+    "name": "Vishal202-rgb/ResearchAI-MultiAgent",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:19:20Z",
+    "url": "https://github.com/Vishal202-rgb/ResearchAI-MultiAgent"
+  },
+  {
+    "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, gra",
+    "id": "scszcoder/eCan.ai",
+    "language": "Python",
+    "name": "scszcoder/eCan.ai",
+    "stars": 17,
+    "updated_at": "2026-08-21T23:19:03Z",
+    "url": "https://github.com/scszcoder/eCan.ai"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:18:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "",
+    "id": "antflydb/antfly",
+    "language": "Zig",
+    "name": "antflydb/antfly",
+    "stars": 423,
+    "updated_at": "2026-08-21T23:18:52Z",
+    "url": "https://github.com/antflydb/antfly"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3256,
+    "updated_at": "2026-08-21T23:18:32Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Autonomous multi-agent AML transaction monitoring & compliance audit engine built with LangGraph, ChromaDB, FastAPI, and",
+    "id": "billbz99/finguard-orchestrator",
+    "language": "Python",
+    "name": "billbz99/finguard-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:17:43Z",
+    "url": "https://github.com/billbz99/finguard-orchestrator"
+  },
+  {
+    "description": "Local code intelligence MCP server and CLI for AI coding agents",
+    "id": "bartolli/codanna",
+    "language": "Rust",
+    "name": "bartolli/codanna",
+    "stars": 726,
+    "updated_at": "2026-08-21T23:16:59Z",
+    "url": "https://github.com/bartolli/codanna"
+  },
+  {
+    "description": "Turn CSVs into a context graph your AI agent can build, query in plain English, and verify \u2014 SPARQL-backed, Apache-2.0",
+    "id": "infona-ai/infona-oss",
+    "language": "Python",
+    "name": "infona-ai/infona-oss",
+    "stars": 4,
+    "updated_at": "2026-08-21T23:16:19Z",
+    "url": "https://github.com/infona-ai/infona-oss"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 256,
+    "updated_at": "2026-08-21T23:16:14Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "A personal AI companion with memory, personality, and multimodal conversations.",
+    "id": "icedeyes12/yuzu-core",
+    "language": "Python",
+    "name": "icedeyes12/yuzu-core",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:16:03Z",
+    "url": "https://github.com/icedeyes12/yuzu-core"
+  },
+  {
+    "description": "Source code for the IBM Granite AI Model Workshop",
+    "id": "IBM/granite-workshop",
+    "language": "Jupyter Notebook",
+    "name": "IBM/granite-workshop",
+    "stars": 49,
+    "updated_at": "2026-08-21T23:16:00Z",
+    "url": "https://github.com/IBM/granite-workshop"
+  },
+  {
+    "description": "Zero-cost, provider-swappable RAG with Python, Ollama, and Qdrant",
+    "id": "Sanjaysrinivas/context-foundry",
+    "language": "Python",
+    "name": "Sanjaysrinivas/context-foundry",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:15:30Z",
+    "url": "https://github.com/Sanjaysrinivas/context-foundry"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -9,15 +153,6 @@
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
-    "description": "Turn CSVs into a context graph your AI agent can build, query in plain English, and verify \u2014 SPARQL-backed, Apache-2.0",
-    "id": "infona-ai/infona-oss",
-    "language": "Python",
-    "name": "infona-ai/infona-oss",
-    "stars": 4,
-    "updated_at": "2026-08-21T23:15:01Z",
-    "url": "https://github.com/infona-ai/infona-oss"
-  },
-  {
     "description": "\u5bf9\u8bdd\u5f0f AI \u6570\u636e\u5e93\uff1a\u6587\u4ef6\uff08Excel/PDF/\u626b\u63cf\u4ef6\uff09\u2192 \u53ef\u67e5\u8be2\u6570\u636e\u5e93\uff1bMCP \u80fd\u529b\u9762 + 38 \u539f\u5b50\u5de5\u5177 + \u5951\u7ea6\u5b89\u5168\u5c42\uff08AI \u4e0d\u751f\u6210 SQL\uff09\uff1bAGPL/\u5546\u4e1a\u53cc\u8f68",
     "id": "JackeyLove1225/SuperAIDB",
     "language": "Python",
@@ -25,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:14:56Z",
     "url": "https://github.com/JackeyLove1225/SuperAIDB"
+  },
+  {
+    "description": "Kamu ihalelerine giren \u015firketler i\u00e7in operasyon platformu \u2014 g\u00fcnl\u00fck ihale b\u00fclteni s\u00fczme, sonu\u00e7/k\u0131r\u0131m analizi ve \u015fartnamel",
+    "id": "erenulutas0/MOBIT-DURT",
+    "language": "TypeScript",
+    "name": "erenulutas0/MOBIT-DURT",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:14:45Z",
+    "url": "https://github.com/erenulutas0/MOBIT-DURT"
   },
   {
     "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
@@ -43,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:14:26Z",
     "url": "https://github.com/MRPRESIDENT66/SportX"
-  },
-  {
-    "description": "Zero-cost, provider-swappable RAG with Python, Ollama, and Qdrant",
-    "id": "Sanjaysrinivas/context-foundry",
-    "language": "Python",
-    "name": "Sanjaysrinivas/context-foundry",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:14:21Z",
-    "url": "https://github.com/Sanjaysrinivas/context-foundry"
-  },
-  {
-    "description": "Open-source framework for building and evaluating Retrieval-Augmented Generation (RAG) systems.",
-    "id": "bksampadi/SignalRank-RAG",
-    "language": "Python",
-    "name": "bksampadi/SignalRank-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:13:34Z",
-    "url": "https://github.com/bksampadi/SignalRank-RAG"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -95,7 +221,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19117,
-    "updated_at": "2026-08-21T23:12:01Z",
+    "updated_at": "2026-08-21T23:19:35Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -221,7 +347,7 @@
     "language": "TypeScript",
     "name": "prjct-app/cli",
     "stars": 1,
-    "updated_at": "2026-08-21T23:06:37Z",
+    "updated_at": "2026-08-21T23:17:33Z",
     "url": "https://github.com/prjct-app/cli"
   },
   {
@@ -297,15 +423,6 @@
     "url": "https://github.com/reposkein/reposkein"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
     "id": "markfietje/brain-server",
     "language": "Rust",
@@ -313,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T23:00:21Z",
     "url": "https://github.com/markfietje/brain-server"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted MCP server that turns your markdown vault into agent memory \u2014 knowledge, retrieval, and credentials your age",
@@ -340,113 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-21T22:59:35Z",
     "url": "https://github.com/alex-place/lantern-os"
-  },
-  {
-    "description": "Portfolio and AI automation services for Rolly Calma: AR/AP, website QA, and proof demos.",
-    "id": "Ghraven/work",
-    "language": "HTML",
-    "name": "Ghraven/work",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:59:32Z",
-    "url": "https://github.com/Ghraven/work"
-  },
-  {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 1,
-    "updated_at": "2026-08-21T23:07:35Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
-    "id": "r-xue/ragdoll",
-    "language": "Python",
-    "name": "r-xue/ragdoll",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:02:20Z",
-    "url": "https://github.com/r-xue/ragdoll"
-  },
-  {
-    "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
-    "id": "gaurav-gandhi-2411/gg-portfolio",
-    "language": "HTML",
-    "name": "gaurav-gandhi-2411/gg-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:58:56Z",
-    "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:57:51Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Pinakes \u2014 a portable, agent-first knowledge base. One directory = one KB.",
-    "id": "lucagattoni/pinakes",
-    "language": "Python",
-    "name": "lucagattoni/pinakes",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:57:29Z",
-    "url": "https://github.com/lucagattoni/pinakes"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 256,
-    "updated_at": "2026-08-21T23:12:39Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
-    "id": "1ay1/agentty",
-    "language": "C++",
-    "name": "1ay1/agentty",
-    "stars": 606,
-    "updated_at": "2026-08-21T22:56:52Z",
-    "url": "https://github.com/1ay1/agentty"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 255,
-    "updated_at": "2026-08-21T22:56:44Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Private offline desktop RAG engine with ONNX embeddings, Chroma + SQLite FTS5 hybrid search, bundled llama.cpp/GGUF answ",
-    "id": "Prakash-sa/local-rag",
-    "language": "Python",
-    "name": "Prakash-sa/local-rag",
-    "stars": 1,
-    "updated_at": "2026-08-21T22:53:46Z",
-    "url": "https://github.com/Prakash-sa/local-rag"
-  },
-  {
-    "description": "\u84b8\u7559\u8535 \u2014 distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ship",
-    "id": "lna-lab/distill-kura",
-    "language": "Python",
-    "name": "lna-lab/distill-kura",
-    "stars": 2,
-    "updated_at": "2026-08-21T22:52:16Z",
-    "url": "https://github.com/lna-lab/distill-kura"
-  },
-  {
-    "description": "Retrieval measured on Turkish legislation: a gold set built from the law's own cross-references rather than generated qu",
-    "id": "agirgol/turkish-legal-retrieval",
-    "language": "Python",
-    "name": "agirgol/turkish-legal-retrieval",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:52:13Z",
-    "url": "https://github.com/agirgol/turkish-legal-retrieval"
   }
 ]
