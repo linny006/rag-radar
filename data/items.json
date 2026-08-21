@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:44:48Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:43:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31700,
+    "updated_at": "2026-08-21T17:43:09Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "AI-powered RAG assistant with voice and text interaction for intelligent document-based conversations using Gemini, Lang",
+    "id": "inba-web/enterprise-support-rag",
+    "language": "JavaScript",
+    "name": "inba-web/enterprise-support-rag",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:42:51Z",
+    "url": "https://github.com/inba-web/enterprise-support-rag"
+  },
+  {
     "description": "Generate production-ready Python and AI stacks by combining frameworks, data engines, tooling, and cloud deployment.",
     "id": "leynier/python-template",
     "language": "Jinja",
     "name": "leynier/python-template",
     "stars": 36,
-    "updated_at": "2026-08-21T17:42:48Z",
+    "updated_at": "2026-08-21T17:45:00Z",
     "url": "https://github.com/leynier/python-template"
+  },
+  {
+    "description": "Converters where figures survive \u2014 DOCX/XLSX to Markdown with native OOXML chart-data extraction (no rasterize/OCR/VLM n",
+    "id": "HelgDemidov/refigure",
+    "language": "Python",
+    "name": "HelgDemidov/refigure",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:42:48Z",
+    "url": "https://github.com/HelgDemidov/refigure"
   },
   {
     "description": "Smart knowledge reuse engine \u2014 extract insights from AI conversations (Claude Code, Codex, ChatGPT)",
@@ -32,7 +77,7 @@
     "language": "Java",
     "name": "zeweihan/aiworkdeck",
     "stars": 77,
-    "updated_at": "2026-08-21T17:41:48Z",
+    "updated_at": "2026-08-21T17:44:15Z",
     "url": "https://github.com/zeweihan/aiworkdeck"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-08-21T17:38:41Z",
+    "updated_at": "2026-08-21T17:45:15Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -166,7 +211,7 @@
     "id": "HKUDS/DeepTutor",
     "language": "Python",
     "name": "HKUDS/DeepTutor",
-    "stars": 36888,
+    "stars": 36889,
     "updated_at": "2026-08-21T17:37:03Z",
     "url": "https://github.com/HKUDS/DeepTutor"
   },
@@ -243,6 +288,15 @@
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
+    "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF,",
+    "id": "EvotecIT/OfficeIMO",
+    "language": "C#",
+    "name": "EvotecIT/OfficeIMO",
+    "stars": 515,
+    "updated_at": "2026-08-21T17:35:11Z",
+    "url": "https://github.com/EvotecIT/OfficeIMO"
+  },
+  {
     "description": "Agent-Builder-Skill - a skill that creates/builds production-grade AI agents from a one-line requirement. Pre-loaded pro",
     "id": "weed33834/agent-builder-skill",
     "language": "Python",
@@ -252,21 +306,12 @@
     "url": "https://github.com/weed33834/agent-builder-skill"
   },
   {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 31700,
-    "updated_at": "2026-08-21T17:43:09Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19113,
-    "updated_at": "2026-08-21T17:43:13Z",
+    "updated_at": "2026-08-21T17:44:33Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/apod-1/ZoltarFinancial"
   },
   {
-    "description": "AI-powered RAG assistant with voice and text interaction for intelligent document-based conversations using Gemini, Lang",
-    "id": "inba-web/enterprise-support-rag",
-    "language": "JavaScript",
-    "name": "inba-web/enterprise-support-rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T17:42:51Z",
-    "url": "https://github.com/inba-web/enterprise-support-rag"
-  },
-  {
     "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a app \u4e2d\u8f85\u52a9\u5b9e\u73b0ai\u529f\u80fd",
     "id": "coolight7/agentxx",
     "language": "C++",
@@ -405,15 +441,6 @@
     "url": "https://github.com/coolight7/agentxx"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
     "id": "gaurav-gandhi-2411/gg-portfolio",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T17:39:15Z",
     "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T17:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
-    "id": "vladimiracunadev-create/database-systems-labs",
-    "language": "HTML",
-    "name": "vladimiracunadev-create/database-systems-labs",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:29:48Z",
-    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-21T17:29:12Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
