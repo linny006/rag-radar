@@ -1,5 +1,95 @@
 [
   {
+    "description": "Anything \u2014 \ud30c\uc77c \uc774\ub984\uc774 \uc544\ub2c8\ub77c \ubcf8\ubb38\uc73c\ub85c \ucc3e\ub294 \ubb38\uc11c \uac80\uc0c9\uae30. HWP\u00b7PDF\u00b7Office \uc804\ubb38 \uac80\uc0c9\uc744 \uc624\ud504\ub77c\uc778\uc73c\ub85c. Windows\u00b7macOS | Offline content search across Korean",
+    "id": "chrisryugj/Docufinder",
+    "language": "Rust",
+    "name": "chrisryugj/Docufinder",
+    "stars": 636,
+    "updated_at": "2026-08-21T22:18:47Z",
+    "url": "https://github.com/chrisryugj/Docufinder"
+  },
+  {
+    "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a app \u4e2d\u8f85\u52a9\u5b9e\u73b0ai\u529f\u80fd",
+    "id": "coolight7/agentxx",
+    "language": "C++",
+    "name": "coolight7/agentxx",
+    "stars": 5,
+    "updated_at": "2026-08-21T22:18:19Z",
+    "url": "https://github.com/coolight7/agentxx"
+  },
+  {
+    "description": "A real-time Arabic voice agent that answers from your own documents and starts speaking before the sentence is finished.",
+    "id": "yar-malik/realtime-arabic-voice-agent-najdi",
+    "language": "Python",
+    "name": "yar-malik/realtime-arabic-voice-agent-najdi",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:18:10Z",
+    "url": "https://github.com/yar-malik/realtime-arabic-voice-agent-najdi"
+  },
+  {
+    "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
+    "id": "totobusnello/memoria-nox",
+    "language": "TypeScript",
+    "name": "totobusnello/memoria-nox",
+    "stars": 1,
+    "updated_at": "2026-08-21T22:17:50Z",
+    "url": "https://github.com/totobusnello/memoria-nox"
+  },
+  {
+    "description": "Provenance-rich corpus and ingestion pipeline of in-force Commonwealth tax legislation for deterministic retrieval and a",
+    "id": "ryanduguid/SirArthurFadden",
+    "language": "Python",
+    "name": "ryanduguid/SirArthurFadden",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:19:09Z",
+    "url": "https://github.com/ryanduguid/SirArthurFadden"
+  },
+  {
+    "description": "Universal memory runtime for AI agents",
+    "id": "major7apps/pensyve",
+    "language": "Rust",
+    "name": "major7apps/pensyve",
+    "stars": 70,
+    "updated_at": "2026-08-21T22:16:32Z",
+    "url": "https://github.com/major7apps/pensyve"
+  },
+  {
+    "description": "Multi-model RAG over real AI-governance documents with citation-grounded comparison, FAISS retrieval, OCR/web ingestion,",
+    "id": "ChinmayA301/PolyRAG",
+    "language": "Python",
+    "name": "ChinmayA301/PolyRAG",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:15:46Z",
+    "url": "https://github.com/ChinmayA301/PolyRAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The Facts protocol HTTP client and server reference written in Rust.",
+    "id": "facts-kms/http",
+    "language": "Rust",
+    "name": "facts-kms/http",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:15:05Z",
+    "url": "https://github.com/facts-kms/http"
+  },
+  {
     "description": "Private, permission-aware enterprise knowledge grounded in evidence.",
     "id": "codexlin/UnoRAG",
     "language": "TypeScript",
@@ -9,13 +99,13 @@
     "url": "https://github.com/codexlin/UnoRAG"
   },
   {
-    "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
-    "id": "totobusnello/memoria-nox",
-    "language": "TypeScript",
-    "name": "totobusnello/memoria-nox",
+    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
+    "id": "jee3m/augmentative-knowledge-hooks",
+    "language": "HTML",
+    "name": "jee3m/augmentative-knowledge-hooks",
     "stars": 1,
-    "updated_at": "2026-08-21T22:13:46Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
+    "updated_at": "2026-08-21T22:13:41Z",
+    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
   },
   {
     "description": "Quick demo for regime aware asset allocation based on: https://ora.ox.ac.uk/objects/uuid:1a421d83-a010-484e-83c1-504bc9f",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 435,
-    "updated_at": "2026-08-21T22:13:23Z",
+    "updated_at": "2026-08-21T22:18:09Z",
     "url": "https://github.com/caura-ai/caura"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
   },
   {
-    "description": "A real-time Arabic voice agent that answers from your own documents and starts speaking before the sentence is finished.",
-    "id": "yar-malik/realtime-arabic-voice-agent-najdi",
-    "language": "Python",
-    "name": "yar-malik/realtime-arabic-voice-agent-najdi",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:08:47Z",
-    "url": "https://github.com/yar-malik/realtime-arabic-voice-agent-najdi"
-  },
-  {
     "description": "Sovereign RAG for regulated organizations: hybrid pgvector retrieval, cited and audited answers, local-first (Ollama), m",
     "id": "Leroy-Guillaume/sovereign-rag",
     "language": "Python",
@@ -149,7 +230,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19116,
-    "updated_at": "2026-08-21T22:15:17Z",
+    "updated_at": "2026-08-21T22:19:38Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -203,7 +284,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3256,
-    "updated_at": "2026-08-21T22:04:31Z",
+    "updated_at": "2026-08-21T22:17:14Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -239,7 +320,7 @@
     "language": "Python",
     "name": "Prakash-sa/local-rag",
     "stars": 0,
-    "updated_at": "2026-08-21T22:03:02Z",
+    "updated_at": "2026-08-21T22:19:42Z",
     "url": "https://github.com/Prakash-sa/local-rag"
   },
   {
@@ -270,15 +351,6 @@
     "url": "https://github.com/ax-llm/ax"
   },
   {
-    "description": "The Facts protocol HTTP client and server reference written in Rust.",
-    "id": "facts-kms/http",
-    "language": "Rust",
-    "name": "facts-kms/http",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:15:05Z",
-    "url": "https://github.com/facts-kms/http"
-  },
-  {
     "description": "RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/et",
     "id": "apocas/restai",
     "language": "Python",
@@ -295,24 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T22:00:30Z",
     "url": "https://github.com/erenulutas0/MOBIT-DURT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T22:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
@@ -340,15 +394,6 @@
     "stars": 67115,
     "updated_at": "2026-08-21T22:14:09Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Universal memory runtime for AI agents",
-    "id": "major7apps/pensyve",
-    "language": "Rust",
-    "name": "major7apps/pensyve",
-    "stars": 70,
-    "updated_at": "2026-08-21T22:02:30Z",
-    "url": "https://github.com/major7apps/pensyve"
   },
   {
     "description": "Implementations of AI agent patterns, each isolating one design decision and its trade-off. LangGraph, RAG, multi-agent,",
@@ -396,15 +441,6 @@
     "url": "https://github.com/StarTrail-org/LEANN"
   },
   {
-    "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a app \u4e2d\u8f85\u52a9\u5b9e\u73b0ai\u529f\u80fd",
-    "id": "coolight7/agentxx",
-    "language": "C++",
-    "name": "coolight7/agentxx",
-    "stars": 5,
-    "updated_at": "2026-08-21T21:55:54Z",
-    "url": "https://github.com/coolight7/agentxx"
-  },
-  {
     "description": "Gaziantep \u00dcniversitesi hibrit RAG asistan\u0131 \u2014 T\u00fcrk\u00e7e, kayna\u011fa dayal\u0131 Q&A (SQL + Qdrant + yerel Ollama). Gizlilik dostu, g",
     "id": "metheen/gaunchatbot",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T21:55:52Z",
     "url": "https://github.com/metheen/gaunchatbot"
-  },
-  {
-    "description": "A terminal AI roleplay client with a memory that does not forget \u2014 local SQLite, semantic recall, and what every call co",
-    "id": "argamboad/custom-airp",
-    "language": "C#",
-    "name": "argamboad/custom-airp",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:55:11Z",
-    "url": "https://github.com/argamboad/custom-airp"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:54:56Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
-    "id": "BugraAkdemir/memo",
-    "language": "Go",
-    "name": "BugraAkdemir/memo",
-    "stars": 6,
-    "updated_at": "2026-08-21T21:52:42Z",
-    "url": "https://github.com/BugraAkdemir/memo"
-  },
-  {
-    "description": "Multi-agent AI research platform with RAG, knowledge graphs, document intelligence, and grounded research chat.",
-    "id": "Vishal202-rgb/ResearchAI-MultiAgent",
-    "language": "JavaScript",
-    "name": "Vishal202-rgb/ResearchAI-MultiAgent",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:52:31Z",
-    "url": "https://github.com/Vishal202-rgb/ResearchAI-MultiAgent"
   }
 ]
