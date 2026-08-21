@@ -1,11 +1,74 @@
 [
   {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:29:39Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
+    "description": "B\u00fasqueda h\u00edbrida sobre Postgres: pgvector para el significado, full-text para las palabras, fusi\u00f3n RRF dentro de una fun",
+    "id": "Valdivia94x/laletra-api",
+    "language": "TypeScript",
+    "name": "Valdivia94x/laletra-api",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:29:35Z",
+    "url": "https://github.com/Valdivia94x/laletra-api"
+  },
+  {
+    "description": "Kamu ihalelerine giren \u015firketler i\u00e7in operasyon platformu \u2014 g\u00fcnl\u00fck ihale b\u00fclteni s\u00fczme, sonu\u00e7/k\u0131r\u0131m analizi ve \u015fartnamel",
+    "id": "erenulutas0/MOBIT-DURT",
+    "language": "TypeScript",
+    "name": "erenulutas0/MOBIT-DURT",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:28:58Z",
+    "url": "https://github.com/erenulutas0/MOBIT-DURT"
+  },
+  {
+    "description": "Full-stack AI Video & Meeting Assistant built with FastAPI, React (Vite), OpenAI Whisper, Sarvam AI, and Mistral AI RAG.",
+    "id": "saqibb786/VidChat",
+    "language": "Python",
+    "name": "saqibb786/VidChat",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:28:49Z",
+    "url": "https://github.com/saqibb786/VidChat"
+  },
+  {
+    "description": "Production-grade local AI stack \u2014 multi-agent orchestration, RAG pipeline, LLM serving, CI/CD eval, full observability. ",
+    "id": "threejay20/homelab-ai-stack",
+    "language": "Python",
+    "name": "threejay20/homelab-ai-stack",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:28:38Z",
+    "url": "https://github.com/threejay20/homelab-ai-stack"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T16:28:36Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:28:14Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
     "id": "Marker-Inc-Korea/AutoRAG",
     "language": "TypeScript",
     "name": "Marker-Inc-Korea/AutoRAG",
     "stars": 5051,
-    "updated_at": "2026-08-21T16:27:59Z",
+    "updated_at": "2026-08-21T16:28:37Z",
     "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
   },
   {
@@ -34,6 +97,15 @@
     "stars": 4,
     "updated_at": "2026-08-21T16:26:17Z",
     "url": "https://github.com/wish-maker/minder"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 216,
+    "updated_at": "2026-08-21T16:25:57Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
   },
   {
     "description": "Production-ready RAG system for question-answering over PDF documents with semantic search, strict hallucination prevent",
@@ -119,7 +191,7 @@
   {
     "description": "VOID - AI powered RAG chatbot for intelligent document-based question answering",
     "id": "farhanakhan786/VOID-AI-chatbot",
-    "language": "\u2014",
+    "language": "CSS",
     "name": "farhanakhan786/VOID-AI-chatbot",
     "stars": 0,
     "updated_at": "2026-08-21T16:21:06Z",
@@ -230,7 +302,7 @@
     "language": "TypeScript",
     "name": "XinlianHe-codingdumb/rag-for-all",
     "stars": 1,
-    "updated_at": "2026-08-21T16:19:11Z",
+    "updated_at": "2026-08-21T16:29:29Z",
     "url": "https://github.com/XinlianHe-codingdumb/rag-for-all"
   },
   {
@@ -284,7 +356,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T16:24:06Z",
+    "updated_at": "2026-08-21T16:29:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-step agentic RAG with LangGraph, FAISS, and Tavily",
     "id": "vamsi513/agentiq",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T16:13:30Z",
     "url": "https://github.com/FernandoJRR/archiver-rag"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-21T16:13:12Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3255,
-    "updated_at": "2026-08-21T16:27:32Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
-    "id": "tobocop2/lilbee",
-    "language": "Python",
-    "name": "tobocop2/lilbee",
-    "stars": 47,
-    "updated_at": "2026-08-21T16:12:59Z",
-    "url": "https://github.com/tobocop2/lilbee"
-  },
-  {
-    "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
-    "id": "IgorGanapolsky/trading",
-    "language": "Python",
-    "name": "IgorGanapolsky/trading",
-    "stars": 38,
-    "updated_at": "2026-08-21T16:27:44Z",
-    "url": "https://github.com/IgorGanapolsky/trading"
-  },
-  {
-    "description": "Process-aware retrieval. Code-graph diffusion conditioned on event traces. Research-preview.",
-    "id": "erphq/pm-rag",
-    "language": "Python",
-    "name": "erphq/pm-rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:11:56Z",
-    "url": "https://github.com/erphq/pm-rag"
-  },
-  {
-    "description": "Curated, evidence-grounded skill and software-tool collections for scientific AI agents, generated by the AgenticScience",
-    "id": "HolobiomicsLab/asb-skill-collections",
-    "language": "Python",
-    "name": "HolobiomicsLab/asb-skill-collections",
-    "stars": 15,
-    "updated_at": "2026-08-21T16:10:31Z",
-    "url": "https://github.com/HolobiomicsLab/asb-skill-collections"
-  },
-  {
-    "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmark",
-    "id": "modelscope/evalscope",
-    "language": "Python",
-    "name": "modelscope/evalscope",
-    "stars": 3282,
-    "updated_at": "2026-08-21T16:10:14Z",
-    "url": "https://github.com/modelscope/evalscope"
   }
 ]
