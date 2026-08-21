@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T10:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 2,
+    "updated_at": "2026-08-21T10:45:31Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T10:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
+    "id": "gaurav-gandhi-2411/gg-portfolio",
+    "language": "HTML",
+    "name": "gaurav-gandhi-2411/gg-portfolio",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:44:53Z",
+    "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
+  },
+  {
+    "description": "A local-first AI learning assistant that turns browser videos and local media into grounded, structured study notes.",
+    "id": "hurry060215-tech/learnnote-assistant",
+    "language": "Python",
+    "name": "hurry060215-tech/learnnote-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:44:49Z",
+    "url": "https://github.com/hurry060215-tech/learnnote-assistant"
+  },
+  {
+    "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
+    "id": "kenhayward/Diariz",
+    "language": "C#",
+    "name": "kenhayward/Diariz",
+    "stars": 3,
+    "updated_at": "2026-08-21T10:44:44Z",
+    "url": "https://github.com/kenhayward/Diariz"
+  },
+  {
     "description": "Early warning system for heat and cold risk. Predicts personalized thermal mortality risk by age, sex, comorbidities and",
     "id": "ANFAIA/ClimaSafe",
     "language": "Jupyter Notebook",
@@ -9,13 +63,31 @@
     "url": "https://github.com/ANFAIA/ClimaSafe"
   },
   {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
+    "description": "Working engineering repository for Frida, an AI assistant runtime with memory, observability, and hermeneutic source arb",
+    "id": "Tofmuck/FridaDev",
     "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 2,
-    "updated_at": "2026-08-21T10:43:11Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
+    "name": "Tofmuck/FridaDev",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:44:02Z",
+    "url": "https://github.com/Tofmuck/FridaDev"
+  },
+  {
+    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
+    "id": "Arasz/ai-raccoon",
+    "language": "C#",
+    "name": "Arasz/ai-raccoon",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:43:53Z",
+    "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7056,
+    "updated_at": "2026-08-21T10:42:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -25,6 +97,15 @@
     "stars": 2,
     "updated_at": "2026-08-21T10:42:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LLM-friendly web crawler & scraper with a dedicated Reddit engine, built on Crawl4AI \u2014 Open WebUI compatible",
+    "id": "kinorai/omnifeed",
+    "language": "Go",
+    "name": "kinorai/omnifeed",
+    "stars": 6,
+    "updated_at": "2026-08-21T10:42:03Z",
+    "url": "https://github.com/kinorai/omnifeed"
   },
   {
     "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM \u2014 nothing l",
@@ -50,7 +131,7 @@
     "language": "C#",
     "name": "Krzysztof318/MailFathom",
     "stars": 12,
-    "updated_at": "2026-08-21T10:40:55Z",
+    "updated_at": "2026-08-21T10:45:58Z",
     "url": "https://github.com/Krzysztof318/MailFathom"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/ningkaikok/dotty-tutor"
   },
   {
-    "description": "LLM-friendly web crawler & scraper with a dedicated Reddit engine, built on Crawl4AI \u2014 Open WebUI compatible",
-    "id": "kinorai/omnifeed",
-    "language": "Go",
-    "name": "kinorai/omnifeed",
-    "stars": 6,
-    "updated_at": "2026-08-21T10:42:03Z",
-    "url": "https://github.com/kinorai/omnifeed"
-  },
-  {
     "description": "AI-powered exam prep for CBSE, ICSE and AP SSC (Grades 1-10) \u2014 adaptive practice over a topic-prerequisite DAG, behaviou",
     "id": "salmasiddiqua/Stellar",
     "language": "JavaScript",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:39:42Z",
     "url": "https://github.com/salmasiddiqua/Stellar"
-  },
-  {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 1,
-    "updated_at": "2026-08-21T10:43:53Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
     "description": "MCP server for semantic hybrid search (sqlite-vec + FTS5 with optional cross-encoder reranking) over a Markdown / plain-",
@@ -216,15 +279,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
-    "id": "kenhayward/Diariz",
-    "language": "C#",
-    "name": "kenhayward/Diariz",
-    "stars": 3,
-    "updated_at": "2026-08-21T10:44:44Z",
-    "url": "https://github.com/kenhayward/Diariz"
-  },
-  {
     "description": "Grounded credit-card benefits assistant: BIN identification, tier-gated eligibility and BM25 retrieval over a FastAPI se",
     "id": "oviyasekar11/visa-ai-hackathon",
     "language": "Python",
@@ -277,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:33:53Z",
     "url": "https://github.com/markfietje/brain-server"
-  },
-  {
-    "description": "Working engineering repository for Frida, an AI assistant runtime with memory, observability, and hermeneutic source arb",
-    "id": "Tofmuck/FridaDev",
-    "language": "Python",
-    "name": "Tofmuck/FridaDev",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:44:02Z",
-    "url": "https://github.com/Tofmuck/FridaDev"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -342,24 +387,6 @@
     "url": "https://github.com/Traliran/traliran-ai-hub-cli"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T10:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T10:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
     "id": "RyanCodrai/turbovec",
     "language": "Rust",
@@ -396,15 +423,6 @@
     "url": "https://github.com/hello-yunshu/interest-growth"
   },
   {
-    "description": "A local-first AI learning assistant that turns browser videos and local media into grounded, structured study notes.",
-    "id": "hurry060215-tech/learnnote-assistant",
-    "language": "Python",
-    "name": "hurry060215-tech/learnnote-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:44:49Z",
-    "url": "https://github.com/hurry060215-tech/learnnote-assistant"
-  },
-  {
     "description": "MoziAI-35B: Local open-source financial AI LLM. 35B MoE model compressed to 15.5GB via MoziSmartBit quantization. 256K c",
     "id": "chenyumo166/moziAI-35B-Qwen3.6-35B-A3B-Ornith",
     "language": "Jinja",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:27:10Z",
     "url": "https://github.com/HelgDemidov/refigure"
-  },
-  {
-    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
-    "id": "arkanere/solar-app",
-    "language": "PLpgSQL",
-    "name": "arkanere/solar-app",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:25:33Z",
-    "url": "https://github.com/arkanere/solar-app"
-  },
-  {
-    "description": "SOC agent that ingests security logs, detects attacks mapped to MITRE ATT&CK, and uses an LLM grounded in a RAG knowledg",
-    "id": "pranjalm37/autonomous-defense-agent",
-    "language": "Python",
-    "name": "pranjalm37/autonomous-defense-agent",
-    "stars": 6,
-    "updated_at": "2026-08-21T10:27:34Z",
-    "url": "https://github.com/pranjalm37/autonomous-defense-agent"
   }
 ]
