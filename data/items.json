@@ -1,5 +1,68 @@
 [
   {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 206,
+    "updated_at": "2026-08-21T20:47:36Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Literae is a conversational AI assistant for discovering, analyzing, and citing academic research.",
+    "id": "Yarroudh/Literae",
+    "language": "Python",
+    "name": "Yarroudh/Literae",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:47:25Z",
+    "url": "https://github.com/Yarroudh/Literae"
+  },
+  {
+    "description": "Interest Growth \u2014 an AI-assisted system for cultivating durable interests through curiosity, evidence, practice, express",
+    "id": "hello-yunshu/interest-growth",
+    "language": "Python",
+    "name": "hello-yunshu/interest-growth",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:46:48Z",
+    "url": "https://github.com/hello-yunshu/interest-growth"
+  },
+  {
+    "description": "Self-hosted tactical intelligence platform \u2014 CesiumJS 3D globe + LangGraph multi-agent RAG on local GPUs (vLLM/Qwen, Qdr",
+    "id": "Hunter5Thompson/OSINT",
+    "language": "Python",
+    "name": "Hunter5Thompson/OSINT",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:46:07Z",
+    "url": "https://github.com/Hunter5Thompson/OSINT"
+  },
+  {
+    "description": "Human-like memory for AI agents \u2014 semantic, episodic & procedural. Experience-driven procedures that learn from failures",
+    "id": "alibaizhanov/mengram",
+    "language": "Python",
+    "name": "alibaizhanov/mengram",
+    "stars": 189,
+    "updated_at": "2026-08-21T20:45:32Z",
+    "url": "https://github.com/alibaizhanov/mengram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
     "id": "chrispsk/petrolium-rag",
     "language": "Jupyter Notebook",
@@ -9,13 +72,22 @@
     "url": "https://github.com/chrispsk/petrolium-rag"
   },
   {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 206,
-    "updated_at": "2026-08-21T20:44:18Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+    "description": "",
+    "id": "antflydb/antfly",
+    "language": "Zig",
+    "name": "antflydb/antfly",
+    "stars": 423,
+    "updated_at": "2026-08-21T20:47:15Z",
+    "url": "https://github.com/antflydb/antfly"
+  },
+  {
+    "description": "Private, permission-aware enterprise knowledge grounded in evidence.",
+    "id": "codexlin/UnoRAG",
+    "language": "TypeScript",
+    "name": "codexlin/UnoRAG",
+    "stars": 4,
+    "updated_at": "2026-08-21T20:47:56Z",
+    "url": "https://github.com/codexlin/UnoRAG"
   },
   {
     "description": "Open source agentic operating system",
@@ -23,17 +95,26 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19116,
-    "updated_at": "2026-08-21T20:44:11Z",
+    "updated_at": "2026-08-21T20:48:25Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "Literae is a conversational AI assistant for discovering, analyzing, and citing academic research.",
-    "id": "Yarroudh/Literae",
-    "language": "Python",
-    "name": "Yarroudh/Literae",
+    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
+    "id": "t02beurko-sys/ai-primer-for-everyone",
+    "language": "HTML",
+    "name": "t02beurko-sys/ai-primer-for-everyone",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:43:28Z",
+    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
+  },
+  {
+    "description": "Persian-first Liara AI agent for grounded answers, live cloud diagnostics, human-approved actions, and cost-aware model ",
+    "id": "Hamidrezabayatdev/liara-copilot",
+    "language": "TypeScript",
+    "name": "Hamidrezabayatdev/liara-copilot",
     "stars": 0,
-    "updated_at": "2026-08-21T20:43:47Z",
-    "url": "https://github.com/Yarroudh/Literae"
+    "updated_at": "2026-08-21T20:43:17Z",
+    "url": "https://github.com/Hamidrezabayatdev/liara-copilot"
   },
   {
     "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
@@ -61,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-08-21T20:40:12Z",
     "url": "https://github.com/takeshy/gemihub"
-  },
-  {
-    "description": "Self-hosted tactical intelligence platform \u2014 CesiumJS 3D globe + LangGraph multi-agent RAG on local GPUs (vLLM/Qwen, Qdr",
-    "id": "Hunter5Thompson/OSINT",
-    "language": "Python",
-    "name": "Hunter5Thompson/OSINT",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:39:57Z",
-    "url": "https://github.com/Hunter5Thompson/OSINT"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "guisefe/ai-knowledge-platform",
     "stars": 0,
-    "updated_at": "2026-08-21T20:42:53Z",
+    "updated_at": "2026-08-21T20:47:46Z",
     "url": "https://github.com/guisefe/ai-knowledge-platform"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 349,
     "updated_at": "2026-08-21T20:34:35Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Private, permission-aware enterprise knowledge grounded in evidence.",
-    "id": "codexlin/UnoRAG",
-    "language": "TypeScript",
-    "name": "codexlin/UnoRAG",
-    "stars": 4,
-    "updated_at": "2026-08-21T20:44:40Z",
-    "url": "https://github.com/codexlin/UnoRAG"
   },
   {
     "description": "ZeroEntropy builds specialized, lightweight AI models for information retrieval and retrieval-augmented generation (RAG)",
@@ -297,24 +360,6 @@
     "url": "https://github.com/SFCyris/RediRecall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MDify Pro \u2014 free, open-source document to Markdown converter. Turn PDF, Word, Excel, PowerPoint, HTML, CSV & images into",
     "id": "DevBehindYou/MDify-Pro",
     "language": "TypeScript",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Prakash-sa/local-rag",
     "stars": 0,
-    "updated_at": "2026-08-21T20:29:13Z",
+    "updated_at": "2026-08-21T20:48:18Z",
     "url": "https://github.com/Prakash-sa/local-rag"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 581,
     "updated_at": "2026-08-21T20:28:13Z",
     "url": "https://github.com/felladrin/MiniSearch"
-  },
-  {
-    "description": "AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state mana",
-    "id": "mezmo/aura",
-    "language": "Rust",
-    "name": "mezmo/aura",
-    "stars": 255,
-    "updated_at": "2026-08-21T20:27:37Z",
-    "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Vellum AI is an LLM development platform that helps product and engineering teams build, evaluate, deploy, and monitor L",
-    "id": "api-evangelist/vellum",
-    "language": "\u2014",
-    "name": "api-evangelist/vellum",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:27:32Z",
-    "url": "https://github.com/api-evangelist/vellum"
-  },
-  {
-    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
-    "id": "zhijunio/spring-ai-chat-rag-samples",
-    "language": "Java",
-    "name": "zhijunio/spring-ai-chat-rag-samples",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:27:28Z",
-    "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:27:21Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
-    "id": "arkanere/solar-app",
-    "language": "PLpgSQL",
-    "name": "arkanere/solar-app",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:27:21Z",
-    "url": "https://github.com/arkanere/solar-app"
   }
 ]
