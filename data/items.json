@@ -1,11 +1,47 @@
 [
   {
+    "description": "Deterministic code-graph (GraphRAG) over your repo for LLM agents \u2014 local-first, git-native, zero-infra, served via MCP.",
+    "id": "reposkein/reposkein",
+    "language": "TypeScript",
+    "name": "reposkein/reposkein",
+    "stars": 11,
+    "updated_at": "2026-08-21T21:46:59Z",
+    "url": "https://github.com/reposkein/reposkein"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4772,
+    "updated_at": "2026-08-21T21:45:05Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 340,
-    "updated_at": "2026-08-21T21:44:28Z",
+    "updated_at": "2026-08-21T21:47:13Z",
     "url": "https://github.com/schmitech/orbit"
   },
   {
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "Raghu23-dev/trigsight",
     "stars": 0,
-    "updated_at": "2026-08-21T21:45:18Z",
+    "updated_at": "2026-08-21T21:46:55Z",
     "url": "https://github.com/Raghu23-dev/trigsight"
   },
   {
@@ -122,7 +158,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3256,
-    "updated_at": "2026-08-21T21:44:38Z",
+    "updated_at": "2026-08-21T21:46:32Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -270,24 +306,6 @@
     "url": "https://github.com/Manuelgr928/rusty-beaker"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0",
     "id": "KnockOutEZ/wigolo",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 255,
     "updated_at": "2026-08-21T21:44:38Z",
     "url": "https://github.com/mezmo/aura"
-  },
-  {
-    "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM \u2014 nothing l",
-    "id": "johannes-kaindl/vault-rag",
-    "language": "TypeScript",
-    "name": "johannes-kaindl/vault-rag",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:23:19Z",
-    "url": "https://github.com/johannes-kaindl/vault-rag"
-  },
-  {
-    "description": "Self-hosted tactical intelligence platform \u2014 CesiumJS 3D globe + LangGraph multi-agent RAG on local GPUs (vLLM/Qwen, Qdr",
-    "id": "Hunter5Thompson/OSINT",
-    "language": "Python",
-    "name": "Hunter5Thompson/OSINT",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:22:58Z",
-    "url": "https://github.com/Hunter5Thompson/OSINT"
   }
 ]
