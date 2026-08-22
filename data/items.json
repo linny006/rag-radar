@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T07:59:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Hand-rolled RAG over 111 Indian startups (Wikipedia + Y Combinator), built without LangChain: hybrid vector + full-text ",
     "id": "prayagtushar/isra",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "Muhammad-Tayyab1/aegis-rag",
     "stars": 0,
-    "updated_at": "2026-08-22T07:58:52Z",
+    "updated_at": "2026-08-22T08:00:11Z",
     "url": "https://github.com/Muhammad-Tayyab1/aegis-rag"
   },
   {
@@ -385,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T07:45:48Z",
     "url": "https://github.com/ANFAIA/SkillNet"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T07:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
