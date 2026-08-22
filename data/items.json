@@ -1,5 +1,59 @@
 [
   {
+    "description": "30-day AI engineering internship at Muthu Soft Labs \u2014 from Python fundamentals to a production-ready RAG knowledge assis",
+    "id": "SamBhojwani/python-ai-internship",
+    "language": "Python",
+    "name": "SamBhojwani/python-ai-internship",
+    "stars": 1,
+    "updated_at": "2026-08-22T06:59:21Z",
+    "url": "https://github.com/SamBhojwani/python-ai-internship"
+  },
+  {
+    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
+    "id": "justForever17/v8-agent-os",
+    "language": "Python",
+    "name": "justForever17/v8-agent-os",
+    "stars": 2,
+    "updated_at": "2026-08-22T06:59:00Z",
+    "url": "https://github.com/justForever17/v8-agent-os"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-22T06:59:07Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
+    "description": "Description: Voice-enabled multilingual RAG system built for HH Goa 2026. Transcribes speech via ElevenLabs, retrieves f",
+    "id": "Swayam1705/Signal",
+    "language": "Python",
+    "name": "Swayam1705/Signal",
+    "stars": 0,
+    "updated_at": "2026-08-22T06:58:58Z",
+    "url": "https://github.com/Swayam1705/Signal"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T06:58:09Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
+    "id": "Arasz/ai-raccoon",
+    "language": "C#",
+    "name": "Arasz/ai-raccoon",
+    "stars": 1,
+    "updated_at": "2026-08-22T06:58:02Z",
+    "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
     "description": "Production-style LLM serving performance lab: vLLM, GPU inference, TTFT/ITL benchmarks, observability, RAG/agent evaluat",
     "id": "pillaiharish/llm-serving-performance-lab",
     "language": "Go",
@@ -16,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-22T06:57:38Z",
     "url": "https://github.com/PersonaliAI/chatty"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19120,
+    "updated_at": "2026-08-22T07:00:15Z",
+    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "\u4e2d\u6587\u5c0f\u8bf4 RAG \u95ee\u7b54\u7cfb\u7edf\uff1a\u5411\u91cf + BM25 \u6df7\u5408\u68c0\u7d22\u3001RRF \u878d\u5408\u4e0e\u91cd\u6392\u3001\u5c42\u7ea7\u68c0\u7d22\uff0c\u68c0\u7d22\u8fc7\u7a0b\u53ef\u9010\u5c42\u89c2\u6d4b\u4e0e\u8bc4\u6d4b\uff1bPostgreSQL + pgvector\uff0c\u5168\u672c\u5730\u53ef\u8dd1\uff08Ollama\uff09\uff0c\u4e5f\u53ef\u5207 Claude / \u667a\u8c31 GLM",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "mehmetuyanik-rs/muhzek-rag",
     "stars": 0,
-    "updated_at": "2026-08-22T06:58:06Z",
+    "updated_at": "2026-08-22T06:59:15Z",
     "url": "https://github.com/mehmetuyanik-rs/muhzek-rag"
   },
   {
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 9,
-    "updated_at": "2026-08-22T06:57:43Z",
+    "updated_at": "2026-08-22T06:59:47Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 86,
-    "updated_at": "2026-08-22T06:49:57Z",
+    "updated_at": "2026-08-22T07:00:06Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -243,15 +306,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T06:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-08-22T06:45:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19120,
-    "updated_at": "2026-08-22T06:57:35Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
@@ -392,61 +437,16 @@
     "language": "Python",
     "name": "mhju0/filing-digest",
     "stars": 0,
-    "updated_at": "2026-08-22T06:40:20Z",
+    "updated_at": "2026-08-22T06:59:01Z",
     "url": "https://github.com/mhju0/filing-digest"
   },
   {
-    "description": "Wenshu\uff08\u6587\u67a2\uff09\u2014 \u9762\u5411\u4eba\u6587\u793e\u79d1\u7814\u7a76\u7684 AI \u77e5\u8bc6\u5904\u7406\u5de5\u4f5c\u6d41\uff1a\u672c\u5730\u77e5\u8bc6\u5e93 / RAG / \u4e2d\u6587\u5f15\u6587 / \u7406\u8bba\u8c31\u7cfb\u3002AI knowledge workflow for humanities & social sciences: local",
-    "id": "ekstasisSH/wenshu",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "ekstasisSH/wenshu",
-    "stars": 1,
-    "updated_at": "2026-08-22T06:39:26Z",
-    "url": "https://github.com/ekstasisSH/wenshu"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 31706,
-    "updated_at": "2026-08-22T06:38:21Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Rip'n Fast. Less Tokens. Better Code. The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server handing coding",
-    "id": "redhat-et/ripwire",
-    "language": "C++",
-    "name": "redhat-et/ripwire",
-    "stars": 3,
-    "updated_at": "2026-08-22T06:37:46Z",
-    "url": "https://github.com/redhat-et/ripwire"
-  },
-  {
-    "description": "Pinakes \u2014 a portable, agent-first knowledge base. One directory = one KB.",
-    "id": "lucagattoni/pinakes",
-    "language": "Python",
-    "name": "lucagattoni/pinakes",
-    "stars": 0,
-    "updated_at": "2026-08-22T06:36:34Z",
-    "url": "https://github.com/lucagattoni/pinakes"
-  },
-  {
-    "description": "\u9762\u5411 AI Search \u4e0e RAG \u53ec\u56de\u7684\u4f01\u4e1a\u7ea7\u6570\u5b57\u8d44\u4ea7\u67b6\u6784\u5b9e\u8df5\u3002\u63d0\u51fa AI-Trustor \u4e0e\u4f4e\u71b5\u4e8b\u5b9e\u5355\u5143\u7406\u8bba\uff0c\u89e3\u51b3 B2B \u51fa\u6d77\u4f01\u4e1a\u5728 ChatGPT Search\u3001Perplexity \u7b49\u751f\u6210\u5f0f\u5f15\u64ce\u4e2d\u7684\u673a\u5668\u4e0d\u53ef\u8bfb\u4e0e RAG \u53ec\u56de\u96be\u9898",
-    "id": "kevin131419344/iaigeo",
-    "language": "HTML",
-    "name": "kevin131419344/iaigeo",
-    "stars": 0,
-    "updated_at": "2026-08-22T06:36:03Z",
-    "url": "https://github.com/kevin131419344/iaigeo"
-  },
-  {
-    "description": "Multi-tenant AI agent runtime in Rust",
-    "id": "dirmacs/ares",
-    "language": "Rust",
-    "name": "dirmacs/ares",
-    "stars": 15,
-    "updated_at": "2026-08-22T06:36:01Z",
-    "url": "https://github.com/dirmacs/ares"
+    "name": "future-agi/future-agi",
+    "stars": 1784,
+    "updated_at": "2026-08-22T06:40:18Z",
+    "url": "https://github.com/future-agi/future-agi"
   }
 ]
