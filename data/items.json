@@ -1,11 +1,65 @@
 [
   {
+    "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
+    "id": "krapcys1-maker/adaptive-agent-memory-research",
+    "language": "Python",
+    "name": "krapcys1-maker/adaptive-agent-memory-research",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:16:49Z",
+    "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research"
+  },
+  {
+    "description": "Multi-tenant AI agent runtime in Rust",
+    "id": "dirmacs/ares",
+    "language": "Rust",
+    "name": "dirmacs/ares",
+    "stars": 15,
+    "updated_at": "2026-08-22T14:16:31Z",
+    "url": "https://github.com/dirmacs/ares"
+  },
+  {
+    "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
+    "id": "Smart-AI-Memory/attune-ai",
+    "language": "HTML",
+    "name": "Smart-AI-Memory/attune-ai",
+    "stars": 10,
+    "updated_at": "2026-08-22T14:15:50Z",
+    "url": "https://github.com/Smart-AI-Memory/attune-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T14:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T14:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Trust-aware AI support agent with grounded evidence, deterministic policy controls, tenant isolation, and approval-gated",
+    "id": "bansalbhunesh/parcelpilot-ai-support-agent",
+    "language": "Python",
+    "name": "bansalbhunesh/parcelpilot-ai-support-agent",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:15:15Z",
+    "url": "https://github.com/bansalbhunesh/parcelpilot-ai-support-agent"
+  },
+  {
     "description": "A local-first, generic persistent memory layer for MCP agents, with semantic search, revisions, provenance, temporal rec",
     "id": "gmacev/Simple-Memory-Extension-MCP-Server",
     "language": "TypeScript",
     "name": "gmacev/Simple-Memory-Extension-MCP-Server",
     "stars": 0,
-    "updated_at": "2026-08-22T14:14:38Z",
+    "updated_at": "2026-08-22T14:16:31Z",
     "url": "https://github.com/gmacev/Simple-Memory-Extension-MCP-Server"
   },
   {
@@ -25,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-22T14:14:30Z",
     "url": "https://github.com/oosuhada/kosa-langchain-practice"
+  },
+  {
+    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
+    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "language": "JavaScript",
+    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:14:25Z",
+    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -63,6 +126,15 @@
     "url": "https://github.com/Quor-a/ZorvAI"
   },
   {
+    "description": "Physical AI & Humanoid Robotics textbook (8 chapters, Docusaurus, RAG chatbot on Qdrant + Gemini, Urdu localisation) and",
+    "id": "abdul-kabir-jawed/agent-mcp-rag-projects",
+    "language": "TypeScript",
+    "name": "abdul-kabir-jawed/agent-mcp-rag-projects",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:16:17Z",
+    "url": "https://github.com/abdul-kabir-jawed/agent-mcp-rag-projects"
+  },
+  {
     "description": "Self-hosted autonomous AI agent for Linux \u2014 multi-LLM, real desktop control (VNC), WhatsApp, RAG knowledge base, sandbox",
     "id": "dev-core-busy/jarvis",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 223,
     "updated_at": "2026-08-22T14:12:59Z",
     "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
-    "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
-    "id": "krapcys1-maker/adaptive-agent-memory-research",
-    "language": "Python",
-    "name": "krapcys1-maker/adaptive-agent-memory-research",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:11:26Z",
-    "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -234,15 +297,6 @@
     "url": "https://github.com/Raghu23-dev/trigsight"
   },
   {
-    "description": "Multi-tenant AI agent runtime in Rust",
-    "id": "dirmacs/ares",
-    "language": "Rust",
-    "name": "dirmacs/ares",
-    "stars": 15,
-    "updated_at": "2026-08-22T14:06:05Z",
-    "url": "https://github.com/dirmacs/ares"
-  },
-  {
     "description": "An end-to-end RAG pipeline for document retrieval and question answering using FastAPI, FAISS, Sentence Transformers, St",
     "id": "haniehmz/end-to-end-RAG-Pipeline",
     "language": "Python",
@@ -351,15 +405,6 @@
     "url": "https://github.com/douglasjordan2/c0"
   },
   {
-    "description": "Trust-aware AI support agent with grounded evidence, deterministic policy controls, tenant isolation, and approval-gated",
-    "id": "bansalbhunesh/parcelpilot-ai-support-agent",
-    "language": "Python",
-    "name": "bansalbhunesh/parcelpilot-ai-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:15:15Z",
-    "url": "https://github.com/bansalbhunesh/parcelpilot-ai-support-agent"
-  },
-  {
     "description": "Low-token HPE Networking MCP router for Aruba Central, GreenLake, migrations, optional products, RAG, and exact API look",
     "id": "secure-ssid/hpe-networking-mcp",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T14:01:57Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:01:49Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Repository containing end-to-end machine learning projects on object detection computer-vision system and local retrieva",
-    "id": "SaintJeane/ml_projectsII",
-    "language": "Jupyter Notebook",
-    "name": "SaintJeane/ml_projectsII",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:01:41Z",
-    "url": "https://github.com/SaintJeane/ml_projectsII"
-  },
-  {
-    "description": "A RAG assistant that answers diabetes questions only from verified ADA, WHO and IDF clinical guidelines, cites every ans",
-    "id": "IqraDilbarAi/diabetes-guidelines-assistant",
-    "language": "Python",
-    "name": "IqraDilbarAi/diabetes-guidelines-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:01:40Z",
-    "url": "https://github.com/IqraDilbarAi/diabetes-guidelines-assistant"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-08-22T14:01:34Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A new SOTA for RAG \u2014 an original retrieval architecture and an open-source knowledge base for humans and agents.",
-    "id": "Zleap-AI/SAG",
-    "language": "TypeScript",
-    "name": "Zleap-AI/SAG",
-    "stars": 2406,
-    "updated_at": "2026-08-22T14:02:40Z",
-    "url": "https://github.com/Zleap-AI/SAG"
   }
 ]
