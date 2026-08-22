@@ -1,5 +1,86 @@
 [
   {
+    "description": "Evidence-grounded document Q&A (RAG) with a real refusal gate, citation integrity, and a measured benchmark - built for ",
+    "id": "Rishidar-lab/sourcelens",
+    "language": "Python",
+    "name": "Rishidar-lab/sourcelens",
+    "stars": 0,
+    "updated_at": "2026-08-22T10:59:49Z",
+    "url": "https://github.com/Rishidar-lab/sourcelens"
+  },
+  {
+    "description": "The free, open companion to Grokking the AI System Design Interview: building blocks, design questions, and reference sh",
+    "id": "design-gurus/grokking-ai-system-design",
+    "language": "\u2014",
+    "name": "design-gurus/grokking-ai-system-design",
+    "stars": 0,
+    "updated_at": "2026-08-22T10:59:37Z",
+    "url": "https://github.com/design-gurus/grokking-ai-system-design"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-22T10:59:30Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "\u884c\u821f \u00b7 Voyage \u2014 \u628a\u8fd0\u7ef4\u80fd\u529b\u6c11\u4e3b\u5316\u7684 AI \u8fd0\u7ef4\u5e73\u53f0\uff1a\u542c\u5f97\u61c2\u5927\u767d\u8bdd\uff0c\u6307\u6325\u5f97\u4e86\u7cfb\u7edf\uff08\u53e3\u8bed\u5316\u4f4e\u95e8\u69db \u00d7 \u96f6\u4fe1\u4efb\u5ba1\u6279\uff09\u3002AIOps democratized: plain-language in, safe control out.",
+    "id": "NinjaSln-labs/voyage",
+    "language": "JavaScript",
+    "name": "NinjaSln-labs/voyage",
+    "stars": 0,
+    "updated_at": "2026-08-22T10:59:03Z",
+    "url": "https://github.com/NinjaSln-labs/voyage"
+  },
+  {
+    "description": "\ud83c\udf99\ufe0f\ud83e\udde0 Local-first macOS meeting + document notebook \u2014 on-device Whisper transcription, source-linked notes, @brain and his",
+    "id": "murmur-io/murmur",
+    "language": "Rust",
+    "name": "murmur-io/murmur",
+    "stars": 7,
+    "updated_at": "2026-08-22T10:58:36Z",
+    "url": "https://github.com/murmur-io/murmur"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T10:58:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T10:58:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deterministic, provenance-tracked pipeline that turns spoken content into verified, searchable knowledge. MCP server + C",
+    "id": "norton77930/corpus-ingest-core",
+    "language": "Python",
+    "name": "norton77930/corpus-ingest-core",
+    "stars": 2,
+    "updated_at": "2026-08-22T10:58:24Z",
+    "url": "https://github.com/norton77930/corpus-ingest-core"
+  },
+  {
+    "description": "Open-source API to convert URLs and documents into PDFs, screenshots, Markdown, and structured data.",
+    "id": "enconvert/enconvert",
+    "language": "Python",
+    "name": "enconvert/enconvert",
+    "stars": 6,
+    "updated_at": "2026-08-22T10:58:19Z",
+    "url": "https://github.com/enconvert/enconvert"
+  },
+  {
     "description": "Private local-first knowledge inbox for AI outputs, with cited Ask and OneDrive sync.",
     "id": "lindaf0617-hub/ai-knowledge-inbox",
     "language": "JavaScript",
@@ -126,15 +207,6 @@
     "url": "https://github.com/codesoldier99/AI_EDU"
   },
   {
-    "description": "The free, open companion to Grokking the AI System Design Interview: building blocks, design questions, and reference sh",
-    "id": "design-gurus/grokking-ai-system-design",
-    "language": "\u2014",
-    "name": "design-gurus/grokking-ai-system-design",
-    "stars": 0,
-    "updated_at": "2026-08-22T10:52:22Z",
-    "url": "https://github.com/design-gurus/grokking-ai-system-design"
-  },
-  {
     "description": "Local-first 3-in-1 AI memory layer & MCP server for Claude Code, Codex, Grok, Gemini, VS Code and Cursor. Fuses session ",
     "id": "Lyellr88/marm-memory",
     "language": "Python",
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "faresmohamed260/saga",
     "stars": 2,
-    "updated_at": "2026-08-22T10:58:11Z",
+    "updated_at": "2026-08-22T10:59:48Z",
     "url": "https://github.com/faresmohamed260/saga"
   },
   {
@@ -265,7 +337,7 @@
     "id": "AnalyseDeCircuit/oxideterm",
     "language": "Rust",
     "name": "AnalyseDeCircuit/oxideterm",
-    "stars": 1328,
+    "stars": 1329,
     "updated_at": "2026-08-22T10:47:36Z",
     "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
@@ -320,7 +392,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-22T10:58:26Z",
+    "updated_at": "2026-08-22T10:58:51Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -331,24 +403,6 @@
     "stars": 349,
     "updated_at": "2026-08-22T10:45:59Z",
     "url": "https://github.com/shibing624/agentica"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T10:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T10:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T10:43:30Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Agent skills for search, RAG, and document parsing with Mixedbread. Install with: npx skills add mixedbread-ai/skills",
-    "id": "mixedbread-ai/skills",
-    "language": "Shell",
-    "name": "mixedbread-ai/skills",
-    "stars": 12,
-    "updated_at": "2026-08-22T10:43:14Z",
-    "url": "https://github.com/mixedbread-ai/skills"
-  },
-  {
-    "description": "\u53f0\u7063\u5224\u6c7a\u8a9e\u610f\u6aa2\u7d22 MCP server + CLI\uff08\u516c\u958b\u539f\u59cb\u78bc source-available\uff09\uff1a2,250 \u842c\u7b46\u88c1\u5224\u66f8\u3001\u884c\u653f\u51fd\u91cb\u3001\u61b2\u6cd5\u6cd5\u5ead\u88c1\u5224\uff0c\u9644\u5f15\u7528\u67e5\u6838\u3002Taiwan legal judgment retrieval via MCP.",
-    "id": "aa0101181514/tw-legal-rag",
-    "language": "Python",
-    "name": "aa0101181514/tw-legal-rag",
-    "stars": 295,
-    "updated_at": "2026-08-22T10:43:13Z",
-    "url": "https://github.com/aa0101181514/tw-legal-rag"
-  },
-  {
-    "description": "AI-powered terminal environment for penetration testers",
-    "id": "PurrSh3ll/purrsh3ll",
-    "language": "Python",
-    "name": "PurrSh3ll/purrsh3ll",
-    "stars": 4,
-    "updated_at": "2026-08-22T10:42:39Z",
-    "url": "https://github.com/PurrSh3ll/purrsh3ll"
-  },
-  {
-    "description": "Evidence-first AI intelligence platform for data-centre EPC project delivery.",
-    "id": "nilaysrivastava/datacenteriq",
-    "language": "JavaScript",
-    "name": "nilaysrivastava/datacenteriq",
-    "stars": 1,
-    "updated_at": "2026-08-22T10:39:54Z",
-    "url": "https://github.com/nilaysrivastava/datacenteriq"
-  },
-  {
-    "description": "Self-hosted clinical AI agent platform: deterministic drug-interaction & critical-value safety rules, FHIR R4 / CDS Hook",
-    "id": "weed33834/DoctorAgent",
-    "language": "Python",
-    "name": "weed33834/DoctorAgent",
-    "stars": 5,
-    "updated_at": "2026-08-22T10:39:34Z",
-    "url": "https://github.com/weed33834/DoctorAgent"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-22T10:39:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
