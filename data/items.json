@@ -1,11 +1,101 @@
 [
   {
+    "description": "Claims Intelligence kernel. Shipped instance: BYMA financial statements. Typed claims are the source of truth; RAG chat ",
+    "id": "javi2481/claimprint",
+    "language": "Python",
+    "name": "javi2481/claimprint",
+    "stars": 0,
+    "updated_at": "2026-08-22T21:47:09Z",
+    "url": "https://github.com/javi2481/claimprint"
+  },
+  {
+    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
+    "id": "juspay/neurolink",
+    "language": "TypeScript",
+    "name": "juspay/neurolink",
+    "stars": 122,
+    "updated_at": "2026-08-22T21:46:43Z",
+    "url": "https://github.com/juspay/neurolink"
+  },
+  {
+    "description": "Open legal intelligence for Mexico. 30,000+ laws across federal, state, and municipal sources \u00b7 3.5M+ searchable article",
+    "id": "madfam-org/tezca",
+    "language": "Python",
+    "name": "madfam-org/tezca",
+    "stars": 7,
+    "updated_at": "2026-08-22T21:46:34Z",
+    "url": "https://github.com/madfam-org/tezca"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19127,
+    "updated_at": "2026-08-22T21:47:05Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "RAG pipeline for documents (Markdown, PDF, images). 10-step hybrid search, LLM enrichment, taxonomy, MCP server. Cloud o",
+    "id": "DevNexsler/RAG-In-A-Box",
+    "language": "Python",
+    "name": "DevNexsler/RAG-In-A-Box",
+    "stars": 4,
+    "updated_at": "2026-08-22T21:46:19Z",
+    "url": "https://github.com/DevNexsler/RAG-In-A-Box"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-22T21:46:12Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3258,
+    "updated_at": "2026-08-22T21:46:05Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "MCP server for semantic hybrid search (sqlite-vec + FTS5 with optional cross-encoder reranking) over a Markdown / plain-",
+    "id": "alphabet-h/grooveseek",
+    "language": "Rust",
+    "name": "alphabet-h/grooveseek",
+    "stars": 3,
+    "updated_at": "2026-08-22T21:45:58Z",
+    "url": "https://github.com/alphabet-h/grooveseek"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T21:45:53Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T21:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first encrypted knowledge vault \u2014 semantic search over your documents, no cloud",
     "id": "saagpatel/knowledgecore",
     "language": "Rust",
     "name": "saagpatel/knowledgecore",
     "stars": 0,
-    "updated_at": "2026-08-22T21:45:03Z",
+    "updated_at": "2026-08-22T21:46:42Z",
     "url": "https://github.com/saagpatel/knowledgecore"
   },
   {
@@ -16,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-08-22T21:44:49Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-22T21:44:45Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Open-source agentic research system with evidence-backed reports, hybrid RAG, and evaluations",
@@ -63,13 +144,13 @@
     "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
+    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+    "id": "simstudioai/sim",
     "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19127,
-    "updated_at": "2026-08-22T21:42:41Z",
-    "url": "https://github.com/elizaOS/eliza"
+    "name": "simstudioai/sim",
+    "stars": 29457,
+    "updated_at": "2026-08-22T21:41:53Z",
+    "url": "https://github.com/simstudioai/sim"
   },
   {
     "description": "Sovereign Agentic OS \u2014 self-hostable, EU-sovereign agentic data platform on Kubernetes (pre-beta). One Helm chart, runs ",
@@ -142,15 +223,6 @@
     "stars": 438,
     "updated_at": "2026-08-22T21:37:26Z",
     "url": "https://github.com/caura-ai/caura"
-  },
-  {
-    "description": "RAG pipeline for documents (Markdown, PDF, images). 10-step hybrid search, LLM enrichment, taxonomy, MCP server. Cloud o",
-    "id": "DevNexsler/RAG-In-A-Box",
-    "language": "Python",
-    "name": "DevNexsler/RAG-In-A-Box",
-    "stars": 4,
-    "updated_at": "2026-08-22T21:35:48Z",
-    "url": "https://github.com/DevNexsler/RAG-In-A-Box"
   },
   {
     "description": "\u4eac\u8a00 AI \u5bfc\u8d2d Agent - \u7eafPython Multi-Agent\u7535\u89c6\u9009\u8d2d\u7cfb\u7edf | 25\u6761\u8bc4\u6d4b\u9a71\u52a8\u8fed\u4ee3 V1.0 72%\u2192V1.1 92%",
@@ -234,24 +306,6 @@
     "url": "https://github.com/lukislp/studylife-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T21:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T21:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted RAG platform - Next.js, FastAPI, Supabase pgvector, Clerk auth",
     "id": "Kushwaha-Hemant/RAGForge-Document_Search",
     "language": "TypeScript",
@@ -284,7 +338,7 @@
     "language": "Rust",
     "name": "Fortemi/fortemi",
     "stars": 24,
-    "updated_at": "2026-08-22T21:29:47Z",
+    "updated_at": "2026-08-22T21:46:15Z",
     "url": "https://github.com/Fortemi/fortemi"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T21:26:12Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 35,
-    "updated_at": "2026-08-22T21:25:50Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 4,
-    "updated_at": "2026-08-22T21:34:57Z",
-    "url": "https://github.com/wish-maker/minder"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 51,
-    "updated_at": "2026-08-22T21:45:07Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Top Open-Source AI Agents 2026 \ud83e\udd16 | Best Autonomous Tools & Frameworks",
-    "id": "salimfk619-jpg/open-ai-ecosystem",
-    "language": "HTML",
-    "name": "salimfk619-jpg/open-ai-ecosystem",
-    "stars": 1,
-    "updated_at": "2026-08-22T21:25:18Z",
-    "url": "https://github.com/salimfk619-jpg/open-ai-ecosystem"
-  },
-  {
-    "description": "AI-Powered Audio Q&A Tool 2026 \ud83c\udf99\ufe0f\ud83d\udcc4 - Upload & Ask, Get Instant Answers",
-    "id": "VINAY7033/docu-query-assistant",
-    "language": "HTML",
-    "name": "VINAY7033/docu-query-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-22T21:25:18Z",
-    "url": "https://github.com/VINAY7033/docu-query-assistant"
-  },
-  {
-    "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
-    "id": "Sachin23991/dreamflow-rag-updater",
-    "language": "Python",
-    "name": "Sachin23991/dreamflow-rag-updater",
-    "stars": 2,
-    "updated_at": "2026-08-22T21:24:33Z",
-    "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
   }
 ]
