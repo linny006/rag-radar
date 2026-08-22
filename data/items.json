@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19127,
+    "updated_at": "2026-08-22T23:45:12Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:44:49Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "C# SDK for the GroundX API -- RAG infrastructure with document ingestion, search, and content completion",
+    "id": "tryAGI/GroundX",
+    "language": "C#",
+    "name": "tryAGI/GroundX",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:44:17Z",
+    "url": "https://github.com/tryAGI/GroundX"
+  },
+  {
+    "description": "Low-token HPE Networking MCP router for Aruba Central, GreenLake, migrations, optional products, RAG, and exact API look",
+    "id": "secure-ssid/hpe-networking-mcp",
+    "language": "Python",
+    "name": "secure-ssid/hpe-networking-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-22T23:44:04Z",
+    "url": "https://github.com/secure-ssid/hpe-networking-mcp"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:43:54Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Assistente de estudos com RAG e painel de risco de evas\u00e3o por l\u00f3gica fuzzy. Projeto pr\u00e1tico de Intelig\u00eancia Artificial, ",
+    "id": "fabriciojunio/permaneia",
+    "language": "TypeScript",
+    "name": "fabriciojunio/permaneia",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:43:50Z",
+    "url": "https://github.com/fabriciojunio/permaneia"
+  },
+  {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 4,
+    "updated_at": "2026-08-22T23:43:44Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
     "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
     "id": "XaviCode1000/webfang",
     "language": "Rust",
@@ -72,15 +135,6 @@
     "url": "https://github.com/Umarfarook1/rag-document-qa"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19127,
-    "updated_at": "2026-08-22T23:43:23Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
     "id": "Smart-AI-Memory/attune-ai",
     "language": "HTML",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T23:39:01Z",
     "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Assistente de estudos com RAG e painel de risco de evas\u00e3o por l\u00f3gica fuzzy. Projeto pr\u00e1tico de Intelig\u00eancia Artificial, ",
-    "id": "fabriciojunio/permaneia",
-    "language": "TypeScript",
-    "name": "fabriciojunio/permaneia",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:43:50Z",
-    "url": "https://github.com/fabriciojunio/permaneia"
   },
   {
     "description": "\u8bc1\u636e\u9a71\u52a8\u7684\u591a Agent \u81ea\u7531\u884c\u89c4\u5212\u7cfb\u7edf\uff1a\u5e76\u53d1\u53d6\u8bc1\u3001Planner\u2013Verifier\u2013Repair\u3001\u52a8\u6001\u91cd\u89c4\u5212\u4e0e\u53ea\u8bfb OTA \u5b9e\u9a8c\u63a5\u5165",
@@ -252,24 +297,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Banking Document & Risk Intelligence Copilot \u2014 RAG chatbot on GCP, built entirely within free-tier limits. SEC filings i",
     "id": "manishwvn/gcp-genai-banking-copilot",
     "language": "Python",
@@ -347,7 +374,7 @@
     "language": "Zig",
     "name": "antflydb/antfly",
     "stars": 423,
-    "updated_at": "2026-08-22T23:42:14Z",
+    "updated_at": "2026-08-22T23:43:55Z",
     "url": "https://github.com/antflydb/antfly"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 67198,
     "updated_at": "2026-08-22T23:23:07Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Open-source clinical market intelligence for biopharma \u2014 the AlphaSense/Cortellis alternative you can self-host. LangGra",
-    "id": "JAGAN666/OpenBio-Intel",
-    "language": "Python",
-    "name": "JAGAN666/OpenBio-Intel",
-    "stars": 1,
-    "updated_at": "2026-08-22T23:21:29Z",
-    "url": "https://github.com/JAGAN666/OpenBio-Intel"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:21:10Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
-  },
-  {
-    "description": "MarxSphere \u9a6c\u7814\u661f\u73af \u2014 AI \u9a71\u52a8\u7684\u9a6c\u514b\u601d\u4e3b\u4e49\u7406\u8bba\u7814\u7a76\u79d1\u7814\u4e2d\u67a2\uff0852\u6b65\u63a8\u7406/\u4e09\u5e93\u56fe\u8c31/AI Agent/\u684c\u9762\u7aef\uff09",
-    "id": "LDF924/MarxSphere",
-    "language": "TypeScript",
-    "name": "LDF924/MarxSphere",
-    "stars": 1,
-    "updated_at": "2026-08-22T23:31:30Z",
-    "url": "https://github.com/LDF924/MarxSphere"
   }
 ]
