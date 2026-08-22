@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI \u6559\u6750\u6570\u5b57\u5316\u4e0e\u4e92\u52a8\u8f85\u5bfc\u5e73\u53f0\uff1aPDF/\u626b\u63cf\u6559\u6750\u7ecf MinerU OCR \u7ed3\u6784\u5316\u51fa\u9898\uff0c\u6587\u672c + \u89c6\u89c9\u53cc\u6a21\u578b\u5ba1\u6821\u4e0e\u786e\u5b9a\u6027\u8d28\u91cf\u95e8\u7981\uff1b\u5b66\u751f\u7aef\u4e03\u79cd\u9898\u578b\u4e92\u52a8\u3001\u5206\u5c42\u63d0\u793a\u4e0e\u9519\u9898\u591a\u8f6e\u966a\u7ec3\u95ed\u73af\uff1bFastAPI + PostgreSQL JSONB + Rea",
+    "id": "ningkaikok/dotty-tutor",
+    "language": "Python",
+    "name": "ningkaikok/dotty-tutor",
+    "stars": 1,
+    "updated_at": "2026-08-22T15:59:50Z",
+    "url": "https://github.com/ningkaikok/dotty-tutor"
+  },
+  {
+    "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
+    "id": "Smart-AI-Memory/attune-ai",
+    "language": "HTML",
+    "name": "Smart-AI-Memory/attune-ai",
+    "stars": 10,
+    "updated_at": "2026-08-22T15:59:46Z",
+    "url": "https://github.com/Smart-AI-Memory/attune-ai"
+  },
+  {
+    "description": "AI support agent demo \u2014 RAG over a knowledge base with automatic escalation to a human (Python, Flask, Claude API)",
+    "id": "1-1-1-1-1-1-1-1/nimbus-support-agent",
+    "language": "Python",
+    "name": "1-1-1-1-1-1-1-1/nimbus-support-agent",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:59:43Z",
+    "url": "https://github.com/1-1-1-1-1-1-1-1/nimbus-support-agent"
+  },
+  {
+    "description": "Vector search from scratch, in one readable file: exact, IVF, HNSW and product quantization, in numpy only. The makemore",
+    "id": "Haix02/nanovec",
+    "language": "Python",
+    "name": "Haix02/nanovec",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:59:41Z",
+    "url": "https://github.com/Haix02/nanovec"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-22T15:59:26Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T15:59:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
+    "id": "omdesai69/privrag-guard",
+    "language": "Python",
+    "name": "omdesai69/privrag-guard",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:59:20Z",
+    "url": "https://github.com/omdesai69/privrag-guard"
+  },
+  {
+    "description": "AI/ML Engineer portfolio showcasing production-ready AI projects, research, CV, blog, technical skills, and a modern res",
+    "id": "hamza01055/Portfolio-Website",
+    "language": "JavaScript",
+    "name": "hamza01055/Portfolio-Website",
+    "stars": 3,
+    "updated_at": "2026-08-22T15:59:17Z",
+    "url": "https://github.com/hamza01055/Portfolio-Website"
+  },
+  {
     "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
     "id": "krapcys1-maker/adaptive-agent-memory-research",
     "language": "Python",
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "vyact/vyact",
     "stars": 0,
-    "updated_at": "2026-08-22T15:58:24Z",
+    "updated_at": "2026-08-22T16:00:01Z",
     "url": "https://github.com/vyact/vyact"
   },
   {
@@ -63,13 +135,13 @@
     "url": "https://github.com/officialbidisha/ResolveFlow"
   },
   {
-    "description": "Vector search from scratch, in one readable file: exact, IVF, HNSW and product quantization, in numpy only. The makemore",
-    "id": "Haix02/nanovec",
-    "language": "Python",
-    "name": "Haix02/nanovec",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:57:55Z",
-    "url": "https://github.com/Haix02/nanovec"
+    "description": " A complete backend engineering journey  Day by Day. Node.js \u00b7 Express \u00b7 MongoDB \u00b7 JWT \u00b7 Socket.io \u00b7 Gen-AI \u00b7 RAG \u00b7 Type",
+    "id": "Notanormaldev/Back-end",
+    "language": "JavaScript",
+    "name": "Notanormaldev/Back-end",
+    "stars": 1,
+    "updated_at": "2026-08-22T15:57:49Z",
+    "url": "https://github.com/Notanormaldev/Back-end"
   },
   {
     "description": "\u767a\u9054\u7279\u6027(ADHD\u30fbASD\u50be\u5411)\u3068\u65e5\u5e38\u306e\u56f0\u308a\u3054\u3068\u3092\u6574\u7406\u3057\u3001\u6771\u4eac\u90fd\u306e\u30aa\u30fc\u30d7\u30f3\u30c7\u30fc\u30bf\u3067\u652f\u63f4\u7a93\u53e3\u63a2\u3057\u306b\u3064\u306a\u3052\u308b\u3001\u30d6\u30e9\u30a6\u30b6\u5b8c\u7d50\u578b\u30bb\u30eb\u30d5\u30c1\u30a7\u30c3\u30af\u30a2\u30d7\u30ea\u3002\u90fd\u77e5\u4e8b\u676f\u30aa\u30fc\u30d7\u30f3\u30c7\u30fc\u30bf\u30fb\u30cf\u30c3\u30ab\u30bd\u30f32026 \u5fdc\u52df\u4f5c\u54c1",
@@ -126,15 +198,6 @@
     "url": "https://github.com/PavelKoff2025/TG_Bot_with_embeding_memory"
   },
   {
-    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
-    "id": "omdesai69/privrag-guard",
-    "language": "Python",
-    "name": "omdesai69/privrag-guard",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:55:25Z",
-    "url": "https://github.com/omdesai69/privrag-guard"
-  },
-  {
     "description": "Open-source agentic research system with evidence-backed reports, hybrid RAG, and evaluations",
     "id": "francescoveryra-dot/deepscout",
     "language": "Python",
@@ -167,7 +230,7 @@
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-22T15:58:45Z",
+    "updated_at": "2026-08-22T16:00:04Z",
     "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T15:52:16Z",
     "url": "https://github.com/bksampadi/SignalRank-RAG"
-  },
-  {
-    "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
-    "id": "Smart-AI-Memory/attune-ai",
-    "language": "HTML",
-    "name": "Smart-AI-Memory/attune-ai",
-    "stars": 10,
-    "updated_at": "2026-08-22T15:52:03Z",
-    "url": "https://github.com/Smart-AI-Memory/attune-ai"
   },
   {
     "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
@@ -378,15 +432,6 @@
     "url": "https://github.com/saqibb786/VidChat"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "CONFENGE operational governance and source of truth. Canonical authority for the commercial catalog, strategic directive",
     "id": "tjsasakifln/Governance",
     "language": "TypeScript",
@@ -396,15 +441,6 @@
     "url": "https://github.com/tjsasakifln/Governance"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-22T15:44:30Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
     "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
     "id": "YangYang-Research/yang-promptlab",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T15:44:24Z",
     "url": "https://github.com/YangYang-Research/yang-promptlab"
-  },
-  {
-    "description": "Interactive 3D portfolio built with React, Three.js, and a RAG-powered AI assistant.",
-    "id": "andref218/3d_portfolio",
-    "language": "JavaScript",
-    "name": "andref218/3d_portfolio",
-    "stars": 1,
-    "updated_at": "2026-08-22T15:44:03Z",
-    "url": "https://github.com/andref218/3d_portfolio"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:42:56Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:42:03Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "A lightweight embedded database engine that natively fuses vector search, graph, and document-oriented metadata within a",
-    "id": "YoKONCy/TriviumDB",
-    "language": "Rust",
-    "name": "YoKONCy/TriviumDB",
-    "stars": 63,
-    "updated_at": "2026-08-22T15:42:02Z",
-    "url": "https://github.com/YoKONCy/TriviumDB"
   }
 ]
