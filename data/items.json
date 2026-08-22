@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
+    "id": "markfietje/brain-server",
+    "language": "Rust",
+    "name": "markfietje/brain-server",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:16:17Z",
+    "url": "https://github.com/markfietje/brain-server"
+  },
+  {
+    "description": "Banking Document & Risk Intelligence Copilot \u2014 RAG chatbot on GCP, built entirely within free-tier limits. SEC filings i",
+    "id": "manishwvn/gcp-genai-banking-copilot",
+    "language": "Python",
+    "name": "manishwvn/gcp-genai-banking-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:15:45Z",
+    "url": "https://github.com/manishwvn/gcp-genai-banking-copilot"
+  },
+  {
+    "description": "RAG-based PDF question-answering chatbot using LangChain, IBM watsonx.ai, Chroma vector storage, and Gradio for grounded",
+    "id": "ToddString/IBM-rag-pdf-qa-chatbot",
+    "language": "Python",
+    "name": "ToddString/IBM-rag-pdf-qa-chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:15:34Z",
+    "url": "https://github.com/ToddString/IBM-rag-pdf-qa-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown \u2014 and back. Built for LLMs, RAG & Python pipe",
     "id": "thomas-villani/all2md",
     "language": "Python",
@@ -9,12 +54,30 @@
     "url": "https://github.com/thomas-villani/all2md"
   },
   {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 51,
+    "updated_at": "2026-08-22T23:15:52Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "\u5bf9\u8bdd\u5f0f AI \u6570\u636e\u5e93\uff1a\u6587\u4ef6\uff08Excel/PDF/\u626b\u63cf\u4ef6\uff09\u2192 \u53ef\u67e5\u8be2\u6570\u636e\u5e93\uff1bMCP \u80fd\u529b\u9762 + 38 \u539f\u5b50\u5de5\u5177 + \u5951\u7ea6\u5b89\u5168\u5c42\uff08AI \u4e0d\u751f\u6210 SQL\uff09\uff1bAGPL/\u5546\u4e1a\u53cc\u8f68",
+    "id": "JackeyLove1225/SuperAIDB",
+    "language": "Python",
+    "name": "JackeyLove1225/SuperAIDB",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:14:28Z",
+    "url": "https://github.com/JackeyLove1225/SuperAIDB"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19127,
-    "updated_at": "2026-08-22T23:14:40Z",
+    "updated_at": "2026-08-22T23:16:06Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "tjsasakifln/Governance",
     "stars": 0,
-    "updated_at": "2026-08-22T23:11:13Z",
+    "updated_at": "2026-08-22T23:16:14Z",
     "url": "https://github.com/tjsasakifln/Governance"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/HiRenan/senai-prescriptive-maintenance"
   },
   {
-    "description": "Banking Document & Risk Intelligence Copilot \u2014 RAG chatbot on GCP, built entirely within free-tier limits. SEC filings i",
-    "id": "manishwvn/gcp-genai-banking-copilot",
-    "language": "Python",
-    "name": "manishwvn/gcp-genai-banking-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:07:56Z",
-    "url": "https://github.com/manishwvn/gcp-genai-banking-copilot"
-  },
-  {
     "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
     "id": "makoy-daniot2001/agent-session-mirror",
     "language": "HTML",
@@ -185,7 +239,7 @@
     "language": "HTML",
     "name": "Smart-AI-Memory/attune-ai",
     "stars": 10,
-    "updated_at": "2026-08-22T23:06:07Z",
+    "updated_at": "2026-08-22T23:15:57Z",
     "url": "https://github.com/Smart-AI-Memory/attune-ai"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 786,
     "updated_at": "2026-08-22T23:05:18Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "\u5bf9\u8bdd\u5f0f AI \u6570\u636e\u5e93\uff1a\u6587\u4ef6\uff08Excel/PDF/\u626b\u63cf\u4ef6\uff09\u2192 \u53ef\u67e5\u8be2\u6570\u636e\u5e93\uff1bMCP \u80fd\u529b\u9762 + 38 \u539f\u5b50\u5de5\u5177 + \u5951\u7ea6\u5b89\u5168\u5c42\uff08AI \u4e0d\u751f\u6210 SQL\uff09\uff1bAGPL/\u5546\u4e1a\u53cc\u8f68",
-    "id": "JackeyLove1225/SuperAIDB",
-    "language": "Python",
-    "name": "JackeyLove1225/SuperAIDB",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:14:28Z",
-    "url": "https://github.com/JackeyLove1225/SuperAIDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -261,15 +306,6 @@
     "url": "https://github.com/javi2481/claimprint"
   },
   {
-    "description": "RAG-based PDF question-answering chatbot using LangChain, IBM watsonx.ai, Chroma vector storage, and Gradio for grounded",
-    "id": "ToddString/IBM-rag-pdf-qa-chatbot",
-    "language": "Python",
-    "name": "ToddString/IBM-rag-pdf-qa-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:02:07Z",
-    "url": "https://github.com/ToddString/IBM-rag-pdf-qa-chatbot"
-  },
-  {
     "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
     "id": "gaurav-gandhi-2411/gg-portfolio",
     "language": "HTML",
@@ -286,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T23:01:46Z",
     "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:00:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG pipeline for Victron Energy documentation with pgvector, LangChain, and FastAPI",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T22:50:03Z",
     "url": "https://github.com/bartkamphuis/memore"
-  },
-  {
-    "description": "\u8bc1\u636e\u9a71\u52a8\u7684\u591a Agent \u81ea\u7531\u884c\u89c4\u5212\u7cfb\u7edf\uff1a\u5e76\u53d1\u53d6\u8bc1\u3001Planner\u2013Verifier\u2013Repair\u3001\u52a8\u6001\u91cd\u89c4\u5212\u4e0e\u53ea\u8bfb OTA \u5b9e\u9a8c\u63a5\u5165",
-    "id": "Oxygen56/TripChord",
-    "language": "Python",
-    "name": "Oxygen56/TripChord",
-    "stars": 1,
-    "updated_at": "2026-08-22T22:49:48Z",
-    "url": "https://github.com/Oxygen56/TripChord"
-  },
-  {
-    "description": "Answers security-questionnaire questions from a SOC 2 report, and every claim carries a verbatim quotation you can open ",
-    "id": "brownmessiah/grc-document-qa",
-    "language": "TypeScript",
-    "name": "brownmessiah/grc-document-qa",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:48:54Z",
-    "url": "https://github.com/brownmessiah/grc-document-qa"
   }
 ]
