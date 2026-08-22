@@ -1,5 +1,77 @@
 [
   {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-22T01:00:54Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "A portfolio that answers questions about me. LangGraph agent on the critical path, every latency figure measured rather ",
+    "id": "Kushal9889/kushal-portfolio-v2",
+    "language": "TypeScript",
+    "name": "Kushal9889/kushal-portfolio-v2",
+    "stars": 0,
+    "updated_at": "2026-08-22T01:00:37Z",
+    "url": "https://github.com/Kushal9889/kushal-portfolio-v2"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T01:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T01:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A RAG app to breakdown complex technical documents ",
+    "id": "Kaynaaf/NanoRAG",
+    "language": "Python",
+    "name": "Kaynaaf/NanoRAG",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:00:20Z",
+    "url": "https://github.com/Kaynaaf/NanoRAG"
+  },
+  {
+    "description": "Hardware-Accelerated Cryptographic RAG System \u2014 GPU simulation of SHA-256 hash engine with AES-256-GCM encryption and Me",
+    "id": "Agnuxo1/ASIC-RAG-CHIMERA",
+    "language": "Python",
+    "name": "Agnuxo1/ASIC-RAG-CHIMERA",
+    "stars": 5,
+    "updated_at": "2026-08-22T01:00:19Z",
+    "url": "https://github.com/Agnuxo1/ASIC-RAG-CHIMERA"
+  },
+  {
+    "description": "Self-hosted clinical AI agent platform: deterministic drug-interaction & critical-value safety rules, FHIR R4 / CDS Hook",
+    "id": "weed33834/DoctorAgent",
+    "language": "Python",
+    "name": "weed33834/DoctorAgent",
+    "stars": 5,
+    "updated_at": "2026-08-22T01:00:11Z",
+    "url": "https://github.com/weed33834/DoctorAgent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T01:00:09Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Offline debugging for AI agent traces: finds loops, retry storms, and hallucinated tool calls.",
     "id": "haseebraza715/trace-autopsy",
     "language": "Python",
@@ -77,7 +149,7 @@
     "language": "Java",
     "name": "Atmosphere/atmosphere",
     "stars": 3795,
-    "updated_at": "2026-08-22T00:55:09Z",
+    "updated_at": "2026-08-22T01:00:52Z",
     "url": "https://github.com/Atmosphere/atmosphere"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 22,
     "updated_at": "2026-08-22T00:51:50Z",
     "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Self-hosted clinical AI agent platform: deterministic drug-interaction & critical-value safety rules, FHIR R4 / CDS Hook",
-    "id": "weed33834/DoctorAgent",
-    "language": "Python",
-    "name": "weed33834/DoctorAgent",
-    "stars": 5,
-    "updated_at": "2026-08-22T01:00:11Z",
-    "url": "https://github.com/weed33834/DoctorAgent"
   },
   {
     "description": "Literae is a conversational AI assistant for discovering, analyzing, and citing academic research.",
@@ -214,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T00:45:30Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T00:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T00:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Public library of portable knowledge bricks made with VectorForge Pro. Feedback welcome. knowledge-base, rag, vectorforg",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T00:31:34Z",
     "url": "https://github.com/kevin131419344/iaigeo"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 31705,
-    "updated_at": "2026-08-22T00:54:07Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "A RAG-powered conversational memory engine built with n8n, Ollama, Pinecone and Gemini.",
-    "id": "AdiiGarg/whatsapp-memory-rag",
-    "language": "\u2014",
-    "name": "AdiiGarg/whatsapp-memory-rag",
-    "stars": 0,
-    "updated_at": "2026-08-22T00:31:25Z",
-    "url": "https://github.com/AdiiGarg/whatsapp-memory-rag"
-  },
-  {
-    "description": "\u6d77\u5916\u30c6\u30c3\u30af\u30cb\u30e5\u30fc\u30b9\u3092\u81ea\u52d5\u53ce\u96c6\u3057\u3001AI\u3067\u7ffb\u8a33\u30fb\u8981\u7d04\u30fb\u6295\u8cc7\u6587\u8108\u3092\u5206\u6790\u3059\u308b\u30ea\u30b5\u30fc\u30c1\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9",
-    "id": "yook11/Vector",
-    "language": "Python",
-    "name": "yook11/Vector",
-    "stars": 1,
-    "updated_at": "2026-08-22T00:28:57Z",
-    "url": "https://github.com/yook11/Vector"
-  },
-  {
-    "description": "Open, bilingual and expert-curated LLM engineering curriculum with executable labs",
-    "id": "jlcases/llm-engineering-program",
-    "language": "Python",
-    "name": "jlcases/llm-engineering-program",
-    "stars": 0,
-    "updated_at": "2026-08-22T00:28:55Z",
-    "url": "https://github.com/jlcases/llm-engineering-program"
-  },
-  {
-    "description": "Open-source framework for building and evaluating Retrieval-Augmented Generation (RAG) systems.",
-    "id": "bksampadi/SignalRank-RAG",
-    "language": "Python",
-    "name": "bksampadi/SignalRank-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-22T00:28:05Z",
-    "url": "https://github.com/bksampadi/SignalRank-RAG"
   }
 ]
