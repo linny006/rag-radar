@@ -1,5 +1,104 @@
 [
   {
+    "description": "Sovereign RAG for regulated organizations: hybrid pgvector retrieval, cited and audited answers, local-first (Ollama), m",
+    "id": "Leroy-Guillaume/sovereign-rag",
+    "language": "Python",
+    "name": "Leroy-Guillaume/sovereign-rag",
+    "stars": 0,
+    "updated_at": "2026-08-22T05:45:15Z",
+    "url": "https://github.com/Leroy-Guillaume/sovereign-rag"
+  },
+  {
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
+    "id": "Bike4Mind/bike4mind",
+    "language": "TypeScript",
+    "name": "Bike4Mind/bike4mind",
+    "stars": 86,
+    "updated_at": "2026-08-22T05:44:53Z",
+    "url": "https://github.com/Bike4Mind/bike4mind"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19120,
+    "updated_at": "2026-08-22T05:44:51Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "The Train Tracking RAG Chatbot is an AI-powered chatbot that helps users find train schedules, check delays, and get sta",
+    "id": "AhmedNasser1010/Train-Tracking-RAG-Chatbot",
+    "language": "TypeScript",
+    "name": "AhmedNasser1010/Train-Tracking-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-22T05:44:20Z",
+    "url": "https://github.com/AhmedNasser1010/Train-Tracking-RAG-Chatbot"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-22T05:43:27Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "Turn CSVs into a context graph your AI agent can build, query in plain English, and verify \u2014 SPARQL-backed, Apache-2.0",
+    "id": "infona-ai/infona-oss",
+    "language": "Python",
+    "name": "infona-ai/infona-oss",
+    "stars": 4,
+    "updated_at": "2026-08-22T05:42:42Z",
+    "url": "https://github.com/infona-ai/infona-oss"
+  },
+  {
+    "description": "Local document knowledge base for DeepSeek Harness: library_add/remove/list, hybrid semantic+keyword library_search with",
+    "id": "PerryLink/dsh-library",
+    "language": "TypeScript",
+    "name": "PerryLink/dsh-library",
+    "stars": 2,
+    "updated_at": "2026-08-22T05:42:34Z",
+    "url": "https://github.com/PerryLink/dsh-library"
+  },
+  {
+    "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
+    "id": "markfietje/brain-server",
+    "language": "Rust",
+    "name": "markfietje/brain-server",
+    "stars": 0,
+    "updated_at": "2026-08-22T05:42:30Z",
+    "url": "https://github.com/markfietje/brain-server"
+  },
+  {
+    "description": "\u7d22\u9690 - Enterprise RAG Knowledge Platform",
+    "id": "1y4w1s/rag-knowledge-platform",
+    "language": "Python",
+    "name": "1y4w1s/rag-knowledge-platform",
+    "stars": 1,
+    "updated_at": "2026-08-22T05:41:44Z",
+    "url": "https://github.com/1y4w1s/rag-knowledge-platform"
+  },
+  {
+    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
+    "id": "Artexis10/exomem",
+    "language": "Python",
+    "name": "Artexis10/exomem",
+    "stars": 9,
+    "updated_at": "2026-08-22T05:41:33Z",
+    "url": "https://github.com/Artexis10/exomem"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T05:41:15Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first long-term memory for AI agents - plain Markdown vault + thin MCP server. CJK-aware BM25, token-efficient by ",
     "id": "2672243194/agentbrain",
     "language": "Python",
@@ -61,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T05:39:42Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19120,
-    "updated_at": "2026-08-22T05:39:34Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "\u591a\u667a\u80fd\u4f53\u534f\u4f5c LLM \u957f\u6587\u5199\u4f5c\u5f15\u64ce \u2014 8-Agent \u6d41\u6c34\u7ebf + RAG + \u7ee7\u627f\u5236\u5199\u4f5c,\u5355\u6b21\u5b9e\u6d4b\u751f\u6210 20\u4e07\u5b57/28\u8282\u3002FastAPI+Celery+Redis+ChromaDB,\u5df2\u90e8\u7f72\u963f\u91cc\u4e91 ECS",
@@ -288,15 +378,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T05:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
     "id": "jgouviergmail/LIA-Assistant",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 135,
     "updated_at": "2026-08-22T05:30:22Z",
     "url": "https://github.com/lbedner/aegis-stack"
-  },
-  {
-    "description": "AI-powered documentation assistant that uses hybrid RAG to answer questions from technical documentation.",
-    "id": "23f3001800/DevDocs-AI",
-    "language": "Python",
-    "name": "23f3001800/DevDocs-AI",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:26:41Z",
-    "url": "https://github.com/23f3001800/DevDocs-AI"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "sairaman436/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "sairaman436/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-22T05:26:23Z",
-    "url": "https://github.com/sairaman436/vybe-intelligence-vault"
-  },
-  {
-    "description": "Multi-tenant AI agent runtime in Rust",
-    "id": "dirmacs/ares",
-    "language": "Rust",
-    "name": "dirmacs/ares",
-    "stars": 15,
-    "updated_at": "2026-08-22T05:25:57Z",
-    "url": "https://github.com/dirmacs/ares"
-  },
-  {
-    "description": "Offline, air-gapped AI coding agent (cloc) for a 12GB no-GPU laptop \u2014 Qwen2.5-Coder + Ollama, AST code intelligence, sem",
-    "id": "Arj0010/cloc",
-    "language": "Python",
-    "name": "Arj0010/cloc",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:25:49Z",
-    "url": "https://github.com/Arj0010/cloc"
-  },
-  {
-    "description": "",
-    "id": "avaxML/cite-right",
-    "language": "Python",
-    "name": "avaxML/cite-right",
-    "stars": 2,
-    "updated_at": "2026-08-22T05:25:27Z",
-    "url": "https://github.com/avaxML/cite-right"
-  },
-  {
-    "description": "Interest Growth \u2014 an AI-assisted system for cultivating durable interests through curiosity, evidence, practice, express",
-    "id": "hello-yunshu/interest-growth",
-    "language": "Python",
-    "name": "hello-yunshu/interest-growth",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:24:39Z",
-    "url": "https://github.com/hello-yunshu/interest-growth"
-  },
-  {
-    "description": "Sovereign RAG for regulated organizations: hybrid pgvector retrieval, cited and audited answers, local-first (Ollama), m",
-    "id": "Leroy-Guillaume/sovereign-rag",
-    "language": "Python",
-    "name": "Leroy-Guillaume/sovereign-rag",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:34:52Z",
-    "url": "https://github.com/Leroy-Guillaume/sovereign-rag"
-  },
-  {
-    "description": "LangGraph agent that diagnoses GitHub issues with cited RAG evidence \u2014 reasoning and execution separated by construction",
-    "id": "officialbidisha/ResolveFlow",
-    "language": "Python",
-    "name": "officialbidisha/ResolveFlow",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:24:18Z",
-    "url": "https://github.com/officialbidisha/ResolveFlow"
-  },
-  {
-    "description": "JUNJIE AI LAB \u2014 \u9a86\u4fca\u6770\u4e2a\u4eba\u4f5c\u54c1\u96c6\uff1aAI \u5e94\u7528\u5f00\u53d1\u5e08\uff08RAG / Agent / \u7aef\u4fa7 AI / Java \u5168\u6808\uff09",
-    "id": "defultljj/defultljj.github.io",
-    "language": "HTML",
-    "name": "defultljj/defultljj.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:24:11Z",
-    "url": "https://github.com/defultljj/defultljj.github.io"
   }
 ]
