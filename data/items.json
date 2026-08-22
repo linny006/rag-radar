@@ -1,5 +1,23 @@
 [
   {
+    "description": "Resume search API using LangChain, RAG, PostgreSQL/pgvector, FastAPI. Search candidates with natural language ",
+    "id": "priyabrat8/profilematch-api",
+    "language": "Python",
+    "name": "priyabrat8/profilematch-api",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:59:36Z",
+    "url": "https://github.com/priyabrat8/profilematch-api"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T16:59:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multilingual RAG assistant for public-service navigation (English / Bahasa Malaysia / Indonesian): grounded answers with",
     "id": "traoremakan483-prog/civicbridge-ai",
     "language": "Python",
@@ -14,8 +32,17 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3257,
-    "updated_at": "2026-08-22T16:58:47Z",
+    "updated_at": "2026-08-22T16:59:01Z",
     "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "\u7d22\u9690 - Enterprise RAG Knowledge Platform",
+    "id": "1y4w1s/rag-knowledge-platform",
+    "language": "Python",
+    "name": "1y4w1s/rag-knowledge-platform",
+    "stars": 1,
+    "updated_at": "2026-08-22T16:58:39Z",
+    "url": "https://github.com/1y4w1s/rag-knowledge-platform"
   },
   {
     "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
@@ -63,6 +90,15 @@
     "url": "https://github.com/Krzysztof318/MailFathom"
   },
   {
+    "description": "The Facts protocol reference SDK written in Rust.",
+    "id": "facts-kms/sdk",
+    "language": "Rust",
+    "name": "facts-kms/sdk",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:57:21Z",
+    "url": "https://github.com/facts-kms/sdk"
+  },
+  {
     "description": "Local-first AI agent memory, your agent's brain is an Obsidian vault you can open, read, and edit",
     "id": "hasil7677/mimir",
     "language": "Python",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19126,
-    "updated_at": "2026-08-22T16:57:47Z",
+    "updated_at": "2026-08-22T17:00:11Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -126,7 +162,7 @@
     "url": "https://github.com/majiali423/lumenfin-agent"
   },
   {
-    "description": "\u7121\u6599\u306e\u30ed\u30fc\u30ab\u30ebAI\u30a4\u30f3\u30b9\u30c8\u30fc\u30e9\u3002\u30c0\u30d6\u30eb\u30af\u30ea\u30c3\u30af\u4e00\u767a\u30fb\u521d\u671f\u8a2d\u5b9a\u306a\u3057\u3067\u3001\u30c1\u30e3\u30c3\u30c8\u30fbRAG\uff08\u6587\u66f8\u8cea\u554f\uff09\u30fbWeb\u691c\u7d22\u304c\u4f7f\u3048\u308bWindows\u5411\u3051\u30ed\u30fc\u30ab\u30ebAI\u74b0\u5883\uff08Ollama + Open WebUI + qwen3.5\uff09",
+    "description": "\u793e\u5185\u898f\u5b9a\u30fb\u696d\u52d9\u30de\u30cb\u30e5\u30a2\u30eb\u3092\u30ca\u30ec\u30c3\u30b8\u5316\u3057\u3066\u793e\u5185Q&A\u3092\u5b9f\u73fe\u3059\u308bWindows\u30ed\u30fc\u30ab\u30ebAI\u30c4\u30fc\u30eb\u3002RAG\uff08\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u691c\u7d22: BM25+\u30d9\u30af\u30c8\u30eb\uff09\u30fbbge-m3\u30fb\u30cf\u30eb\u30b7\u30cd\u30fc\u30b7\u30e7\u30f3\u6291\u5236\u30d7\u30ed\u30f3\u30d7\u30c8\u30fb\u7528\u9014\u5225\u30d7\u30ea\u30bb\u30c3\u30c8\uff08\u7d4c\u8cbb\u7cbe\u7b97\u30ac\u30a4\u30c9/IT\u30d8\u30eb\u30d7\u30c7\u30b9\u30af",
     "id": "Shineos/shineos-qa-assistant",
     "language": "Python",
     "name": "Shineos/shineos-qa-assistant",
@@ -149,7 +185,7 @@
     "language": "JavaScript",
     "name": "rajesh-kayal-dev/contextiq",
     "stars": 0,
-    "updated_at": "2026-08-22T16:55:44Z",
+    "updated_at": "2026-08-22T16:59:59Z",
     "url": "https://github.com/rajesh-kayal-dev/contextiq"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "ningkaikok/dotty-tutor",
     "stars": 1,
-    "updated_at": "2026-08-22T16:50:49Z",
+    "updated_at": "2026-08-22T16:59:22Z",
     "url": "https://github.com/ningkaikok/dotty-tutor"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/francescoveryra-dot/deepscout"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T16:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -414,15 +441,6 @@
     "url": "https://github.com/cidade360/mneme-memory-forge"
   },
   {
-    "description": "Resume search API using LangChain, RAG, PostgreSQL/pgvector, FastAPI. Search candidates with natural language ",
-    "id": "priyabrat8/profilematch-api",
-    "language": "Python",
-    "name": "priyabrat8/profilematch-api",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:43:23Z",
-    "url": "https://github.com/priyabrat8/profilematch-api"
-  },
-  {
     "description": "\u8bc1\u636e\u9a71\u52a8\u7684\u591a Agent \u81ea\u7531\u884c\u89c4\u5212\u7cfb\u7edf\uff1a\u5e76\u53d1\u53d6\u8bc1\u3001Planner\u2013Verifier\u2013Repair\u3001\u52a8\u6001\u91cd\u89c4\u5212\u4e0e\u53ea\u8bfb OTA \u5b9e\u9a8c\u63a5\u5165",
     "id": "Oxygen56/TripChord",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T16:42:48Z",
     "url": "https://github.com/Oxygen56/TripChord"
-  },
-  {
-    "description": "Multi-source RAG with hybrid retrieval, reciprocal-rank fusion, reranking, source weighting, and claim-level conflict de",
-    "id": "Pangqiang-Gary/multi_source_rag",
-    "language": "Python",
-    "name": "Pangqiang-Gary/multi_source_rag",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:42:12Z",
-    "url": "https://github.com/Pangqiang-Gary/multi_source_rag"
-  },
-  {
-    "description": "A RAG assistant that answers diabetes questions only from verified ADA, WHO and IDF clinical guidelines, cites every ans",
-    "id": "IqraDilbarAi/diabetes-guidelines-assistant",
-    "language": "Python",
-    "name": "IqraDilbarAi/diabetes-guidelines-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:41:50Z",
-    "url": "https://github.com/IqraDilbarAi/diabetes-guidelines-assistant"
   }
 ]
