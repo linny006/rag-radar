@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI Reliability Strategist \u2014 Production RAG, agent workflows, and AI reliability tools for founders and small teams.",
+    "id": "FishRaposo/FishRaposo",
+    "language": "\u2014",
+    "name": "FishRaposo/FishRaposo",
+    "stars": 0,
+    "updated_at": "2026-08-22T20:00:14Z",
+    "url": "https://github.com/FishRaposo/FishRaposo"
+  },
+  {
+    "description": "JANE \u2014 a local-first AI assistant you can interrupt mid-sentence. Four agents, four voices, real web search, document me",
+    "id": "pranavbibra100/jane-assistant",
+    "language": "Python",
+    "name": "pranavbibra100/jane-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-22T19:59:56Z",
+    "url": "https://github.com/pranavbibra100/jane-assistant"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-08-22T19:59:48Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Open-source clinical market intelligence for biopharma \u2014 the AlphaSense/Cortellis alternative you can self-host. LangGra",
+    "id": "JAGAN666/OpenBio-Intel",
+    "language": "Python",
+    "name": "JAGAN666/OpenBio-Intel",
+    "stars": 1,
+    "updated_at": "2026-08-22T19:59:05Z",
+    "url": "https://github.com/JAGAN666/OpenBio-Intel"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T19:59:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Maisonn\u00e9e \u2014 everything a household keeps alive, and a memory that can answer for it. Projects, journal, documents, money",
+    "id": "jammindev/maisonnee",
+    "language": "Python",
+    "name": "jammindev/maisonnee",
+    "stars": 0,
+    "updated_at": "2026-08-22T19:58:54Z",
+    "url": "https://github.com/jammindev/maisonnee"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19127,
-    "updated_at": "2026-08-22T19:58:49Z",
+    "updated_at": "2026-08-22T20:00:17Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 6,
     "updated_at": "2026-08-22T19:58:00Z",
     "url": "https://github.com/antonyrag/ragleap-core"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-22T19:57:29Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "CLI agent for all",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "strikersam/autonomous-ai-agency",
     "stars": 7,
-    "updated_at": "2026-08-22T19:53:03Z",
+    "updated_at": "2026-08-22T19:59:38Z",
     "url": "https://github.com/strikersam/autonomous-ai-agency"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T19:52:23Z",
     "url": "https://github.com/Vishal202-rgb/ResearchAI-MultiAgent"
-  },
-  {
-    "description": "JANE \u2014 a local-first AI assistant you can interrupt mid-sentence. Four agents, four voices, real web search, document me",
-    "id": "pranavbibra100/jane-assistant",
-    "language": "Python",
-    "name": "pranavbibra100/jane-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-22T19:52:06Z",
-    "url": "https://github.com/pranavbibra100/jane-assistant"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "Deodat-Lawson/LaunchStack",
     "stars": 885,
-    "updated_at": "2026-08-22T19:48:12Z",
+    "updated_at": "2026-08-22T19:59:49Z",
     "url": "https://github.com/Deodat-Lawson/LaunchStack"
   },
   {
@@ -374,7 +410,7 @@
     "language": "TypeScript",
     "name": "mukeremshifa/conversekit",
     "stars": 2,
-    "updated_at": "2026-08-22T19:47:01Z",
+    "updated_at": "2026-08-22T19:59:37Z",
     "url": "https://github.com/mukeremshifa/conversekit"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 3257,
     "updated_at": "2026-08-22T19:57:07Z",
     "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T19:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T19:42:12Z",
     "url": "https://github.com/HelgDemidov/refigure"
-  },
-  {
-    "description": "The giant database of institutional knowledge hidden in your code",
-    "id": "kbhalerao/code-smriti",
-    "language": "Python",
-    "name": "kbhalerao/code-smriti",
-    "stars": 3,
-    "updated_at": "2026-08-22T19:41:34Z",
-    "url": "https://github.com/kbhalerao/code-smriti"
-  },
-  {
-    "description": "Open-source AI support agent for Discord, Slack, and GitHub. Auto-answers repeat questions from your knowledge base, esc",
-    "id": "AnswerLoops/answerLoops",
-    "language": "TypeScript",
-    "name": "AnswerLoops/answerLoops",
-    "stars": 0,
-    "updated_at": "2026-08-22T19:40:35Z",
-    "url": "https://github.com/AnswerLoops/answerLoops"
-  },
-  {
-    "description": "Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one ",
-    "id": "Atmosphere/atmosphere",
-    "language": "Java",
-    "name": "Atmosphere/atmosphere",
-    "stars": 3795,
-    "updated_at": "2026-08-22T19:45:00Z",
-    "url": "https://github.com/Atmosphere/atmosphere"
   }
 ]
