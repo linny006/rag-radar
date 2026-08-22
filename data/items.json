@@ -1,5 +1,104 @@
 [
   {
+    "description": "Fast, pure-Python full-text indexing and search. Actively maintained continuation of Whoosh / whoosh-reloaded. Install: ",
+    "id": "priya-sundaram-dev/whoosh",
+    "language": "Python",
+    "name": "priya-sundaram-dev/whoosh",
+    "stars": 27,
+    "updated_at": "2026-08-22T22:17:26Z",
+    "url": "https://github.com/priya-sundaram-dev/whoosh"
+  },
+  {
+    "description": "Self-hosted RAG platform - Next.js, FastAPI, Supabase pgvector, Clerk auth",
+    "id": "Kushwaha-Hemant/RAGForge-Document_Search",
+    "language": "TypeScript",
+    "name": "Kushwaha-Hemant/RAGForge-Document_Search",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:17:20Z",
+    "url": "https://github.com/Kushwaha-Hemant/RAGForge-Document_Search"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T22:17:02Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 2,
+    "updated_at": "2026-08-22T22:16:49Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-22T22:16:40Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "\ud83e\udde0 Production-grade GraphRAG monorepo powering an AI digital twin. Features Next.js 15, FastAPI, LangGraph agentic correc",
+    "id": "AhmedCoolProjects/GraphRAGPortfolio",
+    "language": "MDX",
+    "name": "AhmedCoolProjects/GraphRAGPortfolio",
+    "stars": 1,
+    "updated_at": "2026-08-22T22:16:28Z",
+    "url": "https://github.com/AhmedCoolProjects/GraphRAGPortfolio"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 341,
+    "updated_at": "2026-08-22T22:15:57Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19127,
+    "updated_at": "2026-08-22T22:15:52Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T22:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T22:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:14:41Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
     "description": "Open-source AI support agent for Discord, Slack, and GitHub. Auto-answers repeat questions from your knowledge base, esc",
     "id": "AnswerLoops/answerLoops",
     "language": "TypeScript",
@@ -36,15 +135,6 @@
     "url": "https://github.com/neomjs/neo"
   },
   {
-    "description": "\ud83e\udde0 Production-grade GraphRAG monorepo powering an AI digital twin. Features Next.js 15, FastAPI, LangGraph agentic correc",
-    "id": "AhmedCoolProjects/GraphRAGPortfolio",
-    "language": "MDX",
-    "name": "AhmedCoolProjects/GraphRAGPortfolio",
-    "stars": 1,
-    "updated_at": "2026-08-22T22:14:57Z",
-    "url": "https://github.com/AhmedCoolProjects/GraphRAGPortfolio"
-  },
-  {
     "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
     "id": "jee3m/augmentative-knowledge-hooks",
     "language": "HTML",
@@ -70,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T22:11:38Z",
     "url": "https://github.com/dcyfr-labs/dcyfr-ai-rag"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19127,
-    "updated_at": "2026-08-22T22:15:15Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Enterprise knowledge intelligence platform. Permission aware search, assistant and agents over the tools a company alrea",
@@ -117,6 +198,15 @@
     "url": "https://github.com/javi2481/claimprint"
   },
   {
+    "description": "AI technology recommendation tool for software projects.",
+    "id": "aashika116/Tech-Pilot-navigate-your-technology-choices",
+    "language": "CSS",
+    "name": "aashika116/Tech-Pilot-navigate-your-technology-choices",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:08:25Z",
+    "url": "https://github.com/aashika116/Tech-Pilot-navigate-your-technology-choices"
+  },
+  {
     "description": "RAG-based PDF question-answering chatbot using LangChain, IBM watsonx.ai, Chroma vector storage, and Gradio for grounded",
     "id": "ToddString/IBM-rag-pdf-qa-chatbot",
     "language": "Python",
@@ -140,7 +230,7 @@
     "language": "Python",
     "name": "Peuqui/AIfred-Intelligence",
     "stars": 35,
-    "updated_at": "2026-08-22T22:07:21Z",
+    "updated_at": "2026-08-22T22:17:05Z",
     "url": "https://github.com/Peuqui/AIfred-Intelligence"
   },
   {
@@ -232,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T22:01:21Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T22:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Almanac \u2014 internal-docs RAG chatbot. Laravel + Filament + FastAPI + Next.js + pgvector. ACL, citations, gap report, prom",
@@ -376,77 +448,5 @@
     "stars": 4781,
     "updated_at": "2026-08-22T22:10:04Z",
     "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
-    "id": "juspay/neurolink",
-    "language": "TypeScript",
-    "name": "juspay/neurolink",
-    "stars": 122,
-    "updated_at": "2026-08-22T22:08:44Z",
-    "url": "https://github.com/juspay/neurolink"
-  },
-  {
-    "description": "\u00dcniversite belgelerini analiz ederek ders, \u00f6\u011fretim \u00fcyesi, s\u0131nav tarihi ve akademik takvim gibi bilgilere h\u0131zl\u0131ca ula\u015fman",
-    "id": "caglarsapmaz/CampusAI",
-    "language": "Python",
-    "name": "caglarsapmaz/CampusAI",
-    "stars": 0,
-    "updated_at": "2026-08-22T21:49:13Z",
-    "url": "https://github.com/caglarsapmaz/CampusAI"
-  },
-  {
-    "description": "Agentic system for situation report, secondary reviews, weekly bulletin, proposal writing and more",
-    "id": "serkankzlrmk/sightline",
-    "language": "Python",
-    "name": "serkankzlrmk/sightline",
-    "stars": 0,
-    "updated_at": "2026-08-22T21:48:56Z",
-    "url": "https://github.com/serkankzlrmk/sightline"
-  },
-  {
-    "description": "A lightweight Python RAG engine for ingesting, retrieving, and generating answers from documents.",
-    "id": "enoquesousa/py-rag-engine",
-    "language": "Python",
-    "name": "enoquesousa/py-rag-engine",
-    "stars": 2,
-    "updated_at": "2026-08-22T21:48:11Z",
-    "url": "https://github.com/enoquesousa/py-rag-engine"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-08-22T21:46:12Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "MCP server for semantic hybrid search (sqlite-vec + FTS5 with optional cross-encoder reranking) over a Markdown / plain-",
-    "id": "alphabet-h/grooveseek",
-    "language": "Rust",
-    "name": "alphabet-h/grooveseek",
-    "stars": 3,
-    "updated_at": "2026-08-22T22:13:44Z",
-    "url": "https://github.com/alphabet-h/grooveseek"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-22T21:44:49Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI Chat & WhatsApp agent platform - answer, qualify and convert customers 24/7",
-    "id": "OraOneHQ/oraone-web",
-    "language": "JavaScript",
-    "name": "OraOneHQ/oraone-web",
-    "stars": 0,
-    "updated_at": "2026-08-22T21:43:59Z",
-    "url": "https://github.com/OraOneHQ/oraone-web"
   }
 ]
