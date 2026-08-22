@@ -1,11 +1,110 @@
 [
   {
+    "description": "Open-source clinical market intelligence for biopharma \u2014 the AlphaSense/Cortellis alternative you can self-host. LangGra",
+    "id": "JAGAN666/OpenBio-Intel",
+    "language": "Python",
+    "name": "JAGAN666/OpenBio-Intel",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:46:08Z",
+    "url": "https://github.com/JAGAN666/OpenBio-Intel"
+  },
+  {
+    "description": "Control Claude from WeChat to read files, run commands, and edit code on your computer",
+    "id": "Harsh-Kumar-Tyagi/Wechat-Claude-bot",
+    "language": "\u2014",
+    "name": "Harsh-Kumar-Tyagi/Wechat-Claude-bot",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:45:56Z",
+    "url": "https://github.com/Harsh-Kumar-Tyagi/Wechat-Claude-bot"
+  },
+  {
+    "description": "Offline memory layer for Claude Code that indexes local session history and enables fast hybrid search (keyword + semant",
+    "id": "elarsaks/local-lore",
+    "language": "Python",
+    "name": "elarsaks/local-lore",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:45:54Z",
+    "url": "https://github.com/elarsaks/local-lore"
+  },
+  {
+    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
+    "id": "Arasz/ai-raccoon",
+    "language": "C#",
+    "name": "Arasz/ai-raccoon",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:45:54Z",
+    "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
+    "id": "Deafened-vascularstructure846/pageindex-rag",
+    "language": "Python",
+    "name": "Deafened-vascularstructure846/pageindex-rag",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:45:41Z",
+    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
+  },
+  {
+    "description": "Build Claude Code skills for computational design, parametric modeling, simulation, BIM scripting, and fabrication in AE",
+    "id": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
+    "language": "Python",
+    "name": "marcinfinitesimal533/Claude-skills-for-Computational-Designers",
+    "stars": 2,
+    "updated_at": "2026-08-22T17:45:30Z",
+    "url": "https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers"
+  },
+  {
+    "description": "Evaluate B2B vendors by talking to AI agents and verifying claims against independent sources to score what is true and ",
+    "id": "Zorineinsupportable217/buyer-eval-skill",
+    "language": "Shell",
+    "name": "Zorineinsupportable217/buyer-eval-skill",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:45:27Z",
+    "url": "https://github.com/Zorineinsupportable217/buyer-eval-skill"
+  },
+  {
+    "description": "Retrieval-augmented Q&A service for large personal knowledge bases \u2014 FastAPI, Qdrant, hybrid retrieval with reranking, a",
+    "id": "manishsharma0398/documind",
+    "language": "Python",
+    "name": "manishsharma0398/documind",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:45:24Z",
+    "url": "https://github.com/manishsharma0398/documind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T17:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "INTERVION is a fully local, real-time AI interview simulator built for developers and students preparing for technical i",
+    "id": "dhurv-gpt499/INTERVION-ai-interview-system",
+    "language": "Python",
+    "name": "dhurv-gpt499/INTERVION-ai-interview-system",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:45:22Z",
+    "url": "https://github.com/dhurv-gpt499/INTERVION-ai-interview-system"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T17:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Turn Spark/Hive SQL into structured, traceable facts for Agents, RAG, and AI knowledge bases.",
     "id": "realyin/scope-lineage",
     "language": "Python",
     "name": "realyin/scope-lineage",
     "stars": 2,
-    "updated_at": "2026-08-22T17:45:06Z",
+    "updated_at": "2026-08-22T17:45:41Z",
     "url": "https://github.com/realyin/scope-lineage"
   },
   {
@@ -72,22 +171,22 @@
     "url": "https://github.com/Unfed-parenthesisfreenotation627/cag-service"
   },
   {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:44:27Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19126,
-    "updated_at": "2026-08-22T17:44:05Z",
+    "updated_at": "2026-08-22T17:46:20Z",
     "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Open-source agentic workspace for professional knowledge work with project memory, client memory, skills, and knowledge ",
+    "id": "guoliang1114-boop/AriaAI",
+    "language": "Python",
+    "name": "guoliang1114-boop/AriaAI",
+    "stars": 37,
+    "updated_at": "2026-08-22T17:44:03Z",
+    "url": "https://github.com/guoliang1114-boop/AriaAI"
   },
   {
     "description": "Graxon: Open-Source Agentic Hybrid RAG to eliminate hallucinations through a persistent Knowledge Graph layer.",
@@ -115,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T17:43:51Z",
     "url": "https://github.com/Sebastian3909/obsidian-web-mcp"
-  },
-  {
-    "description": "Retrieval-augmented Q&A service for large personal knowledge bases \u2014 FastAPI, Qdrant, hybrid retrieval with reranking, a",
-    "id": "manishsharma0398/documind",
-    "language": "Python",
-    "name": "manishsharma0398/documind",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:44:04Z",
-    "url": "https://github.com/manishsharma0398/documind"
   },
   {
     "description": "Analise a Reforma Tribut\u00e1ria com IA e dados da web em tempo real para responder sobre IBS, CBS, transi\u00e7\u00e3o e impacto fisc",
@@ -270,15 +360,6 @@
     "url": "https://github.com/Pitchclassarachnida290/origin-lang"
   },
   {
-    "description": "INTERVION is a fully local, real-time AI interview simulator built for developers and students preparing for technical i",
-    "id": "dhurv-gpt499/INTERVION-ai-interview-system",
-    "language": "Python",
-    "name": "dhurv-gpt499/INTERVION-ai-interview-system",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:41:55Z",
-    "url": "https://github.com/dhurv-gpt499/INTERVION-ai-interview-system"
-  },
-  {
     "description": "Generate BERT-compatible text embeddings locally in Rust without Python or external ML runtimes using a simple, efficien",
     "id": "minniwoodsy325/hypembed",
     "language": "Rust",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T17:40:29Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Deliver precise document retrieval using Monte Carlo Tree Search for PDF and folder-based question answering without vec",
-    "id": "Tech-Wizard007/alphasearch",
-    "language": "HTML",
-    "name": "Tech-Wizard007/alphasearch",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:40:17Z",
-    "url": "https://github.com/Tech-Wizard007/alphasearch"
-  },
-  {
-    "description": "Sync real-time data between PostgreSQL and frontends using a reactive graph engine with built-in WebSocket support for G",
-    "id": "syed-sadiq-hussaini/Arcana",
-    "language": "Go",
-    "name": "syed-sadiq-hussaini/Arcana",
-    "stars": 2,
-    "updated_at": "2026-08-22T17:40:09Z",
-    "url": "https://github.com/syed-sadiq-hussaini/Arcana"
-  },
-  {
-    "description": "\u2696\ufe0f AI-powered legal-tech platform for chargesheet analysis, investigation checklist verification, including RAG-based co",
-    "id": "kareena0229/chargesheet-ai-assistant",
-    "language": "TypeScript",
-    "name": "kareena0229/chargesheet-ai-assistant",
-    "stars": 2,
-    "updated_at": "2026-08-22T17:40:09Z",
-    "url": "https://github.com/kareena0229/chargesheet-ai-assistant"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:40:00Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "Local AI Assistant",
-    "id": "timmyy123/LLM-Hub",
-    "language": "C++",
-    "name": "timmyy123/LLM-Hub",
-    "stars": 558,
-    "updated_at": "2026-08-22T17:39:59Z",
-    "url": "https://github.com/timmyy123/LLM-Hub"
-  },
-  {
-    "description": "Enterprise knowledge intelligence platform. Permission aware search, assistant and agents over the tools a company alrea",
-    "id": "tamnd/genba",
-    "language": "Go",
-    "name": "tamnd/genba",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:39:50Z",
-    "url": "https://github.com/tamnd/genba"
-  },
-  {
-    "description": "Automate repeated Claude Code workflows by capturing and converting them into reusable skills for faster, consistent tas",
-    "id": "NaghamYehya/claude-recall",
-    "language": "Python",
-    "name": "NaghamYehya/claude-recall",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:39:37Z",
-    "url": "https://github.com/NaghamYehya/claude-recall"
-  },
-  {
-    "description": "Build and manage AI-driven workspaces using Next.js, React, and TypeScript with customizable UI and MIT licensing.",
-    "id": "ipsam40/recall-ai",
-    "language": "TypeScript",
-    "name": "ipsam40/recall-ai",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:39:20Z",
-    "url": "https://github.com/ipsam40/recall-ai"
-  },
-  {
-    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
-    "id": "justForever17/v8-agent-os",
-    "language": "Python",
-    "name": "justForever17/v8-agent-os",
-    "stars": 2,
-    "updated_at": "2026-08-22T17:39:13Z",
-    "url": "https://github.com/justForever17/v8-agent-os"
   }
 ]
