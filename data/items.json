@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T19:44:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
@@ -34,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-22T19:43:54Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "RAG system over a real gym chain's data \u2014 hybrid retrieval (pgvector + trigram, RRF), local embeddings, FastAPI + Telegr",
+    "id": "radei4ko/crossgym-rag",
+    "language": "Python",
+    "name": "radei4ko/crossgym-rag",
+    "stars": 0,
+    "updated_at": "2026-08-22T19:43:42Z",
+    "url": "https://github.com/radei4ko/crossgym-rag"
   },
   {
     "description": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia ",
@@ -104,7 +122,7 @@
     "language": "Java",
     "name": "Atmosphere/atmosphere",
     "stars": 3795,
-    "updated_at": "2026-08-22T19:44:18Z",
+    "updated_at": "2026-08-22T19:45:00Z",
     "url": "https://github.com/Atmosphere/atmosphere"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T19:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-oriented AI automation system with LLM routing, RAG, CRM integrations, safety controls, and 104 automated tes",
     "id": "3amrmoazz/enterprise-ai-automation",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T19:28:38Z",
     "url": "https://github.com/bouc-io/memory-api-server"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-22T19:27:54Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
