@@ -1,12 +1,12 @@
 [
   {
-    "description": "Grounded, auditable context layer for enterprise agents: a deterministic path for exact facts + Elasticsearch hybrid ret",
-    "id": "cdevarenne/grounded-context-jvm",
-    "language": "Java",
-    "name": "cdevarenne/grounded-context-jvm",
+    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
+    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "language": "JavaScript",
+    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
     "stars": 0,
-    "updated_at": "2026-08-22T03:14:24Z",
-    "url": "https://github.com/cdevarenne/grounded-context-jvm"
+    "updated_at": "2026-08-22T03:15:01Z",
+    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
   },
   {
     "description": "Grounded, auditable context layer for enterprise agents: a deterministic path for exact facts + Elasticsearch hybrid ret",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "cdevarenne/grounded-context",
     "stars": 0,
-    "updated_at": "2026-08-22T03:13:33Z",
+    "updated_at": "2026-08-22T03:14:51Z",
     "url": "https://github.com/cdevarenne/grounded-context"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T03:14:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Grounded, auditable context layer for enterprise agents: a deterministic path for exact facts + Elasticsearch hybrid ret",
+    "id": "cdevarenne/grounded-context-jvm",
+    "language": "Java",
+    "name": "cdevarenne/grounded-context-jvm",
+    "stars": 0,
+    "updated_at": "2026-08-22T03:14:24Z",
+    "url": "https://github.com/cdevarenne/grounded-context-jvm"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19117,
-    "updated_at": "2026-08-22T03:14:13Z",
+    "updated_at": "2026-08-22T03:14:47Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T03:02:03Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
-  },
-  {
-    "description": "Build and operate production-grade AI agent systems through this 22-chapter technical course designed for collaborative ",
-    "id": "120th-westgermany829/agentic-ai-system-course",
-    "language": "Shell",
-    "name": "120th-westgermany829/agentic-ai-system-course",
-    "stars": 2,
-    "updated_at": "2026-08-22T03:01:55Z",
-    "url": "https://github.com/120th-westgermany829/agentic-ai-system-course"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-22T03:01:17Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
