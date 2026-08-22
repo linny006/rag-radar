@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T15:44:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "CONFENGE operational governance and source of truth. Canonical authority for the commercial catalog, strategic directive",
+    "id": "tjsasakifln/Governance",
+    "language": "TypeScript",
+    "name": "tjsasakifln/Governance",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:44:47Z",
+    "url": "https://github.com/tjsasakifln/Governance"
+  },
+  {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
     "id": "vgp7758/Agt",
     "language": "Python",
@@ -16,6 +34,15 @@
     "stars": 10,
     "updated_at": "2026-08-22T15:44:29Z",
     "url": "https://github.com/Smart-AI-Memory/attune-ai"
+  },
+  {
+    "description": "AI security testing \u2014 find security vulnerabilities in LLM apps, chatbots, AI agents, MCP servers, and RAG systems. Mapp",
+    "id": "YangYang-Research/yang-promptlab",
+    "language": "Rust",
+    "name": "YangYang-Research/yang-promptlab",
+    "stars": 1,
+    "updated_at": "2026-08-22T15:44:24Z",
+    "url": "https://github.com/YangYang-Research/yang-promptlab"
   },
   {
     "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
@@ -97,15 +124,6 @@
     "stars": 122,
     "updated_at": "2026-08-22T15:44:45Z",
     "url": "https://github.com/juspay/neurolink"
-  },
-  {
-    "description": "CONFENGE operational governance and source of truth. Canonical authority for the commercial catalog, strategic directive",
-    "id": "tjsasakifln/Governance",
-    "language": "TypeScript",
-    "name": "tjsasakifln/Governance",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:41:23Z",
-    "url": "https://github.com/tjsasakifln/Governance"
   },
   {
     "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
@@ -405,15 +423,6 @@
     "url": "https://github.com/au1bhi/NoteLLM"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T15:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
     "id": "markfietje/brain-server",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 136,
     "updated_at": "2026-08-22T15:29:11Z",
     "url": "https://github.com/r-uby-dev/llm"
-  },
-  {
-    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
-    "id": "acipaaa/context-llm-chunks",
-    "language": "HTML",
-    "name": "acipaaa/context-llm-chunks",
-    "stars": 1,
-    "updated_at": "2026-08-22T15:28:19Z",
-    "url": "https://github.com/acipaaa/context-llm-chunks"
   }
 ]
