@@ -1,12 +1,138 @@
 [
   {
+    "description": "Turn Spark/Hive SQL into structured, traceable facts for Agents, RAG, and AI knowledge bases.",
+    "id": "realyin/scope-lineage",
+    "language": "Python",
+    "name": "realyin/scope-lineage",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:02:17Z",
+    "url": "https://github.com/realyin/scope-lineage"
+  },
+  {
+    "description": "\ud83d\udd0d Validate healthcare billing packages for NFZ efficiently, reducing rejections and accelerating reimbursements with sma",
+    "id": "merlow1337/Priqualis",
+    "language": "Python",
+    "name": "merlow1337/Priqualis",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:01:51Z",
+    "url": "https://github.com/merlow1337/Priqualis"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video generation with ComfyUI-LTXVideo by leveraging custom nodes for the LTX-2 model, improving your creative",
+    "id": "Ponlawat/ComfyUI-LTXVideo",
+    "language": "Python",
+    "name": "Ponlawat/ComfyUI-LTXVideo",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:01:43Z",
+    "url": "https://github.com/Ponlawat/ComfyUI-LTXVideo"
+  },
+  {
+    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
+    "id": "caura-ai/caura",
+    "language": "Python",
+    "name": "caura-ai/caura",
+    "stars": 440,
+    "updated_at": "2026-08-23T14:01:21Z",
+    "url": "https://github.com/caura-ai/caura"
+  },
+  {
+    "description": "\ud83e\udde0 Empower AI agents with instant knowledge of your business using structured markdown files for consistent, accurate out",
+    "id": "pallavi-borra/context-engine",
+    "language": "\u2014",
+    "name": "pallavi-borra/context-engine",
+    "stars": 4,
+    "updated_at": "2026-08-23T14:01:14Z",
+    "url": "https://github.com/pallavi-borra/context-engine"
+  },
+  {
+    "description": "MCP server that lets Claude Code and other AI agents work through large PDFs, and whole folders of them, without overflo",
+    "id": "jztan/pdf-mcp",
+    "language": "Python",
+    "name": "jztan/pdf-mcp",
+    "stars": 116,
+    "updated_at": "2026-08-23T14:01:04Z",
+    "url": "https://github.com/jztan/pdf-mcp"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:00:59Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:00:57Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "\ud83e\udd16 Analyze fintech data with an AI Junior Data Scientist Agent that performs EDA and churn modeling, all powered by a loc",
+    "id": "Maranh0/ai-junior-data_scientist",
+    "language": "Python",
+    "name": "Maranh0/ai-junior-data_scientist",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:00:56Z",
+    "url": "https://github.com/Maranh0/ai-junior-data_scientist"
+  },
+  {
     "description": "Agentic Retrieval Augmented Generation for arXiv paper curation",
     "id": "MMADUs/arXiv_co-work",
     "language": "Python",
     "name": "MMADUs/arXiv_co-work",
     "stars": 0,
-    "updated_at": "2026-08-23T13:59:44Z",
+    "updated_at": "2026-08-23T14:00:50Z",
     "url": "https://github.com/MMADUs/arXiv_co-work"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\uddbc\ufe0f Discover high-quality AI prompts for image, text, and video generation, curated by Guizang to enhance your creative p",
+    "id": "aribsh/guizang-s-prompt",
+    "language": "\u2014",
+    "name": "aribsh/guizang-s-prompt",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:00:13Z",
+    "url": "https://github.com/aribsh/guizang-s-prompt"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3258,
+    "updated_at": "2026-08-23T14:02:10Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:00:07Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
     "description": "Graxon: First Open-Source Hybrid RAG to eliminate hallucinations through a persistent Knowledge Graph layer.",
@@ -149,17 +275,8 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19137,
-    "updated_at": "2026-08-23T13:57:24Z",
+    "updated_at": "2026-08-23T14:02:06Z",
     "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-23T13:57:06Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -279,15 +396,6 @@
     "url": "https://github.com/Shravan4598/ChatBot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T13:53:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Compare recursive, sliding window, and semantic text chunking strategies for RAG.",
     "id": "kariannss/rag-chunking-benchmark",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 2524,
     "updated_at": "2026-08-23T13:53:17Z",
     "url": "https://github.com/Agent-Field/agentfield"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:53:06Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\ude80 Build a secure, scalable Retrieval-Augmented Generation microservice with LangChain, AWS Bedrock, and Pinecone using s",
-    "id": "Dani36034550/langchain_bedrock_lambda",
-    "language": "Python",
-    "name": "Dani36034550/langchain_bedrock_lambda",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:52:50Z",
-    "url": "https://github.com/Dani36034550/langchain_bedrock_lambda"
-  },
-  {
-    "description": "Autonomous Data Science Agent combining ML, RAG, LLM-powered explanations, automated EDA, model benchmarking, and intell",
-    "id": "noohkhan7232/Autonomous-Unified-Reasoning-Analytics-Data-Science-Agent",
-    "language": "Python",
-    "name": "noohkhan7232/Autonomous-Unified-Reasoning-Analytics-Data-Science-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:52:48Z",
-    "url": "https://github.com/noohkhan7232/Autonomous-Unified-Reasoning-Analytics-Data-Science-Agent"
-  },
-  {
-    "description": "",
-    "id": "lukas121212112/AgentGuide",
-    "language": "HTML",
-    "name": "lukas121212112/AgentGuide",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:52:40Z",
-    "url": "https://github.com/lukas121212112/AgentGuide"
-  },
-  {
-    "description": "A local-first AI learning assistant that turns browser videos and local media into grounded, structured study notes.",
-    "id": "hurry060215-tech/learnnote-assistant",
-    "language": "Python",
-    "name": "hurry060215-tech/learnnote-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:52:35Z",
-    "url": "https://github.com/hurry060215-tech/learnnote-assistant"
-  },
-  {
-    "description": "A local-first workspace for chat, private knowledge, artifacts, and isolated model-driven work. Self-hosted. Provider-fl",
-    "id": "libre-webui/libre-webui",
-    "language": "TypeScript",
-    "name": "libre-webui/libre-webui",
-    "stars": 68,
-    "updated_at": "2026-08-23T13:52:14Z",
-    "url": "https://github.com/libre-webui/libre-webui"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-23T13:52:08Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI Chat & WhatsApp agent platform - answer, qualify and convert customers 24/7",
-    "id": "OraOneHQ/oraone-web",
-    "language": "JavaScript",
-    "name": "OraOneHQ/oraone-web",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:52:07Z",
-    "url": "https://github.com/OraOneHQ/oraone-web"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and explore memory mechanisms for Large and Multimodal Language Models through curated systems, benchmarks, a",
-    "id": "not-a-skid/Awesome-Agent-Memory",
-    "language": "\u2014",
-    "name": "not-a-skid/Awesome-Agent-Memory",
-    "stars": 3,
-    "updated_at": "2026-08-23T13:52:05Z",
-    "url": "https://github.com/not-a-skid/Awesome-Agent-Memory"
-  },
-  {
-    "description": "EchoMind is a memory-augmented AI assistant that combines LLMs, RAG, tool calling, and persistent memory to deliver cont",
-    "id": "Pappokhan/Echo_Mind",
-    "language": "Python",
-    "name": "Pappokhan/Echo_Mind",
-    "stars": 1,
-    "updated_at": "2026-08-23T13:51:58Z",
-    "url": "https://github.com/Pappokhan/Echo_Mind"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4791,
-    "updated_at": "2026-08-23T13:55:22Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "Multi-tenant AI agent runtime in Rust based on the Cordis framework",
-    "id": "dirmacs/ares",
-    "language": "Rust",
-    "name": "dirmacs/ares",
-    "stars": 15,
-    "updated_at": "2026-08-23T13:51:38Z",
-    "url": "https://github.com/dirmacs/ares"
   }
 ]
