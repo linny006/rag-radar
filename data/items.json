@@ -1,5 +1,86 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:16:18Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI Chat + AI Agentic-Coding + Websearch with agentic search support",
+    "id": "Waldemar-Koch-git/KiConnect",
+    "language": "Python",
+    "name": "Waldemar-Koch-git/KiConnect",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:15:53Z",
+    "url": "https://github.com/Waldemar-Koch-git/KiConnect"
+  },
+  {
+    "description": "\u9762\u5411\u4e2d\u8001\u5e74\u529f\u80fd\u98df\u54c1\u98df\u80b2\u79d1\u666e\u7684\u8f7b\u91cf\u5316\u4e2d\u6587\u6307\u4ee4\u6570\u636e\u96c6\u4e0e\u8bc4\u6d4b\uff08\u8bba\u6587\u914d\u5957\u4ee3\u7801\u5e93\uff09",
+    "id": "liaowaijian001/ElderFoodLLM",
+    "language": "Python",
+    "name": "liaowaijian001/ElderFoodLLM",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:15:47Z",
+    "url": "https://github.com/liaowaijian001/ElderFoodLLM"
+  },
+  {
+    "description": "Show an AI coding assistant only the code that matters for the change it's making. Measures whether it actually works on",
+    "id": "trakshan-mishra/Diffcontext",
+    "language": "Python",
+    "name": "trakshan-mishra/Diffcontext",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:15:41Z",
+    "url": "https://github.com/trakshan-mishra/Diffcontext"
+  },
+  {
+    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
+    "id": "caura-ai/caura",
+    "language": "Python",
+    "name": "caura-ai/caura",
+    "stars": 441,
+    "updated_at": "2026-08-23T17:16:10Z",
+    "url": "https://github.com/caura-ai/caura"
+  },
+  {
+    "description": "Framework-free grounded research agent: trust-separated retrieval, citations, abstention, and redacted receipts. Portfol",
+    "id": "camerontjs-dot/grounded-agent-lab",
+    "language": "Python",
+    "name": "camerontjs-dot/grounded-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:15:33Z",
+    "url": "https://github.com/camerontjs-dot/grounded-agent-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:15:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:15:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Read PDFAI-powered RAG Technical Assistant for Engineering. Automates PDF parsing, semantic chunking, and technical summ",
+    "id": "egarciav99/PdfTechAssistant",
+    "language": "TypeScript",
+    "name": "egarciav99/PdfTechAssistant",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:15:14Z",
+    "url": "https://github.com/egarciav99/PdfTechAssistant"
+  },
+  {
     "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
     "id": "inite-ai/inite-brain-service",
     "language": "TypeScript",
@@ -27,13 +108,13 @@
     "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research"
   },
   {
-    "description": "Framework-free grounded research agent: trust-separated retrieval, citations, abstention, and redacted receipts. Portfol",
-    "id": "camerontjs-dot/grounded-agent-lab",
+    "description": "Production-oriented AI automation system with LLM routing, RAG, CRM integrations, safety controls, and 104 automated tes",
+    "id": "3amrmoazz/enterprise-ai-automation",
     "language": "Python",
-    "name": "camerontjs-dot/grounded-agent-lab",
+    "name": "3amrmoazz/enterprise-ai-automation",
     "stars": 0,
-    "updated_at": "2026-08-23T17:14:22Z",
-    "url": "https://github.com/camerontjs-dot/grounded-agent-lab"
+    "updated_at": "2026-08-23T17:14:43Z",
+    "url": "https://github.com/3amrmoazz/enterprise-ai-automation"
   },
   {
     "description": "Fast, pure-Python full-text indexing and search. Actively maintained continuation of Whoosh / whoosh-reloaded. Install: ",
@@ -61,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-08-23T17:13:31Z",
     "url": "https://github.com/cryptoxinu/Recap"
+  },
+  {
+    "description": "A chatbot that only talks in memes \u2014 LLM intent routing (Groq/Ollama), RAG template retrieval, multimodal vision, and re",
+    "id": "Moulik04/memegpt",
+    "language": "Python",
+    "name": "Moulik04/memegpt",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:13:05Z",
+    "url": "https://github.com/Moulik04/memegpt"
   },
   {
     "description": "Claims Intelligence kernel. Shipped instance: BYMA financial statements. Typed claims are the source of truth; RAG chat ",
@@ -144,15 +234,6 @@
     "url": "https://github.com/serkankzlrmk/sightline"
   },
   {
-    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
-    "id": "caura-ai/caura",
-    "language": "Python",
-    "name": "caura-ai/caura",
-    "stars": 441,
-    "updated_at": "2026-08-23T17:11:50Z",
-    "url": "https://github.com/caura-ai/caura"
-  },
-  {
     "description": "Transform and optimize your markdown documentation for Large Language Models (LLMs) and RAG systems. Generate llms.txt a",
     "id": "mensfeld/llm-docs-builder",
     "language": "Ruby",
@@ -160,15 +241,6 @@
     "stars": 95,
     "updated_at": "2026-08-23T17:11:08Z",
     "url": "https://github.com/mensfeld/llm-docs-builder"
-  },
-  {
-    "description": "AI Chat + AI Agentic-Coding + Websearch with agentic search support",
-    "id": "Waldemar-Koch-git/KiConnect",
-    "language": "Python",
-    "name": "Waldemar-Koch-git/KiConnect",
-    "stars": 2,
-    "updated_at": "2026-08-23T17:10:41Z",
-    "url": "https://github.com/Waldemar-Koch-git/KiConnect"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -230,7 +302,7 @@
     "language": "Go",
     "name": "Protocol-Lattice/go-agent",
     "stars": 253,
-    "updated_at": "2026-08-23T17:15:04Z",
+    "updated_at": "2026-08-23T17:16:18Z",
     "url": "https://github.com/Protocol-Lattice/go-agent"
   },
   {
@@ -333,15 +405,6 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "\u9762\u5411\u4e2d\u8001\u5e74\u529f\u80fd\u98df\u54c1\u98df\u80b2\u79d1\u666e\u7684\u8f7b\u91cf\u5316\u4e2d\u6587\u6307\u4ee4\u6570\u636e\u96c6\u4e0e\u8bc4\u6d4b\uff08\u8bba\u6587\u914d\u5957\u4ee3\u7801\u5e93\uff09",
-    "id": "liaowaijian001/ElderFoodLLM",
-    "language": "Python",
-    "name": "liaowaijian001/ElderFoodLLM",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:05:29Z",
-    "url": "https://github.com/liaowaijian001/ElderFoodLLM"
-  },
-  {
     "description": "Policy question answering tool with clause-level citations and explicit refusal \u2014 Brite Spark 2026 hackathon submission",
     "id": "iamdeepak2005/clause-anchor",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:03:54Z",
     "url": "https://github.com/raghu298/learn"
-  },
-  {
-    "description": "Native and Private ML inference engine, embeddings, classification, reranking, search, and text generation. Rust core wi",
-    "id": "olafurjohannsson/kjarni",
-    "language": "Rust",
-    "name": "olafurjohannsson/kjarni",
-    "stars": 36,
-    "updated_at": "2026-08-23T17:03:53Z",
-    "url": "https://github.com/olafurjohannsson/kjarni"
-  },
-  {
-    "description": "AI Chat & WhatsApp agent platform - answer, qualify and convert customers 24/7",
-    "id": "OraOneHQ/oraone-web",
-    "language": "JavaScript",
-    "name": "OraOneHQ/oraone-web",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:03:40Z",
-    "url": "https://github.com/OraOneHQ/oraone-web"
-  },
-  {
-    "description": "AI \u306e\u305f\u3081\u306e\u77e5\u8b58\u30d9\u30fc\u30b9\u3002Wikipedia\u30fbOpenStreetMap\u30fbGeoNames \u306e\u516c\u5f0f\u30c0\u30f3\u30d7\u3092 SQLite (FTS5) \u306b\u7d22\u5f15\u3057\u3001MCP \u3068 REST \u3067 AI \u306b\u5f15\u304b\u305b\u308b\u3002AI \u304c\u66f8\u304d\u8db3\u305b\u308b notes \u3068\u3001Chiezo ",
-    "id": "rtcode337/chiezo",
-    "language": "Python",
-    "name": "rtcode337/chiezo",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:03:22Z",
-    "url": "https://github.com/rtcode337/chiezo"
-  },
-  {
-    "description": "Show an AI coding assistant only the code that matters for the change it's making. Measures whether it actually works on",
-    "id": "trakshan-mishra/Diffcontext",
-    "language": "Python",
-    "name": "trakshan-mishra/Diffcontext",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:02:36Z",
-    "url": "https://github.com/trakshan-mishra/Diffcontext"
-  },
-  {
-    "description": "An AI-powered F1 race analytics assistant combining PyTorch predictions, RAG, and LLM tool-calling",
-    "id": "EliDehaene01/FormulaOne",
-    "language": "Python",
-    "name": "EliDehaene01/FormulaOne",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:02:28Z",
-    "url": "https://github.com/EliDehaene01/FormulaOne"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 341,
-    "updated_at": "2026-08-23T17:01:59Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
-    "id": "PersonaliAI/chatty",
-    "language": "TypeScript",
-    "name": "PersonaliAI/chatty",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:01:58Z",
-    "url": "https://github.com/PersonaliAI/chatty"
   }
 ]
