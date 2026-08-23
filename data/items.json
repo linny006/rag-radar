@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19139,
+    "updated_at": "2026-08-23T14:59:48Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:59:28Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:59:09Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "DeepThink-AIOS is a fully local, multi-agent System with dual-sandbox code/logic verification, ChromaDB RAG memory, and ",
     "id": "Arpit104147/DeepThink-AIOS",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 6,
     "updated_at": "2026-08-23T14:58:45Z",
     "url": "https://github.com/Arpit104147/DeepThink-AIOS"
+  },
+  {
+    "description": "An enterprise-grade AI assistant platform built with FastAPI, the OpenAI Responses API, Anthropic Claude, Google Gemini,",
+    "id": "OlehDatsyk/ai-assistant-platform",
+    "language": "Python",
+    "name": "OlehDatsyk/ai-assistant-platform",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:58:42Z",
+    "url": "https://github.com/OlehDatsyk/ai-assistant-platform"
   },
   {
     "description": "Production-grade, multi-tenant Agentic RAG platform featuring LangGraph CRAG orchestration, hybrid dense/sparse vector r",
@@ -25,6 +61,33 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:58:31Z",
     "url": "https://github.com/SaiyedSaizan/AIwatch"
+  },
+  {
+    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
+    "id": "arkanere/solar-app",
+    "language": "PLpgSQL",
+    "name": "arkanere/solar-app",
+    "stars": 0,
+    "updated_at": "2026-08-23T14:58:26Z",
+    "url": "https://github.com/arkanere/solar-app"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:58:21Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 6258,
+    "updated_at": "2026-08-23T15:00:11Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
     "description": "Pinakes \u2014 a portable, agent-first knowledge base. One directory = one KB.",
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T14:54:43Z",
     "url": "https://github.com/pranavbibra100/jane-assistant"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19139,
-    "updated_at": "2026-08-23T14:59:02Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Local multimodal RAG for PDFs: MinerU, Jina CLIP, FAISS, BM25, BGE reranking and Ollama. Runs on your hardware via CLI, ",
@@ -360,15 +414,6 @@
     "url": "https://github.com/javi2481/claimprint"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
     "id": "t02beurko-sys/ai-primer-for-everyone",
     "language": "HTML",
@@ -387,15 +432,6 @@
     "url": "https://github.com/forwaryan/rumor-checking"
   },
   {
-    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
-    "id": "arkanere/solar-app",
-    "language": "PLpgSQL",
-    "name": "arkanere/solar-app",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:58:26Z",
-    "url": "https://github.com/arkanere/solar-app"
-  },
-  {
     "description": "Russian IT Community Conversational Corpus (2018-2026) \u00b7 Zero-PII Curation Platform, Multi-turn SFT, DPO, RAG Knowledge ",
     "id": "wwewtech/russian-it-community-corpus",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 52,
     "updated_at": "2026-08-23T14:46:01Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-23T14:42:22Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "An enterprise-grade AI assistant platform built with FastAPI, the OpenAI Responses API, Anthropic Claude, Google Gemini,",
-    "id": "OlehDatsyk/ai-assistant-platform",
-    "language": "Python",
-    "name": "OlehDatsyk/ai-assistant-platform",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:58:42Z",
-    "url": "https://github.com/OlehDatsyk/ai-assistant-platform"
-  },
-  {
-    "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
-    "id": "krapcys1-maker/adaptive-agent-memory-research",
-    "language": "Python",
-    "name": "krapcys1-maker/adaptive-agent-memory-research",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:42:06Z",
-    "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research"
-  },
-  {
-    "description": "A production-level AI Assistant built using LangGraph, LangChain, Google Gemini, RAG, and Agentic AI architecture.",
-    "id": "Shravan4598/ChatBot",
-    "language": "Python",
-    "name": "Shravan4598/ChatBot",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:42:06Z",
-    "url": "https://github.com/Shravan4598/ChatBot"
   }
 ]
