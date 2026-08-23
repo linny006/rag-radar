@@ -1,5 +1,113 @@
 [
   {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:02:19Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "\u672c\u5730 RAG \u77e5\u8bc6\u5e93 \u2014\u2014 \u57fa\u4e8e LangGraph \u7684\u591a\u667a\u80fd\u4f53\u95ee\u7b54\u3001\u7ed3\u6784\u5316\u6458\u8981\u3001\u591a\u8bba\u6587\u5bf9\u6bd4\u5206\u6790\uff0c\u652f\u6301\u7ecf\u8fc7\u9a8c\u8bc1\u7684\u5f15\u7528\u6eaf\u6e90\uff0c\u4ee5\u53ca\u91c7\u7528 Rust \u539f\u751f\u5b9e\u73b0\u7684\u6df7\u5408\u641c\u7d22\u5f15\u64ce\u3002Local RAG knowledge base for research",
+    "id": "jikongabc/CogDoc",
+    "language": "Python",
+    "name": "jikongabc/CogDoc",
+    "stars": 16,
+    "updated_at": "2026-08-23T19:02:16Z",
+    "url": "https://github.com/jikongabc/CogDoc"
+  },
+  {
+    "description": "Pure TypeScript converters for 150+ file types, including DOCX, PDF, PPTX, XLSX, iWork, HWP, and email. Runs in Node, Ed",
+    "id": "mdgate/converters",
+    "language": "TypeScript",
+    "name": "mdgate/converters",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:01:47Z",
+    "url": "https://github.com/mdgate/converters"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-23T19:01:29Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Place where AI Agent memories matters",
+    "id": "atvirokodosprendimai/agentsmemory",
+    "language": "Go",
+    "name": "atvirokodosprendimai/agentsmemory",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:01:15Z",
+    "url": "https://github.com/atvirokodosprendimai/agentsmemory"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:00:51Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
+    "description": "Learn Java with current docs, including Java 25 JDK",
+    "id": "WilliamAGH/java-chat",
+    "language": "Java",
+    "name": "WilliamAGH/java-chat",
+    "stars": 2,
+    "updated_at": "2026-08-23T19:00:42Z",
+    "url": "https://github.com/WilliamAGH/java-chat"
+  },
+  {
+    "description": "A full-stack academic remote voting platform with secure authentication, electoral verification, secret-ballot workflow,",
+    "id": "badavathmadanlal/eVote-Telangana",
+    "language": "JavaScript",
+    "name": "badavathmadanlal/eVote-Telangana",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:00:32Z",
+    "url": "https://github.com/badavathmadanlal/eVote-Telangana"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7064,
+    "updated_at": "2026-08-23T19:00:20Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Toolkit for systematically probing, classifying, and debugging failure modes in LLM and RAG systems \u2014 reasoning errors, ",
+    "id": "Padraigobrien08/model-failure-lab",
+    "language": "Python",
+    "name": "Padraigobrien08/model-failure-lab",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:00:05Z",
+    "url": "https://github.com/Padraigobrien08/model-failure-lab"
+  },
+  {
     "description": "ERP juridico (LegalTech) em producao - busca de jurisprudencia, prazos, GED e RAG",
     "id": "Ruiz775/ementaai",
     "language": "TypeScript",
@@ -36,15 +144,6 @@
     "url": "https://github.com/khurram-uworx/StructRAG"
   },
   {
-    "description": "Toolkit for systematically probing, classifying, and debugging failure modes in LLM and RAG systems \u2014 reasoning errors, ",
-    "id": "Padraigobrien08/model-failure-lab",
-    "language": "Python",
-    "name": "Padraigobrien08/model-failure-lab",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:00:05Z",
-    "url": "https://github.com/Padraigobrien08/model-failure-lab"
-  },
-  {
     "description": "LangGraph router answering payments questions via text-to-SQL, pgvector RAG, or both \u2014 reconciled, with recovery. One Po",
     "id": "Sumit-Misra/hybrid-analytics-agent",
     "language": "Python",
@@ -52,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-23T18:58:25Z",
     "url": "https://github.com/Sumit-Misra/hybrid-analytics-agent"
+  },
+  {
+    "description": "Evidence-grounded financial diligence with LangGraph specialist nodes (planner-critic-repair), hybrid RAG, and FinRun ex",
+    "id": "majiali423/lumenfin-agent",
+    "language": "Python",
+    "name": "majiali423/lumenfin-agent",
+    "stars": 0,
+    "updated_at": "2026-08-23T18:58:19Z",
+    "url": "https://github.com/majiali423/lumenfin-agent"
   },
   {
     "description": "Research agent that cites Harbor notes or abstains. Typed state, labelled retrieval, read-only MCP tools, LangGraph wrap",
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "priyanchen/token-distiller",
     "stars": 0,
-    "updated_at": "2026-08-23T18:59:33Z",
+    "updated_at": "2026-08-23T19:02:13Z",
     "url": "https://github.com/priyanchen/token-distiller"
   },
   {
@@ -79,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T18:57:59Z",
     "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T18:57:54Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic RAG system built with LangGraph and GPT-4o. A ReAct agent routes queries between a hybrid retriever (BM25 + Chro",
@@ -135,6 +234,15 @@
     "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub"
   },
   {
+    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 29461,
+    "updated_at": "2026-08-23T18:56:45Z",
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
     "description": "Pitchmate AI Co-pilot is an agentic ai assistant which helps startup founders or people having a product in hand to anal",
     "id": "anand176/Pitchmate",
     "language": "JavaScript",
@@ -176,17 +284,8 @@
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
     "stars": 67275,
-    "updated_at": "2026-08-23T18:58:48Z",
+    "updated_at": "2026-08-23T19:01:10Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "Evidence-grounded financial diligence with LangGraph specialist nodes (planner-critic-repair), hybrid RAG, and FinRun ex",
-    "id": "majiali423/lumenfin-agent",
-    "language": "Python",
-    "name": "majiali423/lumenfin-agent",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:58:19Z",
-    "url": "https://github.com/majiali423/lumenfin-agent"
   },
   {
     "description": "An AI-powered F1 race analytics assistant combining PyTorch predictions, RAG, and LLM tool-calling",
@@ -243,15 +342,6 @@
     "url": "https://github.com/kenchengkc/the-financial-document-retrieval-engine"
   },
   {
-    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
-    "id": "CSE-Sudo-26/on-care",
-    "language": "Dart",
-    "name": "CSE-Sudo-26/on-care",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:54:47Z",
-    "url": "https://github.com/CSE-Sudo-26/on-care"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -275,7 +365,7 @@
     "language": "Python",
     "name": "wish-maker/minder",
     "stars": 4,
-    "updated_at": "2026-08-23T18:49:31Z",
+    "updated_at": "2026-08-23T19:02:06Z",
     "url": "https://github.com/wish-maker/minder"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 436,
     "updated_at": "2026-08-23T18:46:51Z",
     "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
-  },
-  {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
-    "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-08-23T18:46:49Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "Experimental RAG pipeline built from scratch on the raw OpenAI API \u2014 chunking strategies, retrieval evaluation, and an a",
-    "id": "skykamil/rag-experiment",
-    "language": "Python",
-    "name": "skykamil/rag-experiment",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:46:44Z",
-    "url": "https://github.com/skykamil/rag-experiment"
-  },
-  {
-    "description": "\u7d22\u9690 - Enterprise RAG Knowledge Platform",
-    "id": "1y4w1s/rag-knowledge-platform",
-    "language": "Python",
-    "name": "1y4w1s/rag-knowledge-platform",
-    "stars": 1,
-    "updated_at": "2026-08-23T18:46:43Z",
-    "url": "https://github.com/1y4w1s/rag-knowledge-platform"
-  },
-  {
-    "description": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
-    "id": "Berserk-hub150/moodle-ai-skill-navigator",
-    "language": "PHP",
-    "name": "Berserk-hub150/moodle-ai-skill-navigator",
-    "stars": 163,
-    "updated_at": "2026-08-23T18:46:34Z",
-    "url": "https://github.com/Berserk-hub150/moodle-ai-skill-navigator"
-  },
-  {
-    "description": "Open-source, agentic AI business manager \u2014 multi-agent RAG, AI Employees, Voice AI, CRM & multi-DB integrations, autonom",
-    "id": "antonyrag/ragleap-core",
-    "language": "Python",
-    "name": "antonyrag/ragleap-core",
-    "stars": 6,
-    "updated_at": "2026-08-23T18:46:30Z",
-    "url": "https://github.com/antonyrag/ragleap-core"
-  },
-  {
-    "description": "Production-grade multi-tenant AI workspace: RAG chat over private knowledge with measured faithfulness & refusal \u2014 built",
-    "id": "Sudeepxe/aether-ai-workspace",
-    "language": "Python",
-    "name": "Sudeepxe/aether-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:46:27Z",
-    "url": "https://github.com/Sudeepxe/aether-ai-workspace"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Sepehr Mahmoudian \u2014 AI/ML engineer in Berlin. Agentic systems, continual learning, knowledge graphs & RAG; roots in comp",
-    "id": "sepahead/sepahead",
-    "language": "JavaScript",
-    "name": "sepahead/sepahead",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:44:52Z",
-    "url": "https://github.com/sepahead/sepahead"
-  },
-  {
-    "description": "Feature-rich all-in-one self-hosted server & server fleet management (Web UI): patching, monitoring (agent + agentless/S",
-    "id": "tyxak/remotepower",
-    "language": "Python",
-    "name": "tyxak/remotepower",
-    "stars": 67,
-    "updated_at": "2026-08-23T18:45:45Z",
-    "url": "https://github.com/tyxak/remotepower"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-23T18:44:31Z",
-    "url": "https://github.com/kalisio/knowledge"
   }
 ]
