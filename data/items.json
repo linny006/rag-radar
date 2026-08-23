@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T03:59:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "wy-ai-labs factory control plane \u2014 catalog (sources \u2192 parts \u2192 blueprints \u2192 clients), standards, templates, mining & asse",
     "id": "wy-ai-labs/factory",
     "language": "JavaScript",
     "name": "wy-ai-labs/factory",
     "stars": 0,
-    "updated_at": "2026-08-23T03:53:56Z",
+    "updated_at": "2026-08-23T03:59:03Z",
     "url": "https://github.com/wy-ai-labs/factory"
+  },
+  {
+    "description": "A personal knowledge engine that synthesizes instead of transcribes \u2014 every claim carries a citation back to its source.",
+    "id": "stanleytejakusuma/alexandria",
+    "language": "Python",
+    "name": "stanleytejakusuma/alexandria",
+    "stars": 1,
+    "updated_at": "2026-08-23T03:58:42Z",
+    "url": "https://github.com/stanleytejakusuma/alexandria"
+  },
+  {
+    "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation",
+    "id": "guaardvark/guaardvark",
+    "language": "Python",
+    "name": "guaardvark/guaardvark",
+    "stars": 174,
+    "updated_at": "2026-08-23T03:57:56Z",
+    "url": "https://github.com/guaardvark/guaardvark"
+  },
+  {
+    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
+    "id": "inite-ai/inite-brain-service",
+    "language": "TypeScript",
+    "name": "inite-ai/inite-brain-service",
+    "stars": 32,
+    "updated_at": "2026-08-23T03:55:13Z",
+    "url": "https://github.com/inite-ai/inite-brain-service"
+  },
+  {
+    "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
+    "id": "haomingkoo/haomingkoo",
+    "language": "\u2014",
+    "name": "haomingkoo/haomingkoo",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:54:58Z",
+    "url": "https://github.com/haomingkoo/haomingkoo"
+  },
+  {
+    "description": "Turn Spark/Hive SQL into structured, traceable facts for Agents, RAG, and AI knowledge bases.",
+    "id": "realyin/scope-lineage",
+    "language": "Python",
+    "name": "realyin/scope-lineage",
+    "stars": 2,
+    "updated_at": "2026-08-23T03:54:47Z",
+    "url": "https://github.com/realyin/scope-lineage"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T03:54:06Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T03:52:14Z",
     "url": "https://github.com/Eduanbutedu/kobi-rag"
-  },
-  {
-    "description": "Turn Spark/Hive SQL into structured, traceable facts for Agents, RAG, and AI knowledge bases.",
-    "id": "realyin/scope-lineage",
-    "language": "Python",
-    "name": "realyin/scope-lineage",
-    "stars": 2,
-    "updated_at": "2026-08-23T03:53:28Z",
-    "url": "https://github.com/realyin/scope-lineage"
   },
   {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
@@ -167,7 +221,7 @@
     "language": "TypeScript",
     "name": "tjsasakifln/Governance",
     "stars": 0,
-    "updated_at": "2026-08-23T03:46:37Z",
+    "updated_at": "2026-08-23T03:59:03Z",
     "url": "https://github.com/tjsasakifln/Governance"
   },
   {
@@ -205,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T03:45:42Z",
     "url": "https://github.com/lindaf0617-hub/ai-knowledge-inbox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T03:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T03:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Rip'n Fast. Less Tokens. Better Code. The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server handing coding",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "HiRenan/senai-prescriptive-maintenance",
     "stars": 0,
-    "updated_at": "2026-08-23T03:46:45Z",
+    "updated_at": "2026-08-23T03:58:52Z",
     "url": "https://github.com/HiRenan/senai-prescriptive-maintenance"
   },
   {
@@ -306,21 +342,12 @@
     "url": "https://github.com/ChelseaKR/cairn"
   },
   {
-    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
-    "id": "inite-ai/inite-brain-service",
-    "language": "TypeScript",
-    "name": "inite-ai/inite-brain-service",
-    "stars": 32,
-    "updated_at": "2026-08-23T03:46:44Z",
-    "url": "https://github.com/inite-ai/inite-brain-service"
-  },
-  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19131,
-    "updated_at": "2026-08-23T03:53:52Z",
+    "updated_at": "2026-08-23T04:00:04Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T03:37:53Z",
     "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Multimodal video dossiers for agents: transcripts, frames, OCR, evidence, and RAG-ready knowledge.",
-    "id": "DeHor-Labs/transcreve-ai",
-    "language": "Python",
-    "name": "DeHor-Labs/transcreve-ai",
-    "stars": 1,
-    "updated_at": "2026-08-23T03:39:10Z",
-    "url": "https://github.com/DeHor-Labs/transcreve-ai"
-  },
-  {
-    "description": "Autonomous research org shipping measured, reproducible results on AI agent memory & reasoning \u2014 a public replication le",
-    "id": "DanceNitra/agora",
-    "language": "Python",
-    "name": "DanceNitra/agora",
-    "stars": 3,
-    "updated_at": "2026-08-23T03:35:38Z",
-    "url": "https://github.com/DanceNitra/agora"
-  },
-  {
-    "description": "An AI-powered Enterprise Agile OS that instantly translates raw client audio and notes into client pitch decks, PM epics",
-    "id": "mananp-2730/BridgeBuild-AI-PM-Tool",
-    "language": "Python",
-    "name": "mananp-2730/BridgeBuild-AI-PM-Tool",
-    "stars": 1,
-    "updated_at": "2026-08-23T03:35:19Z",
-    "url": "https://github.com/mananp-2730/BridgeBuild-AI-PM-Tool"
   }
 ]
