@@ -1,5 +1,50 @@
 [
   {
+    "description": "A local-first desktop workspace that turns your notes, documents, and workflows into context for AI.",
+    "id": "takeshy/gemihub-desktop",
+    "language": "TypeScript",
+    "name": "takeshy/gemihub-desktop",
+    "stars": 2,
+    "updated_at": "2026-08-23T23:45:10Z",
+    "url": "https://github.com/takeshy/gemihub-desktop"
+  },
+  {
+    "description": "Typed course document search that prioritizes learner deadlines.",
+    "id": "Qaelthir284605/edtech-embeddings-deadline-search",
+    "language": "TypeScript",
+    "name": "Qaelthir284605/edtech-embeddings-deadline-search",
+    "stars": 0,
+    "updated_at": "2026-08-23T23:45:05Z",
+    "url": "https://github.com/Qaelthir284605/edtech-embeddings-deadline-search"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3259,
+    "updated_at": "2026-08-23T23:45:04Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4795,
+    "updated_at": "2026-08-23T23:45:00Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T23:44:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "WordPress AI Chatbot plugin supporting OpenAI, Anthropic Claude, and Google Gemini.",
     "id": "rapls/rapls-ai-chatbot",
     "language": "PHP",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19139,
-    "updated_at": "2026-08-23T23:43:57Z",
+    "updated_at": "2026-08-23T23:45:02Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 442,
-    "updated_at": "2026-08-23T23:40:48Z",
+    "updated_at": "2026-08-23T23:44:55Z",
     "url": "https://github.com/caura-ai/caura"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/Amowixcode/pr-warden"
   },
   {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3259,
-    "updated_at": "2026-08-23T23:37:33Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-23T23:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T23:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted AI writing workspace for long-form fiction: Codex-tracked character/place continuity, RAG-backed scanning, w",
@@ -351,15 +378,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A local-first desktop workspace that turns your notes, documents, and workflows into context for AI.",
-    "id": "takeshy/gemihub-desktop",
-    "language": "TypeScript",
-    "name": "takeshy/gemihub-desktop",
-    "stars": 2,
-    "updated_at": "2026-08-23T23:25:48Z",
-    "url": "https://github.com/takeshy/gemihub-desktop"
-  },
-  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-23T23:22:17Z",
     "url": "https://github.com/goldenwo/universal-memory"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 52,
-    "updated_at": "2026-08-23T23:26:43Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:21:12Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
   }
 ]
