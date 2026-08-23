@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted Python platform that orchestrates, governs and evaluates AI workflows \u2014 FastAPI, PostgreSQL 16, Airflow, raw",
+    "id": "st3fansrb/kage.ai",
+    "language": "Python",
+    "name": "st3fansrb/kage.ai",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:30:16Z",
+    "url": "https://github.com/st3fansrb/kage.ai"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19139,
+    "updated_at": "2026-08-23T15:29:50Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Policy question answering tool with clause-level citations and explicit refusal \u2014 Brite Spark 2026 hackathon submission",
+    "id": "iamdeepak2005/clause-anchor",
+    "language": "Python",
+    "name": "iamdeepak2005/clause-anchor",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:29:49Z",
+    "url": "https://github.com/iamdeepak2005/clause-anchor"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:29:22Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:29:07Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "Yigtwxx/Yigtwxx",
     "language": "\u2014",
@@ -9,6 +54,33 @@
     "url": "https://github.com/Yigtwxx/Yigtwxx"
   },
   {
+    "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+    "id": "Manuelgr928/rusty-beaker",
+    "language": "HTML",
+    "name": "Manuelgr928/rusty-beaker",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:28:49Z",
+    "url": "https://github.com/Manuelgr928/rusty-beaker"
+  },
+  {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:28:48Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-23T15:28:45Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
     "description": "Persistent memory for AI coding agents \u2014 one verified kb_search replaces the grep/find/ls orientation loop. Cross-repo, ",
     "id": "ArihantDeva/heimdall",
     "language": "JavaScript",
@@ -16,6 +88,24 @@
     "stars": 29,
     "updated_at": "2026-08-23T15:28:21Z",
     "url": "https://github.com/ArihantDeva/heimdall"
+  },
+  {
+    "description": "Ask a film or an episode a question and get the answer back with the timecodes it came from. Local RAG over video: descr",
+    "id": "artem1014/plotline",
+    "language": "Python",
+    "name": "artem1014/plotline",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:28:21Z",
+    "url": "https://github.com/artem1014/plotline"
+  },
+  {
+    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
+    "id": "cidade360/mneme-memory-forge",
+    "language": "HTML",
+    "name": "cidade360/mneme-memory-forge",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:28:15Z",
+    "url": "https://github.com/cidade360/mneme-memory-forge"
   },
   {
     "description": "Self-hosted second brain: Telegram/API capture \u2192 classify \u2192 Markdown vault; RAG ask/digest, REST + MCP. MIT portfolio \u00b7 ",
@@ -117,15 +207,6 @@
     "url": "https://github.com/Sachin23991/dreamflow-rag-updater"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19139,
-    "updated_at": "2026-08-23T15:25:46Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "S.A.G.A. \u2014 Story Analysis, Generation, and Archives. Canon-aware narrative intelligence for analysis, retrieval, timelin",
     "id": "faresmohamed260/saga",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T15:23:54Z",
     "url": "https://github.com/kangAIGC/KnowFlow"
-  },
-  {
-    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
-    "id": "thangldw/ragops",
-    "language": "Python",
-    "name": "thangldw/ragops",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:28:48Z",
-    "url": "https://github.com/thangldw/ragops"
   },
   {
     "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
@@ -268,15 +340,6 @@
     "stars": 85,
     "updated_at": "2026-08-23T15:21:52Z",
     "url": "https://github.com/generalbots/generalbots"
-  },
-  {
-    "description": "Ask a film or an episode a question and get the answer back with the timecodes it came from. Local RAG over video: descr",
-    "id": "artem1014/plotline",
-    "language": "Python",
-    "name": "artem1014/plotline",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:28:21Z",
-    "url": "https://github.com/artem1014/plotline"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T15:16:44Z",
     "url": "https://github.com/andrestubbe/FastAIMemory"
-  },
-  {
-    "description": "Distills PDFs, photos, and repos into token-efficient context for LLM agents. Local OCR reads embedded diagrams, not jus",
-    "id": "priyanchen/token-distiller",
-    "language": "Python",
-    "name": "priyanchen/token-distiller",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:18:39Z",
-    "url": "https://github.com/priyanchen/token-distiller"
-  },
-  {
-    "description": "The epoch-making Agent Runtime OS. Features Zero-Trust firewalls, Omni-Memory Graph, dynamic MCP/Skills pre-filtering.",
-    "id": "justForever17/v8-agent-os",
-    "language": "Python",
-    "name": "justForever17/v8-agent-os",
-    "stars": 2,
-    "updated_at": "2026-08-23T15:16:23Z",
-    "url": "https://github.com/justForever17/v8-agent-os"
-  },
-  {
-    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
-    "id": "Faraz6180/Insightpilot-ai",
-    "language": "Python",
-    "name": "Faraz6180/Insightpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:16:16Z",
-    "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Intelligente Dokumentensuche & KI-Chat \u2014 lokal, privat, offline-f\u00e4hig. Electron + React + Qdrant + Ollama.",
-    "id": "Baldri/docmind-desktop",
-    "language": "TypeScript",
-    "name": "Baldri/docmind-desktop",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:14:29Z",
-    "url": "https://github.com/Baldri/docmind-desktop"
-  },
-  {
-    "description": "A Chrome extension that answers questions about a YouTube video using only the parts you have actually watched",
-    "id": "SaiyedSaizan/AIwatch",
-    "language": "TypeScript",
-    "name": "SaiyedSaizan/AIwatch",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:13:57Z",
-    "url": "https://github.com/SaiyedSaizan/AIwatch"
-  },
-  {
-    "description": "Show an AI coding assistant only the code that matters for the change it's making. Measures whether it actually works on",
-    "id": "trakshan-mishra/Diffcontext",
-    "language": "Python",
-    "name": "trakshan-mishra/Diffcontext",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:13:36Z",
-    "url": "https://github.com/trakshan-mishra/Diffcontext"
   }
 ]
