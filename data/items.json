@@ -1,5 +1,68 @@
 [
   {
+    "description": "Document-grounded Agentic RAG assistant for healthcare coverage and claims, built with LlamaIndex, Nebius, Qwen, Chroma,",
+    "id": "ermittals-glitch/Agentic-AI-Week2-RAG",
+    "language": "\u2014",
+    "name": "ermittals-glitch/Agentic-AI-Week2-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-23T00:00:14Z",
+    "url": "https://github.com/ermittals-glitch/Agentic-AI-Week2-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:59:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source civic intelligence platform for exploring India\u2019s official government, election, representative, project, fi",
+    "id": "vishwajitvm/LokTathya",
+    "language": "Python",
+    "name": "vishwajitvm/LokTathya",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:59:24Z",
+    "url": "https://github.com/vishwajitvm/LokTathya"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19127,
+    "updated_at": "2026-08-23T00:00:14Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-08-22T23:58:59Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T23:58:36Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 4,
+    "updated_at": "2026-08-22T23:58:32Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
     "description": "A local knowledge base your agents can read \u2014 and the engines that keep it honest. Computed themes, measured links, budg",
     "id": "Yyunozor/assayer-memory-mcp",
     "language": "\u2014",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T23:57:27Z",
     "url": "https://github.com/apresai/2ndbrain"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19127,
-    "updated_at": "2026-08-22T23:58:19Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Privacy-first AI scam detection for messages, screenshots, URLs, and browsers using Ollama, RAG, OCR, and real-time thre",
@@ -86,7 +140,7 @@
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-22T23:57:16Z",
+    "updated_at": "2026-08-22T23:59:32Z",
     "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first memory service for personal AI agents \u2014 evidence ingestion, semantic retrieval, and bounded context delivery",
     "id": "belka0fficial/memorygate",
     "language": "JavaScript",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T23:45:23Z",
     "url": "https://github.com/belka0fficial/memorygate"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T23:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T23:43:50Z",
     "url": "https://github.com/fabriciojunio/permaneia"
-  },
-  {
-    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
-    "id": "wish-maker/minder",
-    "language": "Python",
-    "name": "wish-maker/minder",
-    "stars": 4,
-    "updated_at": "2026-08-22T23:58:32Z",
-    "url": "https://github.com/wish-maker/minder"
   },
   {
     "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "juspay/neurolink",
     "stars": 122,
-    "updated_at": "2026-08-22T23:50:47Z",
+    "updated_at": "2026-08-22T23:59:51Z",
     "url": "https://github.com/juspay/neurolink"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-22T23:32:12Z",
     "url": "https://github.com/dirmacs/ares"
-  },
-  {
-    "description": "\uc9c8\uc758\ubcc4 \uac80\uc0c9 \ud504\ub85c\ud30c\uc77c \uc120\ud0dd\uc774 \uace0\uc815 \ud504\ub85c\ud30c\uc77c\ubcf4\ub2e4 \ub098\uc740\uac00 \u2014 \uc778\uc6a9 \uadfc\uac70\uc131 \uce21\uc815\uacfc \ub204\ucd9c \uc5c6\ub294 \ud3c9\uac00 \uc124\uacc4. 150 tests",
-    "id": "ohsewool/rag-profile-selector",
-    "language": "Python",
-    "name": "ohsewool/rag-profile-selector",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:31:27Z",
-    "url": "https://github.com/ohsewool/rag-profile-selector"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:31:02Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "Banking Document & Risk Intelligence Copilot \u2014 RAG chatbot on GCP, built entirely within free-tier limits. SEC filings i",
-    "id": "manishwvn/gcp-genai-banking-copilot",
-    "language": "Python",
-    "name": "manishwvn/gcp-genai-banking-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-22T23:29:35Z",
-    "url": "https://github.com/manishwvn/gcp-genai-banking-copilot"
   }
 ]
