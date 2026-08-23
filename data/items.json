@@ -1,5 +1,86 @@
 [
   {
+    "description": "Fully local AI for Polish legal case files - zero fabricated citations by construction. Free; please support a Wroclaw a",
+    "id": "AI4CharityPL/kancelaria-lex",
+    "language": "Python",
+    "name": "AI4CharityPL/kancelaria-lex",
+    "stars": 48,
+    "updated_at": "2026-08-23T21:17:15Z",
+    "url": "https://github.com/AI4CharityPL/kancelaria-lex"
+  },
+  {
+    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
+    "id": "felladrin/MiniSearch",
+    "language": "TypeScript",
+    "name": "felladrin/MiniSearch",
+    "stars": 581,
+    "updated_at": "2026-08-23T21:16:55Z",
+    "url": "https://github.com/felladrin/MiniSearch"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T21:16:48Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The giant database of institutional knowledge hidden in your code",
+    "id": "kbhalerao/code-smriti",
+    "language": "Python",
+    "name": "kbhalerao/code-smriti",
+    "stars": 3,
+    "updated_at": "2026-08-23T21:16:48Z",
+    "url": "https://github.com/kbhalerao/code-smriti"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-08-23T21:16:23Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "\ud83e\udd9e LightClaw: The Featherweight Core of OpenClaw \u2014 Your AI Agent in a Tiny Codebase \u2014 A lightweight OpenClaw alternative",
+    "id": "OthmaneBlial/lightclaw",
+    "language": "Python",
+    "name": "OthmaneBlial/lightclaw",
+    "stars": 20,
+    "updated_at": "2026-08-23T21:16:20Z",
+    "url": "https://github.com/OthmaneBlial/lightclaw"
+  },
+  {
+    "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM \u2014 nothing l",
+    "id": "johannes-kaindl/vault-rag",
+    "language": "TypeScript",
+    "name": "johannes-kaindl/vault-rag",
+    "stars": 1,
+    "updated_at": "2026-08-23T21:15:34Z",
+    "url": "https://github.com/johannes-kaindl/vault-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T21:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T21:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
     "id": "cidade360/mneme-memory-forge",
     "language": "HTML",
@@ -7,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T21:15:10Z",
     "url": "https://github.com/cidade360/mneme-memory-forge"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-23T21:14:47Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
     "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
@@ -45,24 +135,6 @@
     "url": "https://github.com/takeshy/gemihub"
   },
   {
-    "description": "\ud83e\udd9e LightClaw: The Featherweight Core of OpenClaw \u2014 Your AI Agent in a Tiny Codebase \u2014 A lightweight OpenClaw alternative",
-    "id": "OthmaneBlial/lightclaw",
-    "language": "Python",
-    "name": "OthmaneBlial/lightclaw",
-    "stars": 20,
-    "updated_at": "2026-08-23T21:13:48Z",
-    "url": "https://github.com/OthmaneBlial/lightclaw"
-  },
-  {
-    "description": "The giant database of institutional knowledge hidden in your code",
-    "id": "kbhalerao/code-smriti",
-    "language": "Python",
-    "name": "kbhalerao/code-smriti",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:13:16Z",
-    "url": "https://github.com/kbhalerao/code-smriti"
-  },
-  {
     "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
     "id": "atishay-kasliwal/atriveo-app",
     "language": "TypeScript",
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19139,
-    "updated_at": "2026-08-23T21:14:34Z",
+    "updated_at": "2026-08-23T21:16:43Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/josephkamau32/devintel"
   },
   {
-    "description": "Fully local AI for Polish legal case files - zero fabricated citations by construction. Free; please support a Wroclaw a",
-    "id": "AI4CharityPL/kancelaria-lex",
-    "language": "Python",
-    "name": "AI4CharityPL/kancelaria-lex",
-    "stars": 48,
-    "updated_at": "2026-08-23T21:09:11Z",
-    "url": "https://github.com/AI4CharityPL/kancelaria-lex"
-  },
-  {
     "description": "Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceD",
     "id": "ggozad/haiku.rag",
     "language": "Python",
@@ -223,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:07:25Z",
     "url": "https://github.com/gireeshvuyyuru501-design/enterprise-spark-neo4j-langgraph-rag"
-  },
-  {
-    "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM \u2014 nothing l",
-    "id": "johannes-kaindl/vault-rag",
-    "language": "TypeScript",
-    "name": "johannes-kaindl/vault-rag",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:06:13Z",
-    "url": "https://github.com/johannes-kaindl/vault-rag"
   },
   {
     "description": "TinyMetatron: quantum domain-adapted SLM with MoE, sparse attention, and quantum corpus RAG pipeline",
@@ -311,7 +365,7 @@
     "language": "Swift",
     "name": "Round-Tower/m1k3",
     "stars": 0,
-    "updated_at": "2026-08-23T21:03:33Z",
+    "updated_at": "2026-08-23T21:16:23Z",
     "url": "https://github.com/Round-Tower/m1k3"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:01:57Z",
     "url": "https://github.com/Saksham1205-tech/netproxy-index-v2"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:01:34Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Simplify codebase queries with AmanMCP\u2014your local RAG solution. Enjoy zero config and privacy-first features for seam",
-    "id": "sampi02/amanmcp",
-    "language": "C",
-    "name": "sampi02/amanmcp",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:01:21Z",
-    "url": "https://github.com/sampi02/amanmcp"
-  },
-  {
-    "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
-    "id": "krapcys1-maker/adaptive-agent-memory-research",
-    "language": "Python",
-    "name": "krapcys1-maker/adaptive-agent-memory-research",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:01:03Z",
-    "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research"
-  },
-  {
-    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
-    "id": "BugraAkdemir/memo",
-    "language": "Go",
-    "name": "BugraAkdemir/memo",
-    "stars": 6,
-    "updated_at": "2026-08-23T21:00:32Z",
-    "url": "https://github.com/BugraAkdemir/memo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
