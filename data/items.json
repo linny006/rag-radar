@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T22:00:08Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Delphi-native, MIT-licensed RAG + linter for Delphi/Pascal source code. Symbol-exact + fuzzy + tree-sitter lint. Pure De",
+    "id": "Alexl-git/Delphi-RAG-Lint",
+    "language": "Pascal",
+    "name": "Alexl-git/Delphi-RAG-Lint",
+    "stars": 16,
+    "updated_at": "2026-08-23T21:59:43Z",
+    "url": "https://github.com/Alexl-git/Delphi-RAG-Lint"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 14,
+    "updated_at": "2026-08-23T21:59:32Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
+    "id": "jasonssdev/openkos",
+    "language": "Python",
+    "name": "jasonssdev/openkos",
+    "stars": 2,
+    "updated_at": "2026-08-23T21:59:27Z",
+    "url": "https://github.com/jasonssdev/openkos"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T21:59:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-08-23T21:59:42Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
     "description": "Banking Document & Risk Intelligence Copilot \u2014 RAG chatbot on GCP, built entirely within free-tier limits. SEC filings i",
     "id": "manishwvn/gcp-genai-banking-copilot",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "OthmaneBlial/lightclaw",
     "stars": 20,
-    "updated_at": "2026-08-23T21:59:04Z",
+    "updated_at": "2026-08-23T22:00:09Z",
     "url": "https://github.com/OthmaneBlial/lightclaw"
   },
   {
@@ -207,24 +261,6 @@
     "url": "https://github.com/thomas-villani/all2md"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T21:45:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Projeto de plataforma de manuten\u00e7\u00e3o prescritiva com IA e RAG para ativos industriais.",
     "id": "HiRenan/senai-prescriptive-maintenance",
     "language": "Python",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:43:54Z",
     "url": "https://github.com/HiRenan/senai-prescriptive-maintenance"
-  },
-  {
-    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
-    "id": "XaviCode1000/webfang",
-    "language": "Rust",
-    "name": "XaviCode1000/webfang",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:52:23Z",
-    "url": "https://github.com/XaviCode1000/webfang"
   },
   {
     "description": "\ud83c\udf4b Local-first memory middleware for your Markdown \u2014 turn your Obsidian vault into memory for any AI (MCP), with Korean-f",
@@ -396,15 +423,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
-    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
-    "id": "jasonssdev/openkos",
-    "language": "Python",
-    "name": "jasonssdev/openkos",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:50:31Z",
-    "url": "https://github.com/jasonssdev/openkos"
-  },
-  {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
     "id": "acipaaa/context-llm-chunks",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:27:54Z",
     "url": "https://github.com/Manuelgr928/rusty-beaker"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:26:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 64,
-    "updated_at": "2026-08-23T21:26:22Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
   }
 ]
