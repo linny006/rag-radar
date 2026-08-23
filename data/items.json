@@ -1,5 +1,32 @@
 [
   {
+    "description": "Singapore job search and resume workflow with 76K+ live postings, RAG matching, ATS scoring, and validation-gated AI tai",
+    "id": "haomingkoo/job-hunter-sg",
+    "language": "Python",
+    "name": "haomingkoo/job-hunter-sg",
+    "stars": 5,
+    "updated_at": "2026-08-23T22:30:03Z",
+    "url": "https://github.com/haomingkoo/job-hunter-sg"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T22:29:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
+    "id": "acipaaa/context-llm-chunks",
+    "language": "HTML",
+    "name": "acipaaa/context-llm-chunks",
+    "stars": 1,
+    "updated_at": "2026-08-23T22:29:44Z",
+    "url": "https://github.com/acipaaa/context-llm-chunks"
+  },
+  {
     "description": "A conversational AI agent built with LangGraph and Google Gemini, with RAG-based document search (FAISS + embeddings) fo",
     "id": "sparsh97/ai-agent-learning",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Rust",
     "name": "paulnsorensen/hallouminate",
     "stars": 0,
-    "updated_at": "2026-08-23T22:29:41Z",
+    "updated_at": "2026-08-23T22:29:55Z",
     "url": "https://github.com/paulnsorensen/hallouminate"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "FastAPI RAG retrieval service with document ingestion, chunking, local vectorization, cosine-similarity search, API vali",
     "id": "gabryellewalker/rag-document-retrieval-api",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T22:07:41Z",
     "url": "https://github.com/OraOneHQ/oraone-web"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:07:12Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
-    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "language": "HTML",
-    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-23T22:07:02Z",
-    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
   }
 ]
