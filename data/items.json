@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T13:44:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A production-level AI Assistant built using LangGraph, LangChain, Google Gemini, RAG, and Agentic AI architecture.",
+    "id": "Shravan4598/ChatBot",
+    "language": "Python",
+    "name": "Shravan4598/ChatBot",
+    "stars": 1,
+    "updated_at": "2026-08-23T13:44:37Z",
+    "url": "https://github.com/Shravan4598/ChatBot"
+  },
+  {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
     "id": "mdhabibi/llm-search-handbook",
     "language": "Jupyter Notebook",
@@ -9,12 +27,21 @@
     "url": "https://github.com/mdhabibi/llm-search-handbook"
   },
   {
+    "description": "Self-hosted, 100% local AI platform \u2014 LLM inference, RAG, and knowledge graphs in one Docker stack. No API keys.",
+    "id": "wish-maker/minder",
+    "language": "Python",
+    "name": "wish-maker/minder",
+    "stars": 4,
+    "updated_at": "2026-08-23T13:44:28Z",
+    "url": "https://github.com/wish-maker/minder"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19136,
-    "updated_at": "2026-08-23T13:43:54Z",
+    "updated_at": "2026-08-23T13:44:51Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 15,
     "updated_at": "2026-08-23T13:43:46Z",
     "url": "https://github.com/AliceLJY/recallnest"
-  },
-  {
-    "description": "A production-level AI Assistant built using LangGraph, LangChain, Google Gemini, RAG, and Agentic AI architecture.",
-    "id": "Shravan4598/ChatBot",
-    "language": "Python",
-    "name": "Shravan4598/ChatBot",
-    "stars": 1,
-    "updated_at": "2026-08-23T13:44:37Z",
-    "url": "https://github.com/Shravan4598/ChatBot"
   },
   {
     "description": "Language-grounded robot autonomy: LLM intent parsing, SAM+CLIP perception and a traced LangGraph command policy over ROS",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "angelmtenor/ai-circus-framework",
     "stars": 1,
-    "updated_at": "2026-08-23T13:42:41Z",
+    "updated_at": "2026-08-23T13:45:08Z",
     "url": "https://github.com/angelmtenor/ai-circus-framework"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T13:35:00Z",
     "url": "https://github.com/VINAY7033/docu-query-assistant"
-  },
-  {
-    "description": "Autonomous Multi-Agent AI Platform for Personal Brand Growth. Scrapes tech trends, conducts deep research with fact-veri",
-    "id": "dineshkumar-mb/Brand-os-multi-agent",
-    "language": "TypeScript",
-    "name": "dineshkumar-mb/Brand-os-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:34:43Z",
-    "url": "https://github.com/dineshkumar-mb/Brand-os-multi-agent"
-  },
-  {
-    "description": "Permission-aware retrieval: the result count leaks what it hid. 17 documents revealed becomes 0 \u2014 and a relevance channe",
-    "id": "Raghu23-dev/onewayglass",
-    "language": "Python",
-    "name": "Raghu23-dev/onewayglass",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:34:31Z",
-    "url": "https://github.com/Raghu23-dev/onewayglass"
   }
 ]
