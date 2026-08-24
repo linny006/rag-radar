@@ -1,6 +1,42 @@
 [
   {
-    "description": "Source-backed AI engineering cheat sheets for models, RAG, agents, MCP, evals, multimodal systems, security, governance,",
+    "description": "Stateful multi-tool AI agent with Human-in-the-Loop (HITL) approval, RAG over PDFs, stock trading simulation, and persis",
+    "id": "Shubham-kumar1-hub/Multi-Tool-AI-Agent-using-Langgraph",
+    "language": "Python",
+    "name": "Shubham-kumar1-hub/Multi-Tool-AI-Agent-using-Langgraph",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:16:31Z",
+    "url": "https://github.com/Shubham-kumar1-hub/Multi-Tool-AI-Agent-using-Langgraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "279 cultural context cards for AI agents that did not grow up in Ukraine, but need to understand those who did.",
+    "id": "pandore/tse-zh-bulo-vzhe",
+    "language": "\u2014",
+    "name": "pandore/tse-zh-bulo-vzhe",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:15:25Z",
+    "url": "https://github.com/pandore/tse-zh-bulo-vzhe"
+  },
+  {
+    "description": "Decision-ready, source-backed cheat sheets for open-source AI: LLMs, RAG, agents, MCP, inference, fine-tuning, evals, ob",
     "id": "sraodev/awesome-opensource-ai-cheat-sheets",
     "language": "Python",
     "name": "sraodev/awesome-opensource-ai-cheat-sheets",
@@ -25,6 +61,15 @@
     "stars": 21,
     "updated_at": "2026-08-24T19:14:34Z",
     "url": "https://github.com/eleboucher/memini"
+  },
+  {
+    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
+    "id": "AnalyseDeCircuit/oxideterm",
+    "language": "Rust",
+    "name": "AnalyseDeCircuit/oxideterm",
+    "stars": 1337,
+    "updated_at": "2026-08-24T19:14:28Z",
+    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
   },
   {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
@@ -72,6 +117,15 @@
     "url": "https://github.com/mrkhachaturov/hindclaw"
   },
   {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:11:54Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
     "description": "What document noise does to RAG: retrieval recall holds steady at 0.98 while answer recoverability halves. 132 questions",
     "id": "lgoyal6/noisy-rag-bench",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T19:14:37Z",
     "url": "https://github.com/wulezhi-hui/boshi-memory-system"
-  },
-  {
-    "description": "279 cultural context cards for AI agents that did not grow up in Ukraine, but need to understand those who did.",
-    "id": "pandore/tse-zh-bulo-vzhe",
-    "language": "\u2014",
-    "name": "pandore/tse-zh-bulo-vzhe",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:15:23Z",
-    "url": "https://github.com/pandore/tse-zh-bulo-vzhe"
   },
   {
     "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "tobocop2/lilbee",
     "stars": 47,
-    "updated_at": "2026-08-24T19:12:38Z",
+    "updated_at": "2026-08-24T19:15:31Z",
     "url": "https://github.com/tobocop2/lilbee"
   },
   {
@@ -333,24 +378,6 @@
     "url": "https://github.com/cortexkit/aft"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T19:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T19:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MoziAI-35B: Local open-source financial AI LLM. 35B MoE model compressed to 15.5GB via MoziSmartBit quantization. 256K c",
     "id": "chenyumo166/moziAI-35B-A3B-MOE-MTP-Uncensored",
     "language": "Jinja",
@@ -387,15 +414,6 @@
     "url": "https://github.com/samuvm/citebound"
   },
   {
-    "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
-    "id": "AnalyseDeCircuit/oxideterm",
-    "language": "Rust",
-    "name": "AnalyseDeCircuit/oxideterm",
-    "stars": 1337,
-    "updated_at": "2026-08-24T19:14:28Z",
-    "url": "https://github.com/AnalyseDeCircuit/oxideterm"
-  },
-  {
     "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
     "id": "Smart-AI-Memory/attune-ai",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T19:03:16Z",
     "url": "https://github.com/XaviCode1000/webfang"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 2,
-    "updated_at": "2026-08-24T18:55:42Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "AI-powered SRE agent for homelab infrastructure monitoring, OODA sweeps, RAG memory, and remediation workflows",
-    "id": "aachtenberg/cfoperator",
-    "language": "Python",
-    "name": "aachtenberg/cfoperator",
-    "stars": 2,
-    "updated_at": "2026-08-24T18:55:40Z",
-    "url": "https://github.com/aachtenberg/cfoperator"
   }
 ]
