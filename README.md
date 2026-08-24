@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 23:59 UTC
+> ⏰ Last updated: 2026-08-24 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Mubder/kazma](https://github.com/Mubder/kazma) | 6 | Python | 2026-08-23 | Autonomous AI agent framework — LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety. |
-| 2 | [takeshy/gemihub-desktop](https://github.com/takeshy/gemihub-desktop) | 2 | TypeScript | 2026-08-23 | A local-first desktop workspace that turns your notes, documents, and workflows into context for AI. |
-| 3 | [alexvervloet/deep-dive-capstone](https://github.com/alexvervloet/deep-dive-capstone) | 1 | Python | 2026-08-23 | Codebase Q&A with (path:line) citations — the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st |
-| 4 | [srilakshmidasari843/Enterprise-Agentic-AI-Platform](https://github.com/srilakshmidasari843/Enterprise-Agentic-AI-Platform) | 0 | Python | 2026-08-23 | Production-oriented multi-agent AI platform with LangGraph, RAG, FAISS, Ollama, FastAPI, evaluation, observability, Dock |
-| 5 | [mauroforlin/gargantua](https://github.com/mauroforlin/gargantua) | 0 | Python | 2026-08-23 | Agentic RAG pipeline for biomedical evidence discovery: query planning and multi-round search across twelve public datab |
-| 6 | [dirmacs/ares](https://github.com/dirmacs/ares) | 15 | Rust | 2026-08-23 | Multi-tenant AI agent runtime in Rust based on the Cordis framework |
-| 7 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-23 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 8 | [EyaAzzabi/scoutable](https://github.com/EyaAzzabi/scoutable) | 0 | — | 2026-08-23 | Scouting & talent-identification platform for 17 under-scouted football leagues — data pipeline, entity resolution, play |
-| 9 | [francescoveryra-dot/deepscout](https://github.com/francescoveryra-dot/deepscout) | 1 | Python | 2026-08-23 | Open-source agentic research system with evidence-backed reports, hybrid RAG, and evaluations |
-| 10 | [memtomem/memtomem](https://github.com/memtomem/memtomem) | 13 | Python | 2026-08-23 | Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files  |
-| 11 | [cidade360/mneme-memory-forge](https://github.com/cidade360/mneme-memory-forge) | 1 | HTML | 2026-08-23 | 2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs |
-| 12 | [17861102832/wanyimem](https://github.com/17861102832/wanyimem) | 1 | Python | 2026-08-23 | 为了服务于大众 |
-| 13 | [RamonCintas/Find_Pets](https://github.com/RamonCintas/Find_Pets) | 1 | PHP | 2026-08-23 | ⚡ Find Pets Sistema Multiplataforma com Inteligência Artificial \| https://www.youtube.com/shorts/9PWKri_mIpI |
-| 14 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 15 | [caura-ai/caura](https://github.com/caura-ai/caura) | 442 | Python | 2026-08-23 | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier |
-| 16 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 52 | Rust | 2026-08-23 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 17 | [jorgell23-sys/mdcx](https://github.com/jorgell23-sys/mdcx) | 1 | Python | 2026-08-23 | Convert document collections to verified Markdown, package them encrypted, and expose them to agents over MCP |
-| 18 | [BugraAkdemir/memo](https://github.com/BugraAkdemir/memo) | 6 | Go | 2026-08-23 | Local-first AI assistant with real memory, agent tool use, and proactive habits — built with Go + Flutter. Runs fully of |
-| 19 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [Mubder/kazma](https://github.com/Mubder/kazma) | 6 | Python | 2026-08-24 | Autonomous AI agent framework — LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety. |
+| 2 | [francescoveryra-dot/deepscout](https://github.com/francescoveryra-dot/deepscout) | 1 | Python | 2026-08-23 | Open-source agentic research system with evidence-backed reports, hybrid RAG, and evaluations |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [takeshy/gemihub-desktop](https://github.com/takeshy/gemihub-desktop) | 2 | TypeScript | 2026-08-23 | A local-first desktop workspace that turns your notes, documents, and workflows into context for AI. |
+| 5 | [alexvervloet/deep-dive-capstone](https://github.com/alexvervloet/deep-dive-capstone) | 1 | Python | 2026-08-23 | Codebase Q&A with (path:line) citations — the capstone of a from-scratch AI-engineering series. Built in 8 eval-gated st |
+| 6 | [srilakshmidasari843/Enterprise-Agentic-AI-Platform](https://github.com/srilakshmidasari843/Enterprise-Agentic-AI-Platform) | 0 | Python | 2026-08-23 | Production-oriented multi-agent AI platform with LangGraph, RAG, FAISS, Ollama, FastAPI, evaluation, observability, Dock |
+| 7 | [mauroforlin/gargantua](https://github.com/mauroforlin/gargantua) | 0 | Python | 2026-08-23 | Agentic RAG pipeline for biomedical evidence discovery: query planning and multi-round search across twelve public datab |
+| 8 | [dirmacs/ares](https://github.com/dirmacs/ares) | 15 | Rust | 2026-08-23 | Multi-tenant AI agent runtime in Rust based on the Cordis framework |
+| 9 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-23 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 10 | [EyaAzzabi/scoutable](https://github.com/EyaAzzabi/scoutable) | 0 | — | 2026-08-23 | Scouting & talent-identification platform for 17 under-scouted football leagues — data pipeline, entity resolution, play |
+| 11 | [memtomem/memtomem](https://github.com/memtomem/memtomem) | 13 | Python | 2026-08-23 | Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files  |
+| 12 | [cidade360/mneme-memory-forge](https://github.com/cidade360/mneme-memory-forge) | 1 | HTML | 2026-08-23 | 2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs |
+| 13 | [17861102832/wanyimem](https://github.com/17861102832/wanyimem) | 1 | Python | 2026-08-23 | 为了服务于大众 |
+| 14 | [RamonCintas/Find_Pets](https://github.com/RamonCintas/Find_Pets) | 1 | PHP | 2026-08-23 | ⚡ Find Pets Sistema Multiplataforma com Inteligência Artificial \| https://www.youtube.com/shorts/9PWKri_mIpI |
+| 15 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 16 | [caura-ai/caura](https://github.com/caura-ai/caura) | 442 | Python | 2026-08-23 | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier |
+| 17 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 52 | Rust | 2026-08-23 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 18 | [jorgell23-sys/mdcx](https://github.com/jorgell23-sys/mdcx) | 1 | Python | 2026-08-23 | Convert document collections to verified Markdown, package them encrypted, and expose them to agents over MCP |
+| 19 | [BugraAkdemir/memo](https://github.com/BugraAkdemir/memo) | 6 | Go | 2026-08-23 | Local-first AI assistant with real memory, agent tool use, and proactive habits — built with Go + Flutter. Runs fully of |
 | 20 | [Round-Tower/m1k3](https://github.com/Round-Tower/m1k3) | 0 | Swift | 2026-08-23 | Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS — MLX inference, live voice, knowledge graph + RAG,  |
 | 21 | [Qaelthir284605/edtech-embeddings-deadline-search](https://github.com/Qaelthir284605/edtech-embeddings-deadline-search) | 0 | TypeScript | 2026-08-23 | Typed course document search that prioritizes learner deadlines. |
 | 22 | [neomjs/neo](https://github.com/neomjs/neo) | 3259 | JavaScript | 2026-08-23 | Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha |

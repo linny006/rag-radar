@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Mubder/kazma",
     "stars": 6,
-    "updated_at": "2026-08-23T23:57:32Z",
+    "updated_at": "2026-08-24T00:00:04Z",
     "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "Open-source agentic research system with evidence-backed reports, hybrid RAG, and evaluations",
+    "id": "francescoveryra-dot/deepscout",
+    "language": "Python",
+    "name": "francescoveryra-dot/deepscout",
+    "stars": 1,
+    "updated_at": "2026-08-23T23:59:17Z",
+    "url": "https://github.com/francescoveryra-dot/deepscout"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T23:59:05Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A local-first desktop workspace that turns your notes, documents, and workflows into context for AI.",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:53:03Z",
     "url": "https://github.com/EyaAzzabi/scoutable"
-  },
-  {
-    "description": "Open-source agentic research system with evidence-backed reports, hybrid RAG, and evaluations",
-    "id": "francescoveryra-dot/deepscout",
-    "language": "Python",
-    "name": "francescoveryra-dot/deepscout",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:53:16Z",
-    "url": "https://github.com/francescoveryra-dot/deepscout"
   },
   {
     "description": "Markdown-first, long-term memory infrastructure for AI agents. Hybrid BM25 + semantic search across markdown/code files ",
@@ -160,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-08-23T23:45:40Z",
     "url": "https://github.com/BugraAkdemir/memo"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T23:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS \u2014 MLX inference, live voice, knowledge graph + RAG, ",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19139,
-    "updated_at": "2026-08-23T23:56:29Z",
+    "updated_at": "2026-08-23T23:59:47Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
