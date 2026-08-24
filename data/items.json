@@ -1,11 +1,83 @@
 [
   {
+    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
+    "id": "LocketKeyLLC/scaffold-engine",
+    "language": "Python",
+    "name": "LocketKeyLLC/scaffold-engine",
+    "stars": 0,
+    "updated_at": "2026-08-24T22:44:59Z",
+    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
+  },
+  {
+    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 6,
+    "updated_at": "2026-08-24T22:44:17Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-08-24T22:44:01Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG,",
+    "id": "IgorGanapolsky/trading",
+    "language": "Python",
+    "name": "IgorGanapolsky/trading",
+    "stars": 38,
+    "updated_at": "2026-08-24T22:43:59Z",
+    "url": "https://github.com/IgorGanapolsky/trading"
+  },
+  {
+    "description": "Open-source adaptive AI learning platform. Learn anything. Remember everything.",
+    "id": "aislamsilvalol-ctrl/noema",
+    "language": "Python",
+    "name": "aislamsilvalol-ctrl/noema",
+    "stars": 0,
+    "updated_at": "2026-08-24T22:44:02Z",
+    "url": "https://github.com/aislamsilvalol-ctrl/noema"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T22:43:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T22:43:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-08-24T22:44:29Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
     "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
     "id": "Arasz/ai-raccoon",
     "language": "C#",
     "name": "Arasz/ai-raccoon",
     "stars": 1,
-    "updated_at": "2026-08-24T22:41:06Z",
+    "updated_at": "2026-08-24T22:45:03Z",
     "url": "https://github.com/Arasz/ai-raccoon"
   },
   {
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "tjsasakifln/Governance",
     "stars": 0,
-    "updated_at": "2026-08-24T22:40:37Z",
+    "updated_at": "2026-08-24T22:44:19Z",
     "url": "https://github.com/tjsasakifln/Governance"
   },
   {
@@ -122,7 +194,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3260,
-    "updated_at": "2026-08-24T22:37:47Z",
+    "updated_at": "2026-08-24T22:43:55Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "wish-maker/minder",
     "stars": 4,
-    "updated_at": "2026-08-24T22:35:55Z",
+    "updated_at": "2026-08-24T22:43:41Z",
     "url": "https://github.com/wish-maker/minder"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 9,
-    "updated_at": "2026-08-24T22:42:17Z",
+    "updated_at": "2026-08-24T22:44:35Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "langchain-ai/langchain",
     "stars": 144911,
-    "updated_at": "2026-08-24T22:38:02Z",
+    "updated_at": "2026-08-24T22:44:04Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
   {
@@ -252,24 +324,6 @@
     "url": "https://github.com/VINAY7033/docu-query-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T22:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T22:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-grade multi-tenant AI workspace: RAG chat over private knowledge with measured faithfulness & refusal \u2014 built",
     "id": "Sudeepxe/aether-ai-workspace",
     "language": "Python",
@@ -286,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T22:30:15Z",
     "url": "https://github.com/salimfk619-jpg/open-ai-ecosystem"
-  },
-  {
-    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
-    "id": "BugraAkdemir/memo",
-    "language": "Go",
-    "name": "BugraAkdemir/memo",
-    "stars": 6,
-    "updated_at": "2026-08-24T22:41:54Z",
-    "url": "https://github.com/BugraAkdemir/memo"
   },
   {
     "description": "This is RAG pipeline that take question answer from Stack Overflow and convert it to rag and get stored in the dataset i",
@@ -378,15 +423,6 @@
     "url": "https://github.com/ibrahimqureshae/mdflux"
   },
   {
-    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
-    "id": "LocketKeyLLC/scaffold-engine",
-    "language": "Python",
-    "name": "LocketKeyLLC/scaffold-engine",
-    "stars": 0,
-    "updated_at": "2026-08-24T22:41:41Z",
-    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
-  },
-  {
     "description": "Local, single-user agentic workbench over your knowledge bases (curiosity-engine substrate).",
     "id": "benjsmith/switchbay",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T22:41:05Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
-  },
-  {
-    "description": "Tutor de normativa de circulaci\u00f3n espa\u00f1ola con cita cerrada: no puede citar un art\u00edculo que no haya recuperado. Verifica",
-    "id": "samuvm/citebound",
-    "language": "Python",
-    "name": "samuvm/citebound",
-    "stars": 0,
-    "updated_at": "2026-08-24T22:20:22Z",
-    "url": "https://github.com/samuvm/citebound"
-  },
-  {
-    "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
-    "id": "Marker-Inc-Korea/AutoRAG",
-    "language": "TypeScript",
-    "name": "Marker-Inc-Korea/AutoRAG",
-    "stars": 5054,
-    "updated_at": "2026-08-24T22:27:20Z",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
-  },
-  {
-    "description": "A MCP extension built on top of rtfm-ai that it acts as a gatekeeper by taking the agent's task, queries the underlying ",
-    "id": "joaocarlos/writing-context-rtfm",
-    "language": "Python",
-    "name": "joaocarlos/writing-context-rtfm",
-    "stars": 2,
-    "updated_at": "2026-08-24T22:18:53Z",
-    "url": "https://github.com/joaocarlos/writing-context-rtfm"
-  },
-  {
-    "description": "Multi-agent enterprise risk evaluation with an auditable evidence chain. Nine agents on LangGraph, provider-agnostic LLM",
-    "id": "aribi-ahmed/sentinel",
-    "language": "Python",
-    "name": "aribi-ahmed/sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-24T22:16:22Z",
-    "url": "https://github.com/aribi-ahmed/sentinel"
   }
 ]
