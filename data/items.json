@@ -1,5 +1,122 @@
 [
   {
+    "description": "A MCP extension built on top of rtfm-ai that it acts as a gatekeeper by taking the agent's task, queries the underlying ",
+    "id": "joaocarlos/writing-context-rtfm",
+    "language": "Python",
+    "name": "joaocarlos/writing-context-rtfm",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:33:43Z",
+    "url": "https://github.com/joaocarlos/writing-context-rtfm"
+  },
+  {
+    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
+    "id": "LocketKeyLLC/scaffold-engine",
+    "language": "Python",
+    "name": "LocketKeyLLC/scaffold-engine",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:33:15Z",
+    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
+  },
+  {
+    "description": "Grounded Analytics Agent \u2014 ask messy real-world spreadsheets in plain English and get answers welded to their source cel",
+    "id": "gauravk09/grounded-analytics-agent",
+    "language": "Python",
+    "name": "gauravk09/grounded-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:33:04Z",
+    "url": "https://github.com/gauravk09/grounded-analytics-agent"
+  },
+  {
+    "description": "Semantic search and grounded answers over a private document corpus. Hybrid retrieval, verified citations, and honest ab",
+    "id": "tugaep/hatko",
+    "language": "TypeScript",
+    "name": "tugaep/hatko",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:33:00Z",
+    "url": "https://github.com/tugaep/hatko"
+  },
+  {
+    "description": "Toolkit for systematically probing, classifying, and debugging failure modes in LLM and RAG systems \u2014 reasoning errors, ",
+    "id": "Padraigobrien08/model-failure-lab",
+    "language": "Python",
+    "name": "Padraigobrien08/model-failure-lab",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:33:10Z",
+    "url": "https://github.com/Padraigobrien08/model-failure-lab"
+  },
+  {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-08-24T21:32:18Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo-26/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo-26/on-care",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:31:47Z",
+    "url": "https://github.com/CSE-Sudo-26/on-care"
+  },
+  {
+    "description": "CIM screening and pre-LOI deal scoring for vertical market software. 40% of the metrics that decide a deal live only in ",
+    "id": "situhacks/deal-ready",
+    "language": "Python",
+    "name": "situhacks/deal-ready",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:31:26Z",
+    "url": "https://github.com/situhacks/deal-ready"
+  },
+  {
+    "description": "Persistent local memory across LLM agents, CLIs, coding tools, and developer workflows.",
+    "id": "XdotX78/Minerva-Project",
+    "language": "PowerShell",
+    "name": "XdotX78/Minerva-Project",
+    "stars": 1,
+    "updated_at": "2026-08-24T21:30:59Z",
+    "url": "https://github.com/XdotX78/Minerva-Project"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "SAIRAMANALADI/vybe-intelligence-vault",
+    "language": "JavaScript",
+    "name": "SAIRAMANALADI/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-08-24T21:30:04Z",
+    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
+  },
+  {
+    "description": "Production-grade Agentic Hybrid RAG Engine \u2014 LangGraph, FAISS + BM25 fusion, Cross-Encoder reranking, DeepEval metrics, ",
+    "id": "mostafanasr300/AI-under-the-hood-RAG-sys",
+    "language": "Python",
+    "name": "mostafanasr300/AI-under-the-hood-RAG-sys",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:29:39Z",
+    "url": "https://github.com/mostafanasr300/AI-under-the-hood-RAG-sys"
+  },
+  {
     "description": "Agentic Runtime Extensible Server. A composable AI agent runtime in Rust based on the Cordis framework",
     "id": "dirmacs/ares",
     "language": "Rust",
@@ -32,7 +149,7 @@
     "language": "HTML",
     "name": "Smart-AI-Memory/attune-ai",
     "stars": 10,
-    "updated_at": "2026-08-24T21:29:24Z",
+    "updated_at": "2026-08-24T21:33:14Z",
     "url": "https://github.com/Smart-AI-Memory/attune-ai"
   },
   {
@@ -86,7 +203,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6811,
-    "updated_at": "2026-08-24T21:27:02Z",
+    "updated_at": "2026-08-24T21:33:12Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -169,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-08-24T21:25:02Z",
     "url": "https://github.com/el-gabri/give-exit"
-  },
-  {
-    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
-    "id": "SAIRAMANALADI/vybe-intelligence-vault",
-    "language": "JavaScript",
-    "name": "SAIRAMANALADI/vybe-intelligence-vault",
-    "stars": 22,
-    "updated_at": "2026-08-24T21:30:04Z",
-    "url": "https://github.com/SAIRAMANALADI/vybe-intelligence-vault"
   },
   {
     "description": "There is documents searcher project based on Rust and Opensearch technologies.",
@@ -279,15 +387,6 @@
     "url": "https://github.com/takeshy/obsidian-gemini-helper"
   },
   {
-    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
-    "id": "CSE-Sudo-26/on-care",
-    "language": "Dart",
-    "name": "CSE-Sudo-26/on-care",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:21:50Z",
-    "url": "https://github.com/CSE-Sudo-26/on-care"
-  },
-  {
     "description": "Turn any document into clean, AI-ready Markdown. Local-first desktop app: reads scanned PDFs, batches folders, runs offl",
     "id": "ibrahimqureshae/mdflux",
     "language": "Python",
@@ -295,15 +394,6 @@
     "stars": 407,
     "updated_at": "2026-08-24T21:24:44Z",
     "url": "https://github.com/ibrahimqureshae/mdflux"
-  },
-  {
-    "description": "CIM screening and pre-LOI deal scoring for vertical market software. 40% of the metrics that decide a deal live only in ",
-    "id": "situhacks/deal-ready",
-    "language": "Python",
-    "name": "situhacks/deal-ready",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:21:26Z",
-    "url": "https://github.com/situhacks/deal-ready"
   },
   {
     "description": "Retrieval-Augmented Generation platform with FAISS-based semantic search, claim-level hallucination detection, and confi",
@@ -342,24 +432,6 @@
     "url": "https://github.com/ravan-chuang/approximation-feedback-retrieval"
   },
   {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-08-24T21:18:51Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Grounded Analytics Agent \u2014 ask messy real-world spreadsheets in plain English and get answers welded to their source cel",
-    "id": "gauravk09/grounded-analytics-agent",
-    "language": "Python",
-    "name": "gauravk09/grounded-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:18:16Z",
-    "url": "https://github.com/gauravk09/grounded-analytics-agent"
-  },
-  {
     "description": "Tool-calling AI agent for incident triage, built with Spring AI on Spring Boot 4 / Java 25. Local open-source LLM (Ollam",
     "id": "volsch/incident-triage-agent",
     "language": "Java",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-24T21:17:18Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Semantic search and grounded answers over a private document corpus. Hybrid retrieval, verified citations, and honest ab",
-    "id": "tugaep/hatko",
-    "language": "TypeScript",
-    "name": "tugaep/hatko",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:16:43Z",
-    "url": "https://github.com/tugaep/hatko"
-  },
-  {
-    "description": "Secure student planner with encrypted offline clients and a Firebase and Cloud Run RAG copilot using Vertex AI, Gemini, ",
-    "id": "Chanikya5793/GDPProject",
-    "language": "JavaScript",
-    "name": "Chanikya5793/GDPProject",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:28:42Z",
-    "url": "https://github.com/Chanikya5793/GDPProject"
-  },
-  {
-    "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
-    "id": "makoy-daniot2001/agent-session-mirror",
-    "language": "HTML",
-    "name": "makoy-daniot2001/agent-session-mirror",
-    "stars": 1,
-    "updated_at": "2026-08-24T21:15:48Z",
-    "url": "https://github.com/makoy-daniot2001/agent-session-mirror"
-  },
-  {
-    "description": "AI-Powered miRNA Analysis & Experiment Design Tool 2026 \ud83e\uddec\ud83d\udd0d",
-    "id": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "language": "HTML",
-    "name": "suhaib0764/miRNA-Enrichment-Insight-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-24T21:15:35Z",
-    "url": "https://github.com/suhaib0764/miRNA-Enrichment-Insight-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
-    "id": "neomjs/neo",
-    "language": "JavaScript",
-    "name": "neomjs/neo",
-    "stars": 3260,
-    "updated_at": "2026-08-24T21:29:40Z",
-    "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Russian IT Community Conversational Corpus (2018-2026) \u00b7 Zero-PII Curation Platform, Multi-turn SFT, DPO, RAG Knowledge ",
-    "id": "wwewtech/russian-it-community-corpus",
-    "language": "Python",
-    "name": "wwewtech/russian-it-community-corpus",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:14:59Z",
-    "url": "https://github.com/wwewtech/russian-it-community-corpus"
   }
 ]
