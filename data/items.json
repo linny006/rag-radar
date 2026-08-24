@@ -1,12 +1,93 @@
 [
   {
+    "description": "A team's knowledge, captured where the work happens, filed by an agent, and answered with citations you can check.",
+    "id": "sturlese/stigmergy",
+    "language": "Python",
+    "name": "sturlese/stigmergy",
+    "stars": 5,
+    "updated_at": "2026-08-24T08:27:23Z",
+    "url": "https://github.com/sturlese/stigmergy"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3260,
+    "updated_at": "2026-08-24T08:27:04Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Win volume \u2260 win value. An interactive pricing sandbox for China's regional NEV market: location endowment \u00d7 strategy qu",
+    "id": "nevejd620/Chinese-Regional-NEV-Marketing-Sandbox-simulator",
+    "language": "Jupyter Notebook",
+    "name": "nevejd620/Chinese-Regional-NEV-Marketing-Sandbox-simulator",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:26:36Z",
+    "url": "https://github.com/nevejd620/Chinese-Regional-NEV-Marketing-Sandbox-simulator"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
+    "id": "yonatangross/orchestkit",
+    "language": "TypeScript",
+    "name": "yonatangross/orchestkit",
+    "stars": 223,
+    "updated_at": "2026-08-24T08:30:07Z",
+    "url": "https://github.com/yonatangross/orchestkit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T08:25:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A production-ready AI PDF chat application built with FastAPI, LangChain, FAISS, and the OpenAI Responses API, enabling ",
+    "id": "OlehDatsyk/pdf-chatgpt",
+    "language": "Python",
+    "name": "OlehDatsyk/pdf-chatgpt",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:25:19Z",
+    "url": "https://github.com/OlehDatsyk/pdf-chatgpt"
+  },
+  {
+    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
+    "id": "ANFAIA/SkillNet",
+    "language": "Python",
+    "name": "ANFAIA/SkillNet",
+    "stars": 1,
+    "updated_at": "2026-08-24T08:25:09Z",
+    "url": "https://github.com/ANFAIA/SkillNet"
+  },
+  {
     "description": "Agentic Runtime Extensible Server. A composable AI agent runtime in Rust based on the Cordis framework",
     "id": "dirmacs/ares",
     "language": "Rust",
     "name": "dirmacs/ares",
     "stars": 15,
-    "updated_at": "2026-08-24T08:24:59Z",
+    "updated_at": "2026-08-24T08:27:28Z",
     "url": "https://github.com/dirmacs/ares"
+  },
+  {
+    "description": "Universal memory layer for AI Agents",
+    "id": "mem0ai/mem0",
+    "language": "Python",
+    "name": "mem0ai/mem0",
+    "stars": 63922,
+    "updated_at": "2026-08-24T08:24:46Z",
+    "url": "https://github.com/mem0ai/mem0"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-08-24T08:27:29Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Evidence-grounded AI persona chatbot using RAG and public-post data",
@@ -131,7 +212,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19144,
-    "updated_at": "2026-08-24T08:18:15Z",
+    "updated_at": "2026-08-24T08:30:14Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 444,
-    "updated_at": "2026-08-24T08:18:14Z",
+    "updated_at": "2026-08-24T08:29:04Z",
     "url": "https://github.com/caura-ai/caura"
   },
   {
@@ -149,7 +230,7 @@
     "language": "Swift",
     "name": "ameedanxari/shamelagpt",
     "stars": 0,
-    "updated_at": "2026-08-24T08:17:35Z",
+    "updated_at": "2026-08-24T08:26:02Z",
     "url": "https://github.com/ameedanxari/shamelagpt"
   },
   {
@@ -234,20 +315,11 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmark",
     "id": "modelscope/evalscope",
     "language": "Python",
     "name": "modelscope/evalscope",
-    "stars": 3292,
+    "stars": 3291,
     "updated_at": "2026-08-24T08:15:04Z",
     "url": "https://github.com/modelscope/evalscope"
   },
@@ -302,7 +374,7 @@
     "language": "Jupyter Notebook",
     "name": "AnshitaBaduge/ai-learning-lab",
     "stars": 0,
-    "updated_at": "2026-08-24T08:13:32Z",
+    "updated_at": "2026-08-24T08:29:30Z",
     "url": "https://github.com/AnshitaBaduge/ai-learning-lab"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T08:11:22Z",
     "url": "https://github.com/gitanshulbisht/freshdocs"
-  },
-  {
-    "description": "Self-hosted visual knowledge base: document parsing/chunking/vectorization/knowledge graph, hybrid retrieval with multi-",
-    "id": "qy24/local-knowledge-base",
-    "language": "Python",
-    "name": "qy24/local-knowledge-base",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:11:16Z",
-    "url": "https://github.com/qy24/local-knowledge-base"
-  },
-  {
-    "description": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
-    "id": "NodeDB-Lab/nodedb",
-    "language": "Rust",
-    "name": "NodeDB-Lab/nodedb",
-    "stars": 191,
-    "updated_at": "2026-08-24T08:10:15Z",
-    "url": "https://github.com/NodeDB-Lab/nodedb"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:10:07Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
-    "id": "juspay/neurolink",
-    "language": "TypeScript",
-    "name": "juspay/neurolink",
-    "stars": 123,
-    "updated_at": "2026-08-24T08:23:19Z",
-    "url": "https://github.com/juspay/neurolink"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 89126,
-    "updated_at": "2026-08-24T08:09:07Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "A serverless, multi-agent decision support system parsing live NASA telemetry and astrophysics RAG data. Built with Next",
-    "id": "primegideon/orion-space-command",
-    "language": "TypeScript",
-    "name": "primegideon/orion-space-command",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:09:01Z",
-    "url": "https://github.com/primegideon/orion-space-command"
-  },
-  {
-    "description": "Rago - Rag application built entirely in golang and pgvector",
-    "id": "abhiraj-ku/RaGo",
-    "language": "Go",
-    "name": "abhiraj-ku/RaGo",
-    "stars": 1,
-    "updated_at": "2026-08-24T08:08:35Z",
-    "url": "https://github.com/abhiraj-ku/RaGo"
-  },
-  {
-    "description": "Production AI workflow automation with Gmail, RAG, durable execution, and human-in-the-loop approvals.",
-    "id": "thearyangupta/flowpilot-ai",
-    "language": "Python",
-    "name": "thearyangupta/flowpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:07:22Z",
-    "url": "https://github.com/thearyangupta/flowpilot-ai"
   }
 ]
