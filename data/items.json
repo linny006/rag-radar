@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T17:14:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u2728 Next.js and FastAPI starter for document ingestion, embeddings, vector search, citations, and grounded chat.",
     "id": "Boyeep/nextjs-python-rag-kit",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31745,
-    "updated_at": "2026-08-24T17:14:48Z",
+    "updated_at": "2026-08-24T17:15:06Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -270,15 +279,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T17:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -331,6 +331,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T16:58:51Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
+    "description": "A RAG evaluation that measures retrieval and generation separately, and finds a case where generation faithfulness impro",
+    "id": "moclamzw/rag-eval-retrieval-vs-generation",
+    "language": "Python",
+    "name": "moclamzw/rag-eval-retrieval-vs-generation",
+    "stars": 0,
+    "updated_at": "2026-08-24T16:58:36Z",
+    "url": "https://github.com/moclamzw/rag-eval-retrieval-vs-generation"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -439,14 +448,5 @@
     "stars": 28,
     "updated_at": "2026-08-24T16:55:32Z",
     "url": "https://github.com/Quor-a/ZorvAI"
-  },
-  {
-    "description": "Persistent memory for Claude Code, Cursor, Copilot & Windsurf \u2014 your AI stops re-reading your codebase every morning. 12",
-    "id": "cachly-dev/cachly-mcp",
-    "language": "TypeScript",
-    "name": "cachly-dev/cachly-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-24T16:55:25Z",
-    "url": "https://github.com/cachly-dev/cachly-mcp"
   }
 ]
