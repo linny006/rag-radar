@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1904,
+    "updated_at": "2026-08-25T08:58:49Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:58:41Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -18,6 +36,15 @@
     "url": "https://github.com/ModelEngine-Group/nexent"
   },
   {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:57:52Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
     "description": "AI Chatbot & Agent Management Platform \u2014 build, deploy, and manage AI chatbots across Web, WhatsApp, Telegram, Discord, ",
     "id": "bilals2008/convio-ai",
     "language": "TypeScript",
@@ -25,6 +52,42 @@
     "stars": 1,
     "updated_at": "2026-08-25T08:56:02Z",
     "url": "https://github.com/bilals2008/convio-ai"
+  },
+  {
+    "description": "Islamic-knowledge AI service for DeenBridge \u2014 FastAPI + Gemini assistant with verified Qur'an/Hadith citations, scholar-",
+    "id": "Deen-Bridge/dnb-ai",
+    "language": "Python",
+    "name": "Deen-Bridge/dnb-ai",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:55:57Z",
+    "url": "https://github.com/Deen-Bridge/dnb-ai"
+  },
+  {
+    "description": "NestJS Helper + AI Chatbot Development",
+    "id": "samchon/nestia",
+    "language": "TypeScript",
+    "name": "samchon/nestia",
+    "stars": 2172,
+    "updated_at": "2026-08-25T08:55:36Z",
+    "url": "https://github.com/samchon/nestia"
+  },
+  {
+    "description": "One encrypted memory your AI agents share. Runs on your hardware, speaks MCP. Local-first, no cloud required.",
+    "id": "lobrzut/pomnia",
+    "language": "TypeScript",
+    "name": "lobrzut/pomnia",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:55:36Z",
+    "url": "https://github.com/lobrzut/pomnia"
+  },
+  {
+    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc",
+    "id": "labring/FastGPT",
+    "language": "TypeScript",
+    "name": "labring/FastGPT",
+    "stars": 29446,
+    "updated_at": "2026-08-25T08:55:22Z",
+    "url": "https://github.com/labring/FastGPT"
   },
   {
     "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents.  \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
@@ -77,7 +140,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo",
     "stars": 3261,
-    "updated_at": "2026-08-25T08:54:25Z",
+    "updated_at": "2026-08-25T08:58:50Z",
     "url": "https://github.com/neomjs/neo"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "One encrypted memory your AI agents share. Runs on your hardware, speaks MCP. Local-first, no cloud required.",
-    "id": "lobrzut/pomnia",
-    "language": "TypeScript",
-    "name": "lobrzut/pomnia",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:55:36Z",
-    "url": "https://github.com/lobrzut/pomnia"
-  },
-  {
     "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
     "id": "CSE-Sudo-26/on-care",
     "language": "Dart",
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:53:59Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
-  },
-  {
-    "description": "Islamic-knowledge AI service for DeenBridge \u2014 FastAPI + Gemini assistant with verified Qur'an/Hadith citations, scholar-",
-    "id": "Deen-Bridge/dnb-ai",
-    "language": "Python",
-    "name": "Deen-Bridge/dnb-ai",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:55:57Z",
-    "url": "https://github.com/Deen-Bridge/dnb-ai"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -166,7 +211,7 @@
     "id": "Tencent/WeKnora",
     "language": "Go",
     "name": "Tencent/WeKnora",
-    "stars": 20578,
+    "stars": 20577,
     "updated_at": "2026-08-25T08:51:24Z",
     "url": "https://github.com/Tencent/WeKnora"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T08:45:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
-    "id": "yonatangross/orchestkit",
-    "language": "TypeScript",
-    "name": "yonatangross/orchestkit",
-    "stars": 224,
-    "updated_at": "2026-08-25T08:56:18Z",
-    "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T08:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T08:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Agentic security code review for GitHub Pull Requests. Combines static analysis, RAG, and a 7-agent LangGraph pipeline t",
-    "id": "akarshjain05/sentinelreview",
-    "language": "Python",
-    "name": "akarshjain05/sentinelreview",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:45:21Z",
-    "url": "https://github.com/akarshjain05/sentinelreview"
-  },
-  {
-    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
-    "id": "caura-ai/caura",
-    "language": "Python",
-    "name": "caura-ai/caura",
-    "stars": 448,
-    "updated_at": "2026-08-25T08:50:17Z",
-    "url": "https://github.com/caura-ai/caura"
   }
 ]
