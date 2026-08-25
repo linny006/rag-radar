@@ -1,12 +1,102 @@
 [
   {
+    "description": "Minimal pure-Python AI agent core: agent loop, task routing, model management, context management, persistent memory (de",
+    "id": "totwo2/nm-agents",
+    "language": "Python",
+    "name": "totwo2/nm-agents",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:14:06Z",
+    "url": "https://github.com/totwo2/nm-agents"
+  },
+  {
+    "description": "Knowledge retrieval (RAG) decorators for Azure Functions Python v2",
+    "id": "yeongseon/azure-functions-knowledge-python",
+    "language": "Python",
+    "name": "yeongseon/azure-functions-knowledge-python",
+    "stars": 6,
+    "updated_at": "2026-08-25T08:12:14Z",
+    "url": "https://github.com/yeongseon/azure-functions-knowledge-python"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 16,
+    "updated_at": "2026-08-25T08:12:10Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 70,
+    "updated_at": "2026-08-25T08:11:48Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19162,
+    "updated_at": "2026-08-25T08:11:34Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3261,
+    "updated_at": "2026-08-25T08:14:43Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Official Python SDK for the SearchCans SERP API and Reader API.",
+    "id": "SearchCans/searchcans-python",
+    "language": "Python",
+    "name": "SearchCans/searchcans-python",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:11:30Z",
+    "url": "https://github.com/SearchCans/searchcans-python"
+  },
+  {
     "description": "Notes die in folders. Stellavault keeps your knowledge alive \u2014 3D knowledge graph, AI semantic search, memory decay trac",
     "id": "Evanciel/stellavault",
     "language": "TypeScript",
     "name": "Evanciel/stellavault",
     "stars": 3,
-    "updated_at": "2026-08-25T08:09:30Z",
+    "updated_at": "2026-08-25T08:10:47Z",
     "url": "https://github.com/Evanciel/stellavault"
+  },
+  {
+    "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
+    "id": "1ay1/agentty",
+    "language": "C++",
+    "name": "1ay1/agentty",
+    "stars": 603,
+    "updated_at": "2026-08-25T08:10:03Z",
+    "url": "https://github.com/1ay1/agentty"
+  },
+  {
+    "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
+    "id": "engram-app/Engram",
+    "language": "Elixir",
+    "name": "engram-app/Engram",
+    "stars": 9,
+    "updated_at": "2026-08-25T08:09:54Z",
+    "url": "https://github.com/engram-app/Engram"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:09:49Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
@@ -23,8 +113,44 @@
     "language": "Python",
     "name": "pmgwee/Ai-Chatbot",
     "stars": 1,
-    "updated_at": "2026-08-25T08:08:43Z",
+    "updated_at": "2026-08-25T08:15:13Z",
     "url": "https://github.com/pmgwee/Ai-Chatbot"
+  },
+  {
+    "description": "\u975e\u5b98\u65b9\u7684AgentScope Rust\u91cd\u6784",
+    "id": "NingNing0111/agentscope-rust",
+    "language": "Rust",
+    "name": "NingNing0111/agentscope-rust",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:08:39Z",
+    "url": "https://github.com/NingNing0111/agentscope-rust"
+  },
+  {
+    "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
+    "id": "markfietje/brain-server",
+    "language": "Rust",
+    "name": "markfietje/brain-server",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:08:33Z",
+    "url": "https://github.com/markfietje/brain-server"
+  },
+  {
+    "description": "Islamic-knowledge AI service for DeenBridge \u2014 FastAPI + Gemini assistant with verified Qur'an/Hadith citations, scholar-",
+    "id": "Deen-Bridge/dnb-ai",
+    "language": "Python",
+    "name": "Deen-Bridge/dnb-ai",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:08:22Z",
+    "url": "https://github.com/Deen-Bridge/dnb-ai"
+  },
+  {
+    "description": "Learn Java with current docs, including Java 25 JDK",
+    "id": "WilliamAGH/java-chat",
+    "language": "Java",
+    "name": "WilliamAGH/java-chat",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:07:53Z",
+    "url": "https://github.com/WilliamAGH/java-chat"
   },
   {
     "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
@@ -68,7 +194,7 @@
     "language": "Dart",
     "name": "CSE-Sudo-26/on-care",
     "stars": 0,
-    "updated_at": "2026-08-25T08:06:10Z",
+    "updated_at": "2026-08-25T08:14:13Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
@@ -90,21 +216,12 @@
     "url": "https://github.com/AnishSingh15/llm-cost-governor"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19162,
-    "updated_at": "2026-08-25T08:09:39Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "Pinakes \u2014 a portable, agent-first knowledge base. One directory = one KB.",
     "id": "lucagattoni/pinakes",
     "language": "Python",
     "name": "lucagattoni/pinakes",
     "stars": 0,
-    "updated_at": "2026-08-25T08:05:49Z",
+    "updated_at": "2026-08-25T08:11:11Z",
     "url": "https://github.com/lucagattoni/pinakes"
   },
   {
@@ -144,15 +261,6 @@
     "url": "https://github.com/huangjia2019/rag-in-action"
   },
   {
-    "description": "Engram: Personal knowledge RAG system \u2014 Obsidian vault indexer, vector search, MCP server",
-    "id": "engram-app/Engram",
-    "language": "Elixir",
-    "name": "engram-app/Engram",
-    "stars": 9,
-    "updated_at": "2026-08-25T08:09:42Z",
-    "url": "https://github.com/engram-app/Engram"
-  },
-  {
     "description": "Agentic security code review for GitHub Pull Requests. Combines static analysis, RAG, and a 7-agent LangGraph pipeline t",
     "id": "akarshjain05/sentinelreview",
     "language": "Python",
@@ -160,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:03:49Z",
     "url": "https://github.com/akarshjain05/sentinelreview"
-  },
-  {
-    "description": "Official Python SDK for the SearchCans SERP API and Reader API.",
-    "id": "SearchCans/searchcans-python",
-    "language": "Python",
-    "name": "SearchCans/searchcans-python",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:03:31Z",
-    "url": "https://github.com/SearchCans/searchcans-python"
   },
   {
     "description": "A traceable and auditable local Data\u2013Action\u2013Data harness demo for AI agents and AI governance",
@@ -232,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T08:00:28Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T08:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fast, pure-Python full-text indexing and search. Actively maintained continuation of Whoosh / whoosh-reloaded. Install: ",
@@ -329,7 +419,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-08-25T07:58:48Z",
+    "updated_at": "2026-08-25T08:11:35Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:57:16Z",
     "url": "https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard"
-  },
-  {
-    "description": "\u73b0\u4ee3\u5927\u6a21\u578b\u6307\u5357",
-    "id": "wizardAEI/WaytoLLM",
-    "language": "TypeScript",
-    "name": "wizardAEI/WaytoLLM",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:56:56Z",
-    "url": "https://github.com/wizardAEI/WaytoLLM"
-  },
-  {
-    "description": "Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada",
-    "id": "ANFAIA/SkillNet",
-    "language": "Python",
-    "name": "ANFAIA/SkillNet",
-    "stars": 4,
-    "updated_at": "2026-08-25T07:56:27Z",
-    "url": "https://github.com/ANFAIA/SkillNet"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:56:13Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
-    "id": "juspay/neurolink",
-    "language": "TypeScript",
-    "name": "juspay/neurolink",
-    "stars": 123,
-    "updated_at": "2026-08-25T08:01:46Z",
-    "url": "https://github.com/juspay/neurolink"
-  },
-  {
-    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula",
-    "id": "deepset-ai/haystack",
-    "language": "Python",
-    "name": "deepset-ai/haystack",
-    "stars": 26311,
-    "updated_at": "2026-08-25T07:56:08Z",
-    "url": "https://github.com/deepset-ai/haystack"
-  },
-  {
-    "description": "EchoMind - AI-powered knowledge management with local LLM engine",
-    "id": "lisering/EchoMind",
-    "language": "Rust",
-    "name": "lisering/EchoMind",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:55:59Z",
-    "url": "https://github.com/lisering/EchoMind"
-  },
-  {
-    "description": "",
-    "id": "kaduoxzero/AI-Agent",
-    "language": "Python",
-    "name": "kaduoxzero/AI-Agent",
-    "stars": 2,
-    "updated_at": "2026-08-25T07:55:39Z",
-    "url": "https://github.com/kaduoxzero/AI-Agent"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 one verified kb_search replaces the grep/find/ls orientation loop. Cross-repo, ",
-    "id": "ArihantDeva/heimdall",
-    "language": "JavaScript",
-    "name": "ArihantDeva/heimdall",
-    "stars": 47,
-    "updated_at": "2026-08-25T07:55:29Z",
-    "url": "https://github.com/ArihantDeva/heimdall"
-  },
-  {
-    "description": "Curated English/Chinese Search API & MCP for AI Agents (Claude Code, Cursor, Windsurf) with explicit fetched_at timestam",
-    "id": "eason4kim-rocket/annolux",
-    "language": "Go",
-    "name": "eason4kim-rocket/annolux",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:55:20Z",
-    "url": "https://github.com/eason4kim-rocket/annolux"
-  },
-  {
-    "description": "\u975e\u5b98\u65b9\u7684AgentScope Rust\u91cd\u6784",
-    "id": "NingNing0111/agentscope-rust",
-    "language": "Rust",
-    "name": "NingNing0111/agentscope-rust",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:08:39Z",
-    "url": "https://github.com/NingNing0111/agentscope-rust"
   }
 ]
