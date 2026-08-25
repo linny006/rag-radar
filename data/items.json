@@ -1,5 +1,77 @@
 [
   {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3261,
+    "updated_at": "2026-08-25T17:59:50Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:59:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The Open-Source Local-First AI Chief of Staff & Thought Architecture framework with DB-first memory and 3-track evals.",
+    "id": "Monish-Nallagondalla/Nirixa",
+    "language": "Python",
+    "name": "Monish-Nallagondalla/Nirixa",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:59:11Z",
+    "url": "https://github.com/Monish-Nallagondalla/Nirixa"
+  },
+  {
+    "description": "An AI-workspace starter kit for creating and operating specialized, evidence-grounded context compilers. Includes a loca",
+    "id": "FrancyJGLisboa/context-compiler-bootstrap",
+    "language": "Shell",
+    "name": "FrancyJGLisboa/context-compiler-bootstrap",
+    "stars": 5,
+    "updated_at": "2026-08-25T17:57:01Z",
+    "url": "https://github.com/FrancyJGLisboa/context-compiler-bootstrap"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:56:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:56:46Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "GPU-accelerated semantic search for your docs and source code - hybrid dense + sparse RAG on a local Qdrant backend, ser",
+    "id": "nevenincs/vaultspec-rag",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-rag",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:56:18Z",
+    "url": "https://github.com/nevenincs/vaultspec-rag"
+  },
+  {
+    "description": "Hands-on experiments with current Gen AI techniques \u2014 RAG, agents, evals, fine-tuning and whatever's moving the field th",
+    "id": "Kantamaniprakash/genai-lab",
+    "language": "Python",
+    "name": "Kantamaniprakash/genai-lab",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:55:52Z",
+    "url": "https://github.com/Kantamaniprakash/genai-lab"
+  },
+  {
     "description": "Self-hosted, local-first AI workspace on your own Ollama models \u2014 chat, a Claude-Code-class coding agent, deep research,",
     "id": "ItzAditya43/Zenith",
     "language": "Python",
@@ -18,6 +90,15 @@
     "url": "https://github.com/violetloveAI/enterprise-support-copilot"
   },
   {
+    "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
+    "id": "KanenasInGreece/Shared_Memory",
+    "language": "Python",
+    "name": "KanenasInGreece/Shared_Memory",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:54:23Z",
+    "url": "https://github.com/KanenasInGreece/Shared_Memory"
+  },
+  {
     "description": "Evidence-grounded RAG over PDFs with pgvector, Ollama, citations, evaluation, and deterministic evidence gating.",
     "id": "farukberke/evidence_based_research_assistant",
     "language": "Python",
@@ -27,13 +108,13 @@
     "url": "https://github.com/farukberke/evidence_based_research_assistant"
   },
   {
-    "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
-    "id": "KanenasInGreece/Shared_Memory",
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
     "language": "Python",
-    "name": "KanenasInGreece/Shared_Memory",
+    "name": "Rekin226/Agronaut",
     "stars": 1,
-    "updated_at": "2026-08-25T17:54:23Z",
-    "url": "https://github.com/KanenasInGreece/Shared_Memory"
+    "updated_at": "2026-08-25T17:53:33Z",
+    "url": "https://github.com/Rekin226/Agronaut"
   },
   {
     "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31757,
-    "updated_at": "2026-08-25T17:52:03Z",
+    "updated_at": "2026-08-25T17:59:45Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4394,
-    "updated_at": "2026-08-25T17:56:25Z",
+    "updated_at": "2026-08-25T17:57:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -162,6 +243,15 @@
     "url": "https://github.com/apod-1/ZoltarFinancial"
   },
   {
+    "description": "Real-time data pipeline \u2014 HMAC-verified webhooks, content-based routing, validation/dedupe/3-sigma anomalies, SSE+WS liv",
+    "id": "Yacine-ai-tech/StreamPulse",
+    "language": "Python",
+    "name": "Yacine-ai-tech/StreamPulse",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:49:44Z",
+    "url": "https://github.com/Yacine-ai-tech/StreamPulse"
+  },
+  {
     "description": "A self-built CLI coding agent with LLM tool-calling, persistent memory, and RAG-powered semantic code search over a Chro",
     "id": "Youssef-Bahaa/RepoPilot",
     "language": "Python",
@@ -234,15 +324,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:53:33Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "Akash-Sannidhanam/colpali-vision-rag",
     "stars": 0,
-    "updated_at": "2026-08-25T17:49:14Z",
+    "updated_at": "2026-08-25T17:58:30Z",
     "url": "https://github.com/Akash-Sannidhanam/colpali-vision-rag"
   },
   {
@@ -286,24 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T17:46:16Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source WhatsApp AI agent with 20 industry-specific brains. Self-host with Docker or use the cloud. AGPL-3.0.",
@@ -328,7 +391,7 @@
     "id": "Graphify-Labs/graphify",
     "language": "Python",
     "name": "Graphify-Labs/graphify",
-    "stars": 110399,
+    "stars": 110400,
     "updated_at": "2026-08-25T17:43:30Z",
     "url": "https://github.com/Graphify-Labs/graphify"
   },
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "ANIMESHIOLOGY/vecparity",
     "stars": 0,
-    "updated_at": "2026-08-25T17:43:18Z",
+    "updated_at": "2026-08-25T17:58:38Z",
     "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "IgorGanapolsky/trading",
     "stars": 38,
-    "updated_at": "2026-08-25T17:43:00Z",
+    "updated_at": "2026-08-25T17:57:33Z",
     "url": "https://github.com/IgorGanapolsky/trading"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-25T17:42:46Z",
     "url": "https://github.com/RoneyBABA/DAYA"
-  },
-  {
-    "description": "Agent memory that does not serve stale facts. When a value is corrected, the outdated one stops coming back \u2014 determinis",
-    "id": "DanceNitra/inspeximus",
-    "language": "Python",
-    "name": "DanceNitra/inspeximus",
-    "stars": 5,
-    "updated_at": "2026-08-25T17:42:21Z",
-    "url": "https://github.com/DanceNitra/inspeximus"
-  },
-  {
-    "description": "Five RAG architectures built from scratch in plain Python \u2014 Naive, Hybrid, Agentic, Graph & production-grade Advanced \u2014 ",
-    "id": "jaysheeldodia/RAG",
-    "language": "Python",
-    "name": "jaysheeldodia/RAG",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:42:19Z",
-    "url": "https://github.com/jaysheeldodia/RAG"
-  },
-  {
-    "description": "High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a f",
-    "id": "xberg-io/html-to-markdown",
-    "language": "HTML",
-    "name": "xberg-io/html-to-markdown",
-    "stars": 854,
-    "updated_at": "2026-08-25T17:41:46Z",
-    "url": "https://github.com/xberg-io/html-to-markdown"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T17:41:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
-    "id": "jkelly-dev1/ai-data-boundary-proxy",
-    "language": "Python",
-    "name": "jkelly-dev1/ai-data-boundary-proxy",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:41:31Z",
-    "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
-  },
-  {
-    "description": "Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans, ",
-    "id": "Gunnarguy/OpenIntelligence",
-    "language": "Swift",
-    "name": "Gunnarguy/OpenIntelligence",
-    "stars": 21,
-    "updated_at": "2026-08-25T17:41:16Z",
-    "url": "https://github.com/Gunnarguy/OpenIntelligence"
-  },
-  {
-    "description": "Hands-on experiments with current Gen AI techniques \u2014 RAG, agents, evals, fine-tuning and whatever's moving the field th",
-    "id": "Kantamaniprakash/genai-lab",
-    "language": "Python",
-    "name": "Kantamaniprakash/genai-lab",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:55:52Z",
-    "url": "https://github.com/Kantamaniprakash/genai-lab"
   }
 ]
