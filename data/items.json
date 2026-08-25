@@ -1,6 +1,24 @@
 [
   {
-    "description": "SHM v6.4.0 \u2014 \u81ea\u6f14\u5316\u8d85\u56fe\u8bb0\u5fc6\u7cfb\u7edf\uff08Fact-Gated-Retrieval: AtomicFact\u4e2d\u95f4\u5c42 + sufficiency\u95e8\u63a7 + D-MEM RPE\u5199\u5165\u95e8\u63a7\uff0cLoCoMo 87.0%\uff09",
+    "description": "Open-source, self-hosted, white-label AI agent platform you drop into your product \u2014 embeddable chat + MCP/webhook tools",
+    "id": "4aker3rb/EERRAA",
+    "language": "Python",
+    "name": "4aker3rb/EERRAA",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:29:49Z",
+    "url": "https://github.com/4aker3rb/EERRAA"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T07:29:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SHM v6.5.0 \u2014 \u81ea\u6f14\u5316\u8d85\u56fe\u8bb0\u5fc6\u7cfb\u7edf\uff08Accuracy-Suite: valid_time\u7d22\u5f15+sufficiency\u5b9a\u5411round2+\u4e09\u5143\u7ec4\u8054\u5408+RPE\u91cd\u6392, LoCoMo 200\u95ee acc=100.0%\uff09",
     "id": "Neocher/self-evolving-hypergraph-memory",
     "language": "Python",
     "name": "Neocher/self-evolving-hypergraph-memory",
@@ -41,7 +59,7 @@
     "language": "Dart",
     "name": "CSE-Sudo-26/on-care",
     "stars": 0,
-    "updated_at": "2026-08-25T07:26:54Z",
+    "updated_at": "2026-08-25T07:29:45Z",
     "url": "https://github.com/CSE-Sudo-26/on-care"
   },
   {
@@ -162,6 +180,15 @@
     "url": "https://github.com/mycyg/memory-palace"
   },
   {
+    "description": "AI Knowledge Platform | FastAPI, PostgreSQL, pgvector, RAG, LLM Agents & Docker",
+    "id": "BELBINBENORM/ai-knowledge-platform",
+    "language": "Python",
+    "name": "BELBINBENORM/ai-knowledge-platform",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:23:30Z",
+    "url": "https://github.com/BELBINBENORM/ai-knowledge-platform"
+  },
+  {
     "description": "Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel",
     "id": "Soren-ABT/dsh-knowledge",
     "language": "TypeScript",
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "NingNing0111/agentscope-rust",
     "stars": 2,
-    "updated_at": "2026-08-25T07:25:48Z",
+    "updated_at": "2026-08-25T07:30:05Z",
     "url": "https://github.com/NingNing0111/agentscope-rust"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 28752,
     "updated_at": "2026-08-25T07:16:05Z",
     "url": "https://github.com/opendataloader-project/opendataloader-pdf"
-  },
-  {
-    "description": "Embedded long-term memory database for AI agents & LLM apps. Six-layer cognitive architecture, knowledge graph, hybrid B",
-    "id": "qyiun666/MemHop",
-    "language": "Go",
-    "name": "qyiun666/MemHop",
-    "stars": 22,
-    "updated_at": "2026-08-25T07:15:59Z",
-    "url": "https://github.com/qyiun666/MemHop"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 89197,
-    "updated_at": "2026-08-25T07:15:46Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Evaluation-driven, auditable Agentic RAG with controlled workflows, evidence traceability, ACL, and reproducible evaluat",
-    "id": "fly1347/auditable-agentic-rag",
-    "language": "Python",
-    "name": "fly1347/auditable-agentic-rag",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:15:45Z",
-    "url": "https://github.com/fly1347/auditable-agentic-rag"
   }
 ]
