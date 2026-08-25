@@ -1,12 +1,12 @@
 [
   {
-    "description": "Synora AI is an intelligent academic workspace featuring PDF summaries, visual mind maps, citation formats, and microser",
-    "id": "varshinisn98-png/synora-ai",
-    "language": "Python",
-    "name": "varshinisn98-png/synora-ai",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:26:13Z",
-    "url": "https://github.com/varshinisn98-png/synora-ai"
+    "description": "Delphi-native, MIT-licensed RAG + linter for Delphi/Pascal source code. Symbol-exact + fuzzy + tree-sitter lint. Pure De",
+    "id": "Alexl-git/Delphi-RAG-Lint",
+    "language": "Pascal",
+    "name": "Alexl-git/Delphi-RAG-Lint",
+    "stars": 16,
+    "updated_at": "2026-08-25T14:30:07Z",
+    "url": "https://github.com/Alexl-git/Delphi-RAG-Lint"
   },
   {
     "description": "Evaluation-first RAG over public Warehouse Control System documentation: reproducible corpus, golden set and regression-",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "RaphaelCerri/wcs-rag-evals",
     "stars": 0,
-    "updated_at": "2026-08-25T14:25:40Z",
+    "updated_at": "2026-08-25T14:29:32Z",
     "url": "https://github.com/RaphaelCerri/wcs-rag-evals"
+  },
+  {
+    "description": "Compiles git-backed markdown into a verifiable, read-optimized index for AI coding agents.",
+    "id": "l0kifs/docir",
+    "language": "Python",
+    "name": "l0kifs/docir",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:28:38Z",
+    "url": "https://github.com/l0kifs/docir"
+  },
+  {
+    "description": "Learning Library \u2014 curated, verified resources for LLMs, GenAI, agents, RAG, MLOps, ML, deep learning, RL, security, sys",
+    "id": "raghu298/learn",
+    "language": "HTML",
+    "name": "raghu298/learn",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:27:23Z",
+    "url": "https://github.com/raghu298/learn"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T14:26:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Synora AI is an intelligent academic workspace featuring PDF summaries, visual mind maps, citation formats, and microser",
+    "id": "varshinisn98-png/synora-ai",
+    "language": "Python",
+    "name": "varshinisn98-png/synora-ai",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:26:13Z",
+    "url": "https://github.com/varshinisn98-png/synora-ai"
   },
   {
     "description": "AI-powered business assistant built with LangGraph and LangChain, featuring tool calling, conversational memory, busines",
@@ -27,21 +63,12 @@
     "url": "https://github.com/yasmine2512/LangGraph-Ai-Agent"
   },
   {
-    "description": "Learning Library \u2014 curated, verified resources for LLMs, GenAI, agents, RAG, MLOps, ML, deep learning, RL, security, sys",
-    "id": "raghu298/learn",
-    "language": "HTML",
-    "name": "raghu298/learn",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:25:04Z",
-    "url": "https://github.com/raghu298/learn"
-  },
-  {
     "description": "Self-hosted semantic code search platform \u2014 Go server with web dashboard, CLI, and AI-agent skills. Search code by meani",
     "id": "dvcdsys/code-index",
     "language": "Go",
     "name": "dvcdsys/code-index",
     "stars": 29,
-    "updated_at": "2026-08-25T14:24:36Z",
+    "updated_at": "2026-08-25T14:30:15Z",
     "url": "https://github.com/dvcdsys/code-index"
   },
   {
@@ -63,6 +90,15 @@
     "url": "https://github.com/kglazier/repo-rag"
   },
   {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 618,
+    "updated_at": "2026-08-25T14:23:18Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
     "description": "Islamic-knowledge AI service for DeenBridge \u2014 FastAPI + Gemini assistant with verified Qur'an/Hadith citations, scholar-",
     "id": "Deen-Bridge/dnb-ai",
     "language": "Python",
@@ -70,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-08-25T14:24:12Z",
     "url": "https://github.com/Deen-Bridge/dnb-ai"
+  },
+  {
+    "description": "Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o",
+    "id": "ANIMESHIOLOGY/vecparity",
+    "language": "Python",
+    "name": "ANIMESHIOLOGY/vecparity",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:21:46Z",
+    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
     "description": "\ud83c\udfe5 AI-powered medical report generation with RAG, HIPAA compliance, and Next.js frontend",
@@ -88,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:20:14Z",
     "url": "https://github.com/sandovabarbora/quaesitor-zero"
+  },
+  {
+    "description": "Turn local files into searchable context for AI agents.",
+    "id": "liliu-z/stashbase",
+    "language": "TypeScript",
+    "name": "liliu-z/stashbase",
+    "stars": 446,
+    "updated_at": "2026-08-25T14:19:22Z",
+    "url": "https://github.com/liliu-z/stashbase"
   },
   {
     "description": "\ud83e\udde0 BrainOS \u2014 The Human Brain as Software Architecture. 8 brain regions documented like codebases. 12 installable AI plugi",
@@ -115,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T14:16:56Z",
     "url": "https://github.com/vishnusureshperumbavoor/Vibe-ML-Studio"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6373,
+    "updated_at": "2026-08-25T14:16:36Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
@@ -151,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T14:15:32Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -221,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7067,
-    "updated_at": "2026-08-25T14:13:08Z",
+    "updated_at": "2026-08-25T14:28:28Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "opswarden-git/opswarden",
     "stars": 0,
-    "updated_at": "2026-08-25T14:13:03Z",
+    "updated_at": "2026-08-25T14:27:43Z",
     "url": "https://github.com/opswarden-git/opswarden"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "tom1030507/OpenNotebookLM",
     "stars": 41,
-    "updated_at": "2026-08-25T14:24:15Z",
+    "updated_at": "2026-08-25T14:28:18Z",
     "url": "https://github.com/tom1030507/OpenNotebookLM"
   },
   {
@@ -373,7 +427,7 @@
     "id": "open-webui/open-webui",
     "language": "Python",
     "name": "open-webui/open-webui",
-    "stars": 149863,
+    "stars": 149865,
     "updated_at": "2026-08-25T14:03:56Z",
     "url": "https://github.com/open-webui/open-webui"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T14:03:55Z",
     "url": "https://github.com/valentinratigniet-byte/projet-05-assistant-analyse-financiere-rag"
-  },
-  {
-    "description": "Gemini API + Chroma \u306b\u3088\u308bRAG\u6587\u66f8Q&A\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8",
-    "id": "kaaoki/RAG-Document-QA-Chatbot",
-    "language": "Python",
-    "name": "kaaoki/RAG-Document-QA-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:03:35Z",
-    "url": "https://github.com/kaaoki/RAG-Document-QA-Chatbot"
-  },
-  {
-    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
-    "id": "LocketKeyLLC/scaffold-engine",
-    "language": "Python",
-    "name": "LocketKeyLLC/scaffold-engine",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:03:34Z",
-    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
-  },
-  {
-    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
-    "id": "yonatangross/orchestkit",
-    "language": "TypeScript",
-    "name": "yonatangross/orchestkit",
-    "stars": 224,
-    "updated_at": "2026-08-25T14:24:09Z",
-    "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
-    "description": "AI-powered fitness & nutrition assistant built on RAG \u2014 combines Go and FastAPI microservices with Qdrant vector search ",
-    "id": "Tejas-h-blitz/FitMind",
-    "language": "Svelte",
-    "name": "Tejas-h-blitz/FitMind",
-    "stars": 1,
-    "updated_at": "2026-08-25T14:03:22Z",
-    "url": "https://github.com/Tejas-h-blitz/FitMind"
-  },
-  {
-    "description": "\u5bf9\u8bdd\u5f0f AI \u6570\u636e\u5e93\uff1a\u6587\u4ef6\uff08Excel/PDF/\u626b\u63cf\u4ef6\uff09\u2192 \u53ef\u67e5\u8be2\u6570\u636e\u5e93\uff1bMCP \u80fd\u529b\u9762 + 38 \u539f\u5b50\u5de5\u5177 + \u5951\u7ea6\u5b89\u5168\u5c42\uff08AI \u4e0d\u751f\u6210 SQL\uff09\uff1bAGPL/\u5546\u4e1a\u53cc\u8f68",
-    "id": "JackeyLove1225/SuperAIDB",
-    "language": "Python",
-    "name": "JackeyLove1225/SuperAIDB",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:19:10Z",
-    "url": "https://github.com/JackeyLove1225/SuperAIDB"
-  },
-  {
-    "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a\u7a0b\u5e8f\u4e2d\u6269\u5c55\u5b9e\u73b0AI\u529f\u80fd",
-    "id": "coolight7/agentxx",
-    "language": "C++",
-    "name": "coolight7/agentxx",
-    "stars": 5,
-    "updated_at": "2026-08-25T14:02:47Z",
-    "url": "https://github.com/coolight7/agentxx"
   }
 ]
