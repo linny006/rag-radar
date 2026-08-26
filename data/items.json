@@ -1,5 +1,41 @@
 [
   {
+    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
+    "id": "Arasz/ai-raccoon",
+    "language": "C#",
+    "name": "Arasz/ai-raccoon",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:31:58Z",
+    "url": "https://github.com/Arasz/ai-raccoon"
+  },
+  {
+    "description": "\u9690\u79c1\u4f18\u5148\u7684\u4e2d\u6587\u77e5\u8bc6\u5e93 RAG \u5e73\u53f0\uff1a\u6df7\u5408\u68c0\u7d22\uff08\u7a20\u5bc6+BM25+RRF\uff09\u3001\u8bc1\u636e\u8def\u7531\u3001\u7ed3\u6784\u5316\u5f15\u7528\u56de\u7b54\u3001\u591a\u79df\u6237 API \u4e0e\u8bc4\u6d4b\u6cbb\u7406",
+    "id": "XWsight/rag-system",
+    "language": "Python",
+    "name": "XWsight/rag-system",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:31:40Z",
+    "url": "https://github.com/XWsight/rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "ZSender \u2014 An enterprise-grade SaaS platform for multi-channel customer messaging, AI-powered chatbots (RAG), visual work",
     "id": "3flonet/ZSender",
     "language": "PHP",
@@ -70,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:25:58Z",
     "url": "https://github.com/mizuno0237/supply-chain-knowledge-hub"
+  },
+  {
+    "description": "Agentic RAG pipeline for biomedical evidence discovery: query planning and multi-round search across twelve public datab",
+    "id": "mauroforlin/ebm-lens",
+    "language": "Python",
+    "name": "mauroforlin/ebm-lens",
+    "stars": 2,
+    "updated_at": "2026-08-26T13:25:31Z",
+    "url": "https://github.com/mauroforlin/ebm-lens"
   },
   {
     "description": "Durable, evidence-aware project memory for MCP agents",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "jasonzliang/caesar-agent",
     "stars": 7,
-    "updated_at": "2026-08-26T13:18:45Z",
+    "updated_at": "2026-08-26T13:32:13Z",
     "url": "https://github.com/jasonzliang/caesar-agent"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "wish-maker/minder",
     "stars": 4,
-    "updated_at": "2026-08-26T13:16:59Z",
+    "updated_at": "2026-08-26T13:31:05Z",
     "url": "https://github.com/wish-maker/minder"
   },
   {
@@ -347,26 +392,8 @@
     "language": "Python",
     "name": "aeshef/obsidian-agent",
     "stars": 5,
-    "updated_at": "2026-08-26T13:16:13Z",
+    "updated_at": "2026-08-26T13:32:05Z",
     "url": "https://github.com/aeshef/obsidian-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "SOAT \u2014 open-source infrastructure for production-ready AI agents.",
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "ttoss/soat",
     "stars": 3,
-    "updated_at": "2026-08-26T13:21:13Z",
+    "updated_at": "2026-08-26T13:30:38Z",
     "url": "https://github.com/ttoss/soat"
   },
   {
@@ -394,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:14:20Z",
     "url": "https://github.com/velocityaigroup/velocity-hospitality-os"
-  },
-  {
-    "description": "Agentic RAG pipeline for biomedical evidence discovery: query planning and multi-round search across twelve public datab",
-    "id": "mauroforlin/ebm-lens",
-    "language": "Python",
-    "name": "mauroforlin/ebm-lens",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:25:31Z",
-    "url": "https://github.com/mauroforlin/ebm-lens"
   },
   {
     "description": "An AI-powered Enterprise Agile OS that instantly translates raw client audio and notes into client pitch decks, PM epics",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:13:24Z",
     "url": "https://github.com/navdeep-h-singh/video-to-llm"
-  },
-  {
-    "description": "Local-first semantic-memory and knowledge-graph server for AI agents. Rust + hybrid RAG retrieval, temporal facts, human",
-    "id": "markfietje/brain-server",
-    "language": "Rust",
-    "name": "markfietje/brain-server",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:23:28Z",
-    "url": "https://github.com/markfietje/brain-server"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 89308,
-    "updated_at": "2026-08-26T13:23:23Z",
-    "url": "https://github.com/infiniflow/ragflow"
   }
 ]
