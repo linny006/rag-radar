@@ -1,5 +1,68 @@
 [
   {
+    "description": "Long-term memory plugin for DeepSeek Harness: semantic recall, entity graph, task board, presets, and configurable embed",
+    "id": "UnKnownFish125/dsh-deepmemory",
+    "language": "Python",
+    "name": "UnKnownFish125/dsh-deepmemory",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:59:59Z",
+    "url": "https://github.com/UnKnownFish125/dsh-deepmemory"
+  },
+  {
+    "description": "AI \u5927\u6a21\u578b\u672f\u8bed\u8868 | Bilingual AI/LLM Glossary: 120+ terms covering LLM training, fine-tuning, RAG, Agents, inference, multimodal",
+    "id": "JingHao-Leon/ai-llm-glossary",
+    "language": "\u2014",
+    "name": "JingHao-Leon/ai-llm-glossary",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:59:52Z",
+    "url": "https://github.com/JingHao-Leon/ai-llm-glossary"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:59:43Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Coming Soon ",
+    "id": "shreyassahoo1/Enterprise-AI",
+    "language": "\u2014",
+    "name": "shreyassahoo1/Enterprise-AI",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:59:27Z",
+    "url": "https://github.com/shreyassahoo1/Enterprise-AI"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 2,
+    "updated_at": "2026-08-26T15:58:21Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:58:15Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Full-stack E-Commerce Platform & AI Sales Assistant Agent (RAG + Function Calling) built with Nuxt 3, TypeScript, Google",
+    "id": "phamhoangvu2k7/Ecommerce",
+    "language": "Vue",
+    "name": "phamhoangvu2k7/Ecommerce",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:58:12Z",
+    "url": "https://github.com/phamhoangvu2k7/Ecommerce"
+  },
+  {
     "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
     "id": "apod-1/ZoltarFinancial",
     "language": "Python",
@@ -7,6 +70,33 @@
     "stars": 3,
     "updated_at": "2026-08-26T15:57:19Z",
     "url": "https://github.com/apod-1/ZoltarFinancial"
+  },
+  {
+    "description": "Multi-agent system for multi-hop information retrieval: query decomposition, tool-augmented retrieval, knowledge-graph t",
+    "id": "PirMustafa/agentic-ir",
+    "language": "TeX",
+    "name": "PirMustafa/agentic-ir",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:57:18Z",
+    "url": "https://github.com/PirMustafa/agentic-ir"
+  },
+  {
+    "description": "Local-first BYOK workbench for drafting, reviewing, citing, and exporting product requirements documents.",
+    "id": "prashanthnimmagadda/prd-genie",
+    "language": "TypeScript",
+    "name": "prashanthnimmagadda/prd-genie",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:56:55Z",
+    "url": "https://github.com/prashanthnimmagadda/prd-genie"
+  },
+  {
+    "description": "NOMOS v0.3.0 is an auditable decision orchestration layer built on deterministic v0.2 foundation, scoring 95/100 in IMDA",
+    "id": "nohn3043-arch/second-perspective",
+    "language": "Python",
+    "name": "nohn3043-arch/second-perspective",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:56:55Z",
+    "url": "https://github.com/nohn3043-arch/second-perspective"
   },
   {
     "description": "Practical AI application projects across RAG, AI agents, evaluation, and business intelligence.",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "cgfixit/CyClaw",
     "stars": 6,
-    "updated_at": "2026-08-26T15:57:37Z",
+    "updated_at": "2026-08-26T15:58:35Z",
     "url": "https://github.com/cgfixit/CyClaw"
   },
   {
@@ -70,33 +160,6 @@
     "stars": 52,
     "updated_at": "2026-08-26T15:54:02Z",
     "url": "https://github.com/gefsikatsinelou/MetaSearchMCP"
-  },
-  {
-    "description": "Multi-agent system for multi-hop information retrieval: query decomposition, tool-augmented retrieval, knowledge-graph t",
-    "id": "PirMustafa/agentic-ir",
-    "language": "\u2014",
-    "name": "PirMustafa/agentic-ir",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:57:18Z",
-    "url": "https://github.com/PirMustafa/agentic-ir"
-  },
-  {
-    "description": "Coming Soon ",
-    "id": "shreyassahoo1/Enterprise-AI",
-    "language": "\u2014",
-    "name": "shreyassahoo1/Enterprise-AI",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:55:55Z",
-    "url": "https://github.com/shreyassahoo1/Enterprise-AI"
-  },
-  {
-    "description": "AI \u5927\u6a21\u578b\u672f\u8bed\u8868 | Bilingual AI/LLM Glossary: 120+ terms covering LLM training, fine-tuning, RAG, Agents, inference, multimodal",
-    "id": "JingHao-Leon/ai-llm-glossary",
-    "language": "\u2014",
-    "name": "JingHao-Leon/ai-llm-glossary",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:53:37Z",
-    "url": "https://github.com/JingHao-Leon/ai-llm-glossary"
   },
   {
     "description": "AI-native workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscri",
@@ -124,15 +187,6 @@
     "stars": 24,
     "updated_at": "2026-08-26T15:51:31Z",
     "url": "https://github.com/dev-core-busy/jarvis"
-  },
-  {
-    "description": "Local-first BYOK workbench for drafting, reviewing, citing, and exporting product requirements documents.",
-    "id": "prashanthnimmagadda/prd-genie",
-    "language": "TypeScript",
-    "name": "prashanthnimmagadda/prd-genie",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:56:55Z",
-    "url": "https://github.com/prashanthnimmagadda/prd-genie"
   },
   {
     "description": "Production-grade AI Engineering handbook in Vietnamese: RAG, agents, evaluation, security, observability, scaling and go",
@@ -243,15 +297,6 @@
     "url": "https://github.com/abhishekkp00/Abhi.iterates-OS"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T15:46:07Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Vyact is an open-source, local-first personal AI workspace for llama.cpp, RAG, AI agents, document intelligence, and Goo",
     "id": "vyact/vyact",
     "language": "TypeScript",
@@ -261,15 +306,6 @@
     "url": "https://github.com/vyact/vyact"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T15:45:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "NDAKJin/travel-agent",
     "language": "Java",
@@ -277,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-08-26T15:45:35Z",
     "url": "https://github.com/NDAKJin/travel-agent"
-  },
-  {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 2,
-    "updated_at": "2026-08-26T15:57:15Z",
-    "url": "https://github.com/Matlan1/localm"
   },
   {
     "description": "An Agentic AI-powered farming assistant that combines LLMs, RAG and intelligent tool use to provide reliable agricultura",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "justForever17/v8-agent-os",
     "stars": 2,
-    "updated_at": "2026-08-26T15:41:26Z",
+    "updated_at": "2026-08-26T15:59:57Z",
     "url": "https://github.com/justForever17/v8-agent-os"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/jianingcai0415-netizen/agentic-aiops-practice"
   },
   {
-    "description": "Full-stack E-Commerce Platform & AI Sales Assistant Agent (RAG + Function Calling) built with Nuxt 3, TypeScript, Google",
-    "id": "phamhoangvu2k7/Ecommerce",
-    "language": "Vue",
-    "name": "phamhoangvu2k7/Ecommerce",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:39:22Z",
-    "url": "https://github.com/phamhoangvu2k7/Ecommerce"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 24590,
     "updated_at": "2026-08-26T15:39:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI-powered SRE agent for homelab infrastructure monitoring, OODA sweeps, RAG memory, and remediation workflows",
-    "id": "aachtenberg/cfoperator",
-    "language": "Python",
-    "name": "aachtenberg/cfoperator",
-    "stars": 2,
-    "updated_at": "2026-08-26T15:51:58Z",
-    "url": "https://github.com/aachtenberg/cfoperator"
-  },
-  {
-    "description": "An AI Skill Runtime for knowledge-intensive work. It connects reusable knowledge, executable Skills, observable workflow",
-    "id": "LazyAGI/LazyMind",
-    "language": "TypeScript",
-    "name": "LazyAGI/LazyMind",
-    "stars": 73,
-    "updated_at": "2026-08-26T15:38:20Z",
-    "url": "https://github.com/LazyAGI/LazyMind"
   }
 ]
