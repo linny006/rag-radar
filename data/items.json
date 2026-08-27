@@ -1,12 +1,93 @@
 [
   {
-    "description": "Open-source platform for building AI agents with long-term memory, multi-channel support (Telegram, Slack, WhatsApp) and",
-    "id": "polyant-ai/polyant",
-    "language": "TypeScript",
-    "name": "polyant-ai/polyant",
-    "stars": 6,
-    "updated_at": "2026-08-27T13:28:35Z",
-    "url": "https://github.com/polyant-ai/polyant"
+    "description": "Delphi-native, MIT-licensed RAG + linter for Delphi/Pascal source code. Symbol-exact + fuzzy + tree-sitter lint. Pure De",
+    "id": "Alexl-git/Delphi-RAG-Lint",
+    "language": "Pascal",
+    "name": "Alexl-git/Delphi-RAG-Lint",
+    "stars": 16,
+    "updated_at": "2026-08-27T13:45:12Z",
+    "url": "https://github.com/Alexl-git/Delphi-RAG-Lint"
+  },
+  {
+    "description": "API de RAG sobre documentos: FastAPI + PostgreSQL/pgvector +    LangChain",
+    "id": "brunsilva-jc/document-intelligence-miner",
+    "language": "Python",
+    "name": "brunsilva-jc/document-intelligence-miner",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:45:05Z",
+    "url": "https://github.com/brunsilva-jc/document-intelligence-miner"
+  },
+  {
+    "description": "\u793e\u5185\u898f\u5b9a\u30fb\u696d\u52d9\u30de\u30cb\u30e5\u30a2\u30eb\u3092\u30ca\u30ec\u30c3\u30b8\u5316\u3057\u3066\u793e\u5185Q&A\u3092\u5b9f\u73fe\u3059\u308bWindows\u30ed\u30fc\u30ab\u30ebAI\u30c4\u30fc\u30eb\u3002RAG\uff08\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u691c\u7d22: BM25+\u30d9\u30af\u30c8\u30eb\uff09\u30fbbge-m3\u30fb\u30cf\u30eb\u30b7\u30cd\u30fc\u30b7\u30e7\u30f3\u6291\u5236\u30d7\u30ed\u30f3\u30d7\u30c8\u30fb\u7528\u9014\u5225\u30d7\u30ea\u30bb\u30c3\u30c8\uff08\u7d4c\u8cbb\u7cbe\u7b97\u30ac\u30a4\u30c9/IT\u30d8\u30eb\u30d7\u30c7\u30b9\u30af",
+    "id": "Shineos/shineos-qa-assistant",
+    "language": "Python",
+    "name": "Shineos/shineos-qa-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:42:18Z",
+    "url": "https://github.com/Shineos/shineos-qa-assistant"
+  },
+  {
+    "description": "Full Stack Developer | Angular, FastAPI, Python & AI/RAG Integrations",
+    "id": "mee96/mee96",
+    "language": "\u2014",
+    "name": "mee96/mee96",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:41:43Z",
+    "url": "https://github.com/mee96/mee96"
+  },
+  {
+    "description": "A python application designed for text generation, retrieval-augmented generation (RAG), and semantic search using a fin",
+    "id": "is-leeroy-jenkins/Leeroy",
+    "language": "HTML",
+    "name": "is-leeroy-jenkins/Leeroy",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:41:25Z",
+    "url": "https://github.com/is-leeroy-jenkins/Leeroy"
+  },
+  {
+    "description": "\u8bc1\u636e\u9a71\u52a8\u7684\u4f01\u4e1a ERP \u6545\u969c\u8bca\u65ad Agent\uff1aLangGraph\u3001RAG\u3001\u53d7\u63a7\u5de5\u5177\u3001Evidence Guard \u4e0e HITL\uff08Next.js + FastAPI\uff09",
+    "id": "violetloveAI/enterprise-support-copilot",
+    "language": "Python",
+    "name": "violetloveAI/enterprise-support-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:41:24Z",
+    "url": "https://github.com/violetloveAI/enterprise-support-copilot"
+  },
+  {
+    "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, C",
+    "id": "KanenasInGreece/Shared_Memory",
+    "language": "Python",
+    "name": "KanenasInGreece/Shared_Memory",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:43:35Z",
+    "url": "https://github.com/KanenasInGreece/Shared_Memory"
+  },
+  {
+    "description": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data int",
+    "id": "oceanbase/seekdb",
+    "language": "C++",
+    "name": "oceanbase/seekdb",
+    "stars": 2885,
+    "updated_at": "2026-08-27T13:42:59Z",
+    "url": "https://github.com/oceanbase/seekdb"
+  },
+  {
+    "description": "\u591aAgent\u6295\u7814\u62a5\u544a\u7cfb\u7edf \u00b7 FastAPI + pgvector \u00b7 DAG\u7f16\u6392/critic\u5ba1\u67e5\u56de\u8def/\u9875\u7ea7\u5f15\u7528RAG/\u53cc\u5c42\u9884\u7b97\u9650\u6d41\u964d\u7ea7/46\u7528\u4f8b\u8bc4\u6d4b\uff08AI\u5e94\u7528\u5f00\u53d1\u6c42\u804c\u4f5c\u54c1\uff09",
+    "id": "2014796227/AI-Agent-LLM-Job",
+    "language": "Python",
+    "name": "2014796227/AI-Agent-LLM-Job",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:40:11Z",
+    "url": "https://github.com/2014796227/AI-Agent-LLM-Job"
+  },
+  {
+    "description": "AI-powered lead generation pipeline with ML scoring & RAG pitch generation",
+    "id": "AndreyKuptsov/lead-hunter",
+    "language": "Python",
+    "name": "AndreyKuptsov/lead-hunter",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:39:44Z",
+    "url": "https://github.com/AndreyKuptsov/lead-hunter"
   },
   {
     "description": "Open-source enterprise Conversation State Orchestration Platform. Deterministic workflow/state engine for LLM-driven con",
@@ -14,17 +95,35 @@
     "language": "TypeScript",
     "name": "irosadie/open-state",
     "stars": 1,
-    "updated_at": "2026-08-27T13:27:42Z",
+    "updated_at": "2026-08-27T13:39:17Z",
     "url": "https://github.com/irosadie/open-state"
   },
   {
-    "description": "",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:30:20Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
+    "description": "\u5c0f\u598d\u662f\u4e00\u6b3e\u9762\u5411\u79d1\u7814\u5b66\u4e60\u4e0e\u8bba\u6587\u5de5\u4f5c\u7684 AI \u7814\u7a76\u52a9\u624b\u3002\u9762\u5bf9\u7eb7\u7e41\u590d\u6742\u7684\u8bba\u6587\u4e0e\u4fe1\u606f\uff0c\u5979\u5e2e\u4f60\u5398\u6e05\u7814\u7a76\u8109\u7edc\uff1a\u8f93\u5165\u4e00\u4e2a\u4e3b\u9898\uff0c\u591a Agent \u534f\u4f5c\u62c6\u89e3\u5b66\u4e60\u8def\u5f84\u3001\u7b5b\u9009\u5fc5\u8bfb\u8bba\u6587\uff0c\u5e76\u751f\u6210\u7ed3\u6784\u5316\u7efc\u8ff0\u3002 PDF \u62d6\u5165\u5373\u53ef\u5206\u6790\uff0c\u56fe\u8868\u8bc6\u522b\u3001\u590d\u73b0\u5efa\u8bae\u4e0e\u5f15\u7528\u6eaf\u6e90\u65e0\u7f1d\u8854\u63a5\uff1b",
+    "id": "Yurken/xiaoyan",
+    "language": "TypeScript",
+    "name": "Yurken/xiaoyan",
+    "stars": 5,
+    "updated_at": "2026-08-27T13:44:50Z",
+    "url": "https://github.com/Yurken/xiaoyan"
+  },
+  {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:39:03Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
+    "id": "cgfixit/CyClaw",
+    "language": "Python",
+    "name": "cgfixit/CyClaw",
+    "stars": 6,
+    "updated_at": "2026-08-27T13:38:29Z",
+    "url": "https://github.com/cgfixit/CyClaw"
   },
   {
     "description": "XOne - The Open Agentic Studio",
@@ -32,89 +131,80 @@
     "language": "Python",
     "name": "abhishekpandaOfficial/XOne",
     "stars": 1,
-    "updated_at": "2026-08-27T13:26:19Z",
+    "updated_at": "2026-08-27T13:38:14Z",
     "url": "https://github.com/abhishekpandaOfficial/XOne"
   },
   {
-    "description": "Adaptive Learning OS is a full-stack learning platform that transforms study materials into an organized, searchable kno",
-    "id": "Apepsis/Adaptative-Learning-OS",
+    "description": "ClearRAG \u2014 A hybrid Retrieval-Augmented QA system designed to reduce LLM hallucinations through evidence verification, a",
+    "id": "NoelNinanSheri1307/ClearRAG",
     "language": "Python",
-    "name": "Apepsis/Adaptative-Learning-OS",
+    "name": "NoelNinanSheri1307/ClearRAG",
     "stars": 0,
-    "updated_at": "2026-08-27T13:27:17Z",
-    "url": "https://github.com/Apepsis/Adaptative-Learning-OS"
+    "updated_at": "2026-08-27T13:37:32Z",
+    "url": "https://github.com/NoelNinanSheri1307/ClearRAG"
   },
   {
-    "description": "RAG h\u00edbrido BM25 + vetorial: fus\u00e3o de scores, reranking heur\u00edstico, cita\u00e7\u00f5es fundamentadas e endpoint de avalia\u00e7\u00e3o Recal",
-    "id": "lucianoon/enterprise-rag-system",
-    "language": "Python",
-    "name": "lucianoon/enterprise-rag-system",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:25:50Z",
-    "url": "https://github.com/lucianoon/enterprise-rag-system"
-  },
-  {
-    "description": "Canvas Server runtime",
-    "id": "canvas-ui/canvas-server",
-    "language": "JavaScript",
-    "name": "canvas-ui/canvas-server",
-    "stars": 2,
-    "updated_at": "2026-08-27T13:29:22Z",
-    "url": "https://github.com/canvas-ui/canvas-server"
-  },
-  {
-    "description": "Early warning system for heat and cold risk. Predicts personalized thermal mortality risk by age, sex, comorbidities and",
-    "id": "ANFAIA/ClimaSafe",
-    "language": "Jupyter Notebook",
-    "name": "ANFAIA/ClimaSafe",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:25:04Z",
-    "url": "https://github.com/ANFAIA/ClimaSafe"
-  },
-  {
-    "description": "Perfil de Engenheiro de IA com foco em produ\u00e7\u00e3o",
-    "id": "lucianoon/lucianoon",
-    "language": "\u2014",
-    "name": "lucianoon/lucianoon",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:24:18Z",
-    "url": "https://github.com/lucianoon/lucianoon"
-  },
-  {
-    "description": "Local-first learning workspace for recording, understanding, and revising university lectures with traceable AI.",
-    "id": "Shoko-official/StudentLLM",
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
     "language": "TypeScript",
-    "name": "Shoko-official/StudentLLM",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:30:02Z",
-    "url": "https://github.com/Shoko-official/StudentLLM"
+    "name": "elizaOS/eliza",
+    "stars": 19186,
+    "updated_at": "2026-08-27T13:44:51Z",
+    "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "Hybrid retrieval over an audit corpus with pgvector \u2014 grounded answers with validated citations, and a golden-set eval h",
-    "id": "Mr-vero/audit-rag",
-    "language": "\u2014",
-    "name": "Mr-vero/audit-rag",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:23:03Z",
-    "url": "https://github.com/Mr-vero/audit-rag"
-  },
-  {
-    "description": "Built an agentic financial investigation system combining a VAE anomaly detector trained on 285K+ financial sequences wi",
-    "id": "abbashumein/financial-anomaly-detection",
+    "description": "RAG chat prototype answering questions about Italian politics, economy, and current affairs using ilpost.it articles as ",
+    "id": "ema-0/postbot",
     "language": "Python",
-    "name": "abbashumein/financial-anomaly-detection",
+    "name": "ema-0/postbot",
     "stars": 0,
-    "updated_at": "2026-08-27T13:22:48Z",
-    "url": "https://github.com/abbashumein/financial-anomaly-detection"
+    "updated_at": "2026-08-27T13:37:02Z",
+    "url": "https://github.com/ema-0/postbot"
   },
   {
-    "description": "Local AI over your own files and databases. Asks when it's unsure, remembers your answers, cites every claim. Runs entir",
-    "id": "Rumeasiyan/askwell",
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 14,
+    "updated_at": "2026-08-27T13:43:28Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "Open-source platform for building AI agents with long-term memory, multi-channel support (Telegram, Slack, WhatsApp) and",
+    "id": "polyant-ai/polyant",
+    "language": "TypeScript",
+    "name": "polyant-ai/polyant",
+    "stars": 6,
+    "updated_at": "2026-08-27T13:36:03Z",
+    "url": "https://github.com/polyant-ai/polyant"
+  },
+  {
+    "description": "Build, run and scale AI agents like API and microservices",
+    "id": "Agent-Field/agentfield",
+    "language": "Go",
+    "name": "Agent-Field/agentfield",
+    "stars": 2529,
+    "updated_at": "2026-08-27T13:35:43Z",
+    "url": "https://github.com/Agent-Field/agentfield"
+  },
+  {
+    "description": "Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo",
+    "id": "getsynkora/synkora-ai",
     "language": "Python",
-    "name": "Rumeasiyan/askwell",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:22:06Z",
-    "url": "https://github.com/Rumeasiyan/askwell"
+    "name": "getsynkora/synkora-ai",
+    "stars": 28,
+    "updated_at": "2026-08-27T13:35:05Z",
+    "url": "https://github.com/getsynkora/synkora-ai"
+  },
+  {
+    "description": "Embedded Cypher knowledge graph for Python and Rust. Bundled MCP server, describe() schema, and code-graph parser for LL",
+    "id": "kkollsga/kglite",
+    "language": "Rust",
+    "name": "kkollsga/kglite",
+    "stars": 37,
+    "updated_at": "2026-08-27T13:34:41Z",
+    "url": "https://github.com/kkollsga/kglite"
   },
   {
     "description": "Self-hosted, multi-user transcription platform: record or upload audio. Speaker-labeled, timestamped transcripts, Recogn",
@@ -122,17 +212,107 @@
     "language": "C#",
     "name": "kenhayward/Diariz",
     "stars": 4,
-    "updated_at": "2026-08-27T13:29:00Z",
+    "updated_at": "2026-08-27T13:40:38Z",
     "url": "https://github.com/kenhayward/Diariz"
   },
   {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
+    "description": "Eval harness, judge calibration and cost/trace observability for a multi-tool LLM agent - cross-marketplace price compar",
+    "id": "Kostanych/crossmarket-agent",
     "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 145117,
-    "updated_at": "2026-08-27T13:21:02Z",
-    "url": "https://github.com/langchain-ai/langchain"
+    "name": "Kostanych/crossmarket-agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:34:07Z",
+    "url": "https://github.com/Kostanych/crossmarket-agent"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 31789,
+    "updated_at": "2026-08-27T13:34:04Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-27T13:33:50Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Turn local files into searchable context for AI agents.",
+    "id": "liliu-z/stashbase",
+    "language": "TypeScript",
+    "name": "liliu-z/stashbase",
+    "stars": 465,
+    "updated_at": "2026-08-27T13:31:32Z",
+    "url": "https://github.com/liliu-z/stashbase"
+  },
+  {
+    "description": "Adaptive Learning OS is a full-stack learning platform that transforms study materials into an organized, searchable kno",
+    "id": "Apepsis/Adaptative-Learning-OS",
+    "language": "Python",
+    "name": "Apepsis/Adaptative-Learning-OS",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:31:28Z",
+    "url": "https://github.com/Apepsis/Adaptative-Learning-OS"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:30:59Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:30:41Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
+  },
+  {
+    "description": "\u57fa\u4e8e Spring Boot 3 + Spring AI \u7684\u533b\u9662\u751f\u4ea7\u7ea7 AI \u95ee\u8bca\u540e\u7aef\uff1a\u5b98\u65b9 ChatMemory + \u81ea\u5b9a\u4e49\u4ed3\u50a8\uff08ShardingSphere-JDBC 16\u5206\u8868 + Redis \u7f13\u5b58\u3001Protobuf \u5e8f\u5217\u5316\uff09\uff0cSpri",
+    "id": "xxinjie21/springai-med-qa",
+    "language": "Java",
+    "name": "xxinjie21/springai-med-qa",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:30:38Z",
+    "url": "https://github.com/xxinjie21/springai-med-qa"
+  },
+  {
+    "description": "Evidence-grounded paper RAG and Deep Research system with PDF/OCR ingestion, hybrid retrieval, claim-level citations, De",
+    "id": "zhangjf314/Research",
+    "language": "Python",
+    "name": "zhangjf314/Research",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:30:27Z",
+    "url": "https://github.com/zhangjf314/Research"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Lightweight local-first AI agent harness and Corporate Oracle for project operations",
@@ -144,49 +324,13 @@
     "url": "https://github.com/MaxJafar/openprojects-harness"
   },
   {
-    "description": "A quality-gated League of Legends post-game coaching agent built on deterministic match data, RAG, and LLM evaluation.",
-    "id": "123Cx330Yrx/riftcoach-agent",
-    "language": "Python",
-    "name": "123Cx330Yrx/riftcoach-agent",
-    "stars": 45,
-    "updated_at": "2026-08-27T13:20:53Z",
-    "url": "https://github.com/123Cx330Yrx/riftcoach-agent"
-  },
-  {
-    "description": "Speech-to-intelligence \u2014 provider-agnostic transcription (WhisperX/Groq/Deepgram/AssemblyAI) + multi-LLM analysis by cal",
-    "id": "Yacine-ai-tech/VoiceFlow",
-    "language": "Python",
-    "name": "Yacine-ai-tech/VoiceFlow",
+    "description": "Local-first learning workspace for recording, understanding, and revising university lectures with traceable AI.",
+    "id": "Shoko-official/StudentLLM",
+    "language": "TypeScript",
+    "name": "Shoko-official/StudentLLM",
     "stars": 1,
-    "updated_at": "2026-08-27T13:20:23Z",
-    "url": "https://github.com/Yacine-ai-tech/VoiceFlow"
-  },
-  {
-    "description": "RAG-based Document Q&A Application | LLM Embeddings, Vector Search (Qdrant), FastAPI, LangChain & Docker",
-    "id": "taran-dev4u/rag-document-qa-application",
-    "language": "\u2014",
-    "name": "taran-dev4u/rag-document-qa-application",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:19:44Z",
-    "url": "https://github.com/taran-dev4u/rag-document-qa-application"
-  },
-  {
-    "description": "GPU-accelerated semantic search for your docs and source code - hybrid dense + sparse RAG on a local Qdrant backend, ser",
-    "id": "nevenincs/vaultspec-rag",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-rag",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:19:14Z",
-    "url": "https://github.com/nevenincs/vaultspec-rag"
-  },
-  {
-    "description": "\u684c\u4f34 Sidemate \u2014 \u672c\u5730\u4f18\u5148\u7684 AI \u684c\u9762\u5e94\u7528\uff1a\u79bb\u7ebf\u6a21\u578b/\u5728\u7ebf API \u53cc\u6a21\uff0c\u672c\u5730\u77e5\u8bc6\u5e93\uff0c\u6570\u636e\u4e0d\u51fa\u672c\u673a",
-    "id": "zwq871482439/sidemate",
-    "language": "Python",
-    "name": "zwq871482439/sidemate",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:18:55Z",
-    "url": "https://github.com/zwq871482439/sidemate"
+    "updated_at": "2026-08-27T13:30:02Z",
+    "url": "https://github.com/Shoko-official/StudentLLM"
   },
   {
     "description": "\u73b0\u4ee3\u5927\u6a21\u578b\u6307\u5357",
@@ -198,130 +342,40 @@
     "url": "https://github.com/wizardAEI/WaytoLLM"
   },
   {
-    "description": "Universal memory layer for AI Agents",
-    "id": "mem0ai/mem0",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "mem0ai/mem0",
-    "stars": 64184,
-    "updated_at": "2026-08-27T13:18:32Z",
-    "url": "https://github.com/mem0ai/mem0"
+    "name": "VectifyAI/PageIndex",
+    "stars": 35340,
+    "updated_at": "2026-08-27T13:37:20Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Production-grade multi-tenant AI workspace: RAG chat over private knowledge with measured faithfulness & refusal \u2014 built",
-    "id": "Sudeepxe/aether-ai-workspace",
-    "language": "Python",
-    "name": "Sudeepxe/aether-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:17:39Z",
-    "url": "https://github.com/Sudeepxe/aether-ai-workspace"
-  },
-  {
-    "description": "Embedded Cypher knowledge graph for Python and Rust. Bundled MCP server, describe() schema, and code-graph parser for LL",
-    "id": "kkollsga/kglite",
-    "language": "Rust",
-    "name": "kkollsga/kglite",
-    "stars": 37,
-    "updated_at": "2026-08-27T13:17:31Z",
-    "url": "https://github.com/kkollsga/kglite"
-  },
-  {
-    "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability.",
-    "id": "ebongard/renfield",
-    "language": "Python",
-    "name": "ebongard/renfield",
-    "stars": 34,
-    "updated_at": "2026-08-27T13:17:08Z",
-    "url": "https://github.com/ebongard/renfield"
-  },
-  {
-    "description": "Java + Python \u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u5de5\u7a0b\u9879\u76ee\uff1a\u6df7\u5408\u68c0\u7d22\u3001\u53ef\u56de\u5f52\u8bc4\u4f30\u3001\u6709\u754c\u5e76\u53d1\u4e0e\u516c\u7f51\u6f14\u793a",
-    "id": "izz-BLUE/enterprise-ai-copilot",
-    "language": "Python",
-    "name": "izz-BLUE/enterprise-ai-copilot",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:17:05Z",
-    "url": "https://github.com/izz-BLUE/enterprise-ai-copilot"
-  },
-  {
-    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
-    "id": "apod-1/ZoltarFinancial",
-    "language": "Python",
-    "name": "apod-1/ZoltarFinancial",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:16:34Z",
-    "url": "https://github.com/apod-1/ZoltarFinancial"
-  },
-  {
-    "description": "Build, run and scale AI agents like API and microservices",
-    "id": "Agent-Field/agentfield",
-    "language": "Go",
-    "name": "Agent-Field/agentfield",
-    "stars": 2528,
-    "updated_at": "2026-08-27T13:16:08Z",
-    "url": "https://github.com/Agent-Field/agentfield"
-  },
-  {
-    "description": "Side project: RAG over NASA's Astronomy Picture of the Day archive. Nuxt 4, vector search, answers grounded in the retri",
-    "id": "Milenoi/nuxt-nasa-rag",
-    "language": "TypeScript",
-    "name": "Milenoi/nuxt-nasa-rag",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:15:38Z",
-    "url": "https://github.com/Milenoi/nuxt-nasa-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Sanitized AI editorial pipeline with hybrid RAG, human approval, tracing and evals",
-    "id": "Lisadm/Dzen-AI-Publisher-Showcase",
-    "language": "Python",
-    "name": "Lisadm/Dzen-AI-Publisher-Showcase",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:15:25Z",
-    "url": "https://github.com/Lisadm/Dzen-AI-Publisher-Showcase"
-  },
-  {
-    "description": "Vyact is an open-source, local-first personal AI workspace for llama.cpp, RAG, AI agents, document intelligence, and Goo",
-    "id": "vyact/vyact",
-    "language": "TypeScript",
-    "name": "vyact/vyact",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:15:25Z",
-    "url": "https://github.com/vyact/vyact"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI litigation copilot for analyzing Brazilian lawsuit PDFs with RAG, multi-agent orchestration, explainable citations, a",
-    "id": "el-gabri/give-exit",
-    "language": "Python",
-    "name": "el-gabri/give-exit",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:15:03Z",
-    "url": "https://github.com/el-gabri/give-exit"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
+    "description": "Canvas Server runtime",
+    "id": "canvas-ui/canvas-server",
+    "language": "JavaScript",
+    "name": "canvas-ui/canvas-server",
     "stars": 2,
-    "updated_at": "2026-08-27T13:14:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "updated_at": "2026-08-27T13:29:22Z",
+    "url": "https://github.com/canvas-ui/canvas-server"
+  },
+  {
+    "description": "Bot de WhatsApp de alquil.app: RAG jur\u00eddico (pgvector+Gemini), recibos PDF, QA automatizado con 105 casos",
+    "id": "fdelloni/alquilapp-whatsapp-bot",
+    "language": "JavaScript",
+    "name": "fdelloni/alquilapp-whatsapp-bot",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:29:08Z",
+    "url": "https://github.com/fdelloni/alquilapp-whatsapp-bot"
+  },
+  {
+    "description": "Stop feeding broken Markdown to your AI. A deterministic Logseq parser that preserves parent-child context for RAG, plus",
+    "id": "MarcoPorcellato/logseq-matryca-parser",
+    "language": "Python",
+    "name": "MarcoPorcellato/logseq-matryca-parser",
+    "stars": 28,
+    "updated_at": "2026-08-27T13:28:49Z",
+    "url": "https://github.com/MarcoPorcellato/logseq-matryca-parser"
   },
   {
     "description": "The AI search platform",
@@ -329,124 +383,70 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7069,
-    "updated_at": "2026-08-27T13:28:08Z",
+    "updated_at": "2026-08-27T13:44:30Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
-    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "language": "JavaScript",
-    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
+    "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-wo",
+    "id": "onestardao/WFGY",
+    "language": "Jupyter Notebook",
+    "name": "onestardao/WFGY",
+    "stars": 1785,
+    "updated_at": "2026-08-27T13:27:42Z",
+    "url": "https://github.com/onestardao/WFGY"
+  },
+  {
+    "description": "Open-source agentic workspace for professional knowledge work with project memory, client memory, skills, and knowledge ",
+    "id": "guoliang1114-boop/AriaAI",
+    "language": "Python",
+    "name": "guoliang1114-boop/AriaAI",
+    "stars": 37,
+    "updated_at": "2026-08-27T13:27:35Z",
+    "url": "https://github.com/guoliang1114-boop/AriaAI"
+  },
+  {
+    "description": "\u4f60\u7684 AI\uff0c\u4ece\u6b64\u8bb0\u5f97\u4f60\u2014\u2014\u62fe\u5149\u8bb0\u5fc6\u5f15\u64ce\uff0c\u5b83\u8bb0\u5f97\u4f60\u4eec\u804a\u8fc7\u7684\u6bcf\u4e00\u4ef6\u4e8b\uff0c\u8fd8\u4f1a\u4e3b\u52a8\u5173\u5fc3\u4f60\u3002",
+    "id": "freehul/sgme",
+    "language": "Python",
+    "name": "freehul/sgme",
+    "stars": 13,
+    "updated_at": "2026-08-27T13:27:23Z",
+    "url": "https://github.com/freehul/sgme"
+  },
+  {
+    "description": "C# SDK for the Exa API -- AI-powered web search, contents retrieval, and research",
+    "id": "tryAGI/Exa",
+    "language": "C#",
+    "name": "tryAGI/Exa",
     "stars": 0,
-    "updated_at": "2026-08-27T13:14:12Z",
-    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
+    "updated_at": "2026-08-27T13:26:48Z",
+    "url": "https://github.com/tryAGI/Exa"
   },
   {
-    "description": "A modern bilingual portfolio website with a SQLite-native AI chatbot powered by semantic RAG, PHP cosine similarity, and",
-    "id": "alfzilham/AlfizIlham-Portfolio",
-    "language": "PHP",
-    "name": "alfzilham/AlfizIlham-Portfolio",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:14:03Z",
-    "url": "https://github.com/alfzilham/AlfizIlham-Portfolio"
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 425,
+    "updated_at": "2026-08-27T13:26:38Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "\u9690\u79c1\u4f18\u5148\u7684\u4e2d\u6587\u77e5\u8bc6\u5e93 RAG \u5e73\u53f0\uff1a\u6df7\u5408\u68c0\u7d22\uff08\u7a20\u5bc6+BM25+RRF\uff09\u3001\u8bc1\u636e\u8def\u7531\u3001\u7ed3\u6784\u5316\u5f15\u7528\u56de\u7b54\u3001\u591a\u79df\u6237 API \u4e0e\u8bc4\u6d4b\u6cbb\u7406",
-    "id": "XWsight/rag-platform",
+    "description": "RAG h\u00edbrido BM25 + vetorial: fus\u00e3o de scores, reranking heur\u00edstico, cita\u00e7\u00f5es fundamentadas e endpoint de avalia\u00e7\u00e3o Recal",
+    "id": "lucianoon/enterprise-rag-system",
     "language": "Python",
-    "name": "XWsight/rag-platform",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:24:15Z",
-    "url": "https://github.com/XWsight/rag-platform"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:13:17Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "\u5f00\u7bb1\u5373\u7528\u7684AI\u6807\u4e66\u7f16\u5199\u5de5\u5177\uff0c\u6807\u4e66AI\u751f\u6210\u5de5\u5177\uff0c\u6295\u6807\u5de5\u5177\u7bb1\u3001\u77e5\u8bc6\u5e93\u3001\u6807\u4e66\u67e5\u91cd\u3001\u5e9f\u6807\u9879\u68c0\u67e5\uff0c\u5b8c\u5168\u5f00\u6e90\u514d\u8d39\uff0c\u6b22\u8fce\u4f7f\u7528",
-    "id": "FB208/OpenBidKit_Yibiao",
-    "language": "JavaScript",
-    "name": "FB208/OpenBidKit_Yibiao",
-    "stars": 2554,
-    "updated_at": "2026-08-27T13:12:55Z",
-    "url": "https://github.com/FB208/OpenBidKit_Yibiao"
-  },
-  {
-    "description": "Registry of official plugins for mloda.ai",
-    "id": "mloda-ai/mloda-registry",
-    "language": "Python",
-    "name": "mloda-ai/mloda-registry",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:12:33Z",
-    "url": "https://github.com/mloda-ai/mloda-registry"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 71,
-    "updated_at": "2026-08-27T13:12:00Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "RAG & knowledge-systems reference: ingestion, embeddings, vector+metadata retrieval, knowledge-graph relationship mappin",
-    "id": "cjps4linux-creator/ragpilot",
-    "language": "Python",
-    "name": "cjps4linux-creator/ragpilot",
+    "name": "lucianoon/enterprise-rag-system",
     "stars": 0,
-    "updated_at": "2026-08-27T13:11:48Z",
-    "url": "https://github.com/cjps4linux-creator/ragpilot"
+    "updated_at": "2026-08-27T13:25:50Z",
+    "url": "https://github.com/lucianoon/enterprise-rag-system"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 81,
-    "updated_at": "2026-08-27T13:11:36Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "\ud83c\udfaf Full-stack engineer & AI/ML enthusiast building production-grade web apps and LLM-powered systems | React \u00b7 Node.js \u00b7 ",
-    "id": "Aditya-dxt/Aditya-dxt",
-    "language": "\u2014",
-    "name": "Aditya-dxt/Aditya-dxt",
-    "stars": 2,
-    "updated_at": "2026-08-27T13:11:04Z",
-    "url": "https://github.com/Aditya-dxt/Aditya-dxt"
-  },
-  {
-    "description": "Full Stack Developer | Angular, FastAPI, Python & AI/RAG Integrations",
-    "id": "mee96/mee96",
-    "language": "\u2014",
-    "name": "mee96/mee96",
+    "description": "C# SDK for the GroundX API -- RAG infrastructure with document ingestion, search, and content completion",
+    "id": "tryAGI/GroundX",
+    "language": "C#",
+    "name": "tryAGI/GroundX",
     "stars": 0,
-    "updated_at": "2026-08-27T13:10:34Z",
-    "url": "https://github.com/mee96/mee96"
-  },
-  {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:10:48Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 6,
-    "updated_at": "2026-08-27T13:10:19Z",
-    "url": "https://github.com/Mubder/kazma"
+    "updated_at": "2026-08-27T13:25:15Z",
+    "url": "https://github.com/tryAGI/GroundX"
   }
 ]
