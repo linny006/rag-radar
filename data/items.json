@@ -1,21 +1,84 @@
 [
   {
-    "description": "A comprehensive, secure Model Context Protocol server for Onyx",
-    "id": "ByWaleed/onyx-mcp",
-    "language": "TypeScript",
-    "name": "ByWaleed/onyx-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:41:56Z",
-    "url": "https://github.com/ByWaleed/onyx-mcp"
+    "description": "Layered context builder for LLM prompts: RAG over documents, compressed session memory, and a user profile, with a plugg",
+    "id": "Idxeed/protoprompt",
+    "language": "Python",
+    "name": "Idxeed/protoprompt",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:44:58Z",
+    "url": "https://github.com/Idxeed/protoprompt"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "Autonomous AI Agent Infrastructure Platform \u2014 OpenAI-compatible AI gateway with MCP support, multi-agent orchestration, ",
+    "id": "strikersam/autonomous-ai-agency",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-30T18:41:37Z",
-    "url": "https://github.com/gptme/gptme"
+    "name": "strikersam/autonomous-ai-agency",
+    "stars": 8,
+    "updated_at": "2026-08-30T18:44:16Z",
+    "url": "https://github.com/strikersam/autonomous-ai-agency"
+  },
+  {
+    "description": "Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 12+ LLM providers, MCP/",
+    "id": "labsai/EDDI",
+    "language": "Java",
+    "name": "labsai/EDDI",
+    "stars": 372,
+    "updated_at": "2026-08-30T18:44:04Z",
+    "url": "https://github.com/labsai/EDDI"
+  },
+  {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 2,
+    "updated_at": "2026-08-30T18:43:48Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
+  },
+  {
+    "description": "Open-source adaptive AI learning platform. Learn anything. Remember everything.",
+    "id": "aislamsilvalol-ctrl/noema",
+    "language": "Python",
+    "name": "aislamsilvalol-ctrl/noema",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:43:37Z",
+    "url": "https://github.com/aislamsilvalol-ctrl/noema"
+  },
+  {
+    "description": "Organizational failure intelligence: document RAG, grounded evidence, and leading signals. Next.js BFF + FastAPI + Postg",
+    "id": "AzhaghuMaathavan/FailureOps",
+    "language": "Python",
+    "name": "AzhaghuMaathavan/FailureOps",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:43:26Z",
+    "url": "https://github.com/AzhaghuMaathavan/FailureOps"
+  },
+  {
+    "description": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia ",
+    "id": "askimo-ai/askimo",
+    "language": "Kotlin",
+    "name": "askimo-ai/askimo",
+    "stars": 384,
+    "updated_at": "2026-08-30T18:43:13Z",
+    "url": "https://github.com/askimo-ai/askimo"
+  },
+  {
+    "description": "AI-powered medical assistant using RAG, LangChain, Qdrant, and Hugging Face \u2014 deployed on Render",
+    "id": "R-snehal/MedicBot",
+    "language": "Jupyter Notebook",
+    "name": "R-snehal/MedicBot",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:42:49Z",
+    "url": "https://github.com/R-snehal/MedicBot"
+  },
+  {
+    "description": "Open-source, agentic AI business manager \u2014 multi-agent RAG, AI Employees, Voice AI, CRM & multi-DB integrations, autonom",
+    "id": "antonyrag/ragleap-core",
+    "language": "Python",
+    "name": "antonyrag/ragleap-core",
+    "stars": 8,
+    "updated_at": "2026-08-30T18:42:46Z",
+    "url": "https://github.com/antonyrag/ragleap-core"
   },
   {
     "description": "High-Performance Encrypted Database for .NET 10 | Embedded + gRPC Server | Vector Search \u2022 GraphRAG \u2022 Analytics",
@@ -23,8 +86,89 @@
     "language": "C#",
     "name": "MPCoreDeveloper/SharpCoreDB",
     "stars": 37,
-    "updated_at": "2026-08-30T18:41:26Z",
+    "updated_at": "2026-08-30T18:42:31Z",
     "url": "https://github.com/MPCoreDeveloper/SharpCoreDB"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:42:31Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "A comprehensive, secure Model Context Protocol server for Onyx",
+    "id": "ByWaleed/onyx-mcp",
+    "language": "TypeScript",
+    "name": "ByWaleed/onyx-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:42:29Z",
+    "url": "https://github.com/ByWaleed/onyx-mcp"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:42:25Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
+    "description": "Unified Agentic AI and Business Intelligence Platform",
+    "id": "AgentSwarms-fyi/agentswarms",
+    "language": "TypeScript",
+    "name": "AgentSwarms-fyi/agentswarms",
+    "stars": 225,
+    "updated_at": "2026-08-30T18:42:23Z",
+    "url": "https://github.com/AgentSwarms-fyi/agentswarms"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T18:42:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
+    "id": "akyourowngames/friday",
+    "language": "TypeScript",
+    "name": "akyourowngames/friday",
+    "stars": 5,
+    "updated_at": "2026-08-30T18:42:15Z",
+    "url": "https://github.com/akyourowngames/friday"
+  },
+  {
+    "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
+    "id": "daanmt/MedHub",
+    "language": "Python",
+    "name": "daanmt/MedHub",
+    "stars": 1,
+    "updated_at": "2026-08-30T18:42:13Z",
+    "url": "https://github.com/daanmt/MedHub"
+  },
+  {
+    "description": "Retrieval-Augmented Generation, that\u2019s it. That\u2019s the goal of this project.",
+    "id": "krameraad/rag-against-the-machine",
+    "language": "\u2014",
+    "name": "krameraad/rag-against-the-machine",
+    "stars": 0,
+    "updated_at": "2026-08-30T18:42:11Z",
+    "url": "https://github.com/krameraad/rag-against-the-machine"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-30T18:44:24Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -50,7 +194,7 @@
     "language": "Python",
     "name": "scszcoder/eCan.ai",
     "stars": 17,
-    "updated_at": "2026-08-30T18:40:25Z",
+    "updated_at": "2026-08-30T18:44:47Z",
     "url": "https://github.com/scszcoder/eCan.ai"
   },
   {
@@ -61,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T18:40:16Z",
     "url": "https://github.com/Georgi-Petkov/personalknowhow"
-  },
-  {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 2,
-    "updated_at": "2026-08-30T18:41:18Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
   },
   {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
@@ -95,7 +230,7 @@
     "language": "Rust",
     "name": "opswarden-git/opswarden",
     "stars": 0,
-    "updated_at": "2026-08-30T18:41:04Z",
+    "updated_at": "2026-08-30T18:42:46Z",
     "url": "https://github.com/opswarden-git/opswarden"
   },
   {
@@ -122,7 +257,7 @@
     "language": "Python",
     "name": "poingstudios/poing-ai",
     "stars": 1,
-    "updated_at": "2026-08-30T18:37:22Z",
+    "updated_at": "2026-08-30T18:45:07Z",
     "url": "https://github.com/poingstudios/poing-ai"
   },
   {
@@ -203,7 +338,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19215,
-    "updated_at": "2026-08-30T18:38:41Z",
+    "updated_at": "2026-08-30T18:44:59Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -306,15 +441,6 @@
     "url": "https://github.com/KaedeharaT/hvac-ai-analyzer"
   },
   {
-    "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
-    "id": "daanmt/MedHub",
-    "language": "Python",
-    "name": "daanmt/MedHub",
-    "stars": 1,
-    "updated_at": "2026-08-30T18:42:13Z",
-    "url": "https://github.com/daanmt/MedHub"
-  },
-  {
     "description": "\u57fa\u4e8e LangGraph\u3001FastAPI\u3001Streamlit\u3001DeepSeek \u548c RAG \u7684\u4e2d\u6587\u4e2a\u4eba\u751f\u6d3b\u7ba1\u7406 Agent",
     "id": "AFPyannian/lifepilot-agent",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T18:30:30Z",
     "url": "https://github.com/AFPyannian/lifepilot-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T18:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-30T18:30:28Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T18:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
-    "id": "harf-promo/indexa",
-    "language": "Rust",
-    "name": "harf-promo/indexa",
-    "stars": 1,
-    "updated_at": "2026-08-30T18:34:22Z",
-    "url": "https://github.com/harf-promo/indexa"
-  },
-  {
-    "description": "AI-powered medical assistant using RAG, LangChain, Qdrant, and Hugging Face \u2014 deployed on Render",
-    "id": "R-snehal/MedicBot",
-    "language": "Jupyter Notebook",
-    "name": "R-snehal/MedicBot",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:29:47Z",
-    "url": "https://github.com/R-snehal/MedicBot"
-  },
-  {
-    "description": "2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs",
-    "id": "cidade360/mneme-memory-forge",
-    "language": "HTML",
-    "name": "cidade360/mneme-memory-forge",
-    "stars": 1,
-    "updated_at": "2026-08-30T18:29:22Z",
-    "url": "https://github.com/cidade360/mneme-memory-forge"
-  },
-  {
-    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
-    "id": "caura-ai/caura",
-    "language": "Python",
-    "name": "caura-ai/caura",
-    "stars": 470,
-    "updated_at": "2026-08-30T18:40:34Z",
-    "url": "https://github.com/caura-ai/caura"
-  },
-  {
-    "description": "Smart knowledge reuse engine \u2014 extract insights from AI conversations (Claude Code, Codex, ChatGPT)",
-    "id": "majiayu000/refine",
-    "language": "Rust",
-    "name": "majiayu000/refine",
-    "stars": 1,
-    "updated_at": "2026-08-30T18:39:16Z",
-    "url": "https://github.com/majiayu000/refine"
-  },
-  {
-    "description": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-min",
-    "id": "felladrin/MiniSearch",
-    "language": "TypeScript",
-    "name": "felladrin/MiniSearch",
-    "stars": 586,
-    "updated_at": "2026-08-30T18:27:05Z",
-    "url": "https://github.com/felladrin/MiniSearch"
-  },
-  {
-    "description": "Session resilience and shared memory for AI coding agents - journals every turn to local SQLite, curates durable facts, ",
-    "id": "BlackVS/aimem",
-    "language": "Go",
-    "name": "BlackVS/aimem",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:26:55Z",
-    "url": "https://github.com/BlackVS/aimem"
-  },
-  {
-    "description": "Source code of the wahl.chat platform. Our mission: Make politics more accessible.",
-    "id": "wahl-chat/wahl-chat-app",
-    "language": "Python",
-    "name": "wahl-chat/wahl-chat-app",
-    "stars": 11,
-    "updated_at": "2026-08-30T18:26:29Z",
-    "url": "https://github.com/wahl-chat/wahl-chat-app"
-  },
-  {
-    "description": "Open-source local-first AI assistant runtime with graph memory, semantic tool routing, markdown-governed tools, FastAPI/",
-    "id": "akyourowngames/friday",
-    "language": "TypeScript",
-    "name": "akyourowngames/friday",
-    "stars": 5,
-    "updated_at": "2026-08-30T18:42:15Z",
-    "url": "https://github.com/akyourowngames/friday"
-  },
-  {
-    "description": "Open-source adaptive AI learning platform. Learn anything. Remember everything.",
-    "id": "aislamsilvalol-ctrl/noema",
-    "language": "Python",
-    "name": "aislamsilvalol-ctrl/noema",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:40:41Z",
-    "url": "https://github.com/aislamsilvalol-ctrl/noema"
-  },
-  {
-    "description": "AI-powered coffee shop assistant built with Google ADK, Gemini, Streamlit, and a custom RAG workflow. Uses local menu da",
-    "id": "sahil-me/CoffeeShop-AIBarista",
-    "language": "Python",
-    "name": "sahil-me/CoffeeShop-AIBarista",
-    "stars": 0,
-    "updated_at": "2026-08-30T18:23:19Z",
-    "url": "https://github.com/sahil-me/CoffeeShop-AIBarista"
   }
 ]
