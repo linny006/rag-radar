@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-31 15:15 UTC
+> ⏰ Last updated: 2026-08-31 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tylevnovik/ArxivAgent](https://github.com/tylevnovik/ArxivAgent) | 0 | Python | 2026-08-31 | 基于 DeepSeek 大模型 API 驱动的智能论文检索代理，支持 arXiv、OpenAlex、Crossref 等开放学术数据源。 |
-| 2 | [willlee1995/pedirbot-demo](https://github.com/willlee1995/pedirbot-demo) | 0 | Python | 2026-08-31 | Public CIRSE demo of PedIR-Bot: agentic RAG for paediatric IR patient education (architecture + Streamlit; no crawled co |
-| 3 | [syed177013/Local-RAG-using-ChromaDB-for-CSV-files](https://github.com/syed177013/Local-RAG-using-ChromaDB-for-CSV-files) | 0 | — | 2026-08-31 | A basic RAG implementation that uses ChromaDB and a Local LLM aimed towards CSV files |
-| 4 | [irishz12/Agentic-Multi-Hop-RAG](https://github.com/irishz12/Agentic-Multi-Hop-RAG) | 0 | Python | 2026-08-31 | Agentic Multi-Hop RAG system with hybrid retrieval, RRF, reranking, iterative evidence gathering, and cost/latency evalu |
-| 5 | [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) | 1188 | Python | 2026-08-31 | Awesome AI Memory \| LLM Memory \| A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, r |
-| 6 | [Leakyli/Literature-Pseudo-RAG](https://github.com/Leakyli/Literature-Pseudo-RAG) | 0 | — | 2026-08-31 | A simple and lightweight Pseudo-RAG system developed for fetching research papers online to get an accurate research sou |
-| 7 | [FernandoJRR/archiver-rag](https://github.com/FernandoJRR/archiver-rag) | 1 | Python | 2026-08-31 | Agent-agnostic semantic memory for your vault. Turns notes into a queryable knowledge graph any MCP agent can search, lo |
-| 8 | [DareDev256/rag-system-with-citations](https://github.com/DareDev256/rag-system-with-citations) | 2 | Python | 2026-08-31 | FastAPI RAG service where every claim carries a source doc id and confidence is computed from citation coverage rather t |
-| 9 | [topoteretes/cognee-rs](https://github.com/topoteretes/cognee-rs) | 44 | Rust | 2026-08-31 | Cognee Rust - fast and performant AI memory engine |
-| 10 | [rodriguezrobertbfrkx6857-sudo/rag-poisoning-detection-trusted-provenance](https://github.com/rodriguezrobertbfrkx6857-sudo/rag-poisoning-detection-trusted-provenance) | 0 | — | 2026-08-31 | 面向 RAG 知识库投毒检测与可信溯源的系统原型。 |
-| 11 | [ayushoms/enterprise-hr-rag-assistant](https://github.com/ayushoms/enterprise-hr-rag-assistant) | 0 | Jupyter Notebook | 2026-08-31 | RAG-based AI assistant for retrieving and answering questions from enterprise HR policy documents. |
-| 12 | [smartfind/loop-memory](https://github.com/smartfind/loop-memory) | 1 | Python | 2026-08-31 | Local-first, agent-agnostic memory system that closes the agent loop on any AI agent. Watches any agent's transcript dir |
-| 13 | [Krzysztof318/MailFathom](https://github.com/Krzysztof318/MailFathom) | 14 | C# | 2026-08-31 | A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you |
-| 14 | [codingiswine/law11](https://github.com/codingiswine/law11) | 0 | Python | 2026-08-31 | Domain-specific RAG chatbot for Korean industrial safety law — hybrid search (exact match + vector), cross-encoder reran |
-| 15 | [yaminbkk/NexusMem](https://github.com/yaminbkk/NexusMem) | 12 | TypeScript | 2026-08-31 | Your agent can read git log. It can't read the shell commands you tried that failed. NexusMem indexes shell history with |
-| 16 | [karisaylema/consumer-price-guardian](https://github.com/karisaylema/consumer-price-guardian) | 0 | Python | 2026-08-31 | A multi-tool LLM agent (LangGraph + AWS Bedrock) that pairs Ecuador's official INEC price statistics with its consumer-p |
-| 17 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-31 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 18 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-31 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 19 | [Quor-a/ZorvAI](https://github.com/Quor-a/ZorvAI) | 41 | Kotlin | 2026-08-31 | Zorv AI — 安卓 Android 端开源 AI Agent 智能体助手。多模型对话、人格系统、记忆、语音全双工 TTS/STT、定时任务、可扩展工具链、飞书/QQ/微信接入。Kotlin + Jetpack Compose 开发。 |
-| 20 | [ilhamradhan/berlin-transit-control-room](https://github.com/ilhamradhan/berlin-transit-control-room) | 0 | — | 2026-08-31 | Learning project: Berlin transit pipelines with Airflow, dbt, DuckDB, and a documented AI-agent workflow |
-| 21 | [Artexis10/exomem](https://github.com/Artexis10/exomem) | 10 | Python | 2026-08-31 | Self-hosted MCP server that makes your Obsidian/markdown vault searchable — text, PDFs, Office docs, images, audio — fro |
-| 22 | [SANJAI-s0/research-paper-answer-bot-rag](https://github.com/SANJAI-s0/research-paper-answer-bot-rag) | 0 | Python | 2026-08-31 | A production-grade, strictly grounded RAG system over seminal AI research papers powered by Google Gemini, ChromaDB, and |
-| 23 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26370 | Python | 2026-08-31 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 24 | [g19937588576-coder/medical-consultation-agent](https://github.com/g19937588576-coder/medical-consultation-agent) | 0 | Python | 2026-08-31 | 医疗问诊 AI Agent：LangGraph 对症问诊 + PubMed 带引用论文 + 本地向量知识库(RAG) + 评测面板。A medical consultation AI agent: symptom triage with L |
-| 25 | [ProjectZeroDays/FreeAI_AI_Inference_Workstation](https://github.com/ProjectZeroDays/FreeAI_AI_Inference_Workstation) | 5 | Python | 2026-08-31 | FreeAI: Unified AI Inference Workstation — local LLMs, autonomous agents, full SDLC automation, security tools, and mult |
-| 26 | [MORAWA-dev/dakikobo](https://github.com/MORAWA-dev/dakikobo) | 0 | Python | 2026-08-31 | French-language RAG advisor for smallholder farmers in Burkina Faso. Groq Llama 3.3, ChromaDB, Gemini Vision leaf screen |
-| 27 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | 3155 | Python | 2026-08-31 | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics |
-| 28 | [Owaiskhan3320/indian-legal-rag-assistant](https://github.com/Owaiskhan3320/indian-legal-rag-assistant) | 0 | Python | 2026-08-31 | Indian legal RAG assistant with statute-first retrieval, case-law search, uploaded-document Q/A, judgment prediction, be |
-| 29 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 150491 | Python | 2026-08-31 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| 30 | [MrAliev/local-ai-developer-toolkit](https://github.com/MrAliev/local-ai-developer-toolkit) | 1 | C# | 2026-08-31 | Local-model developer tooling for Windows: repository-aware semantic code search, MCP servers for Claude Code and Codex, |
-| 31 | [Shoko-official/StudentLLM](https://github.com/Shoko-official/StudentLLM) | 2 | TypeScript | 2026-08-31 | Local-first learning workspace for recording, understanding, and revising university lectures with traceable AI. |
-| 32 | [xzawed/Sillok](https://github.com/xzawed/Sillok) | 0 | Python | 2026-08-31 | A knowledge ledger that forces the storage decision — current truth in Git, what happened in Postgres, AI reads a handfu |
-| 33 | [xberg-io/xberg](https://github.com/xberg-io/xberg) | 9240 | Rust | 2026-08-31 | Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 fo |
-| 34 | [smaramwbc/statewave](https://github.com/smaramwbc/statewave) | 314 | Python | 2026-08-31 | Open-source memory runtime for AI agents — reproducible, provenance-tagged context bundles instead of query-time retriev |
-| 35 | [PersonaliAI/kin](https://github.com/PersonaliAI/kin) | 0 | Python | 2026-08-31 | Open-source AI personal assistant — chat, memory, real voice calls, and real actions across calendar, email, and social  |
-| 36 | [philomath18/awesome-ai-engineer-interview-questions](https://github.com/philomath18/awesome-ai-engineer-interview-questions) | 0 | — | 2026-08-31 | 105 real AI / LLM engineer interview questions with concise answers — LLMs, transformers, RAG, agents, evals, inference, |
-| 37 | [Doctacon/buoy](https://github.com/Doctacon/buoy) | 1 | Python | 2026-08-31 | Plan, index, and search public knowledge sources with anchored citations. |
-| 38 | [lelabdev/rag-ferrite](https://github.com/lelabdev/rag-ferrite) | 5 | Rust | 2026-08-31 | Personal RAG engine — simple, fast, Rust. One binary (15 MB), one DB, native collections. MCP-native. |
-| 39 | [hans6883/cert-atlas](https://github.com/hans6883/cert-atlas) | 1 | Python | 2026-08-31 | The open index of certification exam blueprints. 1,562 exams across 217 certifying bodies. |
-| 40 | [JasonTM17/HealthCare_Project](https://github.com/JasonTM17/HealthCare_Project) | 0 | Java | 2026-08-31 | Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reprodu |
-| 41 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 24 | Python | 2026-08-31 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 42 | [negativexq/knowledge-base-rag](https://github.com/negativexq/knowledge-base-rag) | 0 | Python | 2026-08-31 | Production-oriented multilingual RAG platform with hybrid retrieval, tenant-aware security, evaluation, observability an |
-| 43 | [Bogdan0708/grant-scout](https://github.com/Bogdan0708/grant-scout) | 0 | TypeScript | 2026-08-31 | Agentic RAG demo over EU funding calls — Next.js + Vercel AI SDK, tool-calling agent with cited answers, LLM-as-judge ev |
-| 44 | [Edwinexd/minerva](https://github.com/Edwinexd/minerva) | 3 | Rust | 2026-08-31 | RAG platform for educational use at DSV, Stockholm University. Rust/Axum backend, React frontend, Qdrant vector search. |
-| 45 | [marlon-costa-dc/hermes-weaviate-memory](https://github.com/marlon-costa-dc/hermes-weaviate-memory) | 0 | Python | 2026-08-31 | Layered Weaviate memory provider for Hermes Agent — collection per domain, tenant per user, admin_list or RBAC. Local Ol |
-| 46 | [ashok-shetti/bugtrace-ai](https://github.com/ashok-shetti/bugtrace-ai) | 1 | Python | 2026-08-31 | AI-powered bug resolution assistant using Hybrid RAG to retrieve similar GitHub issues and generate grounded solutions. |
-| 47 | [lm203688/genetech-14-sites](https://github.com/lm203688/genetech-14-sites) | 0 | JavaScript | 2026-08-31 | GeneTech 14????? - ?????????? (6700+ entities, 14 domains) |
-| 48 | [Iconmind/iconmind](https://github.com/Iconmind/iconmind) | 4 | TypeScript | 2026-08-31 | 2,271 open-source icons for AI-era software — agents, MCP, RAG, LLMs — with an MCP server so your coding assistant picks |
-| 49 | [parkerluxu/Awesome-agent-cases](https://github.com/parkerluxu/Awesome-agent-cases) | 8 | JavaScript | 2026-08-31 | A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource |
-| 50 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 3 | Python | 2026-08-31 | Drop-in LLM proxy that cuts input tokens 30–70% (54.1% measured, quality-gated) across 27 transparent optimisations — ca |
+| 1 | [StudioCodeAI/Lya-Studio-Coder](https://github.com/StudioCodeAI/Lya-Studio-Coder) | 2 | — | 2026-08-31 | AI-native IDE: orquestre multiplos agentes de IA (locais + nuvem) num app desktop. COSMOS orchestrator, RAG local-first, |
+| 2 | [eeveere/emCP](https://github.com/eeveere/emCP) | 0 | TypeScript | 2026-08-31 | Local-first semantic code retrieval for AI agents and developer tools, with incremental indexing, hybrid search, SQLite  |
+| 3 | [MrAliev/local-ai-developer-toolkit](https://github.com/MrAliev/local-ai-developer-toolkit) | 1 | C# | 2026-08-31 | Local-model developer tooling for Windows: repository-aware semantic code search, MCP servers for Claude Code and Codex, |
+| 4 | [OmAr-Kader/Axum-Agentic-RAG-Proxy](https://github.com/OmAr-Kader/Axum-Agentic-RAG-Proxy) | 0 | Rust | 2026-08-31 | Agentic RAG Proxy sits in front of your LLM server and intercepts `/api/chat` and `/api/generate`, injects retrieved rul |
+| 5 | [HafizAhmadHassan/context-engineering-lab2-system-prompt](https://github.com/HafizAhmadHassan/context-engineering-lab2-system-prompt) | 0 | — | 2026-08-31 |  Interactive MERN-platform for learning context engineering — compare LLM outputs with/without structured prompts, bench |
+| 6 | [IgorGanapolsky/trading](https://github.com/IgorGanapolsky/trading) | 38 | Python | 2026-08-31 | SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG, |
+| 7 | [hjxwz123/Aivory](https://github.com/hjxwz123/Aivory) | 69 | Go | 2026-08-31 | Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Cla |
+| 8 | [sumitdevgupto/TokenLean](https://github.com/sumitdevgupto/TokenLean) | 3 | Python | 2026-08-31 | Drop-in LLM proxy that cuts input tokens 30–70% (54.1% measured, quality-gated) across 27 transparent optimisations — ca |
+| 9 | [YousefHlaly/kronos-showcase](https://github.com/YousefHlaly/kronos-showcase) | 0 | — | 2026-08-31 | Public case study for KRONOS - a local-first platform for building, running, evaluating, and fine-tuning multi-agent AI  |
+| 10 | [ANFAIA/SkillNet](https://github.com/ANFAIA/SkillNet) | 11 | Python | 2026-08-31 | Turns an organization's internal docs into a living learning system: AI agents generate courses, tutor learners, and ada |
+| 11 | [KuwaedYun/zhixing-agent-platform](https://github.com/KuwaedYun/zhixing-agent-platform) | 0 | — | 2026-08-31 | Zhixing enterprise RAG and multi-agent collaboration platform |
+| 12 | [SANJAI-s0/research-paper-answer-bot-rag](https://github.com/SANJAI-s0/research-paper-answer-bot-rag) | 0 | Python | 2026-08-31 | A production-grade, strictly grounded RAG system over seminal AI research papers powered by Google Gemini, ChromaDB, and |
+| 13 | [33good/industrial-safety-agent-runtime](https://github.com/33good/industrial-safety-agent-runtime) | 0 | Python | 2026-08-31 | Event-driven multimodal industrial safety agent with bounded evidence reasoning, deterministic guardrails, HITL and a re |
+| 14 | [kujolang/rag](https://github.com/kujolang/rag) | 0 | JavaScript | 2026-08-31 | Kujo-native RAG system for AI applications |
+| 15 | [syed177013/Local-RAG-using-ChromaDB-for-CSV-files](https://github.com/syed177013/Local-RAG-using-ChromaDB-for-CSV-files) | 1 | Python | 2026-08-31 | A basic RAG implementation that uses ChromaDB and a Local LLM aimed towards CSV files |
+| 16 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 11114 | TypeScript | 2026-08-31 | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with |
+| 17 | [sky2773732406/noob-rag](https://github.com/sky2773732406/noob-rag) | 0 | Python | 2026-08-31 | A rag application suitable for beginners |
+| 18 | [sky2773732406/agent-middleware](https://github.com/sky2773732406/agent-middleware) | 0 | Python | 2026-08-31 | LangGraph Agent middleware: 工具注册表 + 图编排 + FastAPI SSE 流式 + 生产加固 |
+| 19 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 745 | Rust | 2026-08-31 | World's first open-source enterprise world model. |
+| 20 | [koed-labs/koed](https://github.com/koed-labs/koed) | 7 | TypeScript | 2026-08-31 | Open source, automated memory layer that builds as you work. |
+| 21 | [rodriguezrobertbfrkx6857-sudo/rag-poisoning-detection-trusted-provenance](https://github.com/rodriguezrobertbfrkx6857-sudo/rag-poisoning-detection-trusted-provenance) | 0 | Python | 2026-08-31 | 面向 RAG 知识库投毒检测与可信溯源的系统原型。 |
+| 22 | [shaorray/bib_rag](https://github.com/shaorray/bib_rag) | 0 | Python | 2026-08-31 | Agentic RAG for academic paper bibliography |
+| 23 | [AlexLecu/AlloyGraph](https://github.com/AlexLecu/AlloyGraph) | 1 | Jupyter Notebook | 2026-08-31 | Knowledge-graph-grounded multi-agent system for nickel-based superalloy property prediction and inverse design |
+| 24 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-31 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 25 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-31 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 26 | [laputski/causa-rag](https://github.com/laputski/causa-rag) | 1 | Python | 2026-08-31 | A diagnostic bench for RAG. Scores every question separately, names the pipeline stage that failed, and diffs two runs q |
+| 27 | [mananp-2730/BridgeBuild-AI-PM-Tool](https://github.com/mananp-2730/BridgeBuild-AI-PM-Tool) | 1 | Python | 2026-08-31 | An AI-powered Enterprise Agile OS that instantly translates raw client audio and notes into client pitch decks, PM epics |
+| 28 | [ProjectZeroDays/FreeAI_AI_Inference_Workstation](https://github.com/ProjectZeroDays/FreeAI_AI_Inference_Workstation) | 5 | Python | 2026-08-31 | FreeAI: Unified AI Inference Workstation — local LLMs, autonomous agents, full SDLC automation, security tools, and mult |
+| 29 | [harf-promo/indexa](https://github.com/harf-promo/indexa) | 1 | Rust | 2026-08-31 | The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t |
+| 30 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 102 | TypeScript | 2026-08-31 | MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration |
+| 31 | [JackeyLove1225/SuperAIDB](https://github.com/JackeyLove1225/SuperAIDB) | 0 | Python | 2026-08-31 | 对话式 AI 数据库：文件（Excel/PDF/扫描件）→ 可查询数据库；MCP 能力面 + 38 原子工具 + 契约安全层（AI 不生成 SQL）；AGPL/商业双轨 |
+| 32 | [tylevnovik/ArxivAgent](https://github.com/tylevnovik/ArxivAgent) | 0 | Python | 2026-08-31 | 基于 DeepSeek 大模型 API 驱动的智能论文检索代理，支持 arXiv、OpenAlex、Crossref 等开放学术数据源。 |
+| 33 | [Bajoel32/bajoel32](https://github.com/Bajoel32/bajoel32) | 0 | JavaScript | 2026-08-31 | Modern jewelry store e-commerce equipped with an AI RAG Chatbot, plus a standalone Admin Hub for dynamic RAG knowledge m |
+| 34 | [willlee1995/pedirbot-demo](https://github.com/willlee1995/pedirbot-demo) | 0 | Python | 2026-08-31 | Public CIRSE demo of PedIR-Bot: agentic RAG for paediatric IR patient education (architecture + Streamlit; no crawled co |
+| 35 | [smartfind/loop-memory](https://github.com/smartfind/loop-memory) | 1 | Python | 2026-08-31 | Local-first, agent-agnostic memory system that closes the agent loop on any AI agent. Watches any agent's transcript dir |
+| 36 | [Owaiskhan3320/indian-legal-rag-assistant](https://github.com/Owaiskhan3320/indian-legal-rag-assistant) | 0 | Python | 2026-08-31 | Indian legal RAG assistant with statute-first retrieval, case-law search, uploaded-document Q/A, judgment prediction, be |
+| 37 | [irishz12/Agentic-Multi-Hop-RAG](https://github.com/irishz12/Agentic-Multi-Hop-RAG) | 0 | Python | 2026-08-31 | Agentic Multi-Hop RAG system with hybrid retrieval, RRF, reranking, iterative evidence gathering, and cost/latency evalu |
+| 38 | [IAAR-Shanghai/Awesome-AI-Memory](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) | 1188 | Python | 2026-08-31 | Awesome AI Memory \| LLM Memory \| A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, r |
+| 39 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-31 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 40 | [neuroforge-io/RKC](https://github.com/neuroforge-io/RKC) | 2 | Go | 2026-08-31 | Turn any codebase into a cited, searchable knowledge graph—deterministic by default, compiler semantics via SCIP, and op |
+| 41 | [Leakyli/Literature-Pseudo-RAG](https://github.com/Leakyli/Literature-Pseudo-RAG) | 0 | — | 2026-08-31 | A simple and lightweight Pseudo-RAG system developed for fetching research papers online to get an accurate research sou |
+| 42 | [FernandoJRR/archiver-rag](https://github.com/FernandoJRR/archiver-rag) | 1 | Python | 2026-08-31 | Agent-agnostic semantic memory for your vault. Turns notes into a queryable knowledge graph any MCP agent can search, lo |
+| 43 | [DareDev256/rag-system-with-citations](https://github.com/DareDev256/rag-system-with-citations) | 2 | Python | 2026-08-31 | FastAPI RAG service where every claim carries a source doc id and confidence is computed from citation coverage rather t |
+| 44 | [generalbots/generalbots](https://github.com/generalbots/generalbots) | 84 | Rust | 2026-08-31 | Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua |
+| 45 | [topoteretes/cognee-rs](https://github.com/topoteretes/cognee-rs) | 44 | Rust | 2026-08-31 | Cognee Rust - fast and performant AI memory engine |
+| 46 | [ayushoms/enterprise-hr-rag-assistant](https://github.com/ayushoms/enterprise-hr-rag-assistant) | 0 | Jupyter Notebook | 2026-08-31 | RAG-based AI assistant for retrieving and answering questions from enterprise HR policy documents. |
+| 47 | [atishay-kasliwal/atriveo-app](https://github.com/atishay-kasliwal/atriveo-app) | 1 | TypeScript | 2026-08-31 | A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr |
+| 48 | [Chia1104/chia1104.dev](https://github.com/Chia1104/chia1104.dev) | 32 | TypeScript | 2026-08-31 | A modern full-stack personal website and content management system built with Next.js and Hono, featuring a monorepo arc |
+| 49 | [UsamaImran/schema-mind](https://github.com/UsamaImran/schema-mind) | 0 | TypeScript | 2026-08-31 | Schema Mind is a schema-aware Retrieval-Augmented Generation (RAG) system that converts natural-language questions into  |
+| 50 | [Krzysztof318/MailFathom](https://github.com/Krzysztof318/MailFathom) | 14 | C# | 2026-08-31 | A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you |
 <!-- TRACKER_TABLE_END -->
 
 ---
