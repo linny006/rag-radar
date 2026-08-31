@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T09:59:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Deterministic agent memory. \u03bc=0. Free, local, forever. Mem0-compatible.",
     "id": "ssmurfgg04-gif/context-m",
     "language": "Python",
@@ -149,8 +158,17 @@
     "language": "JavaScript",
     "name": "salmasiddiqua/Stellar",
     "stars": 0,
-    "updated_at": "2026-08-31T09:52:14Z",
+    "updated_at": "2026-08-31T10:00:12Z",
     "url": "https://github.com/salmasiddiqua/Stellar"
+  },
+  {
+    "description": "Production WhatsApp AI agent for a hardware store \u2014 5-layer RAG retrieval (pg_trgm fuzzy matching + OpenAI embeddings/pg",
+    "id": "Gus2708/whatsapp-agent",
+    "language": "JavaScript",
+    "name": "Gus2708/whatsapp-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T09:51:48Z",
+    "url": "https://github.com/Gus2708/whatsapp-agent"
   },
   {
     "description": "\u2696\ufe0f VerdictAI \u2014 Multi-agent courtroom debate & verdict system. 7 AI experts cross-examine real case PDFs, cite real statu",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "sairam0424/trelix",
     "stars": 1,
-    "updated_at": "2026-08-31T09:46:05Z",
+    "updated_at": "2026-08-31T09:59:39Z",
     "url": "https://github.com/sairam0424/trelix"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T09:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T09:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted AI platform \u2014 47+ microservices, 20 messaging adapters, native apps, enterprise multi-tenancy, zero cloud de",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T09:42:37Z",
     "url": "https://github.com/Reginald-William/ai-autonomous-data-analyst"
-  },
-  {
-    "description": "Installable DeepSeek Harness knowledge base plugin",
-    "id": "lemoncat7/dsh-knowledge",
-    "language": "TypeScript",
-    "name": "lemoncat7/dsh-knowledge",
-    "stars": 6,
-    "updated_at": "2026-08-31T09:42:26Z",
-    "url": "https://github.com/lemoncat7/dsh-knowledge"
   }
 ]
