@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-09-01T01:16:35Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "",
+    "id": "hj1105/kontext-brain-ts",
+    "language": "JavaScript",
+    "name": "hj1105/kontext-brain-ts",
+    "stars": 21,
+    "updated_at": "2026-09-01T01:16:15Z",
+    "url": "https://github.com/hj1105/kontext-brain-ts"
+  },
+  {
+    "description": "Local multimodal RAG for PDFs: MinerU, Jina CLIP, FAISS, BM25, BGE reranking and Ollama. Runs on your hardware via CLI, ",
+    "id": "iDiagoValeta/localOllamaRAG",
+    "language": "Python",
+    "name": "iDiagoValeta/localOllamaRAG",
+    "stars": 13,
+    "updated_at": "2026-09-01T01:16:01Z",
+    "url": "https://github.com/iDiagoValeta/localOllamaRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T01:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T01:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u684c\u4f34 Sidemate \u2014 \u672c\u5730\u4f18\u5148\u7684 AI \u684c\u9762\u5e94\u7528\uff1a\u79bb\u7ebf\u6a21\u578b/\u5728\u7ebf API \u53cc\u6a21\uff0c\u672c\u5730\u77e5\u8bc6\u5e93\uff0c\u6570\u636e\u4e0d\u51fa\u672c\u673a",
+    "id": "zwq871482439/sidemate",
+    "language": "Python",
+    "name": "zwq871482439/sidemate",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:15:09Z",
+    "url": "https://github.com/zwq871482439/sidemate"
+  },
+  {
     "description": "glassbox \u2014 see inside RAG. Seven retrieval-augmented generation architectures with every intermediate step recorded and ",
     "id": "Ssavan99/glassbox",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T01:15:06Z",
     "url": "https://github.com/Ssavan99/glassbox"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:14:56Z",
+    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
@@ -45,33 +108,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "",
-    "id": "hj1105/kontext-brain-ts",
-    "language": "JavaScript",
-    "name": "hj1105/kontext-brain-ts",
-    "stars": 21,
-    "updated_at": "2026-09-01T01:11:56Z",
-    "url": "https://github.com/hj1105/kontext-brain-ts"
-  },
-  {
-    "description": "Local multimodal RAG for PDFs: MinerU, Jina CLIP, FAISS, BM25, BGE reranking and Ollama. Runs on your hardware via CLI, ",
-    "id": "iDiagoValeta/localOllamaRAG",
-    "language": "Python",
-    "name": "iDiagoValeta/localOllamaRAG",
-    "stars": 13,
-    "updated_at": "2026-09-01T01:14:10Z",
-    "url": "https://github.com/iDiagoValeta/localOllamaRAG"
-  },
-  {
-    "description": "Cache-first GitCode MCP server and CLI for AI agents and developers: durable SQLite sync for issues, PRs, comments and w",
-    "id": "urandon/gitcode-mcp",
-    "language": "Go",
-    "name": "urandon/gitcode-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:11:23Z",
-    "url": "https://github.com/urandon/gitcode-mcp"
-  },
-  {
     "description": "This is a personal portfolio website for Ahmet Fatihoglu, a Senior Software Developer and Architect. The website is a dy",
     "id": "ahmadmdabit/ahmadmdabit.github.io",
     "language": "TypeScript",
@@ -79,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T01:11:34Z",
     "url": "https://github.com/ahmadmdabit/ahmadmdabit.github.io"
+  },
+  {
+    "description": "Cache-first GitCode MCP server and CLI for AI agents and developers: durable SQLite sync for issues, PRs, comments and w",
+    "id": "urandon/gitcode-mcp",
+    "language": "Go",
+    "name": "urandon/gitcode-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:17:02Z",
+    "url": "https://github.com/urandon/gitcode-mcp"
   },
   {
     "description": "",
@@ -113,8 +158,17 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-09-01T01:10:42Z",
+    "updated_at": "2026-09-01T01:16:36Z",
     "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "AI-powered NYC 311 knowledge assistant with Next.js, FastAPI, hybrid RAG, PostgreSQL + pgvector, validated citations, an",
+    "id": "rihua-tech/civiclens-rag-nyc311",
+    "language": "Python",
+    "name": "rihua-tech/civiclens-rag-nyc311",
+    "stars": 0,
+    "updated_at": "2026-09-01T01:09:45Z",
+    "url": "https://github.com/rihua-tech/civiclens-rag-nyc311"
   },
   {
     "description": "Durable, file-based long-term memory for AI agents. Five-package plugin family: SDK, CLI, MCP server, Hermes adapter, an",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T01:08:22Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-09-01T01:13:38Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
   },
   {
     "description": "Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one ",
@@ -333,24 +378,6 @@
     "url": "https://github.com/neuroforge-io/RKC"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T01:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T01:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Red Letter Reflection: AI Bible study chat with RAG",
     "id": "HermannPR/JesusGPT",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-01T01:06:09Z",
     "url": "https://github.com/memtomem/memtomem"
-  },
-  {
-    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
-    "id": "XaviCode1000/webfang",
-    "language": "Rust",
-    "name": "XaviCode1000/webfang",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:08:01Z",
-    "url": "https://github.com/XaviCode1000/webfang"
-  },
-  {
-    "description": "FreeAI: Unified AI Inference Workstation \u2014 local LLMs, autonomous agents, full SDLC automation, security tools, and mult",
-    "id": "ProjectZeroDays/FreeAI_AI_Inference_Workstation",
-    "language": "Python",
-    "name": "ProjectZeroDays/FreeAI_AI_Inference_Workstation",
-    "stars": 5,
-    "updated_at": "2026-09-01T00:57:06Z",
-    "url": "https://github.com/ProjectZeroDays/FreeAI_AI_Inference_Workstation"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway that turns any backend into an agent. Point an OpenAI SDK at it and the model",
-    "id": "croit/llm-gateway",
-    "language": "Rust",
-    "name": "croit/llm-gateway",
-    "stars": 17,
-    "updated_at": "2026-09-01T00:55:35Z",
-    "url": "https://github.com/croit/llm-gateway"
   }
 ]
