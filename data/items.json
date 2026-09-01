@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-model developer tooling for Windows: repository-aware semantic code search, MCP servers for Claude Code and Codex,",
     "id": "MrAliev/local-ai-developer-toolkit",
     "language": "C#",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "kirimine170/ephy-runtime",
     "stars": 0,
-    "updated_at": "2026-09-01T11:59:20Z",
+    "updated_at": "2026-09-01T12:00:29Z",
     "url": "https://github.com/kirimine170/ephy-runtime"
   },
   {
@@ -304,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T11:46:03Z",
     "url": "https://github.com/XUanhoa04/ai-engineering-handbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T11:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T11:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local RAG server over the Model Context Protocol. Semantic search of your documents for Claude, Codex and Gemini, fully ",
