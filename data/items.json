@@ -1,5 +1,86 @@
 [
   {
+    "description": "A living, reviewable Markdown memory graph for people and AI agents \u2014 powered by WebMCP.",
+    "id": "sinkz/Lorestra",
+    "language": "TypeScript",
+    "name": "sinkz/Lorestra",
+    "stars": 1,
+    "updated_at": "2026-09-02T00:15:05Z",
+    "url": "https://github.com/sinkz/Lorestra"
+  },
+  {
+    "description": "Memory for Claude Code that runs on its own. One-line install; four hooks answer 'didn't we already do this?' from your ",
+    "id": "Luneswan/claude-recall",
+    "language": "Python",
+    "name": "Luneswan/claude-recall",
+    "stars": 0,
+    "updated_at": "2026-09-02T00:14:34Z",
+    "url": "https://github.com/Luneswan/claude-recall"
+  },
+  {
+    "description": "One TypeScript interface for 24+ LLM providers \u2014 swap providers without rewriting. MCP-native (connect any MCP server), ",
+    "id": "juspay/neurolink",
+    "language": "TypeScript",
+    "name": "juspay/neurolink",
+    "stars": 129,
+    "updated_at": "2026-09-02T00:13:52Z",
+    "url": "https://github.com/juspay/neurolink"
+  },
+  {
+    "description": "Self-hosted, model-agnostic AI agent orchestration platform. Build, run, and observe AI agents backed by any LLM (Anthro",
+    "id": "deepaksinghcs14/agent-nexus",
+    "language": "Go",
+    "name": "deepaksinghcs14/agent-nexus",
+    "stars": 4,
+    "updated_at": "2026-09-02T00:13:38Z",
+    "url": "https://github.com/deepaksinghcs14/agent-nexus"
+  },
+  {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 2,
+    "updated_at": "2026-09-02T00:13:38Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
+  },
+  {
+    "description": "Local-first AI memory for coding agents. NouGenShards stores reusable \"shards\" in a local SQLite + FTS5 database with ou",
+    "id": "Who-Visions/NouGenShards",
+    "language": "Python",
+    "name": "Who-Visions/NouGenShards",
+    "stars": 3,
+    "updated_at": "2026-09-02T00:13:10Z",
+    "url": "https://github.com/Who-Visions/NouGenShards"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 80,
+    "updated_at": "2026-09-02T00:13:04Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+  },
+  {
+    "description": "The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing ",
+    "id": "VeriTeknik/pluggedin-app",
+    "language": "TypeScript",
+    "name": "VeriTeknik/pluggedin-app",
+    "stars": 99,
+    "updated_at": "2026-09-02T00:14:47Z",
+    "url": "https://github.com/VeriTeknik/pluggedin-app"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T00:12:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-modal clinical AI assistant integrating Chest X-ray deep CNN diagnostics with LangChain, FAISS vector retrieval, a",
     "id": "AbdulRehmanRattu/medical-ai-assistant",
     "language": "Python",
@@ -18,21 +99,12 @@
     "url": "https://github.com/1ay1/agentty"
   },
   {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 2,
-    "updated_at": "2026-09-02T00:11:08Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
-  },
-  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 31883,
-    "updated_at": "2026-09-02T00:10:34Z",
+    "updated_at": "2026-09-02T00:14:51Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -52,6 +124,15 @@
     "stars": 11,
     "updated_at": "2026-09-02T00:09:34Z",
     "url": "https://github.com/covan-ai/covan"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4917,
+    "updated_at": "2026-09-02T00:09:21Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
     "description": "Lightweight, agent-friendly AI security toolkit for Node.js & TypeScript. Stop prompt injection, audio hallucinations, a",
@@ -171,15 +252,6 @@
     "url": "https://github.com/lna-lab/distill-kura"
   },
   {
-    "description": "The Crossroads for AI Data Exchanges. A unified, self-hostable web interface for discovering, configuring, and managing ",
-    "id": "VeriTeknik/pluggedin-app",
-    "language": "TypeScript",
-    "name": "VeriTeknik/pluggedin-app",
-    "stars": 99,
-    "updated_at": "2026-09-02T00:12:05Z",
-    "url": "https://github.com/VeriTeknik/pluggedin-app"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -270,15 +342,6 @@
     "url": "https://github.com/rthway/OpenMRS-Query-Agent"
   },
   {
-    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
-    "id": "alfadur7/llm-wiki-newsroom",
-    "language": "Python",
-    "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 80,
-    "updated_at": "2026-09-02T00:11:53Z",
-    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
-  },
-  {
     "description": "Install-ordered k3s cluster config as code for a private AI platform: Ollama/Qwen3 on a Tesla V100, Milvus RAG, MCP agen",
     "id": "darthzen/lab-fleet",
     "language": "Python",
@@ -304,15 +367,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T00:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T00:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T23:49:54Z",
     "url": "https://github.com/XaviCode1000/webfang"
-  },
-  {
-    "description": "RAG h\u00edbrido BM25 + vetorial: fus\u00e3o de scores, reranking heur\u00edstico, cita\u00e7\u00f5es fundamentadas e endpoint de avalia\u00e7\u00e3o Recal",
-    "id": "lucianoon/enterprise-rag-system",
-    "language": "Python",
-    "name": "lucianoon/enterprise-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:49:20Z",
-    "url": "https://github.com/lucianoon/enterprise-rag-system"
-  },
-  {
-    "description": "CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe",
-    "id": "ahmed-hashim-pro/rag-knowledge-agent",
-    "language": "Python",
-    "name": "ahmed-hashim-pro/rag-knowledge-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:48:32Z",
-    "url": "https://github.com/ahmed-hashim-pro/rag-knowledge-agent"
-  },
-  {
-    "description": "Latent Graph Engine: non-autoregressive concept-to-knowledge-graph decoding in the SONAR space",
-    "id": "DeliVali/cogito-estella",
-    "language": "Python",
-    "name": "DeliVali/cogito-estella",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:48:28Z",
-    "url": "https://github.com/DeliVali/cogito-estella"
-  },
-  {
-    "description": "Personal engineering wiki: deep dives, architectural diagrams, and implementation notes.",
-    "id": "sty0331us/Engineering-Notes",
-    "language": "\u2014",
-    "name": "sty0331us/Engineering-Notes",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:46:51Z",
-    "url": "https://github.com/sty0331us/Engineering-Notes"
-  },
-  {
-    "description": "One library to split them all: Sentence, Code, Docs. Chunk smarter, not harder \u2014 built for LLMs, RAG pipelines, and beyo",
-    "id": "speedyk-005/chunklet-py",
-    "language": "Python",
-    "name": "speedyk-005/chunklet-py",
-    "stars": 84,
-    "updated_at": "2026-09-01T23:46:46Z",
-    "url": "https://github.com/speedyk-005/chunklet-py"
-  },
-  {
-    "description": "End goal is something similar to Jarvis from Iron Man.  A complete assistant that can do anything.",
-    "id": "usrname1git/GodBrain",
-    "language": "C++",
-    "name": "usrname1git/GodBrain",
-    "stars": 1,
-    "updated_at": "2026-09-01T23:46:34Z",
-    "url": "https://github.com/usrname1git/GodBrain"
   }
 ]
