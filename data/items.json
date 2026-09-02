@@ -1,5 +1,41 @@
 [
   {
+    "description": "a-memory: 4-tier AI agent memory in plain SQLite \u2014 5 MCP primitives, hybrid FTS5+binary search, knowledge graphs, envelo",
+    "id": "Cipher208/a-memory",
+    "language": "Python",
+    "name": "Cipher208/a-memory",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:29:33Z",
+    "url": "https://github.com/Cipher208/a-memory"
+  },
+  {
+    "description": "Agent Skills for NVIDIA products \u2014 install into Claude Code, Codex, and other coding agents to run Physical AI, robotics",
+    "id": "NVIDIA/skills",
+    "language": "Python",
+    "name": "NVIDIA/skills",
+    "stars": 3181,
+    "updated_at": "2026-09-02T22:29:01Z",
+    "url": "https://github.com/NVIDIA/skills"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T22:29:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multimodal Go AI module with realistic cost tracking, not just tokens. ",
+    "id": "nurf-ai/ai",
+    "language": "Go",
+    "name": "nurf-ai/ai",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:29:10Z",
+    "url": "https://github.com/nurf-ai/ai"
+  },
+  {
     "description": "Local-first agentic RAG over SEC 10-K filings: query routing, tool calling, agent loops and multi-document retrieval on ",
     "id": "shashwat134/agentic-rag-lab",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-02T22:28:53Z",
+    "updated_at": "2026-09-02T22:30:14Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "EdF2021/ithaka",
     "stars": 0,
-    "updated_at": "2026-09-02T22:27:55Z",
+    "updated_at": "2026-09-02T22:29:15Z",
     "url": "https://github.com/EdF2021/ithaka"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-09-02T22:24:31Z",
     "url": "https://github.com/coolight7/agentxx"
-  },
-  {
-    "description": "Multimodal Go AI module with realistic cost tracking, not just tokens. ",
-    "id": "nurf-ai/ai",
-    "language": "Go",
-    "name": "nurf-ai/ai",
-    "stars": 1,
-    "updated_at": "2026-09-02T22:28:55Z",
-    "url": "https://github.com/nurf-ai/ai"
   },
   {
     "description": "Personal knowledge base with hybrid search and read/write access for AI agents",
@@ -256,7 +283,7 @@
     "id": "deeplethe/utopia",
     "language": "Rust",
     "name": "deeplethe/utopia",
-    "stars": 2210,
+    "stars": 2211,
     "updated_at": "2026-09-02T22:20:37Z",
     "url": "https://github.com/deeplethe/utopia"
   },
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "aislamsilvalol-ctrl/noema",
     "stars": 0,
-    "updated_at": "2026-09-02T22:18:51Z",
+    "updated_at": "2026-09-02T22:29:30Z",
     "url": "https://github.com/aislamsilvalol-ctrl/noema"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Java",
     "name": "quarkiverse/quarkus-docling",
     "stars": 20,
-    "updated_at": "2026-09-02T22:18:09Z",
+    "updated_at": "2026-09-02T22:30:05Z",
     "url": "https://github.com/quarkiverse/quarkus-docling"
   },
   {
@@ -385,15 +412,6 @@
     "stars": 198,
     "updated_at": "2026-09-02T22:16:16Z",
     "url": "https://github.com/guaardvark/guaardvark"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T22:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
@@ -430,23 +448,5 @@
     "stars": 99,
     "updated_at": "2026-09-02T22:14:00Z",
     "url": "https://github.com/VeriTeknik/pluggedin-app"
-  },
-  {
-    "description": "Private, local-first AI assistant with cited RAG, Ollama, a sandboxed agent, and scoped LAN pairing.",
-    "id": "TrinaxCode/TrinaxAI",
-    "language": "Python",
-    "name": "TrinaxCode/TrinaxAI",
-    "stars": 4,
-    "updated_at": "2026-09-02T22:13:59Z",
-    "url": "https://github.com/TrinaxCode/TrinaxAI"
-  },
-  {
-    "description": "Your AI. Your Mac. Nothing leaves. On-device AI companion for macOS \u2014 MLX inference, live voice, knowledge graph + RAG, ",
-    "id": "Round-Tower/M1K3",
-    "language": "Swift",
-    "name": "Round-Tower/M1K3",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:21:46Z",
-    "url": "https://github.com/Round-Tower/M1K3"
   }
 ]
