@@ -1,5 +1,32 @@
 [
   {
+    "description": "\uc22d\uc2e4\ub300 \uacf5\uac1c\u00b7\uac1c\uc778 \ub370\uc774\ud130\ub97c MCP \ub3c4\uad6c\uc640 REST API\ub85c \uc81c\uacf5\ud558\uace0 \uc778\uc99d\u00b7\ub3d9\uc758\u00b7\uc7a5\uc560 \uaca9\ub9ac\ub97c \uad00\ub9ac\ud558\ub294 \ube44\uacf5\uc2dd \ubc31\uc5d4\ub4dc",
+    "id": "ghdtjdwn/ssuMCP",
+    "language": "Java",
+    "name": "ghdtjdwn/ssuMCP",
+    "stars": 4,
+    "updated_at": "2026-09-02T19:59:32Z",
+    "url": "https://github.com/ghdtjdwn/ssuMCP"
+  },
+  {
+    "description": "Rust-based code knowledge engine for AI agents and developers",
+    "id": "RusTokRs/Athanor",
+    "language": "Rust",
+    "name": "RusTokRs/Athanor",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:59:06Z",
+    "url": "https://github.com/RusTokRs/Athanor"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T19:58:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udde0 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory.",
     "id": "ashish7802/memora-ai",
     "language": "TypeScript",
@@ -45,15 +72,6 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Rust-based code knowledge engine for AI agents and developers",
-    "id": "RusTokRs/Athanor",
-    "language": "Rust",
-    "name": "RusTokRs/Athanor",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:58:26Z",
-    "url": "https://github.com/RusTokRs/Athanor"
-  },
-  {
     "description": "Elden Ring lore chatbot with grounded, cited answers and a quiz mode. Built with Python, ChromaDB, Groq, and Streamlit.",
     "id": "Gr33nOps/EldenLore-RAG",
     "language": "Python",
@@ -61,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-09-02T19:55:57Z",
     "url": "https://github.com/Gr33nOps/EldenLore-RAG"
+  },
+  {
+    "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP \u2014 edits Markdow",
+    "id": "MarcoPorcellato/matryca-plumber",
+    "language": "Python",
+    "name": "MarcoPorcellato/matryca-plumber",
+    "stars": 96,
+    "updated_at": "2026-09-02T19:55:56Z",
+    "url": "https://github.com/MarcoPorcellato/matryca-plumber"
   },
   {
     "description": "A local knowledge runtime. Indexes folders you grant it and answers with citations to the exact page, cell or line. Runs",
@@ -169,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:52:32Z",
     "url": "https://github.com/hugoagreda/EstateAI"
+  },
+  {
+    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
+    "id": "PersonaliAI/chatty",
+    "language": "TypeScript",
+    "name": "PersonaliAI/chatty",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:51:48Z",
+    "url": "https://github.com/PersonaliAI/chatty"
   },
   {
     "description": "Self-hosted knowledge for humans and agents.",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29528,
-    "updated_at": "2026-09-02T19:52:00Z",
+    "updated_at": "2026-09-02T19:59:25Z",
     "url": "https://github.com/simstudioai/sim"
   },
   {
@@ -367,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-09-02T19:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T19:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
@@ -421,32 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-02T19:48:04Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
-  },
-  {
-    "description": "A custom implementation of a decoder-based transformer language model in PyTorch",
-    "id": "asoloveii/tiny-mla-lm",
-    "language": "Python",
-    "name": "asoloveii/tiny-mla-lm",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:42:11Z",
-    "url": "https://github.com/asoloveii/tiny-mla-lm"
-  },
-  {
-    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
-    "id": "PersonaliAI/chatty",
-    "language": "TypeScript",
-    "name": "PersonaliAI/chatty",
-    "stars": 1,
-    "updated_at": "2026-09-02T19:51:48Z",
-    "url": "https://github.com/PersonaliAI/chatty"
-  },
-  {
-    "description": "HIVE is a local-first AI context, memory, retrieval, token-optimization and observability platform for large LLM-assiste",
-    "id": "KayzenRoot/hive",
-    "language": "Python",
-    "name": "KayzenRoot/hive",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:43:08Z",
-    "url": "https://github.com/KayzenRoot/hive"
   }
 ]
