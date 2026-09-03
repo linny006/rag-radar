@@ -1,12 +1,66 @@
 [
   {
-    "description": "Deterministic code-graph (GraphRAG) over your repo for LLM agents \u2014 local-first, git-native, zero-infra, served via MCP.",
-    "id": "reposkein/reposkein",
+    "description": "Open, versioned research papers from Otrobonita AI Labs. Disagreement is the point \u2014 bring your critique using GitHub Is",
+    "id": "otrobonita-studios/whitepapers",
+    "language": "Python",
+    "name": "otrobonita-studios/whitepapers",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:47:11Z",
+    "url": "https://github.com/otrobonita-studios/whitepapers"
+  },
+  {
+    "description": "ShopAI is an AI-first e-commerce monorepo that combines a modern storefront, an admin dashboard, and a document-aware su",
+    "id": "marufk21/shop-AI",
     "language": "TypeScript",
-    "name": "reposkein/reposkein",
-    "stars": 12,
-    "updated_at": "2026-09-03T09:44:51Z",
-    "url": "https://github.com/reposkein/reposkein"
+    "name": "marufk21/shop-AI",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:46:37Z",
+    "url": "https://github.com/marufk21/shop-AI"
+  },
+  {
+    "description": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 308,
+    "updated_at": "2026-09-03T09:47:19Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "High-Performance Encrypted Database for .NET 10 | Embedded + gRPC Server | Vector Search \u2022 GraphRAG \u2022 Analytics",
+    "id": "MPCoreDeveloper/SharpCoreDB",
+    "language": "C#",
+    "name": "MPCoreDeveloper/SharpCoreDB",
+    "stars": 37,
+    "updated_at": "2026-09-03T09:45:38Z",
+    "url": "https://github.com/MPCoreDeveloper/SharpCoreDB"
+  },
+  {
+    "description": "SUNSET \u2014 superseded by Pomnia. Old Brain AI Hub (MIT). Use https://github.com/lobrzut/pomnia \u2192 https://pomnia.ai",
+    "id": "lobrzut/brain",
+    "language": "Python",
+    "name": "lobrzut/brain",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:45:36Z",
+    "url": "https://github.com/lobrzut/brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
@@ -16,6 +70,24 @@
     "stars": 3265,
     "updated_at": "2026-09-03T09:45:08Z",
     "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Production Grade RAG System",
+    "id": "PrabhakaranVijay/Prod-RAG",
+    "language": "Python",
+    "name": "PrabhakaranVijay/Prod-RAG",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:45:02Z",
+    "url": "https://github.com/PrabhakaranVijay/Prod-RAG"
+  },
+  {
+    "description": "Deterministic code-graph (GraphRAG) over your repo for LLM agents \u2014 local-first, git-native, zero-infra, served via MCP.",
+    "id": "reposkein/reposkein",
+    "language": "TypeScript",
+    "name": "reposkein/reposkein",
+    "stars": 12,
+    "updated_at": "2026-09-03T09:44:51Z",
+    "url": "https://github.com/reposkein/reposkein"
   },
   {
     "description": "\u5168\u6d41\u7a0b \u667a\u80fd\u62db\u6295\u6807 Agent\uff1a\u6807\u4e66\u751f\u6210 \u00b7 \u62db\u6295\u6807\u89e3\u8bfb \u00b7 \u6807\u4e66\u68c0\u67e5 \u00b7 \u6807\u4e66\u6587\u6863ai\u6392\u7248 \u00b7 \u5546\u673a\u53d1\u73b0 \u4e00\u952e\u5b8c\u6210\u3002 21 \u9879\u5408\u89c4\u68c0\u67e5 \u00b7 \u591a\u6a21\u578b\u5207\u6362 \u00b7 RAG \u77e5\u8bc6\u5e93 \u00b7 OCR \u62bd\u53d6\u3002 \u4ece\u62db\u6807\u516c\u544a\u5230\u53ef\u4ea4\u4ed8 docx \u6587\u6863\uff0c\u5168\u6d41\u7a0b A",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T09:44:00Z",
     "url": "https://github.com/DamnKuldeep/KnowYourRightsAI"
-  },
-  {
-    "description": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 308,
-    "updated_at": "2026-09-03T09:45:07Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
   },
   {
     "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
@@ -139,7 +202,7 @@
     "id": "deeplethe/utopia",
     "language": "Rust",
     "name": "deeplethe/utopia",
-    "stars": 3147,
+    "stars": 3148,
     "updated_at": "2026-09-03T09:39:48Z",
     "url": "https://github.com/deeplethe/utopia"
   },
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "lobrzut/pomnia",
     "stars": 0,
-    "updated_at": "2026-09-03T09:37:03Z",
+    "updated_at": "2026-09-03T09:46:45Z",
     "url": "https://github.com/lobrzut/pomnia"
   },
   {
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "tale-project/tale",
     "stars": 24,
-    "updated_at": "2026-09-03T09:42:19Z",
+    "updated_at": "2026-09-03T09:46:36Z",
     "url": "https://github.com/tale-project/tale"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "eleboucher/memini",
     "stars": 23,
-    "updated_at": "2026-09-03T09:35:54Z",
+    "updated_at": "2026-09-03T09:47:02Z",
     "url": "https://github.com/eleboucher/memini"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-03T09:32:05Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "LLM-enhanced unified authoring interface for OATutor content @ ETH Zurich",
-    "id": "ngoax/aitutor",
-    "language": "Python",
-    "name": "ngoax/aitutor",
-    "stars": 0,
-    "updated_at": "2026-09-03T09:31:33Z",
-    "url": "https://github.com/ngoax/aitutor"
-  },
-  {
-    "description": "Fully local Agentic AI UPSC preparation system \u2014 RAG, 4 AI agents, ChromaDB, LLaMA 3.2, CrossEncoder reranking.",
-    "id": "Mankarjasika2506/civil-guru-ai",
-    "language": "Python",
-    "name": "Mankarjasika2506/civil-guru-ai",
-    "stars": 0,
-    "updated_at": "2026-09-03T09:31:25Z",
-    "url": "https://github.com/Mankarjasika2506/civil-guru-ai"
-  },
-  {
-    "description": "ShopAI is an AI-first e-commerce monorepo that combines a modern storefront, an admin dashboard, and a document-aware su",
-    "id": "marufk21/shop-AI",
-    "language": "TypeScript",
-    "name": "marufk21/shop-AI",
-    "stars": 0,
-    "updated_at": "2026-09-03T09:31:02Z",
-    "url": "https://github.com/marufk21/shop-AI"
-  },
-  {
-    "description": "Open source, automated memory layer that builds as you work.",
-    "id": "koed-labs/koed",
-    "language": "TypeScript",
-    "name": "koed-labs/koed",
-    "stars": 7,
-    "updated_at": "2026-09-03T09:45:10Z",
-    "url": "https://github.com/koed-labs/koed"
-  },
-  {
-    "description": "Local-model developer tooling for Windows: repository-aware semantic code search, MCP servers for Claude Code and Codex,",
-    "id": "MrAliev/local-ai-developer-toolkit",
-    "language": "C#",
-    "name": "MrAliev/local-ai-developer-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:30:31Z",
-    "url": "https://github.com/MrAliev/local-ai-developer-toolkit"
-  },
-  {
-    "description": "DerridAI is a minimal Python implementation of a Retrieval\u2011Augmented Generation (RAG) pipeline combined with a LoRA fine",
-    "id": "ajschlosser/DerridAI",
-    "language": "Python",
-    "name": "ajschlosser/DerridAI",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:30:29Z",
-    "url": "https://github.com/ajschlosser/DerridAI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   }
 ]
