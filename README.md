@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-03 05:30 UTC
+> ⏰ Last updated: 2026-09-03 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [UynajGI/drbrain](https://github.com/UynajGI/drbrain) | 0 | Python | 2026-09-03 | Academic knowledge graph system — symbol-driven research discovery with lightweight vector retrieval |
-| 2 | [LEESANG-dev/rag-eval-agent-sft](https://github.com/LEESANG-dev/rag-eval-agent-sft) | 0 | Python | 2026-09-03 | 규정 문서 QA를 위한 RAG 평가 체계와 에이전트 SFT 파이프라인 — 측정으로 설계 가정 5건을 반증하고 수정한 기록 |
-| 3 | [gotonote/awesome-agent-boom](https://github.com/gotonote/awesome-agent-boom) | 6 | Python | 2026-09-03 | AI Agent 开源书单/教程合集 \| Awesome list of LLM Agent books & courses |
-| 4 | [samueldanso/evomind](https://github.com/samueldanso/evomind) | 0 | Python | 2026-09-03 | Personal AI knowledge base with hybrid RAG retrieval. Ingest articles, PDFs, or URLs — ask questions and get cited answe |
-| 5 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 89945 | Go | 2026-09-03 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa |
-| 6 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 44404 | Python | 2026-09-03 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
-| 7 | [Darsh-Bothra/AI-Doc-QnA](https://github.com/Darsh-Bothra/AI-Doc-QnA) | 1 | TypeScript | 2026-09-03 | Advanced Document Processing using RAG |
-| 8 | [guiyi-labs/aiops-platform](https://github.com/guiyi-labs/aiops-platform) | 1 | Go | 2026-09-03 | Kubernetes AIOps: deterministic fault diagnosis + case memory (RAG), audit-driven ops, multi-cluster |
-| 9 | [dignite-projects/vault-extract](https://github.com/dignite-projects/vault-extract) | 6 | C# | 2026-09-03 | A channel layer that turns any content requiring IDP — scans, photos, image PDFs, Office files, digital-born docs — into |
-| 10 | [Smart-AI-Memory/attune-ai](https://github.com/Smart-AI-Memory/attune-ai) | 10 | HTML | 2026-09-03 | Persistent memory and receipt-verified workflows for Claude Code — plugin, MCP server, and spec-driven dev framework in  |
-| 11 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-03 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 12 | [LDF924/MarxSphere](https://github.com/LDF924/MarxSphere) | 1 | TypeScript | 2026-09-03 | MarxSphere — AI 驱动的文科·哲社科学术科研平台（52步推理 / 三库图谱 / Agent 65工具 / 技能201 / 实证17方法含元分析 / 引文三维核验） |
-| 13 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19233 | TypeScript | 2026-09-03 | Open source agentic operating system |
-| 14 | [Caser-86/athena-research-agent](https://github.com/Caser-86/athena-research-agent) | 0 | Python | 2026-09-03 | 企业级多智能体研究平台：Planner/Researcher/Analyst/Critic/Writer 五智能体基于 LangGraph 状态机协作，RAG 混合检索 + MCP 工具 + HITL 审批 + 四维评测（CI 门禁），产出 |
-| 15 | [Cloto-dev/CPersona](https://github.com/Cloto-dev/CPersona) | 6 | Python | 2026-09-03 | CPersona — Persistent AI memory server with 3-layer hybrid search, confidence scoring, and 30 tools. MIT licensed. |
-| 16 | [Clairelee1010/macro-attribution-dashboard](https://github.com/Clairelee1010/macro-attribution-dashboard) | 0 | HTML | 2026-09-03 | Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis |
-| 17 | [1ay1/agentty](https://github.com/1ay1/agentty) | 600 | C++ | 2026-09-03 | AI pair programming in your terminal — one static binary, sub-ms startup, any model |
-| 18 | [gr8monk3ys/album-conceptualizer](https://github.com/gr8monk3ys/album-conceptualizer) | 0 | Python | 2026-09-03 | A one shot RAG approach to building concept albums |
-| 19 | [protocorn/clippy-vision](https://github.com/protocorn/clippy-vision) | 15 | Python | 2026-09-03 | Fully local AI assistant that watches your screen to eliminate the context problem. No cloud. No data leakage. |
-| 20 | [Peuqui/AIfred-Intelligence](https://github.com/Peuqui/AIfred-Intelligence) | 35 | Python | 2026-09-03 | 🤵 AIfred-Intelligence — self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming |
-| 21 | [DorianChn/chat-with-anything](https://github.com/DorianChn/chat-with-anything) | 0 | Python | 2026-09-03 | 把任意数据源变成可对话的 AI 助手 —— 一条命令跑通 RAG，零配置 |
-| 22 | [alib8b8/aflare](https://github.com/alib8b8/aflare) | 12 | Go | 2026-09-03 | Local-first automation Agent & deterministic workflow engine — the secure control layer between AI and your data. Data s |
-| 23 | [itsmostafa/qi](https://github.com/itsmostafa/qi) | 39 | Go | 2026-09-03 | query search engine cli for humans and ai agents |
+| 1 | [zwq871482439/sidemate](https://github.com/zwq871482439/sidemate) | 1 | Python | 2026-09-03 | 桌伴 Sidemate — 本地优先的 AI 桌面应用：离线模型/在线 API 双模，本地知识库，数据不出本机 |
+| 2 | [JasonTM17/HealthCare_Project](https://github.com/JasonTM17/HealthCare_Project) | 0 | Java | 2026-09-03 | Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reprodu |
+| 3 | [lifeiscabaret/BYBAEK-Backend](https://github.com/lifeiscabaret/BYBAEK-Backend) | 0 | Python | 2026-09-03 | Multi-agent B2B SaaS that automates SNS content creation for small businesses — Tiered Routing + RAG + LLM-as-Judge + HI |
+| 4 | [Gunnarguy/OpenIntelligence](https://github.com/Gunnarguy/OpenIntelligence) | 22 | Swift | 2026-09-03 | Apple-native iOS/macOS app for document intelligence, OCR, cited answers, and source-backed retrieval over PDFs, scans,  |
+| 5 | [Who-Visions/NouGenShards](https://github.com/Who-Visions/NouGenShards) | 3 | Python | 2026-09-03 | Local-first AI memory for coding agents. NouGenShards stores reusable "shards" in a local SQLite + FTS5 database with ou |
+| 6 | [lemmaoracle/lemma](https://github.com/lemmaoracle/lemma) | 1 | Astro | 2026-09-03 | Give AI proven facts — a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure,  |
+| 7 | [caura-ai/caura](https://github.com/caura-ai/caura) | 474 | Python | 2026-09-03 | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier |
+| 8 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 2984 | Rust | 2026-09-03 | World's first open-source enterprise world model. |
+| 9 | [LDF924/MarxSphere](https://github.com/LDF924/MarxSphere) | 1 | TypeScript | 2026-09-03 | MarxSphere — AI 驱动的文科·哲社科学术科研平台（52步推理 / 三库图谱 / Agent 65工具 / 技能201 / 实证17方法含元分析 / 引文三维核验） |
+| 10 | [DamnKuldeep/KnowYourRightsAI](https://github.com/DamnKuldeep/KnowYourRightsAI) | 0 | Python | 2026-09-03 | RAG system answering Indian law questions with citations traced to exact statutes -- 98% recall@5 across 1,020 Acts. |
+| 11 | [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | 21 | TypeScript | 2026-09-03 | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta |
+| 12 | [3M1RY33T/tensor-serve](https://github.com/3M1RY33T/tensor-serve) | 5 | Python | 2026-09-03 | ZIM-based retrieval augmented proxy for OpenAI-compatible AI |
+| 13 | [imrohitagrawal/narratwin-ai](https://github.com/imrohitagrawal/narratwin-ai) | 0 | Python | 2026-09-03 | Grounded multilingual walkthrough generation with citations, claim evaluation, consent controls, and release governance. |
+| 14 | [future-agi/future-agi](https://github.com/future-agi/future-agi) | 1909 | Python | 2026-09-03 | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals |
+| 15 | [strikersam/autonomous-ai-agency](https://github.com/strikersam/autonomous-ai-agency) | 8 | Python | 2026-09-03 | Autonomous AI Agent Infrastructure Platform — OpenAI-compatible AI gateway with MCP support, multi-agent orchestration,  |
+| 16 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-09-03 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 17 | [JamesWeb3/sovereign-agentic-pipeline](https://github.com/JamesWeb3/sovereign-agentic-pipeline) | 0 | Python | 2026-09-03 | A fully open-source Sovereign Agentic Pipeline for New Zealand: an AI system a NZ business can run end to end on NZ rene |
+| 18 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 22699 | Python | 2026-09-03 | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 |
+| 19 | [xixvivji/alzs-well](https://github.com/xixvivji/alzs-well) | 1 | HTML | 2026-09-03 | 금융생활 변화 조기알림 및 행원 보호업무 코파일럿 |
+| 20 | [epicsagas/BuildYourOwnHarness](https://github.com/epicsagas/BuildYourOwnHarness) | 1 | Rust | 2026-09-03 | Generate, deploy, and evolve a personalized AI agent harness (Claude Code / Codex / Antigravity) from a user's tacit kno |
+| 21 | [Cloto-dev/CPersona](https://github.com/Cloto-dev/CPersona) | 6 | Python | 2026-09-03 | CPersona — Persistent AI memory server with 3-layer hybrid search, confidence scoring, and 30 tools. MIT licensed. |
+| 22 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 21225 | Go | 2026-09-03 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m |
+| 23 | [murmur-io/murmur](https://github.com/murmur-io/murmur) | 9 | Rust | 2026-09-03 | 🎙️🧠 Local-first macOS meeting + document notebook — on-device Whisper transcription, source-linked notes, @brain and his |
 | 24 | [Gunnarguy/PlaudBlender](https://github.com/Gunnarguy/PlaudBlender) | 5 | Python | 2026-09-03 | Local-first Plaud recording pipeline and personal knowledge timeline with Python, SQLite, Qdrant, RAG, 3D graphs, MCP to |
-| 25 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2282 | JavaScript | 2026-09-03 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 26 | [xixvivji/alzs-well](https://github.com/xixvivji/alzs-well) | 1 | HTML | 2026-09-03 | 금융생활 변화 조기알림 및 행원 보호업무 코파일럿 |
-| 27 | [EdF2021/ithaka](https://github.com/EdF2021/ithaka) | 0 | Python | 2026-09-03 | Self-hosted AI workspace — chat, agents, notebooks, deep research, documents, email, notes, calendar, and local model wo |
-| 28 | [LeekiGitHub/Seiton-Brain](https://github.com/LeekiGitHub/Seiton-Brain) | 0 | Python | 2026-09-03 | Privacy-first personal AI second brain for capturing, organizing and retrieving personal knowledge. Self-hosted first; m |
-| 29 | [monkey2jack/aiduMEI](https://github.com/monkey2jack/aiduMEI) | 18 | Python | 2026-09-03 | aiduMEI⚕爱嘟优忆思——aidu Memory Engine Insight · 智能体通用智慧引擎——Excellent memory system for all agents. |
-| 30 | [rubyrayjuntos/hermes-memory](https://github.com/rubyrayjuntos/hermes-memory) | 0 | Python | 2026-09-03 | 📜The Hermes Librarian📜 Hybrid memory provider for Hermes Agent — Postgres + pgvector + Apache AGE knowledge graph with p |
-| 31 | [jtgsystems/WEBSITE-SOPS](https://github.com/jtgsystems/WEBSITE-SOPS) | 0 | — | 2026-09-03 | 📋 Website SOPs - Standard operating procedures for web development |
-| 32 | [jtgsystems/free-sitemap-generator](https://github.com/jtgsystems/free-sitemap-generator) | 3 | Python | 2026-09-03 | 🗺️ Free sitemap generator - Create XML sitemaps for SEO |
-| 33 | [jtgsystems/Install-popular-python-Libraries](https://github.com/jtgsystems/Install-popular-python-Libraries) | 0 | Batchfile | 2026-09-03 | 📦 Python library installer - One-click popular package installation |
-| 34 | [jtgsystems/BEST-SEO-Niagara-Hamilton-Toronto](https://github.com/jtgsystems/BEST-SEO-Niagara-Hamilton-Toronto) | 0 | Batchfile | 2026-09-03 | 🚀 #1 SEO Company Niagara Hamilton Toronto \| Local Search Domination \| JTG Systems (905) 892-4555 \| Interactive SEO Game  |
-| 35 | [jtgsystems/OCR-TOOL-REALTIME](https://github.com/jtgsystems/OCR-TOOL-REALTIME) | 0 | Python | 2026-09-03 | 📝 Real-time OCR tool - Extract text from images and videos with live processing |
-| 36 | [jtgsystems/Ollama-Menu](https://github.com/jtgsystems/Ollama-Menu) | 0 | Batchfile | 2026-09-03 | Interactive Windows batch menu for 160+ Ollama AI models. Browse, update, and run Llama, Mistral, Gemma, Qwen, DeepSeek, |
-| 37 | [jtgsystems/Ollama-Menu-main](https://github.com/jtgsystems/Ollama-Menu-main) | 1 | Batchfile | 2026-09-03 | 🦙 Ollama menu system - Streamlined AI model management |
-| 38 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-09-03 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 39 | [jtgsystems/socialmedia](https://github.com/jtgsystems/socialmedia) | 0 | HTML | 2026-09-03 | 📱 Social media toolkit - Multi-platform management tools |
-| 40 | [jtgsystems/The-Ultimate-Bat-File](https://github.com/jtgsystems/The-Ultimate-Bat-File) | 9 | Batchfile | 2026-09-03 | 🦇 Ultimate batch file collection - Essential Windows automation scripts & utilities |
-| 41 | [jtgsystems/REPORT-TOOL-2025](https://github.com/jtgsystems/REPORT-TOOL-2025) | 3 | PowerShell | 2026-09-03 | 📈 Advanced reporting tool 2025 - Generate professional reports with data visualization |
-| 42 | [jtgsystems/PYTHON-BEST-PRACTICES-2025](https://github.com/jtgsystems/PYTHON-BEST-PRACTICES-2025) | 3 | PowerShell | 2026-09-03 | 🐍 Python best practices guide 2025 - Modern coding standards, patterns & optimization techniques |
-| 43 | [jtgsystems/ai-pro-prompts](https://github.com/jtgsystems/ai-pro-prompts) | 1 | Python | 2026-09-03 | 🧠 Extensive prompt engineering library with 500+ templates for various LLMs. |
-| 44 | [jtgsystems/DRIVER-UPDATER---WINDOWS](https://github.com/jtgsystems/DRIVER-UPDATER---WINDOWS) | 7 | PowerShell | 2026-09-03 | 🔧 Windows driver updater - Automatic driver detection, download & installation tool |
-| 45 | [jtgsystems/Sentimant-Tool---Project](https://github.com/jtgsystems/Sentimant-Tool---Project) | 1 | TypeScript | 2026-09-03 | 💭 Sentiment analysis tool - Analyze text emotions and opinions using advanced NLP |
-| 46 | [jtgsystems/seo-image-converter](https://github.com/jtgsystems/seo-image-converter) | 1 | Python | 2026-09-03 | 🚀 AI-Powered SEO Image Converter with Ollama/LLaVA integration. Modern Python GUI using Dear PyGui 2.1.0 for intelligent |
-| 47 | [jtgsystems/CleanCode](https://github.com/jtgsystems/CleanCode) | 0 | Python | 2026-09-03 | ✨ Clean code practices - Best practices for writing maintainable code |
-| 48 | [jtgsystems/computer-repair](https://github.com/jtgsystems/computer-repair) | 0 | TypeScript | 2026-09-03 | 🔧 Computer repair toolkit - Diagnostic & repair utilities |
-| 49 | [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) | 528 | C# | 2026-09-03 | MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, |
-| 50 | [jtgsystems/Phone-Control-Project](https://github.com/jtgsystems/Phone-Control-Project) | 2 | JavaScript | 2026-09-03 | 📱 Phone control system - Remote device management & automation |
+| 25 | [cortexkit/aft](https://github.com/cortexkit/aft) | 274 | Rust | 2026-09-03 | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo |
+| 26 | [mudassar531/hearsay](https://github.com/mudassar531/hearsay) | 19 | Python | 2026-09-03 | crawl4ai for video & audio — turn any YouTube video, podcast, or recording into clean timestamped markdown, or a verifie |
+| 27 | [zumik3-del/synaptomind](https://github.com/zumik3-del/synaptomind) | 7 | TypeScript | 2026-09-03 | Where ideas find each other |
+| 28 | [jtgsystems/Phone-Control-Project](https://github.com/jtgsystems/Phone-Control-Project) | 2 | JavaScript | 2026-09-03 | 📱 Phone control system - Remote device management & automation |
+| 29 | [jtgsystems/computer-repair](https://github.com/jtgsystems/computer-repair) | 0 | TypeScript | 2026-09-03 | 🔧 Computer repair toolkit - Diagnostic & repair utilities |
+| 30 | [jtgsystems/CleanCode](https://github.com/jtgsystems/CleanCode) | 0 | Python | 2026-09-03 | ✨ Clean code practices - Best practices for writing maintainable code |
+| 31 | [jtgsystems/seo-image-converter](https://github.com/jtgsystems/seo-image-converter) | 1 | Python | 2026-09-03 | 🚀 AI-Powered SEO Image Converter with Ollama/LLaVA integration. Modern Python GUI using Dear PyGui 2.1.0 for intelligent |
+| 32 | [jtgsystems/Sentimant-Tool---Project](https://github.com/jtgsystems/Sentimant-Tool---Project) | 1 | TypeScript | 2026-09-03 | 💭 Sentiment analysis tool - Analyze text emotions and opinions using advanced NLP |
+| 33 | [jtgsystems/DRIVER-UPDATER---WINDOWS](https://github.com/jtgsystems/DRIVER-UPDATER---WINDOWS) | 7 | PowerShell | 2026-09-03 | 🔧 Windows driver updater - Automatic driver detection, download & installation tool |
+| 34 | [jtgsystems/ai-pro-prompts](https://github.com/jtgsystems/ai-pro-prompts) | 1 | Python | 2026-09-03 | 🧠 Extensive prompt engineering library with 500+ templates for various LLMs. |
+| 35 | [jtgsystems/PYTHON-BEST-PRACTICES-2025](https://github.com/jtgsystems/PYTHON-BEST-PRACTICES-2025) | 3 | PowerShell | 2026-09-03 | 🐍 Python best practices guide 2025 - Modern coding standards, patterns & optimization techniques |
+| 36 | [jtgsystems/REPORT-TOOL-2025](https://github.com/jtgsystems/REPORT-TOOL-2025) | 3 | PowerShell | 2026-09-03 | 📈 Advanced reporting tool 2025 - Generate professional reports with data visualization |
+| 37 | [jtgsystems/The-Ultimate-Bat-File](https://github.com/jtgsystems/The-Ultimate-Bat-File) | 9 | Batchfile | 2026-09-03 | 🦇 Ultimate batch file collection - Essential Windows automation scripts & utilities |
+| 38 | [jtgsystems/socialmedia](https://github.com/jtgsystems/socialmedia) | 0 | HTML | 2026-09-03 | 📱 Social media toolkit - Multi-platform management tools |
+| 39 | [jtgsystems/Ollama-Menu-main](https://github.com/jtgsystems/Ollama-Menu-main) | 1 | Batchfile | 2026-09-03 | 🦙 Ollama menu system - Streamlined AI model management |
+| 40 | [jtgsystems/Ollama-Menu](https://github.com/jtgsystems/Ollama-Menu) | 0 | Batchfile | 2026-09-03 | Interactive Windows batch menu for 160+ Ollama AI models. Browse, update, and run Llama, Mistral, Gemma, Qwen, DeepSeek, |
+| 41 | [jtgsystems/OCR-TOOL-REALTIME](https://github.com/jtgsystems/OCR-TOOL-REALTIME) | 0 | Python | 2026-09-03 | 📝 Real-time OCR tool - Extract text from images and videos with live processing |
+| 42 | [jtgsystems/BEST-SEO-Niagara-Hamilton-Toronto](https://github.com/jtgsystems/BEST-SEO-Niagara-Hamilton-Toronto) | 0 | Batchfile | 2026-09-03 | 🚀 #1 SEO Company Niagara Hamilton Toronto \| Local Search Domination \| JTG Systems (905) 892-4555 \| Interactive SEO Game  |
+| 43 | [jtgsystems/Install-popular-python-Libraries](https://github.com/jtgsystems/Install-popular-python-Libraries) | 0 | Batchfile | 2026-09-03 | 📦 Python library installer - One-click popular package installation |
+| 44 | [jtgsystems/free-sitemap-generator](https://github.com/jtgsystems/free-sitemap-generator) | 3 | Python | 2026-09-03 | 🗺️ Free sitemap generator - Create XML sitemaps for SEO |
+| 45 | [jtgsystems/WEBSITE-SOPS](https://github.com/jtgsystems/WEBSITE-SOPS) | 0 | — | 2026-09-03 | 📋 Website SOPs - Standard operating procedures for web development |
+| 46 | [leynier/python-template](https://github.com/leynier/python-template) | 37 | Jinja | 2026-09-03 | Generate production-ready Python and AI stacks by combining frameworks, data engines, tooling, and cloud deployment. |
+| 47 | [KimJiSeong1994/PaperReview](https://github.com/KimJiSeong1994/PaperReview) | 1 | Python | 2026-09-03 | AI-powered academic research platform for paper search, multi-agent reviews, knowledge graphs, and personalized research |
+| 48 | [ashish7802/memora-ai](https://github.com/ashish7802/memora-ai) | 1 | TypeScript | 2026-09-03 | 🧠 Enterprise-grade Agent Memory & Skills Platform - Because AI shouldn't have goldfish memory. |
+| 49 | [jackliusr/agents](https://github.com/jackliusr/agents) | 0 | Jupyter Notebook | 2026-09-03 | learning on agents related topics |
+| 50 | [shakfu/cyllama](https://github.com/shakfu/cyllama) | 33 | Python | 2026-09-03 | A thin cython wrapper around llama.cpp, whisper.cpp and stable-diffusion.cpp |
 <!-- TRACKER_TABLE_END -->
 
 ---
