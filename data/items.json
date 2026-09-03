@@ -1,5 +1,140 @@
 [
   {
+    "description": "ACL gateway for RAG \u2014 document-level ACL, semantic DLP, indirect prompt-injection shielding, and citation auditing.",
+    "id": "marifort/rag-protection",
+    "language": "Python",
+    "name": "marifort/rag-protection",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:05:22Z",
+    "url": "https://github.com/marifort/rag-protection"
+  },
+  {
+    "description": "This playbook teaches you how to compose Tableau's varied product capabilities into applications that thrill customers, ",
+    "id": "Tab-SE/embedding_playbook",
+    "language": "JavaScript",
+    "name": "Tab-SE/embedding_playbook",
+    "stars": 22,
+    "updated_at": "2026-09-03T14:04:14Z",
+    "url": "https://github.com/Tab-SE/embedding_playbook"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 21,
+    "updated_at": "2026-09-03T14:03:38Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Local-first AI automation factory \u2014 self-hosted n8n + Ollama + Qdrant + Postgres, with production conventions and a job-",
+    "id": "AdriMottainai/n8n-automation-factory",
+    "language": "\u2014",
+    "name": "AdriMottainai/n8n-automation-factory",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:03:36Z",
+    "url": "https://github.com/AdriMottainai/n8n-automation-factory"
+  },
+  {
+    "description": "Local-first Chinese PDF RAG with BGE, ChromaDB, DeepSeek, cited answers, reproducible evaluation and Docker E2E.",
+    "id": "raynegao/StudyMate-RAG",
+    "language": "Python",
+    "name": "raynegao/StudyMate-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:03:19Z",
+    "url": "https://github.com/raynegao/StudyMate-RAG"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\uff1aKeycloak SSO\u3001FastAPI\u3001PostgreSQL\u3001Qdrant\u3001Streamlit \u4e0e DeepSeek\uff0c\u652f\u6301\u591a\u683c\u5f0f\u6587\u6863\u3001\u6765\u6e90\u5f15\u7528\u548c\u6743\u9650\u9694\u79bb\u3002",
+    "id": "baiqijun233/RAGBotStandard",
+    "language": "Python",
+    "name": "baiqijun233/RAGBotStandard",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:02:53Z",
+    "url": "https://github.com/baiqijun233/RAGBotStandard"
+  },
+  {
+    "description": "FreeAI: Unified AI Inference Workstation \u2014 local LLMs, autonomous agents, full SDLC automation, security tools, and mult",
+    "id": "ProjectZeroDays/FreeAI_AI_Inference_Workstation",
+    "language": "Python",
+    "name": "ProjectZeroDays/FreeAI_AI_Inference_Workstation",
+    "stars": 5,
+    "updated_at": "2026-09-03T14:02:51Z",
+    "url": "https://github.com/ProjectZeroDays/FreeAI_AI_Inference_Workstation"
+  },
+  {
+    "description": "Open-source adaptive learning platform \u2014 grounded RAG over your own material, mastery model, FSRS scheduling, multi-prov",
+    "id": "aislamsilvalol-ctrl/noema",
+    "language": "Python",
+    "name": "aislamsilvalol-ctrl/noema",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:05:30Z",
+    "url": "https://github.com/aislamsilvalol-ctrl/noema"
+  },
+  {
+    "description": "SaaS contract clause identification and risk flagging for Philippine freelancers and small businesses. Capstone, Univers",
+    "id": "JustineSalinas/clauseguard",
+    "language": "TypeScript",
+    "name": "JustineSalinas/clauseguard",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:01:09Z",
+    "url": "https://github.com/JustineSalinas/clauseguard"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-09-03T14:02:49Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi",
+    "id": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "language": "Python",
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "stars": 1842,
+    "updated_at": "2026-09-03T14:05:17Z",
+    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "World's first open-source enterprise world model.",
+    "id": "deeplethe/utopia",
+    "language": "Rust",
+    "name": "deeplethe/utopia",
+    "stars": 3312,
+    "updated_at": "2026-09-03T14:05:32Z",
+    "url": "https://github.com/deeplethe/utopia"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 19,
+    "updated_at": "2026-09-03T13:59:51Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
     "description": "Production-style AI research agent that performs multi-step web research using LangGraph, MCP, LLM reasoning, source ver",
     "id": "Amankhan1009/Deepcite",
     "language": "Python",
@@ -9,24 +144,6 @@
     "url": "https://github.com/Amankhan1009/Deepcite"
   },
   {
-    "description": "World's first open-source enterprise world model.",
-    "id": "deeplethe/utopia",
-    "language": "Rust",
-    "name": "deeplethe/utopia",
-    "stars": 3311,
-    "updated_at": "2026-09-03T14:00:15Z",
-    "url": "https://github.com/deeplethe/utopia"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 21,
-    "updated_at": "2026-09-03T13:58:43Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
     "id": "neomjs/neo",
     "language": "JavaScript",
@@ -34,6 +151,15 @@
     "stars": 3265,
     "updated_at": "2026-09-03T13:58:19Z",
     "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 28,
+    "updated_at": "2026-09-03T13:58:02Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
@@ -77,7 +203,7 @@
     "language": "Go",
     "name": "Leewwp/OmniCraft",
     "stars": 0,
-    "updated_at": "2026-09-03T13:56:31Z",
+    "updated_at": "2026-09-03T14:03:25Z",
     "url": "https://github.com/Leewwp/OmniCraft"
   },
   {
@@ -149,7 +275,7 @@
     "language": "C#",
     "name": "MPCoreDeveloper/SharpCoreDB",
     "stars": 37,
-    "updated_at": "2026-09-03T13:54:49Z",
+    "updated_at": "2026-09-03T14:04:16Z",
     "url": "https://github.com/MPCoreDeveloper/SharpCoreDB"
   },
   {
@@ -221,7 +347,7 @@
     "language": "Python",
     "name": "brekkylab/backlot",
     "stars": 53,
-    "updated_at": "2026-09-03T13:52:53Z",
+    "updated_at": "2026-09-03T14:03:59Z",
     "url": "https://github.com/brekkylab/backlot"
   },
   {
@@ -232,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T13:52:25Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Local-first Chinese PDF RAG with BGE, ChromaDB, DeepSeek, cited answers, reproducible evaluation and Docker E2E.",
-    "id": "raynegao/StudyMate-RAG",
-    "language": "Python",
-    "name": "raynegao/StudyMate-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:56:08Z",
-    "url": "https://github.com/raynegao/StudyMate-RAG"
   },
   {
     "description": "\u57fa\u4e8e\u963f\u91cc\u4e91\u901a\u4e49\u5927\u6a21\u578b\u7684\u975e\u9057\u6587\u5316\u667a\u80fd\u95ee\u7b54\u4e0e\u8bc6\u522b\u5e73\u53f0",
@@ -257,7 +374,7 @@
     "language": "Python",
     "name": "vyact/vyact",
     "stars": 12,
-    "updated_at": "2026-09-03T13:52:16Z",
+    "updated_at": "2026-09-03T14:02:04Z",
     "url": "https://github.com/vyact/vyact"
   },
   {
@@ -324,15 +441,6 @@
     "url": "https://github.com/IgorGanapolsky/trading"
   },
   {
-    "description": "SaaS contract clause identification and risk flagging for Philippine freelancers and small businesses. Capstone, Univers",
-    "id": "JustineSalinas/clauseguard",
-    "language": "TypeScript",
-    "name": "JustineSalinas/clauseguard",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:46:54Z",
-    "url": "https://github.com/JustineSalinas/clauseguard"
-  },
-  {
     "description": "\u84b8\u7559\u8535 \u2014 distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ship",
     "id": "lna-lab/distill-kura",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 40,
     "updated_at": "2026-09-03T13:46:40Z",
     "url": "https://github.com/lna-lab/distill-kura"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 28,
-    "updated_at": "2026-09-03T13:58:02Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "RAG-based legal assistant for querying Bharatiya Nyaya Sanhita (BNS) documents using LLMs, embeddings, and semantic sear",
-    "id": "Deepu-p-123/bns-rag-assistant",
-    "language": "Python",
-    "name": "Deepu-p-123/bns-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:46:19Z",
-    "url": "https://github.com/Deepu-p-123/bns-rag-assistant"
-  },
-  {
-    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
-    "id": "PersonaliAI/chatty",
-    "language": "TypeScript",
-    "name": "PersonaliAI/chatty",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:46:04Z",
-    "url": "https://github.com/PersonaliAI/chatty"
-  },
-  {
-    "description": "\u4e03\u7aef\u6253\u900f\uff0cAI \u771f\u81ea\u4e3b\uff0c\u6570\u636e\u5c01\u6b7b\u5728\u57df\u5185\u3002 \u6e20\u9053\u8986\u76d6\uff1a\u6296\u97f3 / \u5feb\u624b / \u5c0f\u7ea2\u4e66 / \u95f2\u9c7c / \u5fae\u4fe1 / \u90ae\u4ef6 / \u77ed\u4fe1 \u7edf\u4e00\u63a5\u7ba1\u3002 AI \u8303\u5f0f\uff1aReAct \u63a8\u7406 + 41 \u5de5\u5177\u7684\u81ea\u4e3b\u667a\u80fd\u4f53\uff0c\u80fd\u611f\u77e5\u2192\u89c4\u5212\u2192\u8c03\u5de5\u5177\u2192\u53cd\u601d\uff0c\u4e0d\u662f\u5199\u6b7b\u7684\u5de5\u4f5c\u6d41\u3002 \u6570",
-    "id": "xiaofang142/hivemtk",
-    "language": "Go",
-    "name": "xiaofang142/hivemtk",
-    "stars": 39,
-    "updated_at": "2026-09-03T13:46:04Z",
-    "url": "https://github.com/xiaofang142/hivemtk"
-  },
-  {
-    "description": "Advanced Document Processing using RAG",
-    "id": "Darsh-Bothra/AI-Doc-QnA",
-    "language": "TypeScript",
-    "name": "Darsh-Bothra/AI-Doc-QnA",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:45:59Z",
-    "url": "https://github.com/Darsh-Bothra/AI-Doc-QnA"
-  },
-  {
-    "description": "\uaddc\uc815 \ubb38\uc11c QA\ub97c \uc704\ud55c RAG \ud3c9\uac00 \uccb4\uacc4\uc640 \uc5d0\uc774\uc804\ud2b8 SFT \ud30c\uc774\ud504\ub77c\uc778 \u2014 \uce21\uc815\uc73c\ub85c \uc124\uacc4 \uac00\uc815 5\uac74\uc744 \ubc18\uc99d\ud558\uace0 \uc218\uc815\ud55c \uae30\ub85d",
-    "id": "LEESANG-dev/rag-eval-agent-sft",
-    "language": "Python",
-    "name": "LEESANG-dev/rag-eval-agent-sft",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:45:48Z",
-    "url": "https://github.com/LEESANG-dev/rag-eval-agent-sft"
-  },
-  {
-    "description": "Rip'n Fast. Less Tokens. Better Code. The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server handing coding",
-    "id": "redhat-et/ripwire",
-    "language": "C++",
-    "name": "redhat-et/ripwire",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:45:36Z",
-    "url": "https://github.com/redhat-et/ripwire"
-  },
-  {
-    "description": "Local multimodal RAG for PDFs: MinerU, Jina CLIP, FAISS, BM25, BGE reranking and Ollama. Runs on your hardware via CLI, ",
-    "id": "iDiagoValeta/localOllamaRAG",
-    "language": "Python",
-    "name": "iDiagoValeta/localOllamaRAG",
-    "stars": 13,
-    "updated_at": "2026-09-03T13:45:35Z",
-    "url": "https://github.com/iDiagoValeta/localOllamaRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\uff1aKeycloak SSO\u3001FastAPI\u3001PostgreSQL\u3001Qdrant\u3001Streamlit \u4e0e DeepSeek\uff0c\u652f\u6301\u591a\u683c\u5f0f\u6587\u6863\u3001\u6765\u6e90\u5f15\u7528\u548c\u6743\u9650\u9694\u79bb\u3002",
-    "id": "baiqijun233/RAGBotStandard",
-    "language": "Python",
-    "name": "baiqijun233/RAGBotStandard",
-    "stars": 1,
-    "updated_at": "2026-09-03T13:43:06Z",
-    "url": "https://github.com/baiqijun233/RAGBotStandard"
-  },
-  {
-    "description": "Local PDF-to-text, OCR, page-aware chunking, and AnythingLLM Desktop upload assistant for reliable page-cited RAG retrie",
-    "id": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
-    "language": "Python",
-    "name": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:43:01Z",
-    "url": "https://github.com/OPProductivity/anythingllm-pdf-parser-embedder-assistant"
   }
 ]
