@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted AI campaign companion for tabletop RPGs \u2014 fine-tuned local LLM + RAG over your own campaign journal",
+    "id": "hsmith-dev/Lorekeeper.quest",
+    "language": "Python",
+    "name": "hsmith-dev/Lorekeeper.quest",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:30:10Z",
+    "url": "https://github.com/hsmith-dev/Lorekeeper.quest"
+  },
+  {
+    "description": "Search code and feature records by meaning through the command line or Model Context Protocol (MCP). Inference runs on y",
+    "id": "nevenincs/vaultspec-rag",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-rag",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:29:56Z",
+    "url": "https://github.com/nevenincs/vaultspec-rag"
+  },
+  {
+    "description": "\u9762\u5411\u901a\u4fe1\u4eff\u771f\u5b9e\u9a8c\u7684 Agent \u5e73\u53f0\uff0c\u652f\u6301\u5b9e\u9a8c\u7f16\u6392\u3001MATLAB/Mock \u53d7\u63a7\u6267\u884c\u3001\u53ef\u8ffd\u6eaf\u4ea7\u7269\u3001Citation \u62a5\u544a\u3001Replay \u590d\u73b0\u4e0e\u79bb\u7ebf\u8bc4\u6d4b\u3002",
+    "id": "tdO-0/WavePilot",
+    "language": "Java",
+    "name": "tdO-0/WavePilot",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:29:49Z",
+    "url": "https://github.com/tdO-0/WavePilot"
+  },
+  {
+    "description": "Agent \u667a\u80fd\u4f53\u5f00\u53d1\u6559\u7a0b",
+    "id": "itkdm/aiagentguide",
+    "language": "JavaScript",
+    "name": "itkdm/aiagentguide",
+    "stars": 1,
+    "updated_at": "2026-09-05T18:29:08Z",
+    "url": "https://github.com/itkdm/aiagentguide"
+  },
+  {
+    "description": "An agent that detects at-risk revenue (failed payments, abandoned checkouts, failed subscriptions), diagnoses the root c",
+    "id": "saikrish-code/Razorpay-Buildathon",
+    "language": "Python",
+    "name": "saikrish-code/Razorpay-Buildathon",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:29:05Z",
+    "url": "https://github.com/saikrish-code/Razorpay-Buildathon"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:28:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Hybrid Search to find your favourite movies and more",
+    "id": "AarnoStormborn/FlickFindr",
+    "language": "TypeScript",
+    "name": "AarnoStormborn/FlickFindr",
+    "stars": 0,
+    "updated_at": "2026-09-05T18:28:56Z",
+    "url": "https://github.com/AarnoStormborn/FlickFindr"
+  },
+  {
     "description": "\u96f6\u4f9d\u8d56\u786e\u5b9a\u6027 Agent \u957f\u671f\u8bb0\u5fc6\u7cfb\u7edf \u2014 Markdown \u6743\u5a01\u6e90 + \u8584\u7d22\u5f15\uff0c\u62d2\u7b54/\u6f84\u6e05\u66ff\u4ee3\u5411\u91cf\u786c\u731c\uff0c\u73bb\u7483\u76d2\u53ef\u5ba1\u8ba1\u3002 | Zero-dependency deterministic agent memory system \u2014 Markd",
     "id": "Traceless-zero/AI-MemoryHub",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "mattlawck/lawn-agents",
     "stars": 0,
-    "updated_at": "2026-09-05T18:27:50Z",
+    "updated_at": "2026-09-05T18:29:45Z",
     "url": "https://github.com/mattlawck/lawn-agents"
   },
   {
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 134,
-    "updated_at": "2026-09-05T18:27:44Z",
+    "updated_at": "2026-09-05T18:29:35Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T18:24:13Z",
     "url": "https://github.com/s3602te/xuya-ai-assistant"
-  },
-  {
-    "description": "Search code and feature records by meaning through the command line or Model Context Protocol (MCP). Inference runs on y",
-    "id": "nevenincs/vaultspec-rag",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-rag",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:23:02Z",
-    "url": "https://github.com/nevenincs/vaultspec-rag"
   },
   {
     "description": "AI agents built with Python: job-hunter bot, CLI task manager, and RAG pipeline using LlamaIndex",
@@ -279,15 +333,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "\u9762\u5411\u901a\u4fe1\u4eff\u771f\u5b9e\u9a8c\u7684 Agent \u5e73\u53f0\uff0c\u652f\u6301\u5b9e\u9a8c\u7f16\u6392\u3001MATLAB/Mock \u53d7\u63a7\u6267\u884c\u3001\u53ef\u8ffd\u6eaf\u4ea7\u7269\u3001Citation \u62a5\u544a\u3001Replay \u590d\u73b0\u4e0e\u79bb\u7ebf\u8bc4\u6d4b\u3002",
-    "id": "tdO-0/WavePilot",
-    "language": "Java",
-    "name": "tdO-0/WavePilot",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:18:44Z",
-    "url": "https://github.com/tdO-0/WavePilot"
-  },
-  {
     "description": "Portfolio-quality contract intelligence application built with .NET, React, DDD, CQRS, RAG, and responsible AI.",
     "id": "andreluizleite/ContractIQ",
     "language": "C#",
@@ -342,15 +387,6 @@
     "url": "https://github.com/henrydaum/second-brain"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first AI memory for coding agents. NouGenShards stores reusable \"shards\" in a local SQLite + FTS5 database with ou",
     "id": "Who-Visions/NouGenShards",
     "language": "Python",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19258,
-    "updated_at": "2026-09-05T18:15:07Z",
+    "updated_at": "2026-09-05T18:28:56Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 24,
     "updated_at": "2026-09-05T18:14:54Z",
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
-    "description": "Agent \u667a\u80fd\u4f53\u5f00\u53d1\u6559\u7a0b",
-    "id": "itkdm/aiagentguide",
-    "language": "JavaScript",
-    "name": "itkdm/aiagentguide",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:14:50Z",
-    "url": "https://github.com/itkdm/aiagentguide"
   },
   {
     "description": "MarxSphere \u2014 AI \u9a71\u52a8\u7684\u5168\u4eba\u6587\u793e\u79d1\u5b66\u672f\u79d1\u7814\u5e73\u53f0:AI Agent 70\u5de5\u5177\u81ea\u4e3b\u8c03\u5ea6 / 52\u6b65\u53ef\u5ba1\u8ba1\u63a8\u7406 / \u56db\u6e90\u77e5\u8bc6\u56fe\u8c31 / \u8bc1\u636e\u6eaf\u6e90\u53cd\u5e7b\u89c9 / \u5f15\u6587\u4e09\u7ef4\u6838\u9a8c / 66\u79d1\u7814\u573a\u666f\u5168\u6d41\u7a0b / \u79d1\u7814+\u6559\u5b66\u4e00\u4f53 / \u5b9e\u8bc117\u65b9\u6cd5 /",
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-09-05T18:13:21Z",
     "url": "https://github.com/Krzysztof318/MailFathom"
-  },
-  {
-    "description": "The .NET third of a trio: an AI customer service backend built three times, in three runtimes, with the differences meas",
-    "id": "lai3d/ai-customer-service-dotnet",
-    "language": "C#",
-    "name": "lai3d/ai-customer-service-dotnet",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:13:18Z",
-    "url": "https://github.com/lai3d/ai-customer-service-dotnet"
-  },
-  {
-    "description": "Local-model developer tooling for Windows: repository-aware semantic code search, MCP servers for Claude Code and Codex,",
-    "id": "MrAliev/local-ai-developer-toolkit",
-    "language": "C#",
-    "name": "MrAliev/local-ai-developer-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-05T18:13:59Z",
-    "url": "https://github.com/MrAliev/local-ai-developer-toolkit"
-  },
-  {
-    "description": "Session resilience and shared memory for AI coding agents - journals every turn to local SQLite, curates durable facts, ",
-    "id": "BlackVS/aimem",
-    "language": "Go",
-    "name": "BlackVS/aimem",
-    "stars": 0,
-    "updated_at": "2026-09-05T18:13:04Z",
-    "url": "https://github.com/BlackVS/aimem"
   }
 ]
