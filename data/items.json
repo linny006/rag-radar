@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "amishi-arora/Examify",
+    "language": "JavaScript",
+    "name": "amishi-arora/Examify",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:18:06Z",
+    "url": "https://github.com/amishi-arora/Examify"
+  },
+  {
+    "description": "Search code and feature records by meaning through the command line or Model Context Protocol (MCP). Inference runs on y",
+    "id": "nevenincs/vaultspec-rag",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-rag",
+    "stars": 1,
+    "updated_at": "2026-09-05T22:17:54Z",
+    "url": "https://github.com/nevenincs/vaultspec-rag"
+  },
+  {
+    "description": "Es un proyecto personal que intenta resolver problemas de sistemas reales dentro de un dominio espec\u00edfico. A modular des",
+    "id": "Ian9Franco/MIM",
+    "language": "TypeScript",
+    "name": "Ian9Franco/MIM",
+    "stars": 2,
+    "updated_at": "2026-09-05T22:17:53Z",
+    "url": "https://github.com/Ian9Franco/MIM"
+  },
+  {
+    "description": "Modern jewelry store e-commerce equipped with an AI RAG Chatbot, plus a standalone Admin Hub for dynamic RAG knowledge m",
+    "id": "Bajoel32/bajoel32",
+    "language": "JavaScript",
+    "name": "Bajoel32/bajoel32",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:17:43Z",
+    "url": "https://github.com/Bajoel32/bajoel32"
+  },
+  {
+    "description": "In-process, privacy-first cognitive runtime & hybrid RAG engine for Java 21.",
+    "id": "darshanrathod04/shree-ai-os",
+    "language": "Java",
+    "name": "darshanrathod04/shree-ai-os",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:17:20Z",
+    "url": "https://github.com/darshanrathod04/shree-ai-os"
+  },
+  {
+    "description": "RAG application for querying public procurement documents with grounded answers, citations and structured extraction.",
+    "id": "brandao-20/public-procurement-rag",
+    "language": "Python",
+    "name": "brandao-20/public-procurement-rag",
+    "stars": 0,
+    "updated_at": "2026-09-05T22:16:36Z",
+    "url": "https://github.com/brandao-20/public-procurement-rag"
+  },
+  {
+    "description": "Second Brain is an agentic framework that acts as an operating system, using local file intelligence, workflow automatio",
+    "id": "henrydaum/second-brain",
+    "language": "Python",
+    "name": "henrydaum/second-brain",
+    "stars": 627,
+    "updated_at": "2026-09-05T22:16:14Z",
+    "url": "https://github.com/henrydaum/second-brain"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T22:15:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T22:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open source agentic operating system",
     "id": "elizaOS/eliza",
     "language": "TypeScript",
@@ -81,15 +162,6 @@
     "url": "https://github.com/BugraAkdemir/memo"
   },
   {
-    "description": "Es un proyecto personal que intenta resolver problemas de sistemas reales dentro de un dominio espec\u00edfico. A modular des",
-    "id": "Ian9Franco/MIM",
-    "language": "TypeScript",
-    "name": "Ian9Franco/MIM",
-    "stars": 2,
-    "updated_at": "2026-09-05T22:12:22Z",
-    "url": "https://github.com/Ian9Franco/MIM"
-  },
-  {
     "description": "Agentic RAG in .NET \u2014 pgvector retrieval, LLM reranking, Semantic Kernel faithfulness checker",
     "id": "UfukCetinkaya57/enterprise-rag-dotnet",
     "language": "C#",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "EtanHey/brainlayer",
     "stars": 8,
-    "updated_at": "2026-09-05T22:11:52Z",
+    "updated_at": "2026-09-05T22:15:32Z",
     "url": "https://github.com/EtanHey/brainlayer"
   },
   {
@@ -115,24 +187,6 @@
     "stars": 585,
     "updated_at": "2026-09-05T22:11:31Z",
     "url": "https://github.com/felladrin/MiniSearch"
-  },
-  {
-    "description": "Search code and feature records by meaning through the command line or Model Context Protocol (MCP). Inference runs on y",
-    "id": "nevenincs/vaultspec-rag",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-rag",
-    "stars": 1,
-    "updated_at": "2026-09-05T22:10:28Z",
-    "url": "https://github.com/nevenincs/vaultspec-rag"
-  },
-  {
-    "description": "",
-    "id": "amishi-arora/Examify",
-    "language": "JavaScript",
-    "name": "amishi-arora/Examify",
-    "stars": 0,
-    "updated_at": "2026-09-05T22:09:34Z",
-    "url": "https://github.com/amishi-arora/Examify"
   },
   {
     "description": "The agent framework where the model never holds the trigger \u2014 every consequential action clears your policy first, waits",
@@ -250,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T22:00:29Z",
     "url": "https://github.com/SergioB03/Valorant-ai-companion"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T22:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multimodal industrial operations hub combining YOLOv8 computer vision with a LangChain RAG pipeline.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:49:59Z",
     "url": "https://github.com/pnoboesam/ghana-constitution-rag"
-  },
-  {
-    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-    "id": "simstudioai/sim",
-    "language": "TypeScript",
-    "name": "simstudioai/sim",
-    "stars": 29551,
-    "updated_at": "2026-09-05T22:13:23Z",
-    "url": "https://github.com/simstudioai/sim"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 276,
-    "updated_at": "2026-09-05T21:48:08Z",
-    "url": "https://github.com/cortexkit/aft"
-  },
-  {
-    "description": "Private continuous audiovisual memory, powered by local VLMs.",
-    "id": "dan-el-7/memoria-vitae",
-    "language": "Python",
-    "name": "dan-el-7/memoria-vitae",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:47:51Z",
-    "url": "https://github.com/dan-el-7/memoria-vitae"
-  },
-  {
-    "description": "\u84b8\u7559\u8535 \u2014 distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ship",
-    "id": "lna-lab/distill-kura",
-    "language": "Python",
-    "name": "lna-lab/distill-kura",
-    "stars": 41,
-    "updated_at": "2026-09-05T21:47:48Z",
-    "url": "https://github.com/lna-lab/distill-kura"
   }
 ]
