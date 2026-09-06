@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19270,
+    "updated_at": "2026-09-06T22:14:34Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Discord bot that integrates LLMs with multimodal capabilities including text chat, voice synthesis (TTS), speech recogni",
+    "id": "privacydied/discord-llm-chatbot",
+    "language": "Python",
+    "name": "privacydied/discord-llm-chatbot",
+    "stars": 2,
+    "updated_at": "2026-09-06T22:14:10Z",
+    "url": "https://github.com/privacydied/discord-llm-chatbot"
+  },
+  {
+    "description": "A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you",
+    "id": "Krzysztof318/MailFathom",
+    "language": "C#",
+    "name": "Krzysztof318/MailFathom",
+    "stars": 14,
+    "updated_at": "2026-09-06T22:14:09Z",
+    "url": "https://github.com/Krzysztof318/MailFathom"
+  },
+  {
+    "description": "Ruby's capable AI runtime",
+    "id": "r-uby-dev/llm",
+    "language": "Ruby",
+    "name": "r-uby-dev/llm",
+    "stars": 139,
+    "updated_at": "2026-09-06T22:13:57Z",
+    "url": "https://github.com/r-uby-dev/llm"
+  },
+  {
+    "description": "\ud55c\uad6d \ub370\uc774\ud130 MCP \uc11c\ubc84\ub97c \uc9c1\uc811 \ubd99\uc5ec\uc11c \uc7ac\uace0 \uadf8 \uac12\uc744 \uacf5\uac1c\ud558\ub294 \uc2e4\uce21 \ubaa9\ub85d \u2014 \uce21\uc815 \uc2a4\ud06c\ub9bd\ud2b8\uc640 \uc6d0\uc790\ub8cc \ud3ec\ud568",
+    "id": "sallim-app/korea-mcp-index",
+    "language": "Python",
+    "name": "sallim-app/korea-mcp-index",
+    "stars": 0,
+    "updated_at": "2026-09-06T22:13:40Z",
+    "url": "https://github.com/sallim-app/korea-mcp-index"
+  },
+  {
+    "description": "AI support routing system with deterministic triage, bounded RAG, and local LLM inference for low-latency customer suppo",
+    "id": "Yiu-dororong/AI-support-routing-system",
+    "language": "Python",
+    "name": "Yiu-dororong/AI-support-routing-system",
+    "stars": 0,
+    "updated_at": "2026-09-06T22:13:25Z",
+    "url": "https://github.com/Yiu-dororong/AI-support-routing-system"
+  },
+  {
+    "description": "\ucd08\uae09\uc790\ub97c \uc704\ud55c AI Engineer 100\uc77c \ucee4\ub9ac\ud058\ub7fc \u2014 Python\ubd80\ud130 RAG\uae4c\uc9c0 + \ub9e4\uc77c AI \ub274\uc2a4 \uc790\ub3d9 \ud050\ub808\uc774\uc158",
+    "id": "kimsanguine/AI_Human",
+    "language": "Shell",
+    "name": "kimsanguine/AI_Human",
+    "stars": 1,
+    "updated_at": "2026-09-06T22:13:15Z",
+    "url": "https://github.com/kimsanguine/AI_Human"
+  },
+  {
+    "description": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d",
+    "id": "AleksNeStu/ai-real-estate-assistant",
+    "language": "Python",
+    "name": "AleksNeStu/ai-real-estate-assistant",
+    "stars": 309,
+    "updated_at": "2026-09-06T22:13:06Z",
+    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T22:12:26Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T22:12:05Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
     "id": "jgouviergmail/LIA-Assistant",
     "language": "Python",
@@ -18,24 +108,6 @@
     "url": "https://github.com/xyver/daedal-map"
   },
   {
-    "description": "\ud55c\uad6d \ub370\uc774\ud130 MCP \uc11c\ubc84\ub97c \uc9c1\uc811 \ubd99\uc5ec\uc11c \uc7ac\uace0 \uadf8 \uac12\uc744 \uacf5\uac1c\ud558\ub294 \uc2e4\uce21 \ubaa9\ub85d \u2014 \uce21\uc815 \uc2a4\ud06c\ub9bd\ud2b8\uc640 \uc6d0\uc790\ub8cc \ud3ec\ud568",
-    "id": "sallim-app/korea-mcp-index",
-    "language": "Python",
-    "name": "sallim-app/korea-mcp-index",
-    "stars": 0,
-    "updated_at": "2026-09-06T22:10:12Z",
-    "url": "https://github.com/sallim-app/korea-mcp-index"
-  },
-  {
-    "description": "Discord bot that integrates LLMs with multimodal capabilities including text chat, voice synthesis (TTS), speech recogni",
-    "id": "privacydied/discord-llm-chatbot",
-    "language": "Python",
-    "name": "privacydied/discord-llm-chatbot",
-    "stars": 2,
-    "updated_at": "2026-09-06T22:09:48Z",
-    "url": "https://github.com/privacydied/discord-llm-chatbot"
-  },
-  {
     "description": "Private, on-device AI desktop app \u2014 GGUF (llama.cpp) & MLX, running Muse-Glimmer and Qwen3.8 with their native reasoning",
     "id": "Fangyuan025/Chaty",
     "language": "TypeScript",
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 159,
-    "updated_at": "2026-09-06T22:08:58Z",
+    "updated_at": "2026-09-06T22:15:08Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "erudi-app/erudi",
     "stars": 3,
-    "updated_at": "2026-09-06T22:11:29Z",
+    "updated_at": "2026-09-06T22:13:55Z",
     "url": "https://github.com/erudi-app/erudi"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Swift",
     "name": "Round-Tower/M1K3",
     "stars": 1,
-    "updated_at": "2026-09-06T22:06:41Z",
+    "updated_at": "2026-09-06T22:14:02Z",
     "url": "https://github.com/Round-Tower/M1K3"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T22:04:23Z",
     "url": "https://github.com/acipaaa/context-llm-chunks"
-  },
-  {
-    "description": "AI support routing system with deterministic triage, bounded RAG, and local LLM inference for low-latency customer suppo",
-    "id": "Yiu-dororong/AI-support-routing-system",
-    "language": "Python",
-    "name": "Yiu-dororong/AI-support-routing-system",
-    "stars": 0,
-    "updated_at": "2026-09-06T22:04:21Z",
-    "url": "https://github.com/Yiu-dororong/AI-support-routing-system"
   },
   {
     "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
@@ -234,15 +297,6 @@
     "url": "https://github.com/LeparaLaMapara/tmashininisekgoto"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19270,
-    "updated_at": "2026-09-06T22:11:58Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "id": "open-webui/open-webui",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T22:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T22:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T21:51:26Z",
     "url": "https://github.com/medysaly/unkommon"
-  },
-  {
-    "description": "Lexical + graph-augmented RAG over vLLM, using grammar-constrained decoding (Outlines) to extract a Neo4j knowledge grap",
-    "id": "DimYiannis/Constrained-GraphRag",
-    "language": "Python",
-    "name": "DimYiannis/Constrained-GraphRag",
-    "stars": 0,
-    "updated_at": "2026-09-06T21:50:51Z",
-    "url": "https://github.com/DimYiannis/Constrained-GraphRag"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T21:50:06Z",
-    "url": "https://github.com/clay-good/agent-replay"
-  },
-  {
-    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP ",
-    "id": "gmickel/gno",
-    "language": "TypeScript",
-    "name": "gmickel/gno",
-    "stars": 110,
-    "updated_at": "2026-09-06T22:02:34Z",
-    "url": "https://github.com/gmickel/gno"
-  },
-  {
-    "description": "Authority-to-product engine for governed sources and auditable software/AI artifacts",
-    "id": "decarvalhoe/NOMOS",
-    "language": "Go",
-    "name": "decarvalhoe/NOMOS",
-    "stars": 0,
-    "updated_at": "2026-09-06T21:49:34Z",
-    "url": "https://github.com/decarvalhoe/NOMOS"
-  },
-  {
-    "description": "Silent regression detector for RAG pipelines",
-    "id": "crishN144/ragdrift",
-    "language": "Python",
-    "name": "crishN144/ragdrift",
-    "stars": 4,
-    "updated_at": "2026-09-06T21:59:37Z",
-    "url": "https://github.com/crishN144/ragdrift"
   }
 ]
