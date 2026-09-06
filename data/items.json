@@ -1,5 +1,77 @@
 [
   {
+    "description": "Real-time F1 race analysis via dual-stream screen OCR + audio ASR (powered by memories.ai's Luci \u2014 NVIDIA's official GTC",
+    "id": "Jiani-lab/f1-race-analysis",
+    "language": "HTML",
+    "name": "Jiani-lab/f1-race-analysis",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:47:01Z",
+    "url": "https://github.com/Jiani-lab/f1-race-analysis"
+  },
+  {
+    "description": "Multimodal RAG Production",
+    "id": "AdilShamim8/Multimodal_RAG_Production",
+    "language": "Jupyter Notebook",
+    "name": "AdilShamim8/Multimodal_RAG_Production",
+    "stars": 5,
+    "updated_at": "2026-09-06T15:47:01Z",
+    "url": "https://github.com/AdilShamim8/Multimodal_RAG_Production"
+  },
+  {
+    "description": "Local-first RAG for your codebase: semantically search code, GitHub PRs & issues, Jira, Slite, Slack, docs, and Claude C",
+    "id": "tomharris/dev-rag",
+    "language": "Python",
+    "name": "tomharris/dev-rag",
+    "stars": 1,
+    "updated_at": "2026-09-06T15:46:56Z",
+    "url": "https://github.com/tomharris/dev-rag"
+  },
+  {
+    "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439 RAG \u043f\u043e \u0442\u0435\u043e\u0440\u0438\u0438 RFC: bge-m3 + LLM \u0432 LM Studio, \u043e\u0442\u0432\u0435\u0442\u044b \u0441 \u0446\u0438\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432",
+    "id": "shaone90/rfc-rag",
+    "language": "Python",
+    "name": "shaone90/rfc-rag",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:46:29Z",
+    "url": "https://github.com/shaone90/rfc-rag"
+  },
+  {
+    "description": "Multi-tenant RAG API that answers from your company's docs only \u2014 always cited, refuses when it doesn't have evidence.",
+    "id": "sansaloniroge/BusinessAssistant",
+    "language": "Python",
+    "name": "sansaloniroge/BusinessAssistant",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:46:19Z",
+    "url": "https://github.com/sansaloniroge/BusinessAssistant"
+  },
+  {
+    "description": "Your unofficial university assistant for all queries.",
+    "id": "rishabhh0001/snugpt",
+    "language": "TypeScript",
+    "name": "rishabhh0001/snugpt",
+    "stars": 2,
+    "updated_at": "2026-09-06T15:46:15Z",
+    "url": "https://github.com/rishabhh0001/snugpt"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "moyunzero/personal-gpt",
     "language": "TypeScript",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 230,
-    "updated_at": "2026-09-06T15:44:58Z",
+    "updated_at": "2026-09-06T15:46:27Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -315,15 +387,6 @@
     "url": "https://github.com/SenteLabsAI/OpenExecutive"
   },
   {
-    "description": "Your unofficial university assistant for all queries.",
-    "id": "rishabhh0001/snugpt",
-    "language": "TypeScript",
-    "name": "rishabhh0001/snugpt",
-    "stars": 2,
-    "updated_at": "2026-09-06T15:35:53Z",
-    "url": "https://github.com/rishabhh0001/snugpt"
-  },
-  {
     "description": "Self-correcting agentic RAG (LangGraph): critic-gated multi-hop QA with an honestly reported negative result. Zenodo pre",
     "id": "eliaghazal/SHARP-RAG",
     "language": "Python",
@@ -365,7 +428,7 @@
     "language": "Go",
     "name": "decarvalhoe/NOMOS",
     "stars": 0,
-    "updated_at": "2026-09-06T15:34:54Z",
+    "updated_at": "2026-09-06T15:45:32Z",
     "url": "https://github.com/decarvalhoe/NOMOS"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-06T15:34:40Z",
     "url": "https://github.com/alphabet-h/grooveseek"
-  },
-  {
-    "description": "\uac1c\uc778 \ub3c5\uc11c\uae30\ub85d \uad00\ub9ac\ubd80\ud130 \ub3c4\uc11c \uc815\ubcf4 \uac80\uc0c9, \uc911\uace0 \uc11c\uc801 \uac70\ub798 \ubc0f \ub3c4\uc11c \ub9ac\ubdf0 \ucee8\ud150\uce20 \uacf5\uc720\ub97c \uc704\ud55c \uc885\ud569 \ucc45 \ud50c\ub7ab\ud3fc",
-    "id": "Yoo-su/bookjeok",
-    "language": "TypeScript",
-    "name": "Yoo-su/bookjeok",
-    "stars": 1,
-    "updated_at": "2026-09-06T15:34:34Z",
-    "url": "https://github.com/Yoo-su/bookjeok"
-  },
-  {
-    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities suc",
-    "id": "labring/FastGPT",
-    "language": "TypeScript",
-    "name": "labring/FastGPT",
-    "stars": 29590,
-    "updated_at": "2026-09-06T15:34:28Z",
-    "url": "https://github.com/labring/FastGPT"
-  },
-  {
-    "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
-    "id": "MoTahaAboHeiba/EduMate-RAG",
-    "language": "Python",
-    "name": "MoTahaAboHeiba/EduMate-RAG",
-    "stars": 11,
-    "updated_at": "2026-09-06T15:34:27Z",
-    "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
-  },
-  {
-    "description": "Secure student planner with encrypted offline clients and a Firebase and Cloud Run RAG copilot using Vertex AI, Gemini, ",
-    "id": "Chanikya5793/GDPProject",
-    "language": "TypeScript",
-    "name": "Chanikya5793/GDPProject",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:36:21Z",
-    "url": "https://github.com/Chanikya5793/GDPProject"
-  },
-  {
-    "description": "Cross-media recommender (anime -> film/book) in a single embedding space. Framework-free RAG: hand-written retrieval, Hy",
-    "id": "DenizSeno1/cross-media-recommender",
-    "language": "Python",
-    "name": "DenizSeno1/cross-media-recommender",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:34:13Z",
-    "url": "https://github.com/DenizSeno1/cross-media-recommender"
-  },
-  {
-    "description": "Governed multi-agent manufacturing inspection: PatchCore anomaly detection (0.987 AUROC on MVTec AD), RAG over defect hi",
-    "id": "TejasDapse/MAVIA",
-    "language": "Python",
-    "name": "TejasDapse/MAVIA",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:34:03Z",
-    "url": "https://github.com/TejasDapse/MAVIA"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:33:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
