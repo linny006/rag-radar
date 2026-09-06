@@ -1,5 +1,68 @@
 [
   {
+    "description": "Typed Python service for payment policy retrieval, reranking, and auditable risk decisions.",
+    "id": "PrestonCole9574/fintech-payment-policy-qa",
+    "language": "Python",
+    "name": "PrestonCole9574/fintech-payment-policy-qa",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:00:05Z",
+    "url": "https://github.com/PrestonCole9574/fintech-payment-policy-qa"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 3,
+    "updated_at": "2026-09-06T17:59:35Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Local-first AI assistant with real memory, agent tool use, and proactive habits \u2014 built with Go + Flutter. Runs fully of",
+    "id": "BugraAkdemir/memo",
+    "language": "Go",
+    "name": "BugraAkdemir/memo",
+    "stars": 7,
+    "updated_at": "2026-09-06T17:59:18Z",
+    "url": "https://github.com/BugraAkdemir/memo"
+  },
+  {
+    "description": "High-performance Financial RAG Copilot with sub-millisecond in-memory retrieval, Groq streaming, and multi-document comp",
+    "id": "arpan1109/Financial-Transcripts-RAG",
+    "language": "Python",
+    "name": "arpan1109/Financial-Transcripts-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:59:08Z",
+    "url": "https://github.com/arpan1109/Financial-Transcripts-RAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T17:58:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A \u80a1\u91cf\u5316\u4ea4\u6613\u5de5\u4f5c\u53f0 \u2014 Java 21 + Spring Boot + Next.js 15 + FastAPI AI Agent + AI \u6295\u7814\u554f\u7b54\uff08ToolCalling + MCP\uff09\u7684 Web \u91cf\u5316\u4ea4\u6613\u5e73\u53f0",
+    "id": "JackLiKa/TradingWorkstation",
+    "language": "Python",
+    "name": "JackLiKa/TradingWorkstation",
+    "stars": 4,
+    "updated_at": "2026-09-06T17:58:44Z",
+    "url": "https://github.com/JackLiKa/TradingWorkstation"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:58:43Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
     "description": "ui for ansible with AI",
     "id": "mar0ls/playforge",
     "language": "Python",
@@ -117,15 +180,6 @@
     "url": "https://github.com/atvirokodosprendimai/agentsmemory"
   },
   {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:58:43Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
-  },
-  {
     "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
     "id": "clay-good/agent-replay",
     "language": "TypeScript",
@@ -196,15 +250,6 @@
     "stars": 21,
     "updated_at": "2026-09-06T17:55:23Z",
     "url": "https://github.com/douglasjordan2/c0"
-  },
-  {
-    "description": "High-performance Financial RAG Copilot with sub-millisecond in-memory retrieval, Groq streaming, and multi-document comp",
-    "id": "arpan1109/Financial-Transcripts-RAG",
-    "language": "Python",
-    "name": "arpan1109/Financial-Transcripts-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:55:14Z",
-    "url": "https://github.com/arpan1109/Financial-Transcripts-RAG"
   },
   {
     "description": "AI Novel Reader v2 - \u524d\u540e\u7aef\u5206\u79bb\u7248\u672c\uff08GitHub Pages + \u672c\u5730\u540e\u7aef\u3002\u6d4f\u89c8\u5668\u7aef AI \u5c0f\u8bf4\u9605\u8bfb\u5de5\u5177 \u2014 \u7ae0\u8282\u603b\u7ed3\u3001\u4eba\u7269\u56fe\u8c31\u3001\u65f6\u95f4\u7ebf\u3001AI \u95ee\u7b54\uff0c\u652f\u6301\u79bb\u7ebf\u4f7f\u7528\u548c\u591a\u8bbe\u5907\u540c\u6b65",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T17:49:06Z",
     "url": "https://github.com/Cipher208/a-memory"
-  },
-  {
-    "description": "\ucf00\ubbf8\uccb4\ud06c119 \uc2e0\uace0 \uad6c\uc870\ud654\u00b7\ubb3c\uc9c8 \ud0d0\uc0c9\u00b7\uadfc\uac70 \uac80\uc0c9\u00b7CAMEO \uaddc\uce59 \uc5d4\uc9c4 (Python/FastAPI)",
-    "id": "chemicheck119-lab/analysis-engine",
-    "language": "Python",
-    "name": "chemicheck119-lab/analysis-engine",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:48:59Z",
-    "url": "https://github.com/chemicheck119-lab/analysis-engine"
-  },
-  {
-    "description": "A verifiable memory layer for language models \u2014 facts in a graph, every claim with its source.",
-    "id": "ruzgarkanar/Lmm",
-    "language": "Python",
-    "name": "ruzgarkanar/Lmm",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:48:15Z",
-    "url": "https://github.com/ruzgarkanar/Lmm"
-  },
-  {
-    "description": "Evidence retrieval where every generated claim is bound to a source and graded before it is shown, with an adversarial t",
-    "id": "phanibalagam/citation-binding-rag",
-    "language": "Python",
-    "name": "phanibalagam/citation-binding-rag",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:47:35Z",
-    "url": "https://github.com/phanibalagam/citation-binding-rag"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 84,
-    "updated_at": "2026-09-06T17:46:35Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "A 12-step misinformation verification platform. Uses Gemini, Tavily, Google Fact Check, and NLP ensembles to extract cla",
-    "id": "ShashankKalwa/VeritasAI",
-    "language": "Python",
-    "name": "ShashankKalwa/VeritasAI",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:46:29Z",
-    "url": "https://github.com/ShashankKalwa/VeritasAI"
   }
 ]
