@@ -1,5 +1,50 @@
 [
   {
+    "description": "Ultra-fast, private hybrid search engine & Raycast-grade spotlight for codebases. BM25 + ONNX vectors + RRF + local RAG ",
+    "id": "SuyashSharma1710/glint",
+    "language": "TypeScript",
+    "name": "SuyashSharma1710/glint",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:32:54Z",
+    "url": "https://github.com/SuyashSharma1710/glint"
+  },
+  {
+    "description": "AI Hackathon - AI Engineering Intelligence Platform",
+    "id": "avigunjal/ai-eip",
+    "language": "JavaScript",
+    "name": "avigunjal/ai-eip",
+    "stars": 1,
+    "updated_at": "2026-09-07T07:30:54Z",
+    "url": "https://github.com/avigunjal/ai-eip"
+  },
+  {
+    "description": "Local-first RAG engine with cited answers from your own docs. GraphRAG, sealed sharing, MCP-native, VS Code Copilot inte",
+    "id": "jyunming/Axon",
+    "language": "Python",
+    "name": "jyunming/Axon",
+    "stars": 5,
+    "updated_at": "2026-09-07T07:30:38Z",
+    "url": "https://github.com/jyunming/Axon"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent that writes and runs real SQL to answer questions about the video game market, with measured self-correction, R",
     "id": "stefhooy/full_stack_project",
     "language": "Python",
@@ -99,13 +144,22 @@
     "url": "https://github.com/yook11/Vector"
   },
   {
-    "description": "RAG-powered certification exam copilot \u2014 hybrid retrieval (BM25+vector \u2192 RRF \u2192 rerank), LangGraph multi-agent QA, quiz b",
-    "id": "AKArrok/CISP-QA",
+    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "id": "microsoft/graphrag",
     "language": "Python",
-    "name": "AKArrok/CISP-QA",
+    "name": "microsoft/graphrag",
+    "stars": 35871,
+    "updated_at": "2026-09-07T07:28:01Z",
+    "url": "https://github.com/microsoft/graphrag"
+  },
+  {
+    "description": "RAG-powered certification exam copilot \u2014 hybrid retrieval (BM25+vector \u2192 RRF \u2192 rerank), LangGraph multi-agent QA, quiz b",
+    "id": "AKArrok/CISP-Pilot",
+    "language": "Python",
+    "name": "AKArrok/CISP-Pilot",
     "stars": 0,
     "updated_at": "2026-09-07T07:27:34Z",
-    "url": "https://github.com/AKArrok/CISP-QA"
+    "url": "https://github.com/AKArrok/CISP-Pilot"
   },
   {
     "description": "\u300c\u8861 \u00b7 Heng\u300d\u8de8\u5883\u7535\u5546\u8d2d\u7269 Agent \u7684\u53ef\u4fe1\u5ea6\u5de5\u7a0b\u3002\u7ee7\u627f\u81ea\u539f\u9879\u76ee globex-agent \u5e76\u5168\u9762\u6539\u9020\uff1a\u68c0\u7d22/\u5230\u624b\u4ef7/\u7ec4\u5408\u4f18\u5316/\u4e0b\u5355\u5168\u94fe\u8def\u4e0e\u957f\u671f\u8bb0\u5fc6\uff1b8 \u7c7b\u786e\u5b9a\u6027\u5224\u636e\u3001\u516b\u9879\u96f6\u6210\u672c\u63d0\u4ea4\u95e8\u7981\uff0c\u6bcf\u9053\u62a4\u680f\u5e26\u771f\u7ea2\u8bc1\u636e\u94fe\uff1b\u81ea\u5efa\u8bc4\u6d4b\uff0844+11 ",
@@ -153,6 +207,15 @@
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
+    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 29562,
+    "updated_at": "2026-09-07T07:25:56Z",
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
     "description": "Self-hosted open-source knowledge layer for LLM tools. Agents capture, search and cite company knowledge over MCP, with ",
     "id": "km322/Third-Brain",
     "language": "Python",
@@ -198,15 +261,6 @@
     "url": "https://github.com/justsearch-app/justsearch"
   },
   {
-    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
-    "id": "microsoft/graphrag",
-    "language": "Python",
-    "name": "microsoft/graphrag",
-    "stars": 35870,
-    "updated_at": "2026-09-07T07:28:01Z",
-    "url": "https://github.com/microsoft/graphrag"
-  },
-  {
     "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
     "id": "HKUDS/LightRAG",
     "language": "Python",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 6,
-    "updated_at": "2026-09-07T07:25:29Z",
+    "updated_at": "2026-09-07T07:32:11Z",
     "url": "https://github.com/bobaba76/Argos"
   },
   {
@@ -257,7 +311,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24878,
-    "updated_at": "2026-09-07T07:24:09Z",
+    "updated_at": "2026-09-07T07:32:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -342,24 +396,6 @@
     "url": "https://github.com/ajits-github/local-rag-system"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u81ea\u6258\u7ba1 Dify \u7684\u53ef\u6267\u884c\u64cd\u4f5c\u6280\u80fd\u3002main \u8ddf\u8e2a\u6700\u65b0 Dify\uff1b\u6bcf\u4e2a\u7a33\u5b9a Release \u5bf9\u5e94\u4e00\u4e2a Dify \u7248\u672c\u3002",
     "id": "kabishou11/dify-skills",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 136448,
     "updated_at": "2026-09-07T07:12:53Z",
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
-  },
-  {
-    "description": "Reliability-first RAG over Kubernetes docs: grounded, cited, injection-resistant answers with a CI reliability gate, jud",
-    "id": "Yashbhadiyadra/rag-harness",
-    "language": "Python",
-    "name": "Yashbhadiyadra/rag-harness",
-    "stars": 0,
-    "updated_at": "2026-09-07T07:12:11Z",
-    "url": "https://github.com/Yashbhadiyadra/rag-harness"
-  },
-  {
-    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
-    "id": "jazz1x/ohmyboring",
-    "language": "Python",
-    "name": "jazz1x/ohmyboring",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:14:49Z",
-    "url": "https://github.com/jazz1x/ohmyboring"
-  },
-  {
-    "description": "Zorv AI \u2014 \u5b89\u5353 Android \u7aef\u5f00\u6e90 AI Agent \u667a\u80fd\u4f53\u52a9\u624b\u3002\u591a\u6a21\u578b\u5bf9\u8bdd\u3001\u4eba\u683c\u7cfb\u7edf\u3001\u8bb0\u5fc6\u3001\u8bed\u97f3\u5168\u53cc\u5de5 TTS/STT\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u53ef\u6269\u5c55\u5de5\u5177\u94fe\u3001\u98de\u4e66/QQ/\u5fae\u4fe1\u63a5\u5165\u3002Kotlin + Jetpack Compose \u5f00\u53d1\u3002",
-    "id": "Quor-a/ZorvAI",
-    "language": "Kotlin",
-    "name": "Quor-a/ZorvAI",
-    "stars": 50,
-    "updated_at": "2026-09-07T07:11:07Z",
-    "url": "https://github.com/Quor-a/ZorvAI"
-  },
-  {
-    "description": "Easy connector between Gemini File Store(RAG) and ChatGPT/Codex",
-    "id": "dollce/gemini_filesearch_mcp_server",
-    "language": "Python",
-    "name": "dollce/gemini_filesearch_mcp_server",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:10:55Z",
-    "url": "https://github.com/dollce/gemini_filesearch_mcp_server"
   }
 ]
