@@ -1,5 +1,41 @@
 [
   {
+    "description": "Governed text-to-SQL AI agent with a compiled semantic layer, row-level access control, semantic caching, RAG-based retr",
+    "id": "ajinkyawadaskar/data-analyst-agent",
+    "language": "Python",
+    "name": "ajinkyawadaskar/data-analyst-agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T23:46:00Z",
+    "url": "https://github.com/ajinkyawadaskar/data-analyst-agent"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-07T23:45:43Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T23:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T23:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Persistent, local, cross-IDE memory for AI agents \u2014 markdown source of truth, LanceDB-powered semantic search, zero clou",
     "id": "max-ramas/rms-memory-mcp",
     "language": "Rust",
@@ -63,6 +99,15 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
+    "description": "A high-performance local RAG system built with Node.js, Next.js, Weaviate, and Hugging Face to semantically index and qu",
+    "id": "SaadxSalman/ArcticLoom",
+    "language": "JavaScript",
+    "name": "SaadxSalman/ArcticLoom",
+    "stars": 1,
+    "updated_at": "2026-09-07T23:41:34Z",
+    "url": "https://github.com/SaadxSalman/ArcticLoom"
+  },
+  {
     "description": "An agentic RAG API for FAQ about your local files",
     "id": "gabrielSantosLima/duke_search",
     "language": "TypeScript",
@@ -77,7 +122,7 @@
     "language": "TypeScript",
     "name": "fworks-tech/agenthood",
     "stars": 3,
-    "updated_at": "2026-09-07T23:41:25Z",
+    "updated_at": "2026-09-07T23:46:06Z",
     "url": "https://github.com/fworks-tech/agenthood"
   },
   {
@@ -86,17 +131,8 @@
     "language": "TypeScript",
     "name": "Deodat-Lawson/LaunchStack",
     "stars": 886,
-    "updated_at": "2026-09-07T23:41:43Z",
+    "updated_at": "2026-09-07T23:45:58Z",
     "url": "https://github.com/Deodat-Lawson/LaunchStack"
-  },
-  {
-    "description": "Governed text-to-SQL AI agent with a compiled semantic layer, row-level access control, semantic caching, RAG-based retr",
-    "id": "ajinkyawadaskar/data-analyst-agent",
-    "language": "Python",
-    "name": "ajinkyawadaskar/data-analyst-agent",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:40:39Z",
-    "url": "https://github.com/ajinkyawadaskar/data-analyst-agent"
   },
   {
     "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
@@ -306,15 +342,6 @@
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T23:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Detect your server's IP geolocation and measure direct network reachability with real-time diagnostics.",
     "id": "freelancing31809169-art/geocheck",
     "language": "Go",
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T23:30:22Z",
     "url": "https://github.com/freelancing31809169-art/geocheck"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T23:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Turn conversations into structured, source-backed facts and answer questions with exact citations attached.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T23:27:50Z",
     "url": "https://github.com/furuse-kazufumi/fullseye"
-  },
-  {
-    "description": "Draw directly from your iPad to an Emacs org-mode buffer using your Apple Pencil.",
-    "id": "brainro5105/org-pad.el",
-    "language": "\u2014",
-    "name": "brainro5105/org-pad.el",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:27:45Z",
-    "url": "https://github.com/brainro5105/org-pad.el"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:27:40Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
