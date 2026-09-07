@@ -1,5 +1,95 @@
 [
   {
+    "description": "Production-grade multimodal AI/ML intelligence platform engineered with agentic RAG, neural vision, time-series forecast",
+    "id": "anujmundu/omniforge-ai",
+    "language": "Python",
+    "name": "anujmundu/omniforge-ai",
+    "stars": 0,
+    "updated_at": "2026-09-06T23:59:26Z",
+    "url": "https://github.com/anujmundu/omniforge-ai"
+  },
+  {
+    "description": "See why your RAG retriever picked the chunks it did \u2014 a local t-SNE map of your LangChain4j EmbeddingStore with model-mi",
+    "id": "stlahxm/lc4j-lens",
+    "language": "Java",
+    "name": "stlahxm/lc4j-lens",
+    "stars": 0,
+    "updated_at": "2026-09-06T23:58:22Z",
+    "url": "https://github.com/stlahxm/lc4j-lens"
+  },
+  {
+    "description": "Production-grade, self-hosted document ingestion and retrieval service.",
+    "id": "furyhawk/rag-agent",
+    "language": "Python",
+    "name": "furyhawk/rag-agent",
+    "stars": 1,
+    "updated_at": "2026-09-06T23:57:52Z",
+    "url": "https://github.com/furyhawk/rag-agent"
+  },
+  {
+    "description": "AI \u5e94\u7528\u5f00\u53d1\u4e0e Agent \u9762\u8bd5\u5b66\u4e60\u7f51\u7ad9:306 \u9898\u4e2d\u6587\u9898\u5e93 + \u7eaf\u9759\u6001\u79bb\u7ebf\u5b66\u4e60\u7ad9(\u7ec3\u4e60/\u81ea\u6d4b/\u590d\u4e60/\u6587\u6863/\u68c0\u7d22/\u6697\u8272\u6a21\u5f0f)",
+    "id": "DZH166/ai-interview-site",
+    "language": "JavaScript",
+    "name": "DZH166/ai-interview-site",
+    "stars": 0,
+    "updated_at": "2026-09-06T23:56:39Z",
+    "url": "https://github.com/DZH166/ai-interview-site"
+  },
+  {
+    "description": "Local-first AI memory for coding agents. NouGenShards stores reusable \"shards\" in a local SQLite + FTS5 database with ou",
+    "id": "Who-Visions/NouGenShards",
+    "language": "Python",
+    "name": "Who-Visions/NouGenShards",
+    "stars": 3,
+    "updated_at": "2026-09-06T23:56:23Z",
+    "url": "https://github.com/Who-Visions/NouGenShards"
+  },
+  {
+    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
+    "id": "clay-good/agent-replay",
+    "language": "TypeScript",
+    "name": "clay-good/agent-replay",
+    "stars": 13,
+    "updated_at": "2026-09-06T23:56:15Z",
+    "url": "https://github.com/clay-good/agent-replay"
+  },
+  {
+    "description": "pip install cairn-assistant \u00b7 Grounded-or-silent reference assistant for public agencies: answers only from a supplied c",
+    "id": "ChelseaKR/cairn",
+    "language": "Python",
+    "name": "ChelseaKR/cairn",
+    "stars": 1,
+    "updated_at": "2026-09-06T23:55:17Z",
+    "url": "https://github.com/ChelseaKR/cairn"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 228,
+    "updated_at": "2026-09-06T23:55:05Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T23:55:02Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
+    "id": "sankar-ramamoorthy/rag-foundry-universal",
+    "language": "Python",
+    "name": "sankar-ramamoorthy/rag-foundry-universal",
+    "stars": 4,
+    "updated_at": "2026-09-06T23:55:01Z",
+    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
+  },
+  {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
     "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
@@ -36,6 +126,15 @@
     "url": "https://github.com/guaardvark/guaardvark"
   },
   {
+    "description": "World's first open-source enterprise world model.",
+    "id": "deeplethe/utopia",
+    "language": "Rust",
+    "name": "deeplethe/utopia",
+    "stars": 5081,
+    "updated_at": "2026-09-06T23:48:50Z",
+    "url": "https://github.com/deeplethe/utopia"
+  },
+  {
     "description": "Custom AI/ML engineering studio. RAG pipelines, multi-agent systems, and production-grade AI infrastructure on AWS.",
     "id": "medysaly/unkommon",
     "language": "TypeScript",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "memtomem/memtomem",
     "stars": 13,
-    "updated_at": "2026-09-06T23:49:39Z",
+    "updated_at": "2026-09-06T23:59:02Z",
     "url": "https://github.com/memtomem/memtomem"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T23:45:21Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T23:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
@@ -261,15 +351,6 @@
     "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
-    "id": "sankar-ramamoorthy/rag-foundry-universal",
-    "language": "Python",
-    "name": "sankar-ramamoorthy/rag-foundry-universal",
-    "stars": 4,
-    "updated_at": "2026-09-06T23:54:43Z",
-    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
-  },
-  {
     "description": "A modern, sovereign AI backend for products and enterprise deployments.",
     "id": "chatbotkit/platform",
     "language": "JavaScript",
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T23:37:14Z",
     "url": "https://github.com/Nabil-Haddad/AgenticRAG-Router"
-  },
-  {
-    "description": "agent-replay is a 100% local, SQLite-powered CLI tool for time-travel debugging AI agents that lets you replay execution",
-    "id": "clay-good/agent-replay",
-    "language": "TypeScript",
-    "name": "clay-good/agent-replay",
-    "stars": 13,
-    "updated_at": "2026-09-06T23:37:03Z",
-    "url": "https://github.com/clay-good/agent-replay"
   },
   {
     "description": "Mnemosyne OS: a local-first AI memory operating system under human control. Your files and conversations become durable,",
@@ -376,77 +448,5 @@
     "stars": 23,
     "updated_at": "2026-09-06T23:33:43Z",
     "url": "https://github.com/eleboucher/memini"
-  },
-  {
-    "description": "A local-first personal context engine: it turns your photo history into evidence-backed insights about your journeys, yo",
-    "id": "Nananananana/kiseki",
-    "language": "Python",
-    "name": "Nananananana/kiseki",
-    "stars": 1,
-    "updated_at": "2026-09-06T23:32:41Z",
-    "url": "https://github.com/Nananananana/kiseki"
-  },
-  {
-    "description": "Zorv AI \u2014 \u5b89\u5353 Android \u7aef\u5f00\u6e90 AI Agent \u667a\u80fd\u4f53\u52a9\u624b\u3002\u591a\u6a21\u578b\u5bf9\u8bdd\u3001\u4eba\u683c\u7cfb\u7edf\u3001\u8bb0\u5fc6\u3001\u8bed\u97f3\u5168\u53cc\u5de5 TTS/STT\u3001\u5b9a\u65f6\u4efb\u52a1\u3001\u53ef\u6269\u5c55\u5de5\u5177\u94fe\u3001\u98de\u4e66/QQ/\u5fae\u4fe1\u63a5\u5165\u3002Kotlin + Jetpack Compose \u5f00\u53d1\u3002",
-    "id": "Quor-a/ZorvAI",
-    "language": "Kotlin",
-    "name": "Quor-a/ZorvAI",
-    "stars": 48,
-    "updated_at": "2026-09-06T23:31:21Z",
-    "url": "https://github.com/Quor-a/ZorvAI"
-  },
-  {
-    "description": "Your AI pair programmer for Visual Studio 2022/2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with ",
-    "id": "EstaxNet/Inferpal",
-    "language": "C#",
-    "name": "EstaxNet/Inferpal",
-    "stars": 4,
-    "updated_at": "2026-09-06T23:30:56Z",
-    "url": "https://github.com/EstaxNet/Inferpal"
-  },
-  {
-    "description": "Source-available, white-label AI agent platform for agencies. WhatsApp, web chat, client portals, RAG and MCP tools. Sel",
-    "id": "kanazawa-dev/voysse",
-    "language": "TypeScript",
-    "name": "kanazawa-dev/voysse",
-    "stars": 3,
-    "updated_at": "2026-09-06T23:28:46Z",
-    "url": "https://github.com/kanazawa-dev/voysse"
-  },
-  {
-    "description": "World's first open-source enterprise world model.",
-    "id": "deeplethe/utopia",
-    "language": "Rust",
-    "name": "deeplethe/utopia",
-    "stars": 5080,
-    "updated_at": "2026-09-06T23:48:50Z",
-    "url": "https://github.com/deeplethe/utopia"
-  },
-  {
-    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
-    "id": "tale-project/tale",
-    "language": "TypeScript",
-    "name": "tale-project/tale",
-    "stars": 25,
-    "updated_at": "2026-09-06T23:27:13Z",
-    "url": "https://github.com/tale-project/tale"
-  },
-  {
-    "description": "Ruby's capable AI runtime",
-    "id": "r-uby-dev/llm",
-    "language": "Ruby",
-    "name": "r-uby-dev/llm",
-    "stars": 139,
-    "updated_at": "2026-09-06T23:27:01Z",
-    "url": "https://github.com/r-uby-dev/llm"
-  },
-  {
-    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
-    "id": "FaultMaven/faultmaven",
-    "language": "Python",
-    "name": "FaultMaven/faultmaven",
-    "stars": 2,
-    "updated_at": "2026-09-06T23:25:20Z",
-    "url": "https://github.com/FaultMaven/faultmaven"
   }
 ]
