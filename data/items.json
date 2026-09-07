@@ -1,5 +1,41 @@
 [
   {
+    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
+    "id": "vgp7758/Agt",
+    "language": "Python",
+    "name": "vgp7758/Agt",
+    "stars": 1,
+    "updated_at": "2026-09-07T02:45:01Z",
+    "url": "https://github.com/vgp7758/Agt"
+  },
+  {
+    "description": "GeneTech 14????? - ?????????? (6700+ entities, 14 domains)",
+    "id": "lm203688/genetech-14-sites",
+    "language": "JavaScript",
+    "name": "lm203688/genetech-14-sites",
+    "stars": 0,
+    "updated_at": "2026-09-07T02:44:48Z",
+    "url": "https://github.com/lm203688/genetech-14-sites"
+  },
+  {
+    "description": "Local RAG knowledge base for Agents & LLMs with Vector Search and Auto-Harvest Proxy",
+    "id": "kzxl/LLMSematicBrain",
+    "language": "JavaScript",
+    "name": "kzxl/LLMSematicBrain",
+    "stars": 0,
+    "updated_at": "2026-09-07T02:44:44Z",
+    "url": "https://github.com/kzxl/LLMSematicBrain"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T02:44:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u4e03\u7aef\u6253\u900f\uff0cAI \u771f\u81ea\u4e3b\uff0c\u6570\u636e\u5c01\u6b7b\u5728\u57df\u5185\u3002 \u6e20\u9053\u8986\u76d6\uff1a\u6296\u97f3 / \u5feb\u624b / \u5c0f\u7ea2\u4e66 / \u95f2\u9c7c / \u5fae\u4fe1 / \u90ae\u4ef6 / \u77ed\u4fe1 \u7edf\u4e00\u63a5\u7ba1\u3002 AI \u8303\u5f0f\uff1aReAct \u63a8\u7406 + 41 \u5de5\u5177\u7684\u81ea\u4e3b\u667a\u80fd\u4f53\uff0c\u80fd\u611f\u77e5\u2192\u89c4\u5212\u2192\u8c03\u5de5\u5177\u2192\u53cd\u601d\uff0c\u4e0d\u662f\u5199\u6b7b\u7684\u5de5\u4f5c\u6d41\u3002 \u6570",
     "id": "xiaofang142/hivemtk",
     "language": "Go",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "memtomem/memtomem",
     "stars": 13,
-    "updated_at": "2026-09-07T02:30:51Z",
+    "updated_at": "2026-09-07T02:44:50Z",
     "url": "https://github.com/memtomem/memtomem"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T02:30:27Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T02:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent long-term memory for Claude Code via MCP \u2014 captures coding decisions, bugfixes, and context across sessions. ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T02:25:44Z",
     "url": "https://github.com/Ev3rGan/ai-ledger"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph 1.x \u4e0e FastAPI \u7684\u667a\u80fd\u8d37\u6b3e\u9500\u552e\u5ba2\u670d\u5de5\u4f5c\u6d41\u3002\u8986\u76d6\u95ee\u9898\u5206\u7c7b\u3001\u591a\u8f6e\u4fe1\u606f\u6536\u96c6\u4e0e\u786e\u8ba4\u3001\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\u3001\u53cc\u5e93\u5e76\u884c\u4ea7\u54c1\u63a8\u8350\u548c\u5ba2\u6237\u8f6c\u5316\uff1bMilvus \u7a20\u5bc6\u5411\u91cf + SPLADE \u7a00\u758f\u6df7\u5408\u68c0\u7d22\uff0c\u652f\u6301 Word/PD",
-    "id": "liuyanqun0815/langgraph_fly_base",
-    "language": "Python",
-    "name": "liuyanqun0815/langgraph_fly_base",
-    "stars": 42,
-    "updated_at": "2026-09-07T02:25:20Z",
-    "url": "https://github.com/liuyanqun0815/langgraph_fly_base"
-  },
-  {
-    "description": "An AI agent framework that builds itself \u2014 multi-model ReAct + tiered cache-friendly context + async multi-agent + XML w",
-    "id": "vgp7758/Agt",
-    "language": "Python",
-    "name": "vgp7758/Agt",
-    "stars": 1,
-    "updated_at": "2026-09-07T02:24:50Z",
-    "url": "https://github.com/vgp7758/Agt"
-  },
-  {
-    "description": "Self-hosted RAG (Retrieval-Augmented Generation) system for technical documentation Q&A",
-    "id": "MaxBarannikov/DocsRAG",
-    "language": "Python",
-    "name": "MaxBarannikov/DocsRAG",
-    "stars": 0,
-    "updated_at": "2026-09-07T02:24:18Z",
-    "url": "https://github.com/MaxBarannikov/DocsRAG"
   }
 ]
