@@ -1,5 +1,95 @@
 [
   {
+    "description": "Source code for LebLibrary \u2013 a full-stack Torah library and article platform. Built with Python, Django, and integrated ",
+    "id": "mole28/leblibrary",
+    "language": "HTML",
+    "name": "mole28/leblibrary",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:44:37Z",
+    "url": "https://github.com/mole28/leblibrary"
+  },
+  {
+    "description": "Asistente conversacional en espa\u00f1ol para evaluar el cumplimiento de sistemas de IA con el AI Act europeo, orientado a PY",
+    "id": "ComunidadIA-OS/aicomply",
+    "language": "Python",
+    "name": "ComunidadIA-OS/aicomply",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:44:18Z",
+    "url": "https://github.com/ComunidadIA-OS/aicomply"
+  },
+  {
+    "description": " Practical Agentic AI and RAG Course ",
+    "id": "dataaispark-spec/Practical-Agentic-AI-and-RAG-Course",
+    "language": "Jupyter Notebook",
+    "name": "dataaispark-spec/Practical-Agentic-AI-and-RAG-Course",
+    "stars": 0,
+    "updated_at": "2026-09-07T21:43:52Z",
+    "url": "https://github.com/dataaispark-spec/Practical-Agentic-AI-and-RAG-Course"
+  },
+  {
+    "description": "CyClaw is a secure, offline-first local AI agent built on three invariants: RAG-first retrieval, LangGraph topology as s",
+    "id": "cgfixit/CyClaw",
+    "language": "Python",
+    "name": "cgfixit/CyClaw",
+    "stars": 6,
+    "updated_at": "2026-09-07T21:43:20Z",
+    "url": "https://github.com/cgfixit/CyClaw"
+  },
+  {
+    "description": "pip install cairn-assistant \u00b7 Grounded-or-silent reference assistant for public agencies: answers only from a supplied c",
+    "id": "ChelseaKR/cairn",
+    "language": "Python",
+    "name": "ChelseaKR/cairn",
+    "stars": 1,
+    "updated_at": "2026-09-07T21:43:02Z",
+    "url": "https://github.com/ChelseaKR/cairn"
+  },
+  {
+    "description": "Local-first RAG engine with cited answers from your own docs. GraphRAG, sealed sharing, MCP-native, VS Code Copilot inte",
+    "id": "jyunming/Axon",
+    "language": "Python",
+    "name": "jyunming/Axon",
+    "stars": 5,
+    "updated_at": "2026-09-07T21:42:34Z",
+    "url": "https://github.com/jyunming/Axon"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 170,
+    "updated_at": "2026-09-07T21:42:27Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65745,
+    "updated_at": "2026-09-07T21:42:17Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Your free book and audiobook laboratory. Turn the PDFs you own into chapter-marked M4B audiobooks and read-along books, ",
+    "id": "subev/libratory",
+    "language": "TypeScript",
+    "name": "subev/libratory",
+    "stars": 55,
+    "updated_at": "2026-09-07T21:42:04Z",
+    "url": "https://github.com/subev/libratory"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:41:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Official n8n creator | Production-ready automation workflows: Agentic RAG, multi-KB AI agents, AI governance, and privac",
     "id": "nenedesign/n8n-workflows",
     "language": "\u2014",
@@ -113,7 +203,7 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 487,
-    "updated_at": "2026-09-07T21:38:21Z",
+    "updated_at": "2026-09-07T21:41:16Z",
     "url": "https://github.com/caura-ai/caura"
   },
   {
@@ -216,15 +306,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T21:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "DevOps Workspace & Knowledge Hub: automated Windows installer (Winget), local RAG SQLite AI assistant & media player",
     "id": "villadalmine/devops-student-hub",
     "language": "PowerShell",
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T21:30:05Z",
     "url": "https://github.com/villadalmine/devops-student-hub"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65745,
-    "updated_at": "2026-09-07T21:30:04Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Auditable AI dataset pipeline and payment systems knowledge lab: provenance, governance, security, reconciliation and op",
@@ -374,79 +446,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-07T21:20:53Z",
+    "updated_at": "2026-09-07T21:44:29Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Graph-based reasoning library with embedding search, multi-hop traversal, and automatic entity extraction",
-    "id": "bgokden/reasongraph",
-    "language": "Python",
-    "name": "bgokden/reasongraph",
-    "stars": 1,
-    "updated_at": "2026-09-07T21:20:07Z",
-    "url": "https://github.com/bgokden/reasongraph"
-  },
-  {
-    "description": "The agent engineering platform.",
-    "id": "langchain-ai/langchain",
-    "language": "Python",
-    "name": "langchain-ai/langchain",
-    "stars": 145883,
-    "updated_at": "2026-09-07T21:19:50Z",
-    "url": "https://github.com/langchain-ai/langchain"
-  },
-  {
-    "description": "A modern full-stack personal website and content management system built with Next.js and Hono, featuring a monorepo arc",
-    "id": "Chia1104/chia1104.dev",
-    "language": "TypeScript",
-    "name": "Chia1104/chia1104.dev",
-    "stars": 32,
-    "updated_at": "2026-09-07T21:19:38Z",
-    "url": "https://github.com/Chia1104/chia1104.dev"
-  },
-  {
-    "description": "Production-grade multimodal AI/ML intelligence platform engineered with agentic RAG, neural vision, time-series forecast",
-    "id": "anujmundu/omniforge-ai",
-    "language": "Python",
-    "name": "anujmundu/omniforge-ai",
-    "stars": 0,
-    "updated_at": "2026-09-07T21:19:45Z",
-    "url": "https://github.com/anujmundu/omniforge-ai"
-  },
-  {
-    "description": "Persistent memory and receipt-verified workflows for Claude Code \u2014 plugin, MCP server, and spec-driven dev framework in ",
-    "id": "Smart-AI-Memory/attune-ai",
-    "language": "HTML",
-    "name": "Smart-AI-Memory/attune-ai",
-    "stars": 10,
-    "updated_at": "2026-09-07T21:18:57Z",
-    "url": "https://github.com/Smart-AI-Memory/attune-ai"
-  },
-  {
-    "description": "Lightweight, agent-friendly AI security toolkit for Node.js & TypeScript. Check if your agent has loaded the skill, Stop",
-    "id": "swnotmetal/Project-Koma",
-    "language": "TypeScript",
-    "name": "swnotmetal/Project-Koma",
-    "stars": 12,
-    "updated_at": "2026-09-07T21:18:25Z",
-    "url": "https://github.com/swnotmetal/Project-Koma"
-  },
-  {
-    "description": "",
-    "id": "Yigtwxx/Yigtwxx",
-    "language": "\u2014",
-    "name": "Yigtwxx/Yigtwxx",
-    "stars": 3,
-    "updated_at": "2026-09-07T21:18:06Z",
-    "url": "https://github.com/Yigtwxx/Yigtwxx"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 24,
-    "updated_at": "2026-09-07T21:18:05Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
   }
 ]
