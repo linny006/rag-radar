@@ -1,5 +1,50 @@
 [
   {
+    "description": "Avatar-based dementia-care assistant for iOS, Android and web \u2014 RAG chat with cited answers from a curated NZ knowledge ",
+    "id": "Richman-Tan/DementiaGuideAI",
+    "language": "JavaScript",
+    "name": "Richman-Tan/DementiaGuideAI",
+    "stars": 2,
+    "updated_at": "2026-09-08T19:44:14Z",
+    "url": "https://github.com/Richman-Tan/DementiaGuideAI"
+  },
+  {
+    "description": "AI-powered Startup Blueprint Generator built with Next.js, IBM watsonx.ai, Granite 4 H Small, and RAG to transform start",
+    "id": "Namenotvisible/Ventureforge-ai",
+    "language": "TypeScript",
+    "name": "Namenotvisible/Ventureforge-ai",
+    "stars": 0,
+    "updated_at": "2026-09-08T19:44:03Z",
+    "url": "https://github.com/Namenotvisible/Ventureforge-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T19:43:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first BYOK workbench for drafting, reviewing, citing, and exporting product requirements documents.",
+    "id": "prashanthnimmagadda/prd-genie",
+    "language": "TypeScript",
+    "name": "prashanthnimmagadda/prd-genie",
+    "stars": 1,
+    "updated_at": "2026-09-08T19:44:28Z",
+    "url": "https://github.com/prashanthnimmagadda/prd-genie"
+  },
+  {
+    "description": "This repository contains example of a RAG chat bot with a basic architecture (designed for scenarios without network iso",
+    "id": "Cloud2BR-MSFTLearningHub/RAG-ChatBot-Implementation",
+    "language": "Bicep",
+    "name": "Cloud2BR-MSFTLearningHub/RAG-ChatBot-Implementation",
+    "stars": 3,
+    "updated_at": "2026-09-08T19:42:54Z",
+    "url": "https://github.com/Cloud2BR-MSFTLearningHub/RAG-ChatBot-Implementation"
+  },
+  {
     "description": "Astro (static), bilingual EN/IT, security-by-design, AI-assisted monthly RAG magazine. Deployed on Cloudflare.",
     "id": "MK023/marcobellingeri.dev",
     "language": "JavaScript",
@@ -36,6 +81,15 @@
     "url": "https://github.com/darrowz/eimemory"
   },
   {
+    "description": "Local-first AI memory for coding agents. NouGenShards stores reusable \"shards\" in a local SQLite + FTS5 database with ou",
+    "id": "Who-Visions/NouGenShards",
+    "language": "Python",
+    "name": "Who-Visions/NouGenShards",
+    "stars": 3,
+    "updated_at": "2026-09-08T19:41:52Z",
+    "url": "https://github.com/Who-Visions/NouGenShards"
+  },
+  {
     "description": "AI-powered SRE agent for homelab infrastructure monitoring, OODA sweeps, RAG memory, and remediation workflows",
     "id": "aachtenberg/cfoperator",
     "language": "Python",
@@ -43,6 +97,15 @@
     "stars": 2,
     "updated_at": "2026-09-08T19:41:07Z",
     "url": "https://github.com/aachtenberg/cfoperator"
+  },
+  {
+    "description": "Semantic Search for Pi 2026: Local Knowledge Base & AI Tool",
+    "id": "jee3m/augmentative-knowledge-hooks",
+    "language": "HTML",
+    "name": "jee3m/augmentative-knowledge-hooks",
+    "stars": 2,
+    "updated_at": "2026-09-08T19:40:56Z",
+    "url": "https://github.com/jee3m/augmentative-knowledge-hooks"
   },
   {
     "description": "Self-contained multi-tenant RAG platform in a single Docker image: FastAPI + SQLite + Qdrant engine, PaddleOCR service, ",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29580,
-    "updated_at": "2026-09-08T19:38:12Z",
+    "updated_at": "2026-09-08T19:43:31Z",
     "url": "https://github.com/simstudioai/sim"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "bgokden/reasongraph",
     "stars": 1,
-    "updated_at": "2026-09-08T19:34:20Z",
+    "updated_at": "2026-09-08T19:43:48Z",
     "url": "https://github.com/bgokden/reasongraph"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T19:33:30Z",
     "url": "https://github.com/imrohitagrawal/citevyn"
-  },
-  {
-    "description": "Avatar-based dementia-care assistant for iOS, Android and web \u2014 RAG chat with cited answers from a curated NZ knowledge ",
-    "id": "Richman-Tan/DementiaGuideAI",
-    "language": "JavaScript",
-    "name": "Richman-Tan/DementiaGuideAI",
-    "stars": 2,
-    "updated_at": "2026-09-08T19:41:51Z",
-    "url": "https://github.com/Richman-Tan/DementiaGuideAI"
   },
   {
     "description": "Search code and feature records by meaning through the command line or Model Context Protocol (MCP). Inference runs on y",
@@ -387,15 +441,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T19:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Personal knowledge base with hybrid search and read/write access for AI agents",
     "id": "fstamatelopoulos/cerefox",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 16,
     "updated_at": "2026-09-08T19:38:28Z",
     "url": "https://github.com/fstamatelopoulos/cerefox"
-  },
-  {
-    "description": "LangChain and LangGraph based multi-document financial analyst for Apple and Tesla financial filings.",
-    "id": "JosephLaiWorks/langgraph-financial-analyst",
-    "language": "Python",
-    "name": "JosephLaiWorks/langgraph-financial-analyst",
-    "stars": 0,
-    "updated_at": "2026-09-08T19:29:04Z",
-    "url": "https://github.com/JosephLaiWorks/langgraph-financial-analyst"
-  },
-  {
-    "description": "Ask what the EU AI Act requires of a system you're building, and get back the articles you have to read, quoted, with a ",
-    "id": "erclx/annex",
-    "language": "HTML",
-    "name": "erclx/annex",
-    "stars": 0,
-    "updated_at": "2026-09-08T19:29:03Z",
-    "url": "https://github.com/erclx/annex"
-  },
-  {
-    "description": "RAG (Retrieval Augmented Generation) AI platform with multi-provider LLM support, document knowledge bases, and a public",
-    "id": "webamigos/ragen",
-    "language": "TypeScript",
-    "name": "webamigos/ragen",
-    "stars": 1,
-    "updated_at": "2026-09-08T19:34:16Z",
-    "url": "https://github.com/webamigos/ragen"
-  },
-  {
-    "description": "A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource",
-    "id": "parkerluxu/Awesome-agent-cases",
-    "language": "JavaScript",
-    "name": "parkerluxu/Awesome-agent-cases",
-    "stars": 10,
-    "updated_at": "2026-09-08T19:28:37Z",
-    "url": "https://github.com/parkerluxu/Awesome-agent-cases"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 278,
-    "updated_at": "2026-09-08T19:28:02Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
