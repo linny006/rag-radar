@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T00:13:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -25,6 +34,24 @@
     "stars": 1,
     "updated_at": "2026-09-09T00:11:56Z",
     "url": "https://github.com/daanmt/MedHub"
+  },
+  {
+    "description": "\u4e03\u7aef\u6253\u900f\uff0cAI \u771f\u81ea\u4e3b\uff0c\u6570\u636e\u5c01\u6b7b\u5728\u57df\u5185\u3002 \u6e20\u9053\u8986\u76d6\uff1a\u6296\u97f3 / \u5feb\u624b / \u5c0f\u7ea2\u4e66 / \u95f2\u9c7c / \u5fae\u4fe1 / \u90ae\u4ef6 / \u77ed\u4fe1 \u7edf\u4e00\u63a5\u7ba1\u3002 AI \u8303\u5f0f\uff1aReAct \u63a8\u7406 + 41 \u5de5\u5177\u7684\u81ea\u4e3b\u667a\u80fd\u4f53\uff0c\u80fd\u611f\u77e5\u2192\u89c4\u5212\u2192\u8c03\u5de5\u5177\u2192\u53cd\u601d\uff0c\u4e0d\u662f\u5199\u6b7b\u7684\u5de5\u4f5c\u6d41\u3002 \u6570",
+    "id": "xiaofang142/hivemtk",
+    "language": "Go",
+    "name": "xiaofang142/hivemtk",
+    "stars": 43,
+    "updated_at": "2026-09-09T00:11:37Z",
+    "url": "https://github.com/xiaofang142/hivemtk"
+  },
+  {
+    "description": "A tutoring agent that changes its own objective when it works out why you're failing. LangGraph, Bayesian Knowledge Trac",
+    "id": "sohan1611/CogniFlow",
+    "language": "Python",
+    "name": "sohan1611/CogniFlow",
+    "stars": 0,
+    "updated_at": "2026-09-09T00:11:15Z",
+    "url": "https://github.com/sohan1611/CogniFlow"
   },
   {
     "description": "Convert PDF, Word, PowerPoint, HTML, email & 40+ formats to clean Markdown \u2014 and back. Built for LLMs, RAG & Python pipe",
@@ -106,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-09-09T00:04:03Z",
     "url": "https://github.com/Ghraven/Ghraven"
+  },
+  {
+    "description": "Personal GitHub profile & portfolio for Silvio Christian Joe (Silvio), a Data Science & CS student building GenAI agents",
+    "id": "viochris/viochris",
+    "language": "\u2014",
+    "name": "viochris/viochris",
+    "stars": 1,
+    "updated_at": "2026-09-09T00:03:53Z",
+    "url": "https://github.com/viochris/viochris"
   },
   {
     "description": "FinEdu \u2014 AI \ub9de\ucda4\ud615 \uae08\uc735 \uad50\uc721 \ud50c\ub7ab\ud3fc (EBTI \uc131\ud5a5 \ubd84\uc11d + 2\ub2e8\uacc4 RAG \ucd94\ucc9c, Django REST + Vue 3)",
@@ -198,21 +234,12 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T00:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
     "id": "simstudioai/sim",
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29583,
-    "updated_at": "2026-09-09T00:13:13Z",
+    "updated_at": "2026-09-09T00:14:14Z",
     "url": "https://github.com/simstudioai/sim"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "DylnMtthws/commander-deck-engine",
     "stars": 1,
-    "updated_at": "2026-09-08T23:54:50Z",
+    "updated_at": "2026-09-09T00:13:44Z",
     "url": "https://github.com/DylnMtthws/commander-deck-engine"
   },
   {
@@ -301,7 +328,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65798,
+    "stars": 65799,
     "updated_at": "2026-09-08T23:52:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "markhuangai/dense-mem",
     "stars": 39,
-    "updated_at": "2026-09-08T23:58:20Z",
+    "updated_at": "2026-09-09T00:15:07Z",
     "url": "https://github.com/markhuangai/dense-mem"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T23:58:06Z",
     "url": "https://github.com/bgokden/reasongraph"
-  },
-  {
-    "description": "\u4e03\u7aef\u6253\u900f\uff0cAI \u771f\u81ea\u4e3b\uff0c\u6570\u636e\u5c01\u6b7b\u5728\u57df\u5185\u3002 \u6e20\u9053\u8986\u76d6\uff1a\u6296\u97f3 / \u5feb\u624b / \u5c0f\u7ea2\u4e66 / \u95f2\u9c7c / \u5fae\u4fe1 / \u90ae\u4ef6 / \u77ed\u4fe1 \u7edf\u4e00\u63a5\u7ba1\u3002 AI \u8303\u5f0f\uff1aReAct \u63a8\u7406 + 41 \u5de5\u5177\u7684\u81ea\u4e3b\u667a\u80fd\u4f53\uff0c\u80fd\u611f\u77e5\u2192\u89c4\u5212\u2192\u8c03\u5de5\u5177\u2192\u53cd\u601d\uff0c\u4e0d\u662f\u5199\u6b7b\u7684\u5de5\u4f5c\u6d41\u3002 \u6570",
-    "id": "xiaofang142/hivemtk",
-    "language": "Go",
-    "name": "xiaofang142/hivemtk",
-    "stars": 43,
-    "updated_at": "2026-09-09T00:11:37Z",
-    "url": "https://github.com/xiaofang142/hivemtk"
   },
   {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T23:41:16Z",
     "url": "https://github.com/saadr123/RAG-Bench"
-  },
-  {
-    "description": "World's first open-source enterprise world model.",
-    "id": "deeplethe/utopia",
-    "language": "Rust",
-    "name": "deeplethe/utopia",
-    "stars": 5843,
-    "updated_at": "2026-09-09T00:12:11Z",
-    "url": "https://github.com/deeplethe/utopia"
-  },
-  {
-    "description": "Local-first memory, autonomous thinking, and self-evolution runtime for long-running AI agents",
-    "id": "darrowz/eimemory",
-    "language": "Python",
-    "name": "darrowz/eimemory",
-    "stars": 1,
-    "updated_at": "2026-09-08T23:40:20Z",
-    "url": "https://github.com/darrowz/eimemory"
   }
 ]
