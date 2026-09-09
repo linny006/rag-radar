@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 238,
+    "updated_at": "2026-09-09T04:46:10Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AWS-native customer support with grounded Amazon Bedrock answers and controlled ticket operations.",
+    "id": "abdalrahmanattya/customer-support-chatbot-aws-bedrock",
+    "language": "Python",
+    "name": "abdalrahmanattya/customer-support-chatbot-aws-bedrock",
+    "stars": 0,
+    "updated_at": "2026-09-09T04:45:48Z",
+    "url": "https://github.com/abdalrahmanattya/customer-support-chatbot-aws-bedrock"
+  },
+  {
+    "description": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and s",
+    "id": "yifanfeng97/Hyper-Extract",
+    "language": "Python",
+    "name": "yifanfeng97/Hyper-Extract",
+    "stars": 3922,
+    "updated_at": "2026-09-09T04:45:38Z",
+    "url": "https://github.com/yifanfeng97/Hyper-Extract"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Yu-Gi-Oh! OCG AI ruling and judge assistant\uff5c\u6e38\u620f\u738bAI\u88c1\u5b9a\u4e0e\u89c4\u5219\u95ee\u7b54\uff5c\u904a\u622f\u738bAI\u88c1\u5b9a\u30fb\u30eb\u30fc\u30eb\u8cea\u554f \u2014 official Q&A retrieval, RAG, multilingual.",
+    "id": "coldiceh/ocg-ruling-assistant",
+    "language": "JavaScript",
+    "name": "coldiceh/ocg-ruling-assistant",
+    "stars": 4,
+    "updated_at": "2026-09-09T04:45:17Z",
+    "url": "https://github.com/coldiceh/ocg-ruling-assistant"
+  },
+  {
     "description": "\ud83d\udd0d Multi-source academic paper & patent search/read/download for OpenWebUI \u2014 18+ open platforms via mcpo + zhihuiya (\u667a\u6167\u82bd)",
     "id": "xyonium/paper-search",
     "language": "Python",
@@ -207,21 +261,12 @@
     "url": "https://github.com/tainmou/SmartChunk"
   },
   {
-    "description": "AWS-native customer support with grounded Amazon Bedrock answers and controlled ticket operations.",
-    "id": "abdalrahmanattya/customer-support-chatbot-aws-bedrock",
-    "language": "Python",
-    "name": "abdalrahmanattya/customer-support-chatbot-aws-bedrock",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:44:26Z",
-    "url": "https://github.com/abdalrahmanattya/customer-support-chatbot-aws-bedrock"
-  },
-  {
     "description": "Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A",
     "id": "Harsh28Pandey/think-flow",
     "language": "JavaScript",
     "name": "Harsh28Pandey/think-flow",
     "stars": 1,
-    "updated_at": "2026-09-09T04:41:31Z",
+    "updated_at": "2026-09-09T04:46:16Z",
     "url": "https://github.com/Harsh28Pandey/think-flow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-09T04:36:38Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "JavaScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 93521,
-    "updated_at": "2026-09-09T04:36:33Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "AI-native IDE workspace for legal and document-heavy workflows: files, agents, plugins, built-in document editing with t",
-    "id": "zeweihan/aiworkdeck",
-    "language": "Java",
-    "name": "zeweihan/aiworkdeck",
-    "stars": 110,
-    "updated_at": "2026-09-09T04:36:16Z",
-    "url": "https://github.com/zeweihan/aiworkdeck"
-  },
-  {
-    "description": "Mosaix Format \u2014 Specification v1.0",
-    "id": "mosaix-format/spec",
-    "language": "HTML",
-    "name": "mosaix-format/spec",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:35:02Z",
-    "url": "https://github.com/mosaix-format/spec"
-  },
-  {
-    "description": "\u67b6\u7a7a\u306e\u30a2\u30d7\u30ea\u30b9\u30c8\u30a2\u3092\u901a\u3058\u3066\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3092\u7d39\u4ecb\u3059\u308bWeb\u30a2\u30d7\u30ea\uff08EC2 Paused\uff09",
-    "id": "Yucco-K/showcase",
-    "language": "TypeScript",
-    "name": "Yucco-K/showcase",
-    "stars": 0,
-    "updated_at": "2026-09-09T04:40:08Z",
-    "url": "https://github.com/Yucco-K/showcase"
-  },
-  {
-    "description": "World's first open-source enterprise world model.",
-    "id": "deeplethe/utopia",
-    "language": "Rust",
-    "name": "deeplethe/utopia",
-    "stars": 6056,
-    "updated_at": "2026-09-09T04:34:12Z",
-    "url": "https://github.com/deeplethe/utopia"
   }
 ]
