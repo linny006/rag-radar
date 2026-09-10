@@ -1,5 +1,68 @@
 [
   {
+    "description": "Shehryar's AI engineering portfolio \u2014 live AI phone receptionist, self-healing agent fleet, RAG bots. Dated eval results",
+    "id": "sherrybuilds-studio/ai-systems-portfolio",
+    "language": "\u2014",
+    "name": "sherrybuilds-studio/ai-systems-portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-10T20:01:16Z",
+    "url": "https://github.com/sherrybuilds-studio/ai-systems-portfolio"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-09-10T20:01:14Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "RAG that answers only from its source documents and refuses \u2014 visibly, with the evidence shown \u2014 when they don't support",
+    "id": "ArielMagalsoDev/provenance",
+    "language": "TypeScript",
+    "name": "ArielMagalsoDev/provenance",
+    "stars": 0,
+    "updated_at": "2026-09-10T20:00:58Z",
+    "url": "https://github.com/ArielMagalsoDev/provenance"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 8,
+    "updated_at": "2026-09-10T20:00:39Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "Open-Source RAG Platform for Companies. Knowledge bases with multilingual retrieval and reranking, answers traceable to ",
+    "id": "webamigos/RagenAI",
+    "language": "TypeScript",
+    "name": "webamigos/RagenAI",
+    "stars": 1,
+    "updated_at": "2026-09-10T20:00:25Z",
+    "url": "https://github.com/webamigos/RagenAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T20:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T20:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "ChatGPT-style AI assistant for UET Taxila students - answers admissions/fees/courses questions using real university dat",
     "id": "Ibrahim-Salman19/uet-gpt",
     "language": "TypeScript",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "BrunoSaintClair/goodfella-ai",
     "stars": 0,
-    "updated_at": "2026-09-10T19:59:06Z",
+    "updated_at": "2026-09-10T20:00:33Z",
     "url": "https://github.com/BrunoSaintClair/goodfella-ai"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "tyxak/remotepower",
     "stars": 70,
-    "updated_at": "2026-09-10T19:57:36Z",
+    "updated_at": "2026-09-10T20:01:27Z",
     "url": "https://github.com/tyxak/remotepower"
   },
   {
@@ -203,17 +266,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-10T19:56:07Z",
+    "updated_at": "2026-09-10T20:00:54Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "RAG that answers only from its source documents and refuses \u2014 visibly, with the evidence shown \u2014 when they don't support",
-    "id": "ArielMagalsoDev/provenance",
-    "language": "TypeScript",
-    "name": "ArielMagalsoDev/provenance",
-    "stars": 0,
-    "updated_at": "2026-09-10T19:56:04Z",
-    "url": "https://github.com/ArielMagalsoDev/provenance"
   },
   {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "inite-ai/inite-brain-service",
     "stars": 36,
-    "updated_at": "2026-09-10T19:59:30Z",
+    "updated_at": "2026-09-10T20:01:05Z",
     "url": "https://github.com/inite-ai/inite-brain-service"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T19:53:25Z",
     "url": "https://github.com/MrTopDestroyer/flow"
-  },
-  {
-    "description": "Long-term memory for agentic tasks. It tells you when it doesn't know. An MCP server for Claude Desktop and Claude Code:",
-    "id": "dfrancislyondflabc-tech/agentic-recall",
-    "language": "JavaScript",
-    "name": "dfrancislyondflabc-tech/agentic-recall",
-    "stars": 0,
-    "updated_at": "2026-09-10T19:53:13Z",
-    "url": "https://github.com/dfrancislyondflabc-tech/agentic-recall"
-  },
-  {
-    "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, ",
-    "id": "markhuangai/dense-mem",
-    "language": "Go",
-    "name": "markhuangai/dense-mem",
-    "stars": 39,
-    "updated_at": "2026-09-10T19:53:12Z",
-    "url": "https://github.com/markhuangai/dense-mem"
-  },
-  {
-    "description": "A collection of vibecoded projects with various coding harnesses",
-    "id": "vs4vijay/vibecoding",
-    "language": "JavaScript",
-    "name": "vs4vijay/vibecoding",
-    "stars": 0,
-    "updated_at": "2026-09-10T19:53:01Z",
-    "url": "https://github.com/vs4vijay/vibecoding"
-  },
-  {
-    "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
-    "id": "1ay1/agentty",
-    "language": "C++",
-    "name": "1ay1/agentty",
-    "stars": 599,
-    "updated_at": "2026-09-10T19:52:53Z",
-    "url": "https://github.com/1ay1/agentty"
-  },
-  {
-    "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation",
-    "id": "guaardvark/guaardvark",
-    "language": "Python",
-    "name": "guaardvark/guaardvark",
-    "stars": 206,
-    "updated_at": "2026-09-10T19:52:39Z",
-    "url": "https://github.com/guaardvark/guaardvark"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u89d2\u8272 Agent \u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u8d44\u6e90\u7ba1\u7406\u3001\u670d\u52a1\u542f\u52a8\u3001\u77e5\u8bc6\u68c0\u7d22\u3001\u8bed\u97f3\u5904\u7406\u4e0e\u53ef\u6062\u590d\u957f\u4efb\u52a1\u3002",
-    "id": "TKGEKKOU/charactoid",
-    "language": "Python",
-    "name": "TKGEKKOU/charactoid",
-    "stars": 1,
-    "updated_at": "2026-09-10T19:52:28Z",
-    "url": "https://github.com/TKGEKKOU/charactoid"
   }
 ]
