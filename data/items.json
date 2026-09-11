@@ -1,5 +1,104 @@
 [
   {
+    "description": "",
+    "id": "mateus-henriquee/ORACLExDATASUS_challenge-FIAP-2026",
+    "language": "HTML",
+    "name": "mateus-henriquee/ORACLExDATASUS_challenge-FIAP-2026",
+    "stars": 0,
+    "updated_at": "2026-09-11T20:03:09Z",
+    "url": "https://github.com/mateus-henriquee/ORACLExDATASUS_challenge-FIAP-2026"
+  },
+  {
+    "description": "Give AI proven facts \u2014 a cryptographically verified truth layer for agent AI, built on ZK proofs, selective disclosure, ",
+    "id": "lemmaoracle/lemma",
+    "language": "Astro",
+    "name": "lemmaoracle/lemma",
+    "stars": 1,
+    "updated_at": "2026-09-11T20:03:03Z",
+    "url": "https://github.com/lemmaoracle/lemma"
+  },
+  {
+    "description": "Rust-based code knowledge engine for AI agents and developers",
+    "id": "RusTokRs/Athanor",
+    "language": "Rust",
+    "name": "RusTokRs/Athanor",
+    "stars": 0,
+    "updated_at": "2026-09-11T20:03:01Z",
+    "url": "https://github.com/RusTokRs/Athanor"
+  },
+  {
+    "description": "Open-source agentic workspace for professional knowledge work with project memory, client memory, skills, and knowledge ",
+    "id": "guoliang1114-boop/AriaAI",
+    "language": "Python",
+    "name": "guoliang1114-boop/AriaAI",
+    "stars": 37,
+    "updated_at": "2026-09-11T20:02:57Z",
+    "url": "https://github.com/guoliang1114-boop/AriaAI"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-09-11T20:01:58Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a",
+    "id": "XAIHT/Tlamatini",
+    "language": "Python",
+    "name": "XAIHT/Tlamatini",
+    "stars": 16,
+    "updated_at": "2026-09-11T20:01:45Z",
+    "url": "https://github.com/XAIHT/Tlamatini"
+  },
+  {
+    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
+    "id": "Mubder/kazma",
+    "language": "Python",
+    "name": "Mubder/kazma",
+    "stars": 7,
+    "updated_at": "2026-09-11T20:01:21Z",
+    "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
+    "id": "PersonaliAI/chatty",
+    "language": "TypeScript",
+    "name": "PersonaliAI/chatty",
+    "stars": 3,
+    "updated_at": "2026-09-11T20:00:55Z",
+    "url": "https://github.com/PersonaliAI/chatty"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T20:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T20:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 32029,
+    "updated_at": "2026-09-11T20:02:17Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
     "description": "LightRAG production guide: deployment, API patterns, deadlock fixes, version upgrades",
     "id": "uMax-Cyber/RAGOps",
     "language": "Dockerfile",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T19:58:13Z",
     "url": "https://github.com/aventurina/doc-chat"
-  },
-  {
-    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a",
-    "id": "XAIHT/Tlamatini",
-    "language": "Python",
-    "name": "XAIHT/Tlamatini",
-    "stars": 16,
-    "updated_at": "2026-09-11T19:58:09Z",
-    "url": "https://github.com/XAIHT/Tlamatini"
   },
   {
     "description": "Calibre library automation via FastMCP \u2014 metadata, shelves, RAG-friendly export. Companion to Calibre, not a replacement",
@@ -72,15 +162,6 @@
     "url": "https://github.com/iceflux/neiro_sotrudnik_44fz_rag_agent"
   },
   {
-    "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
-    "id": "Mubder/kazma",
-    "language": "Python",
-    "name": "Mubder/kazma",
-    "stars": 7,
-    "updated_at": "2026-09-11T19:57:10Z",
-    "url": "https://github.com/Mubder/kazma"
-  },
-  {
     "description": "Orquestador y memoria semantica local para LLMs. Corre en local, se queda en local.",
     "id": "jona2428/neuromancer-teo",
     "language": "Python",
@@ -104,7 +185,7 @@
     "language": "Go",
     "name": "Leewwp/OmniCraft",
     "stars": 0,
-    "updated_at": "2026-09-11T19:55:42Z",
+    "updated_at": "2026-09-11T20:03:14Z",
     "url": "https://github.com/Leewwp/OmniCraft"
   },
   {
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "getzep/graphiti",
     "stars": 30812,
-    "updated_at": "2026-09-11T19:49:46Z",
+    "updated_at": "2026-09-11T20:00:22Z",
     "url": "https://github.com/getzep/graphiti"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/Quor-a/ZorvAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T19:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "S.A.G.A. \u2014 Story Analysis, Generation, and Archives. Canon-aware narrative intelligence for analysis, retrieval, timelin",
     "id": "faresmohamed260/saga",
     "language": "Python",
@@ -304,15 +376,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T19:50:50Z",
     "url": "https://github.com/faresmohamed260/saga"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T19:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production RAG for Russian regulatory docs (GOST, SNiP, Labour Code) \u2014 7.7/10 correctness, 0.936 faithfulness, 100% out-",
@@ -383,70 +446,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25031,
-    "updated_at": "2026-09-11T19:59:26Z",
+    "updated_at": "2026-09-11T20:03:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "gaming sportsbooks and finding arbitrage opportunities using a multi-agent framework",
-    "id": "rahulp7801/Agentic-EV-analytics-platform",
-    "language": "Python",
-    "name": "rahulp7801/Agentic-EV-analytics-platform",
-    "stars": 1,
-    "updated_at": "2026-09-11T19:40:46Z",
-    "url": "https://github.com/rahulp7801/Agentic-EV-analytics-platform"
-  },
-  {
-    "description": "Self-hosted knowledge engine: ingest your team's tools, hybrid (vector+keyword+graph) retrieval, cited LLM answers.",
-    "id": "prbe-ai/prbe-knowledge",
-    "language": "Python",
-    "name": "prbe-ai/prbe-knowledge",
-    "stars": 1,
-    "updated_at": "2026-09-11T19:49:38Z",
-    "url": "https://github.com/prbe-ai/prbe-knowledge"
-  },
-  {
-    "description": "Hivemind turns your traces into reusable skills across agents",
-    "id": "activeloopai/hivemind",
-    "language": "TypeScript",
-    "name": "activeloopai/hivemind",
-    "stars": 1600,
-    "updated_at": "2026-09-11T19:39:51Z",
-    "url": "https://github.com/activeloopai/hivemind"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 grounded retrieval, source-cited answers, Precision@k + MRR eval. CLI + Flask REST API. Gemini",
-    "id": "axiom-llc/axiom-rag",
-    "language": "Python",
-    "name": "axiom-llc/axiom-rag",
-    "stars": 0,
-    "updated_at": "2026-09-11T19:38:59Z",
-    "url": "https://github.com/axiom-llc/axiom-rag"
-  },
-  {
-    "description": "A deployable architecture that automates the deployment of a sample gen AI Pattern on IBM Cloud, including all underlyin",
-    "id": "terraform-ibm-modules/stack-ibm-retrieval-augmented-generation",
-    "language": "Go",
-    "name": "terraform-ibm-modules/stack-ibm-retrieval-augmented-generation",
-    "stars": 3,
-    "updated_at": "2026-09-11T19:37:53Z",
-    "url": "https://github.com/terraform-ibm-modules/stack-ibm-retrieval-augmented-generation"
-  },
-  {
-    "description": "Research intelligence platform built with RAG, FAISS, and LLMs for semantic search, paper analysis, and citation-aware q",
-    "id": "rohit-gotgit/Papermind-AI",
-    "language": "Python",
-    "name": "rohit-gotgit/Papermind-AI",
-    "stars": 3,
-    "updated_at": "2026-09-11T19:37:07Z",
-    "url": "https://github.com/rohit-gotgit/Papermind-AI"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-09-11T19:56:21Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   }
 ]
