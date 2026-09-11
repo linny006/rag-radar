@@ -1,12 +1,129 @@
 [
   {
-    "description": "World's first open-source enterprise world model.",
-    "id": "deeplethe/utopia",
-    "language": "Rust",
-    "name": "deeplethe/utopia",
-    "stars": 6756,
-    "updated_at": "2026-09-11T00:30:06Z",
-    "url": "https://github.com/deeplethe/utopia"
+    "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
+    "id": "daanmt/MedHub",
+    "language": "HTML",
+    "name": "daanmt/MedHub",
+    "stars": 1,
+    "updated_at": "2026-09-11T00:33:07Z",
+    "url": "https://github.com/daanmt/MedHub"
+  },
+  {
+    "description": "Portfolio and AI automation services for Rolly Calma: AR/AP, website QA, and proof demos.",
+    "id": "Ghraven/work",
+    "language": "HTML",
+    "name": "Ghraven/work",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:32:51Z",
+    "url": "https://github.com/Ghraven/work"
+  },
+  {
+    "description": "Local-first Memory Framework for AI Agents \u00b7 99.2% LongMemEval-S retrieval @ k=10 \u00b7 Supports Claude \u00b7 Antigravity \u00b7 Lang",
+    "id": "skynetcmd/m3-memory",
+    "language": "Python",
+    "name": "skynetcmd/m3-memory",
+    "stars": 24,
+    "updated_at": "2026-09-11T00:32:41Z",
+    "url": "https://github.com/skynetcmd/m3-memory"
+  },
+  {
+    "description": "Alertmanager webhook that pulls Loki logs, summarizes alerts with a local LLM, escalates hard ones to cloud, and grounds",
+    "id": "GordonWei/victoria-gateway",
+    "language": "Go",
+    "name": "GordonWei/victoria-gateway",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:32:27Z",
+    "url": "https://github.com/GordonWei/victoria-gateway"
+  },
+  {
+    "description": "A verifiable memory layer for language models \u2014 facts in a graph, every claim with its source.",
+    "id": "ruzgarkanar/Lmm",
+    "language": "Python",
+    "name": "ruzgarkanar/Lmm",
+    "stars": 3,
+    "updated_at": "2026-09-11T00:32:03Z",
+    "url": "https://github.com/ruzgarkanar/Lmm"
+  },
+  {
+    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
+    "id": "jazz1x/ohmyboring",
+    "language": "Python",
+    "name": "jazz1x/ohmyboring",
+    "stars": 3,
+    "updated_at": "2026-09-11T00:31:56Z",
+    "url": "https://github.com/jazz1x/ohmyboring"
+  },
+  {
+    "description": "An agentic framework that helps developers build resilient agentic systems",
+    "id": "RailtownAI/railtracks",
+    "language": "Python",
+    "name": "RailtownAI/railtracks",
+    "stars": 148,
+    "updated_at": "2026-09-11T00:31:24Z",
+    "url": "https://github.com/RailtownAI/railtracks"
+  },
+  {
+    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
+    "id": "LocketKeyLLC/scaffold-engine",
+    "language": "Python",
+    "name": "LocketKeyLLC/scaffold-engine",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:31:22Z",
+    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
+  },
+  {
+    "description": "Multi-agent B2B SaaS that automates SNS content creation for small businesses \u2014 Tiered Routing + RAG + LLM-as-Judge + HI",
+    "id": "lifeiscabaret/BYBAEK-Backend",
+    "language": "Python",
+    "name": "lifeiscabaret/BYBAEK-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:31:10Z",
+    "url": "https://github.com/lifeiscabaret/BYBAEK-Backend"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1619,
+    "updated_at": "2026-09-11T00:30:44Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T00:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ZhiCore \u2014 \u4f01\u4e1a AI \u77e5\u8bc6\u95ed\u73af\uff1a\u95ee\u7b54\u3001\u8f6c\u4eba\u5de5\u3001\u534f\u4f5c\u3001\u5ba1\u6838\u53d1\u5e03\u3001\u6301\u7eed\u590d\u7528",
+    "id": "maichecb-dotcom/zhicore",
+    "language": "HTML",
+    "name": "maichecb-dotcom/zhicore",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:30:23Z",
+    "url": "https://github.com/maichecb-dotcom/zhicore"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T00:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-grade Retrieval-Augmented Generation pipeline with FastAPI, RAGAS evaluation, A/B testing hooks, Locust load ",
+    "id": "cbratkovics/rag-pipeline",
+    "language": "Python",
+    "name": "cbratkovics/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-11T00:30:20Z",
+    "url": "https://github.com/cbratkovics/rag-pipeline"
   },
   {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
@@ -16,6 +133,15 @@
     "stars": 93643,
     "updated_at": "2026-09-11T00:30:16Z",
     "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "World's first open-source enterprise world model.",
+    "id": "deeplethe/utopia",
+    "language": "Rust",
+    "name": "deeplethe/utopia",
+    "stars": 6756,
+    "updated_at": "2026-09-11T00:30:06Z",
+    "url": "https://github.com/deeplethe/utopia"
   },
   {
     "description": "\u58a8\u67a2\u662f\u4e00\u4e2a\u9762\u5411\u4e2d\u6587\u957f\u7bc7\u7f51\u6587\u4f5c\u8005\u7684 AI \u5c0f\u8bf4\u5199\u4f5c\u5de5\u4f5c\u53f0\uff0c\u652f\u6301\u4f5c\u54c1\u5927\u7eb2\u3001\u7ae0\u7eb2\u3001\u4eba\u7269\u4e0e\u4e16\u754c\u89c2\u8bbe\u5b9a\u5e93\u3001\u65f6\u95f4\u7ebf\u3001RAG \u68c0\u7d22\u3001\u4e00\u81f4\u6027\u5b88\u536b\u3001\u81ea\u7136\u5316\u5ba1\u67e5\u3001AI \u8f85\u52a9\u7eed\u5199\u3001\u56e2\u961f\u534f\u4f5c\u3001\u7528\u91cf\u8ba1\u8d39\uff0c\u4ee5\u53ca\u9762\u5411\u6f2b\u5267\u6539\u7f16\u7684\u9759\u6001\u5206\u955c\u7ba1\u7406\u3002\u524d\u7aef\u91c7\u7528 Vue 3\uff0c\u540e\u7aef\u91c7\u7528",
@@ -32,7 +158,7 @@
     "language": "Python",
     "name": "yook11/Vector",
     "stars": 1,
-    "updated_at": "2026-09-11T00:29:10Z",
+    "updated_at": "2026-09-11T00:30:55Z",
     "url": "https://github.com/yook11/Vector"
   },
   {
@@ -85,7 +211,7 @@
     "id": "Shubhamsaboo/awesome-llm-apps",
     "language": "Python",
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "stars": 136967,
+    "stars": 136968,
     "updated_at": "2026-09-11T00:27:24Z",
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
@@ -113,7 +239,7 @@
     "language": "C#",
     "name": "EstaxNet/Inferpal",
     "stars": 5,
-    "updated_at": "2026-09-11T00:25:28Z",
+    "updated_at": "2026-09-11T00:33:14Z",
     "url": "https://github.com/EstaxNet/Inferpal"
   },
   {
@@ -171,15 +297,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Local-first Memory Framework for AI Agents \u00b7 99.2% LongMemEval-S retrieval @ k=10 \u00b7 Supports Claude \u00b7 Antigravity \u00b7 Lang",
-    "id": "skynetcmd/m3-memory",
-    "language": "Python",
-    "name": "skynetcmd/m3-memory",
-    "stars": 24,
-    "updated_at": "2026-09-11T00:23:06Z",
-    "url": "https://github.com/skynetcmd/m3-memory"
-  },
-  {
     "description": "Self-hosted cloud/AI platform on a Raspberry Pi 5 + GPU desktop: Docker/K3s, FastAPI, PostgreSQL/pgvector, local LLM RAG",
     "id": "josephvelasquez48/homelab",
     "language": "Python",
@@ -214,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T00:21:42Z",
     "url": "https://github.com/rahulp7801/Agentic-EV-analytics-platform"
-  },
-  {
-    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
-    "id": "jazz1x/ohmyboring",
-    "language": "Python",
-    "name": "jazz1x/ohmyboring",
-    "stars": 3,
-    "updated_at": "2026-09-11T00:27:35Z",
-    "url": "https://github.com/jazz1x/ohmyboring"
   },
   {
     "description": "A knowledge ledger that forces the storage decision \u2014 current truth in Git, what happened in Postgres, AI reads a handfu",
@@ -266,26 +374,8 @@
     "language": "Python",
     "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "stars": 1855,
-    "updated_at": "2026-09-11T00:28:25Z",
+    "updated_at": "2026-09-11T00:32:39Z",
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T00:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T00:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Framework-aware code intelligence MCP server for Claude Code and Codex \u2014 70.5% fewer input tokens to review a pull reque",
@@ -302,7 +392,7 @@
     "language": "Python",
     "name": "Halomaster0/GTA-Housing-pipeline",
     "stars": 0,
-    "updated_at": "2026-09-11T00:14:56Z",
+    "updated_at": "2026-09-11T00:30:20Z",
     "url": "https://github.com/Halomaster0/GTA-Housing-pipeline"
   },
   {
@@ -342,15 +432,6 @@
     "url": "https://github.com/Bamyani1/interactive-newspaper"
   },
   {
-    "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
-    "id": "daanmt/MedHub",
-    "language": "HTML",
-    "name": "daanmt/MedHub",
-    "stars": 1,
-    "updated_at": "2026-09-11T00:12:26Z",
-    "url": "https://github.com/daanmt/MedHub"
-  },
-  {
     "description": "RAG-powered internal knowledge assistant. Retrieves the right passage and answers with a citation, or refuses rather tha",
     "id": "jabluetooth/mimo",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T00:11:43Z",
     "url": "https://github.com/lm203688/genetech-14-sites"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25008,
-    "updated_at": "2026-09-11T00:30:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a",
-    "id": "XAIHT/Tlamatini",
-    "language": "Python",
-    "name": "XAIHT/Tlamatini",
-    "stars": 16,
-    "updated_at": "2026-09-11T00:11:15Z",
-    "url": "https://github.com/XAIHT/Tlamatini"
-  },
-  {
-    "description": "Self-hosted conversational AI workspace with retrieval-augmented chat over private knowledge.",
-    "id": "imbrace-co/chat-ai",
-    "language": "Python",
-    "name": "imbrace-co/chat-ai",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:08:15Z",
-    "url": "https://github.com/imbrace-co/chat-ai"
-  },
-  {
-    "description": "Enterprise data and document modeling with SQL, search, ontology and cloud-drive connectivity.",
-    "id": "imbrace-co/data_board",
-    "language": "TypeScript",
-    "name": "imbrace-co/data_board",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:07:13Z",
-    "url": "https://github.com/imbrace-co/data_board"
-  },
-  {
-    "description": "Convert raw documents into structured, RAG-ready Markdown and JSONL chunks using Docling and Backblaze B2 storage.",
-    "id": "pepperveneer21/docling-rag-ingestion",
-    "language": "TypeScript",
-    "name": "pepperveneer21/docling-rag-ingestion",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:06:53Z",
-    "url": "https://github.com/pepperveneer21/docling-rag-ingestion"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 2,
-    "updated_at": "2026-09-11T00:06:46Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19321,
-    "updated_at": "2026-09-11T00:22:41Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
-    "description": "Build, orchestrate, and run multi-agent AI systems using natural language with this full-stack Kotlin and Spring Boot fr",
-    "id": "uzair2755/easyai",
-    "language": "Kotlin",
-    "name": "uzair2755/easyai",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:06:38Z",
-    "url": "https://github.com/uzair2755/easyai"
-  },
-  {
-    "description": "Optimize .NET workspace tasks with tools for faster formatting, linting, caching, and CI sharding on Windows, Linux, and",
-    "id": "Slawek1121/dotnet-fast-windows-ci",
-    "language": "HTML",
-    "name": "Slawek1121/dotnet-fast-windows-ci",
-    "stars": 0,
-    "updated_at": "2026-09-11T00:06:18Z",
-    "url": "https://github.com/Slawek1121/dotnet-fast-windows-ci"
   }
 ]
