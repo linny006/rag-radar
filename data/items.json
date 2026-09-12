@@ -1,5 +1,149 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:47:57Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Code for building a corpus of in-force Commonwealth tax legislation, with source and provenance records.",
+    "id": "ryanduguid/au-tax-legislation-corpus",
+    "language": "Python",
+    "name": "ryanduguid/au-tax-legislation-corpus",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:47:54Z",
+    "url": "https://github.com/ryanduguid/au-tax-legislation-corpus"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:48:41Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
+    "description": "Smart knowledge reuse engine \u2014 extract insights from AI conversations (Claude Code, Codex, ChatGPT)",
+    "id": "majiayu000/refine",
+    "language": "Rust",
+    "name": "majiayu000/refine",
+    "stars": 1,
+    "updated_at": "2026-09-12T22:47:36Z",
+    "url": "https://github.com/majiayu000/refine"
+  },
+  {
+    "description": "Multi-language codebase intelligence for DeepSeek Harness and MCP IDEs. Chat, search, audit, refactor, and board-ready r",
+    "id": "shinzarou-eng/dsh-codebase-chat",
+    "language": "TypeScript",
+    "name": "shinzarou-eng/dsh-codebase-chat",
+    "stars": 2,
+    "updated_at": "2026-09-12T22:47:33Z",
+    "url": "https://github.com/shinzarou-eng/dsh-codebase-chat"
+  },
+  {
+    "description": "Knowledge retrieval (RAG) decorators for Azure Functions Python v2",
+    "id": "yeongseon/azure-functions-knowledge-python",
+    "language": "Python",
+    "name": "yeongseon/azure-functions-knowledge-python",
+    "stars": 6,
+    "updated_at": "2026-09-12T22:47:03Z",
+    "url": "https://github.com/yeongseon/azure-functions-knowledge-python"
+  },
+  {
+    "description": "Local-first AI inference platform for LLMs \u2014 private chat, RAG, defense-in-depth security (Daily/Bulbe, encryption at re",
+    "id": "AntsAreRad/opti-oignon",
+    "language": "Python",
+    "name": "AntsAreRad/opti-oignon",
+    "stars": 6,
+    "updated_at": "2026-09-12T22:46:47Z",
+    "url": "https://github.com/AntsAreRad/opti-oignon"
+  },
+  {
+    "description": "A secure, scalable FinTech platform with FraudSense (SHA-256 model signing), RegGuard (pgvector/ChromaDB compliance RAG ",
+    "id": "Gaurav711cgu/Aarthaa_ai",
+    "language": "Python",
+    "name": "Gaurav711cgu/Aarthaa_ai",
+    "stars": 1,
+    "updated_at": "2026-09-12T22:46:31Z",
+    "url": "https://github.com/Gaurav711cgu/Aarthaa_ai"
+  },
+  {
+    "description": "Local-first semantic search engine for your files \u2014 hybrid BM25 + vector + HyDE search over docs, PDFs, images, audio an",
+    "id": "AwesomeDog/soma",
+    "language": "Java",
+    "name": "AwesomeDog/soma",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:46:20Z",
+    "url": "https://github.com/AwesomeDog/soma"
+  },
+  {
+    "description": "gaming sportsbooks and finding arbitrage opportunities using a multi-agent framework",
+    "id": "rahulp7801/Agentic-EV-analytics-platform",
+    "language": "Python",
+    "name": "rahulp7801/Agentic-EV-analytics-platform",
+    "stars": 1,
+    "updated_at": "2026-09-12T22:46:24Z",
+    "url": "https://github.com/rahulp7801/Agentic-EV-analytics-platform"
+  },
+  {
+    "description": "Typed fintech document search with payment risk notices",
+    "id": "ViggoKnight4826/fintech-embeddings-search-ts",
+    "language": "TypeScript",
+    "name": "ViggoKnight4826/fintech-embeddings-search-ts",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:46:06Z",
+    "url": "https://github.com/ViggoKnight4826/fintech-embeddings-search-ts"
+  },
+  {
+    "description": "Incremental engine for long horizon agents \ud83c\udf1f Star if you like it!",
+    "id": "cocoindex-io/cocoindex",
+    "language": "Rust",
+    "name": "cocoindex-io/cocoindex",
+    "stars": 11541,
+    "updated_at": "2026-09-12T22:45:51Z",
+    "url": "https://github.com/cocoindex-io/cocoindex"
+  },
+  {
+    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
+    "id": "sankar-ramamoorthy/rag-foundry-universal",
+    "language": "Python",
+    "name": "sankar-ramamoorthy/rag-foundry-universal",
+    "stars": 4,
+    "updated_at": "2026-09-12T22:45:37Z",
+    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
+  },
+  {
+    "description": "MemOS - Universal local-first persistent memory layer for AI agents and LLMs",
+    "id": "Markgatcha/memos",
+    "language": "TypeScript",
+    "name": "Markgatcha/memos",
+    "stars": 6,
+    "updated_at": "2026-09-12T22:45:33Z",
+    "url": "https://github.com/Markgatcha/memos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T22:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T22:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u6d77\u5916\u30c6\u30c3\u30af\u30cb\u30e5\u30fc\u30b9\u3092\u81ea\u52d5\u53ce\u96c6\u3057\u3001AI\u3067\u7ffb\u8a33\u30fb\u8981\u7d04\u30fb\u6295\u8cc7\u6587\u8108\u3092\u5206\u6790\u3059\u308b\u30ea\u30b5\u30fc\u30c1\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9",
     "id": "yook11/Vector",
     "language": "Python",
@@ -45,15 +189,6 @@
     "url": "https://github.com/aeonmatrixcommand-debug/aeon-nexus-ai"
   },
   {
-    "description": "Knowledge retrieval (RAG) decorators for Azure Functions Python v2",
-    "id": "yeongseon/azure-functions-knowledge-python",
-    "language": "Python",
-    "name": "yeongseon/azure-functions-knowledge-python",
-    "stars": 6,
-    "updated_at": "2026-09-12T22:42:27Z",
-    "url": "https://github.com/yeongseon/azure-functions-knowledge-python"
-  },
-  {
     "description": "The localhost AI Agent Runtime - Chat UI, Tools, RAG, and MCP in one pip install",
     "id": "motojinc25/chatwalaau",
     "language": "Python",
@@ -68,7 +203,7 @@
     "language": "Go",
     "name": "iome-sh/memory",
     "stars": 4,
-    "updated_at": "2026-09-12T22:41:30Z",
+    "updated_at": "2026-09-12T22:48:30Z",
     "url": "https://github.com/iome-sh/memory"
   },
   {
@@ -88,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T22:44:06Z",
     "url": "https://github.com/h1kibi/RAG-Chat"
-  },
-  {
-    "description": "Multi-language codebase intelligence for DeepSeek Harness and MCP IDEs. Chat, search, audit, refactor, and board-ready r",
-    "id": "shinzarou-eng/dsh-codebase-chat",
-    "language": "JavaScript",
-    "name": "shinzarou-eng/dsh-codebase-chat",
-    "stars": 2,
-    "updated_at": "2026-09-12T22:40:31Z",
-    "url": "https://github.com/shinzarou-eng/dsh-codebase-chat"
-  },
-  {
-    "description": "CPU-only RAG stack: PDFs\u2192Docling\u2192Ollama\u2192pgvector. Windows/macOS/Linux. Docker Compose. Graph-aware code search + scanned",
-    "id": "sankar-ramamoorthy/rag-foundry-universal",
-    "language": "Python",
-    "name": "sankar-ramamoorthy/rag-foundry-universal",
-    "stars": 4,
-    "updated_at": "2026-09-12T22:44:06Z",
-    "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
   },
   {
     "description": "Architecture case studies from AI engineering systems I contributed to, spanning verifiable legal knowledge, document in",
@@ -178,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T22:38:13Z",
     "url": "https://github.com/Apheironn/pasr"
-  },
-  {
-    "description": "A secure, scalable FinTech platform with FraudSense (SHA-256 model signing), RegGuard (pgvector/ChromaDB compliance RAG ",
-    "id": "Gaurav711cgu/Aarthaa_ai",
-    "language": "Python",
-    "name": "Gaurav711cgu/Aarthaa_ai",
-    "stars": 1,
-    "updated_at": "2026-09-12T22:37:41Z",
-    "url": "https://github.com/Gaurav711cgu/Aarthaa_ai"
   },
   {
     "description": "Local AI workspace for Apple Silicon powered by MLX \u2014 chat, agents, RAG, image generation and more.",
@@ -293,7 +401,7 @@
     "language": "Go",
     "name": "trick77/rongo",
     "stars": 1,
-    "updated_at": "2026-09-12T22:33:05Z",
+    "updated_at": "2026-09-12T22:46:33Z",
     "url": "https://github.com/trick77/rongo"
   },
   {
@@ -315,15 +423,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "MemOS - Universal local-first persistent memory layer for AI agents and LLMs",
-    "id": "Markgatcha/memos",
-    "language": "TypeScript",
-    "name": "Markgatcha/memos",
-    "stars": 6,
-    "updated_at": "2026-09-12T22:32:56Z",
-    "url": "https://github.com/Markgatcha/memos"
-  },
-  {
     "description": "",
     "id": "Halomaster0/GTA-Housing-pipeline",
     "language": "Python",
@@ -331,24 +430,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T22:30:28Z",
     "url": "https://github.com/Halomaster0/GTA-Housing-pipeline"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T22:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T22:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-oriented AI lesson planning with grounded RAG, structured outputs, evaluation, and DOCX export.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T22:29:56Z",
     "url": "https://github.com/Totm33606/doc-qa-agent"
-  },
-  {
-    "description": "ServicIA: agente embebible de diagnostico y matching para marketplaces de servicios. El cliente describe su problema por",
-    "id": "MatiCS97/Hackathon-OpenAI---VibingStudioCode",
-    "language": "TypeScript",
-    "name": "MatiCS97/Hackathon-OpenAI---VibingStudioCode",
-    "stars": 0,
-    "updated_at": "2026-09-12T22:29:46Z",
-    "url": "https://github.com/MatiCS97/Hackathon-OpenAI---VibingStudioCode"
-  },
-  {
-    "description": "Grounded RAG engine built from scratch: ingestion, chunking, local embeddings, pgvector search and cited answers that re",
-    "id": "downmeansoff/grounded-rag",
-    "language": "Python",
-    "name": "downmeansoff/grounded-rag",
-    "stars": 0,
-    "updated_at": "2026-09-12T22:29:21Z",
-    "url": "https://github.com/downmeansoff/grounded-rag"
-  },
-  {
-    "description": "gaming sportsbooks and finding arbitrage opportunities using a multi-agent framework",
-    "id": "rahulp7801/Agentic-EV-analytics-platform",
-    "language": "Python",
-    "name": "rahulp7801/Agentic-EV-analytics-platform",
-    "stars": 1,
-    "updated_at": "2026-09-12T22:44:48Z",
-    "url": "https://github.com/rahulp7801/Agentic-EV-analytics-platform"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 10,
-    "updated_at": "2026-09-12T22:37:22Z",
-    "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "Upload research papers, ask questions, get answers cited back to the source \u2014 a RAG-based literature Q&A tool",
-    "id": "abeeryasin/corroborate",
-    "language": "Python",
-    "name": "abeeryasin/corroborate",
-    "stars": 0,
-    "updated_at": "2026-09-12T22:27:30Z",
-    "url": "https://github.com/abeeryasin/corroborate"
-  },
-  {
-    "description": "AI real-estate automation platform: Telegram bot, RAG, apartment search, CRM workflows, voice agent, Langfuse observabil",
-    "id": "yastman/rag",
-    "language": "Python",
-    "name": "yastman/rag",
-    "stars": 13,
-    "updated_at": "2026-09-12T22:27:27Z",
-    "url": "https://github.com/yastman/rag"
-  },
-  {
-    "description": "Secure persistent memory with agent security, signed identity, immutable history, and hybrid retrieval for auditable AI ",
-    "id": "mawlamyinebrake1621/HOM-AIMOS",
-    "language": "JavaScript",
-    "name": "mawlamyinebrake1621/HOM-AIMOS",
-    "stars": 0,
-    "updated_at": "2026-09-12T22:27:20Z",
-    "url": "https://github.com/mawlamyinebrake1621/HOM-AIMOS"
-  },
-  {
-    "description": "Secure agent actions with auditable, retrievable persistent memory and built-in adversarial safeguards.",
-    "id": "ansabmoeen444/HOM-AIMOS",
-    "language": "JavaScript",
-    "name": "ansabmoeen444/HOM-AIMOS",
-    "stars": 0,
-    "updated_at": "2026-09-12T22:27:17Z",
-    "url": "https://github.com/ansabmoeen444/HOM-AIMOS"
-  },
-  {
-    "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
-    "id": "jaylfc/taosmd",
-    "language": "Python",
-    "name": "jaylfc/taosmd",
-    "stars": 77,
-    "updated_at": "2026-09-12T22:27:16Z",
-    "url": "https://github.com/jaylfc/taosmd"
   }
 ]
