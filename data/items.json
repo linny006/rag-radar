@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T20:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "S.A.G.A. \u2014 Story Analysis, Generation, and Archives. Canon-aware narrative intelligence for analysis, retrieval, timelin",
+    "id": "faresmohamed260/saga",
+    "language": "Python",
+    "name": "faresmohamed260/saga",
+    "stars": 3,
+    "updated_at": "2026-09-12T20:45:18Z",
+    "url": "https://github.com/faresmohamed260/saga"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T20:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Hands-on AI systems lab exploring RAG, agents, evaluation, observability, safety, governance, and production deployment ",
     "id": "mergemaven11/ai-research",
     "language": "JavaScript",
@@ -351,15 +378,6 @@
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
-    "description": "S.A.G.A. \u2014 Story Analysis, Generation, and Archives. Canon-aware narrative intelligence for analysis, retrieval, timelin",
-    "id": "faresmohamed260/saga",
-    "language": "Python",
-    "name": "faresmohamed260/saga",
-    "stars": 3,
-    "updated_at": "2026-09-12T20:42:57Z",
-    "url": "https://github.com/faresmohamed260/saga"
-  },
-  {
     "description": "Eder Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. Eder Labs builds infrastructure ",
     "id": "api-evangelist/eder-labs",
     "language": "\u2014",
@@ -387,15 +405,6 @@
     "url": "https://github.com/bulletinmybeard/agent-forge-webui"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T20:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Dust \u2014 independent third-party profile of a public API surface, by API Evangelist. Dust is a Paris-based enterprise AI p",
     "id": "api-evangelist/dust-tt",
     "language": "\u2014",
@@ -403,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T20:30:25Z",
     "url": "https://github.com/api-evangelist/dust-tt"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T20:30:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Docling \u2014 independent third-party profile of a public API surface, by API Evangelist. Docling is an open-source toolkit ",
