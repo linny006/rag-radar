@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 20:45 UTC
+> ⏰ Last updated: 2026-09-12 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 2 | [faresmohamed260/saga](https://github.com/faresmohamed260/saga) | 3 | Python | 2026-09-12 | S.A.G.A. — Story Analysis, Generation, and Archives. Canon-aware narrative intelligence for analysis, retrieval, timelin |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [mergemaven11/ai-research](https://github.com/mergemaven11/ai-research) | 0 | JavaScript | 2026-09-12 | Hands-on AI systems lab exploring RAG, agents, evaluation, observability, safety, governance, and production deployment  |
-| 5 | [seramasamy/thoughtpins](https://github.com/seramasamy/thoughtpins) | 0 | Python | 2026-09-12 | Personal memory app for journals and saved sources, with structured retrieval, source provenance, and portable exports.  |
-| 6 | [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | 26 | TypeScript | 2026-09-12 | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta |
-| 7 | [stuinfla/ruvnet-brain](https://github.com/stuinfla/ruvnet-brain) | 65 | JavaScript | 2026-09-12 | RuvNet Brain — a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/ |
-| 8 | [soumanpaul/SOVEREIGN-AI](https://github.com/soumanpaul/SOVEREIGN-AI) | 0 | Python | 2026-09-12 | Secure On-Premise Agentic AI for Confidential Industrial Work |
-| 9 | [api-evangelist/hebbia](https://github.com/api-evangelist/hebbia) | 0 | — | 2026-09-12 | Hebbia — independent third-party profile of a public API surface, by API Evangelist. Hebbia provides institutional-grade |
-| 10 | [rahulp7801/Agentic-EV-analytics-platform](https://github.com/rahulp7801/Agentic-EV-analytics-platform) | 1 | Python | 2026-09-12 | gaming sportsbooks and finding arbitrage opportunities using a multi-agent framework |
-| 11 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 309 | Python | 2026-09-12 | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d |
-| 12 | [api-evangelist/haystack-ai](https://github.com/api-evangelist/haystack-ai) | 0 | — | 2026-09-12 | Haystack / deepset — independent third-party profile of a public API surface, by API Evangelist. Haystack is deepset's o |
-| 13 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 36 | Go | 2026-09-12 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 14 | [MridulNegi2005/PlantBrain](https://github.com/MridulNegi2005/PlantBrain) | 0 | TypeScript | 2026-09-12 | Cited RAG operations brain for industrial plants. Asset-first answers grounded in plant documents with source citations, |
-| 15 | [generalbots/generalbots](https://github.com/generalbots/generalbots) | 84 | Rust | 2026-09-12 | Complete open-source AI collaboration suite and multi-agent platform featuring LLM orchestration, automation, and virtua |
-| 16 | [semlith/semlith](https://github.com/semlith/semlith) | 1 | Rust | 2026-09-12 | A fast local vector store for AI agents — index files once, keep it current as you save, and answer questions across all |
-| 17 | [api-evangelist/glean](https://github.com/api-evangelist/glean) | 1 | — | 2026-09-12 | Glean — independent third-party profile of a public API surface, by API Evangelist. Glean is an AI-powered work assistan |
-| 18 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19326 | TypeScript | 2026-09-12 | Open source agentic operating system |
-| 19 | [Jdawgboo/citation-span-verifier](https://github.com/Jdawgboo/citation-span-verifier) | 0 | Python | 2026-09-12 | Verify inline citation spans against an available source identifier set. |
-| 20 | [yastman/rag](https://github.com/yastman/rag) | 13 | Python | 2026-09-12 | AI real-estate automation platform: Telegram bot, RAG, apartment search, CRM workflows, voice agent, Langfuse observabil |
-| 21 | [AIArjun/research-paper-rag-api](https://github.com/AIArjun/research-paper-rag-api) | 0 | Python | 2026-09-12 | RAG-powered research paper Q&A API \| LangChain + FastAPI + ChromaDB + Docker \| Upload papers, ask questions, get cited a |
-| 22 | [chenyumo166/moziAI-35B-A3B-MOE-MTP](https://github.com/chenyumo166/moziAI-35B-A3B-MOE-MTP) | 9 | Jinja | 2026-09-12 | MoziAI-35B: Local open-source financial AI LLM. 35B MoE model compressed to 15.5GB via MoziSmartBit quantization. 256K c |
-| 23 | [EstaxNet/Inferpal](https://github.com/EstaxNet/Inferpal) | 5 | C# | 2026-09-12 | Your AI pair programmer for Visual Studio 2022/2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with  |
-| 24 | [neomjs/neo](https://github.com/neomjs/neo) | 3272 | JavaScript | 2026-09-12 | Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha |
-| 25 | [ayushcodes10/echo-mem](https://github.com/ayushcodes10/echo-mem) | 2 | Python | 2026-09-12 | Shared memory for AI agents on your own Postgres. The server never calls an LLM to write. |
-| 26 | [Mubder/kazma](https://github.com/Mubder/kazma) | 7 | Python | 2026-09-12 | Autonomous AI agent framework — LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety. |
-| 27 | [api-evangelist/flowise](https://github.com/api-evangelist/flowise) | 0 | — | 2026-09-12 | Flowise — independent third-party profile of a public API surface, by API Evangelist. Flowise is an open-source, low-cod |
-| 28 | [Naveen-Sereddy/Testimonium-SEC-Filing-Research-Tool](https://github.com/Naveen-Sereddy/Testimonium-SEC-Filing-Research-Tool) | 1 | TypeScript | 2026-09-12 | SEC filing research tool with page-level citations, year-over-year comparison, and retrieval evaluation |
+| 1 | [api-evangelist/miriel](https://github.com/api-evangelist/miriel) | 0 | — | 2026-09-12 | Miriel — independent third-party profile of a public API surface, by API Evangelist. Miriel is the context engine and pl |
+| 2 | [vikask2-hub/enterprise-rag-rbac-guardrails](https://github.com/vikask2-hub/enterprise-rag-rbac-guardrails) | 0 | PHP | 2026-09-12 | Document-grounded question answering with Gemini, RBAC concepts and prompt-injection guardrails. |
+| 3 | [api-evangelist/mendable](https://github.com/api-evangelist/mendable) | 0 | — | 2026-09-12 | Mendable — independent third-party profile of a public API surface, by API Evangelist. Mendable is an AI answers and ent |
+| 4 | [VBlackJack/Datacron](https://github.com/VBlackJack/Datacron) | 0 | Python | 2026-09-12 | Local-first MCP server to query and maintain a Markdown vault from Claude, Cursor, Gemini, Codex & other AI clients - no |
+| 5 | [prbe-ai/prbe-knowledge](https://github.com/prbe-ai/prbe-knowledge) | 1 | Python | 2026-09-12 | Self-hosted knowledge engine: ingest your team's tools, hybrid (vector+keyword+graph) retrieval, cited LLM answers. |
+| 6 | [Stephen-Agyemang/stephen-portfolio](https://github.com/Stephen-Agyemang/stephen-portfolio) | 0 | JavaScript | 2026-09-12 |  This is my personal portfolio built with React + Vite. Features an AI chat, interactive skills graph, and project demos |
+| 7 | [api-evangelist/mastra](https://github.com/api-evangelist/mastra) | 0 | — | 2026-09-12 | Mastra — independent third-party profile of a public API surface, by API Evangelist. Mastra is an open-source TypeScript |
+| 8 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 9 | Python | 2026-09-12 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
+| 9 | [Artexis10/exomem](https://github.com/Artexis10/exomem) | 10 | Python | 2026-09-12 | Self-hosted MCP server that makes your Obsidian/markdown vault searchable — text, PDFs, Office docs, images, audio — fro |
+| 10 | [nfekete82/mlx-nobby](https://github.com/nfekete82/mlx-nobby) | 0 | Python | 2026-09-12 | Local AI workspace for Apple Silicon powered by MLX — chat, agents, RAG, image generation and more. |
+| 11 | [Alfrahi/Musaed](https://github.com/Alfrahi/Musaed) | 0 | TypeScript | 2026-09-12 | Privacy-first, fully offline desktop AI assistant powered by Ollama, with local RAG, RTL support, and zero external netw |
+| 12 | [neinna/AdmitDay](https://github.com/neinna/AdmitDay) | 0 | TypeScript | 2026-09-12 | NYC High School AI Application Navigator |
+| 13 | [beratergun/rag-eval-workbench](https://github.com/beratergun/rag-eval-workbench) | 0 | Python | 2026-09-12 | Compact RAG evaluation workbench for recorded retrieval experiments. Calculates Precision@K, Recall@K, MRR, nDCG and a l |
+| 14 | [api-evangelist/lucidworks](https://github.com/api-evangelist/lucidworks) | 0 | — | 2026-09-12 | Lucidworks — independent third-party profile of a public API surface, by API Evangelist. Lucidworks builds AI-powered se |
+| 15 | [faresmohamed260/saga](https://github.com/faresmohamed260/saga) | 3 | Python | 2026-09-12 | S.A.G.A. — Story Analysis, Generation, and Archives. Canon-aware narrative intelligence for analysis, retrieval, timelin |
+| 16 | [api-evangelist/llamacloud](https://github.com/api-evangelist/llamacloud) | 0 | — | 2026-09-12 | LlamaCloud — independent third-party profile of a public API surface, by API Evangelist. LlamaCloud is the managed docum |
+| 17 | [api-evangelist/llamaindex](https://github.com/api-evangelist/llamaindex) | 0 | — | 2026-09-12 | llamaindex — independent third-party profile of a public API surface, by API Evangelist. LlamaCloud is a hosted service  |
+| 18 | [api-evangelist/llamaparse](https://github.com/api-evangelist/llamaparse) | 0 | — | 2026-09-12 | LlamaParse — independent third-party profile of a public API surface, by API Evangelist. LlamaParse is an enterprise doc |
+| 19 | [api-evangelist/linkup-so](https://github.com/api-evangelist/linkup-so) | 0 | — | 2026-09-12 | Linkup — independent third-party profile of a public API surface, by API Evangelist. Linkup is a production-grade web se |
+| 20 | [api-evangelist/letta](https://github.com/api-evangelist/letta) | 2 | — | 2026-09-12 | Letta — independent third-party profile of a public API surface, by API Evangelist. Letta (formerly MemGPT) is a statefu |
+| 21 | [rahulp7801/Agentic-EV-analytics-platform](https://github.com/rahulp7801/Agentic-EV-analytics-platform) | 1 | Python | 2026-09-12 | gaming sportsbooks and finding arbitrage opportunities using a multi-agent framework |
+| 22 | [MridulNegi2005/PlantBrain](https://github.com/MridulNegi2005/PlantBrain) | 0 | TypeScript | 2026-09-12 | Cited RAG operations brain for industrial plants. Asset-first answers grounded in plant documents with source citations, |
+| 23 | [Naveen-Sereddy/Testimonium-SEC-Filing-Research-Tool](https://github.com/Naveen-Sereddy/Testimonium-SEC-Filing-Research-Tool) | 1 | TypeScript | 2026-09-12 | SEC filing research tool with page-level citations, year-over-year comparison, and retrieval evaluation |
+| 24 | [EstaxNet/Inferpal](https://github.com/EstaxNet/Inferpal) | 5 | C# | 2026-09-12 | Your AI pair programmer for Visual Studio 2022/2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with  |
+| 25 | [api-evangelist/langflow](https://github.com/api-evangelist/langflow) | 1 | — | 2026-09-12 | Langflow — independent third-party profile of a public API surface, by API Evangelist. Langflow is an open-source low-co |
+| 26 | [api-evangelist/langbase](https://github.com/api-evangelist/langbase) | 0 | — | 2026-09-12 | Langbase — independent third-party profile of a public API surface, by API Evangelist. Langbase is a serverless AI devel |
+| 27 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-09-12 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
+| 28 | [andrijajovanovic98/inception-of-context](https://github.com/andrijajovanovic98/inception-of-context) | 0 | Python | 2026-09-12 | AI-native autonomous coding agent with local LLMs, AST-aware RAG, hybrid retrieval and a self-healing generate–validate– |
 | 29 | [YuanYeYouTao/Yuki-QQbot](https://github.com/YuanYeYouTao/Yuki-QQbot) | 17 | Python | 2026-09-12 | 一个基于 NoneBot2, OneBot v11, Docker, and OpenAI-compatible LLM APIs 的 QQ聊天 AI agent |
-| 30 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 31 | [XAIHT/Tlamatini](https://github.com/XAIHT/Tlamatini) | 16 | Python | 2026-09-12 | Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a |
-| 32 | [iome-sh/memory](https://github.com/iome-sh/memory) | 4 | Go | 2026-09-12 | Palace memory kernel (Go) — local filesystem library, hybrid search, temporal lite |
-| 33 | [Artexis10/exomem](https://github.com/Artexis10/exomem) | 10 | Python | 2026-09-12 | Self-hosted MCP server that makes your Obsidian/markdown vault searchable — text, PDFs, Office docs, images, audio — fro |
-| 34 | [soumadip-dev/GenAI-Playground](https://github.com/soumadip-dev/GenAI-Playground) | 0 | Python | 2026-09-12 | A hands-on Generative AI learning environment featuring practical experiments and projects for building AI-powered appli |
-| 35 | [farukhanci/the-sentinel](https://github.com/farukhanci/the-sentinel) | 0 | Python | 2026-09-12 | An Obsidian vault a local model can read and write through seven primitives. Fidelity enforced in code, not asked for in |
-| 36 | [Am1n1602/Fin_QA](https://github.com/Am1n1602/Fin_QA) | 0 | Python | 2026-09-12 | Financial Q&A for Indian equities. Deterministic ratio engine + RAG-powered LLM for NSE/BSE companies. CLI, API, dashboa |
+| 30 | [Azeem29742/ai-study-assistant](https://github.com/Azeem29742/ai-study-assistant) | 0 | Python | 2026-09-12 | AI-powered study assistant built with FastAPI, React, Gemini, ChromaDB, and RAG for document-based question answering. |
+| 31 | [ilagutin/IncidentCompass](https://github.com/ilagutin/IncidentCompass) | 0 | C# | 2026-09-12 | Governed AI incident-triage agent backend - reference implementation (.NET 10, PostgreSQL/pgvector, local-LLM friendly) |
+| 32 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 8 | TypeScript | 2026-09-12 | Spec-driven development framework — AI agents that think before they type |
+| 33 | [sandro1123/mimir-memory](https://github.com/sandro1123/mimir-memory) | 4 | Python | 2026-09-12 | The trust baseline for multi-agent memory — event-sourced, governed, federated. 事件溯源 · 治理管线 · 联邦同步 |
+| 34 | [api-evangelist/kapa-ai](https://github.com/api-evangelist/kapa-ai) | 0 | — | 2026-09-12 | kapa.ai — independent third-party profile of a public API surface, by API Evangelist. kapa.ai is an AI assistant and ans |
+| 35 | [api-evangelist/kaito](https://github.com/api-evangelist/kaito) | 0 | — | 2026-09-12 | KAITO — independent third-party profile of a public API surface, by API Evangelist. KAITO (Kubernetes AI Toolchain Opera |
+| 36 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19326 | TypeScript | 2026-09-12 | Open source agentic operating system |
 | 37 | [sapientpants/doctrans](https://github.com/sapientpants/doctrans) | 1 | Elixir | 2026-09-12 | Privacy-first document translation powered by local AI (Ollama). Upload PDF, Word, and OpenDocument files, extract text  |
-| 38 | [erclx/annex](https://github.com/erclx/annex) | 0 | HTML | 2026-09-12 | Ask what the EU AI Act requires of a system you're building, and get back the articles you have to read, quoted, with a  |
-| 39 | [JoshuaColePhD/FlexedAcademy](https://github.com/JoshuaColePhD/FlexedAcademy) | 0 | Python | 2026-09-12 | Production-oriented AI lesson planning with grounded RAG, structured outputs, evaluation, and DOCX export. |
-| 40 | [AntsAreRad/opti-oignon](https://github.com/AntsAreRad/opti-oignon) | 6 | Python | 2026-09-12 | Local-first AI inference platform for LLMs — private chat, RAG, defense-in-depth security (Daily/Bulbe, encryption at re |
-| 41 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25048 | TypeScript | 2026-09-12 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 42 | [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | 89 | TypeScript | 2026-09-12 | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, |
-| 43 | [api-evangelist/eder-labs](https://github.com/api-evangelist/eder-labs) | 0 | — | 2026-09-12 | Eder Labs — independent third-party profile of a public API surface, by API Evangelist. Eder Labs builds infrastructure  |
-| 44 | [shakfu/inferna](https://github.com/shakfu/inferna) | 2 | Python | 2026-09-12 | An experimental nanobind wrapper around llama.cpp, whisper.cpp, and stable-diffusion.cpp |
-| 45 | [bulletinmybeard/agent-forge-webui](https://github.com/bulletinmybeard/agent-forge-webui) | 0 | JavaScript | 2026-09-12 | React SPA front-end for AgentForge. Streams the agent's think/act/observe loop, with every mode, tool call, and connecto |
-| 46 | [api-evangelist/dust-tt](https://github.com/api-evangelist/dust-tt) | 1 | — | 2026-09-12 | Dust — independent third-party profile of a public API surface, by API Evangelist. Dust is a Paris-based enterprise AI p |
-| 47 | [api-evangelist/docling](https://github.com/api-evangelist/docling) | 0 | — | 2026-09-12 | Docling — independent third-party profile of a public API surface, by API Evangelist. Docling is an open-source toolkit  |
-| 48 | [Luvishgulati03/henry-digital-personality-of-luvish](https://github.com/Luvishgulati03/henry-digital-personality-of-luvish) | 0 | TypeScript | 2026-09-12 | Henry — terminal-first personal AI chief of staff: 3 chat surfaces (terminal/web/Telegram), SQLite memory + local RAG, r |
-| 49 | [adityakumar45127/DataDoc](https://github.com/adityakumar45127/DataDoc) | 0 | Python | 2026-09-12 | AI-powered Business Intelligence & Document Intelligence Copilot built with Streamlit, Gemini, Ollama, ChromaDB and RAG. |
-| 50 | [acipaaa/context-llm-chunks](https://github.com/acipaaa/context-llm-chunks) | 1 | HTML | 2026-09-12 | The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster |
+| 38 | [api-evangelist/julep](https://github.com/api-evangelist/julep) | 0 | — | 2026-09-12 | Julep — independent third-party profile of a public API surface, by API Evangelist. Julep is an open-source platform for |
+| 39 | [artk0de/TeaRAGs-MCP](https://github.com/artk0de/TeaRAGs-MCP) | 11 | TypeScript | 2026-09-12 | The code intelligence layer for AI coding agents. Semantic indexing, graph navigation, and repository intelligence |
+| 40 | [semlith/semlith](https://github.com/semlith/semlith) | 1 | Rust | 2026-09-12 | A fast local vector store for AI agents — index files once, keep it current as you save, and answer questions across all |
+| 41 | [api-evangelist/inkeep](https://github.com/api-evangelist/inkeep) | 0 | — | 2026-09-12 | Inkeep — independent third-party profile of a public API surface, by API Evangelist. Inkeep is an AI support and agent p |
+| 42 | [Shoko-official/StudentLLM](https://github.com/Shoko-official/StudentLLM) | 2 | TypeScript | 2026-09-12 | Local-first learning workspace for recording, understanding, and revising university lectures with traceable AI. |
+| 43 | [LocketKeyLLC/scaffold-engine](https://github.com/LocketKeyLLC/scaffold-engine) | 0 | Python | 2026-09-12 | Self-hosted AI agent engine for local LLMs. Give it an idea — it researches the web, plans a DAG of steps, executes each |
+| 44 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-09-12 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 45 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 46 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 47 | [mergemaven11/ai-research](https://github.com/mergemaven11/ai-research) | 0 | JavaScript | 2026-09-12 | Hands-on AI systems lab exploring RAG, agents, evaluation, observability, safety, governance, and production deployment  |
+| 48 | [seramasamy/thoughtpins](https://github.com/seramasamy/thoughtpins) | 0 | Python | 2026-09-12 | Personal memory app for journals and saved sources, with structured retrieval, source provenance, and portable exports.  |
+| 49 | [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | 26 | TypeScript | 2026-09-12 | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta |
+| 50 | [stuinfla/ruvnet-brain](https://github.com/stuinfla/ruvnet-brain) | 65 | JavaScript | 2026-09-12 | RuvNet Brain — a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/ |
 <!-- TRACKER_TABLE_END -->
 
 ---
