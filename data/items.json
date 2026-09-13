@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agent \u667a\u80fd\u4f53\u5f00\u53d1\u6559\u7a0b",
+    "id": "itkdm/aiagentguide",
+    "language": "JavaScript",
+    "name": "itkdm/aiagentguide",
+    "stars": 1,
+    "updated_at": "2026-09-13T10:29:30Z",
+    "url": "https://github.com/itkdm/aiagentguide"
+  },
+  {
+    "description": "\u9762\u5411\u591a\u6a21\u578b\u4e0e Agent \u5de5\u4f5c\u6d41\u7684 AI \u804a\u5929\u4ea7\u54c1\uff0c\u91c7\u7528 Next.js + FastAPI monorepo \u67b6\u6784\u3002",
+    "id": "HyxiaoGe/fusion",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion",
+    "stars": 2,
+    "updated_at": "2026-09-13T10:28:56Z",
+    "url": "https://github.com/HyxiaoGe/fusion"
+  },
+  {
+    "description": "\u591a\u529f\u80fd AI Agent (Java + Spring AI + DeepSeek) - \u591a Agent \u7f16\u6392\u3001RAG \u7ba1\u9053\u3001\u5de5\u5177\u8c03\u7528\u3001SSE \u6d41\u5f0f\u8f93\u51fa",
+    "id": "baiyu-jujuc/ai-agent",
+    "language": "Java",
+    "name": "baiyu-jujuc/ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:28:53Z",
+    "url": "https://github.com/baiyu-jujuc/ai-agent"
+  },
+  {
+    "description": "Turns a codebase into something the rest of the company can ask. Plain-language questions, answers in domain terms, flow",
+    "id": "trick77/rongo",
+    "language": "Go",
+    "name": "trick77/rongo",
+    "stars": 1,
+    "updated_at": "2026-09-13T10:29:54Z",
+    "url": "https://github.com/trick77/rongo"
+  },
+  {
+    "description": "Local-first MCP context engine for AI coding agents \u2014 cuts token cost ~90% via a per-project code graph + code folding. ",
+    "id": "ParsaVictor/code-context-engine",
+    "language": "Rust",
+    "name": "ParsaVictor/code-context-engine",
+    "stars": 4,
+    "updated_at": "2026-09-13T10:28:25Z",
+    "url": "https://github.com/ParsaVictor/code-context-engine"
+  },
+  {
     "description": "Katra \u2014 cognitive memory for AI agents. Episodic, semantic, and knowledge-graph memory with sleep consolidation, over MC",
     "id": "kolegadev/Katra-Agentic-Memory",
     "language": "TypeScript",
     "name": "kolegadev/Katra-Agentic-Memory",
     "stars": 8,
-    "updated_at": "2026-09-13T10:27:39Z",
+    "updated_at": "2026-09-13T10:28:10Z",
     "url": "https://github.com/kolegadev/Katra-Agentic-Memory"
+  },
+  {
+    "description": "Venator - autonomous research agent on a LangGraph state machine. PubMed, Shodan, Tor and multi-engine web search, local",
+    "id": "Galactic717/NEXUS-G4",
+    "language": "Python",
+    "name": "Galactic717/NEXUS-G4",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:28:10Z",
+    "url": "https://github.com/Galactic717/NEXUS-G4"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T10:27:54Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "105 real AI / LLM engineer interview questions with concise answers \u2014 LLMs, transformers, RAG, agents, evals, inference,",
+    "id": "philomath18/awesome-ai-engineer-interview-questions",
+    "language": "\u2014",
+    "name": "philomath18/awesome-ai-engineer-interview-questions",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:27:50Z",
+    "url": "https://github.com/philomath18/awesome-ai-engineer-interview-questions"
   },
   {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "deeplethe/utopia",
     "stars": 7298,
-    "updated_at": "2026-09-13T10:24:28Z",
+    "updated_at": "2026-09-13T10:28:54Z",
     "url": "https://github.com/deeplethe/utopia"
   },
   {
@@ -169,6 +241,15 @@
     "stars": 21,
     "updated_at": "2026-09-13T10:24:45Z",
     "url": "https://github.com/rknightion/paperless-ngx-dedupe"
+  },
+  {
+    "description": "Two-stage RAG pipeline for semantic search and AI-assisted analysis of technology job postings.",
+    "id": "rashedkarnoub661-cyber/tech-jobs-analyzer",
+    "language": "Jupyter Notebook",
+    "name": "rashedkarnoub661-cyber/tech-jobs-analyzer",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:22:18Z",
+    "url": "https://github.com/rashedkarnoub661-cyber/tech-jobs-analyzer"
   },
   {
     "description": "Studio \u2014 the brain behind Jamie Thingelstad's publishing: capture, research, the editorial source of truth, the producti",
@@ -214,6 +295,15 @@
     "stars": 0,
     "updated_at": "2026-09-13T10:21:09Z",
     "url": "https://github.com/RhaZenZ0/Xianxia-bot"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 5130,
+    "updated_at": "2026-09-13T10:20:59Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
     "description": "\ud83d\udcd8 \u57fa\u4e8e\u89c6\u89c9\u5927\u6a21\u578b\u4e0e RAG \u7684\u667a\u80fd\u9519\u9898\u672c\uff1aAI \u62cd\u7167\u5f55\u9898 \u00b7 \u7ed3\u6784\u5316\u89e3\u6790 \u00b7 \u5411\u91cf\u68c0\u7d22\u4e3e\u4e00\u53cd\u4e09 \u00b7 SM-2 \u95f4\u9694\u91cd\u590d\u590d\u4e60 | Vision-LLM powered wrong-question notebook with RAG & s",
@@ -279,15 +369,6 @@
     "url": "https://github.com/andyle777/ether-memories"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T10:15:53Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Full-stack AI SaaS for industrial maintenance teams \u2014 tasks, shift planning, and auditable RAG knowledge retrieval with ",
     "id": "siinanXD/maintenance-ai-assistant",
     "language": "Python",
@@ -347,7 +428,7 @@
     "language": "Python",
     "name": "UynajGI/drbrain",
     "stars": 0,
-    "updated_at": "2026-09-13T10:26:25Z",
+    "updated_at": "2026-09-13T10:29:12Z",
     "url": "https://github.com/UynajGI/drbrain"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 3272,
     "updated_at": "2026-09-13T10:27:18Z",
     "url": "https://github.com/neomjs/neo"
-  },
-  {
-    "description": "ELIOT Research Cloud \u2014 pluggable external research federation for ELIOT Memory OS. Cloudflare-hosted evidence library, C",
-    "id": "UnknownAlienHuman/eliot-research",
-    "language": "TypeScript",
-    "name": "UnknownAlienHuman/eliot-research",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:12:01Z",
-    "url": "https://github.com/UnknownAlienHuman/eliot-research"
-  },
-  {
-    "description": "Fullseye \u2014 a numpy-native operator library for vision, 3-D and measurement: 1,500+ typed ops spanning 2-D imaging, point",
-    "id": "furuse-kazufumi/fullseye",
-    "language": "HTML",
-    "name": "furuse-kazufumi/fullseye",
-    "stars": 2,
-    "updated_at": "2026-09-13T10:11:49Z",
-    "url": "https://github.com/furuse-kazufumi/fullseye"
-  },
-  {
-    "description": "AI \u306e\u305f\u3081\u306e\u77e5\u8b58\u30d9\u30fc\u30b9\u3002Wikipedia\u30fbOpenStreetMap\u30fbGeoNames \u306e\u516c\u5f0f\u30c0\u30f3\u30d7\u3092 SQLite (FTS5) \u306b\u7d22\u5f15\u3057\u3001MCP \u3068 REST \u3067 AI \u306b\u5f15\u304b\u305b\u308b\u3002AI \u304c\u66f8\u304d\u8db3\u305b\u308b notes \u3068\u3001Chiezo ",
-    "id": "rtcode337/chiezo",
-    "language": "Python",
-    "name": "rtcode337/chiezo",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:11:15Z",
-    "url": "https://github.com/rtcode337/chiezo"
-  },
-  {
-    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
-    "id": "yonatangross/orchestkit",
-    "language": "TypeScript",
-    "name": "yonatangross/orchestkit",
-    "stars": 267,
-    "updated_at": "2026-09-13T10:15:26Z",
-    "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
-    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
-    "id": "brittewestafrican981/ComfyUI-YinChao",
-    "language": "Python",
-    "name": "brittewestafrican981/ComfyUI-YinChao",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:10:11Z",
-    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Detect your server's IP geolocation and measure direct network reachability with real-time diagnostics.",
-    "id": "freelancing31809169-art/geocheck",
-    "language": "Go",
-    "name": "freelancing31809169-art/geocheck",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:10:00Z",
-    "url": "https://github.com/freelancing31809169-art/geocheck"
-  },
-  {
-    "description": "Turn conversations into structured, source-backed facts and answer questions with exact citations attached.",
-    "id": "xerxespluperfect31/memoket-kite",
-    "language": "\u2014",
-    "name": "xerxespluperfect31/memoket-kite",
-    "stars": 0,
-    "updated_at": "2026-09-13T10:09:40Z",
-    "url": "https://github.com/xerxespluperfect31/memoket-kite"
-  },
-  {
-    "description": "HxSync: An Android AI Agent client with 4-tier scheduling (local/API/remote/gateway), MCP-compatible memory, and human-i",
-    "id": "yangwenhua212/hermchat",
-    "language": "Kotlin",
-    "name": "yangwenhua212/hermchat",
-    "stars": 3,
-    "updated_at": "2026-09-13T10:09:07Z",
-    "url": "https://github.com/yangwenhua212/hermchat"
-  },
-  {
-    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 168,
-    "updated_at": "2026-09-13T10:09:05Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
   }
 ]
