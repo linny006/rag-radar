@@ -1,12 +1,138 @@
 [
   {
+    "description": "A self-hosted web application for preserving a person's personality, voice, memories, and values \u2014 and making them reach",
+    "id": "MikeBlakeway/digital-legacy",
+    "language": "TypeScript",
+    "name": "MikeBlakeway/digital-legacy",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:18:39Z",
+    "url": "https://github.com/MikeBlakeway/digital-legacy"
+  },
+  {
     "description": "Personal, local-first RAG over your own sources \u2014 hybrid retrieval, cited answers, published eval numbers.",
     "id": "dtduc-git/ragdesk",
     "language": "Python",
     "name": "dtduc-git/ragdesk",
     "stars": 0,
-    "updated_at": "2026-09-14T10:14:47Z",
+    "updated_at": "2026-09-14T10:18:36Z",
     "url": "https://github.com/dtduc-git/ragdesk"
+  },
+  {
+    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
+    "id": "derob98/ailmanac",
+    "language": "MDX",
+    "name": "derob98/ailmanac",
+    "stars": 8,
+    "updated_at": "2026-09-14T10:18:28Z",
+    "url": "https://github.com/derob98/ailmanac"
+  },
+  {
+    "description": "JanaVani is civic infrastructure for meaningful citizen participation connecting citizens with verified public authoriti",
+    "id": "netzen-abm/janavani",
+    "language": "Python",
+    "name": "netzen-abm/janavani",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:18:14Z",
+    "url": "https://github.com/netzen-abm/janavani"
+  },
+  {
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m",
+    "id": "Tencent/WeKnora",
+    "language": "Go",
+    "name": "Tencent/WeKnora",
+    "stars": 23042,
+    "updated_at": "2026-09-14T10:17:43Z",
+    "url": "https://github.com/Tencent/WeKnora"
+  },
+  {
+    "description": "A RAG app to breakdown complex technical documents ",
+    "id": "Kaynaaf/NanoRAG",
+    "language": "Python",
+    "name": "Kaynaaf/NanoRAG",
+    "stars": 2,
+    "updated_at": "2026-09-14T10:17:40Z",
+    "url": "https://github.com/Kaynaaf/NanoRAG"
+  },
+  {
+    "description": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization",
+    "id": "remete618/widemem-ai",
+    "language": "Python",
+    "name": "remete618/widemem-ai",
+    "stars": 49,
+    "updated_at": "2026-09-14T10:17:58Z",
+    "url": "https://github.com/remete618/widemem-ai"
+  },
+  {
+    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
+    "id": "CSE-Sudo/on-care",
+    "language": "Dart",
+    "name": "CSE-Sudo/on-care",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:18:59Z",
+    "url": "https://github.com/CSE-Sudo/on-care"
+  },
+  {
+    "description": "Memory infrastructure for AI agents: store, recall by meaning or association, ingest documents, and track beliefs in one",
+    "id": "orkait/supergraph",
+    "language": "Python",
+    "name": "orkait/supergraph",
+    "stars": 6,
+    "updated_at": "2026-09-14T10:16:58Z",
+    "url": "https://github.com/orkait/supergraph"
+  },
+  {
+    "description": "",
+    "id": "MSC1722/rag-memory",
+    "language": "Python",
+    "name": "MSC1722/rag-memory",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:16:57Z",
+    "url": "https://github.com/MSC1722/rag-memory"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 807,
+    "updated_at": "2026-09-14T10:16:21Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Agentic AI platform for transforming software ideas into persistent, structured engineering blueprints using LangGraph, ",
+    "id": "mdwarishansari/ForgeFlow-AI",
+    "language": "\u2014",
+    "name": "mdwarishansari/ForgeFlow-AI",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:15:54Z",
+    "url": "https://github.com/mdwarishansari/ForgeFlow-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 193,
+    "updated_at": "2026-09-14T10:15:24Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first multi-agent AI chat \u2014 multiple LLM experts (same model, different personas) collaborate in parallel, relay, ",
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "yashshah9/embedsync",
     "stars": 0,
-    "updated_at": "2026-09-14T10:14:45Z",
+    "updated_at": "2026-09-14T10:16:23Z",
     "url": "https://github.com/yashshah9/embedsync"
   },
   {
@@ -54,15 +180,6 @@
     "url": "https://github.com/murrayhu-mdb/mongodb-skill-badge-study-buddy"
   },
   {
-    "description": "Memory infrastructure for AI agents: store, recall by meaning or association, ingest documents, and track beliefs in one",
-    "id": "orkait/supergraph",
-    "language": "Python",
-    "name": "orkait/supergraph",
-    "stars": 6,
-    "updated_at": "2026-09-14T10:14:28Z",
-    "url": "https://github.com/orkait/supergraph"
-  },
-  {
     "description": "Fullseye \u2014 a numpy-native operator library for vision, 3-D and measurement: 1,500+ typed ops spanning 2-D imaging, point",
     "id": "furuse-kazufumi/fullseye",
     "language": "HTML",
@@ -70,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T10:14:24Z",
     "url": "https://github.com/furuse-kazufumi/fullseye"
-  },
-  {
-    "description": "AI healthcare for 20\u201330s at risk of hypertension & diabetes \u2014 Trainer-Linked Diet & Exercise Coaching Platform",
-    "id": "CSE-Sudo/on-care",
-    "language": "Dart",
-    "name": "CSE-Sudo/on-care",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:14:23Z",
-    "url": "https://github.com/CSE-Sudo/on-care"
   },
   {
     "description": "Kubernetes AIOps: deterministic fault diagnosis + case memory (RAG), audit-driven ops, multi-cluster",
@@ -117,15 +225,6 @@
     "url": "https://github.com/DavidingPlus/rag-from-scratch"
   },
   {
-    "description": "\u5267\u672c\u5206\u955c\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u63d0\u793a\u8bcd\u2192\u89c6\u9891\u3002| \u57fa\u4e8eLLM \u901a\u8fc7 LangGraph+LlamaIndex\u5b9e\u73b0\u4efb\u610f\u683c\u5f0f\u5267\u672c\u7684\u81ea\u52a8\u89e3\u6790\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-v",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 193,
-    "updated_at": "2026-09-14T10:15:20Z",
-    "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
     "description": "Local, on-device document RAG for macOS, Windows and Linux.",
     "id": "AppGram/airgap",
     "language": "\u2014",
@@ -140,7 +239,7 @@
     "language": "TypeScript",
     "name": "PersonaliAI/chatty",
     "stars": 3,
-    "updated_at": "2026-09-14T10:14:53Z",
+    "updated_at": "2026-09-14T10:17:03Z",
     "url": "https://github.com/PersonaliAI/chatty"
   },
   {
@@ -151,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-14T10:11:59Z",
     "url": "https://github.com/alloevil/AI-Paper-Daily"
-  },
-  {
-    "description": "Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization",
-    "id": "remete618/widemem-ai",
-    "language": "Python",
-    "name": "remete618/widemem-ai",
-    "stars": 49,
-    "updated_at": "2026-09-14T10:15:12Z",
-    "url": "https://github.com/remete618/widemem-ai"
-  },
-  {
-    "description": "",
-    "id": "MSC1722/rag-memory",
-    "language": "Python",
-    "name": "MSC1722/rag-memory",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:11:20Z",
-    "url": "https://github.com/MSC1722/rag-memory"
   },
   {
     "description": "The AI search platform",
@@ -248,7 +329,7 @@
     "language": "Kotlin",
     "name": "NaCode-Studios/Kdrant",
     "stars": 6,
-    "updated_at": "2026-09-14T10:08:08Z",
+    "updated_at": "2026-09-14T10:15:47Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
   },
   {
@@ -315,15 +396,6 @@
     "url": "https://github.com/sepahead/sepahead"
   },
   {
-    "description": "A self-hosted web application for preserving a person's personality, voice, memories, and values \u2014 and making them reach",
-    "id": "MikeBlakeway/digital-legacy",
-    "language": "TypeScript",
-    "name": "MikeBlakeway/digital-legacy",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:05:53Z",
-    "url": "https://github.com/MikeBlakeway/digital-legacy"
-  },
-  {
     "description": "Deterministic agent memory. \u03bc=0. Free, local, forever. Mem0-compatible.",
     "id": "ssmurfgg04-gif/context-m",
     "language": "Python",
@@ -356,17 +428,8 @@
     "language": "Python",
     "name": "shivaumsharma/DigiNyaya",
     "stars": 0,
-    "updated_at": "2026-09-14T10:04:35Z",
+    "updated_at": "2026-09-14T10:16:09Z",
     "url": "https://github.com/shivaumsharma/DigiNyaya"
-  },
-  {
-    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m",
-    "id": "Tencent/WeKnora",
-    "language": "Go",
-    "name": "Tencent/WeKnora",
-    "stars": 23041,
-    "updated_at": "2026-09-14T10:03:57Z",
-    "url": "https://github.com/Tencent/WeKnora"
   },
   {
     "description": "Offline citation-first enterprise knowledge Agent prototype with grounded retrieval, abstention, tests and product docum",
@@ -385,68 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-14T10:10:25Z",
     "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 1994,
-    "updated_at": "2026-09-14T10:05:29Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image gen",
-    "id": "Osmantic/ODS",
-    "language": "Python",
-    "name": "Osmantic/ODS",
-    "stars": 6465,
-    "updated_at": "2026-09-14T10:02:14Z",
-    "url": "https://github.com/Osmantic/ODS"
-  },
-  {
-    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
-    "id": "tale-project/tale",
-    "language": "TypeScript",
-    "name": "tale-project/tale",
-    "stars": 29,
-    "updated_at": "2026-09-14T10:11:15Z",
-    "url": "https://github.com/tale-project/tale"
-  },
-  {
-    "description": "Registry of official plugins for mloda.ai",
-    "id": "mloda-ai/mloda-registry",
-    "language": "Python",
-    "name": "mloda-ai/mloda-registry",
-    "stars": 5,
-    "updated_at": "2026-09-14T10:01:45Z",
-    "url": "https://github.com/mloda-ai/mloda-registry"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:01:07Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Code & data for the O'Reilly book \"GraphRAG - the definitive guide\"",
-    "id": "graphrag/graphrag-the-definitive-guide-code",
-    "language": "Python",
-    "name": "graphrag/graphrag-the-definitive-guide-code",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:00:57Z",
-    "url": "https://github.com/graphrag/graphrag-the-definitive-guide-code"
-  },
-  {
-    "description": "Graph-based reasoning library with embedding search, multi-hop traversal, and automatic entity extraction",
-    "id": "bgokden/reasongraph",
-    "language": "Python",
-    "name": "bgokden/reasongraph",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:14:36Z",
-    "url": "https://github.com/bgokden/reasongraph"
   }
 ]
