@@ -1,5 +1,104 @@
 [
   {
+    "description": "Full-stack E-Commerce Platform & AI Sales Assistant Agent (RAG + Function Calling) built with Nuxt 3, TypeScript, SQLite",
+    "id": "phamhoangvu2k7/Ecommerce",
+    "language": "Vue",
+    "name": "phamhoangvu2k7/Ecommerce",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:45:11Z",
+    "url": "https://github.com/phamhoangvu2k7/Ecommerce"
+  },
+  {
+    "description": "An AI-powered GitHub portfolio manager. Syncs your GitHub repositories, uses Gemini to generate insightful project summa",
+    "id": "jrudman25/Proofstack",
+    "language": "TypeScript",
+    "name": "jrudman25/Proofstack",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:45:11Z",
+    "url": "https://github.com/jrudman25/Proofstack"
+  },
+  {
+    "description": "\ud83c\udf10 Build AI agents effortlessly with WrenAI, the open-source GenBI tool that streamlines development and enhances functio",
+    "id": "fvckhack/WrenAI",
+    "language": "TypeScript",
+    "name": "fvckhack/WrenAI",
+    "stars": 1,
+    "updated_at": "2026-09-15T06:45:07Z",
+    "url": "https://github.com/fvckhack/WrenAI"
+  },
+  {
+    "description": "RAG-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u043f\u043e \u0432\u0438\u043d\u0443 \u0438 \u0432\u0438\u043d\u043e\u0434\u0435\u043b\u0438\u044e: \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a (BM25 + \u0432\u0435\u043a\u0442\u043e\u0440\u043d\u044b\u0439, RRF) + OpenAI, Telegram-\u0431\u043e\u0442 \u043d\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u043e\u0439 \u0431\u0438\u0431\u043b\u0438\u043e\u0442",
+    "id": "kirillbadulin74/Vinoterra-TG-bot",
+    "language": "Python",
+    "name": "kirillbadulin74/Vinoterra-TG-bot",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:44:53Z",
+    "url": "https://github.com/kirillbadulin74/Vinoterra-TG-bot"
+  },
+  {
+    "description": "DocAgent \u00b7 \u4f01\u4e1a\u6587\u6863\u8d28\u91cf\u7ba1\u63a7 Agent \u53ef\u8fd0\u884c\u539f\u578b\uff1aFastAPI + React/TS\uff0cRAG \u6df7\u5408\u68c0\u7d22\uff08FTS5+\u5411\u91cf+RRF\uff09\u3001\u5f15\u6587\u6eaf\u6e90\u3001\u8bc4\u5ba1\u5de5\u4f5c\u6d41\u3001\u77e5\u8bc6\u5e93\u6743\u9650\u6cbb\u7406\uff0c228 \u4e2a pytest \u7528\u4f8b + Playwright",
+    "id": "sunry00710/doc-agent",
+    "language": "Python",
+    "name": "sunry00710/doc-agent",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:44:50Z",
+    "url": "https://github.com/sunry00710/doc-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Explore LLM-driven chip design automation and hardware security with curated insights on intelligent EDA and lifecycl",
+    "id": "anieqh/awesome-llm-chip-design-security",
+    "language": "JavaScript",
+    "name": "anieqh/awesome-llm-chip-design-security",
+    "stars": 0,
+    "updated_at": "2026-09-15T06:44:47Z",
+    "url": "https://github.com/anieqh/awesome-llm-chip-design-security"
+  },
+  {
+    "description": "\ud83d\udcdd Create and manage Markdown notes with folders, dark/light mode, live preview, and easy export to PDF/Markdown for a se",
+    "id": "voxanne1478/markdown-note-app",
+    "language": "JavaScript",
+    "name": "voxanne1478/markdown-note-app",
+    "stars": 1,
+    "updated_at": "2026-09-15T06:44:43Z",
+    "url": "https://github.com/voxanne1478/markdown-note-app"
+  },
+  {
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+    "id": "DEEIX-AI/DEEIX-Chat",
+    "language": "Go",
+    "name": "DEEIX-AI/DEEIX-Chat",
+    "stars": 1462,
+    "updated_at": "2026-09-15T06:44:25Z",
+    "url": "https://github.com/DEEIX-AI/DEEIX-Chat"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 27,
+    "updated_at": "2026-09-15T06:44:22Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 90714,
+    "updated_at": "2026-09-15T06:44:16Z",
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T06:44:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udcca Access comprehensive datasets of public procurement in Spain, including national and regional data, to enhance transpa",
     "id": "Hikaru17zx/licitaciones-espana",
     "language": "Python",
@@ -270,15 +369,6 @@
     "url": "https://github.com/m4ttmoore/Moore_Foods_ERP_RAG_Support_Assistant"
   },
   {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 27,
-    "updated_at": "2026-09-15T06:38:31Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "https://adongwanai.github.io/AgentGuide | AI Agent\u5f00\u53d1\u6307\u5357 | LangGraph\u5b9e\u6218 | \u9ad8\u7ea7RAG | \u8f6c\u884c\u5927\u6a21\u578b | \u5927\u6a21\u578b\u9762\u8bd5 | \u7b97\u6cd5\u5de5\u7a0b\u5e08 | \u9762\u8bd5\u9898\u5e93 | \u5f3a\u5316\u5b66\u4e60\uff5c\u6570\u636e\u5408\u6210",
     "id": "adongwanai/AgentGuide",
     "language": "MDX",
@@ -286,15 +376,6 @@
     "stars": 9601,
     "updated_at": "2026-09-15T06:38:22Z",
     "url": "https://github.com/adongwanai/AgentGuide"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 90714,
-    "updated_at": "2026-09-15T06:38:10Z",
-    "url": "https://github.com/infiniflow/ragflow"
   },
   {
     "description": "TheKnowledgeOrbits \u2014 AI-powered UPSC exam-prep platform \u2014 Django/DRF + Next.js, built on a hybrid RAG pipeline (pgvector",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T06:37:47Z",
     "url": "https://github.com/nzggs/mes-ai-assistant"
-  },
-  {
-    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
-    "id": "FaultMaven/faultmaven",
-    "language": "Python",
-    "name": "FaultMaven/faultmaven",
-    "stars": 2,
-    "updated_at": "2026-09-15T06:39:44Z",
-    "url": "https://github.com/FaultMaven/faultmaven"
-  },
-  {
-    "description": "AI-powered Obsidian plugin for semantic search, vault auditing, note discovery and AI writing",
-    "id": "zinverno/vault-audit-AI",
-    "language": "TypeScript",
-    "name": "zinverno/vault-audit-AI",
-    "stars": 28,
-    "updated_at": "2026-09-15T06:37:43Z",
-    "url": "https://github.com/zinverno/vault-audit-AI"
-  },
-  {
-    "description": "A full-stack AI engineering playbook \u2014 model foundations, post-training, AI infrastructure, RAG, agents, memory, MCP, ev",
-    "id": "Eric-LLMs/awesome-ai-engineering",
-    "language": "\u2014",
-    "name": "Eric-LLMs/awesome-ai-engineering",
-    "stars": 15,
-    "updated_at": "2026-09-15T06:37:36Z",
-    "url": "https://github.com/Eric-LLMs/awesome-ai-engineering"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 394,
-    "updated_at": "2026-09-15T06:39:36Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "\ud83d\udd0d Enable seamless semantic search for AI agents without the hassle of setting up a vector database server using PGlite a",
-    "id": "tshephosekhu/semantic-memory",
-    "language": "\u2014",
-    "name": "tshephosekhu/semantic-memory",
-    "stars": 0,
-    "updated_at": "2026-09-15T06:36:34Z",
-    "url": "https://github.com/tshephosekhu/semantic-memory"
-  },
-  {
-    "description": "\u91c7\u96c6\u62db\u8058 JD\uff0c\u7136\u540e\u7528\u5bf9\u8bdd\u95ee\u5b83\uff1a\u9ad8\u9891\u8981\u6c42\u662f\u4ec0\u4e48\u3001\u6211\u7f3a\u4ec0\u4e48\u3001\u9762\u8bd5\u4f1a\u95ee\u4ec0\u4e48\u3002Chrome \u6269\u5c55 + \u672c\u5730\u5206\u6790\uff0c\u65e0\u670d\u52a1\u5668\u3002",
-    "id": "tuanziimilk/career-os",
-    "language": "JavaScript",
-    "name": "tuanziimilk/career-os",
-    "stars": 0,
-    "updated_at": "2026-09-15T06:36:15Z",
-    "url": "https://github.com/tuanziimilk/career-os"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f Real-Time Multimodal Voice AI Assistant for Enterprise Meetings (7-Module Offline Streaming Pipeline: WebRTC APM, Sil",
-    "id": "sh1kaku59/room-voice-ai",
-    "language": "Python",
-    "name": "sh1kaku59/room-voice-ai",
-    "stars": 1,
-    "updated_at": "2026-09-15T06:36:00Z",
-    "url": "https://github.com/sh1kaku59/room-voice-ai"
-  },
-  {
-    "description": "\ud83c\udf1f Build chat-enabled iOS apps with the Ethora Swift SDK, offering a robust messaging layer, Ethora API integration, and ",
-    "id": "titit-star/ethora-sdk-swift",
-    "language": "Swift",
-    "name": "titit-star/ethora-sdk-swift",
-    "stars": 1,
-    "updated_at": "2026-09-15T06:35:52Z",
-    "url": "https://github.com/titit-star/ethora-sdk-swift"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 281,
-    "updated_at": "2026-09-15T06:36:10Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
