@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u57fa\u4e8e RAGFlow \u672c\u5730\u77e5\u8bc6\u5e93\u7684\u9e23\u6f6e\u6e38\u620f AI \u95ee\u7b54\uff1a\u5355\u6587\u4ef6\u7f51\u9875\u5ba2\u6237\u7aef + \u96f6\u4f9d\u8d56 Node \u4ee3\u7406 + OpenFrp \u516c\u7f51\u7a7f\u900f\uff0c\u6d41\u5f0f\u8f93\u51fa\u3001\u5f15\u7528\u6807\u6ce8\u3001Key \u4e0d\u51fa\u670d\u52a1\u5668",
+    "id": "cnmddnmdb/WUWA",
+    "language": "HTML",
+    "name": "cnmddnmdb/WUWA",
+    "stars": 2,
+    "updated_at": "2026-09-17T10:15:11Z",
+    "url": "https://github.com/cnmddnmdb/WUWA"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-09-17T10:14:44Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T10:14:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Engineering practice and open-source book: learning, experiments, and judgment across LLMs, agents, RAG, MCP, and AI ",
     "id": "QianJinGuo/wiki-book",
     "language": "Mermaid",
@@ -421,32 +448,5 @@
     "stars": 18,
     "updated_at": "2026-09-17T10:00:55Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T10:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83d\ude80 100% local RAG system with one-command setup. Your data never leaves your server.",
-    "id": "I3K-IT/RAG-Enterprise",
-    "language": "Rust",
-    "name": "I3K-IT/RAG-Enterprise",
-    "stars": 59,
-    "updated_at": "2026-09-17T10:07:32Z",
-    "url": "https://github.com/I3K-IT/RAG-Enterprise"
   }
 ]
