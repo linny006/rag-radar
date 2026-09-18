@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local RAG chat over your own PDF, Excel and Word documents. Cited answers, deterministic refusals when the corpus can't ",
+    "id": "chocianowicz/ragnar",
+    "language": "Python",
+    "name": "chocianowicz/ragnar",
+    "stars": 1,
+    "updated_at": "2026-09-18T22:15:08Z",
+    "url": "https://github.com/chocianowicz/ragnar"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T22:14:46Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "NYC High School AI Application Navigator",
     "id": "neinna/AdmitDay",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19360,
-    "updated_at": "2026-09-18T22:14:35Z",
+    "updated_at": "2026-09-18T22:14:57Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "sensigo-hq/realm",
     "stars": 0,
-    "updated_at": "2026-09-18T22:12:29Z",
+    "updated_at": "2026-09-18T22:15:11Z",
     "url": "https://github.com/sensigo-hq/realm"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "",
     "id": "antflydb/antfly",
     "language": "Zig",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T21:57:28Z",
     "url": "https://github.com/joaocarlos/writing-context-rtfm"
-  },
-  {
-    "description": "Document question answering whose answers are verbatim, citable spans of your own documents - or an explicit refusal.",
-    "id": "simply-complex-systems/SCS-RAG",
-    "language": "Python",
-    "name": "simply-complex-systems/SCS-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-18T21:57:01Z",
-    "url": "https://github.com/simply-complex-systems/SCS-RAG"
   }
 ]
