@@ -1,11 +1,110 @@
 [
   {
+    "description": "Repeatable method for converting hours of work into assets that compound: three ledgers, five stacked layers, AGPL-3.0. ",
+    "id": "jesseray718/wisdom-scaffold",
+    "language": "Python",
+    "name": "jesseray718/wisdom-scaffold",
+    "stars": 1,
+    "updated_at": "2026-09-18T00:16:51Z",
+    "url": "https://github.com/jesseray718/wisdom-scaffold"
+  },
+  {
+    "description": "An evaluation harness for RAG that caught its own metrics lying five times. Retrieval over SEC filings for Pinterest, Sn",
+    "id": "vaishalizilpe/sec-filings",
+    "language": "Python",
+    "name": "vaishalizilpe/sec-filings",
+    "stars": 0,
+    "updated_at": "2026-09-18T00:16:38Z",
+    "url": "https://github.com/vaishalizilpe/sec-filings"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-09-18T00:16:35Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83c\udfc6 Discover essential tools and frameworks to enhance your hackathon experience, from pitching ideas to deploying your pr",
+    "id": "rahavshukla/Hackathon-Tools",
+    "language": "\u2014",
+    "name": "rahavshukla/Hackathon-Tools",
+    "stars": 10,
+    "updated_at": "2026-09-18T00:16:26Z",
+    "url": "https://github.com/rahavshukla/Hackathon-Tools"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform your PDF documents into actionable insights with this RAG-based Question-Answering App for efficient and acc",
+    "id": "rupamsamanta123/PDF-QA-RAG-System",
+    "language": "Python",
+    "name": "rupamsamanta123/PDF-QA-RAG-System",
+    "stars": 5,
+    "updated_at": "2026-09-18T00:16:19Z",
+    "url": "https://github.com/rupamsamanta123/PDF-QA-RAG-System"
+  },
+  {
+    "description": "Typed document question answering with payment risk decisions",
+    "id": "JethroRhodes8268/fintech-document-qa-doc-qa-fintech-typescript-a",
+    "language": "TypeScript",
+    "name": "JethroRhodes8268/fintech-document-qa-doc-qa-fintech-typescript-a",
+    "stars": 0,
+    "updated_at": "2026-09-18T00:16:07Z",
+    "url": "https://github.com/JethroRhodes8268/fintech-document-qa-doc-qa-fintech-typescript-a"
+  },
+  {
+    "description": "\u767d\u7bb1AGI\u67b6\u6784\u63a2\u7d22\uff1a\u5143\u8ba4\u77e5\uff08\u81ea\u6211\u8ba4\u77e5\u5faa\u73af\uff09\u3001\u6301\u7eed\u5b66\u4e60\uff08\u77e5\u8bc6\u98de\u8f6e\uff09\u3001\u4e16\u754c\u6a21\u578b\uff08\u6761\u4ef6\u7a7a\u95f4+\u8bed\u4e49\u65f6\u7a7a\u56fe\uff09\u3001\u81ea\u6211\u6539\u8fdb\uff08\u81ea\u4e3e\u7eaa\u5f8b\uff09\u3001\u96f6LLM\u767d\u7bb1\u7ba1\u7ebf\u4e0e\u53ef\u5ba1\u8ba1\u4fe1\u4efb\u62a4\u680f\u3002",
+    "id": "FuRongJun-1999/dsh-memory",
+    "language": "Python",
+    "name": "FuRongJun-1999/dsh-memory",
+    "stars": 214,
+    "updated_at": "2026-09-18T00:16:31Z",
+    "url": "https://github.com/FuRongJun-1999/dsh-memory"
+  },
+  {
+    "description": "Self-hosted AI agent \u2014 local LLM with tool calling, WASM sandbox, hybrid RAG on pgvector, MCP, and prompt-injection defe",
+    "id": "elvisxd/byte",
+    "language": "Python",
+    "name": "elvisxd/byte",
+    "stars": 0,
+    "updated_at": "2026-09-18T00:15:51Z",
+    "url": "https://github.com/elvisxd/byte"
+  },
+  {
+    "description": "Agent-native AI support that turns your docs into answers for your community. Built for your agents with skills and MCP.",
+    "id": "answerLoops/answerLoops",
+    "language": "TypeScript",
+    "name": "answerLoops/answerLoops",
+    "stars": 8,
+    "updated_at": "2026-09-18T00:16:20Z",
+    "url": "https://github.com/answerLoops/answerLoops"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T00:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T00:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi",
     "id": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "language": "Python",
     "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
     "stars": 1868,
-    "updated_at": "2026-09-18T00:15:09Z",
+    "updated_at": "2026-09-18T00:16:14Z",
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
   },
   {
@@ -45,15 +144,6 @@
     "url": "https://github.com/ronie-aduana/mcp-ai-memory"
   },
   {
-    "description": "\u767d\u7bb1AGI\u67b6\u6784\u63a2\u7d22\uff1a\u5143\u8ba4\u77e5\uff08\u81ea\u6211\u8ba4\u77e5\u5faa\u73af\uff09\u3001\u6301\u7eed\u5b66\u4e60\uff08\u77e5\u8bc6\u98de\u8f6e\uff09\u3001\u4e16\u754c\u6a21\u578b\uff08\u6761\u4ef6\u7a7a\u95f4+\u8bed\u4e49\u65f6\u7a7a\u56fe\uff09\u3001\u81ea\u6211\u6539\u8fdb\uff08\u81ea\u4e3e\u7eaa\u5f8b\uff09\u3001\u96f6LLM\u767d\u7bb1\u7ba1\u7ebf\u4e0e\u53ef\u5ba1\u8ba1\u4fe1\u4efb\u62a4\u680f\u3002",
-    "id": "FuRongJun-1999/dsh-memory",
-    "language": "Python",
-    "name": "FuRongJun-1999/dsh-memory",
-    "stars": 214,
-    "updated_at": "2026-09-18T00:15:16Z",
-    "url": "https://github.com/FuRongJun-1999/dsh-memory"
-  },
-  {
     "description": "O RPGForge AI \u00e9 uma aplica\u00e7\u00e3o web que cria e gerencia fichas de RPG com intelig\u00eancia artificial",
     "id": "guilhermedkdk/rpgforge-ai",
     "language": "TypeScript",
@@ -88,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-09-18T00:14:24Z",
     "url": "https://github.com/SenseiOguz/Dual-AI-Chat"
-  },
-  {
-    "description": "Repeatable method for converting hours of work into assets that compound: three ledgers, five stacked layers, AGPL-3.0. ",
-    "id": "jesseray718/wisdom-scaffold",
-    "language": "Python",
-    "name": "jesseray718/wisdom-scaffold",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:14:02Z",
-    "url": "https://github.com/jesseray718/wisdom-scaffold"
   },
   {
     "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T00:11:54Z",
     "url": "https://github.com/zrasooli94/cxops-ai"
-  },
-  {
-    "description": "An evaluation harness for RAG that caught its own metrics lying five times. Retrieval over SEC filings for Pinterest, Sn",
-    "id": "vaishalizilpe/sec-filings",
-    "language": "Python",
-    "name": "vaishalizilpe/sec-filings",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:14:35Z",
-    "url": "https://github.com/vaishalizilpe/sec-filings"
   },
   {
     "description": "DocWire SDK: local-first C++20 data-processing infrastructure for deterministic, auditable, on-premise workflows. Suppor",
@@ -376,77 +448,5 @@
     "stars": 16782,
     "updated_at": "2026-09-18T00:03:15Z",
     "url": "https://github.com/MemoriLabs/Memori"
-  },
-  {
-    "description": "Real-time meeting transcription + multilingual RAG for chief-of-staff workflows. Local-first; on-device audio; hermetic ",
-    "id": "BinHsu/aegis-core",
-    "language": "Go",
-    "name": "BinHsu/aegis-core",
-    "stars": 1,
-    "updated_at": "2026-09-18T00:03:10Z",
-    "url": "https://github.com/BinHsu/aegis-core"
-  },
-  {
-    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
-    "id": "jazz1x/ohmyboring",
-    "language": "Python",
-    "name": "jazz1x/ohmyboring",
-    "stars": 3,
-    "updated_at": "2026-09-18T00:02:49Z",
-    "url": "https://github.com/jazz1x/ohmyboring"
-  },
-  {
-    "description": "",
-    "id": "bansky-cl/graphrag-arxiv-daily-paper",
-    "language": "Python",
-    "name": "bansky-cl/graphrag-arxiv-daily-paper",
-    "stars": 42,
-    "updated_at": "2026-09-18T00:02:30Z",
-    "url": "https://github.com/bansky-cl/graphrag-arxiv-daily-paper"
-  },
-  {
-    "description": "Personal memory app for journals and saved sources, with structured retrieval, source provenance, and portable exports. ",
-    "id": "seramasamy/thoughtpins",
-    "language": "Python",
-    "name": "seramasamy/thoughtpins",
-    "stars": 0,
-    "updated_at": "2026-09-18T00:02:16Z",
-    "url": "https://github.com/seramasamy/thoughtpins"
-  },
-  {
-    "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
-    "id": "jgouviergmail/LIA-Assistant",
-    "language": "Python",
-    "name": "jgouviergmail/LIA-Assistant",
-    "stars": 51,
-    "updated_at": "2026-09-18T00:05:16Z",
-    "url": "https://github.com/jgouviergmail/LIA-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T00:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T00:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "End-to-end applied machine learning portfolio: EDA, ensemble methods, neural networks from scratch, computer vision, mod",
-    "id": "kerolous-samir/ai-ml-portfolio",
-    "language": "\u2014",
-    "name": "kerolous-samir/ai-ml-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-17T23:59:48Z",
-    "url": "https://github.com/kerolous-samir/ai-ml-portfolio"
   }
 ]
