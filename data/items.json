@@ -1,5 +1,68 @@
 [
   {
+    "description": "Memory infrastructure for AI agents: store, recall by meaning or association, ingest documents, and track beliefs in one",
+    "id": "orkait/supergraph",
+    "language": "Python",
+    "name": "orkait/supergraph",
+    "stars": 6,
+    "updated_at": "2026-09-18T09:30:32Z",
+    "url": "https://github.com/orkait/supergraph"
+  },
+  {
+    "description": "RAG engine for Indian legal jurisprudence; stance detection, authority-weighted retrieval, CRAG fallback, and citation-v",
+    "id": "rasinmuhammed/ratio",
+    "language": "Python",
+    "name": "rasinmuhammed/ratio",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:30:24Z",
+    "url": "https://github.com/rasinmuhammed/ratio"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T09:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\u9762\u5411\u591a\u6a21\u578b\u4e0e Agent \u5de5\u4f5c\u6d41\u7684 AI \u804a\u5929\u4ea7\u54c1\uff0c\u91c7\u7528 Next.js + FastAPI monorepo \u67b6\u6784\u3002",
+    "id": "HyxiaoGe/fusion",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion",
+    "stars": 2,
+    "updated_at": "2026-09-18T09:30:23Z",
+    "url": "https://github.com/HyxiaoGe/fusion"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-18T09:30:21Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T09:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered codebase explorer that connects GitHub repositories, indexes code with embeddings, and enables semantic code ",
+    "id": "Anu1606-dev/CodeAtlas",
+    "language": "TypeScript",
+    "name": "Anu1606-dev/CodeAtlas",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:30:16Z",
+    "url": "https://github.com/Anu1606-dev/CodeAtlas"
+  },
+  {
     "description": "C++ AI Agent like langgraph. \u652f\u6301\u5d4c\u5165\u666e\u901a\u7a0b\u5e8f\u4e2d\u6269\u5c55\u5b9e\u73b0AI\u529f\u80fd",
     "id": "coolight7/agentxx",
     "language": "C++",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T09:26:28Z",
     "url": "https://github.com/umer-78/rag-document-qa"
-  },
-  {
-    "description": "RAG engine for Indian legal jurisprudence; stance detection, authority-weighted retrieval, CRAG fallback, and citation-v",
-    "id": "rasinmuhammed/ratio",
-    "language": "Python",
-    "name": "rasinmuhammed/ratio",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:30:14Z",
-    "url": "https://github.com/rasinmuhammed/ratio"
   },
   {
     "description": "16-week curriculum: AI/LLM integration for production Laravel + Flutter apps",
@@ -324,24 +378,6 @@
     "url": "https://github.com/sokebat/gen-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
     "id": "FaultMaven/faultmaven",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 21,
     "updated_at": "2026-09-18T09:11:47Z",
     "url": "https://github.com/mrsladoje/sweet-search"
-  },
-  {
-    "description": "AI-powered PHP RAG Assistant using Gemini 3.6 Flash, FAISS, Hugging Face Embeddings, Streamlit, and a Hybrid Rule Engine",
-    "id": "rashmi051298-collab/PHP-RAG-Assistant",
-    "language": "PHP",
-    "name": "rashmi051298-collab/PHP-RAG-Assistant",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:11:41Z",
-    "url": "https://github.com/rashmi051298-collab/PHP-RAG-Assistant"
-  },
-  {
-    "description": "Self-hosted medical records manager: OCR + LLM extraction, RAG search, doctor-share links, DICOM viewer.",
-    "id": "giovi321/asclepius",
-    "language": "TypeScript",
-    "name": "giovi321/asclepius",
-    "stars": 1,
-    "updated_at": "2026-09-18T09:10:44Z",
-    "url": "https://github.com/giovi321/asclepius"
-  },
-  {
-    "description": "Hippocampus-inspired long-term memory for AI agents: engine (hippo-memory-core) + DSH plugin (dsh-hippo-memory). SQLite-",
-    "id": "guoxing2024/hippo-memory",
-    "language": "JavaScript",
-    "name": "guoxing2024/hippo-memory",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:10:22Z",
-    "url": "https://github.com/guoxing2024/hippo-memory"
-  },
-  {
-    "description": "AI ticket triage agent: hybrid RAG (BM25 + MiniLM, RRF) + dynamic few-shot (74.2% to 90.8%) + human-in-the-loop feedback",
-    "id": "KAER-M6/ticketmind",
-    "language": "Python",
-    "name": "KAER-M6/ticketmind",
-    "stars": 0,
-    "updated_at": "2026-09-18T09:10:17Z",
-    "url": "https://github.com/KAER-M6/ticketmind"
   }
 ]
