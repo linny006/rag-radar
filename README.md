@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-19 15:45 UTC
+> ⏰ Last updated: 2026-09-19 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Slawek1121/dotnet-fast-windows-ci](https://github.com/Slawek1121/dotnet-fast-windows-ci) | 0 | HTML | 2026-09-19 | Optimize .NET workspace tasks with tools for faster formatting, linting, caching, and CI sharding on Windows, Linux, and |
-| 2 | [Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop](https://github.com/Mustachioed-scapegoat599/Claude-Mythos-AI-Free-desktop) | 0 | TypeScript | 2026-09-19 | Manage long-form AI conversations and code workflows on Windows, macOS, and Linux with this standalone desktop workspace |
-| 3 | [houseofprayerzinzendorf150/LLM-Agent-Factory](https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory) | 1 | Python | 2026-09-19 | Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation. |
-| 4 | [oscarbol09/thesisforge](https://github.com/oscarbol09/thesisforge) | 1 | Python | 2026-09-19 | Asistente y forjador de investigación académica con IA, RAG y BYOK. Asesor metodológico, literatura científica indexada  |
-| 5 | [Poetic-squamouscell685/aahl-web-scraper](https://github.com/Poetic-squamouscell685/aahl-web-scraper) | 0 | HTML | 2026-09-19 | Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python. |
-| 6 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-09-19 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
-| 7 | [api-evangelist/openlaws](https://github.com/api-evangelist/openlaws) | 0 | — | 2026-09-19 | OpenLaws — independent third-party profile of a public API surface, by API Evangelist. OpenLaws is a Public Benefit Corp |
-| 8 | [vaibhav-rj/RAG-pipeline](https://github.com/vaibhav-rj/RAG-pipeline) | 1 | Jupyter Notebook | 2026-09-19 | It relates with implementation of RAG pipelines. Quest to fine tune different elements(retrieval , generation broadly) o |
-| 9 | [brainro5105/org-pad.el](https://github.com/brainro5105/org-pad.el) | 0 | — | 2026-09-19 | Draw directly from your iPad to an Emacs org-mode buffer using your Apple Pencil. |
-| 10 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-09-19 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
-| 11 | [PigKkkkk/caliope-reading-hub](https://github.com/PigKkkkk/caliope-reading-hub) | 0 | HTML | 2026-09-19 | Connect authors and readers on a web platform designed for story publishing, reading, and social interaction. |
-| 12 | [nghqqa/MergePilot](https://github.com/nghqqa/MergePilot) | 2 | Python | 2026-09-19 | 多 Agent PR 审修闭环：webhook 自动触发审查/修复/验证，结论以 check run 回写 PR；高风险停人工门，无 merge 权限不越权。GOAI 2026 决赛项目。 |
-| 13 | [api-evangelist/open-webui](https://github.com/api-evangelist/open-webui) | 0 | — | 2026-09-19 | Open WebUI — independent third-party profile of a public API surface, by API Evangelist. Open WebUI is a self-hosted, op |
-| 14 | [neinna/AdmitDay](https://github.com/neinna/AdmitDay) | 0 | TypeScript | 2026-09-19 | NYC High School AI Application Navigator |
-| 15 | [Untechnical-headwind100/Claude-AI-Unlimited-Tool-2026](https://github.com/Untechnical-headwind100/Claude-AI-Unlimited-Tool-2026) | 0 | Python | 2026-09-19 | Automate Claude AI interactions with custom hotkeys, memory manipulation tools, and configurable settings for improved w |
-| 16 | [Player1205/AgriNexus](https://github.com/Player1205/AgriNexus) | 1 | JavaScript | 2026-09-19 | AgriNexus is an autonomous multi-agent agronomy platform combining 80ms offline Edge AI vision, live GPS weather intelli |
-| 17 | [Ekmsi8525/agentsmith](https://github.com/Ekmsi8525/agentsmith) | 1 | — | 2026-09-19 | Standardize your AI agent workflows with a battle-tested harness for Claude Code and other autonomous systems. |
-| 18 | [BYYQ778/OA-ops-agent](https://github.com/BYYQ778/OA-ops-agent) | 3 | Python | 2026-09-19 | 本地优先的 OA 智能运维平台：巡检 / 日志分析 / RAG 知识库问答 / 智能根因诊断（证据链 · 只读），Windows 绿色版免装即用 ｜ Local-first AIOps platform for OA systems: in |
-| 19 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 3273 | TypeScript | 2026-09-19 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & |
-| 20 | [api-evangelist/ondemand](https://github.com/api-evangelist/ondemand) | 0 | — | 2026-09-19 | Ondemand — independent third-party profile of a public API surface, by API Evangelist. OnDemand AI (on-demand.io) is a R |
-| 21 | [caura-ai/caura](https://github.com/caura-ai/caura) | 527 | Python | 2026-09-19 | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier |
-| 22 | [M2253510/QResponder](https://github.com/M2253510/QResponder) | 0 | Python | 2026-09-19 | Automate vendor security questionnaire responses using your private knowledge base with this local-first, self-hosted to |
-| 23 | [amarkum/stackcone](https://github.com/amarkum/stackcone) | 1 | HTML | 2026-09-19 | Official website for stackcone — custom software & AI development (RAG, web, mobile, cloud). Static site for stackcone.c |
-| 24 | [MrTopDestroyer/flow](https://github.com/MrTopDestroyer/flow) | 1 | Go | 2026-09-19 | Monitor real-time network throughput with this terminal-based dashboard. |
-| 25 | [dafenqirunrunrun/e-review-agent](https://github.com/dafenqirunrunrun/e-review-agent) | 0 | Python | 2026-09-19 | Enterprise-oriented e-commerce review governance system with AI analysis, Agent inspection, risk workflows and auditable |
-| 26 | [int2t05/rss-reader](https://github.com/int2t05/rss-reader) | 1 | Python | 2026-09-19 | 个人信息聚合 + AI 总结系统 — RSS × 三段式 pipeline × 有界 ReAct agent |
-| 27 | [Contextator/Contextator](https://github.com/Contextator/Contextator) | 0 | TypeScript | 2026-09-19 | Turn any collection of documentation into a private, semantically searchable MCP endpoint — one URL per project, self-ho |
-| 28 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | 278 | TypeScript | 2026-09-19 | The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x),  |
-| 29 | [api-evangelist/nuclia](https://github.com/api-evangelist/nuclia) | 0 | — | 2026-09-19 | Nuclia — independent third-party profile of a public API surface, by API Evangelist. Nuclia is a RAG-as-a-Service / AI s |
-| 30 | [ucarsinan/weg-verwaltung](https://github.com/ucarsinan/weg-verwaltung) | 0 | TypeScript | 2026-09-19 | WEG-Verwaltung — design-first portfolio (Next.js 16 + FastAPI + Supabase + LangGraph) |
-| 31 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-09-19 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
-| 32 | [Krzysztof318/MailFathom](https://github.com/Krzysztof318/MailFathom) | 14 | C# | 2026-09-19 | A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you |
-| 33 | [melvinmathew9991/customer-support-app](https://github.com/melvinmathew9991/customer-support-app) | 0 | Python | 2026-09-19 | Local-first LangChain customer support agent on Ollama: a graph-orchestrated conversation (identify the user, tiered RAG |
-| 34 | [Veronika0306/claude-opus48-context-packer](https://github.com/Veronika0306/claude-opus48-context-packer) | 0 | — | 2026-09-19 | Pack local repositories into dense semantic maps for Claude Opus 4.8 and Fable 5 to reduce token bloat and improve reaso |
-| 35 | [Bourbonshootingrange132/yunseul](https://github.com/Bourbonshootingrange132/yunseul) | 0 | TypeScript | 2026-09-19 | Chat with your Obsidian notes using local LLMs to find insights in your knowledge base. |
-| 36 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 5 | Rust | 2026-09-19 |  Cognitive Memory Architecture for Agents |
-| 37 | [Zile1147/wikipedia-agent](https://github.com/Zile1147/wikipedia-agent) | 0 | Python | 2026-09-19 | Query Wikipedia ZIM archives offline with a hybrid RAG system using Llama.cpp. Build local indexes for private, internet |
-| 38 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-09-19 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 39 | [YoussefKhaled10/Agent-Customer-Service](https://github.com/YoussefKhaled10/Agent-Customer-Service) | 0 | Python | 2026-09-19 | PharmaCare is an AI sales and customer service platform featuring product discovery, order workflows, admin management,  |
-| 40 | [Splitpeamidline260/local-ai-assistant](https://github.com/Splitpeamidline260/local-ai-assistant) | 0 | — | 2026-09-19 | Run an AI assistant locally on your hardware with scripts for Ollama, Open WebUI, and Telegram, optimized for networks a |
-| 41 | [Lifefoo3142/aiaget-platform](https://github.com/Lifefoo3142/aiaget-platform) | 0 | — | 2026-09-19 | Manage enterprise AI agents, models, prompts, and knowledge bases with this self-hosted platform for governance, workflo |
-| 42 | [Tamariskwhisper962/Localbrain](https://github.com/Tamariskwhisper962/Localbrain) | 0 | HTML | 2026-09-19 | Index local files for semantic search and reranking using an MCP server, CLI, or web console on your machine. |
-| 43 | [vyact/vyact](https://github.com/vyact/vyact) | 45 | Python | 2026-09-19 | Vyact is an open-source, local-first personal AI workspace for llama.cpp, RAG, AI agents, document intelligence, and Goo |
-| 44 | [Rumeasiyan/askwell](https://github.com/Rumeasiyan/askwell) | 0 | Python | 2026-09-19 | Local AI over your own files and databases. Asks when it's unsure, remembers your answers, cites every claim. Runs entir |
-| 45 | [cheto5144/pdf2md](https://github.com/cheto5144/pdf2md) | 0 | — | 2026-09-19 | Convert PDF documents to Markdown using local VLM inference services with this single Go binary. |
-| 46 | [Earnest-clockworkuniverse497/mcp-annas-archive-create-skill](https://github.com/Earnest-clockworkuniverse497/mcp-annas-archive-create-skill) | 3 | TypeScript | 2026-09-19 | Convert methodology books from Anna's Archive into Claude Code skills using the Model Context Protocol. |
-| 47 | [infinition/langolier](https://github.com/infinition/langolier) | 2 | Rust | 2026-09-19 | Local knowledge studio. Index your documents, code, video and voice notes, then get answers with citations from a local  |
-| 48 | [Alexperowo/assistant-ksenia](https://github.com/Alexperowo/assistant-ksenia) | 0 | Python | 2026-09-19 | Ассистент Ксения — локальный голосовой AI-партнёр, дворецкий и разработчик для Windows. Сырая alpha. |
-| 49 | [api-evangelist/naboo](https://github.com/api-evangelist/naboo) | 0 | — | 2026-09-19 | Naboo — independent third-party profile of a public API surface, by API Evangelist. Naboo is Reasoning Layer infrastruct |
-| 50 | [iyulab/FluxIndex](https://github.com/iyulab/FluxIndex) | 7 | C# | 2026-09-19 | Production-ready .NET 10 RAG library with hybrid vector + keyword search, multi-backend storage (SQLite, PostgreSQL, Neo |
+| 1 | [api-evangelist/seltz](https://github.com/api-evangelist/seltz) | 0 | — | 2026-09-19 | Seltz — independent third-party profile of a public API surface, by API Evangelist. Seltz is a San Francisco-based AI in |
+| 2 | [LocketKeyLLC/scaffold-engine](https://github.com/LocketKeyLLC/scaffold-engine) | 0 | Python | 2026-09-19 | Self-hosted AI agent engine for local LLMs. Give it an idea — it researches the web, plans a DAG of steps, executes each |
+| 3 | [michaelatamuk/openjiuwen-knowledge](https://github.com/michaelatamuk/openjiuwen-knowledge) | 0 | Python | 2026-09-19 | Grounded AI-engineering knowledge base: every concept paired with how the Jiuwen codebase actually implements it. 207 en |
+| 4 | [Ayush-2703/Large_languaage_Models](https://github.com/Ayush-2703/Large_languaage_Models) | 3 | Python | 2026-09-19 | A comprehensive blueprint for Large Language Models. A rigorous curriculum covering transformer architectures, pre-train |
+| 5 | [PersonalClaw/PersonalClaw](https://github.com/PersonalClaw/PersonalClaw) | 5 | Python | 2026-09-19 | Your self-hosted personal AI agent — an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base,  |
+| 6 | [shihabcodes/Cogniflow_AI](https://github.com/shihabcodes/Cogniflow_AI) | 26 | TypeScript | 2026-09-19 | NotebookLM-style RAG in your browser — query YouTube, podcasts & PDFs; cited answers deep-link to the exact video moment |
+| 7 | [melvinmathew9991/customer-support-app](https://github.com/melvinmathew9991/customer-support-app) | 0 | Python | 2026-09-19 | Local-first LangChain customer support agent on Ollama: a graph-orchestrated conversation (identify the user, tiered RAG |
+| 8 | [realyin/scope-lineage](https://github.com/realyin/scope-lineage) | 5 | Python | 2026-09-19 | Turn Spark/Hive SQL into structured, traceable facts for Agents, RAG, and AI knowledge bases. |
+| 9 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8968 | Rust | 2026-09-19 | World's first open-source enterprise world model. |
+| 10 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 5 | Rust | 2026-09-19 |  Cognitive Memory Architecture for Agents |
+| 11 | [ictechgy/knowledger](https://github.com/ictechgy/knowledger) | 0 | TypeScript | 2026-09-19 | Domain-scoped knowledge agreements for KB, LLM wiki and AI workflows — MIT, Node.js 24+, Hyperledger Fabric adapter |
+| 12 | [Mango-Teknusa-Inovasi/CMS-ScholarGate](https://github.com/Mango-Teknusa-Inovasi/CMS-ScholarGate) | 0 | TypeScript | 2026-09-19 | Enterprise-Grade School Information Portal & Advanced AI CMS Engine built with Laravel 13, Inertia.js, React 19, and Clo |
+| 13 | [schmitech/orbit](https://github.com/schmitech/orbit) | 351 | Python | 2026-09-19 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 14 | [oc8-ai/oc8](https://github.com/oc8-ai/oc8) | 22 | Python | 2026-09-19 | Open-source AI business orchestration platform for running governed AI agents across ERP, CRM, Microsoft 365 and other b |
+| 15 | [parkerluxu/Awesome-agent-cases](https://github.com/parkerluxu/Awesome-agent-cases) | 12 | JavaScript | 2026-09-19 | A bilingual, continuously updated directory of AI agent cases, news, open-source projects, papers, and reusable resource |
+| 16 | [iyulab/ironhive-flux](https://github.com/iyulab/ironhive-flux) | 0 | C# | 2026-09-19 | Bridge SDK connecting IronHive with the Flux ecosystem for embedding generation, text completion, image-to-text, and RAG |
+| 17 | [khurram-uworx/CodeMemory](https://github.com/khurram-uworx/CodeMemory) | 1 | C# | 2026-09-19 | transform repositories into queryable intelligence |
+| 18 | [mfanafuthimhlanga/wchats](https://github.com/mfanafuthimhlanga/wchats) | 0 | Python | 2026-09-19 | Multi-tenant platform for deploying customer-service and transactional AI agents in four steps: create, configure, test, |
+| 19 | [avangerus/knowvault](https://github.com/avangerus/knowvault) | 0 | Go | 2026-09-19 | Company knowledge with verifiable evidence. Web UI, MCP & REST API. Access control, audit, on-premises/edge. Documents + |
+| 20 | [niansahc/ember-2](https://github.com/niansahc/ember-2) | 1 | Python | 2026-09-19 | A local, private personal intelligence system. Not a chatbot. |
+| 21 | [Player1205/AgriNexus](https://github.com/Player1205/AgriNexus) | 1 | JavaScript | 2026-09-19 | AgriNexus is an autonomous multi-agent agronomy platform combining 80ms offline Edge AI vision, live GPS weather intelli |
+| 22 | [ashishsinha1602/schemagate](https://github.com/ashishsinha1602/schemagate) | 6 | Python | 2026-09-19 | Text-to-SQL access control: schema selection that gives the LLM only the tables the caller is allowed to read. Row-level |
+| 23 | [api-evangelist/ragie-ai](https://github.com/api-evangelist/ragie-ai) | 0 | — | 2026-09-19 | Ragie — independent third-party profile of a public API surface, by API Evangelist. Ragie is a fully-managed Retrieval-A |
+| 24 | [alivirgo/LLM-Contract](https://github.com/alivirgo/LLM-Contract) | 1 | TypeScript | 2026-09-19 | TypeScript library and CLI for LLM evaluation, AI agent testing, prompt regression, RAG grounding, structured output, fl |
+| 25 | [alegator2009/my_tiny_local_ai_agent](https://github.com/alegator2009/my_tiny_local_ai_agent) | 2 | Python | 2026-09-19 | Local-first chat agent that runs comfortably with small-context local LLMs (from 2B) without losing the original goal of |
+| 26 | [getsynkora/synkora-ai](https://github.com/getsynkora/synkora-ai) | 34 | Python | 2026-09-19 | Open-source AI agent platform for building, deploying, and managing AI teammates. Role-based agents (PM, Engineer, Suppo |
+| 27 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 0 | Python | 2026-09-19 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
+| 28 | [vyact/vyact](https://github.com/vyact/vyact) | 45 | Python | 2026-09-19 | Vyact is an open-source, local-first personal AI workspace for llama.cpp, RAG, AI agents, document intelligence, and Goo |
+| 29 | [XAIHT/Tlamatini](https://github.com/XAIHT/Tlamatini) | 16 | Python | 2026-09-19 | Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a |
+| 30 | [api-evangelist/postgresml](https://github.com/api-evangelist/postgresml) | 0 | — | 2026-09-19 | PostgresML — independent third-party profile of a public API surface, by API Evangelist. PostgresML brings machine learn |
+| 31 | [suta9241/fast-rtxvsr](https://github.com/suta9241/fast-rtxvsr) | 0 | — | 2026-09-19 | Upscale video files in one GPU pass with NVIDIA RTX VSR, no ComfyUI or PNG roundtrips needed. |
+| 32 | [XIAOXUsop/amlagent](https://github.com/XIAOXUsop/amlagent) | 0 | Java | 2026-09-19 | 商业银行智能反洗钱尽调 Agent 平台 \| Java 21 + Spring Boot 3 + LangChain4j + RAG + 可靠任务队列 + 分层评测 |
+| 33 | [zig333/ELAI-archive](https://github.com/zig333/ELAI-archive) | 0 | — | 2026-09-19 | Explore abandoned agent-harness research for local-first, model-agnostic AI orchestration with verification and sandboxi |
+| 34 | [iyulab/FluxFeed](https://github.com/iyulab/FluxFeed) | 0 | C# | 2026-09-19 | .NET document ingestion pipeline for RAG — tracks a folder of files in a git-backed vault, extracts and chunks them, and |
+| 35 | [api-evangelist/pinecone](https://github.com/api-evangelist/pinecone) | 0 | — | 2026-09-19 | Pinecone — independent third-party profile of a public API surface, by API Evangelist. With its vector database at the c |
+| 36 | [DanielDeshmukh/vault](https://github.com/DanielDeshmukh/vault) | 0 | Python | 2026-09-19 | Enterprise knowledge retrieval with permission-aware RAG. Ask natural-language questions across scattered internal docs  |
+| 37 | [DanHerman212/enterprise_clinical_copilot](https://github.com/DanHerman212/enterprise_clinical_copilot) | 0 | Python | 2026-09-19 | AI application built to help healthcare professionals assess hospital readmission risk |
+| 38 | [netzen-abm/janavani](https://github.com/netzen-abm/janavani) | 0 | Python | 2026-09-19 | JanaVani is civic infrastructure for meaningful citizen participation connecting citizens with verified public authoriti |
+| 39 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 3273 | TypeScript | 2026-09-19 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & |
+| 40 | [freelancing31809169-art/geocheck](https://github.com/freelancing31809169-art/geocheck) | 0 | Go | 2026-09-19 | Detect your server's IP geolocation and measure direct network reachability with real-time diagnostics. |
+| 41 | [brittewestafrican981/ComfyUI-YinChao](https://github.com/brittewestafrican981/ComfyUI-YinChao) | 0 | Python | 2026-09-19 | Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf |
+| 42 | [neomjs/neo](https://github.com/neomjs/neo) | 3280 | JavaScript | 2026-09-19 | Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha |
+| 43 | [xerxespluperfect31/memoket-kite](https://github.com/xerxespluperfect31/memoket-kite) | 0 | — | 2026-09-19 | Turn conversations into structured, source-backed facts and answer questions with exact citations attached. |
+| 44 | [groundlens-dev/groundlens](https://github.com/groundlens-dev/groundlens) | 7 | Rust | 2026-09-19 | Groundlens is a verification engine with a Rust library wrapped for Python, with no runtime dependencies and no network  |
+| 45 | [Leewwp/OmniCraft](https://github.com/Leewwp/OmniCraft) | 1 | Go | 2026-09-19 | 万象工坊，一个以IP 二创内容聚合为核心流量底座、Agent 自动化为增值能力、GitHub 式 PR 协同为社区护城河的全民创意分享平台。 |
+| 46 | [nghqqa/MergePilot](https://github.com/nghqqa/MergePilot) | 2 | Python | 2026-09-19 | 多 Agent PR 审修闭环：webhook 自动触发审查/修复/验证，结论以 check run 回写 PR；高风险停人工门，无 merge 权限不越权。GOAI 2026 决赛项目。 |
+| 47 | [piyushgargog/ai-document-assistant](https://github.com/piyushgargog/ai-document-assistant) | 2 | Python | 2026-09-19 | A Retrieval-Augmented Generation (RAG) tool that answers questions about any PDF you upload, grounded strictly in the do |
+| 48 | [pepperveneer21/docling-rag-ingestion](https://github.com/pepperveneer21/docling-rag-ingestion) | 0 | TypeScript | 2026-09-19 | Convert raw documents into structured, RAG-ready Markdown and JSONL chunks using Docling and Backblaze B2 storage. |
+| 49 | [lesleyhalfbaked743/ComfyUI-FL-SeedVR2](https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2) | 2 | Python | 2026-09-19 | Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model. |
+| 50 | [api-evangelist/orama](https://github.com/api-evangelist/orama) | 0 | — | 2026-09-19 | Orama — independent third-party profile of a public API surface, by API Evangelist. Orama is an open-source, in-memory s |
 <!-- TRACKER_TABLE_END -->
 
 ---
