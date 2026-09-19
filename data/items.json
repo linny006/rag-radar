@@ -1,5 +1,68 @@
 [
   {
+    "description": "Ferramentas pequenas para a camada de agentes de IA: detecta skill envenenada e da validade temporal a base RAG. Zero de",
+    "id": "Abner-Machado/agent-layer",
+    "language": "JavaScript",
+    "name": "Abner-Machado/agent-layer",
+    "stars": 2,
+    "updated_at": "2026-09-19T21:15:46Z",
+    "url": "https://github.com/Abner-Machado/agent-layer"
+  },
+  {
+    "description": "Self-hosted AI assistant with voice satellites, 100+ tool integrations, RAG knowledge base, and full offline capability.",
+    "id": "ebongard/renfield",
+    "language": "Python",
+    "name": "ebongard/renfield",
+    "stars": 38,
+    "updated_at": "2026-09-19T21:15:43Z",
+    "url": "https://github.com/ebongard/renfield"
+  },
+  {
+    "description": "Private AI that works with your files.",
+    "id": "Frontierz-AI/Rebost",
+    "language": "Rust",
+    "name": "Frontierz-AI/Rebost",
+    "stars": 13,
+    "updated_at": "2026-09-19T21:15:50Z",
+    "url": "https://github.com/Frontierz-AI/Rebost"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T21:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T21:15:16Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
+    "id": "winstonkoh87/Athena-Public",
+    "language": "Python",
+    "name": "winstonkoh87/Athena-Public",
+    "stars": 589,
+    "updated_at": "2026-09-19T21:15:15Z",
+    "url": "https://github.com/winstonkoh87/Athena-Public"
+  },
+  {
+    "description": "\ud83d\udc19 AI Agent Pipeline routes queries by intent to docs, weather, or chat, with LangGraph, ChromaDB, and LangSmith for modu",
+    "id": "salems-3Dpov/ai-agent-pipeline",
+    "language": "Python",
+    "name": "salems-3Dpov/ai-agent-pipeline",
+    "stars": 2,
+    "updated_at": "2026-09-19T21:15:14Z",
+    "url": "https://github.com/salems-3Dpov/ai-agent-pipeline"
+  },
+  {
     "description": "\ud83d\udc19 FastAPI Journal Automation uses Gemini and Groq LLaMA to auto-create and enrich journal articles via CORE API, with Py",
     "id": "aligoraya202/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System",
     "language": "Python",
@@ -169,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T21:08:53Z",
     "url": "https://github.com/leonardoprimero/bruriah"
-  },
-  {
-    "description": "Athena is a local-first agentic PKM that helps you make better decisions with your own context \u2014 persistent memory, stru",
-    "id": "winstonkoh87/Athena-Public",
-    "language": "Python",
-    "name": "winstonkoh87/Athena-Public",
-    "stars": 589,
-    "updated_at": "2026-09-19T21:08:32Z",
-    "url": "https://github.com/winstonkoh87/Athena-Public"
   },
   {
     "description": "Streamlit demo of Scrapegraph-ai for GPT4-hackaton",
@@ -378,24 +432,6 @@
     "url": "https://github.com/ajschlosser/DerridAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T21:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T21:00:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\uddec RAGIX: Local-first development assistant making LLMs behave like disciplined engineers \u2013 Unix-RAG retrieval, sandboxed",
     "id": "ovitrac/RAGIX",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T20:59:53Z",
     "url": "https://github.com/F0xhopper/Peritus"
-  },
-  {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 3,
-    "updated_at": "2026-09-19T21:12:33Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
-  },
-  {
-    "description": "Chatbot administrable avec RAG (Qdrant) et tool-calling LLM r\u00e9el - backend Symfony/API Platform, frontend Nuxt/Vue, mod\u00e8",
-    "id": "maximejolivet/symfony-nuxt-ia-rag-chatbot",
-    "language": "PHP",
-    "name": "maximejolivet/symfony-nuxt-ia-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-19T20:57:03Z",
-    "url": "https://github.com/maximejolivet/symfony-nuxt-ia-rag-chatbot"
-  },
-  {
-    "description": "Embed build and release records, retrieve relevant evidence, and produce sourced operator diagnostics.",
-    "id": "AshtonBlake4015/devtools-release-diagnostics",
-    "language": "TypeScript",
-    "name": "AshtonBlake4015/devtools-release-diagnostics",
-    "stars": 0,
-    "updated_at": "2026-09-19T20:55:00Z",
-    "url": "https://github.com/AshtonBlake4015/devtools-release-diagnostics"
-  },
-  {
-    "description": "Production patterns for RAG pipelines, autonomous AI agents, multi-model orchestration with ChatGPT, Claude, and Gemini.",
-    "id": "Lucebrallc/awesome-llm-agents-rag-handbook",
-    "language": "\u2014",
-    "name": "Lucebrallc/awesome-llm-agents-rag-handbook",
-    "stars": 1,
-    "updated_at": "2026-09-19T20:54:41Z",
-    "url": "https://github.com/Lucebrallc/awesome-llm-agents-rag-handbook"
   }
 ]
