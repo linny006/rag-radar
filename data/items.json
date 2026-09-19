@@ -1,12 +1,66 @@
 [
   {
+    "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 fo",
+    "id": "xberg-io/xberg",
+    "language": "Rust",
+    "name": "xberg-io/xberg",
+    "stars": 9326,
+    "updated_at": "2026-09-19T16:30:08Z",
+    "url": "https://github.com/xberg-io/xberg"
+  },
+  {
+    "description": "An AI trading assistant with a RAG knowledge base, backtesting, and risk controls",
+    "id": "amithey/bot-trade",
+    "language": "Python",
+    "name": "amithey/bot-trade",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:30:07Z",
+    "url": "https://github.com/amithey/bot-trade"
+  },
+  {
     "description": "Multi-agent, RAG-powered copilot that investigates data pipeline incidents (key drift, duplicate submissions, schema dri",
     "id": "rahulramachandran-labs/reconmind",
     "language": "Python",
     "name": "rahulramachandran-labs/reconmind",
     "stars": 0,
-    "updated_at": "2026-09-19T16:28:58Z",
+    "updated_at": "2026-09-19T16:29:59Z",
     "url": "https://github.com/rahulramachandran-labs/reconmind"
+  },
+  {
+    "description": "Fully offline, on-device math tutor \u2014 RAG + Qwen2.5-Math on llama.cpp/GGUF. CPU-only, 7 GB RAM budget, zero cloud, GPL-3",
+    "id": "chuma-beep/tutor.gguf",
+    "language": "Go",
+    "name": "chuma-beep/tutor.gguf",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:30:07Z",
+    "url": "https://github.com/chuma-beep/tutor.gguf"
+  },
+  {
+    "description": "Retrieval over the EU Cyber Resilience Act with verifiable citations and a hard trust boundary between curated and commu",
+    "id": "bitorbiter/cra-assistant",
+    "language": "Python",
+    "name": "bitorbiter/cra-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:29:20Z",
+    "url": "https://github.com/bitorbiter/cra-assistant"
+  },
+  {
+    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
+    "id": "tale-project/tale",
+    "language": "TypeScript",
+    "name": "tale-project/tale",
+    "stars": 29,
+    "updated_at": "2026-09-19T16:29:35Z",
+    "url": "https://github.com/tale-project/tale"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:29:04Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source agentic workspace for professional knowledge work with project memory, client memory, skills, and knowledge ",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion",
     "stars": 2,
-    "updated_at": "2026-09-19T16:28:01Z",
+    "updated_at": "2026-09-19T16:29:02Z",
     "url": "https://github.com/HyxiaoGe/fusion"
   },
   {
@@ -117,21 +171,12 @@
     "url": "https://github.com/Mango-Teknusa-Inovasi/CMS-ScholarGate"
   },
   {
-    "description": "Retrieval over the EU Cyber Resilience Act with verifiable citations and a hard trust boundary between curated and commu",
-    "id": "bitorbiter/cra-assistant",
-    "language": "Python",
-    "name": "bitorbiter/cra-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:26:27Z",
-    "url": "https://github.com/bitorbiter/cra-assistant"
-  },
-  {
     "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
     "id": "yonatangross/orchestkit",
     "language": "TypeScript",
     "name": "yonatangross/orchestkit",
     "stars": 278,
-    "updated_at": "2026-09-19T16:26:48Z",
+    "updated_at": "2026-09-19T16:29:12Z",
     "url": "https://github.com/yonatangross/orchestkit"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "sankar-ramamoorthy/rag-foundry-universal",
     "stars": 5,
-    "updated_at": "2026-09-19T16:25:03Z",
+    "updated_at": "2026-09-19T16:29:15Z",
     "url": "https://github.com/sankar-ramamoorthy/rag-foundry-universal"
   },
   {
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "MetaBrain-Labs/EchoWave",
     "stars": 5,
-    "updated_at": "2026-09-19T16:22:39Z",
+    "updated_at": "2026-09-19T16:29:29Z",
     "url": "https://github.com/MetaBrain-Labs/EchoWave"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 21,
     "updated_at": "2026-09-19T16:19:08Z",
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
-  },
-  {
-    "description": "Groundlens is a verification engine with a Rust library wrapped for Python, with no runtime dependencies and no network ",
-    "id": "groundlens-dev/groundlens",
-    "language": "Rust",
-    "name": "groundlens-dev/groundlens",
-    "stars": 7,
-    "updated_at": "2026-09-19T16:19:05Z",
-    "url": "https://github.com/groundlens-dev/groundlens"
-  },
-  {
-    "description": "Voyant.io \u2014 independent third-party profile of a public API surface, by API Evangelist. Voyant.io is a brand-context pla",
-    "id": "api-evangelist/voyant",
-    "language": "\u2014",
-    "name": "api-evangelist/voyant",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:18:22Z",
-    "url": "https://github.com/api-evangelist/voyant"
-  },
-  {
-    "description": "Voyage AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Voyage AI builds state-of-the-ar",
-    "id": "api-evangelist/voyage-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/voyage-ai",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:18:21Z",
-    "url": "https://github.com/api-evangelist/voyage-ai"
-  },
-  {
-    "description": "Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP",
-    "id": "oigrex666/mcp-context-chronicler",
-    "language": "HTML",
-    "name": "oigrex666/mcp-context-chronicler",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:18:20Z",
-    "url": "https://github.com/oigrex666/mcp-context-chronicler"
-  },
-  {
-    "description": "Azure AI Cloud Developer Associate (AI-200) hands-on learning hub. A comprehensive workspace featuring cloud-native AI s",
-    "id": "Sreejesh06/Azure-Learning",
-    "language": "MDX",
-    "name": "Sreejesh06/Azure-Learning",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:18:00Z",
-    "url": "https://github.com/Sreejesh06/Azure-Learning"
   }
 ]
