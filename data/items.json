@@ -1,12 +1,12 @@
 [
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-20T22:55:39Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
+    "description": "Yu-Gi-Oh! OCG AI ruling and judge assistant\uff5c\u6e38\u620f\u738bAI\u88c1\u5b9a\u4e0e\u89c4\u5219\u95ee\u7b54\uff5c\u904a\u622f\u738bAI\u88c1\u5b9a\u30fb\u30eb\u30fc\u30eb\u8cea\u554f \u2014 official Q&A retrieval, RAG, multilingual.",
+    "id": "coldiceh/ocg-ruling-assistant",
+    "language": "JavaScript",
+    "name": "coldiceh/ocg-ruling-assistant",
+    "stars": 5,
+    "updated_at": "2026-09-20T23:00:04Z",
+    "url": "https://github.com/coldiceh/ocg-ruling-assistant"
   },
   {
     "description": "Autonomous AI agent framework \u2014 LangGraph brain, swarm orchestration, Arabic-first, with human-in-the-loop safety.",
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "Mubder/kazma",
     "stars": 6,
-    "updated_at": "2026-09-20T22:55:09Z",
+    "updated_at": "2026-09-20T22:59:35Z",
     "url": "https://github.com/Mubder/kazma"
+  },
+  {
+    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
+    "id": "fworks-tech/agenthood",
+    "language": "TypeScript",
+    "name": "fworks-tech/agenthood",
+    "stars": 4,
+    "updated_at": "2026-09-20T22:59:59Z",
+    "url": "https://github.com/fworks-tech/agenthood"
+  },
+  {
+    "description": "RAG copilot over battlecards and pricing, with an empirical vector-distance calibration harness and strict citation or r",
+    "id": "yashsabbavarapu/deal-intel-rag",
+    "language": "Python",
+    "name": "yashsabbavarapu/deal-intel-rag",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:59:02Z",
+    "url": "https://github.com/yashsabbavarapu/deal-intel-rag"
+  },
+  {
+    "description": "Three-tier agent memory (working buffer, decaying episodic vectors, persistent entity facts) behind a context budget com",
+    "id": "yashsabbavarapu/mem-core",
+    "language": "Python",
+    "name": "yashsabbavarapu/mem-core",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:58:54Z",
+    "url": "https://github.com/yashsabbavarapu/mem-core"
+  },
+  {
+    "description": "A shared AI agent for your team. Everyone trains it together; everyone talks to it privately. Self-hostable, AGPL-3.0.",
+    "id": "covan-ai/covan",
+    "language": "TypeScript",
+    "name": "covan-ai/covan",
+    "stars": 21,
+    "updated_at": "2026-09-20T22:58:44Z",
+    "url": "https://github.com/covan-ai/covan"
+  },
+  {
+    "description": "Hybrid neuro-symbolic AI: Llama 3.2 1B + exact math + verified facts \u2014 instant CPU-native answers in 807 MB, no GPU. Sea",
+    "id": "Simonc44/aura-1b",
+    "language": "Python",
+    "name": "Simonc44/aura-1b",
+    "stars": 1,
+    "updated_at": "2026-09-20T22:58:26Z",
+    "url": "https://github.com/Simonc44/aura-1b"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 5155,
+    "updated_at": "2026-09-20T22:58:11Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
+    "description": "\ud83d\udc0d Django middleware that explains unhandled exceptions in DEBUG using an LLM, optionally grounded in your own project so",
+    "id": "topunix/django-explain-errors",
+    "language": "Python",
+    "name": "topunix/django-explain-errors",
+    "stars": 0,
+    "updated_at": "2026-09-20T22:56:32Z",
+    "url": "https://github.com/topunix/django-explain-errors"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T22:56:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-20T22:55:39Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Rerank, filter, and compress JSON search results with TypeSafe AI's Jev.",
@@ -77,7 +158,7 @@
     "language": "Rust",
     "name": "Venere-Labs/ragfs",
     "stars": 13,
-    "updated_at": "2026-09-20T22:52:43Z",
+    "updated_at": "2026-09-20T22:59:17Z",
     "url": "https://github.com/Venere-Labs/ragfs"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/Raxorr/ragornot"
   },
   {
-    "description": "A society of AI agents with impeccable standards and zero tolerance for 'fix stuff' commits.",
-    "id": "fworks-tech/agenthood",
-    "language": "TypeScript",
-    "name": "fworks-tech/agenthood",
-    "stars": 4,
-    "updated_at": "2026-09-20T22:49:47Z",
-    "url": "https://github.com/fworks-tech/agenthood"
-  },
-  {
     "description": "Reliability layer for multi-agent setups \u2014 keep agents coordinating without an orchestrator. Cross-dialog contracts + dr",
     "id": "chunxiaoxx/nautilus-compass",
     "language": "Python",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T22:48:02Z",
     "url": "https://github.com/ScottColeSW/Palimpsest"
-  },
-  {
-    "description": "\ud83d\udc0d Django middleware that explains unhandled exceptions in DEBUG using an LLM, optionally grounded in your own project so",
-    "id": "topunix/django-explain-errors",
-    "language": "Python",
-    "name": "topunix/django-explain-errors",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:53:45Z",
-    "url": "https://github.com/topunix/django-explain-errors"
   },
   {
     "description": "AI Agent\u3092\u7406\u89e3\u304b\u3089\u8a2d\u8a08\u30fb\u5b9f\u88c5\u30fb\u8a55\u4fa1\u30fb\u904b\u7528\u307e\u3067\u5b66\u3076\u65e5\u672c\u8a9e\u30e9\u30a4\u30d6\u30e9\u30ea\u3002199\u8a18\u4e8b\u30fb16\u7ae0\u3001API\u30ad\u30fc\u4e0d\u8981\u306e\u30e2\u30c3\u30af\u5bfe\u5fdcPython\u30b5\u30f3\u30d7\u30eb\u3001\u691c\u7d22\u30fb\u4f9d\u5b58\u30de\u30c3\u30d7\u30fb\u97f3\u58f0\u5b66\u7fd2\u3092\u53ce\u9332\u3002",
@@ -225,15 +288,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T22:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It us",
     "id": "NirDiamant/Controllable-RAG-Agent",
     "language": "Jupyter Notebook",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 1,
-    "updated_at": "2026-09-20T22:52:42Z",
+    "updated_at": "2026-09-20T22:58:53Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -302,7 +356,7 @@
     "language": "JavaScript",
     "name": "stuinfla/ruvnet-brain",
     "stars": 68,
-    "updated_at": "2026-09-20T22:50:06Z",
+    "updated_at": "2026-09-20T22:59:52Z",
     "url": "https://github.com/stuinfla/ruvnet-brain"
   },
   {
@@ -365,17 +419,8 @@
     "language": "Python",
     "name": "caura-ai/caura",
     "stars": 528,
-    "updated_at": "2026-09-20T22:54:03Z",
+    "updated_at": "2026-09-20T22:58:15Z",
     "url": "https://github.com/caura-ai/caura"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 5155,
-    "updated_at": "2026-09-20T22:56:12Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
     "description": "A Retrieval-Augmented Generation application for answering employee policy questions using ChromaDB, Sentence Transforme",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T22:36:35Z",
     "url": "https://github.com/jahfaliabdulrahman-dev/rajhi-rag"
-  },
-  {
-    "description": "AI reliability copilot for synthetic service telemetry with runbook retrieval, log analytics, anomaly detection and inci",
-    "id": "tusharg007/ai-platform-reliability-copilot",
-    "language": "Python",
-    "name": "tusharg007/ai-platform-reliability-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:34:55Z",
-    "url": "https://github.com/tusharg007/ai-platform-reliability-copilot"
-  },
-  {
-    "description": "Bilingual engineering portfolio with three working LLM tools and a self-hosted, fine-tuned Gemma assistant: RAG groundin",
-    "id": "smartbulldog-pro/VKV_Studio_com",
-    "language": "TypeScript",
-    "name": "smartbulldog-pro/VKV_Studio_com",
-    "stars": 0,
-    "updated_at": "2026-09-20T22:34:55Z",
-    "url": "https://github.com/smartbulldog-pro/VKV_Studio_com"
-  },
-  {
-    "description": "Full-text and semantic search on any Postgres",
-    "id": "ChuckHend/pg_vectorize",
-    "language": "Rust",
-    "name": "ChuckHend/pg_vectorize",
-    "stars": 832,
-    "updated_at": "2026-09-20T22:34:08Z",
-    "url": "https://github.com/ChuckHend/pg_vectorize"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 94337,
-    "updated_at": "2026-09-20T22:33:28Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Musubi (\u7d50\u3073) \u2014 Ai Agent shared memory and thought layer. The braiding of threads between presences.",
-    "id": "ericmey/musubi",
-    "language": "Python",
-    "name": "ericmey/musubi",
-    "stars": 6,
-    "updated_at": "2026-09-20T22:48:49Z",
-    "url": "https://github.com/ericmey/musubi"
   }
 ]
