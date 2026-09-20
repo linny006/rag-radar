@@ -1,12 +1,75 @@
 [
   {
-    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
-    "id": "aureliocpr-ctrl/verimem",
+    "description": "The Next-Gen Database for AI\u2014an infrastructure designed for data and AI. As the MySQL of the AI era.",
+    "id": "Shannon-Data/ShannonBase",
+    "language": "C++",
+    "name": "Shannon-Data/ShannonBase",
+    "stars": 191,
+    "updated_at": "2026-09-20T11:48:36Z",
+    "url": "https://github.com/Shannon-Data/ShannonBase"
+  },
+  {
+    "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
+    "id": "aashutosh585/chatpdf",
+    "language": "JavaScript",
+    "name": "aashutosh585/chatpdf",
+    "stars": 0,
+    "updated_at": "2026-09-20T11:48:22Z",
+    "url": "https://github.com/aashutosh585/chatpdf"
+  },
+  {
+    "description": "WEG-Verwaltung \u2014 design-first portfolio (Next.js 16 + FastAPI + Supabase + LangGraph)",
+    "id": "ucarsinan/weg-verwaltung",
+    "language": "TypeScript",
+    "name": "ucarsinan/weg-verwaltung",
+    "stars": 0,
+    "updated_at": "2026-09-20T11:48:18Z",
+    "url": "https://github.com/ucarsinan/weg-verwaltung"
+  },
+  {
+    "description": "Give your AI agent eyes for PDFs \u2014 structured text, tables, OCR, visual evidence, and page-level citations via MCP. Nati",
+    "id": "SylphxAI/pdf-reader-mcp",
+    "language": "TypeScript",
+    "name": "SylphxAI/pdf-reader-mcp",
+    "stars": 935,
+    "updated_at": "2026-09-20T11:47:56Z",
+    "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+  },
+  {
+    "description": "Adaptive learning platform with 8 ML models, LLM+RAG assistant, and personalized learning paths. Python \u00b7 Flask \u00b7 Postgr",
+    "id": "qamarsobhy7-source/Smart-Knowledge-Gap-System",
     "language": "Python",
-    "name": "aureliocpr-ctrl/verimem",
-    "stars": 3,
-    "updated_at": "2026-09-20T11:45:07Z",
-    "url": "https://github.com/aureliocpr-ctrl/verimem"
+    "name": "qamarsobhy7-source/Smart-Knowledge-Gap-System",
+    "stars": 0,
+    "updated_at": "2026-09-20T11:47:32Z",
+    "url": "https://github.com/qamarsobhy7-source/Smart-Knowledge-Gap-System"
+  },
+  {
+    "description": "Composable memory pipeline for AI agents. 21 storage adapters, unified interface, token-budgeted context assembly. Publi",
+    "id": "isiomaC/memstack",
+    "language": "TypeScript",
+    "name": "isiomaC/memstack",
+    "stars": 0,
+    "updated_at": "2026-09-20T11:47:41Z",
+    "url": "https://github.com/isiomaC/memstack"
+  },
+  {
+    "description": "Local-first MCP memory server for AI coding agents with compact retrieval and project/global scopes.",
+    "id": "Lexus2016/turbo_quant_memory",
+    "language": "Python",
+    "name": "Lexus2016/turbo_quant_memory",
+    "stars": 9,
+    "updated_at": "2026-09-20T11:47:04Z",
+    "url": "https://github.com/Lexus2016/turbo_quant_memory"
+  },
+  {
+    "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, ",
+    "id": "PersonalClaw/PersonalClaw",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClaw",
+    "stars": 5,
+    "updated_at": "2026-09-20T11:46:56Z",
+    "url": "https://github.com/PersonalClaw/PersonalClaw"
   },
   {
     "description": "\u0411\u0435\u043d\u0447\u043c\u0430\u0440\u043a \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0437\u0430\u043a\u043e\u043d\u0430\u043c \u0420\u0424 (MTEB-\u0444\u043e\u0440\u043c\u0430\u0442) \u0438 \u0434\u043e\u043e\u0431\u0443\u0447\u0435\u043d\u043d\u0430\u044f multilingual-e5-small: +0.043 nDCG@10 \u0437\u0430 3.9 \u043c\u0438\u043d \u043d\u0430 RTX 3070, ",
@@ -14,8 +77,44 @@
     "language": "Python",
     "name": "alekseevpavel04/ru-law-retrieval",
     "stars": 0,
-    "updated_at": "2026-09-20T11:44:21Z",
+    "updated_at": "2026-09-20T11:46:28Z",
     "url": "https://github.com/alekseevpavel04/ru-law-retrieval"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 406,
+    "updated_at": "2026-09-20T11:47:04Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-20T11:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T11:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of halluc",
+    "id": "aureliocpr-ctrl/verimem",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/verimem",
+    "stars": 3,
+    "updated_at": "2026-09-20T11:45:07Z",
+    "url": "https://github.com/aureliocpr-ctrl/verimem"
   },
   {
     "description": "\u4e00\u4e2a\u57fa\u4e8e NoneBot2, OneBot v11, Docker, and OpenAI-compatible LLM APIs \u7684 QQ\u804a\u5929 AI agent",
@@ -45,13 +144,13 @@
     "url": "https://github.com/pwolfey09-sketch/embedflow"
   },
   {
-    "description": "Adaptive learning platform with 8 ML models, LLM+RAG assistant, and personalized learning paths. Python \u00b7 Flask \u00b7 Postgr",
-    "id": "qamarsobhy7-source/Smart-Knowledge-Gap-System",
-    "language": "Python",
-    "name": "qamarsobhy7-source/Smart-Knowledge-Gap-System",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:43:44Z",
-    "url": "https://github.com/qamarsobhy7-source/Smart-Knowledge-Gap-System"
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m",
+    "id": "Tencent/WeKnora",
+    "language": "Go",
+    "name": "Tencent/WeKnora",
+    "stars": 27799,
+    "updated_at": "2026-09-20T11:44:01Z",
+    "url": "https://github.com/Tencent/WeKnora"
   },
   {
     "description": "Guardian of Truth: LLM hallucination detector with Groq API, Scikit-learn classifier & SQLite caching",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T11:36:35Z",
     "url": "https://github.com/vishalgoyal25/TheKnowledgeOrbits"
-  },
-  {
-    "description": "Production Terraform and Python RAG template for private VPC-isolated document intelligence using AWS Bedrock & PGVector",
-    "id": "adaptnxt/aws-bedrock-vpc-rag-template",
-    "language": "Python",
-    "name": "adaptnxt/aws-bedrock-vpc-rag-template",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:36:16Z",
-    "url": "https://github.com/adaptnxt/aws-bedrock-vpc-rag-template"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 28,
-    "updated_at": "2026-09-20T11:36:12Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:36:03Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m",
-    "id": "Tencent/WeKnora",
-    "language": "Go",
-    "name": "Tencent/WeKnora",
-    "stars": 27798,
-    "updated_at": "2026-09-20T11:44:01Z",
-    "url": "https://github.com/Tencent/WeKnora"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:35:58Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.",
-    "id": "Marker-Inc-Korea/AutoRAG",
-    "language": "TypeScript",
-    "name": "Marker-Inc-Korea/AutoRAG",
-    "stars": 5074,
-    "updated_at": "2026-09-20T11:35:57Z",
-    "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
-  },
-  {
-    "description": "Source code for LebLibrary \u2013 a full-stack Torah library and article platform. Built with Python, Django, and integrated ",
-    "id": "mole28/leblibrary",
-    "language": "Python",
-    "name": "mole28/leblibrary",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:35:55Z",
-    "url": "https://github.com/mole28/leblibrary"
-  },
-  {
-    "description": "Build RAG systems to combine large language models with external documents for accurate, grounded, and factual responses",
-    "id": "yeicaicedo-19/What-Is-RAG",
-    "language": "Jupyter Notebook",
-    "name": "yeicaicedo-19/What-Is-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:35:33Z",
-    "url": "https://github.com/yeicaicedo-19/What-Is-RAG"
-  },
-  {
-    "description": "Enterprise-grade IT Service Management (ITSM) platform built with .NET 8, Clean Architecture, PostgreSQL, and an AI Copi",
-    "id": "Berkaybbayramoglu/dotnet-enterprise-itsm",
-    "language": "C#",
-    "name": "Berkaybbayramoglu/dotnet-enterprise-itsm",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:35:30Z",
-    "url": "https://github.com/Berkaybbayramoglu/dotnet-enterprise-itsm"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-09-20T11:35:23Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "\u5f00\u6e90\u79c1\u57df AI \u8425\u9500 SCRM \u7cfb\u7edf\uff0cMartech \u83b7\u5ba2\u5f15\u6d41\u5229\u5668\uff01\u5168\u6e20\u9053\u805a\u5408\uff08\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u5feb\u624b/\u5fae\u4fe1/WhatsApp/TikTok/Telegram\uff09\u7edf\u4e00\u6536\u4ef6\u7bb1\u4e0e CDP \u5ba2\u6237\u7ba1\u7406\u3002\ud83e\udd16\u6838\u5fc3\u529f\u80fd\uff1a1. ReAct \u81ea\u4e3b AI \u667a\u80fd\u4f53\uff084",
-    "id": "xiaofang142/hivemtk",
-    "language": "Go",
-    "name": "xiaofang142/hivemtk",
-    "stars": 64,
-    "updated_at": "2026-09-20T11:34:53Z",
-    "url": "https://github.com/xiaofang142/hivemtk"
   }
 ]
