@@ -1,5 +1,32 @@
 [
   {
+    "description": "5 Viral AI Projects 2026 - RAG Chatbot, Image Studio, Code Reviewer, Voice Clone, AI Agents | PRD TRD Architecture SKILL",
+    "id": "vortexpwn09-netizen/AI-Trending-Projects-2026",
+    "language": "PowerShell",
+    "name": "vortexpwn09-netizen/AI-Trending-Projects-2026",
+    "stars": 1,
+    "updated_at": "2026-09-20T18:15:14Z",
+    "url": "https://github.com/vortexpwn09-netizen/AI-Trending-Projects-2026"
+  },
+  {
+    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
+    "id": "tale-project/tale",
+    "language": "TypeScript",
+    "name": "tale-project/tale",
+    "stars": 29,
+    "updated_at": "2026-09-20T18:15:03Z",
+    "url": "https://github.com/tale-project/tale"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T18:14:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "One memory, many intelligences. A persistent, model-independent memory engine \u2014 local-first, zero dependencies.",
     "id": "Nulfied/Chitraq",
     "language": "JavaScript",
@@ -126,15 +153,6 @@
     "url": "https://github.com/roraks24/genai-learning-journey"
   },
   {
-    "description": "5 Viral AI Projects 2026 - RAG Chatbot, Image Studio, Code Reviewer, Voice Clone, AI Agents | PRD TRD Architecture SKILL",
-    "id": "vortexpwn09-netizen/AI-Trending-Projects-2026",
-    "language": "PowerShell",
-    "name": "vortexpwn09-netizen/AI-Trending-Projects-2026",
-    "stars": 1,
-    "updated_at": "2026-09-20T18:09:01Z",
-    "url": "https://github.com/vortexpwn09-netizen/AI-Trending-Projects-2026"
-  },
-  {
     "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -214,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-09-20T18:07:46Z",
     "url": "https://github.com/salimfk619-jpg/open-ai-ecosystem"
-  },
-  {
-    "description": "The Orchestrator for AI Agents \u2014 Connect OpenClaw, Hermes Agent, Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Pi, a",
-    "id": "tale-project/tale",
-    "language": "TypeScript",
-    "name": "tale-project/tale",
-    "stars": 29,
-    "updated_at": "2026-09-20T18:07:11Z",
-    "url": "https://github.com/tale-project/tale"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -376,15 +385,6 @@
     "stars": 3,
     "updated_at": "2026-09-20T18:00:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T18:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Your AI pair programmer for Visual Studio 2022/2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with ",
