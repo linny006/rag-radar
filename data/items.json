@@ -1,5 +1,59 @@
 [
   {
+    "description": "Bilingual (EN/AR) AI-powered audit & accounting academy \u2014 AI tutor with RAG, industry risk analyst, engagement workspace",
+    "id": "mahmoudmohamedxx1-hue/auditedge",
+    "language": "TypeScript",
+    "name": "mahmoudmohamedxx1-hue/auditedge",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:17:01Z",
+    "url": "https://github.com/mahmoudmohamedxx1-hue/auditedge"
+  },
+  {
+    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
+    "id": "thekaveh/NNx",
+    "language": "Python",
+    "name": "thekaveh/NNx",
+    "stars": 2,
+    "updated_at": "2026-09-22T00:16:56Z",
+    "url": "https://github.com/thekaveh/NNx"
+  },
+  {
+    "description": "Option-ready retrieval for decision models on the CloudBTL landing layer",
+    "id": "cloudbtl/JevRAG",
+    "language": "Python",
+    "name": "cloudbtl/JevRAG",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:16:03Z",
+    "url": "https://github.com/cloudbtl/JevRAG"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T00:16:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 28,
+    "updated_at": "2026-09-22T00:15:56Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Typed legal matter intake, signed document follow-up, and embedding search in Python.",
+    "id": "ThomasMoore7456/legal-matter-embedding-followup-embeddings-legaltech-python-",
+    "language": "Python",
+    "name": "ThomasMoore7456/legal-matter-embedding-followup-embeddings-legaltech-python-",
+    "stars": 0,
+    "updated_at": "2026-09-22T00:15:55Z",
+    "url": "https://github.com/ThomasMoore7456/legal-matter-embedding-followup-embeddings-legaltech-python-"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/timgordontg/engrim"
   },
   {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 28,
-    "updated_at": "2026-09-22T00:15:56Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
     "id": "The-Geek-Freaks/NEOTH",
     "language": "Rust",
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "rjwrld/tramitico",
     "stars": 0,
-    "updated_at": "2026-09-22T00:12:48Z",
+    "updated_at": "2026-09-22T00:16:40Z",
     "url": "https://github.com/rjwrld/tramitico"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/owais265/ManakMitra"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T00:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Dxrk Ecosystem Configurator \u2014 supercharge AI coding agents",
     "id": "Dxrk777/Dxrk",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T23:59:23Z",
     "url": "https://github.com/JasonTM17/CampusUTE_Kotlin_Project"
-  },
-  {
-    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
-    "id": "thekaveh/NNx",
-    "language": "Python",
-    "name": "thekaveh/NNx",
-    "stars": 2,
-    "updated_at": "2026-09-22T00:12:06Z",
-    "url": "https://github.com/thekaveh/NNx"
   },
   {
     "description": "\u8de8\u6027\u522b\u4e0e\u6027\u5c11\u6570\u4e2d\u6587 wiki \u7684\u8bed\u4e49\u68c0\u7d22\uff1a\u628a MtF Wiki\u3001FtM Wiki\u3001RLE Wiki\u3001Mio MtF Wiki \u56db\u90e8\u77e5\u8bc6\u5e93\u805a\u5408\u6210\u4e00\u4e2a\u641c\u7d22\u6846\uff0c \u5411\u91cf\u68c0\u7d22 + \u4e8c\u6b21\u91cd\u6392\uff0c\u7ed3\u679c\u76f4\u8fbe\u539f\u6587\u3002\u5168\u7ad9\u8dd1\u5728 Cloudflare\uff08Workers",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T23:55:28Z",
     "url": "https://github.com/JasonTM17/Language_Kotlin_App"
-  },
-  {
-    "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
-    "id": "totobusnello/memoria-nox",
-    "language": "Python",
-    "name": "totobusnello/memoria-nox",
-    "stars": 1,
-    "updated_at": "2026-09-21T23:55:26Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
-  },
-  {
-    "description": "An autonomous research organization: agents that do grounded research, test hypotheses with runnable falsifiers, and kee",
-    "id": "DanceNitra/agora",
-    "language": "Python",
-    "name": "DanceNitra/agora",
-    "stars": 3,
-    "updated_at": "2026-09-21T23:53:22Z",
-    "url": "https://github.com/DanceNitra/agora"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 32193,
-    "updated_at": "2026-09-22T00:07:02Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
   }
 ]
