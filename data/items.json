@@ -1,10 +1,109 @@
 [
   {
+    "description": "A FastAPI-based multi-tenant SaaS platform that lets any organisation create its own AI agent in minutes. A tenant is ab",
+    "id": "ak6062042-commits/ai_agent_factory",
+    "language": "Python",
+    "name": "ak6062042-commits/ai_agent_factory",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:48:58Z",
+    "url": "https://github.com/ak6062042-commits/ai_agent_factory"
+  },
+  {
+    "description": "Evidence-first workspace intelligence for long-lived document collections",
+    "id": "sandeepbist/Certus",
+    "language": "Python",
+    "name": "sandeepbist/Certus",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:48:58Z",
+    "url": "https://github.com/sandeepbist/Certus"
+  },
+  {
+    "description": "Plugin jur\u00eddico para Claude Code com Skills processuais, RAG legislativo h\u00edbrido, valida\u00e7\u00e3o de cita\u00e7\u00f5es, proveni\u00eancia fa",
+    "id": "lmgentil/ede-legal-plugin",
+    "language": "Python",
+    "name": "lmgentil/ede-legal-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:48:41Z",
+    "url": "https://github.com/lmgentil/ede-legal-plugin"
+  },
+  {
+    "description": "Open Source Deterministic Coding Agents & Open Weights Model Inference",
+    "id": "GGChamp85/keystone",
+    "language": "Python",
+    "name": "GGChamp85/keystone",
+    "stars": 1,
+    "updated_at": "2026-09-22T23:48:26Z",
+    "url": "https://github.com/GGChamp85/keystone"
+  },
+  {
+    "description": "AI cryptography advisor \u2014 RAG-powered chat over 97 algorithms with Llama 3.1 via Groq. Ask about security bits, post-qua",
+    "id": "systemslibrarian/crypto-counsel",
+    "language": "TypeScript",
+    "name": "systemslibrarian/crypto-counsel",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:47:46Z",
+    "url": "https://github.com/systemslibrarian/crypto-counsel"
+  },
+  {
+    "description": "A benchmark measuring whether AI answers to safety-critical technical questions are grounded in authoritative sources or",
+    "id": "priyatham9/ehs-ai-grounding-eval",
+    "language": "Python",
+    "name": "priyatham9/ehs-ai-grounding-eval",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:47:31Z",
+    "url": "https://github.com/priyatham9/ehs-ai-grounding-eval"
+  },
+  {
+    "description": "True, false, or never even claimed \u2014 independently checks an LLM's claims about a document, in batch, deployed as isolat",
+    "id": "QA-AU/claim-validator",
+    "language": "Python",
+    "name": "QA-AU/claim-validator",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:46:32Z",
+    "url": "https://github.com/QA-AU/claim-validator"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-09-22T23:45:50Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "NYC High School AI Application Navigator",
+    "id": "neinna/AdmitDay",
+    "language": "TypeScript",
+    "name": "neinna/AdmitDay",
+    "stars": 0,
+    "updated_at": "2026-09-22T23:45:43Z",
+    "url": "https://github.com/neinna/AdmitDay"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T23:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T23:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
     "id": "WenyuChiou/awesome-agentic-ai-zh",
     "language": "Python",
     "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7144,
+    "stars": 7145,
     "updated_at": "2026-09-22T23:44:58Z",
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
@@ -54,15 +153,6 @@
     "url": "https://github.com/emqnuele/projectBEA"
   },
   {
-    "description": "A benchmark measuring whether AI answers to safety-critical technical questions are grounded in authoritative sources or",
-    "id": "priyatham9/ehs-ai-grounding-eval",
-    "language": "Python",
-    "name": "priyatham9/ehs-ai-grounding-eval",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:43:22Z",
-    "url": "https://github.com/priyatham9/ehs-ai-grounding-eval"
-  },
-  {
     "description": "One video intelligence app built three ways, on Pixeltable, Supabase and Convex. Every number measured, all three execut",
     "id": "pixeltable/pixeltable-vs-supabase-vs-convex",
     "language": "Python",
@@ -70,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T23:42:29Z",
     "url": "https://github.com/pixeltable/pixeltable-vs-supabase-vs-convex"
-  },
-  {
-    "description": "Evidence-first workspace intelligence for long-lived document collections",
-    "id": "sandeepbist/Certus",
-    "language": "Python",
-    "name": "sandeepbist/Certus",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:42:05Z",
-    "url": "https://github.com/sandeepbist/Certus"
   },
   {
     "description": "Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents.",
@@ -97,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-09-22T23:40:46Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
-  },
-  {
-    "description": "AI cryptography advisor \u2014 RAG-powered chat over 97 algorithms with Llama 3.1 via Groq. Ask about security bits, post-qua",
-    "id": "systemslibrarian/crypto-counsel",
-    "language": "TypeScript",
-    "name": "systemslibrarian/crypto-counsel",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:40:15Z",
-    "url": "https://github.com/systemslibrarian/crypto-counsel"
-  },
-  {
-    "description": "A FastAPI-based multi-tenant SaaS platform that lets any organisation create its own AI agent in minutes. A tenant is ab",
-    "id": "ak6062042-commits/ai_agent_factory",
-    "language": "Python",
-    "name": "ak6062042-commits/ai_agent_factory",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:39:49Z",
-    "url": "https://github.com/ak6062042-commits/ai_agent_factory"
   },
   {
     "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbat",
@@ -185,7 +248,7 @@
     "language": "JavaScript",
     "name": "pulseforgeatmns-ops/pulseforge-leadgen",
     "stars": 0,
-    "updated_at": "2026-09-22T23:37:55Z",
+    "updated_at": "2026-09-22T23:46:12Z",
     "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
   },
   {
@@ -268,15 +331,6 @@
     "stars": 8,
     "updated_at": "2026-09-22T23:35:29Z",
     "url": "https://github.com/alphabet-h/grooveseek"
-  },
-  {
-    "description": "NYC High School AI Application Navigator",
-    "id": "neinna/AdmitDay",
-    "language": "TypeScript",
-    "name": "neinna/AdmitDay",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:40:19Z",
-    "url": "https://github.com/neinna/AdmitDay"
   },
   {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
@@ -373,7 +427,7 @@
     "id": "SenteLabsAI/OpenExecutive",
     "language": "Python",
     "name": "SenteLabsAI/OpenExecutive",
-    "stars": 5142,
+    "stars": 5144,
     "updated_at": "2026-09-22T23:31:51Z",
     "url": "https://github.com/SenteLabsAI/OpenExecutive"
   },
@@ -383,7 +437,7 @@
     "language": "Rust",
     "name": "smoketurner/quack",
     "stars": 0,
-    "updated_at": "2026-09-22T23:39:44Z",
+    "updated_at": "2026-09-22T23:46:12Z",
     "url": "https://github.com/smoketurner/quack"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 558,
     "updated_at": "2026-09-22T23:31:46Z",
     "url": "https://github.com/EvotecIT/OfficeIMO"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T23:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T23:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Serverless RAG assistant on Cloudflare (Workers AI + Vectorize). Ask questions grounded in your own documents. LLM integ",
-    "id": "juanberrio0399/serverless-rag-assistant",
-    "language": "JavaScript",
-    "name": "juanberrio0399/serverless-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:30:07Z",
-    "url": "https://github.com/juanberrio0399/serverless-rag-assistant"
-  },
-  {
-    "description": "Upload sources, chat with them, and trace every statement in an answer back to the passage it came from. Next.js, NestJS",
-    "id": "Demonisreal/notebooklm-clone",
-    "language": "TypeScript",
-    "name": "Demonisreal/notebooklm-clone",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:30:04Z",
-    "url": "https://github.com/Demonisreal/notebooklm-clone"
-  },
-  {
-    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAn",
-    "id": "EtanHey/brainlayer",
-    "language": "Python",
-    "name": "EtanHey/brainlayer",
-    "stars": 9,
-    "updated_at": "2026-09-22T23:36:22Z",
-    "url": "https://github.com/EtanHey/brainlayer"
-  },
-  {
-    "description": "Plugin jur\u00eddico para Claude Code com Skills processuais, RAG legislativo h\u00edbrido, valida\u00e7\u00e3o de cita\u00e7\u00f5es, proveni\u00eancia fa",
-    "id": "lmgentil/ede-legal-plugin",
-    "language": "Python",
-    "name": "lmgentil/ede-legal-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:29:25Z",
-    "url": "https://github.com/lmgentil/ede-legal-plugin"
   }
 ]
