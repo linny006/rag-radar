@@ -1,5 +1,140 @@
 [
   {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19432,
+    "updated_at": "2026-09-23T18:15:11Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "Quant-Based Stock Ranking, Orchestration of AI Assistants, ZF Financial Blockchain",
+    "id": "apod-1/ZoltarFinancial",
+    "language": "Python",
+    "name": "apod-1/ZoltarFinancial",
+    "stars": 3,
+    "updated_at": "2026-09-23T18:15:07Z",
+    "url": "https://github.com/apod-1/ZoltarFinancial"
+  },
+  {
+    "description": "An end to end implementation of RAG from scratch",
+    "id": "yashpandey474/Atlas-End-to-End-RAG",
+    "language": "Python",
+    "name": "yashpandey474/Atlas-End-to-End-RAG",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:15:02Z",
+    "url": "https://github.com/yashpandey474/Atlas-End-to-End-RAG"
+  },
+  {
+    "description": "Explain, monitor, and improve Anthropic prompt caching in applications using tools for cache control, analysis, and real",
+    "id": "Arsenalfleer78/prompt-caching",
+    "language": "TypeScript",
+    "name": "Arsenalfleer78/prompt-caching",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:14:58Z",
+    "url": "https://github.com/Arsenalfleer78/prompt-caching"
+  },
+  {
+    "description": "Decision-support tool that recommends the cheapest GenAI refinement level (prompt/RAG/agent/fine-tune) that clears a use",
+    "id": "rupeshpoojary9/genai-refinement-advisor",
+    "language": "Python",
+    "name": "rupeshpoojary9/genai-refinement-advisor",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:14:58Z",
+    "url": "https://github.com/rupeshpoojary9/genai-refinement-advisor"
+  },
+  {
+    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
+    "id": "decided-indication109/AI-Engineer-in-90-Days",
+    "language": "Mermaid",
+    "name": "decided-indication109/AI-Engineer-in-90-Days",
+    "stars": 2,
+    "updated_at": "2026-09-23T18:14:49Z",
+    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
+  },
+  {
+    "description": "Ask your vault \u2014 RAG Q&A over private docs on K3s",
+    "id": "benzac708/askvault",
+    "language": "Python",
+    "name": "benzac708/askvault",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:14:43Z",
+    "url": "https://github.com/benzac708/askvault"
+  },
+  {
+    "description": "Streamline neural data processing by providing tools for efficient analysis, visualization, and management of synaptic a",
+    "id": "timot860/SynapseKit",
+    "language": "Python",
+    "name": "timot860/SynapseKit",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:14:41Z",
+    "url": "https://github.com/timot860/SynapseKit"
+  },
+  {
+    "description": "Enable quick MCP service deployment for OpenClaw by wrapping Coze workflows as skills without environment setup or compl",
+    "id": "genusscardiniuslaugh243/coze-mcp-for-openclaw",
+    "language": "\u2014",
+    "name": "genusscardiniuslaugh243/coze-mcp-for-openclaw",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:14:24Z",
+    "url": "https://github.com/genusscardiniuslaugh243/coze-mcp-for-openclaw"
+  },
+  {
+    "description": "Long-term memory for AI.",
+    "id": "cucupac/shellbrain",
+    "language": "Python",
+    "name": "cucupac/shellbrain",
+    "stars": 13,
+    "updated_at": "2026-09-23T18:14:08Z",
+    "url": "https://github.com/cucupac/shellbrain"
+  },
+  {
+    "description": "Provide AI agents with long-term memory using a neuroscience-based knowledge graph and Model Context Protocol for improv",
+    "id": "gbh3247872997-del/cuba-memorys",
+    "language": "Rust",
+    "name": "gbh3247872997-del/cuba-memorys",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:13:50Z",
+    "url": "https://github.com/gbh3247872997-del/cuba-memorys"
+  },
+  {
+    "description": "A Java API for Docling",
+    "id": "docling-project/docling-java",
+    "language": "Java",
+    "name": "docling-project/docling-java",
+    "stars": 136,
+    "updated_at": "2026-09-23T18:15:11Z",
+    "url": "https://github.com/docling-project/docling-java"
+  },
+  {
+    "description": "Build and manage lightweight terminal workspaces using Volt, a fast, low-memory alternative to VSCode built with native ",
+    "id": "Ettyunfretted119/volt",
+    "language": "\u2014",
+    "name": "Ettyunfretted119/volt",
+    "stars": 0,
+    "updated_at": "2026-09-23T18:13:44Z",
+    "url": "https://github.com/Ettyunfretted119/volt"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T18:13:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The open index of certification exam blueprints. 1,562 exams across 217 certifying bodies.",
+    "id": "hans6883/cert-atlas",
+    "language": "TypeScript",
+    "name": "hans6883/cert-atlas",
+    "stars": 1,
+    "updated_at": "2026-09-23T18:13:30Z",
+    "url": "https://github.com/hans6883/cert-atlas"
+  },
+  {
     "description": "Orchestrate specialized AI agents across messaging platforms with tools, data scraping, vector memory, and scheduling in",
     "id": "acewz/opencrow",
     "language": "\u2014",
@@ -104,7 +239,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 32225,
-    "updated_at": "2026-09-23T18:13:21Z",
+    "updated_at": "2026-09-23T18:15:05Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -124,15 +259,6 @@
     "stars": 6,
     "updated_at": "2026-09-23T18:11:57Z",
     "url": "https://github.com/xw000113-create/agent-search-cli"
-  },
-  {
-    "description": "An end to end implementation of RAG from scratch",
-    "id": "yashpandey474/Atlas-End-to-End-RAG",
-    "language": "Python",
-    "name": "yashpandey474/Atlas-End-to-End-RAG",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:11:55Z",
-    "url": "https://github.com/yashpandey474/Atlas-End-to-End-RAG"
   },
   {
     "description": "Fullseye \u2014 a numpy-native operator library for vision, 3-D and measurement: 1,500+ typed ops spanning 2-D imaging, point",
@@ -176,7 +302,7 @@
     "language": "TypeScript",
     "name": "jamiezigelbaum/Olympus",
     "stars": 1,
-    "updated_at": "2026-09-23T18:11:07Z",
+    "updated_at": "2026-09-23T18:14:38Z",
     "url": "https://github.com/jamiezigelbaum/Olympus"
   },
   {
@@ -196,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:10:54Z",
     "url": "https://github.com/elvisxd/byte"
-  },
-  {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19432,
-    "updated_at": "2026-09-23T18:10:49Z",
-    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "MCP memory server: SQLite slot-facts + lossless log, FTS/vectors/graph recall, typed links, atomic batch.",
@@ -239,7 +356,7 @@
     "language": "Python",
     "name": "Who-Visions/NouGenShards",
     "stars": 3,
-    "updated_at": "2026-09-23T18:12:04Z",
+    "updated_at": "2026-09-23T18:14:00Z",
     "url": "https://github.com/Who-Visions/NouGenShards"
   },
   {
@@ -297,15 +414,6 @@
     "url": "https://github.com/SherryFu0315/cis4394-agentic-ai"
   },
   {
-    "description": "The open index of certification exam blueprints. 1,562 exams across 217 certifying bodies.",
-    "id": "hans6883/cert-atlas",
-    "language": "TypeScript",
-    "name": "hans6883/cert-atlas",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:09:46Z",
-    "url": "https://github.com/hans6883/cert-atlas"
-  },
-  {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T18:09:03Z",
     "url": "https://github.com/Joey-1123/memoratum"
-  },
-  {
-    "description": "Transformez des entrants - vid\u00e9os, fichiers audio, liens YouTube, documents texte - en un document consolid\u00e9 et structur",
-    "id": "jgouviergmail/Fahmi2",
-    "language": "Python",
-    "name": "jgouviergmail/Fahmi2",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:08:56Z",
-    "url": "https://github.com/jgouviergmail/Fahmi2"
-  },
-  {
-    "description": "\ud83e\udde0 Build persistent, hybrid conversational memory using SQLite, full-text search, and vector similarity with conflict res",
-    "id": "Lilily58/Mem",
-    "language": "\u2014",
-    "name": "Lilily58/Mem",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:08:39Z",
-    "url": "https://github.com/Lilily58/Mem"
-  },
-  {
-    "description": "\ud83e\udde0 Extend LLM context windows up to 60\u00d7 with perfect data integrity using gravitational memory compression for fast, univ",
-    "id": "NvmToxic/ai-books-mcp-server",
-    "language": "TypeScript",
-    "name": "NvmToxic/ai-books-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-09-23T18:08:37Z",
-    "url": "https://github.com/NvmToxic/ai-books-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcc4 Convert scanned PDFs into searchable, copyable, and vectorized documents with accurate math and clean layouts.",
-    "id": "sussskiiirocks189/Scanned-PDF-to-Vector",
-    "language": "Python",
-    "name": "sussskiiirocks189/Scanned-PDF-to-Vector",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:08:26Z",
-    "url": "https://github.com/sussskiiirocks189/Scanned-PDF-to-Vector"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-23T18:08:14Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Private local RAG with a built-in dashboard, explainable search playground, MCP and REST\u2014in one Docker container.",
-    "id": "raysca/mcp-knowledge",
-    "language": "TypeScript",
-    "name": "raysca/mcp-knowledge",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:08:02Z",
-    "url": "https://github.com/raysca/mcp-knowledge"
-  },
-  {
-    "description": "AI/ML portfolio: every metric traces to a committed source, kept honest by CI gates.",
-    "id": "gaurav-gandhi-2411/gg-portfolio",
-    "language": "HTML",
-    "name": "gaurav-gandhi-2411/gg-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:12:14Z",
-    "url": "https://github.com/gaurav-gandhi-2411/gg-portfolio"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 73631,
-    "updated_at": "2026-09-23T18:07:53Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "",
-    "id": "kaliphon/yks-ai-rag",
-    "language": "Python",
-    "name": "kaliphon/yks-ai-rag",
-    "stars": 2,
-    "updated_at": "2026-09-23T18:07:51Z",
-    "url": "https://github.com/kaliphon/yks-ai-rag"
-  },
-  {
-    "description": "\ud83d\udcda Index codebases and docs into Qdrant with Ollama embeddings, enabling AI assistants to search code via Model Context P",
-    "id": "guttbuster/Ollqd",
-    "language": "Python",
-    "name": "guttbuster/Ollqd",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:07:50Z",
-    "url": "https://github.com/guttbuster/Ollqd"
-  },
-  {
-    "description": "\ud83d\udcc4 Generate academic papers automatically using AI, integrating literature search and Retrieval-Augmented Generation for ",
-    "id": "aserrato7n/academic_paper_generation",
-    "language": "\u2014",
-    "name": "aserrato7n/academic_paper_generation",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:07:50Z",
-    "url": "https://github.com/aserrato7n/academic_paper_generation"
-  },
-  {
-    "description": "\ud83e\udd16 Enable seamless multi-agent development with Claude Code using skills, agents, hooks, and orchestration scripts in one",
-    "id": "kenzoprime/claude-pipeline",
-    "language": "\u2014",
-    "name": "kenzoprime/claude-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:07:44Z",
-    "url": "https://github.com/kenzoprime/claude-pipeline"
   }
 ]
