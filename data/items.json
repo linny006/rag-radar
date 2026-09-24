@@ -1,11 +1,101 @@
 [
   {
+    "description": "Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents.",
+    "id": "lpaiu-cs/osk-system",
+    "language": "Python",
+    "name": "lpaiu-cs/osk-system",
+    "stars": 19,
+    "updated_at": "2026-09-24T09:00:10Z",
+    "url": "https://github.com/lpaiu-cs/osk-system"
+  },
+  {
+    "description": "Curate and maintain a daily updated list of tools, resources, and projects related to Anthropic's AI research and applic",
+    "id": "Boroldoi0402/awesome-anthropic",
+    "language": "HTML",
+    "name": "Boroldoi0402/awesome-anthropic",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:00:08Z",
+    "url": "https://github.com/Boroldoi0402/awesome-anthropic"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-09-24T09:00:06Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Manage and operate AnythingLLM workspaces, chats, documents, and vectors with a fast, Python-based MCP server.",
+    "id": "gsmMu7ammed/anythingllm-mcp",
+    "language": "Python",
+    "name": "gsmMu7ammed/anythingllm-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-24T09:00:06Z",
+    "url": "https://github.com/gsmMu7ammed/anythingllm-mcp"
+  },
+  {
+    "description": "Enable runtime SIMD dispatch in Zig by compiling and selecting optimized functions for specific CPU microarchitectures a",
+    "id": "Gshacker-cpu/oma",
+    "language": "Zig",
+    "name": "Gshacker-cpu/oma",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:00:06Z",
+    "url": "https://github.com/Gshacker-cpu/oma"
+  },
+  {
+    "description": "A TypeScript-based AI productivity agent built from scratch with Ollama, MongoDB, tool calling, memory, conversation per",
+    "id": "repo4irfan/productivity-agent",
+    "language": "TypeScript",
+    "name": "repo4irfan/productivity-agent",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:00:01Z",
+    "url": "https://github.com/repo4irfan/productivity-agent"
+  },
+  {
+    "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, t",
+    "id": "EverMind-AI/EverOS",
+    "language": "Python",
+    "name": "EverMind-AI/EverOS",
+    "stars": 13170,
+    "updated_at": "2026-09-24T09:00:01Z",
+    "url": "https://github.com/EverMind-AI/EverOS"
+  },
+  {
+    "description": "Provide free, open access to comprehensive AI tools, guides, reviews, and resources to reduce knowledge gaps and empower",
+    "id": "Golu0512/ai-guide",
+    "language": "JavaScript",
+    "name": "Golu0512/ai-guide",
+    "stars": 2,
+    "updated_at": "2026-09-24T08:59:52Z",
+    "url": "https://github.com/Golu0512/ai-guide"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 28,
+    "updated_at": "2026-09-24T08:59:48Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T08:59:47Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A persistent Xianxia cultivation RPG for Discord: realms, sects, alchemy and a living NPC world. Go owns the rules and t",
     "id": "RhaZenZ0/Xianxia-bot",
     "language": "Python",
     "name": "RhaZenZ0/Xianxia-bot",
     "stars": 0,
-    "updated_at": "2026-09-24T08:59:42Z",
+    "updated_at": "2026-09-24T09:00:10Z",
     "url": "https://github.com/RhaZenZ0/Xianxia-bot"
   },
   {
@@ -76,18 +166,9 @@
     "id": "labring/FastGPT",
     "language": "TypeScript",
     "name": "labring/FastGPT",
-    "stars": 29735,
+    "stars": 29736,
     "updated_at": "2026-09-24T08:59:03Z",
     "url": "https://github.com/labring/FastGPT"
-  },
-  {
-    "description": "Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents.",
-    "id": "lpaiu-cs/osk-system",
-    "language": "Python",
-    "name": "lpaiu-cs/osk-system",
-    "stars": 19,
-    "updated_at": "2026-09-24T08:59:03Z",
-    "url": "https://github.com/lpaiu-cs/osk-system"
   },
   {
     "description": "Run a personal AI agent on your server that remembers your data and builds custom tools via chat commands through Telegr",
@@ -288,15 +369,6 @@
     "url": "https://github.com/evgeniimatveev/evgeniimatveev.github.io"
   },
   {
-    "description": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, t",
-    "id": "EverMind-AI/EverOS",
-    "language": "Python",
-    "name": "EverMind-AI/EverOS",
-    "stars": 13170,
-    "updated_at": "2026-09-24T08:59:13Z",
-    "url": "https://github.com/EverMind-AI/EverOS"
-  },
-  {
     "description": "A benchmark for epistemic arbitration and misinformation resistance in AI agents. Evaluates an agent's ability to distin",
     "id": "divagr18/WebBench",
     "language": "TypeScript",
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T08:55:01Z",
     "url": "https://github.com/cser245086272/ComfyUI-FL-Qwen3TTS"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 28,
-    "updated_at": "2026-09-24T08:54:56Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
     "description": "Agentic RAG backend for a restaurant-menu chatbot: grounded dish, price, nutrition and allergen Q&A over a Weaviate know",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T08:54:16Z",
     "url": "https://github.com/Yacine-ai-tech/StreamPulse"
-  },
-  {
-    "description": "\ud83d\udee0 Master Claude Code with a complete guide on AI coding assistants, featuring agents, commands, skills, and rules to str",
-    "id": "enju0122/claude-code-master",
-    "language": "MDX",
-    "name": "enju0122/claude-code-master",
-    "stars": 1,
-    "updated_at": "2026-09-24T08:54:13Z",
-    "url": "https://github.com/enju0122/claude-code-master"
-  },
-  {
-    "description": "Speech-to-intelligence \u2014 provider-agnostic transcription (WhisperX/Groq/Deepgram/AssemblyAI) + multi-LLM analysis by cal",
-    "id": "Yacine-ai-tech/VoiceFlow",
-    "language": "Python",
-    "name": "Yacine-ai-tech/VoiceFlow",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:54:12Z",
-    "url": "https://github.com/Yacine-ai-tech/VoiceFlow"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG Framework for hybrid search, query classification, and answer fusion in product",
-    "id": "strewerwer/agentic-rag-framework",
-    "language": "HTML",
-    "name": "strewerwer/agentic-rag-framework",
-    "stars": 1,
-    "updated_at": "2026-09-24T08:54:08Z",
-    "url": "https://github.com/strewerwer/agentic-rag-framework"
-  },
-  {
-    "description": "MCP server for business-intelligence agents \u2014 6+ core tools / 10 resources / 1 prompt over real KPI analytics across 10 ",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:54:06Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:54:05Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Explore hands-on experiments with open-source AI frameworks, showcasing practical usage patterns and building real-wor",
-    "id": "adhytiarachman/AI_testing101",
-    "language": "Python",
-    "name": "adhytiarachman/AI_testing101",
-    "stars": 1,
-    "updated_at": "2026-09-24T08:53:40Z",
-    "url": "https://github.com/adhytiarachman/AI_testing101"
-  },
-  {
-    "description": "\u884c\u821f \u00b7 Voyage \u2014 \u628a\u8fd0\u7ef4\u80fd\u529b\u6c11\u4e3b\u5316\u7684 AI \u8fd0\u7ef4\u5e73\u53f0\uff1a\u542c\u5f97\u61c2\u5927\u767d\u8bdd\uff0c\u6307\u6325\u5f97\u4e86\u7cfb\u7edf\uff08\u53e3\u8bed\u5316\u4f4e\u95e8\u69db \u00d7 \u96f6\u4fe1\u4efb\u5ba1\u6279\uff09\u3002AIOps democratized: plain-language in, safe control out.",
-    "id": "NinjaSln-labs/voyage",
-    "language": "JavaScript",
-    "name": "NinjaSln-labs/voyage",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:53:38Z",
-    "url": "https://github.com/NinjaSln-labs/voyage"
   }
 ]
