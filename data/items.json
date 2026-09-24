@@ -1,5 +1,68 @@
 [
   {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 28,
+    "updated_at": "2026-09-23T23:59:35Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "A full-stack Retrieval-Augmented Generation (RAG) app for document Q&A. Upload PDF, DOCX, or TXT files and ask questions",
+    "id": "Tapan48/rag-document-qa",
+    "language": "Python",
+    "name": "Tapan48/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:58:47Z",
+    "url": "https://github.com/Tapan48/rag-document-qa"
+  },
+  {
+    "description": "Self-hosted multi-tenant AI platform: medallion pipeline on DuckDB, FastAPI, per-tenant encrypted credentials, LLM fallb",
+    "id": "ricardo-david-francisco/VelaFlow-public",
+    "language": "Python",
+    "name": "ricardo-david-francisco/VelaFlow-public",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:58:38Z",
+    "url": "https://github.com/ricardo-david-francisco/VelaFlow-public"
+  },
+  {
+    "description": "Tlamatini is a self-hosted AI developer assistant for local or cloud LLMs: hybrid RAG (FAISS+BM25) over your codebase, a",
+    "id": "XAIHT/Tlamatini",
+    "language": "Python",
+    "name": "XAIHT/Tlamatini",
+    "stars": 16,
+    "updated_at": "2026-09-23T23:58:36Z",
+    "url": "https://github.com/XAIHT/Tlamatini"
+  },
+  {
+    "description": "Local RAG layer and optimizer for your Markdown knowledge base. CLI + MCP server: grounded answers for any AI client, st",
+    "id": "raphasouthall/neurostack",
+    "language": "Python",
+    "name": "raphasouthall/neurostack",
+    "stars": 47,
+    "updated_at": "2026-09-23T23:57:54Z",
+    "url": "https://github.com/raphasouthall/neurostack"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-23T23:57:50Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T23:57:46Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "GraphRAG code search over MCP. Parses code with tree-sitter, weaves a Neo4j code graph, and serves hybrid semantic searc",
     "id": "Treeweft/treeweft",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-09-23T23:56:41Z",
     "url": "https://github.com/Treeweft/treeweft"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19451,
+    "updated_at": "2026-09-24T00:00:09Z",
+    "url": "https://github.com/elizaOS/eliza"
   },
   {
     "description": "Local-first personal AI daemon in Rust \u2014 five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM ",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "OpenDIKW/dikw-core",
     "stars": 0,
-    "updated_at": "2026-09-23T23:56:24Z",
+    "updated_at": "2026-09-24T00:00:12Z",
     "url": "https://github.com/OpenDIKW/dikw-core"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/navyathag13-ui/RAG_document_log_assistant"
   },
   {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 28,
-    "updated_at": "2026-09-23T23:55:22Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
     "id": "melgarafael/DeskcommCRM",
     "language": "TypeScript",
@@ -70,15 +133,6 @@
     "stars": 3607,
     "updated_at": "2026-09-23T23:55:20Z",
     "url": "https://github.com/melgarafael/DeskcommCRM"
-  },
-  {
-    "description": "Self-hosted multi-tenant AI platform: medallion pipeline on DuckDB, FastAPI, per-tenant encrypted credentials, LLM fallb",
-    "id": "ricardo-david-francisco/VelaFlow-public",
-    "language": "Python",
-    "name": "ricardo-david-francisco/VelaFlow-public",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:54:41Z",
-    "url": "https://github.com/ricardo-david-francisco/VelaFlow-public"
   },
   {
     "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 32227,
-    "updated_at": "2026-09-23T23:55:03Z",
+    "updated_at": "2026-09-23T23:58:33Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/PersonalClaw/PersonalClaw"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19450,
-    "updated_at": "2026-09-23T23:56:36Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "AI/LLM Engineer portfolio \u2014 Astro + React islands on Cloudflare Workers, with a live \"Ask my portfolio\" RAG chat. Starli",
     "id": "scuellaralmagro/sergio-portfolio-website",
     "language": "Astro",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "ajschlosser/DerridAI",
     "stars": 1,
-    "updated_at": "2026-09-23T23:54:05Z",
+    "updated_at": "2026-09-23T23:59:58Z",
     "url": "https://github.com/ajschlosser/DerridAI"
   },
   {
@@ -176,7 +221,7 @@
     "language": "HTML",
     "name": "CJX0712/aetheros",
     "stars": 0,
-    "updated_at": "2026-09-23T23:49:35Z",
+    "updated_at": "2026-09-23T23:59:48Z",
     "url": "https://github.com/CJX0712/aetheros"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "CJX0712/tekmor",
     "stars": 0,
-    "updated_at": "2026-09-23T23:49:33Z",
+    "updated_at": "2026-09-23T23:59:49Z",
     "url": "https://github.com/CJX0712/tekmor"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T23:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-powered Amazon seller intelligence platform \u2014 BERT sentiment, XGBoost return risk prediction, and RAG chatbot grounde",
     "id": "Het415/listinglens",
     "language": "Python",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "mrveiss/AutoBot-AI",
     "stars": 11,
-    "updated_at": "2026-09-23T23:57:08Z",
+    "updated_at": "2026-09-23T23:59:59Z",
     "url": "https://github.com/mrveiss/AutoBot-AI"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 66380,
     "updated_at": "2026-09-23T23:43:28Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 5173,
-    "updated_at": "2026-09-23T23:47:08Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "Prepares local documents for Codex by converting, cleanup, chunking, and indexing for search-first, retrieval-bounded re",
-    "id": "Quotable-mimus510/codex-document-prep",
-    "language": "Python",
-    "name": "Quotable-mimus510/codex-document-prep",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:40:22Z",
-    "url": "https://github.com/Quotable-mimus510/codex-document-prep"
-  },
-  {
-    "description": "Local AI for self-reliance and homesteading: an offline reference library, voice interface, and optional personal memory",
-    "id": "Brandtweary/Almanac",
-    "language": "TypeScript",
-    "name": "Brandtweary/Almanac",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:40:16Z",
-    "url": "https://github.com/Brandtweary/Almanac"
-  },
-  {
-    "description": "Add AI-powered ticket analysis to GLPI 11 using local models via an AnythingLLM workspace, with no cloud dependency.",
-    "id": "Pathwra1547/glpi-plugin-aiticketanalysis",
-    "language": "PHP",
-    "name": "Pathwra1547/glpi-plugin-aiticketanalysis",
-    "stars": 1,
-    "updated_at": "2026-09-23T23:40:06Z",
-    "url": "https://github.com/Pathwra1547/glpi-plugin-aiticketanalysis"
   }
 ]
