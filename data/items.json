@@ -1,5 +1,68 @@
 [
   {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 73742,
+    "updated_at": "2026-09-25T04:44:53Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "CPersona \u2014 persistent memory for AI agents over MCP. One SQLite file you own, hybrid vector + full-text + keyword search",
+    "id": "Cloto-dev/CPersona",
+    "language": "Python",
+    "name": "Cloto-dev/CPersona",
+    "stars": 7,
+    "updated_at": "2026-09-25T04:44:50Z",
+    "url": "https://github.com/Cloto-dev/CPersona"
+  },
+  {
+    "description": "Production-grade full-stack AI chat platform with RAG, tools, agents, MCP, and voice.",
+    "id": "pateatlau/fullstack-ai-platform",
+    "language": "Python",
+    "name": "pateatlau/fullstack-ai-platform",
+    "stars": 1,
+    "updated_at": "2026-09-25T04:44:49Z",
+    "url": "https://github.com/pateatlau/fullstack-ai-platform"
+  },
+  {
+    "description": "French institutional portfolio analytics with RAG and local LLM",
+    "id": "yodablocks/quarq",
+    "language": "Python",
+    "name": "yodablocks/quarq",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:44:39Z",
+    "url": "https://github.com/yodablocks/quarq"
+  },
+  {
+    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
+    "id": "Bike4Mind/bike4mind",
+    "language": "TypeScript",
+    "name": "Bike4Mind/bike4mind",
+    "stars": 89,
+    "updated_at": "2026-09-25T04:44:13Z",
+    "url": "https://github.com/Bike4Mind/bike4mind"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T04:43:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-powered PDF Q&A and summarization app: upload a PDF, ask questions in plain English, and get grounded answers with p",
+    "id": "mahnoorishfaq/pdf-insight-",
+    "language": "Python",
+    "name": "mahnoorishfaq/pdf-insight-",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:43:22Z",
+    "url": "https://github.com/mahnoorishfaq/pdf-insight-"
+  },
+  {
     "description": "",
     "id": "redocto/image-text-structurizer",
     "language": "Python",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "mgd43b/manicule",
     "stars": 0,
-    "updated_at": "2026-09-25T04:43:23Z",
+    "updated_at": "2026-09-25T04:44:34Z",
     "url": "https://github.com/mgd43b/manicule"
   },
   {
@@ -72,20 +135,11 @@
     "url": "https://github.com/sirrosales/ai"
   },
   {
-    "description": "The open-core AI workbench \u2014 notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI,",
-    "id": "Bike4Mind/bike4mind",
-    "language": "TypeScript",
-    "name": "Bike4Mind/bike4mind",
-    "stars": 89,
-    "updated_at": "2026-09-25T04:42:36Z",
-    "url": "https://github.com/Bike4Mind/bike4mind"
-  },
-  {
     "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
     "id": "melgarafael/DeskcommCRM",
     "language": "TypeScript",
     "name": "melgarafael/DeskcommCRM",
-    "stars": 3726,
+    "stars": 3727,
     "updated_at": "2026-09-25T04:41:43Z",
     "url": "https://github.com/melgarafael/DeskcommCRM"
   },
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "webamigos/RagenAI",
     "stars": 2,
-    "updated_at": "2026-09-25T04:40:56Z",
+    "updated_at": "2026-09-25T04:44:25Z",
     "url": "https://github.com/webamigos/RagenAI"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Java",
     "name": "mudassirshahzad/project-eka",
     "stars": 1,
-    "updated_at": "2026-09-25T04:40:26Z",
+    "updated_at": "2026-09-25T04:44:19Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 250,
     "updated_at": "2026-09-25T04:32:08Z",
     "url": "https://github.com/FuRongJun-1999/dsh-memory"
-  },
-  {
-    "description": "\ud83d\udcc4 Build a customizable chat interface for your documents with kotaemon, designed for both users and developers.",
-    "id": "lillyk18101978/kotaemon",
-    "language": "Python",
-    "name": "lillyk18101978/kotaemon",
-    "stars": 1,
-    "updated_at": "2026-09-25T04:30:46Z",
-    "url": "https://github.com/lillyk18101978/kotaemon"
-  },
-  {
-    "description": "\ud83e\udd16 Build AI systems to enhance education with a Virtual Teaching Assistant and voice agents that ensure secure and accura",
-    "id": "3trilla/ayesha-portfolio",
-    "language": "HTML",
-    "name": "3trilla/ayesha-portfolio",
-    "stars": 5,
-    "updated_at": "2026-09-25T04:30:44Z",
-    "url": "https://github.com/3trilla/ayesha-portfolio"
-  },
-  {
-    "description": "Yu-Gi-Oh! OCG AI ruling and judge assistant\uff5c\u6e38\u620f\u738bAI\u88c1\u5b9a\u4e0e\u89c4\u5219\u95ee\u7b54\uff5c\u904a\u622f\u738bAI\u88c1\u5b9a\u30fb\u30eb\u30fc\u30eb\u8cea\u554f \u2014 official Q&A retrieval, RAG, multilingual.",
-    "id": "coldiceh/ocg-ruling-assistant",
-    "language": "JavaScript",
-    "name": "coldiceh/ocg-ruling-assistant",
-    "stars": 6,
-    "updated_at": "2026-09-25T04:30:37Z",
-    "url": "https://github.com/coldiceh/ocg-ruling-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T04:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T04:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "French institutional portfolio analytics with RAG and local LLM",
-    "id": "yodablocks/quarq",
-    "language": "Python",
-    "name": "yodablocks/quarq",
-    "stars": 0,
-    "updated_at": "2026-09-25T04:39:59Z",
-    "url": "https://github.com/yodablocks/quarq"
   }
 ]
