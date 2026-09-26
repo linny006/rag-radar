@@ -1,5 +1,41 @@
 [
   {
+    "description": "Portable contracts and local-first runtimes for canonical data, retrieval, durable execution, and agent-facing AI.",
+    "id": "Univeracity/vyral",
+    "language": "C#",
+    "name": "Univeracity/vyral",
+    "stars": 5,
+    "updated_at": "2026-09-26T00:45:16Z",
+    "url": "https://github.com/Univeracity/vyral"
+  },
+  {
+    "description": "Multi-provider AI router with cost tracking, RAG memory and live dashboard. Routes tasks across Claude, OpenAI, DeepSeek",
+    "id": "csantisdev/ai-orchestrator",
+    "language": "Python",
+    "name": "csantisdev/ai-orchestrator",
+    "stars": 2,
+    "updated_at": "2026-09-26T00:45:07Z",
+    "url": "https://github.com/csantisdev/ai-orchestrator"
+  },
+  {
+    "description": "Answer product Discord questions from public docs only; fail-closed leak guards; escalate the unsure to founders.",
+    "id": "DaizeDong/auto-support",
+    "language": "Python",
+    "name": "DaizeDong/auto-support",
+    "stars": 0,
+    "updated_at": "2026-09-26T00:45:04Z",
+    "url": "https://github.com/DaizeDong/auto-support"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T00:44:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The pipe layer of an AI nervous system \u2014 one interface connecting provider neurons to your application, across three inf",
     "id": "juspay/neurolink",
     "language": "TypeScript",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "ajschlosser/DerridAI",
     "stars": 1,
-    "updated_at": "2026-09-26T00:39:08Z",
+    "updated_at": "2026-09-26T00:45:00Z",
     "url": "https://github.com/ajschlosser/DerridAI"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/jazz1x/ohmyboring"
   },
   {
-    "description": "Multi-provider AI router with cost tracking, RAG memory and live dashboard. Routes tasks across Claude, OpenAI, DeepSeek",
-    "id": "csantisdev/ai-orchestrator",
-    "language": "Python",
-    "name": "csantisdev/ai-orchestrator",
-    "stars": 2,
-    "updated_at": "2026-09-26T00:43:53Z",
-    "url": "https://github.com/csantisdev/ai-orchestrator"
-  },
-  {
     "description": "Production-style Java + Spring AI 2.0 enterprise AI workbench: cited RAG, Text-to-SQL, support, HR, guardrails, human-in",
     "id": "qcodingdev/spring-ai-business-copilot",
     "language": "Java",
@@ -250,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T00:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T00:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Dynamic routing for agent knowledge. Areas advertise when they're relevant; the agent routes before it reads. MCP server",
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "ttoss/soat",
     "stars": 4,
-    "updated_at": "2026-09-26T00:25:23Z",
+    "updated_at": "2026-09-26T00:45:09Z",
     "url": "https://github.com/ttoss/soat"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T00:25:06Z",
     "url": "https://github.com/leizd/DeepSeek-Infra"
-  },
-  {
-    "description": "Enterprise-grade, multi-tenant, model-agnostic, MCP-first Agent platform.",
-    "id": "xueyufish/hecate",
-    "language": "Python",
-    "name": "xueyufish/hecate",
-    "stars": 6,
-    "updated_at": "2026-09-26T00:31:00Z",
-    "url": "https://github.com/xueyufish/hecate"
-  },
-  {
-    "description": "An infinite canvas your local LLM draws on. Typed widgets, BYO model (Claude/OpenAI/Ollama), MCP-native, local-first, MI",
-    "id": "ashark-ai-05/opencanvas",
-    "language": "TypeScript",
-    "name": "ashark-ai-05/opencanvas",
-    "stars": 6,
-    "updated_at": "2026-09-26T00:35:02Z",
-    "url": "https://github.com/ashark-ai-05/opencanvas"
   }
 ]
