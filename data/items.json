@@ -1,5 +1,59 @@
 [
   {
+    "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inha",
+    "id": "neomjs/neo",
+    "language": "JavaScript",
+    "name": "neomjs/neo",
+    "stars": 3281,
+    "updated_at": "2026-09-26T10:16:13Z",
+    "url": "https://github.com/neomjs/neo"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 3940,
+    "updated_at": "2026-09-26T10:15:59Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "H\u1ec7 \u0111i\u1ec1u h\u00e0nh doanh nghi\u1ec7p m\u00e3 ngu\u1ed3n m\u1edf: m\u00f4 h\u00ecnh ng\u00f4n ng\u1eef ch\u1ea1y tr\u00ean m\u00e1y c\u1ee7a ch\u00ednh c\u00f4ng ty, n\u1ed1i v\u00e0o n\u1ec1n t\u1ea3ng nghi\u1ec7p v\u1ee5 qua ",
+    "id": "BDSG-VN/open-bdsg-os",
+    "language": "Python",
+    "name": "BDSG-VN/open-bdsg-os",
+    "stars": 1,
+    "updated_at": "2026-09-26T10:15:57Z",
+    "url": "https://github.com/BDSG-VN/open-bdsg-os"
+  },
+  {
+    "description": "Full-stack AI investment research platform combining financial    modeling, RAG, agentic workflows and automated researc",
+    "id": "dvanjev-lang/ai-investment-research-platform",
+    "language": "Python",
+    "name": "dvanjev-lang/ai-investment-research-platform",
+    "stars": 0,
+    "updated_at": "2026-09-26T10:15:30Z",
+    "url": "https://github.com/dvanjev-lang/ai-investment-research-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T10:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T10:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The pipe layer of an AI nervous system \u2014 one interface connecting provider neurons to your application, across three inf",
     "id": "juspay/neurolink",
     "language": "TypeScript",
@@ -117,15 +171,6 @@
     "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
   },
   {
-    "description": "Full-stack AI investment research platform combining financial    modeling, RAG, agentic workflows and automated researc",
-    "id": "dvanjev-lang/ai-investment-research-platform",
-    "language": "Python",
-    "name": "dvanjev-lang/ai-investment-research-platform",
-    "stars": 0,
-    "updated_at": "2026-09-26T10:11:24Z",
-    "url": "https://github.com/dvanjev-lang/ai-investment-research-platform"
-  },
-  {
     "description": "Privacy-first AI novel writing IDE. Full workflow: outline\u2192draft\u2192review\u2192finalize. Local RAG + multi-model routing. Trili",
     "id": "LunaRime/novelforge",
     "language": "TypeScript",
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "nikships/gemdex",
     "stars": 4,
-    "updated_at": "2026-09-26T10:09:36Z",
+    "updated_at": "2026-09-26T10:16:14Z",
     "url": "https://github.com/nikships/gemdex"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "Sallos725/NMOS",
     "stars": 0,
-    "updated_at": "2026-09-26T10:07:00Z",
+    "updated_at": "2026-09-26T10:16:11Z",
     "url": "https://github.com/Sallos725/NMOS"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T10:05:51Z",
     "url": "https://github.com/2gg-bit/evidence-sieve"
-  },
-  {
-    "description": "H\u1ec7 \u0111i\u1ec1u h\u00e0nh doanh nghi\u1ec7p m\u00e3 ngu\u1ed3n m\u1edf: m\u00f4 h\u00ecnh ng\u00f4n ng\u1eef ch\u1ea1y tr\u00ean m\u00e1y c\u1ee7a ch\u00ednh c\u00f4ng ty, n\u1ed1i v\u00e0o n\u1ec1n t\u1ea3ng nghi\u1ec7p v\u1ee5 qua ",
-    "id": "BDSG-VN/open-bdsg-os",
-    "language": "Python",
-    "name": "BDSG-VN/open-bdsg-os",
-    "stars": 1,
-    "updated_at": "2026-09-26T10:05:22Z",
-    "url": "https://github.com/BDSG-VN/open-bdsg-os"
   },
   {
     "description": "Retrieval-augmented factuality verification engine detecting hallucinations in AI responses via NLP claim decomposition,",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T10:00:56Z",
     "url": "https://github.com/Lives0808/KoraAI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Minimal source-grounded AI teaching assistant using FastAPI, PostgreSQL, pgvector and OpenAI.",
-    "id": "bzydnli/Ai-teaching-assistant-lite",
-    "language": "Python",
-    "name": "bzydnli/Ai-teaching-assistant-lite",
-    "stars": 0,
-    "updated_at": "2026-09-26T10:00:23Z",
-    "url": "https://github.com/bzydnli/Ai-teaching-assistant-lite"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T10:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u7ec7\u58a8 InkWeaver 1.2.0 \u2014 local-first long-form fiction workspace with continuous chapter continuity, evidence-backed review,",
-    "id": "shuishuipingan/InkWeaver",
-    "language": "TypeScript",
-    "name": "shuishuipingan/InkWeaver",
-    "stars": 1,
-    "updated_at": "2026-09-26T09:59:53Z",
-    "url": "https://github.com/shuishuipingan/InkWeaver"
   }
 ]
