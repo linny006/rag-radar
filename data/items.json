@@ -1,5 +1,113 @@
 [
   {
+    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
+    "id": "HybridAIOne/hybridclaw",
+    "language": "TypeScript",
+    "name": "HybridAIOne/hybridclaw",
+    "stars": 156,
+    "updated_at": "2026-09-27T07:32:33Z",
+    "url": "https://github.com/HybridAIOne/hybridclaw"
+  },
+  {
+    "description": "A modern full-stack personal website and content management system built with Next.js and Hono, featuring a monorepo arc",
+    "id": "Chia1104/chia1104.dev",
+    "language": "TypeScript",
+    "name": "Chia1104/chia1104.dev",
+    "stars": 32,
+    "updated_at": "2026-09-27T07:32:32Z",
+    "url": "https://github.com/Chia1104/chia1104.dev"
+  },
+  {
+    "description": "Classifies a technology under Annex I of Regulation (EU) 2021/821. Every citation is checked against the consolidated te",
+    "id": "rikiosso/dualuse-classifier",
+    "language": "TypeScript",
+    "name": "rikiosso/dualuse-classifier",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:32:28Z",
+    "url": "https://github.com/rikiosso/dualuse-classifier"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 4060,
+    "updated_at": "2026-09-27T07:32:22Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "A fully auto configured, self-hosted local AI & database stack on Debian WSL2.",
+    "id": "rish-1997/wsl-assistant",
+    "language": "Shell",
+    "name": "rish-1997/wsl-assistant",
+    "stars": 7,
+    "updated_at": "2026-09-27T07:32:22Z",
+    "url": "https://github.com/rish-1997/wsl-assistant"
+  },
+  {
+    "description": "Watches whether an AI agent is still doing what you asked. Runs beside Claude Code, Codex and Cursor, checks production ",
+    "id": "yerinsabraham/trackline",
+    "language": "Go",
+    "name": "yerinsabraham/trackline",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:32:01Z",
+    "url": "https://github.com/yerinsabraham/trackline"
+  },
+  {
+    "description": "Multi-agent AI society simulation (live): autonomous citizen agents, AI councils, TCMF causal retrieval benchmarked agai",
+    "id": "zaidwhy/CivilizationOS",
+    "language": "Python",
+    "name": "zaidwhy/CivilizationOS",
+    "stars": 1,
+    "updated_at": "2026-09-27T07:31:58Z",
+    "url": "https://github.com/zaidwhy/CivilizationOS"
+  },
+  {
+    "description": "Long-term narrative memory sidecar for RisuAI  role-play (beta)",
+    "id": "Sallos725/NMOS",
+    "language": "Python",
+    "name": "Sallos725/NMOS",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:31:49Z",
+    "url": "https://github.com/Sallos725/NMOS"
+  },
+  {
+    "description": "PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context a",
+    "id": "pipeshub-ai/pipeshub-ai",
+    "language": "Python",
+    "name": "pipeshub-ai/pipeshub-ai",
+    "stars": 3779,
+    "updated_at": "2026-09-27T07:31:48Z",
+    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  },
+  {
+    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
+    "id": "arkanere/solar-app",
+    "language": "TypeScript",
+    "name": "arkanere/solar-app",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:30:43Z",
+    "url": "https://github.com/arkanere/solar-app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T07:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T07:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
     "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
@@ -41,26 +149,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25483,
-    "updated_at": "2026-09-27T07:28:57Z",
+    "updated_at": "2026-09-27T07:31:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Production solar marketplace for India & the US \u2014 SvelteKit, Postgres, RAG chatbot. Live at solarvipani.com",
-    "id": "arkanere/solar-app",
-    "language": "TypeScript",
-    "name": "arkanere/solar-app",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:28:54Z",
-    "url": "https://github.com/arkanere/solar-app"
-  },
-  {
-    "description": "Watches whether an AI agent is still doing what you asked. Runs beside Claude Code, Codex and Cursor, checks production ",
-    "id": "yerinsabraham/trackline",
-    "language": "Go",
-    "name": "yerinsabraham/trackline",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:28:52Z",
-    "url": "https://github.com/yerinsabraham/trackline"
   },
   {
     "description": "Self-hosted private-code context layer for AI coding agents, with MCP tools, citations, tenant boundaries and hybrid ret",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1965,
-    "updated_at": "2026-09-27T07:28:33Z",
+    "updated_at": "2026-09-27T07:32:00Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -104,7 +194,7 @@
     "language": "Python",
     "name": "memvara/memvara",
     "stars": 1,
-    "updated_at": "2026-09-27T07:27:44Z",
+    "updated_at": "2026-09-27T07:31:47Z",
     "url": "https://github.com/memvara/memvara"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T07:27:35Z",
     "url": "https://github.com/ritochabalala/ritochabalala"
-  },
-  {
-    "description": "A modern full-stack personal website and content management system built with Next.js and Hono, featuring a monorepo arc",
-    "id": "Chia1104/chia1104.dev",
-    "language": "TypeScript",
-    "name": "Chia1104/chia1104.dev",
-    "stars": 32,
-    "updated_at": "2026-09-27T07:27:55Z",
-    "url": "https://github.com/Chia1104/chia1104.dev"
   },
   {
     "description": "\ud83d\udcd8 \u57fa\u4e8e\u89c6\u89c9\u5927\u6a21\u578b\u4e0e RAG \u7684\u667a\u80fd\u9519\u9898\u672c\uff1aAI \u62cd\u7167\u5f55\u9898 \u00b7 \u7ed3\u6784\u5316\u89e3\u6790 \u00b7 \u5411\u91cf\u68c0\u7d22\u4e3e\u4e00\u53cd\u4e09 \u00b7 SM-2 \u95f4\u9694\u91cd\u590d\u590d\u4e60 | Vision-LLM powered wrong-question notebook with RAG & s",
@@ -205,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-09-27T07:24:20Z",
     "url": "https://github.com/The-Geek-Freaks/NEOTH"
-  },
-  {
-    "description": "Classifies a technology under Annex I of Regulation (EU) 2021/821. Every citation is checked against the consolidated te",
-    "id": "rikiosso/dualuse-classifier",
-    "language": "TypeScript",
-    "name": "rikiosso/dualuse-classifier",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:24:15Z",
-    "url": "https://github.com/rikiosso/dualuse-classifier"
   },
   {
     "description": "Local-first code and docs search for coding agents: incremental indexing, exact line-cited results, no API keys or cloud",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T07:16:55Z",
     "url": "https://github.com/LoveDoLove/Veyra"
-  },
-  {
-    "description": "Your free book and audiobook laboratory. Turn the PDFs you own into chapter-marked M4B audiobooks and read-along books, ",
-    "id": "subev/libratory",
-    "language": "TypeScript",
-    "name": "subev/libratory",
-    "stars": 83,
-    "updated_at": "2026-09-27T07:16:50Z",
-    "url": "https://github.com/subev/libratory"
-  },
-  {
-    "description": "Multi-provider AI router with cost tracking, RAG memory and live dashboard. Routes tasks across Claude, OpenAI, DeepSeek",
-    "id": "csantisdev/ai-orchestrator",
-    "language": "Python",
-    "name": "csantisdev/ai-orchestrator",
-    "stars": 2,
-    "updated_at": "2026-09-27T07:16:21Z",
-    "url": "https://github.com/csantisdev/ai-orchestrator"
-  },
-  {
-    "description": "Your AI workforce, on your terms. An open-source workstation with multi-agent collaboration, a rich skill library, MCP, ",
-    "id": "SourceWeft/SourceWeft",
-    "language": "TypeScript",
-    "name": "SourceWeft/SourceWeft",
-    "stars": 74,
-    "updated_at": "2026-09-27T07:16:41Z",
-    "url": "https://github.com/SourceWeft/SourceWeft"
-  },
-  {
-    "description": "",
-    "id": "floSa/RAG-Ingestion-Pipeline",
-    "language": "HTML",
-    "name": "floSa/RAG-Ingestion-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:16:14Z",
-    "url": "https://github.com/floSa/RAG-Ingestion-Pipeline"
-  },
-  {
-    "description": "\u9762\u5411\u591a\u6a21\u578b\u4e0e Agent \u5de5\u4f5c\u6d41\u7684 AI \u804a\u5929\u4ea7\u54c1\uff0c\u91c7\u7528 Next.js + FastAPI monorepo \u67b6\u6784\u3002",
-    "id": "HyxiaoGe/fusion",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion",
-    "stars": 2,
-    "updated_at": "2026-09-27T07:16:00Z",
-    "url": "https://github.com/HyxiaoGe/fusion"
-  },
-  {
-    "description": "Local-first desktop chat assistant for East China Jiaotong University students: everyday chat, six opt-in task modules, ",
-    "id": "64922/BridGes",
-    "language": "Python",
-    "name": "64922/BridGes",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:15:40Z",
-    "url": "https://github.com/64922/BridGes"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T07:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Agentic RAG application for PDF Q&A \u2014 self-critiquing ingestion + self-verifying retrieval, built on LangGraph, Groq, an",
-    "id": "chinmaye5/RAGent",
-    "language": "JavaScript",
-    "name": "chinmaye5/RAGent",
-    "stars": 1,
-    "updated_at": "2026-09-27T07:15:31Z",
-    "url": "https://github.com/chinmaye5/RAGent"
   }
 ]
