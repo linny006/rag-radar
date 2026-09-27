@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udde0 Build a self-hosted knowledge management system that transforms scattered information into a smart, searchable, interc",
+    "id": "kapilkaushik1/second-brain-stack",
+    "language": "Python",
+    "name": "kapilkaushik1/second-brain-stack",
+    "stars": 5,
+    "updated_at": "2026-09-27T01:48:10Z",
+    "url": "https://github.com/kapilkaushik1/second-brain-stack"
+  },
+  {
+    "description": "\u767d\u7bb1AGI\u67b6\u6784\u63a2\u7d22\uff1a\u5143\u8ba4\u77e5\uff08\u81ea\u6211\u8ba4\u77e5\u5faa\u73af\uff09\u3001\u6301\u7eed\u5b66\u4e60\uff08\u77e5\u8bc6\u98de\u8f6e\uff09\u3001\u4e16\u754c\u6a21\u578b\uff08\u6761\u4ef6\u7a7a\u95f4+\u8bed\u4e49\u65f6\u7a7a\u56fe\uff09\u3001\u81ea\u6211\u6539\u8fdb\uff08\u81ea\u4e3e\u7eaa\u5f8b\uff09\u3001\u96f6LLM\u767d\u7bb1\u7ba1\u7ebf\u4e0e\u53ef\u5ba1\u8ba1\u4fe1\u4efb\u62a4\u680f\u3002",
+    "id": "FuRongJun-1999/dsh-memory",
+    "language": "Python",
+    "name": "FuRongJun-1999/dsh-memory",
+    "stars": 258,
+    "updated_at": "2026-09-27T01:47:56Z",
+    "url": "https://github.com/FuRongJun-1999/dsh-memory"
+  },
+  {
+    "description": "Research OS de inversi\u00f3n personal \u2014 Next.js + FastAPI, datos reales, alertas Telegram",
+    "id": "nicogarrr/CavaAI",
+    "language": "Python",
+    "name": "nicogarrr/CavaAI",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:48:15Z",
+    "url": "https://github.com/nicogarrr/CavaAI"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Explore GPT-2 with llm.c, a lightweight C implementation that simplifies AI concepts for beginners, guiding you throu",
+    "id": "LoupFireYT/llm.c",
+    "language": "TeX",
+    "name": "LoupFireYT/llm.c",
+    "stars": 1,
+    "updated_at": "2026-09-27T01:47:24Z",
+    "url": "https://github.com/LoupFireYT/llm.c"
+  },
+  {
+    "description": "YYC\u00b3 AI Family\u00b7Comic Drama \u2014 8\u62df\u4ebaAgent\u00d7ReAct-C\u4e5d\u6b65\u95ed\u73af\u9a71\u52a8\u300c\u5c0f\u8bf4\u2192\u5206\u955c\u2192\u56fe\u50cf\u2192\u89c6\u9891\u2192\u6210\u7247\u2192\u8fd0\u8425\u300d\u516d\u9636\u6bb5\u5168\u94fe\u8def\u5de5\u4e1a\u5316\u6f2b\u5267\u751f\u4ea7\u7cfb\u7edf | Mac M4 + \u53ccDGX Spark GB10 + NAS |",
+    "id": "YYC-Cube/YYC3-AI-Family-Comic-Drama",
+    "language": "Python",
+    "name": "YYC-Cube/YYC3-AI-Family-Comic-Drama",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:47:05Z",
+    "url": "https://github.com/YYC-Cube/YYC3-AI-Family-Comic-Drama"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-09-27T01:46:52Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83c\udfc6 Discover essential tools and frameworks to enhance your hackathon experience, from pitching ideas to deploying your pr",
+    "id": "rahavshukla/Hackathon-Tools",
+    "language": "\u2014",
+    "name": "rahavshukla/Hackathon-Tools",
+    "stars": 10,
+    "updated_at": "2026-09-27T01:46:43Z",
+    "url": "https://github.com/rahavshukla/Hackathon-Tools"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform your PDF documents into actionable insights with this RAG-based Question-Answering App for efficient and acc",
+    "id": "rupamsamanta123/PDF-QA-RAG-System",
+    "language": "Python",
+    "name": "rupamsamanta123/PDF-QA-RAG-System",
+    "stars": 6,
+    "updated_at": "2026-09-27T01:46:36Z",
+    "url": "https://github.com/rupamsamanta123/PDF-QA-RAG-System"
+  },
+  {
+    "description": "Streaming AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Compos",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 114,
+    "updated_at": "2026-09-27T01:46:13Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... \ud83c\udf6c",
+    "id": "mrsladoje/sweet-search",
+    "language": "JavaScript",
+    "name": "mrsladoje/sweet-search",
+    "stars": 22,
+    "updated_at": "2026-09-27T01:45:58Z",
+    "url": "https://github.com/mrsladoje/sweet-search"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T01:45:56Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "24/7 AI receptionist that books appointments, captures leads, routes conversations, and hands off to humans \u2014 built with",
     "id": "djoudad292/ai-virtual-receptionist",
     "language": "TypeScript",
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T01:45:23Z",
     "url": "https://github.com/ronie-aduana/mcp-ai-memory"
-  },
-  {
-    "description": "Streaming AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Compos",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 114,
-    "updated_at": "2026-09-27T01:45:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -297,21 +387,12 @@
     "url": "https://github.com/Mlte0907/pangu"
   },
   {
-    "description": "Research OS de inversi\u00f3n personal \u2014 Next.js + FastAPI, datos reales, alertas Telegram",
-    "id": "nicogarrr/CavaAI",
-    "language": "Python",
-    "name": "nicogarrr/CavaAI",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:40:00Z",
-    "url": "https://github.com/nicogarrr/CavaAI"
-  },
-  {
     "description": "Bitemporal memory for AI agents: deterministic contradiction resolution, provenance, and retrieval at any point in time.",
     "id": "memvara/memvara",
     "language": "Python",
     "name": "memvara/memvara",
     "stars": 1,
-    "updated_at": "2026-09-27T01:37:45Z",
+    "updated_at": "2026-09-27T01:47:27Z",
     "url": "https://github.com/memvara/memvara"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T01:34:19Z",
     "url": "https://github.com/Nikhil-creat/aegis-agentic-platform"
-  },
-  {
-    "description": "A local legal-document assistant. Streamlit tools for contract Q&A, policies, contract risk, litigation support, complia",
-    "id": "ansar534/Legal_AI",
-    "language": "Python",
-    "name": "ansar534/Legal_AI",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:34:13Z",
-    "url": "https://github.com/ansar534/Legal_AI"
-  },
-  {
-    "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF,",
-    "id": "EvotecIT/OfficeIMO",
-    "language": "C#",
-    "name": "EvotecIT/OfficeIMO",
-    "stars": 559,
-    "updated_at": "2026-09-27T01:39:10Z",
-    "url": "https://github.com/EvotecIT/OfficeIMO"
-  },
-  {
-    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
-    "id": "jazz1x/ohmyboring",
-    "language": "Python",
-    "name": "jazz1x/ohmyboring",
-    "stars": 3,
-    "updated_at": "2026-09-27T01:33:36Z",
-    "url": "https://github.com/jazz1x/ohmyboring"
-  },
-  {
-    "description": "Answer only when warranted; inject only what is fit to govern. MMV answer-entitlement + RCGov context governance as a mo",
-    "id": "mobius-style/mobius-governance",
-    "language": "Python",
-    "name": "mobius-style/mobius-governance",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:33:29Z",
-    "url": "https://github.com/mobius-style/mobius-governance"
-  },
-  {
-    "description": "Local-first, citation-grounded civic-RAG engine for \u6771\u4eac\u90fd\u8b70\u4f1a deliberation records \u2014 plenary + all committees, 1999\u2013present ",
-    "id": "mobius-style/tokyo-insight",
-    "language": "Python",
-    "name": "mobius-style/tokyo-insight",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:33:24Z",
-    "url": "https://github.com/mobius-style/tokyo-insight"
-  },
-  {
-    "description": "Memory-echo governance for LLM assistants with memory: provenance-tagged memory + deterministic output-time self-citatio",
-    "id": "mobius-style/rqa",
-    "language": "Python",
-    "name": "mobius-style/rqa",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:33:22Z",
-    "url": "https://github.com/mobius-style/rqa"
-  },
-  {
-    "description": "Mobius Reflective Context Governor \u2014 local-first semantic hygiene and context governance for LLM systems. Govern what a ",
-    "id": "mobius-style/rcgov",
-    "language": "Python",
-    "name": "mobius-style/rcgov",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:33:21Z",
-    "url": "https://github.com/mobius-style/rcgov"
-  },
-  {
-    "description": "Local-first conversational AI runtime with Answer Entitlement Architecture \u2014 decides whether answering is justified befo",
-    "id": "mobius-style/mmv",
-    "language": "Python",
-    "name": "mobius-style/mmv",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:33:18Z",
-    "url": "https://github.com/mobius-style/mmv"
-  },
-  {
-    "description": "Punk-rock Discord roadie: Claude, web search, Vectorize knowledge base, and Workers AI image generation.",
-    "id": "skyphusion-labs/SidVicious_exe",
-    "language": "JavaScript",
-    "name": "skyphusion-labs/SidVicious_exe",
-    "stars": 0,
-    "updated_at": "2026-09-27T01:33:11Z",
-    "url": "https://github.com/skyphusion-labs/SidVicious_exe"
   }
 ]
