@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
+    "id": "jasonssdev/openkos",
+    "language": "Python",
+    "name": "jasonssdev/openkos",
+    "stars": 3,
+    "updated_at": "2026-10-01T00:01:20Z",
+    "url": "https://github.com/jasonssdev/openkos"
+  },
+  {
+    "description": "Self-hosted, self-learning, provider-agnostic personal agent kernel. Local-first memory in one SQLite database, project-",
+    "id": "lazarevtill/Morgan",
+    "language": "Python",
+    "name": "lazarevtill/Morgan",
+    "stars": 6,
+    "updated_at": "2026-10-01T00:01:18Z",
+    "url": "https://github.com/lazarevtill/Morgan"
+  },
+  {
+    "description": "Checked answers about a grocer's numbers and policies: verified SQL, cited SOPs, a master data audit. Synthetic data.",
+    "id": "A28-2001/store-copilot",
+    "language": "Python",
+    "name": "A28-2001/store-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-01T00:00:48Z",
+    "url": "https://github.com/A28-2001/store-copilot"
+  },
+  {
+    "description": "Off-grid passive solar + opencell concrete thermal systems \u2014 open hardware, permaculture computation, PoPW-verified",
+    "id": "jesseray718/openroot",
+    "language": "Python",
+    "name": "jesseray718/openroot",
+    "stars": 1,
+    "updated_at": "2026-10-01T00:00:33Z",
+    "url": "https://github.com/jesseray718/openroot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T00:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T00:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "An agentic runtime",
     "id": "r-uby-dev/llm",
     "language": "Ruby",
@@ -18,15 +72,6 @@
     "url": "https://github.com/FrankieGhaf/ragflow"
   },
   {
-    "description": "Off-grid passive solar + opencell concrete thermal systems \u2014 open hardware, permaculture computation, PoPW-verified",
-    "id": "jesseray718/openroot",
-    "language": "Python",
-    "name": "jesseray718/openroot",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:59:53Z",
-    "url": "https://github.com/jesseray718/openroot"
-  },
-  {
     "description": "Smart multi-agent conversational assistant with LangGraph orchestration, Human-in-the-Loop, enterprise-grade observabili",
     "id": "jgouviergmail/LIA-Assistant",
     "language": "Python",
@@ -34,6 +79,15 @@
     "stars": 51,
     "updated_at": "2026-09-30T23:59:50Z",
     "url": "https://github.com/jgouviergmail/LIA-Assistant"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95026,
+    "updated_at": "2026-10-01T00:00:49Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "PenAI \u2014 n\u1ec1n t\u1ea3ng AI Agent cho doanh nghi\u1ec7p: chat \u0111a k\u00eanh (Telegram, Zalo, Teams...), ChatGPT/Claude/Antigravity, kho tri",
@@ -72,15 +126,6 @@
     "url": "https://github.com/GitHpriyanshu23/Ragkno"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95027,
-    "updated_at": "2026-09-30T23:59:08Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "MCP server that lets Claude Code and other AI agents read and search large PDFs, one file or a whole folder: agentic RAG",
     "id": "jztan/pdf-mcp",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25601,
-    "updated_at": "2026-10-01T00:00:19Z",
+    "updated_at": "2026-10-01T00:00:26Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "joshuagillmore/intelligence-platform",
     "stars": 1,
-    "updated_at": "2026-09-30T23:58:15Z",
+    "updated_at": "2026-10-01T00:01:50Z",
     "url": "https://github.com/joshuagillmore/intelligence-platform"
   },
   {
@@ -342,24 +387,6 @@
     "url": "https://github.com/gg320324492-lgtm/microbubble-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T23:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T23:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Chat with your notes locally. Every answer cites its source, or says it doesn't know.",
     "id": "tosin2013/local-knowledge-vault",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T23:59:16Z",
     "url": "https://github.com/ajschlosser/DerridAI"
-  },
-  {
-    "description": "Long-term narrative memory sidecar for RisuAI  role-play (beta)",
-    "id": "Sallos725/NMOS",
-    "language": "Python",
-    "name": "Sallos725/NMOS",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:42:05Z",
-    "url": "https://github.com/Sallos725/NMOS"
-  },
-  {
-    "description": "Enterprise AI knowledge assistant for a (synthetic) commercial bank: LangGraph multi-agent, RLM research agent, Pinecone",
-    "id": "YugmaF/cb-knowledge-assistant",
-    "language": "Python",
-    "name": "YugmaF/cb-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-30T23:41:52Z",
-    "url": "https://github.com/YugmaF/cb-knowledge-assistant"
-  },
-  {
-    "description": "SwarmLabs: 30-domain scientific knowledge engine with 300K+ structured entities. MCP server + REST API + independent par",
-    "id": "lm203688/genetech-14-sites",
-    "language": "JavaScript",
-    "name": "lm203688/genetech-14-sites",
-    "stars": 0,
-    "updated_at": "2026-09-30T23:41:28Z",
-    "url": "https://github.com/lm203688/genetech-14-sites"
   }
 ]
