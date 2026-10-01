@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI agent that helps users discover and get personalized workout recommendations.",
+    "id": "ayoub637/backend-api-fitflow",
+    "language": "TypeScript",
+    "name": "ayoub637/backend-api-fitflow",
+    "stars": 3,
+    "updated_at": "2026-10-01T23:00:05Z",
+    "url": "https://github.com/ayoub637/backend-api-fitflow"
+  },
+  {
+    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
+    "id": "PersonaliAI/chatty",
+    "language": "TypeScript",
+    "name": "PersonaliAI/chatty",
+    "stars": 3,
+    "updated_at": "2026-10-01T22:59:28Z",
+    "url": "https://github.com/PersonaliAI/chatty"
+  },
+  {
+    "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
+    "id": "jwteeba/rag-platform",
+    "language": "Python",
+    "name": "jwteeba/rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:59:24Z",
+    "url": "https://github.com/jwteeba/rag-platform"
+  },
+  {
+    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
+    "id": "footprintjs/agentfootprint",
+    "language": "TypeScript",
+    "name": "footprintjs/agentfootprint",
+    "stars": 20,
+    "updated_at": "2026-10-01T22:59:18Z",
+    "url": "https://github.com/footprintjs/agentfootprint"
+  },
+  {
+    "description": "AI-powered document intelligence platform for research administration",
+    "id": "ui-insight/vandalizer",
+    "language": "Python",
+    "name": "ui-insight/vandalizer",
+    "stars": 11,
+    "updated_at": "2026-10-01T22:59:00Z",
+    "url": "https://github.com/ui-insight/vandalizer"
+  },
+  {
+    "description": "Your AI pair programmer for Visual Studio 2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 to",
+    "id": "EstaxNet/Inferpal",
+    "language": "C#",
+    "name": "EstaxNet/Inferpal",
+    "stars": 8,
+    "updated_at": "2026-10-01T22:58:36Z",
+    "url": "https://github.com/EstaxNet/Inferpal"
+  },
+  {
+    "description": "Hybrid QA bug-triage: deterministic NLP (PT) + LLMs + RAG with auto-fallback | Gherkin reports for Jira/GitHub | live de",
+    "id": "Iago3-stack/ai-bug-triage-system",
+    "language": "Python",
+    "name": "Iago3-stack/ai-bug-triage-system",
+    "stars": 5,
+    "updated_at": "2026-10-01T22:58:24Z",
+    "url": "https://github.com/Iago3-stack/ai-bug-triage-system"
+  },
+  {
+    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
+    "id": "yeixio/yggdrasil-core",
+    "language": "Go",
+    "name": "yeixio/yggdrasil-core",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:59:42Z",
+    "url": "https://github.com/yeixio/yggdrasil-core"
+  },
+  {
+    "description": "Personal portfolio of Hasnain Zainulabdin, a Python/FastAPI developer building AI/ML products (RAG, LLMs, vector search)",
+    "id": "SyedHusnain20/Personal_Portfolio",
+    "language": "HTML",
+    "name": "SyedHusnain20/Personal_Portfolio",
+    "stars": 1,
+    "updated_at": "2026-10-01T22:56:58Z",
+    "url": "https://github.com/SyedHusnain20/Personal_Portfolio"
+  },
+  {
+    "description": "Synapsa Commons: free, hands-on AI courses that run anywhere (Colab, Kaggle, Binder, Codespaces, Jupyter). EU AI Act con",
+    "id": "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+    "language": "Python",
+    "name": "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+    "stars": 4012,
+    "updated_at": "2026-10-01T22:56:41Z",
+    "url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"
+  },
+  {
+    "description": "AI \u306e\u305f\u3081\u306e\u77e5\u8b58\u30d9\u30fc\u30b9\u3002Wikipedia\u30fbOpenStreetMap\u30fbGeoNames \u306e\u516c\u5f0f\u30c0\u30f3\u30d7\u3092 SQLite (FTS5) \u306b\u7d22\u5f15\u3057\u3001MCP \u3068 REST \u3067 AI \u306b\u5f15\u304b\u305b\u308b\u3002AI \u304c\u66f8\u304d\u8db3\u305b\u308b notes \u3068\u3001Chiezo ",
+    "id": "rtcode337/chiezo",
+    "language": "Python",
+    "name": "rtcode337/chiezo",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:59:45Z",
+    "url": "https://github.com/rtcode337/chiezo"
+  },
+  {
+    "description": "Persistent memory & RAG engine for AI agents \u2014 SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi-",
+    "id": "aksika/abmind",
+    "language": "TypeScript",
+    "name": "aksika/abmind",
+    "stars": 20,
+    "updated_at": "2026-10-01T22:55:36Z",
+    "url": "https://github.com/aksika/abmind"
+  },
+  {
+    "description": "C# SDK for the Serper API -- Google search results API for search, news, images, videos, and more",
+    "id": "tryAGI/Serper",
+    "language": "C#",
+    "name": "tryAGI/Serper",
+    "stars": 0,
+    "updated_at": "2026-10-01T22:54:39Z",
+    "url": "https://github.com/tryAGI/Serper"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T22:54:34Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG voice agent for conversing with Pride and Prejudice characters, with every response grounded in cited passages.",
     "id": "chiussuhsieh/pemberley",
     "language": "Python",
@@ -27,15 +153,6 @@
     "url": "https://github.com/systemslibrarian/crypto-counsel"
   },
   {
-    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
-    "id": "yeixio/yggdrasil-core",
-    "language": "Go",
-    "name": "yeixio/yggdrasil-core",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:53:26Z",
-    "url": "https://github.com/yeixio/yggdrasil-core"
-  },
-  {
     "description": "Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... \ud83c\udf6c",
     "id": "mrsladoje/sweet-search",
     "language": "JavaScript",
@@ -49,7 +166,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25629,
+    "stars": 25630,
     "updated_at": "2026-10-01T22:53:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -63,21 +180,12 @@
     "url": "https://github.com/vaibhav-rj/RAG-pipeline"
   },
   {
-    "description": "Personal portfolio of Hasnain Zainulabdin, a Python/FastAPI developer building AI/ML products (RAG, LLMs, vector search)",
-    "id": "SyedHusnain20/Personal_Portfolio",
-    "language": "HTML",
-    "name": "SyedHusnain20/Personal_Portfolio",
-    "stars": 1,
-    "updated_at": "2026-10-01T22:52:40Z",
-    "url": "https://github.com/SyedHusnain20/Personal_Portfolio"
-  },
-  {
     "description": "AI Platform for Trainer-Member Diet & Exercise Coaching",
     "id": "CSE-Sudo/on-care",
     "language": "Dart",
     "name": "CSE-Sudo/on-care",
     "stars": 0,
-    "updated_at": "2026-10-01T22:52:36Z",
+    "updated_at": "2026-10-01T22:54:35Z",
     "url": "https://github.com/CSE-Sudo/on-care"
   },
   {
@@ -95,17 +203,8 @@
     "language": "Python",
     "name": "sourceblender/musubi",
     "stars": 11,
-    "updated_at": "2026-10-01T22:53:39Z",
+    "updated_at": "2026-10-01T22:54:41Z",
     "url": "https://github.com/sourceblender/musubi"
-  },
-  {
-    "description": "AI customer-support widget with chat + real-time voice agent, RAG over your own docs, self-hostable via Docker",
-    "id": "PersonaliAI/chatty",
-    "language": "TypeScript",
-    "name": "PersonaliAI/chatty",
-    "stars": 3,
-    "updated_at": "2026-10-01T22:50:40Z",
-    "url": "https://github.com/PersonaliAI/chatty"
   },
   {
     "description": "Twelve red/green gates, one per RAG pipeline stage.",
@@ -140,7 +239,7 @@
     "language": "TypeScript",
     "name": "digitalchokro/askchokro",
     "stars": 0,
-    "updated_at": "2026-10-01T22:50:20Z",
+    "updated_at": "2026-10-01T22:54:58Z",
     "url": "https://github.com/digitalchokro/askchokro"
   },
   {
@@ -151,15 +250,6 @@
     "stars": 53,
     "updated_at": "2026-10-01T22:48:48Z",
     "url": "https://github.com/FastBuilderAI/memory"
-  },
-  {
-    "description": "Persistent memory & RAG engine for AI agents \u2014 SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi-",
-    "id": "aksika/abmind",
-    "language": "TypeScript",
-    "name": "aksika/abmind",
-    "stars": 20,
-    "updated_at": "2026-10-01T22:48:42Z",
-    "url": "https://github.com/aksika/abmind"
   },
   {
     "description": "Ask a question and watch Wikipedia answer it: an AI search you can see and steer, with every claim cited",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T22:47:59Z",
     "url": "https://github.com/jahfaliabdulrahman-dev/rajhi-rag"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-10-01T22:47:48Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
   },
   {
     "description": "",
@@ -333,15 +414,6 @@
     "url": "https://github.com/k-sandhu/lumen-copilot"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T22:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG chatbot built with Python, FastAPI, ChromaDB and Google Gemini. Answers questions about my experience using vector e",
     "id": "leanNunez/portfolio-chatbot",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-01T22:41:50Z",
     "url": "https://github.com/tmestery/SONiC-RCA"
-  },
-  {
-    "description": "Cade is a local-first CLI for your personal activity history: git commits, browser history, files, images and Microsoft ",
-    "id": "Chipskein/cade",
-    "language": "Go",
-    "name": "Chipskein/cade",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:45:29Z",
-    "url": "https://github.com/Chipskein/cade"
-  },
-  {
-    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
-    "id": "FaultMaven/faultmaven",
-    "language": "Python",
-    "name": "FaultMaven/faultmaven",
-    "stars": 3,
-    "updated_at": "2026-10-01T22:41:34Z",
-    "url": "https://github.com/FaultMaven/faultmaven"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 5191,
-    "updated_at": "2026-10-01T22:45:44Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "AI course generator: streams structured courses from one prompt, with multi-LLM failover, RAG grounding, evals in CI, an",
-    "id": "rahulpaul-07/smart-course-generator",
-    "language": "TypeScript",
-    "name": "rahulpaul-07/smart-course-generator",
-    "stars": 2,
-    "updated_at": "2026-10-01T22:41:12Z",
-    "url": "https://github.com/rahulpaul-07/smart-course-generator"
-  },
-  {
-    "description": "Retrieval-augmented question answering: BM25, dense and hybrid retrieval evaluated on 10,570 questions, with cited answe",
-    "id": "S-Harshni/RAG-Document-QA",
-    "language": "Python",
-    "name": "S-Harshni/RAG-Document-QA",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:41:07Z",
-    "url": "https://github.com/S-Harshni/RAG-Document-QA"
-  },
-  {
-    "description": "Plataforma de conocimiento compartido entre facultades de la Universidad Francisco Gavidia. Flask + JavaScript, con inte",
-    "id": "PatoPsicko/UFG-KnowledgeHub",
-    "language": "JavaScript",
-    "name": "PatoPsicko/UFG-KnowledgeHub",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:40:25Z",
-    "url": "https://github.com/PatoPsicko/UFG-KnowledgeHub"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 19,
-    "updated_at": "2026-10-01T22:39:45Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Evidence-grounded AI agent with deterministic validation gates, FastAPI, Next.js, and offline evaluations",
-    "id": "pvs156/grounded-gate",
-    "language": "Python",
-    "name": "pvs156/grounded-gate",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:39:03Z",
-    "url": "https://github.com/pvs156/grounded-gate"
   }
 ]
