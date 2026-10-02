@@ -1,30 +1,21 @@
 [
   {
-    "description": "Turns messy multi-source data for a local service business (Housecall Pro-style CRM, call tracking, Search Console, Goog",
-    "id": "ivanmrchk/bi-engine",
+    "description": "Clinical case to PICO query to PubMed search to a PMID-cited evidence summary, using a local LLM (MedGemma via Ollama). ",
+    "id": "jvrbntz/pico-pubmed-rag",
     "language": "Python",
-    "name": "ivanmrchk/bi-engine",
+    "name": "jvrbntz/pico-pubmed-rag",
     "stars": 0,
-    "updated_at": "2026-10-02T19:15:13Z",
-    "url": "https://github.com/ivanmrchk/bi-engine"
+    "updated_at": "2026-10-02T19:30:04Z",
+    "url": "https://github.com/jvrbntz/pico-pubmed-rag"
   },
   {
-    "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
-    "id": "tuanductran/soulmap-ai",
+    "description": "Build bilingual Urdu-English retrieval-augmented generation for Pakistani government and legal documents with citation s",
+    "id": "Zackariahcorporate94/PAKGOV-RAG-project",
     "language": "Python",
-    "name": "tuanductran/soulmap-ai",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:14:20Z",
-    "url": "https://github.com/tuanductran/soulmap-ai"
-  },
-  {
-    "description": "A persistent Xianxia cultivation RPG for Discord: realms, sects, alchemy and a living NPC world. Go owns the rules and t",
-    "id": "RhaZenZ0/Xianxia-bot",
-    "language": "Python",
-    "name": "RhaZenZ0/Xianxia-bot",
+    "name": "Zackariahcorporate94/PAKGOV-RAG-project",
     "stars": 0,
-    "updated_at": "2026-10-02T19:15:10Z",
-    "url": "https://github.com/RhaZenZ0/Xianxia-bot"
+    "updated_at": "2026-10-02T19:29:59Z",
+    "url": "https://github.com/Zackariahcorporate94/PAKGOV-RAG-project"
   },
   {
     "description": "Local AI workbench: Ollama chat, document retrieval, model evaluation and optional personal and household interfaces.",
@@ -32,350 +23,179 @@
     "language": "JavaScript",
     "name": "WindriderQc/AgentX",
     "stars": 0,
-    "updated_at": "2026-10-02T19:15:15Z",
+    "updated_at": "2026-10-02T19:29:53Z",
     "url": "https://github.com/WindriderQc/AgentX"
   },
   {
-    "description": "Docent: your private AI assistant. Chat with your PDFs and Office files, search the web and connect MCP servers, running",
-    "id": "smartloop-ai/docent",
-    "language": "Rust",
-    "name": "smartloop-ai/docent",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:12:51Z",
-    "url": "https://github.com/smartloop-ai/docent"
-  },
-  {
-    "description": "Open-source Multi-LLM Ensemble & Scripture RAG platform delivering Bhagavad Gita guidance with zero-hallucination, page-",
-    "id": "MeetAhalpara/NityaGeeta",
-    "language": "TypeScript",
-    "name": "MeetAhalpara/NityaGeeta",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:14:40Z",
-    "url": "https://github.com/MeetAhalpara/NityaGeeta"
-  },
-  {
-    "description": "Patient app and clinician dashboard over a FastAPI backend, where LangGraph agents triage incoming chat, pull structured",
-    "id": "sjsu-masters-projects/medi-agent",
-    "language": "Python",
-    "name": "sjsu-masters-projects/medi-agent",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:12:29Z",
-    "url": "https://github.com/sjsu-masters-projects/medi-agent"
-  },
-  {
-    "description": "ui for ansible with AI",
-    "id": "mar0ls/playforge",
-    "language": "Python",
-    "name": "mar0ls/playforge",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:12:05Z",
-    "url": "https://github.com/mar0ls/playforge"
-  },
-  {
-    "description": "Build a dynamic knowledge system for your Claude Code agents to help your AI evolve, test, and manage information over t",
-    "id": "benizlerken/agent-second-brain",
+    "description": "Benchmark LLM-native structured output against TypeSafe Jev across latency, cost, and judgment quality.",
+    "id": "Donnaclarkk981/typesafe-ai-benchmark",
     "language": "\u2014",
-    "name": "benizlerken/agent-second-brain",
+    "name": "Donnaclarkk981/typesafe-ai-benchmark",
     "stars": 0,
-    "updated_at": "2026-10-02T19:12:03Z",
-    "url": "https://github.com/benizlerken/agent-second-brain"
+    "updated_at": "2026-10-02T19:29:53Z",
+    "url": "https://github.com/Donnaclarkk981/typesafe-ai-benchmark"
   },
   {
-    "description": "Search local documents to provide private knowledge retrieval for AI agents and teams in under a second.",
-    "id": "DawoodMX/kairix",
-    "language": "\u2014",
-    "name": "DawoodMX/kairix",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:11:48Z",
-    "url": "https://github.com/DawoodMX/kairix"
-  },
-  {
-    "description": "Map the evolution of LLM knowledge systems from prompt engineering to harness engineering with a comprehensive guide for",
-    "id": "Aryansingh009/awesome-llm-knowledge-systems",
-    "language": "Python",
-    "name": "Aryansingh009/awesome-llm-knowledge-systems",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:11:36Z",
-    "url": "https://github.com/Aryansingh009/awesome-llm-knowledge-systems"
-  },
-  {
-    "description": "Maintain a centralized knowledge wiki for LLMs by compiling raw documentation into actionable, versioned markdown files.",
-    "id": "genuscortinariusmors282/LLM-wiki",
-    "language": "Python",
-    "name": "genuscortinariusmors282/LLM-wiki",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:11:35Z",
-    "url": "https://github.com/genuscortinariusmors282/LLM-wiki"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:11:33Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:11:31Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Connect your own AI models to the Chrome sidebar to automate browser tasks and manage data directly through the side pan",
-    "id": "proforma-sailing735/claw-in-chrome",
-    "language": "JavaScript",
-    "name": "proforma-sailing735/claw-in-chrome",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:11:17Z",
-    "url": "https://github.com/proforma-sailing735/claw-in-chrome"
-  },
-  {
-    "description": "Improve Claude output with emotion-aware prompts, system configs, and workflows that boost honesty, reliability, and qua",
-    "id": "Scenic-urochordate607/claude-emotion-prompting",
-    "language": "\u2014",
-    "name": "Scenic-urochordate607/claude-emotion-prompting",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:11:16Z",
-    "url": "https://github.com/Scenic-urochordate607/claude-emotion-prompting"
-  },
-  {
-    "description": "An agentic runtime",
-    "id": "r-uby-dev/llm",
-    "language": "Ruby",
-    "name": "r-uby-dev/llm",
-    "stars": 141,
-    "updated_at": "2026-10-02T19:13:00Z",
-    "url": "https://github.com/r-uby-dev/llm"
-  },
-  {
-    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
-    "id": "melgarafael/DeskcommCRM",
+    "description": "A lightweight way for coding agents to accumulate and reference curated Markdown knowledge \u2014 no vector DB, no pre-indexi",
+    "id": "mfxgu2i/agentic-project-records",
     "language": "TypeScript",
-    "name": "melgarafael/DeskcommCRM",
-    "stars": 4368,
-    "updated_at": "2026-10-02T19:11:12Z",
-    "url": "https://github.com/melgarafael/DeskcommCRM"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
+    "name": "mfxgu2i/agentic-project-records",
     "stars": 0,
-    "updated_at": "2026-10-02T19:11:05Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+    "updated_at": "2026-10-02T19:29:37Z",
+    "url": "https://github.com/mfxgu2i/agentic-project-records"
   },
   {
-    "description": "Turns a codebase into something the rest of the company can ask. Plain-language questions, answers in domain terms, flow",
-    "id": "trick77/rongo",
+    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
+    "id": "yeixio/yggdrasil-core",
     "language": "Go",
-    "name": "trick77/rongo",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:12:26Z",
-    "url": "https://github.com/trick77/rongo"
-  },
-  {
-    "description": "Build a cellular substrate dynamics engine for layered theory, mathematical reconstruction, and testable experiments on ",
-    "id": "Cableayapanatriplinervis594/mind",
-    "language": "\u2014",
-    "name": "Cableayapanatriplinervis594/mind",
+    "name": "yeixio/yggdrasil-core",
     "stars": 0,
-    "updated_at": "2026-10-02T19:11:00Z",
-    "url": "https://github.com/Cableayapanatriplinervis594/mind"
+    "updated_at": "2026-10-02T19:29:22Z",
+    "url": "https://github.com/yeixio/yggdrasil-core"
   },
   {
-    "description": "Build an enterprise AI agent guide for travel and expense workflows with Python, Java, and Go, plus interview prep and l",
-    "id": "dillajas2617/travel-agent-guide",
-    "language": "\u2014",
-    "name": "dillajas2617/travel-agent-guide",
+    "description": "Pay-per-use Apify Actors that turn trends, news, documents, websites and audio into clean data",
+    "id": "fernandoguiraud16-coder/data-tools",
+    "language": "HTML",
+    "name": "fernandoguiraud16-coder/data-tools",
     "stars": 0,
-    "updated_at": "2026-10-02T19:10:58Z",
-    "url": "https://github.com/dillajas2617/travel-agent-guide"
+    "updated_at": "2026-10-02T19:29:11Z",
+    "url": "https://github.com/fernandoguiraud16-coder/data-tools"
   },
   {
-    "description": "Six runnable AI evaluation examples with transparent graders, saved reports, and a local tuning webpage",
-    "id": "hk-775/practical-eval-lab",
+    "description": "Open geographic query engine \u2014 ask place-based questions in natural language, get answers on a map. Covers disasters, de",
+    "id": "xyver/daedal-map",
     "language": "Python",
-    "name": "hk-775/practical-eval-lab",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:10:56Z",
-    "url": "https://github.com/hk-775/practical-eval-lab"
-  },
-  {
-    "description": "Build a privacy-first Hinglish AI voice agent that controls your PC, runs on 4GB VRAM, and uses secure signed commands",
-    "id": "Jumpedup-xanthopsia174/CHAARI_2.0",
-    "language": "Python",
-    "name": "Jumpedup-xanthopsia174/CHAARI_2.0",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:10:55Z",
-    "url": "https://github.com/Jumpedup-xanthopsia174/CHAARI_2.0"
-  },
-  {
-    "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
-    "id": "araray/llmcore",
-    "language": "Python",
-    "name": "araray/llmcore",
-    "stars": 4,
-    "updated_at": "2026-10-02T19:11:03Z",
-    "url": "https://github.com/araray/llmcore"
-  },
-  {
-    "description": "Predict large language model inference with memory prefetching and speculative decoding for faster reasoning on low VRAM",
-    "id": "27tr7437/Neural_Memory_Operating_system",
-    "language": "Python",
-    "name": "27tr7437/Neural_Memory_Operating_system",
+    "name": "xyver/daedal-map",
     "stars": 2,
-    "updated_at": "2026-10-02T19:10:42Z",
-    "url": "https://github.com/27tr7437/Neural_Memory_Operating_system"
+    "updated_at": "2026-10-02T19:29:01Z",
+    "url": "https://github.com/xyver/daedal-map"
   },
   {
-    "description": "  Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe",
-    "id": "Arasz/ai-raccoon",
-    "language": "C#",
-    "name": "Arasz/ai-raccoon",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:10:31Z",
-    "url": "https://github.com/Arasz/ai-raccoon"
+    "description": "\u6771\u4eac\u306e\u8ee2\u5165\u624b\u7d9a\u304d\u3092\u3001\u516c\u5f0f\u6839\u62e0\u3068\u6700\u7d42\u78ba\u8a8d\u65e5\u3064\u304d\u306e\u671f\u9650\u9806ToDo\u306b\u300223\u533a\uff0b\u516b\u738b\u5b50\u5e02\u306b\u5bfe\u5fdc\u3059\u308b\u975e\u516c\u5f0fWeb\u30b5\u30fc\u30d3\u30b9\uff08React + Hono on Cloudflare Workers / D1 / Vectorize\uff09",
+    "id": "Renga154/sumihajime",
+    "language": "TypeScript",
+    "name": "Renga154/sumihajime",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:28:45Z",
+    "url": "https://github.com/Renga154/sumihajime"
   },
   {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
+    "description": "Run persistent KV-reuse experiments and evaluate long-context answers with a CPU-only LLM inference tool featuring chat,",
+    "id": "Juniperusnutrientartery2964/long-horizon-cpu-llm",
     "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:10:31Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
+    "name": "Juniperusnutrientartery2964/long-horizon-cpu-llm",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:28:33Z",
+    "url": "https://github.com/Juniperusnutrientartery2964/long-horizon-cpu-llm"
   },
   {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
+    "description": "Self-hosted, agentic AI you own \u2014 voice, vision-driven browser & computer control, visual workflows, human-in-the-loop a",
+    "id": "mrveiss/AutoBot-AI",
+    "language": "Python",
+    "name": "mrveiss/AutoBot-AI",
+    "stars": 14,
+    "updated_at": "2026-10-02T19:28:58Z",
+    "url": "https://github.com/mrveiss/AutoBot-AI"
+  },
+  {
+    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
+    "id": "pwolfey09-sketch/embedflow",
+    "language": "Python",
+    "name": "pwolfey09-sketch/embedflow",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:28:16Z",
+    "url": "https://github.com/pwolfey09-sketch/embedflow"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-02T19:27:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
+    "id": "LocketKeyLLC/scaffold-engine",
+    "language": "Python",
+    "name": "LocketKeyLLC/scaffold-engine",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:27:08Z",
+    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
+  },
+  {
+    "description": "Bot wsparcia dla operatora p\u0142atno\u015bci: odpowiada tylko z dokumentacji (RAG), cytuje \u017ar\u00f3d\u0142o, przekazuje spraw\u0119 cz\u0142owiekowi",
+    "id": "aleksykremza-dev/kremzapay-support-bot",
+    "language": "Python",
+    "name": "aleksykremza-dev/kremzapay-support-bot",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:26:56Z",
+    "url": "https://github.com/aleksykremza-dev/kremzapay-support-bot"
+  },
+  {
+    "description": "A research agent where every citation is programmatically verified. Hand-rolled tool loop, guardrails at the capability ",
+    "id": "vikrambtech2025-png/citecheck",
+    "language": "Python",
+    "name": "vikrambtech2025-png/citecheck",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:26:40Z",
+    "url": "https://github.com/vikrambtech2025-png/citecheck"
+  },
+  {
+    "description": "Chat with PDFs, websites, and videos using RAG \u2014 a NotebookLM-inspired workspace built on Next.js and Pinecone",
+    "id": "gopallchoudhary/Studybook-LM",
+    "language": "TypeScript",
+    "name": "gopallchoudhary/Studybook-LM",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:26:34Z",
+    "url": "https://github.com/gopallchoudhary/Studybook-LM"
+  },
+  {
+    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
+    "id": "darylalim/rag-pipeline",
+    "language": "Python",
+    "name": "darylalim/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:26:31Z",
+    "url": "https://github.com/darylalim/rag-pipeline"
+  },
+  {
+    "description": "Asynchronous customer support ticket priority queue and SLA auto-responder with Policy RAG.",
+    "id": "Spizhy/triage-flow-worker",
     "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
+    "name": "Spizhy/triage-flow-worker",
     "stars": 0,
-    "updated_at": "2026-10-02T19:10:30Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
+    "updated_at": "2026-10-02T19:26:30Z",
+    "url": "https://github.com/Spizhy/triage-flow-worker"
   },
   {
-    "description": "Explore AI agent architecture with deep dives, PDF notes, and a minimal Python teaching project for learning core agent ",
-    "id": "edgarofonseca2-ops/ai-agent-deep-dive",
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 801,
+    "updated_at": "2026-10-02T19:26:26Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Turns messy multi-source data for a local service business (Housecall Pro-style CRM, call tracking, Search Console, Goog",
+    "id": "ivanmrchk/bi-engine",
     "language": "Python",
-    "name": "edgarofonseca2-ops/ai-agent-deep-dive",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:10:29Z",
-    "url": "https://github.com/edgarofonseca2-ops/ai-agent-deep-dive"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-10-02T19:10:28Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Convert anime illustrations into layered 2.5D models with depth order for Live2D and PSD export in ComfyUI",
-    "id": "untrained-devilray248/ComfyUI-See-through",
-    "language": "\u2014",
-    "name": "untrained-devilray248/ComfyUI-See-through",
+    "name": "ivanmrchk/bi-engine",
     "stars": 0,
-    "updated_at": "2026-10-02T19:10:21Z",
-    "url": "https://github.com/untrained-devilray248/ComfyUI-See-through"
+    "updated_at": "2026-10-02T19:26:18Z",
+    "url": "https://github.com/ivanmrchk/bi-engine"
   },
   {
-    "description": "Build a Laravel RAG pipeline for retrieval-augmented generation with driver-based vector stores and Prism PHP support",
-    "id": "cannedfoodssunbonnet729/laravel-rag",
-    "language": "PHP",
-    "name": "cannedfoodssunbonnet729/laravel-rag",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:10:13Z",
-    "url": "https://github.com/cannedfoodssunbonnet729/laravel-rag"
-  },
-  {
-    "description": "Coordinate agent brainstorming to generate research proposals and manage future experiment and review workflows",
-    "id": "Daisybastioned440/lite-research-agents",
-    "language": "Python",
-    "name": "Daisybastioned440/lite-research-agents",
+    "description": "Model Context Protocol (MCP) memory server giving AI agents a persistent, shared world across sessions, vendors, and mod",
+    "id": "v1b3x0r/living-memory-engine",
+    "language": "TypeScript",
+    "name": "v1b3x0r/living-memory-engine",
     "stars": 2,
-    "updated_at": "2026-10-02T19:10:06Z",
-    "url": "https://github.com/Daisybastioned440/lite-research-agents"
-  },
-  {
-    "description": "Build a RAG AI chat bot for business docs with local ChromaDB, Claude, and Flask for grounded answers from your own data",
-    "id": "badressalemmouffek-coder/frank-bot",
-    "language": "Python",
-    "name": "badressalemmouffek-coder/frank-bot",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:10:04Z",
-    "url": "https://github.com/badressalemmouffek-coder/frank-bot"
-  },
-  {
-    "description": "Explore 63 practical AI workflows for coding, research, meetings, productivity, media, security, and operations",
-    "id": "britannic-cabernetsauvignongrape650/awesome-ai-workflows-that-works",
-    "language": "JavaScript",
-    "name": "britannic-cabernetsauvignongrape650/awesome-ai-workflows-that-works",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:09:58Z",
-    "url": "https://github.com/britannic-cabernetsauvignongrape650/awesome-ai-workflows-that-works"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:09:58Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Search code and feature records by meaning through the command line or Model Context Protocol (MCP). Inference runs on y",
-    "id": "nevenincs/vaultspec-rag",
-    "language": "Python",
-    "name": "nevenincs/vaultspec-rag",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:09:55Z",
-    "url": "https://github.com/nevenincs/vaultspec-rag"
-  },
-  {
-    "description": "Verifies AI outputs with multi-agent checks for hallucinations, RAG errors, and risky actions",
-    "id": "familyoctopodidaewhitebarkedpine161/veritas",
-    "language": "Python",
-    "name": "familyoctopodidaewhitebarkedpine161/veritas",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:09:53Z",
-    "url": "https://github.com/familyoctopodidaewhitebarkedpine161/veritas"
-  },
-  {
-    "description": "Optimize FAISS-compatible vector quantization for fast, accurate vector search with TurboQuant",
-    "id": "bojobh609/TurboQuant",
-    "language": "Python",
-    "name": "bojobh609/TurboQuant",
-    "stars": 2,
-    "updated_at": "2026-10-02T19:09:53Z",
-    "url": "https://github.com/bojobh609/TurboQuant"
-  },
-  {
-    "description": "Build and test autonomous multi-agent apps with a pure Python Harness that maps Anthropic\u2019s design to runnable code",
-    "id": "Chesl7916/Harness_Engineering",
-    "language": "\u2014",
-    "name": "Chesl7916/Harness_Engineering",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:09:50Z",
-    "url": "https://github.com/Chesl7916/Harness_Engineering"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:09:46Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
+    "updated_at": "2026-10-02T19:26:07Z",
+    "url": "https://github.com/v1b3x0r/living-memory-engine"
   },
   {
     "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
@@ -383,70 +203,250 @@
     "language": "Python",
     "name": "jasonssdev/openkos",
     "stars": 3,
-    "updated_at": "2026-10-02T19:09:52Z",
+    "updated_at": "2026-10-02T19:26:13Z",
     "url": "https://github.com/jasonssdev/openkos"
   },
   {
-    "description": "Generate prompts for VeoScript AI Studio apps with a simple local workflow and Gemini API support",
-    "id": "dape8318/veoscript-prompt-generator",
+    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
+    "id": "Constraintworthy6058/ai-github-repository-assistant",
     "language": "TypeScript",
-    "name": "dape8318/veoscript-prompt-generator",
+    "name": "Constraintworthy6058/ai-github-repository-assistant",
     "stars": 0,
-    "updated_at": "2026-10-02T19:09:35Z",
-    "url": "https://github.com/dape8318/veoscript-prompt-generator"
+    "updated_at": "2026-10-02T19:25:58Z",
+    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
   },
   {
-    "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
-    "id": "jrhahn/ai-trainer",
+    "description": "Reusable, tool-agnostic AI engineering skills, workflows, templates, and evaluation playbooks for AI coding agents.",
+    "id": "karthikrshet/aiskills",
     "language": "Python",
-    "name": "jrhahn/ai-trainer",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:13:08Z",
-    "url": "https://github.com/jrhahn/ai-trainer"
+    "name": "karthikrshet/aiskills",
+    "stars": 4,
+    "updated_at": "2026-10-02T19:25:37Z",
+    "url": "https://github.com/karthikrshet/aiskills"
   },
   {
-    "description": "Document TikTool API docs for real-time TikTok Live data, WebSocket, REST, captions, SDKs, and integrations",
-    "id": "selfsacrificing-bath465/docs",
-    "language": "MDX",
-    "name": "selfsacrificing-bath465/docs",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "id": "onyx-dot-app/onyx",
+    "language": "Python",
+    "name": "onyx-dot-app/onyx",
+    "stars": 32313,
+    "updated_at": "2026-10-02T19:28:19Z",
+    "url": "https://github.com/onyx-dot-app/onyx"
+  },
+  {
+    "description": "Loglan Bench: First Open Benchmark & RAG Grammar Assistant for a Syntactically Unambiguous Human Language",
+    "id": "torrua/loglan-bench",
+    "language": "Python",
+    "name": "torrua/loglan-bench",
     "stars": 0,
-    "updated_at": "2026-10-02T19:09:26Z",
-    "url": "https://github.com/selfsacrificing-bath465/docs"
+    "updated_at": "2026-10-02T19:25:27Z",
+    "url": "https://github.com/torrua/loglan-bench"
   },
   {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
+    "description": "MCP server that gives Claude/Cursor a governed connection to your databases: builds a knowledge graph per DB (foreign ke",
+    "id": "Machi2130/SQL-Agent",
     "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:09:22Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Build a RAG engine with hybrid search, reranking, and RAGAS evaluation for fast, accurate retrieval and generation",
-    "id": "matomed9259/ragcore",
-    "language": "Python",
-    "name": "matomed9259/ragcore",
+    "name": "Machi2130/SQL-Agent",
     "stars": 0,
-    "updated_at": "2026-10-02T19:09:19Z",
-    "url": "https://github.com/matomed9259/ragcore"
+    "updated_at": "2026-10-02T19:25:24Z",
+    "url": "https://github.com/Machi2130/SQL-Agent"
   },
   {
-    "description": "Graph RAG on SQLite for AI agents: vector retrieval + hand-curated wikilink graph + cross-encoder rerank, with a zero-to",
-    "id": "tonydzi/sqlite-graph-memory",
-    "language": "Python",
-    "name": "tonydzi/sqlite-graph-memory",
-    "stars": 8,
-    "updated_at": "2026-10-02T19:09:53Z",
-    "url": "https://github.com/tonydzi/sqlite-graph-memory"
+    "description": "Persist Claude Code session memory as markdown notes in your Obsidian vault for instant context recall.",
+    "id": "robinpatras06/lore",
+    "language": "\u2014",
+    "name": "robinpatras06/lore",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:25:21Z",
+    "url": "https://github.com/robinpatras06/lore"
   },
   {
-    "description": "Capture AI coding decisions and dead ends in a self-hosted memory store for your codebase and agents",
-    "id": "kuldeepsuryawanshi56-del/pulse-ai",
+    "description": "Self-hosted Agentic Notebook: chat with your sources, grounded in citations, with reports, infographics, quizzes, flashc",
+    "id": "russrimm/InfiniAIBook",
     "language": "TypeScript",
-    "name": "kuldeepsuryawanshi56-del/pulse-ai",
+    "name": "russrimm/InfiniAIBook",
     "stars": 0,
-    "updated_at": "2026-10-02T19:09:14Z",
-    "url": "https://github.com/kuldeepsuryawanshi56-del/pulse-ai"
+    "updated_at": "2026-10-02T19:25:21Z",
+    "url": "https://github.com/russrimm/InfiniAIBook"
+  },
+  {
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, t",
+    "id": "AgentsKit-io/agentskit",
+    "language": "TypeScript",
+    "name": "AgentsKit-io/agentskit",
+    "stars": 33,
+    "updated_at": "2026-10-02T19:30:09Z",
+    "url": "https://github.com/AgentsKit-io/agentskit"
+  },
+  {
+    "description": "AI\u9a71\u52a8\u7684\u9762\u8bd5\u8f85\u52a9\u5de5\u5177\uff0c\u5b9e\u65f6\u6355\u83b7\u7cfb\u7edf\u97f3\u9891\uff0c\u81ea\u52a8\u8f6c\u5f55\u8003\u5b98\u63d0\u95ee\u5e76\u751f\u6210\u6d41\u5f0f\u53e3\u8bed\u56de\u7b54\uff0c\u9002\u914d\u56fd\u5185AI\u6a21\u578b\uff0c\u7a97\u53e3\u9690\u8eab\u9632\u5c4f\u5e55\u5206\u4eab\u68c0\u6d4b\u3002",
+    "id": "Openeyed-upbraider7227/interview-assistant",
+    "language": "TypeScript",
+    "name": "Openeyed-upbraider7227/interview-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:24:49Z",
+    "url": "https://github.com/Openeyed-upbraider7227/interview-assistant"
+  },
+  {
+    "description": "AI receptionist and business-operations platform for LINE Official Accounts. Public architecture overview; source is pri",
+    "id": "rjk6831/botanswer-architecture",
+    "language": "JavaScript",
+    "name": "rjk6831/botanswer-architecture",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:24:14Z",
+    "url": "https://github.com/rjk6831/botanswer-architecture"
+  },
+  {
+    "description": "",
+    "id": "DevDreamer26/Distributed_Hybrid_RAG_Engine",
+    "language": "Python",
+    "name": "DevDreamer26/Distributed_Hybrid_RAG_Engine",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:23:56Z",
+    "url": "https://github.com/DevDreamer26/Distributed_Hybrid_RAG_Engine"
+  },
+  {
+    "description": "Prepares local documents for Codex by converting, cleanup, chunking, and indexing for search-first, retrieval-bounded re",
+    "id": "Quotable-mimus510/codex-document-prep",
+    "language": "Python",
+    "name": "Quotable-mimus510/codex-document-prep",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:23:20Z",
+    "url": "https://github.com/Quotable-mimus510/codex-document-prep"
+  },
+  {
+    "description": "A self-hosted AI assistant platform where trust is measured, not claimed - hybrid retrieval behind a reranker seam, clea",
+    "id": "architecture-zero/architecture-zero",
+    "language": "Python",
+    "name": "architecture-zero/architecture-zero",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:23:14Z",
+    "url": "https://github.com/architecture-zero/architecture-zero"
+  },
+  {
+    "description": "Add AI-powered ticket analysis to GLPI 11 using local models via an AnythingLLM workspace, with no cloud dependency.",
+    "id": "Pathwra1547/glpi-plugin-aiticketanalysis",
+    "language": "PHP",
+    "name": "Pathwra1547/glpi-plugin-aiticketanalysis",
+    "stars": 1,
+    "updated_at": "2026-10-02T19:23:13Z",
+    "url": "https://github.com/Pathwra1547/glpi-plugin-aiticketanalysis"
+  },
+  {
+    "description": "Local-only RAG for cross-department project lessons: hybrid BM25+vector search, LLM reranking, and cited answers that ve",
+    "id": "satoshi-abe-dev/silo-rag",
+    "language": "Python",
+    "name": "satoshi-abe-dev/silo-rag",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:23:09Z",
+    "url": "https://github.com/satoshi-abe-dev/silo-rag"
+  },
+  {
+    "description": "Install and configure Brackets on Windows with step-by-step setup notes, admin installer guidance, and licensing tips.",
+    "id": "Georgian-thurber982/brackets-setup",
+    "language": "\u2014",
+    "name": "Georgian-thurber982/brackets-setup",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:22:50Z",
+    "url": "https://github.com/Georgian-thurber982/brackets-setup"
+  },
+  {
+    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
+    "id": "alegameplays14-del/leica-infinity-2026",
+    "language": "\u2014",
+    "name": "alegameplays14-del/leica-infinity-2026",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:22:35Z",
+    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
+  },
+  {
+    "description": "Scrape local events and activities directly in your browser with this simple HTML scraper. Find nearby happenings fast.",
+    "id": "Bridgeheadcompany624/activity-scraper-html",
+    "language": "HTML",
+    "name": "Bridgeheadcompany624/activity-scraper-html",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:22:26Z",
+    "url": "https://github.com/Bridgeheadcompany624/activity-scraper-html"
+  },
+  {
+    "description": "Connect AI agents to Magellan Data to extract corporate ownership intelligence, parent company structures, and private e",
+    "id": "xboxgameservice/mcp",
+    "language": "\u2014",
+    "name": "xboxgameservice/mcp",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:22:01Z",
+    "url": "https://github.com/xboxgameservice/mcp"
+  },
+  {
+    "description": "Ingest FHIR resources into a Qdrant vector store and use Rust to answer clinical questions via RAG.",
+    "id": "arday5581-dev/anamnesis",
+    "language": "\u2014",
+    "name": "arday5581-dev/anamnesis",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:54Z",
+    "url": "https://github.com/arday5581-dev/anamnesis"
+  },
+  {
+    "description": "\ud83e\udd16 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. Ty",
+    "id": "cogitator-ai/Cogitator-AI",
+    "language": "TypeScript",
+    "name": "cogitator-ai/Cogitator-AI",
+    "stars": 39,
+    "updated_at": "2026-10-02T19:21:52Z",
+    "url": "https://github.com/cogitator-ai/Cogitator-AI"
+  },
+  {
+    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
+    "id": "interbankloansenega594/Context_OS",
+    "language": "\u2014",
+    "name": "interbankloansenega594/Context_OS",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:51Z",
+    "url": "https://github.com/interbankloansenega594/Context_OS"
+  },
+  {
+    "description": "Local-first personal AI agent: persistent multi-collection memory, benchmarked multi-stage RAG with cross-encoder rerank",
+    "id": "lukehalleran/ai-assistant-framework",
+    "language": "Python",
+    "name": "lukehalleran/ai-assistant-framework",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:50Z",
+    "url": "https://github.com/lukehalleran/ai-assistant-framework"
+  },
+  {
+    "description": "Automate job applications by generating evidence-based resume claims, cover letters, and audited documents with human ov",
+    "id": "diamantine-aneroidbarometer28/JobPilotAgent",
+    "language": "Python",
+    "name": "diamantine-aneroidbarometer28/JobPilotAgent",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:49Z",
+    "url": "https://github.com/diamantine-aneroidbarometer28/JobPilotAgent"
+  },
+  {
+    "description": "Monitor driver safety and control in-vehicle systems using computer vision, real-time behavior tracking, and a local Qwe",
+    "id": "watchara7696/Intelligent-Voice-Driving-System",
+    "language": "\u2014",
+    "name": "watchara7696/Intelligent-Voice-Driving-System",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:43Z",
+    "url": "https://github.com/watchara7696/Intelligent-Voice-Driving-System"
+  },
+  {
+    "description": "Define portable, verifiable, and versioned knowledge packs for trusted AI systems and RAG applications.",
+    "id": "rozannaparasitical577/aladdin-spec",
+    "language": "Python",
+    "name": "rozannaparasitical577/aladdin-spec",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:41Z",
+    "url": "https://github.com/rozannaparasitical577/aladdin-spec"
+  },
+  {
+    "description": "A tiny, zero-dependency harness for evaluating RAG pipelines: retrieval quality, answer faithfulness, and latency.",
+    "id": "harshaeethakota-design/rag-eval-harness",
+    "language": "Python",
+    "name": "harshaeethakota-design/rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:21:37Z",
+    "url": "https://github.com/harshaeethakota-design/rag-eval-harness"
   }
 ]
