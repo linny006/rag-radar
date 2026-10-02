@@ -1,11 +1,65 @@
 [
   {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:00:12Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "\ubb38\uc11c\ub97c \uc62c\ub9ac\uba74 \ucd9c\ucc98\uac00 \ubd99\ub294 \ud55c\uad6d\uc5b4 RAG \ucc57\ubd07\uc744 \ub9cc\ub4e4\uace0, \ub2f5\ubcc0 \ud488\uc9c8\uc744 \uc790\ub3d9 \ud3c9\uac00 \ub9ac\ud3ec\ud2b8\ub85c \uc99d\uba85\ud558\ub294 \uc11c\ube44\uc2a4",
+    "id": "storyrago/AllDap",
+    "language": "Java",
+    "name": "storyrago/AllDap",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:59:54Z",
+    "url": "https://github.com/storyrago/AllDap"
+  },
+  {
+    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
+    "id": "LocketKeyLLC/scaffold-engine",
+    "language": "Python",
+    "name": "LocketKeyLLC/scaffold-engine",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:59:09Z",
+    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
+  },
+  {
+    "description": "Evidence-grounded AI agent with deterministic validation gates, FastAPI, Next.js, and offline evaluations",
+    "id": "pvs156/grounded-gate",
+    "language": "Python",
+    "name": "pvs156/grounded-gate",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:58:58Z",
+    "url": "https://github.com/pvs156/grounded-gate"
+  },
+  {
+    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
+    "id": "momang85/weavemind",
+    "language": "Python",
+    "name": "momang85/weavemind",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:58:17Z",
+    "url": "https://github.com/momang85/weavemind"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T01:58:09Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An offline, provenance-preserving RAG pipeline and human-in-the-loop corpus builder for the digital humanities, DerridAI",
     "id": "ajschlosser/DerridAI",
     "language": "Python",
     "name": "ajschlosser/DerridAI",
     "stars": 1,
-    "updated_at": "2026-10-02T01:57:51Z",
+    "updated_at": "2026-10-02T01:59:14Z",
     "url": "https://github.com/ajschlosser/DerridAI"
   },
   {
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 95132,
-    "updated_at": "2026-10-02T01:57:15Z",
+    "updated_at": "2026-10-02T01:58:50Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T01:55:37Z",
     "url": "https://github.com/Zuhair-01/claude-skills-and-systems"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-10-02T01:54:56Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
   },
   {
     "description": "",
@@ -131,7 +176,7 @@
     "language": "JavaScript",
     "name": "stuinfla/ruvnet-brain",
     "stars": 71,
-    "updated_at": "2026-10-02T01:49:52Z",
+    "updated_at": "2026-10-02T01:58:31Z",
     "url": "https://github.com/stuinfla/ruvnet-brain"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "tonthatgiahuy16/CloudMentor-AI",
     "stars": 0,
-    "updated_at": "2026-10-02T01:48:30Z",
+    "updated_at": "2026-10-02T01:59:19Z",
     "url": "https://github.com/tonthatgiahuy16/CloudMentor-AI"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-10-02T01:45:26Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T01:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... \ud83c\udf6c",
@@ -333,20 +369,11 @@
     "url": "https://github.com/mmarufov/Daily"
   },
   {
-    "description": "\u7ec7\u5149 WeaveMind \u00b7 \u8dd1\u5728\u4f60\u81ea\u5df1\u7535\u8111\u4e0a\u7684\u591a\u667a\u80fd\u4f53\u7814\u7a76\u56e2\u961f\uff1a\u4e00\u53e5\u76ee\u6807 \u2192 \u89c4\u5212/\u6267\u884c/\u8bc4\u5ba1/\u53cd\u601d\u5168\u6d41\u7a0b\u53ef\u89c6\u5316\uff0c\u4ea4\u4ed8\u5168\u94fe\u53ef\u6eaf\u6e90\u62a5\u544a\uff1b\u770b\u5f97\u89c1\u3001\u4f1a\u8bb0\u5fc6\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\uff08Python + React\uff09",
-    "id": "momang85/weavemind",
-    "language": "Python",
-    "name": "momang85/weavemind",
-    "stars": 1,
-    "updated_at": "2026-10-02T01:40:30Z",
-    "url": "https://github.com/momang85/weavemind"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
     "name": "headroomlabs-ai/headroom",
-    "stars": 74248,
+    "stars": 74249,
     "updated_at": "2026-10-02T01:40:27Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "svasenkov/greedy-token",
     "stars": 4,
-    "updated_at": "2026-10-02T01:47:17Z",
+    "updated_at": "2026-10-02T01:59:43Z",
     "url": "https://github.com/svasenkov/greedy-token"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 77,
     "updated_at": "2026-10-02T01:37:48Z",
     "url": "https://github.com/OpenSourceAGI/qwksearch-research-agent"
-  },
-  {
-    "description": "StratusGuide \u2014 an evidence-first cloud-computing RAG tutor with a credential-free demo, verified citations, Azure adapte",
-    "id": "Z-MarkUs/Cloud-Computing-Expertise-Enhancement-via-AI",
-    "language": "Python",
-    "name": "Z-MarkUs/Cloud-Computing-Expertise-Enhancement-via-AI",
-    "stars": 0,
-    "updated_at": "2026-10-02T01:37:44Z",
-    "url": "https://github.com/Z-MarkUs/Cloud-Computing-Expertise-Enhancement-via-AI"
-  },
-  {
-    "description": "Self-hosted cloud/AI platform on a Raspberry Pi 5 + GPU desktop: Docker/K3s, FastAPI, PostgreSQL/pgvector, local LLM RAG",
-    "id": "josephvelasquez48/homelab",
-    "language": "Python",
-    "name": "josephvelasquez48/homelab",
-    "stars": 0,
-    "updated_at": "2026-10-02T01:35:42Z",
-    "url": "https://github.com/josephvelasquez48/homelab"
-  },
-  {
-    "description": ".NET pipeline framework for enterprise AI applications \u2014 multi-provider LLM integration, RAG pipelines, and multi-agent ",
-    "id": "iyulab/ironhive",
-    "language": "C#",
-    "name": "iyulab/ironhive",
-    "stars": 0,
-    "updated_at": "2026-10-02T01:35:09Z",
-    "url": "https://github.com/iyulab/ironhive"
   }
 ]
