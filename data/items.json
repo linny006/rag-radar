@@ -1,5 +1,149 @@
 [
   {
+    "description": "MCP server that gives Claude/Cursor a governed connection to your databases: builds a knowledge graph per DB (foreign ke",
+    "id": "Machi2130/SQL-Agent",
+    "language": "Python",
+    "name": "Machi2130/SQL-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:56Z",
+    "url": "https://github.com/Machi2130/SQL-Agent"
+  },
+  {
+    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
+    "id": "yeixio/yggdrasil-core",
+    "language": "Go",
+    "name": "yeixio/yggdrasil-core",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:43Z",
+    "url": "https://github.com/yeixio/yggdrasil-core"
+  },
+  {
+    "description": "AI assistant that explains charges from financial documents using vision LLM + RAG",
+    "id": "HarshCodeK/multimodal-financial-assistant",
+    "language": "Python",
+    "name": "HarshCodeK/multimodal-financial-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:26Z",
+    "url": "https://github.com/HarshCodeK/multimodal-financial-assistant"
+  },
+  {
+    "description": "AI Agent OS: agent runtime with RAG knowledge, graceful offline degradation, chat UI + REST API",
+    "id": "HarshCodeK/megaproject",
+    "language": "Python",
+    "name": "HarshCodeK/megaproject",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:22Z",
+    "url": "https://github.com/HarshCodeK/megaproject"
+  },
+  {
+    "description": "Production portfolio of 5 AI-powered process automation systems spanning document processing, DevOps, support triage, ma",
+    "id": "Spizhy/ai-automation-portfolio",
+    "language": "\u2014",
+    "name": "Spizhy/ai-automation-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:18Z",
+    "url": "https://github.com/Spizhy/ai-automation-portfolio"
+  },
+  {
+    "description": "Docent: your private AI assistant. Chat with your PDFs and Office files, search the web and connect MCP servers, running",
+    "id": "smartloop-ai/docent",
+    "language": "Rust",
+    "name": "smartloop-ai/docent",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:03Z",
+    "url": "https://github.com/smartloop-ai/docent"
+  },
+  {
+    "description": "DepthAPI is a production-ready FastAPI backend for tunable cognitive depth RAG. It enables precise control over response",
+    "id": "sanjeevafk/depthapi",
+    "language": "Python",
+    "name": "sanjeevafk/depthapi",
+    "stars": 2,
+    "updated_at": "2026-10-02T19:33:02Z",
+    "url": "https://github.com/sanjeevafk/depthapi"
+  },
+  {
+    "description": "Your AI pair programmer for Visual Studio 2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 to",
+    "id": "EstaxNet/Inferpal",
+    "language": "C#",
+    "name": "EstaxNet/Inferpal",
+    "stars": 8,
+    "updated_at": "2026-10-02T19:31:47Z",
+    "url": "https://github.com/EstaxNet/Inferpal"
+  },
+  {
+    "description": "Local AI workbench: Ollama chat, document retrieval, model evaluation and optional personal and household interfaces.",
+    "id": "WindriderQc/AgentX",
+    "language": "JavaScript",
+    "name": "WindriderQc/AgentX",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:32:42Z",
+    "url": "https://github.com/WindriderQc/AgentX"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25651,
+    "updated_at": "2026-10-02T19:33:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI-powered virtual executive team \u2014 a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js",
+    "id": "SenteLabsAI/OpenExecutive",
+    "language": "Python",
+    "name": "SenteLabsAI/OpenExecutive",
+    "stars": 5461,
+    "updated_at": "2026-10-02T19:31:36Z",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive"
+  },
+  {
+    "description": "\u5b9e\u6d4b\u9a71\u52a8\u7684\u641c\u7d22\u8def\u7531 skill \u2014 \u6559 AI \u7f16\u7801\u52a9\u624b\u4f55\u65f6\u7528 Tavily\u3001\u4f55\u65f6\u7528 Exa(evidence-backed Tavily vs Exa routing)",
+    "id": "yk4464/tavily-exa-router",
+    "language": "Python",
+    "name": "yk4464/tavily-exa-router",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:31:00Z",
+    "url": "https://github.com/yk4464/tavily-exa-router"
+  },
+  {
+    "description": "Centralize, enhance, and distribute high-performance Multi-Agent MCP servers with a unified Go CLI and npm package for W",
+    "id": "irreversible-verbascumlychnitis9/mcp",
+    "language": "Go",
+    "name": "irreversible-verbascumlychnitis9/mcp",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:30:36Z",
+    "url": "https://github.com/irreversible-verbascumlychnitis9/mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T19:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Asynchronous customer support ticket priority queue and SLA auto-responder with Policy RAG.",
+    "id": "Spizhy/triage-flow-worker",
+    "language": "Python",
+    "name": "Spizhy/triage-flow-worker",
+    "stars": 0,
+    "updated_at": "2026-10-02T19:30:24Z",
+    "url": "https://github.com/Spizhy/triage-flow-worker"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T19:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Clinical case to PICO query to PubMed search to a PMID-cited evidence summary, using a local LLM (MedGemma via Ollama). ",
     "id": "jvrbntz/pico-pubmed-rag",
     "language": "Python",
@@ -18,15 +162,6 @@
     "url": "https://github.com/Zackariahcorporate94/PAKGOV-RAG-project"
   },
   {
-    "description": "Local AI workbench: Ollama chat, document retrieval, model evaluation and optional personal and household interfaces.",
-    "id": "WindriderQc/AgentX",
-    "language": "JavaScript",
-    "name": "WindriderQc/AgentX",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:29:53Z",
-    "url": "https://github.com/WindriderQc/AgentX"
-  },
-  {
     "description": "Benchmark LLM-native structured output against TypeSafe Jev across latency, cost, and judgment quality.",
     "id": "Donnaclarkk981/typesafe-ai-benchmark",
     "language": "\u2014",
@@ -43,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:29:37Z",
     "url": "https://github.com/mfxgu2i/agentic-project-records"
-  },
-  {
-    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
-    "id": "yeixio/yggdrasil-core",
-    "language": "Go",
-    "name": "yeixio/yggdrasil-core",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:29:22Z",
-    "url": "https://github.com/yeixio/yggdrasil-core"
   },
   {
     "description": "Pay-per-use Apify Actors that turn trends, news, documents, websites and audio into clean data",
@@ -113,7 +239,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-02T19:27:28Z",
+    "updated_at": "2026-10-02T19:31:21Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -122,7 +248,7 @@
     "language": "Python",
     "name": "LocketKeyLLC/scaffold-engine",
     "stars": 0,
-    "updated_at": "2026-10-02T19:27:08Z",
+    "updated_at": "2026-10-02T19:32:56Z",
     "url": "https://github.com/LocketKeyLLC/scaffold-engine"
   },
   {
@@ -160,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:26:31Z",
     "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "Asynchronous customer support ticket priority queue and SLA auto-responder with Policy RAG.",
-    "id": "Spizhy/triage-flow-worker",
-    "language": "\u2014",
-    "name": "Spizhy/triage-flow-worker",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:26:30Z",
-    "url": "https://github.com/Spizhy/triage-flow-worker"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -243,15 +360,6 @@
     "url": "https://github.com/torrua/loglan-bench"
   },
   {
-    "description": "MCP server that gives Claude/Cursor a governed connection to your databases: builds a knowledge graph per DB (foreign ke",
-    "id": "Machi2130/SQL-Agent",
-    "language": "Python",
-    "name": "Machi2130/SQL-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:25:24Z",
-    "url": "https://github.com/Machi2130/SQL-Agent"
-  },
-  {
     "description": "Persist Claude Code session memory as markdown notes in your Obsidian vault for instant context recall.",
     "id": "robinpatras06/lore",
     "language": "\u2014",
@@ -275,7 +383,7 @@
     "language": "TypeScript",
     "name": "AgentsKit-io/agentskit",
     "stars": 33,
-    "updated_at": "2026-10-02T19:30:09Z",
+    "updated_at": "2026-10-02T19:30:58Z",
     "url": "https://github.com/AgentsKit-io/agentskit"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:23:09Z",
     "url": "https://github.com/satoshi-abe-dev/silo-rag"
-  },
-  {
-    "description": "Install and configure Brackets on Windows with step-by-step setup notes, admin installer guidance, and licensing tips.",
-    "id": "Georgian-thurber982/brackets-setup",
-    "language": "\u2014",
-    "name": "Georgian-thurber982/brackets-setup",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:22:50Z",
-    "url": "https://github.com/Georgian-thurber982/brackets-setup"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:22:35Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Scrape local events and activities directly in your browser with this simple HTML scraper. Find nearby happenings fast.",
-    "id": "Bridgeheadcompany624/activity-scraper-html",
-    "language": "HTML",
-    "name": "Bridgeheadcompany624/activity-scraper-html",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:22:26Z",
-    "url": "https://github.com/Bridgeheadcompany624/activity-scraper-html"
-  },
-  {
-    "description": "Connect AI agents to Magellan Data to extract corporate ownership intelligence, parent company structures, and private e",
-    "id": "xboxgameservice/mcp",
-    "language": "\u2014",
-    "name": "xboxgameservice/mcp",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:22:01Z",
-    "url": "https://github.com/xboxgameservice/mcp"
-  },
-  {
-    "description": "Ingest FHIR resources into a Qdrant vector store and use Rust to answer clinical questions via RAG.",
-    "id": "arday5581-dev/anamnesis",
-    "language": "\u2014",
-    "name": "arday5581-dev/anamnesis",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:54Z",
-    "url": "https://github.com/arday5581-dev/anamnesis"
-  },
-  {
-    "description": "\ud83e\udd16 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. Ty",
-    "id": "cogitator-ai/Cogitator-AI",
-    "language": "TypeScript",
-    "name": "cogitator-ai/Cogitator-AI",
-    "stars": 39,
-    "updated_at": "2026-10-02T19:21:52Z",
-    "url": "https://github.com/cogitator-ai/Cogitator-AI"
-  },
-  {
-    "description": "Manage your AI assistant memory with a local file system of markdown files that your AI reads before each chat session t",
-    "id": "interbankloansenega594/Context_OS",
-    "language": "\u2014",
-    "name": "interbankloansenega594/Context_OS",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:51Z",
-    "url": "https://github.com/interbankloansenega594/Context_OS"
-  },
-  {
-    "description": "Local-first personal AI agent: persistent multi-collection memory, benchmarked multi-stage RAG with cross-encoder rerank",
-    "id": "lukehalleran/ai-assistant-framework",
-    "language": "Python",
-    "name": "lukehalleran/ai-assistant-framework",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:50Z",
-    "url": "https://github.com/lukehalleran/ai-assistant-framework"
-  },
-  {
-    "description": "Automate job applications by generating evidence-based resume claims, cover letters, and audited documents with human ov",
-    "id": "diamantine-aneroidbarometer28/JobPilotAgent",
-    "language": "Python",
-    "name": "diamantine-aneroidbarometer28/JobPilotAgent",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:49Z",
-    "url": "https://github.com/diamantine-aneroidbarometer28/JobPilotAgent"
-  },
-  {
-    "description": "Monitor driver safety and control in-vehicle systems using computer vision, real-time behavior tracking, and a local Qwe",
-    "id": "watchara7696/Intelligent-Voice-Driving-System",
-    "language": "\u2014",
-    "name": "watchara7696/Intelligent-Voice-Driving-System",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:43Z",
-    "url": "https://github.com/watchara7696/Intelligent-Voice-Driving-System"
-  },
-  {
-    "description": "Define portable, verifiable, and versioned knowledge packs for trusted AI systems and RAG applications.",
-    "id": "rozannaparasitical577/aladdin-spec",
-    "language": "Python",
-    "name": "rozannaparasitical577/aladdin-spec",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:41Z",
-    "url": "https://github.com/rozannaparasitical577/aladdin-spec"
-  },
-  {
-    "description": "A tiny, zero-dependency harness for evaluating RAG pipelines: retrieval quality, answer faithfulness, and latency.",
-    "id": "harshaeethakota-design/rag-eval-harness",
-    "language": "Python",
-    "name": "harshaeethakota-design/rag-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:21:37Z",
-    "url": "https://github.com/harshaeethakota-design/rag-eval-harness"
   }
 ]
