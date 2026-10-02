@@ -1,5 +1,23 @@
 [
   {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "TypeScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-10-02T14:45:04Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T14:44:59Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reprodu",
     "id": "JasonTM17/HealthCare_Project",
     "language": "JavaScript",
@@ -72,21 +90,12 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "TypeScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:43:46Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
     "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling t",
     "id": "tuanductran/soulmap-ai",
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 2,
-    "updated_at": "2026-10-02T14:44:34Z",
+    "updated_at": "2026-10-02T14:45:05Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T14:31:29Z",
     "url": "https://github.com/docxology/crescent-city-intel"
-  },
-  {
-    "description": "Self-hosted AI desktop app and local backend built on the Seshat agent runtime \u2014 chat, document intelligence, and knowle",
-    "id": "KPO-Tech/SeshatOS",
-    "language": "Go",
-    "name": "KPO-Tech/SeshatOS",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:31:22Z",
-    "url": "https://github.com/KPO-Tech/SeshatOS"
   }
 ]
