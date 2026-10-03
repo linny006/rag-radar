@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source Go agent runtime for autonomous AI systems and multi-agent automation. MCP, RAG, 15+ LLM providers and 60+ b",
+    "id": "KPO-Tech/seshat",
+    "language": "Go",
+    "name": "KPO-Tech/seshat",
+    "stars": 5,
+    "updated_at": "2026-10-03T23:02:26Z",
+    "url": "https://github.com/KPO-Tech/seshat"
+  },
+  {
+    "description": "AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLMs, tools with approvals, memory & R",
+    "id": "cogitator-ai/Cogitator-AI",
+    "language": "TypeScript",
+    "name": "cogitator-ai/Cogitator-AI",
+    "stars": 39,
+    "updated_at": "2026-10-03T23:02:19Z",
+    "url": "https://github.com/cogitator-ai/Cogitator-AI"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCode1000/webfang",
+    "language": "Rust",
+    "name": "XaviCode1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:02:03Z",
+    "url": "https://github.com/XaviCode1000/webfang"
+  },
+  {
+    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
+    "id": "yeixio/yggdrasil-core",
+    "language": "Go",
+    "name": "yeixio/yggdrasil-core",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:01:25Z",
+    "url": "https://github.com/yeixio/yggdrasil-core"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T23:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T23:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI desktop app for chat, RAG, Skills, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, N",
     "id": "askimo-ai/askimo",
     "language": "Kotlin",
@@ -16,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T23:00:04Z",
     "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
-  },
-  {
-    "description": "\ud83e\udd16 Kubernetes for AI Agents. Self-hosted, production-grade runtime for orchestrating LLM swarms and autonomous agents. Ty",
-    "id": "cogitator-ai/Cogitator-AI",
-    "language": "TypeScript",
-    "name": "cogitator-ai/Cogitator-AI",
-    "stars": 39,
-    "updated_at": "2026-10-03T22:59:17Z",
-    "url": "https://github.com/cogitator-ai/Cogitator-AI"
   },
   {
     "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "jahfaliabdulrahman-dev/rajhi-rag",
     "stars": 0,
-    "updated_at": "2026-10-03T22:51:35Z",
+    "updated_at": "2026-10-03T23:01:49Z",
     "url": "https://github.com/jahfaliabdulrahman-dev/rajhi-rag"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:49:28Z",
     "url": "https://github.com/IlhanAltunbas/DusAssistant"
-  },
-  {
-    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
-    "id": "yeixio/yggdrasil-core",
-    "language": "Go",
-    "name": "yeixio/yggdrasil-core",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:52:40Z",
-    "url": "https://github.com/yeixio/yggdrasil-core"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "ajschlosser/DerridAI",
     "stars": 1,
-    "updated_at": "2026-10-03T23:00:05Z",
+    "updated_at": "2026-10-03T23:02:28Z",
     "url": "https://github.com/ajschlosser/DerridAI"
   },
   {
@@ -288,15 +324,6 @@
     "url": "https://github.com/chenyufang-data/mle-aie-interview-coach"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T22:46:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Enterprise multimodal RAG QA for cosmetics | FastAPI \u00b7 Qdrant/Elasticsearch \u00b7 BGE/CLIP \u00b7 Qwen/vLLM \u00b7 RBAC \u00b7 audit \u00b7 obse",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:56:36Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T22:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "SwarmLabs: 30-domain scientific knowledge engine with 300K+ structured entities. MCP server + REST API + independent par",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:38:26Z",
     "url": "https://github.com/kaduoxzero/kaduoxzero"
-  },
-  {
-    "description": "Streamline AI agent workflows with reusable, composable skill modules.",
-    "id": "Gracillariidaewindturbine16/agent-skills",
-    "language": "\u2014",
-    "name": "Gracillariidaewindturbine16/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:38:16Z",
-    "url": "https://github.com/Gracillariidaewindturbine16/agent-skills"
-  },
-  {
-    "description": "Arrange live widgets in your macOS Dock with drag-and-drop editing, custom sizes, and colors\u2014apply instantly.",
-    "id": "Showerijssel2131/docstudio",
-    "language": "Swift",
-    "name": "Showerijssel2131/docstudio",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:38:06Z",
-    "url": "https://github.com/Showerijssel2131/docstudio"
   }
 ]
