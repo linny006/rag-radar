@@ -1,5 +1,41 @@
 [
   {
+    "description": "Bob's Big Brain Compiler \u2014 reads your files, notes, and web clips and turns them into organized, searchable knowledge wi",
+    "id": "jeremylongshore/bobs-big-brain-compiler",
+    "language": "TypeScript",
+    "name": "jeremylongshore/bobs-big-brain-compiler",
+    "stars": 5,
+    "updated_at": "2026-10-04T21:45:14Z",
+    "url": "https://github.com/jeremylongshore/bobs-big-brain-compiler"
+  },
+  {
+    "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integ",
+    "id": "xmor/ara",
+    "language": "Java",
+    "name": "xmor/ara",
+    "stars": 6,
+    "updated_at": "2026-10-04T21:45:03Z",
+    "url": "https://github.com/xmor/ara"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:44:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI system design guide for engineers building production AI systems and evals.",
+    "id": "ombharatiya/ai-system-design-guide",
+    "language": "\u2014",
+    "name": "ombharatiya/ai-system-design-guide",
+    "stars": 3479,
+    "updated_at": "2026-10-04T21:44:23Z",
+    "url": "https://github.com/ombharatiya/ai-system-design-guide"
+  },
+  {
     "description": "An educational AI assistant for the Voluntary Carbon Market - local-first, self-hostable multi-agent RAG with pluggable ",
     "id": "Avtr99/Cora-ai",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19540,
-    "updated_at": "2026-10-04T21:44:13Z",
+    "updated_at": "2026-10-04T21:44:37Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "JDeun/SchemaRouter",
     "stars": 2,
-    "updated_at": "2026-10-04T21:43:29Z",
+    "updated_at": "2026-10-04T21:45:07Z",
     "url": "https://github.com/JDeun/SchemaRouter"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/mjesar/mjesar"
   },
   {
-    "description": "AI system design guide for engineers building production AI systems and evals.",
-    "id": "ombharatiya/ai-system-design-guide",
-    "language": "\u2014",
-    "name": "ombharatiya/ai-system-design-guide",
-    "stars": 3479,
-    "updated_at": "2026-10-04T21:44:23Z",
-    "url": "https://github.com/ombharatiya/ai-system-design-guide"
-  },
-  {
     "description": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and revi",
     "id": "tale-project/tale",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:36:03Z",
     "url": "https://github.com/SyedHunainAkbar/location-risk-radar"
-  },
-  {
-    "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF,",
-    "id": "EvotecIT/OfficeIMO",
-    "language": "C#",
-    "name": "EvotecIT/OfficeIMO",
-    "stars": 568,
-    "updated_at": "2026-10-04T21:37:57Z",
-    "url": "https://github.com/EvotecIT/OfficeIMO"
-  },
-  {
-    "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
-    "id": "totobusnello/memoria-nox",
-    "language": "Python",
-    "name": "totobusnello/memoria-nox",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:30:29Z",
-    "url": "https://github.com/totobusnello/memoria-nox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   }
 ]
