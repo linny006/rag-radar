@@ -1,5 +1,104 @@
 [
   {
+    "description": "Adaptive memory for AI agents & teams \u2014 beyond RAG. Self-hosted MCP server that gets smarter every time you search: hybr",
+    "id": "kagura-ai/memory-cloud",
+    "language": "Python",
+    "name": "kagura-ai/memory-cloud",
+    "stars": 12,
+    "updated_at": "2026-10-05T00:15:09Z",
+    "url": "https://github.com/kagura-ai/memory-cloud"
+  },
+  {
+    "description": "Lightweight PyTorch toolkit for training, fine-tuning, and exporting modern neural nets. FFN, GNN, decoder-only LM, diff",
+    "id": "thekaveh/NNx",
+    "language": "Python",
+    "name": "thekaveh/NNx",
+    "stars": 2,
+    "updated_at": "2026-10-05T00:14:33Z",
+    "url": "https://github.com/thekaveh/NNx"
+  },
+  {
+    "description": "Your AI pair programmer for Visual Studio 2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 to",
+    "id": "EstaxNet/Inferpal",
+    "language": "C#",
+    "name": "EstaxNet/Inferpal",
+    "stars": 8,
+    "updated_at": "2026-10-05T00:13:22Z",
+    "url": "https://github.com/EstaxNet/Inferpal"
+  },
+  {
+    "description": "Reliability layer for multi-agent setups \u2014 keep agents coordinating without an orchestrator. Cross-dialog contracts + dr",
+    "id": "chunxiaoxx/nautilus-compass",
+    "language": "Python",
+    "name": "chunxiaoxx/nautilus-compass",
+    "stars": 1110,
+    "updated_at": "2026-10-05T00:13:10Z",
+    "url": "https://github.com/chunxiaoxx/nautilus-compass"
+  },
+  {
+    "description": "Parse course PDFs into deadline-aware vector chunks for learner delivery and educator reporting.",
+    "id": "SterlingVance8549/deadline-aware-course-ingest",
+    "language": "Python",
+    "name": "SterlingVance8549/deadline-aware-course-ingest",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:13:10Z",
+    "url": "https://github.com/SterlingVance8549/deadline-aware-course-ingest"
+  },
+  {
+    "description": "Reliable decisions with a purely statistical prior for document topic blocking. Jev-based indexing with zero generative ",
+    "id": "Sheltercosmo/0halluciation-drift-indexing",
+    "language": "Python",
+    "name": "Sheltercosmo/0halluciation-drift-indexing",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:13:02Z",
+    "url": "https://github.com/Sheltercosmo/0halluciation-drift-indexing"
+  },
+  {
+    "description": "Chat de estudio b\u00edblico con IA que responde con la voz de Jes\u00fas usando solo vers\u00edculos de los Evangelios",
+    "id": "HermannPR/JesusGPT",
+    "language": "JavaScript",
+    "name": "HermannPR/JesusGPT",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:13:01Z",
+    "url": "https://github.com/HermannPR/JesusGPT"
+  },
+  {
+    "description": "Open source agentic operating system",
+    "id": "elizaOS/eliza",
+    "language": "TypeScript",
+    "name": "elizaOS/eliza",
+    "stars": 19540,
+    "updated_at": "2026-10-05T00:12:58Z",
+    "url": "https://github.com/elizaOS/eliza"
+  },
+  {
+    "description": "RAG pipeline for Victron Energy documentation with pgvector, LangChain, and FastAPI",
+    "id": "4alvit/energy-data-rag-pipeline",
+    "language": "Python",
+    "name": "4alvit/energy-data-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:12:39Z",
+    "url": "https://github.com/4alvit/energy-data-rag-pipeline"
+  },
+  {
+    "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF,",
+    "id": "EvotecIT/OfficeIMO",
+    "language": "C#",
+    "name": "EvotecIT/OfficeIMO",
+    "stars": 568,
+    "updated_at": "2026-10-05T00:12:29Z",
+    "url": "https://github.com/EvotecIT/OfficeIMO"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T00:12:16Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
     "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
@@ -9,21 +108,12 @@
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
-    "description": "Open source agentic operating system",
-    "id": "elizaOS/eliza",
-    "language": "TypeScript",
-    "name": "elizaOS/eliza",
-    "stars": 19540,
-    "updated_at": "2026-10-05T00:12:03Z",
-    "url": "https://github.com/elizaOS/eliza"
-  },
-  {
     "description": "AI Platform for Trainer-Member Diet & Exercise Coaching",
     "id": "CSE-Sudo/on-care",
     "language": "Dart",
     "name": "CSE-Sudo/on-care",
     "stars": 0,
-    "updated_at": "2026-10-05T00:11:58Z",
+    "updated_at": "2026-10-05T00:12:25Z",
     "url": "https://github.com/CSE-Sudo/on-care"
   },
   {
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "rknightion/paperless-ngx-dedupe",
     "stars": 23,
-    "updated_at": "2026-10-05T00:11:47Z",
+    "updated_at": "2026-10-05T00:13:06Z",
     "url": "https://github.com/rknightion/paperless-ngx-dedupe"
   },
   {
@@ -162,15 +252,6 @@
     "url": "https://github.com/iyulab/FluxImprover"
   },
   {
-    "description": "Reliable decisions with a purely statistical prior for document topic blocking. Jev-based indexing with zero generative ",
-    "id": "Sheltercosmo/0halluciation-drift-indexing",
-    "language": "Python",
-    "name": "Sheltercosmo/0halluciation-drift-indexing",
-    "stars": 0,
-    "updated_at": "2026-10-05T00:07:17Z",
-    "url": "https://github.com/Sheltercosmo/0halluciation-drift-indexing"
-  },
-  {
     "description": "Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reprodu",
     "id": "JasonTM17/HealthCare_Project",
     "language": "JavaScript",
@@ -288,15 +369,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T00:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Hybrid Vector and Graph knowledge-base with neo4j for retrieval argumented generation",
     "id": "xxl4tomxu98/fictional-couscous",
     "language": "Jupyter Notebook",
@@ -376,77 +448,5 @@
     "stars": 16323,
     "updated_at": "2026-10-05T00:10:05Z",
     "url": "https://github.com/MODSetter/SurfSense"
-  },
-  {
-    "description": "Local GraphRAG knowledge layer: indexes your files into a hybrid graph + vector store with AI-inferred relationships, an",
-    "id": "giuseppecardenas/contextd",
-    "language": "Python",
-    "name": "giuseppecardenas/contextd",
-    "stars": 2,
-    "updated_at": "2026-10-04T23:56:05Z",
-    "url": "https://github.com/giuseppecardenas/contextd"
-  },
-  {
-    "description": "Context engineering, abstracted. Build AI agents whose every LLM call traces back to what was injected, who triggered it",
-    "id": "footprintjs/agentfootprint",
-    "language": "TypeScript",
-    "name": "footprintjs/agentfootprint",
-    "stars": 20,
-    "updated_at": "2026-10-04T23:56:02Z",
-    "url": "https://github.com/footprintjs/agentfootprint"
-  },
-  {
-    "description": "An AI-powered sales outreach automation system built with LangGraph for managing and automating lead engagement workflow",
-    "id": "mosesaderemi/sales-outreach-automation-langgraph",
-    "language": "Python",
-    "name": "mosesaderemi/sales-outreach-automation-langgraph",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:55:46Z",
-    "url": "https://github.com/mosesaderemi/sales-outreach-automation-langgraph"
-  },
-  {
-    "description": "Cross-document consistency analysis for QHSE documents: a dependency graph targets which clauses to compare, cutting 95%",
-    "id": "MedSahbiBenKalia/document-incoherence-detection",
-    "language": "Python",
-    "name": "MedSahbiBenKalia/document-incoherence-detection",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:55:46Z",
-    "url": "https://github.com/MedSahbiBenKalia/document-incoherence-detection"
-  },
-  {
-    "description": "Motor de base de datos multimodal escrito desde cero: almacenamiento paginado, \u00edndices B+ y hash, R-Tree, b\u00fasqueda de te",
-    "id": "oswaldoaqm/quipudb",
-    "language": "Python",
-    "name": "oswaldoaqm/quipudb",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:55:43Z",
-    "url": "https://github.com/oswaldoaqm/quipudb"
-  },
-  {
-    "description": "Bridge SDK connecting IronHive with the Flux ecosystem for embedding generation, text completion, image-to-text, and RAG",
-    "id": "iyulab/ironhive-flux",
-    "language": "C#",
-    "name": "iyulab/ironhive-flux",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:56:30Z",
-    "url": "https://github.com/iyulab/ironhive-flux"
-  },
-  {
-    "description": "Project once, retrieve distillations, create tools: a pre-loading retrieval architecture and tool builder for distributa",
-    "id": "chrisgagne/grounded-forge",
-    "language": "Python",
-    "name": "chrisgagne/grounded-forge",
-    "stars": 7,
-    "updated_at": "2026-10-04T23:54:07Z",
-    "url": "https://github.com/chrisgagne/grounded-forge"
-  },
-  {
-    "description": "AI-powered quantitative investment platform with 7-agent swarm orchestration, fractal debate algorithm, 3-tier LLM routi",
-    "id": "neohsiung/AI-Investment-Advisor",
-    "language": "Python",
-    "name": "neohsiung/AI-Investment-Advisor",
-    "stars": 5,
-    "updated_at": "2026-10-04T23:52:00Z",
-    "url": "https://github.com/neohsiung/AI-Investment-Advisor"
   }
 ]
