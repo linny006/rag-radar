@@ -1,12 +1,57 @@
 [
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "updated_at": "2026-10-06T01:38:37Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
+    "description": "Self-hosted memory + evidence layer for AI agents (Claude Code, Codex, Hermes, ...) \u2014 embeddable Go library, MCP / HTTP ",
+    "id": "klarlabs-studio/mnemos",
+    "language": "Go",
+    "name": "klarlabs-studio/mnemos",
+    "stars": 4,
+    "updated_at": "2026-10-06T01:44:35Z",
+    "url": "https://github.com/klarlabs-studio/mnemos"
+  },
+  {
+    "description": "Reliability layer for multi-agent setups \u2014 keep agents coordinating without an orchestrator. Cross-dialog contracts + dr",
+    "id": "chunxiaoxx/nautilus-compass",
+    "language": "Python",
+    "name": "chunxiaoxx/nautilus-compass",
+    "stars": 1144,
+    "updated_at": "2026-10-06T01:43:58Z",
+    "url": "https://github.com/chunxiaoxx/nautilus-compass"
+  },
+  {
+    "description": "AgenticX is a unified, production-ready multi-agent platform \u2014 Python SDK + CLI (agx) + Studio server + Machi desktop ap",
+    "id": "DemonDamon/AgenticX",
+    "language": "Python",
+    "name": "DemonDamon/AgenticX",
+    "stars": 267,
+    "updated_at": "2026-10-06T01:43:46Z",
+    "url": "https://github.com/DemonDamon/AgenticX"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 28,
+    "updated_at": "2026-10-06T01:43:28Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "The pipe layer of an AI nervous system \u2014 one interface connecting provider neurons to your application, across three inf",
+    "id": "juspay/neurolink",
+    "language": "TypeScript",
+    "name": "juspay/neurolink",
+    "stars": 142,
+    "updated_at": "2026-10-06T01:42:01Z",
+    "url": "https://github.com/juspay/neurolink"
+  },
+  {
+    "description": "Reproducible benchmark for multi-turn healthcare AI agent safety. A0-A4 controlled ablation isolates what each layer - r",
+    "id": "Conefia/SAFE-CARE-Bench",
+    "language": "Python",
+    "name": "Conefia/SAFE-CARE-Bench",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:41:56Z",
+    "url": "https://github.com/Conefia/SAFE-CARE-Bench"
   },
   {
     "description": "Personal study system for medical-residency preparation: error-driven closed loop with local RAG over a markdown knowled",
@@ -14,8 +59,71 @@
     "language": "HTML",
     "name": "daanmt/MedHub",
     "stars": 1,
-    "updated_at": "2026-10-06T01:37:25Z",
+    "updated_at": "2026-10-06T01:41:54Z",
     "url": "https://github.com/daanmt/MedHub"
+  },
+  {
+    "description": "Self-hosted AI engineering platform with RAG, controlled agents, durable HITL, workflows, MCP, guardrails, evaluation, P",
+    "id": "Jes-lo/ai-engineering-agent-platform",
+    "language": "Python",
+    "name": "Jes-lo/ai-engineering-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:43:36Z",
+    "url": "https://github.com/Jes-lo/ai-engineering-agent-platform"
+  },
+  {
+    "description": "Memoria multiagente con presupuesto de atenci\u00f3n: el agente resuelve punteros a la porci\u00f3n exacta que necesita. 99.7% men",
+    "id": "ubihard-droid/gt-mud",
+    "language": "Python",
+    "name": "ubihard-droid/gt-mud",
+    "stars": 0,
+    "updated_at": "2026-10-06T01:41:11Z",
+    "url": "https://github.com/ubihard-droid/gt-mud"
+  },
+  {
+    "description": "Privacy-first AI search for Proton Mail: local Bridge sync and SQLite hybrid index, exposed to MCP clients; bring your o",
+    "id": "marshalltech81/protonmail-local-ai",
+    "language": "Python",
+    "name": "marshalltech81/protonmail-local-ai",
+    "stars": 1,
+    "updated_at": "2026-10-06T01:44:25Z",
+    "url": "https://github.com/marshalltech81/protonmail-local-ai"
+  },
+  {
+    "description": "Multiplatform 3D chess app powered by Stockfish, featuring on-device AI move coaching and cloud-based RAG for position c",
+    "id": "ber4444/compose-multiplatform-chess",
+    "language": "Kotlin",
+    "name": "ber4444/compose-multiplatform-chess",
+    "stars": 7,
+    "updated_at": "2026-10-06T01:40:21Z",
+    "url": "https://github.com/ber4444/compose-multiplatform-chess"
+  },
+  {
+    "description": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search",
+    "id": "The-Vibe-Company/quivr",
+    "language": "Go",
+    "name": "The-Vibe-Company/quivr",
+    "stars": 39578,
+    "updated_at": "2026-10-06T01:39:46Z",
+    "url": "https://github.com/The-Vibe-Company/quivr"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T01:38:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 49,
+    "updated_at": "2026-10-06T01:38:37Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -45,15 +153,6 @@
     "url": "https://github.com/semlith/semlith"
   },
   {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 28,
-    "updated_at": "2026-10-06T01:36:59Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "The agent engineering platform.",
     "id": "langchain-ai/langchain",
     "language": "Python",
@@ -72,21 +171,12 @@
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
-    "description": "The pipe layer of an AI nervous system \u2014 one interface connecting provider neurons to your application, across three inf",
-    "id": "juspay/neurolink",
-    "language": "TypeScript",
-    "name": "juspay/neurolink",
-    "stars": 142,
-    "updated_at": "2026-10-06T01:36:14Z",
-    "url": "https://github.com/juspay/neurolink"
-  },
-  {
     "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "id": "onyx-dot-app/onyx",
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 32330,
-    "updated_at": "2026-10-06T01:35:57Z",
+    "updated_at": "2026-10-06T01:42:28Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "JDeun/SchemaRouter",
     "stars": 2,
-    "updated_at": "2026-10-06T01:37:25Z",
+    "updated_at": "2026-10-06T01:40:18Z",
     "url": "https://github.com/JDeun/SchemaRouter"
   },
   {
@@ -104,7 +194,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 88,
-    "updated_at": "2026-10-06T01:35:28Z",
+    "updated_at": "2026-10-06T01:41:19Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -133,15 +223,6 @@
     "stars": 27,
     "updated_at": "2026-10-06T01:33:48Z",
     "url": "https://github.com/wananing/Smart-Health-Assistant"
-  },
-  {
-    "description": "Memoria multiagente con presupuesto de atenci\u00f3n: el agente resuelve punteros a la porci\u00f3n exacta que necesita. 99.7% men",
-    "id": "ubihard-droid/gt-mud",
-    "language": "Python",
-    "name": "ubihard-droid/gt-mud",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:33:36Z",
-    "url": "https://github.com/ubihard-droid/gt-mud"
   },
   {
     "description": "Adaptive memory for AI agents & teams \u2014 beyond RAG. Self-hosted MCP server that gets smarter every time you search: hybr",
@@ -175,7 +256,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 96644,
+    "stars": 96646,
     "updated_at": "2026-10-06T01:31:53Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -225,15 +306,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T01:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "iran seda crawler golang",
     "id": "saber13812002/iranseda-crawler-golang-",
     "language": "SRecode Template",
@@ -241,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-10-06T01:30:07Z",
     "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
-  },
-  {
-    "description": "Privacy-first AI search for Proton Mail: local Bridge sync and SQLite hybrid index, exposed to MCP clients; bring your o",
-    "id": "marshalltech81/protonmail-local-ai",
-    "language": "Python",
-    "name": "marshalltech81/protonmail-local-ai",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:28:19Z",
-    "url": "https://github.com/marshalltech81/protonmail-local-ai"
   },
   {
     "description": "",
@@ -279,15 +342,6 @@
     "url": "https://github.com/sepahead/sepahead"
   },
   {
-    "description": "Self-hosted AI engineering platform with RAG, controlled agents, durable HITL, workflows, MCP, guardrails, evaluation, P",
-    "id": "Jes-lo/ai-engineering-agent-platform",
-    "language": "Python",
-    "name": "Jes-lo/ai-engineering-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:28:49Z",
-    "url": "https://github.com/Jes-lo/ai-engineering-agent-platform"
-  },
-  {
     "description": "Evidence-grounded financial research over SEC filings using hybrid retrieval, RAG, PostgreSQL/pgvector, FastAPI, and ret",
     "id": "Adit-Vakil/finresearch-agent",
     "language": "Python",
@@ -295,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T01:27:14Z",
     "url": "https://github.com/Adit-Vakil/finresearch-agent"
-  },
-  {
-    "description": "Multiplatform 3D chess app powered by Stockfish, featuring on-device AI move coaching and cloud-based RAG for position c",
-    "id": "ber4444/compose-multiplatform-chess",
-    "language": "Kotlin",
-    "name": "ber4444/compose-multiplatform-chess",
-    "stars": 7,
-    "updated_at": "2026-10-06T01:26:46Z",
-    "url": "https://github.com/ber4444/compose-multiplatform-chess"
   },
   {
     "description": "Japanese meeting transcription & minutes generation app with local ASR (Kotoba Whisper) + LLM (Ollama) + RAG. Privacy-fo",
@@ -392,7 +437,7 @@
     "language": "TypeScript",
     "name": "simstudioai/sim",
     "stars": 29782,
-    "updated_at": "2026-10-06T01:24:38Z",
+    "updated_at": "2026-10-06T01:40:25Z",
     "url": "https://github.com/simstudioai/sim"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T01:24:31Z",
     "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "AI\u9a71\u52a8\u7684\u9762\u8bd5\u8f85\u52a9\u5de5\u5177\uff0c\u5b9e\u65f6\u6355\u83b7\u7cfb\u7edf\u97f3\u9891\uff0c\u81ea\u52a8\u8f6c\u5f55\u8003\u5b98\u63d0\u95ee\u5e76\u751f\u6210\u6d41\u5f0f\u53e3\u8bed\u56de\u7b54\uff0c\u9002\u914d\u56fd\u5185AI\u6a21\u578b\uff0c\u7a97\u53e3\u9690\u8eab\u9632\u5c4f\u5e55\u5206\u4eab\u68c0\u6d4b\u3002",
-    "id": "Openeyed-upbraider7227/interview-assistant",
-    "language": "TypeScript",
-    "name": "Openeyed-upbraider7227/interview-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:24:30Z",
-    "url": "https://github.com/Openeyed-upbraider7227/interview-assistant"
-  },
-  {
-    "description": "One offline agent that answers across your tables, your documents, and the knowledge graph between them.",
-    "id": "smoketurner/quack",
-    "language": "Rust",
-    "name": "smoketurner/quack",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:24:19Z",
-    "url": "https://github.com/smoketurner/quack"
-  },
-  {
-    "description": "Prepares local documents for Codex by converting, cleanup, chunking, and indexing for search-first, retrieval-bounded re",
-    "id": "Quotable-mimus510/codex-document-prep",
-    "language": "Python",
-    "name": "Quotable-mimus510/codex-document-prep",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:23:17Z",
-    "url": "https://github.com/Quotable-mimus510/codex-document-prep"
-  },
-  {
-    "description": "Add AI-powered ticket analysis to GLPI 11 using local models via an AnythingLLM workspace, with no cloud dependency.",
-    "id": "Pathwra1547/glpi-plugin-aiticketanalysis",
-    "language": "PHP",
-    "name": "Pathwra1547/glpi-plugin-aiticketanalysis",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:23:09Z",
-    "url": "https://github.com/Pathwra1547/glpi-plugin-aiticketanalysis"
-  },
-  {
-    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
-    "id": "melgarafael/DeskcommCRM",
-    "language": "TypeScript",
-    "name": "melgarafael/DeskcommCRM",
-    "stars": 4430,
-    "updated_at": "2026-10-06T01:22:42Z",
-    "url": "https://github.com/melgarafael/DeskcommCRM"
   }
 ]
