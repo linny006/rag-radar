@@ -1,5 +1,113 @@
 [
   {
+    "description": "Mesa editorial con IA para TVN Media: de la se\u00f1al a la decisi\u00f3n. Agenda priorizada, evidencia con citas y borradores val",
+    "id": "cpu-16/agentetvn",
+    "language": "TypeScript",
+    "name": "cpu-16/agentetvn",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:47:02Z",
+    "url": "https://github.com/cpu-16/agentetvn"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 74593,
+    "updated_at": "2026-10-07T22:47:05Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "description": "AI customer-support & email-reply agent that answers from your own business knowledge base (RAG), cites sources, triages",
+    "id": "gabrielolarinre74-pixel/replypilot-ai",
+    "language": "TypeScript",
+    "name": "gabrielolarinre74-pixel/replypilot-ai",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:46:55Z",
+    "url": "https://github.com/gabrielolarinre74-pixel/replypilot-ai"
+  },
+  {
+    "description": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search",
+    "id": "The-Vibe-Company/quivr",
+    "language": "Go",
+    "name": "The-Vibe-Company/quivr",
+    "stars": 39578,
+    "updated_at": "2026-10-07T22:46:53Z",
+    "url": "https://github.com/The-Vibe-Company/quivr"
+  },
+  {
+    "description": "Companheiro discreto que mostra tradu\u00e7\u00e3o e defini\u00e7\u00e3o de termos t\u00e9cnicos em ingl\u00eas no momento em que s\u00e3o falados \u2014 pop-up",
+    "id": "cavalcanteprofissional/sopro",
+    "language": "\u2014",
+    "name": "cavalcanteprofissional/sopro",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:46:49Z",
+    "url": "https://github.com/cavalcanteprofissional/sopro"
+  },
+  {
+    "description": "Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... \ud83c\udf6c",
+    "id": "mrsladoje/sweet-search",
+    "language": "JavaScript",
+    "name": "mrsladoje/sweet-search",
+    "stars": 23,
+    "updated_at": "2026-10-07T22:46:44Z",
+    "url": "https://github.com/mrsladoje/sweet-search"
+  },
+  {
+    "description": "AI-native IDE: orquestre multiplos agentes de IA (locais + nuvem) num app desktop. COSMOS orchestrator, RAG local-first,",
+    "id": "StudioCodeAI/Lya-Studio-Coder",
+    "language": "\u2014",
+    "name": "StudioCodeAI/Lya-Studio-Coder",
+    "stars": 2,
+    "updated_at": "2026-10-07T22:46:29Z",
+    "url": "https://github.com/StudioCodeAI/Lya-Studio-Coder"
+  },
+  {
+    "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into ",
+    "id": "Osmantic/ODS",
+    "language": "Python",
+    "name": "Osmantic/ODS",
+    "stars": 7121,
+    "updated_at": "2026-10-07T22:45:59Z",
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "description": "Define AI agent roles in YAML and run them anywhere: CLI, API server, or autonomous daemon",
+    "id": "vladkesler/initrunner",
+    "language": "Python",
+    "name": "vladkesler/initrunner",
+    "stars": 42,
+    "updated_at": "2026-10-07T22:45:48Z",
+    "url": "https://github.com/vladkesler/initrunner"
+  },
+  {
+    "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys",
+    "id": "arc53/DocsGPT",
+    "language": "Python",
+    "name": "arc53/DocsGPT",
+    "stars": 18314,
+    "updated_at": "2026-10-07T22:45:29Z",
+    "url": "https://github.com/arc53/DocsGPT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T22:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T22:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An AI-assisted writing environment for long-form novels (from a handful of episodes up to ~500), built around a structur",
     "id": "itanaka66/integrated_novel_editor",
     "language": "Python",
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "SourceWeft/SourceWeft",
     "stars": 164,
-    "updated_at": "2026-10-07T22:44:49Z",
+    "updated_at": "2026-10-07T22:45:59Z",
     "url": "https://github.com/SourceWeft/SourceWeft"
   },
   {
@@ -32,7 +140,7 @@
     "language": "TypeScript",
     "name": "yeongjunyoo/onprem-mcp-data",
     "stars": 0,
-    "updated_at": "2026-10-07T22:44:35Z",
+    "updated_at": "2026-10-07T22:46:24Z",
     "url": "https://github.com/yeongjunyoo/onprem-mcp-data"
   },
   {
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "langchain-ai/langchain",
     "stars": 147543,
-    "updated_at": "2026-10-07T22:41:37Z",
+    "updated_at": "2026-10-07T22:45:21Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
   {
@@ -160,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-10-07T22:38:24Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into ",
-    "id": "Osmantic/ODS",
-    "language": "Python",
-    "name": "Osmantic/ODS",
-    "stars": 7121,
-    "updated_at": "2026-10-07T22:37:45Z",
-    "url": "https://github.com/Osmantic/ODS"
   },
   {
     "description": "Open memory & reliability layer for AI agents + independent judging/verification (NACRE judge, caliber-bench meta-benchm",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T22:33:10Z",
     "url": "https://github.com/m-khizerr/saei-engineering"
-  },
-  {
-    "description": "Industrial AI assistant for operator troubleshooting, document-grounded answers, and manufacturing risk-ranking workflow",
-    "id": "senanurcetin/Ops-Copilot",
-    "language": "TypeScript",
-    "name": "senanurcetin/Ops-Copilot",
-    "stars": 1,
-    "updated_at": "2026-10-07T22:33:00Z",
-    "url": "https://github.com/senanurcetin/Ops-Copilot"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7119,
-    "updated_at": "2026-10-07T22:32:55Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search",
-    "id": "The-Vibe-Company/quivr",
-    "language": "Go",
-    "name": "The-Vibe-Company/quivr",
-    "stars": 39578,
-    "updated_at": "2026-10-07T22:40:52Z",
-    "url": "https://github.com/The-Vibe-Company/quivr"
-  },
-  {
-    "description": "AI-native IDE: orquestre multiplos agentes de IA (locais + nuvem) num app desktop. COSMOS orchestrator, RAG local-first,",
-    "id": "StudioCodeAI/Lya-Studio-Coder",
-    "language": "\u2014",
-    "name": "StudioCodeAI/Lya-Studio-Coder",
-    "stars": 2,
-    "updated_at": "2026-10-07T22:31:25Z",
-    "url": "https://github.com/StudioCodeAI/Lya-Studio-Coder"
-  },
-  {
-    "description": "The core API and orchestration layer for FaultMaven, connecting the browser extension and dashboard to your infrastructu",
-    "id": "FaultMaven/faultmaven",
-    "language": "Python",
-    "name": "FaultMaven/faultmaven",
-    "stars": 4,
-    "updated_at": "2026-10-07T22:30:43Z",
-    "url": "https://github.com/FaultMaven/faultmaven"
-  },
-  {
-    "description": "Private, fully local document & meeting intelligence on Apple Silicon. IBM Granite models (speech, Docling, vision, 8B L",
-    "id": "darylalim/granit",
-    "language": "Python",
-    "name": "darylalim/granit",
-    "stars": 0,
-    "updated_at": "2026-10-07T22:30:32Z",
-    "url": "https://github.com/darylalim/granit"
-  },
-  {
-    "description": "Self-hosted, privacy-first Personal AI Knowledge Companion with RAG-powered retrieval, intelligent agents, and extensibl",
-    "id": "Cerid-AI/cerid-ai",
-    "language": "Python",
-    "name": "Cerid-AI/cerid-ai",
-    "stars": 3,
-    "updated_at": "2026-10-07T22:30:28Z",
-    "url": "https://github.com/Cerid-AI/cerid-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T22:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T22:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "iran seda crawler golang",
-    "id": "saber13812002/iranseda-crawler-golang-",
-    "language": "SRecode Template",
-    "name": "saber13812002/iranseda-crawler-golang-",
-    "stars": 3,
-    "updated_at": "2026-10-07T22:30:09Z",
-    "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
-  },
-  {
-    "description": "Retrieval-augmented generation, hands on: a local RAG Explorer app and a test-case RAG chatbot in n8n + Pinecone",
-    "id": "jayamvishnudeep/RAG",
-    "language": "JavaScript",
-    "name": "jayamvishnudeep/RAG",
-    "stars": 0,
-    "updated_at": "2026-10-07T22:29:35Z",
-    "url": "https://github.com/jayamvishnudeep/RAG"
   }
 ]
