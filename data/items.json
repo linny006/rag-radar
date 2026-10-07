@@ -1,5 +1,32 @@
 [
   {
+    "description": "iran seda crawler golang",
+    "id": "saber13812002/iranseda-crawler-golang-",
+    "language": "SRecode Template",
+    "name": "saber13812002/iranseda-crawler-golang-",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:30:08Z",
+    "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:29:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\uce74\ud398 \uc778\uc218\uc778\uacc4\ub97c \ub300\uc2e0\ud558\ub294 AI \u2014 \uadfc\uac70\uac00 \uc5c6\uc73c\uba74 \ub2f5\ud558\uc9c0 \uc54a\uace0 \uc810\uc8fc\uc5d0\uac8c \ub118\uae34\ub2e4. FastAPI \u00b7 Next.js 16 \u00b7 PostgreSQL+pgvector | 2026 \uc720\ub2c8\ud1a4 \ud574\ucee4\ud1a4",
+    "id": "2026-Unithon/AskBuddy",
+    "language": "Python",
+    "name": "2026-Unithon/AskBuddy",
+    "stars": 2,
+    "updated_at": "2026-10-07T11:29:47Z",
+    "url": "https://github.com/2026-Unithon/AskBuddy"
+  },
+  {
     "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
     "id": "Cosmichomeless/Atlas-AI",
     "language": "Python",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "QinnniQ/infernomics",
     "stars": 0,
-    "updated_at": "2026-10-07T11:28:30Z",
+    "updated_at": "2026-10-07T11:30:14Z",
     "url": "https://github.com/QinnniQ/infernomics"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T11:18:03Z",
     "url": "https://github.com/codefather-labs/claudebase"
-  },
-  {
-    "description": "\ud83c\uddee\ud83c\udde9 Ekosistem Pengetahuan, Dataset Terstruktur, AI Agent Skill & Linter Ejaan Bahasa Indonesia yang Disempurnakan (EYD Ed",
-    "id": "ardianryan/eyd-v",
-    "language": "JavaScript",
-    "name": "ardianryan/eyd-v",
-    "stars": 5,
-    "updated_at": "2026-10-07T11:17:59Z",
-    "url": "https://github.com/ardianryan/eyd-v"
-  },
-  {
-    "description": "An interactive regulatory PDF research prototype with a FastAPI backend, Streamlit UI, and citation-backed lexical searc",
-    "id": "Nirrmitt/niyam-regulatory-intelligence",
-    "language": "Python",
-    "name": "Nirrmitt/niyam-regulatory-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-07T11:29:33Z",
-    "url": "https://github.com/Nirrmitt/niyam-regulatory-intelligence"
-  },
-  {
-    "description": "Deterministic agent memory. \u03bc=0. Free, local, forever. Mem0-compatible.",
-    "id": "ssmurfgg04-gif/context-m",
-    "language": "Python",
-    "name": "ssmurfgg04-gif/context-m",
-    "stars": 2,
-    "updated_at": "2026-10-07T11:17:33Z",
-    "url": "https://github.com/ssmurfgg04-gif/context-m"
   }
 ]
