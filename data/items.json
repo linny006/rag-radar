@@ -1,12 +1,246 @@
 [
   {
+    "description": "Multilingual (English, Hindi, Marathi, Hinglish), hallucination-aware RAG assistant for cooperative governance and gover",
+    "id": "ritesh469/sahakar-sahayak",
+    "language": "Python",
+    "name": "ritesh469/sahakar-sahayak",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:00:12Z",
+    "url": "https://github.com/ritesh469/sahakar-sahayak"
+  },
+  {
+    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS",
+    "id": "Peuqui/AIfred-Intelligence",
+    "language": "Python",
+    "name": "Peuqui/AIfred-Intelligence",
+    "stars": 38,
+    "updated_at": "2026-10-07T00:00:11Z",
+    "url": "https://github.com/Peuqui/AIfred-Intelligence"
+  },
+  {
+    "description": "iran seda crawler golang",
+    "id": "saber13812002/iranseda-crawler-golang-",
+    "language": "SRecode Template",
+    "name": "saber13812002/iranseda-crawler-golang-",
+    "stars": 3,
+    "updated_at": "2026-10-07T00:00:08Z",
+    "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
+  },
+  {
+    "description": "\ud83d\udcca Analyze WeChat group chat logs, generate AI-powered reports, and create visual summaries for easy sharing on mobile de",
+    "id": "leonense22/wechat-daily-report-skill",
+    "language": "HTML",
+    "name": "leonense22/wechat-daily-report-skill",
+    "stars": 6,
+    "updated_at": "2026-10-07T00:00:05Z",
+    "url": "https://github.com/leonense22/wechat-daily-report-skill"
+  },
+  {
+    "description": "Deliberate sawtooth rag for the web \u2014 alternating long/short lines for typographic rhythm",
+    "id": "over-punch/Ragtooth",
+    "language": "TypeScript",
+    "name": "over-punch/Ragtooth",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:00:04Z",
+    "url": "https://github.com/over-punch/Ragtooth"
+  },
+  {
+    "description": "\ud83d\udcb0 Manage your finances effortlessly with Moneo, a privacy-first dashboard that stores your data locally and offers power",
+    "id": "bacon17k/moneo-finance-dashboard",
+    "language": "JavaScript",
+    "name": "bacon17k/moneo-finance-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:59:59Z",
+    "url": "https://github.com/bacon17k/moneo-finance-dashboard"
+  },
+  {
+    "description": "\ud83c\udf10 Build and deploy 20+ modern web mini-apps quickly, with clean UI snippets for learning, teaching, and enhancing your p",
+    "id": "Nlov3/learning-web-apps-hub",
+    "language": "HTML",
+    "name": "Nlov3/learning-web-apps-hub",
+    "stars": 2,
+    "updated_at": "2026-10-06T23:59:57Z",
+    "url": "https://github.com/Nlov3/learning-web-apps-hub"
+  },
+  {
+    "description": "GPT RAG vs TF-IDF fashion recommender, head to head",
+    "id": "KrishnaAnnavaram/stylematch",
+    "language": "Python",
+    "name": "KrishnaAnnavaram/stylematch",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:59:52Z",
+    "url": "https://github.com/KrishnaAnnavaram/stylematch"
+  },
+  {
+    "description": "Offline Turkish RAG benchmark: BM25, BGE-M3, EmbeddingGemma 2, Laya and Gemma 4 on audited RAGTurk data",
+    "id": "erendikmenn/rag-benchmark",
+    "language": "Python",
+    "name": "erendikmenn/rag-benchmark",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:59:13Z",
+    "url": "https://github.com/erendikmenn/rag-benchmark"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:59:12Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "Local-first memory, autonomous thinking, and self-evolution runtime for long-running AI agents",
+    "id": "darrowz/eimemory",
+    "language": "Python",
+    "name": "darrowz/eimemory",
+    "stars": 1,
+    "updated_at": "2026-10-06T23:59:07Z",
+    "url": "https://github.com/darrowz/eimemory"
+  },
+  {
+    "description": "\ud83c\udfa4 Create realistic text-to-speech outputs with advanced voice cloning and design using Alibaba's Qwen3-TTS model for Com",
+    "id": "cser245086272/ComfyUI-FL-Qwen3TTS",
+    "language": "\u2014",
+    "name": "cser245086272/ComfyUI-FL-Qwen3TTS",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:59:00Z",
+    "url": "https://github.com/cser245086272/ComfyUI-FL-Qwen3TTS"
+  },
+  {
+    "description": "\ud83d\udd27 Manage Docker containers for AI assistants effortlessly with the Model Context Protocol server, enabling seamless inte",
+    "id": "vinzyy1/docker-mcp",
+    "language": "\u2014",
+    "name": "vinzyy1/docker-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:58:55Z",
+    "url": "https://github.com/vinzyy1/docker-mcp"
+  },
+  {
+    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
+    "id": "jazz1x/ohmyboring",
+    "language": "Python",
+    "name": "jazz1x/ohmyboring",
+    "stars": 3,
+    "updated_at": "2026-10-06T23:58:53Z",
+    "url": "https://github.com/jazz1x/ohmyboring"
+  },
+  {
+    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAn",
+    "id": "EtanHey/brainlayer",
+    "language": "Python",
+    "name": "EtanHey/brainlayer",
+    "stars": 9,
+    "updated_at": "2026-10-06T23:58:53Z",
+    "url": "https://github.com/EtanHey/brainlayer"
+  },
+  {
+    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
+    "id": "Farukul-Islam/from-mlops-to-llmops",
+    "language": "PHP",
+    "name": "Farukul-Islam/from-mlops-to-llmops",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:58:51Z",
+    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
+  },
+  {
+    "description": "\u591a Agent PR \u5ba1\u4fee\u95ed\u73af\uff1awebhook \u81ea\u52a8\u89e6\u53d1\u5ba1\u67e5/\u4fee\u590d/\u9a8c\u8bc1\uff0c\u7ed3\u8bba\u4ee5 check run \u56de\u5199 PR\uff1b\u9ad8\u98ce\u9669\u505c\u4eba\u5de5\u95e8\uff0c\u65e0 merge \u6743\u9650\u4e0d\u8d8a\u6743\u3002GOAI 2026 \u51b3\u8d5b\u9879\u76ee\u3002",
+    "id": "nghqqa/MergePilot",
+    "language": "JavaScript",
+    "name": "nghqqa/MergePilot",
+    "stars": 2,
+    "updated_at": "2026-10-06T23:59:22Z",
+    "url": "https://github.com/nghqqa/MergePilot"
+  },
+  {
     "description": "Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reprodu",
     "id": "JasonTM17/HealthCare_Project",
     "language": "JavaScript",
     "name": "JasonTM17/HealthCare_Project",
     "stars": 0,
-    "updated_at": "2026-10-06T23:57:00Z",
+    "updated_at": "2026-10-06T23:58:19Z",
     "url": "https://github.com/JasonTM17/HealthCare_Project"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG Framework for hybrid search, query classification, and answer fusion in product",
+    "id": "strewerwer/agentic-rag-framework",
+    "language": "HTML",
+    "name": "strewerwer/agentic-rag-framework",
+    "stars": 1,
+    "updated_at": "2026-10-06T23:58:15Z",
+    "url": "https://github.com/strewerwer/agentic-rag-framework"
+  },
+  {
+    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP ",
+    "id": "gmickel/gno",
+    "language": "TypeScript",
+    "name": "gmickel/gno",
+    "stars": 115,
+    "updated_at": "2026-10-06T23:58:14Z",
+    "url": "https://github.com/gmickel/gno"
+  },
+  {
+    "description": "AI Customer Support & Sales Automation Platform \u2014 tool-calling AI agents, RAG, CRM sync, n8n automation and WhatsApp/web",
+    "id": "FelipeFeerreira/agentdesk-ai",
+    "language": "TypeScript",
+    "name": "FelipeFeerreira/agentdesk-ai",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:58:09Z",
+    "url": "https://github.com/FelipeFeerreira/agentdesk-ai"
+  },
+  {
+    "description": "\ud83d\udee0 Master Claude Code with a complete guide on AI coding assistants, featuring agents, commands, skills, and rules to str",
+    "id": "enju0122/claude-code-master",
+    "language": "MDX",
+    "name": "enju0122/claude-code-master",
+    "stars": 1,
+    "updated_at": "2026-10-06T23:58:07Z",
+    "url": "https://github.com/enju0122/claude-code-master"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:58:04Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Explore hands-on experiments with open-source AI frameworks, showcasing practical usage patterns and building real-wor",
+    "id": "adhytiarachman/AI_testing101",
+    "language": "Python",
+    "name": "adhytiarachman/AI_testing101",
+    "stars": 1,
+    "updated_at": "2026-10-06T23:57:36Z",
+    "url": "https://github.com/adhytiarachman/AI_testing101"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:57:16Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "\ud83d\udcc4 Analyze, classify, and search legal documents with advanced NLP techniques to aid legal professionals in finding prece",
+    "id": "akbar-ops/sistema-de-analisis-de-documentos-juridicos",
+    "language": "Python",
+    "name": "akbar-ops/sistema-de-analisis-de-documentos-juridicos",
+    "stars": 0,
+    "updated_at": "2026-10-06T23:57:15Z",
+    "url": "https://github.com/akbar-ops/sistema-de-analisis-de-documentos-juridicos"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T23:57:11Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory database for AI agents \u2014 stores typed memories (facts, preferences, events, entities, relations) with provenance,",
@@ -14,7 +248,7 @@
     "language": "Rust",
     "name": "arc-labs-ai/brain-db",
     "stars": 39,
-    "updated_at": "2026-10-06T23:57:06Z",
+    "updated_at": "2026-10-06T23:59:35Z",
     "url": "https://github.com/arc-labs-ai/brain-db"
   },
   {
@@ -50,7 +284,7 @@
     "language": "TypeScript",
     "name": "nanohype/nanohype",
     "stars": 2,
-    "updated_at": "2026-10-06T23:56:32Z",
+    "updated_at": "2026-10-06T23:59:30Z",
     "url": "https://github.com/nanohype/nanohype"
   },
   {
@@ -70,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T23:56:11Z",
     "url": "https://github.com/LucasSantana-Dev/shelfmark"
-  },
-  {
-    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAn",
-    "id": "EtanHey/brainlayer",
-    "language": "Python",
-    "name": "EtanHey/brainlayer",
-    "stars": 9,
-    "updated_at": "2026-10-06T23:56:10Z",
-    "url": "https://github.com/EtanHey/brainlayer"
   },
   {
     "description": ".NET RAG document processing library that transforms PDF, DOCX, HWP, and more into optimized chunks via a 5-stage pipeli",
@@ -122,7 +347,7 @@
     "language": "Python",
     "name": "JDeun/SchemaRouter",
     "stars": 2,
-    "updated_at": "2026-10-06T23:57:05Z",
+    "updated_at": "2026-10-07T00:00:21Z",
     "url": "https://github.com/JDeun/SchemaRouter"
   },
   {
@@ -189,21 +414,12 @@
     "url": "https://github.com/GizClaw/flowcraft"
   },
   {
-    "description": "AI Customer Support & Sales Automation Platform \u2014 tool-calling AI agents, RAG, CRM sync, n8n automation and WhatsApp/web",
-    "id": "FelipeFeerreira/agentdesk-ai",
-    "language": "TypeScript",
-    "name": "FelipeFeerreira/agentdesk-ai",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:53:18Z",
-    "url": "https://github.com/FelipeFeerreira/agentdesk-ai"
-  },
-  {
     "description": "Semantic search over your own code, documents and git history, for coding agents over MCP. One container on your machine",
     "id": "Merp4/dexicon",
     "language": "C#",
     "name": "Merp4/dexicon",
     "stars": 0,
-    "updated_at": "2026-10-06T23:53:15Z",
+    "updated_at": "2026-10-06T23:59:02Z",
     "url": "https://github.com/Merp4/dexicon"
   },
   {
@@ -214,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T23:53:10Z",
     "url": "https://github.com/anselmoAJ/Multimodal-Clinical-RAG-Assistant-Medical-Text-Image-Retrieval-System-"
-  },
-  {
-    "description": "Offline Turkish RAG benchmark: BM25, BGE-M3, EmbeddingGemma 2, Laya and Gemma 4 on audited RAGTurk data",
-    "id": "erendikmenn/rag-benchmark",
-    "language": "Python",
-    "name": "erendikmenn/rag-benchmark",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:53:08Z",
-    "url": "https://github.com/erendikmenn/rag-benchmark"
   },
   {
     "description": "Open source agentic operating system",
@@ -241,212 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T23:52:49Z",
     "url": "https://github.com/sirrosales/ai"
-  },
-  {
-    "description": "Ask your grocery receipts anything. Kotlin Multiplatform app (Android + iOS) that reads Continente receipt PDFs from Gma",
-    "id": "mbahmani90/Cesto",
-    "language": "Kotlin",
-    "name": "mbahmani90/Cesto",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:54:49Z",
-    "url": "https://github.com/mbahmani90/Cesto"
-  },
-  {
-    "description": "The orchestration layer for AI workflows in WordPress.",
-    "id": "gregius/gregius-data",
-    "language": "PHP",
-    "name": "gregius/gregius-data",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:52:29Z",
-    "url": "https://github.com/gregius/gregius-data"
-  },
-  {
-    "description": "Privacy-first AI search for Proton Mail: local Bridge sync and SQLite hybrid index, exposed to MCP clients; bring your o",
-    "id": "marshalltech81/protonmail-local-ai",
-    "language": "Python",
-    "name": "marshalltech81/protonmail-local-ai",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:52:23Z",
-    "url": "https://github.com/marshalltech81/protonmail-local-ai"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Build a versatile MCP server with RAG capabilities, supporting multiple document formats using LangChain and ChromaDB",
-    "id": "rexnzm/MCP-rag-with-Chromadb",
-    "language": "Python",
-    "name": "rexnzm/MCP-rag-with-Chromadb",
-    "stars": 3,
-    "updated_at": "2026-10-06T23:52:16Z",
-    "url": "https://github.com/rexnzm/MCP-rag-with-Chromadb"
-  },
-  {
-    "description": "Everplain \u2014 a personal knowledge library and research workspace",
-    "id": "huyanxius/everplain",
-    "language": "Python",
-    "name": "huyanxius/everplain",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:52:11Z",
-    "url": "https://github.com/huyanxius/everplain"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1638,
-    "updated_at": "2026-10-06T23:51:04Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "A local tool-calling AI agent demo for logistics investigations across business data and Japanese documents, built with ",
-    "id": "philippos2/logi-scope",
-    "language": "Python",
-    "name": "philippos2/logi-scope",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:56:01Z",
-    "url": "https://github.com/philippos2/logi-scope"
-  },
-  {
-    "description": "Multilingual (English, Hindi, Marathi, Hinglish), hallucination-aware RAG assistant for cooperative governance and gover",
-    "id": "ritesh469/sahakar-sahayak",
-    "language": "Python",
-    "name": "ritesh469/sahakar-sahayak",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:50:34Z",
-    "url": "https://github.com/ritesh469/sahakar-sahayak"
-  },
-  {
-    "description": "\ud83d\udcca Automate financial analysis and forecasting with ForecastGPT, leveraging AI to extract insights from reports and strea",
-    "id": "elemsi/forecastgpt-financial-outlook-agent",
-    "language": "Python",
-    "name": "elemsi/forecastgpt-financial-outlook-agent",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:50:16Z",
-    "url": "https://github.com/elemsi/forecastgpt-financial-outlook-agent"
-  },
-  {
-    "description": "Local-first memory, autonomous thinking, and self-evolution runtime for long-running AI agents",
-    "id": "darrowz/eimemory",
-    "language": "Python",
-    "name": "darrowz/eimemory",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:50:10Z",
-    "url": "https://github.com/darrowz/eimemory"
-  },
-  {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 38,
-    "updated_at": "2026-10-06T23:50:04Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "\ud83d\ude80 Detect anomalies in structured datasets with this AI-driven ETL pipeline, ensuring data quality through seamless inges",
-    "id": "JallinskyLuca/ai-etl-anomaly-detection",
-    "language": "Jupyter Notebook",
-    "name": "JallinskyLuca/ai-etl-anomaly-detection",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:49:42Z",
-    "url": "https://github.com/JallinskyLuca/ai-etl-anomaly-detection"
-  },
-  {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:50:56Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "ReAct shopping agent with tool use, self-hosted vLLM serving, and an LLM-as-Judge evaluation pipeline validated against ",
-    "id": "shamathmika/shopwright",
-    "language": "Python",
-    "name": "shamathmika/shopwright",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:48:51Z",
-    "url": "https://github.com/shamathmika/shopwright"
-  },
-  {
-    "description": "\ud83d\udcca Streamline query-focused summarization by constructing knowledge graphs and extracting insights from document corpora ",
-    "id": "newspapercriticcontribution396/graphrag-query-summarization",
-    "language": "Python",
-    "name": "newspapercriticcontribution396/graphrag-query-summarization",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:48:19Z",
-    "url": "https://github.com/newspapercriticcontribution396/graphrag-query-summarization"
-  },
-  {
-    "description": "\ud83d\udd0d Empower efficient retrieval with PageIndex, a reasoning-based system that eliminates the need for vector databases and",
-    "id": "Mariam500000/PageIndex",
-    "language": "Jupyter Notebook",
-    "name": "Mariam500000/PageIndex",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:48:04Z",
-    "url": "https://github.com/Mariam500000/PageIndex"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Build a knowledge graph for global query-focused summarization from document corpora using the GraphRAG pipeline, enh",
-    "id": "Jasson5O66/graphrag-query-summarization",
-    "language": "Python",
-    "name": "Jasson5O66/graphrag-query-summarization",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:48:04Z",
-    "url": "https://github.com/Jasson5O66/graphrag-query-summarization"
-  },
-  {
-    "description": "\ud83d\udd17 Connect and enhance your communication with WeKnora, a powerful platform for seamless integration and interaction in W",
-    "id": "Almaskhan123/WeKnora",
-    "language": "Go",
-    "name": "Almaskhan123/WeKnora",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:47:40Z",
-    "url": "https://github.com/Almaskhan123/WeKnora"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:47:40Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83d\udcc4 Convert Markdown to visually appealing PDFs and extract Markdown from PDFs using local AI, all with zero configuration",
-    "id": "bill-work/md-pdf-md",
-    "language": "TypeScript",
-    "name": "bill-work/md-pdf-md",
-    "stars": 2,
-    "updated_at": "2026-10-06T23:47:38Z",
-    "url": "https://github.com/bill-work/md-pdf-md"
-  },
-  {
-    "description": "\ud83c\udf0d Explore Saudi Arabia's rich heritage and tourism through a seamless digital platform that enhances visitor experiences",
-    "id": "knackwursthand910/Sawwah",
-    "language": "Jupyter Notebook",
-    "name": "knackwursthand910/Sawwah",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:47:18Z",
-    "url": "https://github.com/knackwursthand910/Sawwah"
-  },
-  {
-    "description": "\ud83d\udcca Transform UN WebTV sessions into structured insights with AI-driven transcription, entity extraction, and interactive ",
-    "id": "koradripless624/un-webcast-analyzer",
-    "language": "Python",
-    "name": "koradripless624/un-webcast-analyzer",
-    "stars": 3,
-    "updated_at": "2026-10-06T23:46:54Z",
-    "url": "https://github.com/koradripless624/un-webcast-analyzer"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-06T23:46:28Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
   }
 ]
