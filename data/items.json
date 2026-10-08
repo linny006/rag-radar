@@ -1,5 +1,59 @@
 [
   {
+    "description": "iran seda crawler golang",
+    "id": "saber13812002/iranseda-crawler-golang-",
+    "language": "SRecode Template",
+    "name": "saber13812002/iranseda-crawler-golang-",
+    "stars": 3,
+    "updated_at": "2026-10-08T02:30:09Z",
+    "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
+  },
+  {
+    "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into ",
+    "id": "Osmantic/ODS",
+    "language": "Python",
+    "name": "Osmantic/ODS",
+    "stars": 7127,
+    "updated_at": "2026-10-08T02:29:39Z",
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 28,
+    "updated_at": "2026-10-08T02:28:34Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "\u767d\u7bb1AGI\u67b6\u6784\u63a2\u7d22\uff1a\u5143\u8ba4\u77e5\uff08\u81ea\u6211\u8ba4\u77e5\u5faa\u73af\uff09\u3001\u6301\u7eed\u5b66\u4e60\uff08\u77e5\u8bc6\u98de\u8f6e\uff09\u3001\u4e16\u754c\u6a21\u578b\uff08\u6761\u4ef6\u7a7a\u95f4+\u8bed\u4e49\u65f6\u7a7a\u56fe\uff09\u3001\u81ea\u6211\u6539\u8fdb\uff08\u81ea\u4e3e\u7eaa\u5f8b\uff09\u3001\u96f6LLM\u767d\u7bb1\u7ba1\u7ebf\u4e0e\u53ef\u5ba1\u8ba1\u4fe1\u4efb\u62a4\u680f\u3002",
+    "id": "FuRongJun-1999/dsh-memory",
+    "language": "Python",
+    "name": "FuRongJun-1999/dsh-memory",
+    "stars": 340,
+    "updated_at": "2026-10-08T02:27:44Z",
+    "url": "https://github.com/FuRongJun-1999/dsh-memory"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T02:27:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI customer support agent for a Shopify store. LangGraph state machine, self-built MCP server over the Admin GraphQL API",
+    "id": "akallam04/shopify-support-agent",
+    "language": "Python",
+    "name": "akallam04/shopify-support-agent",
+    "stars": 1,
+    "updated_at": "2026-10-08T02:27:42Z",
+    "url": "https://github.com/akallam04/shopify-support-agent"
+  },
+  {
     "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 uni",
     "id": "ModelEngine-Group/nexent",
     "language": "Python",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "juspay/neurolink",
     "stars": 143,
-    "updated_at": "2026-10-08T02:22:55Z",
+    "updated_at": "2026-10-08T02:29:10Z",
     "url": "https://github.com/juspay/neurolink"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T02:21:15Z",
     "url": "https://github.com/vshylov/mindfork-rs"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 28,
-    "updated_at": "2026-10-08T02:20:56Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
     "description": "A free, MIT-licensed, multi-tenant AI chatbot platform you host yourself - train chatbots on your own documents with RAG",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "Nova-AILabs/nova-pdf",
     "stars": 0,
-    "updated_at": "2026-10-08T02:21:11Z",
+    "updated_at": "2026-10-08T02:29:10Z",
     "url": "https://github.com/Nova-AILabs/nova-pdf"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T02:19:59Z",
     "url": "https://github.com/junghan0611/agent-config"
-  },
-  {
-    "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into ",
-    "id": "Osmantic/ODS",
-    "language": "Python",
-    "name": "Osmantic/ODS",
-    "stars": 7127,
-    "updated_at": "2026-10-08T02:22:24Z",
-    "url": "https://github.com/Osmantic/ODS"
   },
   {
     "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 fo",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "tosin2013/local-knowledge-vault",
     "stars": 0,
-    "updated_at": "2026-10-08T02:19:29Z",
+    "updated_at": "2026-10-08T02:28:10Z",
     "url": "https://github.com/tosin2013/local-knowledge-vault"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "vitali87/code-graph-rag",
     "stars": 5237,
-    "updated_at": "2026-10-08T02:26:30Z",
+    "updated_at": "2026-10-08T02:29:42Z",
     "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T02:15:23Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T02:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted memory for LLM agents - one SQLite file, zero services, MIT. Hybrid retrieval (FTS5 + sqlite-vec + RRF) with",
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 269,
-    "updated_at": "2026-10-08T02:26:23Z",
+    "updated_at": "2026-10-08T02:30:12Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4476,
     "updated_at": "2026-10-08T02:12:33Z",
     "url": "https://github.com/melgarafael/DeskcommCRM"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 136,
-    "updated_at": "2026-10-08T02:12:19Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1638,
-    "updated_at": "2026-10-08T02:10:57Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "AI-powered Android book-reading app built with Kotlin, Python, FastAPI, MySQL, and a LLM, featuring personalized book re",
-    "id": "Fuyuki0312/Reading-app-Lunaria",
-    "language": "Kotlin",
-    "name": "Fuyuki0312/Reading-app-Lunaria",
-    "stars": 0,
-    "updated_at": "2026-10-08T02:10:47Z",
-    "url": "https://github.com/Fuyuki0312/Reading-app-Lunaria"
   }
 ]
