@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local hybrid search for Korean Markdown notes & Obsidian vaults (BM25 + Hangul bigram + Qwen3 + rerank, MCP/CLI/SDK) \u00b7 \ud55c",
+    "id": "tak-bro/ko-qmd",
+    "language": "TypeScript",
+    "name": "tak-bro/ko-qmd",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:45:12Z",
+    "url": "https://github.com/tak-bro/ko-qmd"
+  },
+  {
+    "description": "C# SDK for the GroundX API -- RAG infrastructure with document ingestion, search, and content completion",
+    "id": "tryAGI/GroundX",
+    "language": "C#",
+    "name": "tryAGI/GroundX",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:44:49Z",
+    "url": "https://github.com/tryAGI/GroundX"
+  },
+  {
+    "description": "Solo 5E-compatible RPG where local LLM agents play the Game Master and your party. Built with CrewAI and RAG.",
+    "id": "Jester-Head/ttrpg_crew",
+    "language": "Python",
+    "name": "Jester-Head/ttrpg_crew",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:44:48Z",
+    "url": "https://github.com/Jester-Head/ttrpg_crew"
+  },
+  {
+    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
+    "id": "framerslab/agentos",
+    "language": "TypeScript",
+    "name": "framerslab/agentos",
+    "stars": 677,
+    "updated_at": "2026-10-10T23:44:30Z",
+    "url": "https://github.com/framerslab/agentos"
+  },
+  {
+    "description": "Hybrid BM25 + dense RAG over documents and GitHub repositories. Exact file:line citations, grounded refusal, and a contr",
+    "id": "mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories",
+    "language": "Python",
+    "name": "mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories",
+    "stars": 1,
+    "updated_at": "2026-10-10T23:44:24Z",
+    "url": "https://github.com/mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories"
+  },
+  {
+    "description": "Lemmary turns scans, PDFs, and office files into an organized library you can search, review, and research in plain lang",
+    "id": "buldezir/lemmary",
+    "language": "Go",
+    "name": "buldezir/lemmary",
+    "stars": 65,
+    "updated_at": "2026-10-10T23:44:07Z",
+    "url": "https://github.com/buldezir/lemmary"
+  },
+  {
+    "description": "Python-based enterprise AI knowledge assistant demonstrating document retrieval, source citations, and a local Streamlit",
+    "id": "jackotamo/enterprise-ai-knowledge-assistant",
+    "language": "Python",
+    "name": "jackotamo/enterprise-ai-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:43:59Z",
+    "url": "https://github.com/jackotamo/enterprise-ai-knowledge-assistant"
+  },
+  {
+    "description": "AI learning workspace with tutoring, coding practice, quizzes, study planning, and document-based retrieval. Next.js + E",
+    "id": "SuhaibIqbal12/ai-tutor-platform",
+    "language": "TypeScript",
+    "name": "SuhaibIqbal12/ai-tutor-platform",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:43:42Z",
+    "url": "https://github.com/SuhaibIqbal12/ai-tutor-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T23:43:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
     "id": "yeixio/toskar-core",
     "language": "Go",
@@ -34,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T23:41:09Z",
     "url": "https://github.com/marshalltech81/protonmail-local-ai"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 677,
-    "updated_at": "2026-10-10T23:42:09Z",
-    "url": "https://github.com/framerslab/agentos"
   },
   {
     "description": "Open-source, self-hosted enterprise & site search server built on OpenSearch. Crawls web / file / DB / cloud sources, 20",
@@ -297,15 +369,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T23:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and revi",
     "id": "tale-project/tale",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 42,
     "updated_at": "2026-10-10T23:27:04Z",
     "url": "https://github.com/PatrickWiloak/cloud-data-ai-security-zero-to-hero"
-  },
-  {
-    "description": "Long-term memory for AI coding agents (Claude Code, Codex, opencode) as a tree of plain files",
-    "id": "gonzaroman/IHMT-MEMORY",
-    "language": "Python",
-    "name": "gonzaroman/IHMT-MEMORY",
-    "stars": 21,
-    "updated_at": "2026-10-10T23:26:49Z",
-    "url": "https://github.com/gonzaroman/IHMT-MEMORY"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:29:42Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
-    "id": "LocketKeyLLC/scaffold-engine",
-    "language": "Python",
-    "name": "LocketKeyLLC/scaffold-engine",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:38:26Z",
-    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
-  },
-  {
-    "description": "AYORAI ATTRACTOR \u2014 Evidence-first claim-level verification engine",
-    "id": "Ayorinha/ayorai-opensearch",
-    "language": "Python",
-    "name": "Ayorinha/ayorai-opensearch",
-    "stars": 1,
-    "updated_at": "2026-10-10T23:43:27Z",
-    "url": "https://github.com/Ayorinha/ayorai-opensearch"
-  },
-  {
-    "description": "RAG assistant for Costa Rican independent developers \u2014 tax & tr\u00e1mite answers cited to official Hacienda/CCSS documents",
-    "id": "rjwrld/tramitico",
-    "language": "TypeScript",
-    "name": "rjwrld/tramitico",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:43:18Z",
-    "url": "https://github.com/rjwrld/tramitico"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-10T23:24:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
-    "id": "ozynautetu-create/FlowForge-Optima",
-    "language": "HTML",
-    "name": "ozynautetu-create/FlowForge-Optima",
-    "stars": 56,
-    "updated_at": "2026-10-10T23:24:28Z",
-    "url": "https://github.com/ozynautetu-create/FlowForge-Optima"
   }
 ]
