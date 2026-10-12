@@ -1,12 +1,120 @@
 [
   {
-    "description": "Sovereign AI portfolio: 16 white papers in 4 series, 7 ships, EvidenceFlow RAG. Built local on 8GB, no cloud. The record",
-    "id": "qaevelyn/qaevelyn.github.io",
-    "language": "HTML",
-    "name": "qaevelyn/qaevelyn.github.io",
+    "description": "Long-term memory for PocketRisu / RisuAI role-play \u2014 a local sidecar that remembers what scrolled out of context, with h",
+    "id": "Sallos725/NMOS",
+    "language": "Python",
+    "name": "Sallos725/NMOS",
+    "stars": 5,
+    "updated_at": "2026-10-12T02:22:30Z",
+    "url": "https://github.com/Sallos725/NMOS"
+  },
+  {
+    "description": "Turn a web page or document into a searchable PDF with an AI-ready bundle inside.",
+    "id": "kitterman-t/webshot-ai",
+    "language": "Python",
+    "name": "kitterman-t/webshot-ai",
     "stars": 0,
-    "updated_at": "2026-10-12T02:14:50Z",
-    "url": "https://github.com/qaevelyn/qaevelyn.github.io"
+    "updated_at": "2026-10-12T02:21:59Z",
+    "url": "https://github.com/kitterman-t/webshot-ai"
+  },
+  {
+    "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
+    "id": "mcn92/pikelet",
+    "language": "JavaScript",
+    "name": "mcn92/pikelet",
+    "stars": 2,
+    "updated_at": "2026-10-12T02:21:45Z",
+    "url": "https://github.com/mcn92/pikelet"
+  },
+  {
+    "description": "Australian location + scenario to reviewable preparedness drafts. Hybrid RAG, evidence trails and human review. Local Ol",
+    "id": "shuxiachai/BushfireReadyGPT",
+    "language": "Python",
+    "name": "shuxiachai/BushfireReadyGPT",
+    "stars": 2,
+    "updated_at": "2026-10-12T02:21:05Z",
+    "url": "https://github.com/shuxiachai/BushfireReadyGPT"
+  },
+  {
+    "description": "Open legal intelligence for Mexico. 30,000+ laws across federal, state, and municipal sources \u00b7 3.5M+ searchable article",
+    "id": "madfam-org/tezca",
+    "language": "Python",
+    "name": "madfam-org/tezca",
+    "stars": 8,
+    "updated_at": "2026-10-12T02:20:44Z",
+    "url": "https://github.com/madfam-org/tezca"
+  },
+  {
+    "description": "CPersona \u2014 persistent memory for AI agents over MCP. One SQLite file you own, hybrid vector + full-text + keyword search",
+    "id": "Cloto-dev/CPersona",
+    "language": "Python",
+    "name": "Cloto-dev/CPersona",
+    "stars": 8,
+    "updated_at": "2026-10-12T02:20:18Z",
+    "url": "https://github.com/Cloto-dev/CPersona"
+  },
+  {
+    "description": "AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \uc2dc\ub300\uc758 \uc544\ud0a4\ud14d\ucc98 \uac70\ubc84\ub10c\uc2a4 \ud50c\ub7ab\ud3fc \u00b7 \ucd9c\ucc98 \uc778\uc6a9\u00b7\uac80\uc99d \uae30\ubc18 \ubb38\uc11c \ud558\uc774\ube0c\ub9ac\ub4dc \uac80\uc0c9(Nexus) \u00b7 ADR\u00b7\uc0ac\uc591 \uc0ac\uc804 \uc2b9\uc778 \ubc0f \ucf54\ub4dc \uc791\uc131 \ub3c4\uad6c \ud638\ucd9c \ud1b5\uc81c(Arbiter) \u00b7 PR \uc601\ud5a5 \ubc94\uc704\u00b7API \uaddc\uaca9",
+    "id": "LivingLikeKrillin/khala",
+    "language": "Python",
+    "name": "LivingLikeKrillin/khala",
+    "stars": 0,
+    "updated_at": "2026-10-12T02:20:56Z",
+    "url": "https://github.com/LivingLikeKrillin/khala"
+  },
+  {
+    "description": "MIT-licensed PowerShell document automation for Word, Excel, PowerPoint, PDF, email, PST/OST, OneNote, Visio, OpenDocume",
+    "id": "EvotecIT/PSWriteOffice",
+    "language": "C#",
+    "name": "EvotecIT/PSWriteOffice",
+    "stars": 164,
+    "updated_at": "2026-10-12T02:19:44Z",
+    "url": "https://github.com/EvotecIT/PSWriteOffice"
+  },
+  {
+    "description": "SnapHop Local AI Stack \u2014 local NVIDIA DGX Spark inference with vLLM, a LiteLLM API gateway, and PostgreSQL pgvector RAG.",
+    "id": "snaphop/snaphop-local-ai-stack",
+    "language": "Shell",
+    "name": "snaphop/snaphop-local-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-10-12T02:21:23Z",
+    "url": "https://github.com/snaphop/snaphop-local-ai-stack"
+  },
+  {
+    "description": "AI-optimized stash storage \u2014 dynamic RAG for agents. Store, search, and retrieve docs, code, and data on demand via MCP ",
+    "id": "fo0/clawstash",
+    "language": "TypeScript",
+    "name": "fo0/clawstash",
+    "stars": 1,
+    "updated_at": "2026-10-12T02:18:58Z",
+    "url": "https://github.com/fo0/clawstash"
+  },
+  {
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
+    "id": "infiniflow/ragflow",
+    "language": "Go",
+    "name": "infiniflow/ragflow",
+    "stars": 92012,
+    "updated_at": "2026-10-12T02:18:20Z",
+    "url": "https://github.com/infiniflow/ragflow"
+  },
+  {
+    "description": "\u4e2d\u4e9a\u4e94\u56fd\uff08\u54c8\u8428\u514b\u65af\u5766\u3001\u4e4c\u5179\u522b\u514b\u65af\u5766\u3001\u5409\u5c14\u5409\u65af\u65af\u5766\u3001\u5854\u5409\u514b\u65af\u5766\u3001\u571f\u5e93\u66fc\u65af\u5766\uff09\u5bf9\u534e\u8d38\u6613\u667a\u80fd\u95ee\u7b54\u5e73\u53f0\uff0c\u96c6\u5386\u53f2\u6570\u636e\u67e5\u8be2\u3001\u8d38\u6613\u9884\u6d4b\uff08Transformer+LSTM \u65f6\u5e8f\u6a21\u578b\uff09\u3001\u65b0\u95fb\u95ee\u7b54\uff08RAG\uff09\u4e0e\u6570\u636e\u770b\u677f/\u5927\u5c4f\u4e8e\u4e00\u4f53\u3002",
+    "id": "zhangzhanglaila/Trade",
+    "language": "Java",
+    "name": "zhangzhanglaila/Trade",
+    "stars": 1,
+    "updated_at": "2026-10-12T02:17:41Z",
+    "url": "https://github.com/zhangzhanglaila/Trade"
+  },
+  {
+    "description": "Yu-Gi-Oh! OCG AI ruling and judge assistant\uff5c\u6e38\u620f\u738bAI\u88c1\u5b9a\u4e0e\u89c4\u5219\u95ee\u7b54\uff5c\u904a\u622f\u738bAI\u88c1\u5b9a\u30fb\u30eb\u30fc\u30eb\u8cea\u554f \u2014 official Q&A retrieval, RAG, multilingual.",
+    "id": "coldiceh/ocg-ruling-assistant",
+    "language": "JavaScript",
+    "name": "coldiceh/ocg-ruling-assistant",
+    "stars": 6,
+    "updated_at": "2026-10-12T02:17:21Z",
+    "url": "https://github.com/coldiceh/ocg-ruling-assistant"
   },
   {
     "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
@@ -14,8 +122,35 @@
     "language": "Python",
     "name": "araray/llmcore",
     "stars": 5,
-    "updated_at": "2026-10-12T02:14:35Z",
+    "updated_at": "2026-10-12T02:15:50Z",
     "url": "https://github.com/araray/llmcore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T02:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Sovereign AI portfolio: 16 white papers in 4 series, 7 ships, EvidenceFlow RAG. Built local on 8GB, no cloud. The record",
+    "id": "qaevelyn/qaevelyn.github.io",
+    "language": "HTML",
+    "name": "qaevelyn/qaevelyn.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-12T02:14:50Z",
+    "url": "https://github.com/qaevelyn/qaevelyn.github.io"
   },
   {
     "description": "The Best Srcpack Alternatives 2026: Optimize Code for LLMs Faster",
@@ -41,7 +176,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6510,
-    "updated_at": "2026-10-12T02:14:59Z",
+    "updated_at": "2026-10-12T02:22:26Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -52,15 +187,6 @@
     "stars": 46355,
     "updated_at": "2026-10-12T02:13:56Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 92012,
-    "updated_at": "2026-10-12T02:12:45Z",
-    "url": "https://github.com/infiniflow/ragflow"
   },
   {
     "description": "Permissionless venue + knowledge commons for AI agent mutual feeding \u2014 Knowledge Packs, open floor, MCP-friendly",
@@ -140,7 +266,7 @@
     "language": "TypeScript",
     "name": "junruxiong/IncarnaMind",
     "stars": 804,
-    "updated_at": "2026-10-12T02:12:38Z",
+    "updated_at": "2026-10-12T02:22:21Z",
     "url": "https://github.com/junruxiong/IncarnaMind"
   },
   {
@@ -158,7 +284,7 @@
     "language": "C#",
     "name": "dignite-projects/vault-extract",
     "stars": 7,
-    "updated_at": "2026-10-12T02:14:37Z",
+    "updated_at": "2026-10-12T02:15:35Z",
     "url": "https://github.com/dignite-projects/vault-extract"
   },
   {
@@ -212,7 +338,7 @@
     "language": "Python",
     "name": "zrasooli94/cxops-ai",
     "stars": 0,
-    "updated_at": "2026-10-12T02:06:58Z",
+    "updated_at": "2026-10-12T02:19:02Z",
     "url": "https://github.com/zrasooli94/cxops-ai"
   },
   {
@@ -250,15 +376,6 @@
     "stars": 372,
     "updated_at": "2026-10-12T02:04:19Z",
     "url": "https://github.com/FuRongJun-1999/dsh-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T02:04:16Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first desktop knowledge assistant (NotebookLM-style, offline): ask questions about your documents, audio, video an",
@@ -315,15 +432,6 @@
     "url": "https://github.com/vshylov/mindfork-rs"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T02:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u5b66\u4e60 AI Agent \u7684\u7b14\u8bb0\uff0c\u8fb9\u8bfb\u6e90\u7801\u8fb9\u505a\u5c0f\u5b9e\u9a8c\uff0c\u8bb0\u5f55\u9047\u5230\u7684\u95ee\u9898\u548c\u81ea\u5df1\u7684\u7406\u89e3\u3002",
     "id": "j-tide/juejin-article",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-12T02:00:07Z",
     "url": "https://github.com/saber13812002/iranseda-crawler-golang-"
-  },
-  {
-    "description": "Source-grounded public context for \u7acb\u6b63: Superlinear posts, selected comments, YouTube, Public Axioms V1, and \u300a\u771f\u672c\u4e8b\u300b.",
-    "id": "sunyuzheng/lizheng-open-context",
-    "language": "Python",
-    "name": "sunyuzheng/lizheng-open-context",
-    "stars": 141,
-    "updated_at": "2026-10-12T01:59:59Z",
-    "url": "https://github.com/sunyuzheng/lizheng-open-context"
-  },
-  {
-    "description": "TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.",
-    "id": "framerslab/agentos",
-    "language": "TypeScript",
-    "name": "framerslab/agentos",
-    "stars": 677,
-    "updated_at": "2026-10-12T01:59:56Z",
-    "url": "https://github.com/framerslab/agentos"
-  },
-  {
-    "description": "Governed runtime for AI agent workflows: declarative plans, human-in-the-loop gates, token and cost budgets, and an audi",
-    "id": "souzalrns/network-agents-setup",
-    "language": "Python",
-    "name": "souzalrns/network-agents-setup",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:57:04Z",
-    "url": "https://github.com/souzalrns/network-agents-setup"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-12T01:56:47Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.",
-    "id": "nicosuave/memex",
-    "language": "Rust",
-    "name": "nicosuave/memex",
-    "stars": 251,
-    "updated_at": "2026-10-12T01:56:02Z",
-    "url": "https://github.com/nicosuave/memex"
-  },
-  {
-    "description": "Official Jamdesk documentation \u2014 guides, API reference, components, and tutorials for the Jamdesk documentation platform",
-    "id": "jamdesk/jamdesk-docs",
-    "language": "MDX",
-    "name": "jamdesk/jamdesk-docs",
-    "stars": 4,
-    "updated_at": "2026-10-12T01:55:41Z",
-    "url": "https://github.com/jamdesk/jamdesk-docs"
-  },
-  {
-    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
-    "id": "HKUDS/LightRAG",
-    "language": "Python",
-    "name": "HKUDS/LightRAG",
-    "stars": 40068,
-    "updated_at": "2026-10-12T01:55:28Z",
-    "url": "https://github.com/HKUDS/LightRAG"
-  },
-  {
-    "description": "SnapHop Local AI Stack \u2014 local NVIDIA DGX Spark inference with vLLM, a LiteLLM API gateway, and PostgreSQL pgvector RAG.",
-    "id": "snaphop/snaphop-local-ai-stack",
-    "language": "Shell",
-    "name": "snaphop/snaphop-local-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:55:23Z",
-    "url": "https://github.com/snaphop/snaphop-local-ai-stack"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "JavaScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:55:13Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Your notes as a chat with yourself, with AI memory: ask them with citations, search them, study with flashcards. Self-ho",
-    "id": "rossmelabasto/ross_notebook",
-    "language": "JavaScript",
-    "name": "rossmelabasto/ross_notebook",
-    "stars": 0,
-    "updated_at": "2026-10-12T01:54:46Z",
-    "url": "https://github.com/rossmelabasto/ross_notebook"
-  },
-  {
-    "description": "A production-ready FastAPI platform with modular components and a built-in control plane.",
-    "id": "lbedner/aegis-stack",
-    "language": "Python",
-    "name": "lbedner/aegis-stack",
-    "stars": 143,
-    "updated_at": "2026-10-12T01:54:54Z",
-    "url": "https://github.com/lbedner/aegis-stack"
-  },
-  {
-    "description": "Buddhist Digital Text Platform \u2014 10,500+ texts, 613 sources, trilingual cross-canon, AI Q&A (RAG), knowledge graph, full",
-    "id": "xr843/fojin",
-    "language": "Python",
-    "name": "xr843/fojin",
-    "stars": 350,
-    "updated_at": "2026-10-12T01:54:16Z",
-    "url": "https://github.com/xr843/fojin"
   }
 ]
