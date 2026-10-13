@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-13 17:15 UTC
+> ⏰ Last updated: 2026-10-13 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [EstaxNet/Inferpal](https://github.com/EstaxNet/Inferpal) | 8 | C# | 2026-10-13 | Your AI pair programmer for Visual Studio 2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 to |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 100351 | TypeScript | 2026-10-13 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
-| 3 | [roviacuna/jdk-fleet-assistant](https://github.com/roviacuna/jdk-fleet-assistant) | 0 | Java | 2026-10-13 | AI assistant in Java (Spring AI) to plan Oracle JDK → OpenJDK fleet migrations, with human approval. Simulated data. Wor |
-| 4 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 24 | Python | 2026-10-13 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
-| 5 | [TelesforoAleix/med-ask](https://github.com/TelesforoAleix/med-ask) | 0 | Python | 2026-10-13 | Search over a medical student's textbooks that returns the original passage, with book and page. |
-| 6 | [Goldziher/basemind](https://github.com/Goldziher/basemind) | 111 | Rust | 2026-10-13 | Full AI context and content layer for coding agents over one MCP server — tree-sitter code-map, document RAG, shared mem |
-| 7 | [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) | 2435 | TypeScript | 2026-10-13 | 모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 \| Convert Korean documents (HWP, HWPX, P |
-| 8 | [TechDocsStudio/sphinx-biel](https://github.com/TechDocsStudio/sphinx-biel) | 0 | Python | 2026-10-13 | AI chatbot extension for Sphinx |
-| 9 | [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | 30 | TypeScript | 2026-10-13 | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta |
-| 10 | [Shivam022811/Datasheet-Q-A-Assistant-for-Electronic-Components-RAG-using-LLM-](https://github.com/Shivam022811/Datasheet-Q-A-Assistant-for-Electronic-Components-RAG-using-LLM-) | 0 | Python | 2026-10-13 | RAG-based assistant that answers specification and comparison queries over electronic component datasheets with page-lev |
-| 11 | [UnknownAlienHuman/eliot-research](https://github.com/UnknownAlienHuman/eliot-research) | 0 | TypeScript | 2026-10-13 | ELIOT Research Cloud — pluggable external research federation for ELIOT Memory OS. Cloudflare-hosted evidence library, C |
-| 12 | [Haytamzerr/qanounAI](https://github.com/Haytamzerr/qanounAI) | 0 | Python | 2026-10-13 | Bilingual (French/Arabic) legal assistant for Moroccan law: RAG with cited articles, AI agent, MCP server and evaluation |
-| 13 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | 3830 | Python | 2026-10-13 | The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros |
-| 14 | [rknightion/paperless-ngx-dedupe](https://github.com/rknightion/paperless-ngx-dedupe) | 23 | TypeScript | 2026-10-13 | Find and remove duplicate documents in paperless-ngx. MinHash/LSH fuzzy matching catches near-duplicates that exact hash |
-| 15 | [fathomise/MailFathom](https://github.com/fathomise/MailFathom) | 15 | C# | 2026-10-13 | A brain for your mail: MailFathom turns IMAP mailboxes into a self-hosted, AI-native service. Mail synchronizes into you |
-| 16 | [freshernation/zero-to-agent-engineer](https://github.com/freshernation/zero-to-agent-engineer) | 0 | Python | 2026-10-13 | Thirteen weeks from your first line of Python to a deployed, evaluated agent system. 1,541 tests. No prior programming. |
-| 17 | [WindriderQc/AgentX](https://github.com/WindriderQc/AgentX) | 0 | JavaScript | 2026-10-13 | Local AI workbench: Ollama chat, document retrieval, model evaluation and optional personal and household interfaces. |
-| 18 | [ChiufungLee/AI-Test-Case-Generator](https://github.com/ChiufungLee/AI-Test-Case-Generator) | 19 | Python | 2026-10-13 | AI 测试用例生成与测试辅助平台｜基于 RAG + LLM，支持需求分析、测试点梳理、测试用例生成与知识库检索｜AI Test Case Generator · AI Testing |
-| 19 | [vishnusureshperumbavoor/Vibe-ML-Studio](https://github.com/vishnusureshperumbavoor/Vibe-ML-Studio) | 0 | Python | 2026-10-13 | A multi-modal AI workbench for local inference, agentic workflows, and RAG-powered knowledge management. Featuring MCP t |
-| 20 | [RailtownAI/railtracks](https://github.com/RailtownAI/railtracks) | 233 | Python | 2026-10-13 | An agentic framework that helps developers build resilient agentic systems |
-| 21 | [jamiezigelbaum/Olympus](https://github.com/jamiezigelbaum/Olympus) | 1 | TypeScript | 2026-10-13 | Your whole digital life, searchable by your AI, on your privacy terms. A private knowledge engine on your Mac for ChatGP |
-| 22 | [armasndev/napas-jakarta](https://github.com/armasndev/napas-jakarta) | 1 | Python | 2026-10-13 | Bilingual (EN/ID) Jakarta air-quality map and citation-grounded assistant, using official station data. |
-| 23 | [hi-donwi/Agent-Local](https://github.com/hi-donwi/Agent-Local) | 0 | Go | 2026-10-13 | Local AI toolkit in one static binary: hardware-aware setup and doctor, an OpenAI-compatible gateway over Ollama/llama.c |
-| 24 | [TastyT0rtuga/gumshoe](https://github.com/TastyT0rtuga/gumshoe) | 0 | Python | 2026-10-13 | Local, offline, LLM-assisted forensic triage for Linux server images: established DFIR tools do detection; Gumshoe adds  |
-| 25 | [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) | 105 | Kotlin | 2026-10-13 | 安卓AI聊天端:开箱即聊，无损导入酒馆卡，缓存强省用量，Jev 决策，专属RP模式，防空回，多维记忆，主动信息，前端卡支持，高定制主题，QQbot，AI群聊，插件系统，强兼容中转站。手机移动端原生支持，求 Star 收藏⭐Android A |
-| 26 | [herrerogusano/LegalDesk](https://github.com/herrerogusano/LegalDesk) | 0 | Python | 2026-10-13 | Tenant-safe legal document assistant on AWS Bedrock AgentCore: grounded RAG with verifiable citations, secure Gateway/MC |
-| 27 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 28 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-13 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 29 | [Adrian463588/coffee-creator](https://github.com/Adrian463588/coffee-creator) | 0 | Kotlin | 2026-10-13 | Offline-first professional barista workstation built with Jetpack Compose, Material 3, deterministic Kotlin science engi |
-| 30 | [Matlan1/localm](https://github.com/Matlan1/localm) | 3 | Python | 2026-10-13 | Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL |
-| 31 | [marceloribeiro/evalstone](https://github.com/marceloribeiro/evalstone) | 0 | Python | 2026-10-13 | The plug-and-play evals layer for LLM-based projects: library, learning center, check center, API, MCP server. |
-| 32 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1071 | Python | 2026-10-13 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
-| 33 | [philippmossier/cofabriq](https://github.com/philippmossier/cofabriq) | 0 | Python | 2026-10-13 | A software factory devs use as a tool: issue triage, a repo map for planning, and autopilot for small issues. Measured p |
-| 34 | [gosha70/memkernel](https://github.com/gosha70/memkernel) | 2 | Python | 2026-10-13 | Code-aware, tiered memory for AI coding copilots: MCP server + Python library (ChromaDB, hybrid search, consolidation, L |
-| 35 | [answerLoops/answerLoops](https://github.com/answerLoops/answerLoops) | 20 | TypeScript | 2026-10-13 | 🚀 Agent-native AI support that turns your docs into answers for your community. Built for your agents with skills and MC |
-| 36 | [neuml/txtai](https://github.com/neuml/txtai) | 13014 | Python | 2026-10-13 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 37 | [Tunasmelt/Cerebro-Flutter](https://github.com/Tunasmelt/Cerebro-Flutter) | 0 | Dart | 2026-10-13 | Flutter mobile client for Cerebro, a chat-with-your-documents knowledge base. Supabase auth, signed-URL uploads, SSE-str |
-| 38 | [IncarnaMind/IncarnaMind](https://github.com/IncarnaMind/IncarnaMind) | 808 | TypeScript | 2026-10-13 | IncarnaMind is a free, open-source desktop app for macOS, Windows and Linux where you ask questions about your own docum |
-| 39 | [msmekka/resume-mcp](https://github.com/msmekka/resume-mcp) | 0 | Python | 2026-10-13 | MCP server that turns a folder of resumes into a searchable Markdown corpus for your AI tools. |
-| 40 | [deng-group/wendao](https://github.com/deng-group/wendao) | 0 | Python | 2026-10-13 | Wendao (问道): an AI learning companion. Turns course notes into an interactive knowledge graph and a course-grounded AI t |
-| 41 | [ryanportfolio/Truenote](https://github.com/ryanportfolio/Truenote) | 1 | TypeScript | 2026-10-13 | RAG for business \| Citations or nothing \| Support teams need an answer they can verify |
-| 42 | [Fioru12/Ermes-Librarian](https://github.com/Fioru12/Ermes-Librarian) | 0 | Python | 2026-10-13 | Local-first document library for small teams: upload company files, ask questions in natural language, and get answers t |
-| 43 | [Sahith59/AgentMem-OS](https://github.com/Sahith59/AgentMem-OS) | 0 | Python | 2026-10-13 | Local-first memory for AI agents. English LongMemEval_s: 84.6% historical single run. Sarvam: audited 240-episode reliab |
-| 44 | [NatalTiger26/ArXiv_Paper_Suggester-RAG](https://github.com/NatalTiger26/ArXiv_Paper_Suggester-RAG) | 0 | Python | 2026-10-13 | Multi-signal arXiv recommender + full-text RAG with citations. EmbeddingGemma (local) / MiniLM (Cloud), Gemini answers,  |
-| 45 | [The-Geek-Freaks/NEOTH](https://github.com/The-Geek-Freaks/NEOTH) | 6 | Rust | 2026-10-13 | Local-first personal AI daemon in Rust — five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM  |
-| 46 | [sund0me/portfolio](https://github.com/sund0me/portfolio) | 0 | TypeScript | 2026-10-13 | AI Automation Engineer portfolio: anonymous RAG, API tooling and frontend demos |
-| 47 | [callmesobhan/evidencetrace-rag](https://github.com/callmesobhan/evidencetrace-rag) | 0 | Python | 2026-10-13 | Verifiable scientific evidence extraction: quantitative findings traced to source spans, conflict checks, and abstention |
-| 48 | [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) | 5593 | Python | 2026-10-13 | AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js |
-| 49 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-13 | Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast |
-| 50 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6517 | TypeScript | 2026-10-13 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 1 | [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) | 2435 | TypeScript | 2026-10-13 | 모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 \| Convert Korean documents (HWP, HWPX, P |
+| 2 | [mohammed-usmani/engram](https://github.com/mohammed-usmani/engram) | 1 | Python | 2026-10-13 | One shared, self-organising memory for all your AI assistants — MCP + REST, episodic/semantic/procedural/reflective memo |
+| 3 | [saber13812002/iranseda-crawler-golang-](https://github.com/saber13812002/iranseda-crawler-golang-) | 3 | SRecode Template | 2026-10-13 | iran seda crawler golang |
+| 4 | [Manuelgr928/rusty-beaker](https://github.com/Manuelgr928/rusty-beaker) | 0 | HTML | 2026-10-13 | ⚡ RustyClaw 2026 — AI CLI for RAG Agents, Voice Cloning & Browser Automation |
+| 5 | [Xquik-dev/xquik-haystack](https://github.com/Xquik-dev/xquik-haystack) | 1 | Python | 2026-10-13 | Haystack RAG components for Twitter search, tweet retrieval, and public user timelines. Not affiliated with X Corp. |
+| 6 | [Mullassery/PyStreamPDF](https://github.com/Mullassery/PyStreamPDF) | 1 | Python | 2026-10-13 | Reduce RAG costs 50-70%. Extract only what matters from PDFs. Stop sending entire documents to LLMs. Selective retrieval |
+| 7 | [SimonLecake/ai-portfolio](https://github.com/SimonLecake/ai-portfolio) | 0 | — | 2026-10-13 | AI application portfolio: LLM evaluation, video & document RAG, analytics agents, and visual inspection. Bilingual case  |
+| 8 | [groundlens-dev/groundlens](https://github.com/groundlens-dev/groundlens) | 7 | Rust | 2026-10-13 | GroundLens is an execution verification runtime for AI systems and agents. It turns observable AI execution into determi |
+| 9 | [The-Geek-Freaks/NEOTH](https://github.com/The-Geek-Freaks/NEOTH) | 6 | Rust | 2026-10-13 | Local-first personal AI daemon in Rust — five-tier memory, consent-gated tools, WASM plugin sandbox, multi-provider LLM  |
+| 10 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 24 | Python | 2026-10-13 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
+| 11 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | 3830 | Python | 2026-10-13 | The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [Artexis10/exomem](https://github.com/Artexis10/exomem) | 10 | Python | 2026-10-13 | Self-hosted MCP server that makes your Obsidian/markdown vault searchable — text, PDFs, Office docs, images, audio — fro |
+| 14 | [postmill-ai/postmill-app](https://github.com/postmill-ai/postmill-app) | 23 | TypeScript | 2026-10-13 | Open-source, AI-native social media management & scheduling platform for 45+ channels. BYOK AI across 30+ providers with |
+| 15 | [ozynautetu-create/FlowForge-Optima](https://github.com/ozynautetu-create/FlowForge-Optima) | 56 | HTML | 2026-10-13 | AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code |
+| 16 | [jrhahn/ai-trainer](https://github.com/jrhahn/ai-trainer) | 1 | Python | 2026-10-13 | AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini — built  |
+| 17 | [zwq871482439/sidemate](https://github.com/zwq871482439/sidemate) | 1 | Python | 2026-10-13 | 桌伴 Sidemate — 本地优先的 AI 桌面应用：离线模型/在线 API 双模，本地知识库，数据不出本机 |
+| 18 | [ZQM-Computing/ollama-fleet-patterns](https://github.com/ZQM-Computing/ollama-fleet-patterns) | 0 | Python | 2026-10-13 | Ollama fleet operations patterns: running local LLM fleets — model management & manifest sync, fleet health checks, load |
+| 19 | [liuchangchxy/zhanghui](https://github.com/liuchangchxy/zhanghui) | 0 | Python | 2026-10-13 | 章回 Zhanghui —— 让 AI 写完整本长篇网文。Claude Code 插件：一致性数据链 + 风格指纹 + 去 AI 味 + 14 命令 4 agent |
+| 20 | [krizaka/orazaka-knowledge-service](https://github.com/krizaka/orazaka-knowledge-service) | 0 | Java | 2026-10-13 | Orazaka — knowledge and RAG retrieval on pgvector, with asynchronous indexing. |
+| 21 | [antflydb/antfly](https://github.com/antflydb/antfly) | 470 | Zig | 2026-10-13 |  |
+| 22 | [Haytamzerr/qanounAI](https://github.com/Haytamzerr/qanounAI) | 0 | Python | 2026-10-13 | Bilingual (French/Arabic) legal assistant for Moroccan law: RAG with cited articles, AI agent, MCP server and evaluation |
+| 23 | [Kimcop-kc/vela](https://github.com/Kimcop-kc/vela) | 1 | TypeScript | 2026-10-13 | AI-powered IDE for novel writing — local LLM + RAG, privacy-first, BYOK. For web fiction authors and creative writers. |
+| 24 | [sjsu-masters-projects/medi-agent](https://github.com/sjsu-masters-projects/medi-agent) | 0 | Python | 2026-10-13 | Patient app and clinician dashboard over a FastAPI backend, where LangGraph agents triage incoming chat, pull structured |
+| 25 | [nghqqa/MergePilot](https://github.com/nghqqa/MergePilot) | 2 | JavaScript | 2026-10-13 | 自托管的多 Agent PR 审查工作台：GitHub 只读接入，审查发现与验证证据汇集 Console，合并由维护者决定。Developer Beta。 |
+| 26 | [LocketKeyLLC/scaffold-engine](https://github.com/LocketKeyLLC/scaffold-engine) | 0 | Python | 2026-10-13 | Self-hosted AI agent engine for local LLMs. Give it an idea — it researches the web, plans a DAG of steps, executes each |
+| 27 | [jamiezigelbaum/Olympus](https://github.com/jamiezigelbaum/Olympus) | 1 | TypeScript | 2026-10-13 | Your whole digital life, searchable by your AI, on your privacy terms. A private knowledge engine on your Mac for ChatGP |
+| 28 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 435 | Java | 2026-10-13 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/a |
+| 29 | [tale-project/tale](https://github.com/tale-project/tale) | 34 | TypeScript | 2026-10-13 | Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and revi |
+| 30 | [Abhishek-Rnjn/Evals.si](https://github.com/Abhishek-Rnjn/Evals.si) | 2 | Go | 2026-10-13 | A highly scalable and pluggable evaluations repository that works with all environments to provide an unified experience |
+| 31 | [fdelloni/sunchales-transparente](https://github.com/fdelloni/sunchales-transparente) | 0 | TypeScript | 2026-10-13 | Plataforma cívica de transparencia y eficiencia para la Municipalidad de Sunchales |
+| 32 | [melvinmathew9991/multi-agent-food-concierge-mcp](https://github.com/melvinmathew9991/multi-agent-food-concierge-mcp) | 0 | Python | 2026-10-13 | Multimodal food concierge (in development): agents recommend dishes and plan meals from text or a photo, with diet and a |
+| 33 | [i2mint/ir](https://github.com/i2mint/ir) | 0 | Python | 2026-10-13 | An information-retrieval substrate for agentic systems |
+| 34 | [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) | 1445 | TypeScript | 2026-10-13 | AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspiratio |
+| 35 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2367 | JavaScript | 2026-10-13 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 36 | [Shivam022811/Datasheet-Q-A-Assistant-for-Electronic-Components-RAG-using-LLM-](https://github.com/Shivam022811/Datasheet-Q-A-Assistant-for-Electronic-Components-RAG-using-LLM-) | 0 | Python | 2026-10-13 | RAG-based assistant that answers specification and comparison queries over electronic component datasheets with page-lev |
+| 37 | [Matlan1/localm](https://github.com/Matlan1/localm) | 3 | Python | 2026-10-13 | Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL |
+| 38 | [Morimi-Kazuha/VideoMind](https://github.com/Morimi-Kazuha/VideoMind) | 1 | Python | 2026-10-13 | VideoMind 是一个面向长视频理解的多模态 AI Agent 工作台，通过时序 ASR/OCR、Evidence Grounding、AgentLoop、受限 Tool Calling、Jev 模型路由与预算控制，实现从 AI 回答到 |
+| 39 | [Kaynaaf/NanoRAG](https://github.com/Kaynaaf/NanoRAG) | 2 | Python | 2026-10-13 | A RAG app to breakdown complex technical documents  |
+| 40 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 100355 | TypeScript | 2026-10-13 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
+| 41 | [adikshan11/imaarat-ai](https://github.com/adikshan11/imaarat-ai) | 0 | Python | 2026-10-13 | imaarat.ai: AI underwriting for Indian commercial property. PIN-code hazard checks from open government data, paper-form |
+| 42 | [IRsoctierDT/IANUA](https://github.com/IRsoctierDT/IANUA) | 1 | Python | 2026-10-13 | Production-grade AI operations platform — SOC automation, RAG pipelines, MITRE ATT&CK mapping, and agentic workflows for |
+| 43 | [xberg-io/xberg](https://github.com/xberg-io/xberg) | 9406 | Rust | 2026-10-13 | Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 fo |
+| 44 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-10-13 | AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden |
+| 45 | [salvaMsanchez/fantasy-copilot](https://github.com/salvaMsanchez/fantasy-copilot) | 0 | Jupyter Notebook | 2026-10-13 | Agente de IA que recomienda alineaciones de LaLiga Fantasy a partir de vídeos de YouTube, con RAG (ChromaDB) y OpenAI |
+| 46 | [IncarnaMind/IncarnaMind](https://github.com/IncarnaMind/IncarnaMind) | 808 | TypeScript | 2026-10-13 | IncarnaMind is a free, open-source desktop app for macOS, Windows and Linux where you ask questions about your own docum |
+| 47 | [IvanGonzalezHernandez/athenea](https://github.com/IvanGonzalezHernandez/athenea) | 0 | — | 2026-10-13 | Asistente educativo basado en RAG que responde con el material del curso y cita sus fuentes |
+| 48 | [marceloribeiro/evalstone](https://github.com/marceloribeiro/evalstone) | 0 | Python | 2026-10-13 | The plug-and-play evals layer for LLM-based projects: library, learning center, check center, API, MCP server. |
+| 49 | [germanamz/tusk](https://github.com/germanamz/tusk) | 4 | Go | 2026-10-13 | Agent memory you can code-review. Tusk indexes a folder of markdown into a typed, searchable graph your agents query ove |
+| 50 | [EtanHey/brainlayer](https://github.com/EtanHey/brainlayer) | 9 | Python | 2026-10-13 | Persistent memory MCP for AI agents — SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAn |
 <!-- TRACKER_TABLE_END -->
 
 ---
