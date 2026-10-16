@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:15:10Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM\uc744 \ud65c\uc6a9\ud55c \uc2e4\uc804 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c",
+    "id": "gaian041/llm",
+    "language": "Jupyter Notebook",
+    "name": "gaian041/llm",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:15:07Z",
+    "url": "https://github.com/gaian041/llm"
+  },
+  {
+    "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tier",
+    "id": "caura-ai/caura",
+    "language": "Python",
+    "name": "caura-ai/caura",
+    "stars": 500,
+    "updated_at": "2026-10-16T18:15:14Z",
+    "url": "https://github.com/caura-ai/caura"
+  },
+  {
     "description": "Sovereign AI portfolio: 16 white papers in 4 series, 7 ships, EvidenceFlow RAG. Built local on 8GB, no cloud. The record",
     "id": "qaevelyn/qaevelyn.github.io",
     "language": "Rich Text Format",
@@ -11,7 +38,7 @@
   {
     "description": "GEO\uff08AI \u641c\u7d22\u5f15\u64ce\u4f18\u5316\uff09\u667a\u80fd\u5185\u5bb9\u4f18\u5316\u5e73\u53f0 \u2014 \u5e2e\u52a9\u54c1\u724c\u5728 ChatGPT\u3001Perplexity \u7b49 AI \u56de\u7b54\u4e2d\u88ab\u4f18\u5148\u5f15\u7528\u3002\u652f\u6301\u5173\u952e\u8bcd\u7b56\u7565\u3001\u591a\u5e73\u53f0\u5185\u5bb9\u751f\u6210\u3001E-E-A-T \u4f18\u5316\u3001\u591a\u6a21\u578b\u9a8c\u8bc1\u548c\u6570\u636e\u5206\u6790\u3002",
     "id": "ChristopherKarahan/AIGEOTOOLS",
-    "language": "\u2014",
+    "language": "Python",
     "name": "ChristopherKarahan/AIGEOTOOLS",
     "stars": 0,
     "updated_at": "2026-10-16T18:14:53Z",
@@ -20,7 +47,7 @@
   {
     "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
     "id": "Javed0239/llm-wiki-newsroom",
-    "language": "\u2014",
+    "language": "Python",
     "name": "Javed0239/llm-wiki-newsroom",
     "stars": 0,
     "updated_at": "2026-10-16T18:14:51Z",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T18:12:17Z",
     "url": "https://github.com/matiad26464/dark-factory-experiment"
-  },
-  {
-    "description": "LLM\uc744 \ud65c\uc6a9\ud55c \uc2e4\uc804 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c",
-    "id": "gaian041/llm",
-    "language": "Jupyter Notebook",
-    "name": "gaian041/llm",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:14:21Z",
-    "url": "https://github.com/gaian041/llm"
   },
   {
     "description": "\u767d\u7bb1AGI\u67b6\u6784\u63a2\u7d22\uff1a\u5143\u8ba4\u77e5\uff08\u81ea\u6211\u8ba4\u77e5\u5faa\u73af\uff09\u3001\u6301\u7eed\u5b66\u4e60\uff08\u77e5\u8bc6\u98de\u8f6e\uff09\u3001\u4e16\u754c\u6a21\u578b\uff08\u6761\u4ef6\u7a7a\u95f4+\u8bed\u4e49\u65f6\u7a7a\u56fe\uff09\u3001\u81ea\u6211\u6539\u8fdb\uff08\u81ea\u4e3e\u7eaa\u5f8b\uff09\u3001\u96f6LLM\u767d\u7bb1\u7ba1\u7ebf\u4e0e\u53ef\u5ba1\u8ba1\u4fe1\u4efb\u62a4\u680f\u3002",
@@ -430,23 +448,5 @@
     "stars": 93,
     "updated_at": "2026-10-16T18:09:12Z",
     "url": "https://github.com/diillson/chatcli"
-  },
-  {
-    "description": "Unofficial Go client for the Contextual AI API, generated from the official OpenAPI spec.",
-    "id": "psyb0t/go-contextual-ai",
-    "language": "\u2014",
-    "name": "psyb0t/go-contextual-ai",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:07:41Z",
-    "url": "https://github.com/psyb0t/go-contextual-ai"
-  },
-  {
-    "description": "A hands-on GenAI Engineering roadmap from LLM fundamentals to production AI systems. Covers prompt engineering, RAG, Age",
-    "id": "SRCarlo/genai-course",
-    "language": "JavaScript",
-    "name": "SRCarlo/genai-course",
-    "stars": 5,
-    "updated_at": "2026-10-16T18:07:37Z",
-    "url": "https://github.com/SRCarlo/genai-course"
   }
 ]
