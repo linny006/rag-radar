@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source, self-hostable Zendesk and Intercom alternative for AI customer support: chat widget, shared inbox, real-tim",
+    "id": "PersonaliAI/chatty",
+    "language": "TypeScript",
+    "name": "PersonaliAI/chatty",
+    "stars": 4,
+    "updated_at": "2026-10-17T10:46:05Z",
+    "url": "https://github.com/PersonaliAI/chatty"
+  },
+  {
+    "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros",
+    "id": "pipeshub-ai/pipeshub-ai",
+    "language": "Python",
+    "name": "pipeshub-ai/pipeshub-ai",
+    "stars": 3837,
+    "updated_at": "2026-10-17T10:46:13Z",
+    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  },
+  {
+    "description": "Self-hosted LLM workshop: turn your files into knowledge once, then fine-tune a model (LoRA / merged) or serve it as a S",
+    "id": "GenorTG/finetune-studio",
+    "language": "Python",
+    "name": "GenorTG/finetune-studio",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:45:44Z",
+    "url": "https://github.com/GenorTG/finetune-studio"
+  },
+  {
+    "description": "Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Comp",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 118,
+    "updated_at": "2026-10-17T10:45:41Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T10:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local PDF-to-text, OCR, page-aware chunking, and AnythingLLM Desktop upload assistant for reliable page-cited RAG retrie",
+    "id": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
+    "language": "Python",
+    "name": "OPProductivity/anythingllm-pdf-parser-embedder-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:45:21Z",
+    "url": "https://github.com/OPProductivity/anythingllm-pdf-parser-embedder-assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T10:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG platform built from scratch - async pipelines, 5 chunking strategies, RAGAS evaluation, Celery workers, PostgreSQL l",
     "id": "charan-rathore/IntelliRAG",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "TypeScript",
     "name": "IncarnaMind/IncarnaMind",
     "stars": 814,
-    "updated_at": "2026-10-17T10:42:28Z",
+    "updated_at": "2026-10-17T10:46:15Z",
     "url": "https://github.com/IncarnaMind/IncarnaMind"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "JDeun/SchemaRouter",
     "stars": 2,
-    "updated_at": "2026-10-17T10:45:15Z",
+    "updated_at": "2026-10-17T10:45:18Z",
     "url": "https://github.com/JDeun/SchemaRouter"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Go",
     "name": "BiSemaphore/inode",
     "stars": 1,
-    "updated_at": "2026-10-17T10:37:52Z",
+    "updated_at": "2026-10-17T10:45:24Z",
     "url": "https://github.com/BiSemaphore/inode"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:35:26Z",
     "url": "https://github.com/zakharli/rakathon-nuvr-research-matchmaker"
-  },
-  {
-    "description": "2026 \u5e74\u7f16\u7a0b\u5bfc\u822a AI \u7f16\u7a0b\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Taro + React + FastAPI + DeepSeek \u7684 AI \u95ef\u5173\u5b66\u4e60\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301\u4e00\u53e5\u8bdd / \u6587\u672c\u4e3b\u9898 AI \u51fa\u9898\u3001\u95ef\u5173\u7b54\u9898\u4e0e\u5373\u65f6\u8bb2\u89e3\u3001\u8054\u7f51\u641c\u7d22\u589e\u5f3a\u3001RAG \u79c1\u6709\u77e5\u8bc6\u5e93\u51fa\u9898\u3001",
-    "id": "PamelaArslan/yu-ai-learn",
-    "language": "Python",
-    "name": "PamelaArslan/yu-ai-learn",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:35:21Z",
-    "url": "https://github.com/PamelaArslan/yu-ai-learn"
-  },
-  {
-    "description": "A queryable second brain over your scattered notes and docs - hybrid retrieval (vector + BM25), section-level citations,",
-    "id": "kSmit123/loci",
-    "language": "Python",
-    "name": "kSmit123/loci",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:35:16Z",
-    "url": "https://github.com/kSmit123/loci"
-  },
-  {
-    "description": "Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLive, Kokoro, ",
-    "id": "bernard8209/self-hosted-ai-stack",
-    "language": "Shell",
-    "name": "bernard8209/self-hosted-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:34:58Z",
-    "url": "https://github.com/bernard8209/self-hosted-ai-stack"
-  },
-  {
-    "description": "Self-hosted MCP server that makes your Obsidian/markdown vault searchable \u2014 text, PDFs, Office docs, images, audio \u2014 fro",
-    "id": "Artexis10/exomem",
-    "language": "Python",
-    "name": "Artexis10/exomem",
-    "stars": 10,
-    "updated_at": "2026-10-17T10:36:30Z",
-    "url": "https://github.com/Artexis10/exomem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T10:34:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
-    "id": "Clairelee1010/macro-attribution-dashboard",
-    "language": "HTML",
-    "name": "Clairelee1010/macro-attribution-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:34:22Z",
-    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
-  },
-  {
-    "description": "RAFT, or Retrieval-Augmented Fine-Tuning, is a method comprising of a fine-tuning and a RAG-based retrieval phase. It is",
-    "id": "etakeda0869/raft",
-    "language": "Python",
-    "name": "etakeda0869/raft",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:34:12Z",
-    "url": "https://github.com/etakeda0869/raft"
   }
 ]
