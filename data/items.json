@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 4645,
+    "updated_at": "2026-10-17T01:34:33Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "Question answering over Mobium's docs, and an evaluation whose every metric, the LLM judge included, passes its own cont",
+    "id": "mobiumdev/mobium-rag",
+    "language": "HTML",
+    "name": "mobiumdev/mobium-rag",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:34:06Z",
+    "url": "https://github.com/mobiumdev/mobium-rag"
+  },
+  {
+    "description": "RAG portfolio: Python, LangGraph, Qdrant, semantic retrieval, MCP, tests and explicit verification boundaries.",
+    "id": "JessicaSoares/ai-evidence-lab",
+    "language": "Python",
+    "name": "JessicaSoares/ai-evidence-lab",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:33:37Z",
+    "url": "https://github.com/JessicaSoares/ai-evidence-lab"
+  },
+  {
+    "description": "Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O",
+    "id": "jasonssdev/openkos",
+    "language": "Python",
+    "name": "jasonssdev/openkos",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:33:36Z",
+    "url": "https://github.com/jasonssdev/openkos"
+  },
+  {
+    "description": "Chat with your notes locally. Every answer cites its source, or says it doesn't know.",
+    "id": "tosin2013/local-knowledge-vault",
+    "language": "TypeScript",
+    "name": "tosin2013/local-knowledge-vault",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:33:22Z",
+    "url": "https://github.com/tosin2013/local-knowledge-vault"
+  },
+  {
+    "description": "AI orchestration platform: multi-agent councils, debate and knowledge-graph RAG with a plugin SDK and BYOK provider fail",
+    "id": "Yash-Awasthi/Nexus",
+    "language": "TypeScript",
+    "name": "Yash-Awasthi/Nexus",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:34:02Z",
+    "url": "https://github.com/Yash-Awasthi/Nexus"
+  },
+  {
+    "description": "Permission-aware retrieval for RAG: every user gets only the chunks they are allowed to read. Works with any vector stor",
+    "id": "muzakkirhussain011/needtoknow",
+    "language": "Python",
+    "name": "muzakkirhussain011/needtoknow",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:34:12Z",
+    "url": "https://github.com/muzakkirhussain011/needtoknow"
+  },
+  {
+    "description": "Official client SDKs (Python, TypeScript, Go) for the Xberg Enterprise and Xberg Pro document-processing APIs.",
+    "id": "xberg-io/sdks",
+    "language": "Python",
+    "name": "xberg-io/sdks",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:31:39Z",
+    "url": "https://github.com/xberg-io/sdks"
+  },
+  {
+    "description": "\u8d22\u62a5\u6570\u5b57\u6eaf\u6e90\u4e0e\u4f1a\u8ba1\u52fe\u7a3d\u6821\u9a8c \u2014\u2014 \u8ba9 LLM \u7ed9\u51fa\u7684\u6bcf\u4e2a\u8d22\u52a1\u6570\u5b57\u90fd\u80fd\u70b9\u5f00\u9a8c\u8bc1",
+    "id": "KBber/finverify",
+    "language": "Python",
+    "name": "KBber/finverify",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:31:28Z",
+    "url": "https://github.com/KBber/finverify"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 30,
+    "updated_at": "2026-10-17T01:30:36Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\u6295\u7814\u8206\u60c5\u96f7\u8fbe\uff1a\u4e09\u5c42\u53bb\u91cd + \u65e0K\u503c\u805a\u7c7b + \u56db\u56e0\u5b50\u70ed\u5ea6 + \u6df7\u5408\u68c0\u7d22RAG \u2192 \u6295\u7814\u6668\u62a5 \u00b7 \u5168\u94fe\u8def\u771f\u5b9e\u6570\u636e",
+    "id": "Shutong-Ge/market-signal-radar",
+    "language": "HTML",
+    "name": "Shutong-Ge/market-signal-radar",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:30:21Z",
+    "url": "https://github.com/Shutong-Ge/market-signal-radar"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "iran seda crawler golang",
     "id": "saber13812002/iranseda-crawler-golang-",
     "language": "SRecode Template",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "Artexis10/exomem",
     "stars": 10,
-    "updated_at": "2026-10-17T01:29:47Z",
+    "updated_at": "2026-10-17T01:34:58Z",
     "url": "https://github.com/Artexis10/exomem"
   },
   {
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 101245,
-    "updated_at": "2026-10-17T01:28:56Z",
+    "updated_at": "2026-10-17T01:32:43Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -117,24 +234,6 @@
     "url": "https://github.com/rahulp7801/agentic-sports-forecaster"
   },
   {
-    "description": "\u8d22\u62a5\u6570\u5b57\u6eaf\u6e90\u4e0e\u4f1a\u8ba1\u52fe\u7a3d\u6821\u9a8c \u2014\u2014 \u8ba9 LLM \u7ed9\u51fa\u7684\u6bcf\u4e2a\u8d22\u52a1\u6570\u5b57\u90fd\u80fd\u70b9\u5f00\u9a8c\u8bc1",
-    "id": "KBber/finverify",
-    "language": "Python",
-    "name": "KBber/finverify",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:28:17Z",
-    "url": "https://github.com/KBber/finverify"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 30,
-    "updated_at": "2026-10-17T01:26:23Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "\ud83d\udcda Document Q&A Assistant built with RAG architecture, ChromaDB, and Streamlit (Microsoft Generative AI for Beginners)",
     "id": "eren074/documind-rag",
     "language": "Python",
@@ -180,15 +279,6 @@
     "url": "https://github.com/jf1shh/claims-rag"
   },
   {
-    "description": "Official client SDKs (Python, TypeScript, Go) for the Xberg Enterprise and Xberg Pro document-processing APIs.",
-    "id": "xberg-io/sdks",
-    "language": "Python",
-    "name": "xberg-io/sdks",
-    "stars": 3,
-    "updated_at": "2026-10-17T01:23:38Z",
-    "url": "https://github.com/xberg-io/sdks"
-  },
-  {
     "description": "Your AI pair programmer for Visual Studio 2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 to",
     "id": "EstaxNet/Inferpal",
     "language": "C#",
@@ -203,7 +293,7 @@
     "language": "Python",
     "name": "WeLikeCode/mint-mory",
     "stars": 2,
-    "updated_at": "2026-10-17T01:29:17Z",
+    "updated_at": "2026-10-17T01:33:56Z",
     "url": "https://github.com/WeLikeCode/mint-mory"
   },
   {
@@ -324,33 +414,6 @@
     "url": "https://github.com/onfire7777/Mnemosyne"
   },
   {
-    "description": "Permission-aware retrieval for RAG: every user gets only the chunks they are allowed to read. Works with any vector stor",
-    "id": "muzakkirhussain011/needtoknow",
-    "language": "Python",
-    "name": "muzakkirhussain011/needtoknow",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:17:53Z",
-    "url": "https://github.com/muzakkirhussain011/needtoknow"
-  },
-  {
-    "description": "Chat with your notes locally. Every answer cites its source, or says it doesn't know.",
-    "id": "tosin2013/local-knowledge-vault",
-    "language": "TypeScript",
-    "name": "tosin2013/local-knowledge-vault",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:27:18Z",
-    "url": "https://github.com/tosin2013/local-knowledge-vault"
-  },
-  {
-    "description": "AI orchestration platform: multi-agent councils, debate and knowledge-graph RAG with a plugin SDK and BYOK provider fail",
-    "id": "Yash-Awasthi/Nexus",
-    "language": "TypeScript",
-    "name": "Yash-Awasthi/Nexus",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:26:02Z",
-    "url": "https://github.com/Yash-Awasthi/Nexus"
-  },
-  {
     "description": "A personal AI assistant that runs on a machine you control, with local models only. Go binaries, Ollama, MCP tools, hybr",
     "id": "aarora79/meru",
     "language": "Go",
@@ -360,30 +423,12 @@
     "url": "https://github.com/aarora79/meru"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T01:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T01:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Chat with & listen to your PDFs locally. A full-stack RAG assistant featuring synchronized Text-to-Speech (TTS), AI docu",
     "id": "raghu-135/askPDF",
     "language": "Python",
     "name": "raghu-135/askPDF",
     "stars": 0,
-    "updated_at": "2026-10-17T01:19:38Z",
+    "updated_at": "2026-10-17T01:33:23Z",
     "url": "https://github.com/raghu-135/askPDF"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 438,
     "updated_at": "2026-10-17T01:14:38Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Production-grade platform for building agentic IM bots - \u751f\u4ea7\u7ea7\u591a\u5e73\u53f0\u667a\u80fd\u673a\u5668\u4eba\u5f00\u53d1\u5e73\u53f0/ Agent\u3001\u77e5\u8bc6\u5e93\u7f16\u6392\u3001\u63d2\u4ef6\u7cfb\u7edf / Bots for Discord / Slack / ",
-    "id": "langbot-app/LangBot",
-    "language": "Python",
-    "name": "langbot-app/LangBot",
-    "stars": 18214,
-    "updated_at": "2026-10-17T01:26:46Z",
-    "url": "https://github.com/langbot-app/LangBot"
-  },
-  {
-    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
-    "id": "melgarafael/DeskcommCRM",
-    "language": "TypeScript",
-    "name": "melgarafael/DeskcommCRM",
-    "stars": 4645,
-    "updated_at": "2026-10-17T01:13:39Z",
-    "url": "https://github.com/melgarafael/DeskcommCRM"
-  },
-  {
-    "description": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, Lang",
-    "id": "Haozhe-Xing/agent_learning",
-    "language": "HTML",
-    "name": "Haozhe-Xing/agent_learning",
-    "stars": 599,
-    "updated_at": "2026-10-17T01:13:02Z",
-    "url": "https://github.com/Haozhe-Xing/agent_learning"
-  },
-  {
-    "description": "Lens: intelligence for your agent. Safe, secure and cost-effective. A self-hosted, cited knowledge graph and MCP server ",
-    "id": "adeelahmad/lense",
-    "language": "Python",
-    "name": "adeelahmad/lense",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:12:26Z",
-    "url": "https://github.com/adeelahmad/lense"
-  },
-  {
-    "description": "\ud83e\udde0 The memory that dreams \u2014 cross-session memory for DeepSeek Harness. Offline & private, auto-consolidates in its sleep ",
-    "id": "slow-stack/mneme",
-    "language": "JavaScript",
-    "name": "slow-stack/mneme",
-    "stars": 153,
-    "updated_at": "2026-10-17T01:11:48Z",
-    "url": "https://github.com/slow-stack/mneme"
   }
 ]
