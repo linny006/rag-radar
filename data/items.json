@@ -1,5 +1,68 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:46:31Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "A RAG app to breakdown complex technical documents ",
+    "id": "Kaynaaf/NanoRAG",
+    "language": "Python",
+    "name": "Kaynaaf/NanoRAG",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:46:30Z",
+    "url": "https://github.com/Kaynaaf/NanoRAG"
+  },
+  {
+    "description": "Hippocampal pathway. Cortex as self-programming memory graph over an embedding field: continuity for your agents \u2014[devel",
+    "id": "chedim/membrane",
+    "language": "Python",
+    "name": "chedim/membrane",
+    "stars": 11,
+    "updated_at": "2026-10-18T17:46:15Z",
+    "url": "https://github.com/chedim/membrane"
+  },
+  {
+    "description": "Local multi-agent AI troubleshooting assistant POC - LangGraph, MCP, RAG, Ollama, fully open-source and Docker-based",
+    "id": "developer47-ai/dba-poc",
+    "language": "Python",
+    "name": "developer47-ai/dba-poc",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:45:49Z",
+    "url": "https://github.com/developer47-ai/dba-poc"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The open retrieval layer for AI coding agents. Indexes code, docs, legal, research, data \u2014 24 parsers (incl. EPUB, DOCX,",
+    "id": "roomi-fields/rtfm",
+    "language": "Python",
+    "name": "roomi-fields/rtfm",
+    "stars": 25,
+    "updated_at": "2026-10-18T17:45:16Z",
+    "url": "https://github.com/roomi-fields/rtfm"
+  },
+  {
     "description": "\u4f01\u4e1a\u77e5\u8bc6\u5e93\u5e73\u53f0\uff1a\u81ea\u7814\u6587\u4ef6\u5b58\u50a8 + \u77e5\u8bc6\u6587\u6863\u5ba1\u6838\u6d41 + \u5411\u91cf/BM25 \u6df7\u5408\u68c0\u7d22 + \u91cd\u6392\u95e8\u63a7 + LangGraph \u95ee\u7b54",
     "id": "j1angsang/kb-platform",
     "language": "Python",
@@ -34,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:44:34Z",
     "url": "https://github.com/francisown/filingcopilot"
-  },
-  {
-    "description": "Local multi-agent AI troubleshooting assistant POC - LangGraph, MCP, RAG, Ollama, fully open-source and Docker-based",
-    "id": "developer47-ai/dba-poc",
-    "language": "Python",
-    "name": "developer47-ai/dba-poc",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:44:18Z",
-    "url": "https://github.com/developer47-ai/dba-poc"
-  },
-  {
-    "description": "The open retrieval layer for AI coding agents. Indexes code, docs, legal, research, data \u2014 24 parsers (incl. EPUB, DOCX,",
-    "id": "roomi-fields/rtfm",
-    "language": "Python",
-    "name": "roomi-fields/rtfm",
-    "stars": 25,
-    "updated_at": "2026-10-18T17:45:16Z",
-    "url": "https://github.com/roomi-fields/rtfm"
   },
   {
     "description": "Telvax: a statically typed, compiled language for data, ML pipelines and AI serving. Tensor shapes in the type system, a",
@@ -198,15 +243,6 @@
     "url": "https://github.com/rssebambulidde/ai-governance"
   },
   {
-    "description": "Hippocampal pathway. Cortex as self-programming memory graph over an embedding field: continuity for your agents \u2014[devel",
-    "id": "chedim/membrane",
-    "language": "Python",
-    "name": "chedim/membrane",
-    "stars": 11,
-    "updated_at": "2026-10-18T17:41:57Z",
-    "url": "https://github.com/chedim/membrane"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "adeelahmad/lense",
     "stars": 0,
-    "updated_at": "2026-10-18T17:36:03Z",
+    "updated_at": "2026-10-18T17:46:03Z",
     "url": "https://github.com/adeelahmad/lense"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:34:39Z",
     "url": "https://github.com/karltkiy/docmind"
-  },
-  {
-    "description": "Text-to-SQL access control: schema selection that gives the LLM only the tables the caller is allowed to read. Row-level",
-    "id": "ashishsinha1602/schemagate",
-    "language": "Python",
-    "name": "ashishsinha1602/schemagate",
-    "stars": 104,
-    "updated_at": "2026-10-18T17:36:18Z",
-    "url": "https://github.com/ashishsinha1602/schemagate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T17:33:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The personal AI that actually remembers what you teach it. Corrections become lessons + temporal-KG facts retrieved on e",
-    "id": "HeliosNova/nova",
-    "language": "Python",
-    "name": "HeliosNova/nova",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:33:28Z",
-    "url": "https://github.com/HeliosNova/nova"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:33:14Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   }
 ]
