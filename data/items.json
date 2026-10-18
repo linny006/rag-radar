@@ -1,5 +1,104 @@
 [
   {
+    "description": "Autonomous memory system for AI infrastructure.",
+    "id": "SynapseGrid-Labs/BrainCore",
+    "language": "Python",
+    "name": "SynapseGrid-Labs/BrainCore",
+    "stars": 8,
+    "updated_at": "2026-10-18T11:32:31Z",
+    "url": "https://github.com/SynapseGrid-Labs/BrainCore"
+  },
+  {
+    "description": "Agentic FUSE filesystem for LLM agents. Structured file operations with JSON feedback, audit logging, undo support, and ",
+    "id": "gianlucamazza/ragfs",
+    "language": "Rust",
+    "name": "gianlucamazza/ragfs",
+    "stars": 14,
+    "updated_at": "2026-10-18T11:32:31Z",
+    "url": "https://github.com/gianlucamazza/ragfs"
+  },
+  {
+    "description": "\u5357\u4eac OSM + PostGIS \u7a7a\u95f4\u95ee\u7b54 Agent\uff1apgRouting \u6b65\u884c\u7b49\u65f6\u5708\u3001pgvector \u89c4\u5212\u6807\u51c6\u68c0\u7d22\u3001\u9884\u6ce8\u518c\u8bc4\u6d4b",
+    "id": "PlainSightX/geo-agent",
+    "language": "Python",
+    "name": "PlainSightX/geo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:32:11Z",
+    "url": "https://github.com/PlainSightX/geo-agent"
+  },
+  {
+    "description": "Planner assistant for a fictional retail chain: stockout risk, returns abuse and markdowns from read-only views, SOP cit",
+    "id": "jagadishmazure-jpg/Jagadish-retail-ops-agents",
+    "language": "Python",
+    "name": "jagadishmazure-jpg/Jagadish-retail-ops-agents",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:32:06Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-retail-ops-agents"
+  },
+  {
+    "description": "Dispatcher assistant for a fictional reefer fleet: template SQL over least-privilege views, SOP answers with citations, ",
+    "id": "jagadishmazure-jpg/Jagadish-coldchain-logistics-agents",
+    "language": "Python",
+    "name": "jagadishmazure-jpg/Jagadish-coldchain-logistics-agents",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:32:03Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-coldchain-logistics-agents"
+  },
+  {
+    "description": "Lens: intelligence for your agent. Safe, secure and cost-effective. A self-hosted, cited knowledge graph and MCP server ",
+    "id": "adeelahmad/lense",
+    "language": "Python",
+    "name": "adeelahmad/lense",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:32:00Z",
+    "url": "https://github.com/adeelahmad/lense"
+  },
+  {
+    "description": "Spec-driven, agent-built re-implementation of Gemini Notebook (NotebookLM) on Google Cloud: SRS, FR cards, constitution ",
+    "id": "lukas-zech-software/everlast-lm",
+    "language": "Markdown",
+    "name": "lukas-zech-software/everlast-lm",
+    "stars": 0,
+    "updated_at": "2026-10-18T11:31:41Z",
+    "url": "https://github.com/lukas-zech-software/everlast-lm"
+  },
+  {
+    "description": "\u9762\u5411\u5b66\u672f\u8bba\u6587\u7684 RAG \u77e5\u8bc6\u5e93\u5e73\u53f0\uff1aFastAPI + Vue 3 + Milvus \u6df7\u5408\u68c0\u7d22\uff0c\u652f\u6301\u516c\u5f0f/\u8868\u683c\u89e3\u6790\u4e0e\u667a\u80fd\u4f53\u95ee\u7b54",
+    "id": "DGitHub-Creator/ResearchPilot",
+    "language": "Python",
+    "name": "DGitHub-Creator/ResearchPilot",
+    "stars": 2,
+    "updated_at": "2026-10-18T11:31:04Z",
+    "url": "https://github.com/DGitHub-Creator/ResearchPilot"
+  },
+  {
+    "description": "Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account r",
+    "id": "roomi-fields/notebooklm-mcp",
+    "language": "TypeScript",
+    "name": "roomi-fields/notebooklm-mcp",
+    "stars": 198,
+    "updated_at": "2026-10-18T11:31:03Z",
+    "url": "https://github.com/roomi-fields/notebooklm-mcp"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T11:31:39Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T11:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
@@ -18,15 +117,6 @@
     "url": "https://github.com/TianJinYing2006/DeepResearch"
   },
   {
-    "description": "Lens: intelligence for your agent. Safe, secure and cost-effective. A self-hosted, cited knowledge graph and MCP server ",
-    "id": "adeelahmad/lense",
-    "language": "Python",
-    "name": "adeelahmad/lense",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:29:36Z",
-    "url": "https://github.com/adeelahmad/lense"
-  },
-  {
     "description": "Grundschutz++ catalog as JSONL + Qdrant indexing pipeline for RAG \u2014 local Ollama or OpenAI embeddings (unofficial)",
     "id": "grundschutz-docs/rag",
     "language": "Python",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T11:29:23Z",
     "url": "https://github.com/grundschutz-docs/rag"
-  },
-  {
-    "description": "Agentic FUSE filesystem for LLM agents. Structured file operations with JSON feedback, audit logging, undo support, and ",
-    "id": "gianlucamazza/ragfs",
-    "language": "Rust",
-    "name": "gianlucamazza/ragfs",
-    "stars": 14,
-    "updated_at": "2026-10-18T11:29:23Z",
-    "url": "https://github.com/gianlucamazza/ragfs"
   },
   {
     "description": "\u7b54\u5de2 ReplyNest \u2014 AI customer support, Web Chat, WeChat, knowledge RAG, customer insights and workflow automation. MIT.",
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2021,
-    "updated_at": "2026-10-18T11:27:13Z",
+    "updated_at": "2026-10-18T11:32:08Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -212,17 +293,8 @@
     "language": "TypeScript",
     "name": "IHUI-INF-AI/IHUI-AI",
     "stars": 30,
-    "updated_at": "2026-10-18T11:25:18Z",
+    "updated_at": "2026-10-18T11:32:30Z",
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
-    "description": "Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account r",
-    "id": "roomi-fields/notebooklm-mcp",
-    "language": "TypeScript",
-    "name": "roomi-fields/notebooklm-mcp",
-    "stars": 198,
-    "updated_at": "2026-10-18T11:25:13Z",
-    "url": "https://github.com/roomi-fields/notebooklm-mcp"
   },
   {
     "description": "Explainable GraphRAG toolkit featuring hybrid retrieval, evidence-grounded answers, source-backed graph paths, and retri",
@@ -338,7 +410,7 @@
     "language": "TypeScript",
     "name": "IncarnaMind/IncarnaMind",
     "stars": 829,
-    "updated_at": "2026-10-18T11:30:15Z",
+    "updated_at": "2026-10-18T11:31:54Z",
     "url": "https://github.com/IncarnaMind/IncarnaMind"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T11:21:35Z",
     "url": "https://github.com/mohamurshid/ElimuAnalytics"
-  },
-  {
-    "description": "\ud83e\udde0 The memory that dreams \u2014 cross-session memory for DeepSeek Harness. Offline & private, auto-consolidates in its sleep ",
-    "id": "slow-stack/mneme",
-    "language": "JavaScript",
-    "name": "slow-stack/mneme",
-    "stars": 157,
-    "updated_at": "2026-10-18T11:27:38Z",
-    "url": "https://github.com/slow-stack/mneme"
-  },
-  {
-    "description": "HR policy assistant: RAG (pgvector, hybrid search, citations) + deterministic rules engine. FastAPI, Docker, evals in CI",
-    "id": "Dioumadev221/policy-copilot",
-    "language": "Python",
-    "name": "Dioumadev221/policy-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:21:22Z",
-    "url": "https://github.com/Dioumadev221/policy-copilot"
-  },
-  {
-    "description": "One assistant, two tools. Ask a question and it decides whether to query a SQL database or search 1,000 job descriptions",
-    "id": "satya-data-analyst/job-market-agent",
-    "language": "Python",
-    "name": "satya-data-analyst/job-market-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:21:16Z",
-    "url": "https://github.com/satya-data-analyst/job-market-agent"
-  },
-  {
-    "description": "A highly customizable personal AI assistant for Discord featuring smart agentic AI features such as memory, personas, to",
-    "id": "Bredrumb/TomoriBot",
-    "language": "TypeScript",
-    "name": "Bredrumb/TomoriBot",
-    "stars": 58,
-    "updated_at": "2026-10-18T11:21:24Z",
-    "url": "https://github.com/Bredrumb/TomoriBot"
-  },
-  {
-    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
-    "id": "seekwhencer/gitea-qdrant-sync",
-    "language": "JavaScript",
-    "name": "seekwhencer/gitea-qdrant-sync",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:21:04Z",
-    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
-  },
-  {
-    "description": "New AI Tutorials 2026 \u2013 No-Code Workflows & Beginner Guides",
-    "id": "t02beurko-sys/ai-primer-for-everyone",
-    "language": "HTML",
-    "name": "t02beurko-sys/ai-primer-for-everyone",
-    "stars": 1,
-    "updated_at": "2026-10-18T11:21:01Z",
-    "url": "https://github.com/t02beurko-sys/ai-primer-for-everyone"
-  },
-  {
-    "description": "AI-powered Android book-reading app built with Kotlin, Python, FastAPI, MySQL, and a LLM, featuring personalized book re",
-    "id": "Fuyuki0312/Reading-app-Lunaria",
-    "language": "Python",
-    "name": "Fuyuki0312/Reading-app-Lunaria",
-    "stars": 0,
-    "updated_at": "2026-10-18T11:20:32Z",
-    "url": "https://github.com/Fuyuki0312/Reading-app-Lunaria"
-  },
-  {
-    "description": "Holographic AI assistant - 3D particle core, voice in/out, self-upgrading source. Live: https://aura-live-81185.web.app",
-    "id": "sourabh7300/aura",
-    "language": "HTML",
-    "name": "sourabh7300/aura",
-    "stars": 1,
-    "updated_at": "2026-10-18T11:20:25Z",
-    "url": "https://github.com/sourabh7300/aura"
   }
 ]
