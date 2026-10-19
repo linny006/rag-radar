@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 23:30 UTC
+> ⏰ Last updated: 2026-10-19 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [saber13812002/iranseda-crawler-golang-](https://github.com/saber13812002/iranseda-crawler-golang-) | 3 | SRecode Template | 2026-10-19 | iran seda crawler golang |
-| 2 | [nicogarrr/GerarAI](https://github.com/nicogarrr/GerarAI) | 0 | Python | 2026-10-19 | Research OS de inversión personal — Next.js + FastAPI, datos reales, alertas Telegram |
-| 3 | [Artexis10/exomem](https://github.com/Artexis10/exomem) | 9 | Python | 2026-10-19 | Self-hosted MCP server that makes your Obsidian/markdown vault searchable — text, PDFs, Office docs, images, audio — fro |
-| 4 | [postmill-ai/postmill-app](https://github.com/postmill-ai/postmill-app) | 24 | TypeScript | 2026-10-19 | Open-source, AI-native social media management & scheduling platform for 45+ channels. BYOK AI across 30+ providers with |
-| 5 | [api-evangelist/chunkr-ai](https://github.com/api-evangelist/chunkr-ai) | 0 | — | 2026-10-19 | Chunkr — independent third-party profile of a public API surface, by API Evangelist. Chunkr is an open-source document i |
-| 6 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-10-19 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
-| 7 | [VINAY7033/docu-query-assistant](https://github.com/VINAY7033/docu-query-assistant) | 1 | HTML | 2026-10-19 | AI-Powered Audio Q&A Tool 2026 🎙️📄 - Upload & Ask, Get Instant Answers |
-| 8 | [salimfk619-jpg/open-ai-ecosystem](https://github.com/salimfk619-jpg/open-ai-ecosystem) | 2 | HTML | 2026-10-19 | Top Open-Source AI Agents 2026 🤖 \| Best Autonomous Tools & Frameworks |
-| 9 | [furuse-kazufumi/fullseye](https://github.com/furuse-kazufumi/fullseye) | 5 | HTML | 2026-10-19 | Fullseye — a numpy-native operator library for vision, 3-D and measurement: 3,000+ typed ops (v0.6.0) spanning 2-D imagi |
-| 10 | [adrianliechti/wingman](https://github.com/adrianliechti/wingman) | 80 | Go | 2026-10-19 | Inference Hub for AI at Scale |
-| 11 | [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | 30 | TypeScript | 2026-10-19 | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta |
-| 12 | [LeonQin-ai/cognitive-os-agent](https://github.com/LeonQin-ai/cognitive-os-agent) | 2 | C | 2026-10-19 | Cognitive OS Agent Runtime in pure C11 — LLM is the accelerator, not the OS. 认知智能体操作系统：认知内核 · Memory OS · 多智能体编排 · 事务执行  |
-| 13 | [Arasz/ai-raccoon](https://github.com/Arasz/ai-raccoon) | 3 | C# | 2026-10-19 |   Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe |
-| 14 | [Eliyce/paqad-ai](https://github.com/Eliyce/paqad-ai) | 8 | TypeScript | 2026-10-19 | Spec-driven development framework — AI agents that think before they type |
-| 15 | [leafchat/cli](https://github.com/leafchat/cli) | 0 | TypeScript | 2026-10-19 | フォルダの資料を leafchat のナレッジに同期する CLI と GitHub Action。pull request に計画をコメントし、main への push で反映します |
-| 16 | [Rynaro/crystalium](https://github.com/Rynaro/crystalium) | 1 | Python | 2026-10-19 | Portable memory harness for the Eidolons — MCP-compatible, self-hosted, vendor-agnostic. Four-layer crystal lattice + Ae |
-| 17 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 32592 | Python | 2026-10-19 | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
-| 18 | [zenith19/rag-eval-pipeline](https://github.com/zenith19/rag-eval-pipeline) | 0 | Python | 2026-10-19 | Retrieval-augmented QA over a PDF corpus, built around a from-scratch recall@k / hit-rate@k / MRR evaluation harness — e |
-| 19 | [usermanoj/dhari-ai](https://github.com/usermanoj/dhari-ai) | 0 | TypeScript | 2026-10-19 | Closed-corpus AI learning platform for students learning in English as a Second Language (ESL) at IB & Cambridge schools |
-| 20 | [AayushiMohan/LLM-Powered-AI_Chatbot](https://github.com/AayushiMohan/LLM-Powered-AI_Chatbot) | 1 | JavaScript | 2026-10-19 | Full-stack conversational AI chatbot powered by Groq's LLaMA 3.3 model, built with React and Node.js |
-| 21 | [C203zzzz/LabPilot](https://github.com/C203zzzz/LabPilot) | 0 | Python | 2026-10-19 | 证据可溯源的实验室仪器选型与采购比价工作台：每条价格都能回到公告原文 |
-| 22 | [Sober-Migo/RAG](https://github.com/Sober-Migo/RAG) | 0 | Python | 2026-10-19 | Retrieval-Augmented Generation (RAG) & Agentic Knowledge Assistant |
-| 23 | [rstreet85/nasa-ntrs-rag](https://github.com/rstreet85/nasa-ntrs-rag) | 0 | Python | 2026-10-19 | RAG system for NASA technical documents hosted on the NASA Technical Reports Servers |
-| 24 | [LucaskaSL/SO_UFS_2026_2_Leal_Lucas_Araujo_Paulo](https://github.com/LucaskaSL/SO_UFS_2026_2_Leal_Lucas_Araujo_Paulo) | 0 | Python | 2026-10-19 | Implementação do GenResearch-Servidor: um pipeline simplificado de RAG e IA Generativa focado na análise de recursos do  |
-| 25 | [KenichiOkamuraJp/polyarchy](https://github.com/KenichiOkamuraJp/polyarchy) | 0 | Python | 2026-10-19 | 日本の政策言説（経済団体・政府の公表資料）と公的統計を、Claude／ChatGPT から参照する読み取り専用 MCP サーバ群 |
-| 26 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | 19628 | TypeScript | 2026-10-19 | Open source agentic operating system |
-| 27 | [tomtranjr/nextBracket](https://github.com/tomtranjr/nextBracket) | 0 | Python | 2026-10-19 | AI assistant for the Air Force fitness test, built for a real unit. A LangGraph agent answers policy questions with RAG  |
-| 28 | [justsearch-app/justsearch](https://github.com/justsearch-app/justsearch) | 0 | Java | 2026-10-19 | Private hybrid search over your files, fully offline, 70+ languages. An MCP retrieval backend for AI agents. |
-| 29 | [oigrex666/mcp-context-chronicler](https://github.com/oigrex666/mcp-context-chronicler) | 0 | HTML | 2026-10-19 | Subconscious Memory 2026: AI Coding Context Engine with Hybrid Semantic Search & MCP |
-| 30 | [mcn92/pikelet](https://github.com/mcn92/pikelet) | 2 | JavaScript | 2026-10-19 | Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet — search it anywher |
-| 31 | [nyyoautomation/nyyo-legal-ai](https://github.com/nyyoautomation/nyyo-legal-ai) | 0 | HTML | 2026-10-19 | Legal AI assistant you own — closed corpus, exact citations, document analysis & drafting. Live demo, runs in your brows |
-| 32 | [Aabyyss/AI-Operations-Workflow-Automation-Platform](https://github.com/Aabyyss/AI-Operations-Workflow-Automation-Platform) | 0 | Python | 2026-10-19 | AI operations platform: RAG-grounded LLM support agents with human-approval gates, an ROI/cost engine, and n8n workflow  |
-| 33 | [Huskyauto/VisionClaw-Agent-Public-Release](https://github.com/Huskyauto/VisionClaw-Agent-Public-Release) | 26 | TypeScript | 2026-10-19 | Open-source multi-tenant AI agent workspace · 18 personas · 146 active capabilities · 887 platform indexes · 86 curated  |
-| 34 | [yeixio/toskar-core](https://github.com/yeixio/toskar-core) | 2 | Go | 2026-10-19 | Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin |
-| 35 | [psyb0t/go-contextual-ai](https://github.com/psyb0t/go-contextual-ai) | 0 | Shell | 2026-10-19 | Unofficial Go client for the Contextual AI API, generated from the official OpenAPI spec. |
-| 36 | [psyb0t/go-morphik](https://github.com/psyb0t/go-morphik) | 0 | Shell | 2026-10-19 | Unofficial Go client for the Morphik API, generated from the official OpenAPI spec. |
-| 37 | [AleksNeStu/ai-real-estate-assistant](https://github.com/AleksNeStu/ai-real-estate-assistant) | 319 | Python | 2026-10-19 | Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d |
-| 38 | [verygoodplugins/mcp-automem](https://github.com/verygoodplugins/mcp-automem) | 65 | TypeScript | 2026-10-19 | MCP client for AutoMem — give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation |
-| 39 | [vuzlee/mycel](https://github.com/vuzlee/mycel) | 1 | Python | 2026-10-19 | Like mycelium under your team's work: quietly connecting everything it knows, surfacing when you ask. |
-| 40 | [psyb0t/offgrid-tools](https://github.com/psyb0t/offgrid-tools) | 61 | Shell | 2026-10-19 | Self-contained offline environment providing local AI chat, offline Wikipedia/content archives, IRC communication, audio |
-| 41 | [aksika/abmind](https://github.com/aksika/abmind) | 21 | TypeScript | 2026-10-19 | Persistent memory & RAG engine for AI agents — SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi- |
-| 42 | [psyb0t/go-unstructured](https://github.com/psyb0t/go-unstructured) | 0 | Go | 2026-10-19 | Unofficial Go client for the Unstructured platform and partition APIs, generated from the official OpenAPI specs. |
-| 43 | [psyb0t/go-vectara](https://github.com/psyb0t/go-vectara) | 0 | Go | 2026-10-19 | Unofficial Go client for the Vectara API, generated from the official OpenAPI spec. |
-| 44 | [psyb0t/go-zeroentropy](https://github.com/psyb0t/go-zeroentropy) | 0 | Go | 2026-10-19 | Unofficial Go client for the ZeroEntropy API, generated from the official OpenAPI spec. |
-| 45 | [oswaldoaqm/quipudb](https://github.com/oswaldoaqm/quipudb) | 0 | Python | 2026-10-19 | Motor de base de datos multimodal escrito desde cero: almacenamiento paginado, índices B+ y hash, R-Tree, búsqueda de te |
-| 46 | [simstudioai/sim](https://github.com/simstudioai/sim) | 29846 | TypeScript | 2026-10-19 | Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. |
-| 47 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2376 | JavaScript | 2026-10-19 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 48 | [teng-lin/open-foresight](https://github.com/teng-lin/open-foresight) | 2 | Dart | 2026-10-19 | Offline AI meeting notes and transcription for Linux and macOS. Open-source Google AI Edge Foresight and Granola alterna |
-| 49 | [tasmay/ask-shakespeare](https://github.com/tasmay/ask-shakespeare) | 0 | TypeScript | 2026-10-19 | Retrieve recipes as Shakespearean poems. |
-| 50 | [aislamsilvalol-ctrl/noema](https://github.com/aislamsilvalol-ctrl/noema) | 0 | Python | 2026-10-19 | Adaptive learning platform. Feed it your material; it tracks what you know, schedules review with FSRS and answers only  |
+| 1 | [LucaskaSL/SO_UFS_2026_2_Leal_Lucas_Araujo_Paulo](https://github.com/LucaskaSL/SO_UFS_2026_2_Leal_Lucas_Araujo_Paulo) | 0 | Python | 2026-10-19 | Implementação do GenResearch-Servidor: um pipeline simplificado de RAG e IA Generativa focado na análise de recursos do  |
+| 2 | [engram-app/Engram](https://github.com/engram-app/Engram) | 11 | Elixir | 2026-10-19 | Engram: memory for every AI, built from your own notes. Sync an Obsidian vault and let Claude, ChatGPT, Cursor or any MC |
+| 3 | [RemyRah/ragkit](https://github.com/RemyRah/ragkit) | 0 | Python | 2026-10-19 | A tiny, readable RAG kit — ask questions over your own docs. Pure-stdlib retriever runs with no API key; add Anthropic f |
+| 4 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 32593 | Python | 2026-10-19 | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| 5 | [AutomatosAI/automatos-ai](https://github.com/AutomatosAI/automatos-ai) | 54 | Python | 2026-10-19 | The open-source AI Operating System — run a workforce of AI agents on your own machine. Any model, 1,000+ tools, a Knowl |
+| 6 | [adeelahmad/lense](https://github.com/adeelahmad/lense) | 0 | Python | 2026-10-19 | Lens: intelligence for your agent. Safe, secure and cost-effective. A self-hosted, cited knowledge graph and MCP server  |
+| 7 | [souzalrns/network-agents-setup](https://github.com/souzalrns/network-agents-setup) | 0 | Python | 2026-10-19 | Governed runtime for AI agent workflows: declarative plans, human-in-the-loop gates, token and cost budgets, and an audi |
+| 8 | [EstaxNet/Inferpal](https://github.com/EstaxNet/Inferpal) | 8 | C# | 2026-10-19 | Your AI pair programmer for Visual Studio 2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 to |
+| 9 | [api-evangelist/machinelibrary-ai](https://github.com/api-evangelist/machinelibrary-ai) | 0 | — | 2026-10-19 | Space Frontiers is a Wyoming corporation whose search and AI product, Machine Library (formerly Space Frontiers search,  |
+| 10 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 4717 | TypeScript | 2026-10-19 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & |
+| 11 | [api-evangelist/lucidworks](https://github.com/api-evangelist/lucidworks) | 0 | — | 2026-10-19 | Lucidworks — independent third-party profile of a public API surface, by API Evangelist. Lucidworks builds AI-powered se |
+| 12 | [chestercs/dgx-openclaw-stack](https://github.com/chestercs/dgx-openclaw-stack) | 0 | Python | 2026-10-19 | Production-ready local AI agent stack for NVIDIA DGX Spark / ASUS GB10. Gemma 4 31B NVFP4 + bge-m3 embeddings + OpenClaw |
+| 13 | [jasonssdev/openkos](https://github.com/jasonssdev/openkos) | 4 | Python | 2026-10-19 | Local-first engine that turns your scattered text into a living, portable knowledge base in the Open Knowledge Format (O |
+| 14 | [Arasz/ai-raccoon](https://github.com/Arasz/ai-raccoon) | 3 | C# | 2026-10-19 |   Give AI agents a memory that outlives the session: local-first SQLite per project,   hybrid search, workspace sandboxe |
+| 15 | [ruelbelmonte/grounded](https://github.com/ruelbelmonte/grounded) | 0 | Python | 2026-10-19 | A guardrailed retrieval (RAG) assistant for high-stakes domains: refusal-when-ungrounded, prompt-injection resistance, a |
+| 16 | [api-evangelist/linkup-so](https://github.com/api-evangelist/linkup-so) | 0 | — | 2026-10-19 | Linkup — independent third-party profile of a public API surface, by API Evangelist. Linkup is a production-grade web se |
+| 17 | [nicogarrr/GerarAI](https://github.com/nicogarrr/GerarAI) | 0 | Python | 2026-10-19 | Research OS de inversión personal — Next.js + FastAPI, datos reales, alertas Telegram |
+| 18 | [codevelvet/citewise](https://github.com/codevelvet/citewise) | 0 | Ruby | 2026-10-19 | Ask your company’s docs anything. Every answer cited, every source permission-checked. |
+| 19 | [XaviCode1000/webfang](https://github.com/XaviCode1000/webfang) | 0 | Rust | 2026-10-19 | Modular web scraper with Clean Architecture — wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning |
+| 20 | [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) | 419 | Python | 2026-10-19 | 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。 |
+| 21 | [api-evangelist/langbase](https://github.com/api-evangelist/langbase) | 0 | — | 2026-10-19 | Langbase — independent third-party profile of a public API surface, by API Evangelist. Langbase is a serverless AI devel |
+| 22 | [PersonalClaw/PersonalClaw](https://github.com/PersonalClaw/PersonalClaw) | 7 | Python | 2026-10-19 | Your self-hosted personal AI agent — an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base,  |
+| 23 | [edgarsuarez123/edge-defense-AI](https://github.com/edgarsuarez123/edge-defense-AI) | 0 | Python | 2026-10-19 | Offline-capable AI copilot for forward operating bases: YOLOv8 drone detection, multi-sensor Kalman fusion, LangGraph mu |
+| 24 | [villadalmine/rag-tutor](https://github.com/villadalmine/rag-tutor) | 0 | Python | 2026-10-19 | Agnostic, sovereign local AI tutor for technical books (Hybrid RAG + Agentic Loop + MCP Server + GraphRAG) |
+| 25 | [cidade360/mneme-memory-forge](https://github.com/cidade360/mneme-memory-forge) | 1 | HTML | 2026-10-19 | 2026 Ultimate AI Memory Stack: Local-First Rust MCP for LLMs |
+| 26 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 27 | [JWT890/ai-help-desk-bot](https://github.com/JWT890/ai-help-desk-bot) | 0 | Python | 2026-10-19 | AI IT triage: Grow + Llama 3.1 + RAG + Confluence KB + ServiceNow auto-ticketing, built with Streamlit |
+| 28 | [api-evangelist/inkeep](https://github.com/api-evangelist/inkeep) | 0 | — | 2026-10-19 | Inkeep — independent third-party profile of a public API surface, by API Evangelist. Inkeep is an AI support and agent p |
+| 29 | [postmill-ai/postmill-app](https://github.com/postmill-ai/postmill-app) | 24 | TypeScript | 2026-10-19 | Open-source, AI-native social media management & scheduling platform for 45+ channels. BYOK AI across 30+ providers with |
+| 30 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-19 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 31 | [api-evangelist/haystack-ai](https://github.com/api-evangelist/haystack-ai) | 0 | — | 2026-10-19 | Haystack / deepset — independent third-party profile of a public API surface, by API Evangelist. Haystack is deepset's o |
+| 32 | [McReaper/t7_companion](https://github.com/McReaper/t7_companion) | 2 | Go | 2026-10-19 | The knowledge, the skills and the hands of a seasoned Black Ops 3 modder — for your AI agent. |
+| 33 | [iDiagoValeta/localOllamaRAG](https://github.com/iDiagoValeta/localOllamaRAG) | 14 | Python | 2026-10-19 | Local multimodal RAG for PDFs: MinerU, embeddinggemma-2, FAISS, BM25, BGE reranking and Ollama. Runs on your hardware vi |
+| 34 | [ewiger/hql](https://github.com/ewiger/hql) | 0 | Rust | 2026-10-19 | HQL — Hyper Query Language — is a statically typed language for querying, transforming, connecting and computing over da |
+| 35 | [tidydata-dev/youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) | 0 | — | 2026-10-19 | Get YouTube transcripts & subtitles (text, SRT, VTT, chapters) from videos, playlists, channels or searches — Python, No |
+| 36 | [endtree-FDE/feishu-group-agent](https://github.com/endtree-FDE/feishu-group-agent) | 0 | Python | 2026-10-19 | 飞书群智能体模板：群里 @ 或私聊自动回答，能联网、读群历史和各类文件，读写飞书文档/日历/多维表格，按群长期记忆。lark-cli 长连接 + Cursor CLI，支持 Windows。 |
+| 37 | [oswaldoaqm/quipudb](https://github.com/oswaldoaqm/quipudb) | 0 | Python | 2026-10-19 | Motor de base de datos multimodal escrito desde cero: almacenamiento paginado, índices B+ y hash, R-Tree, búsqueda de te |
+| 38 | [michaelli28/entity](https://github.com/michaelli28/entity) | 0 | TypeScript | 2026-10-19 | AI startup mentor app: FastAPI + Claude chat sessions, RAG over research papers, Next.js dashboard |
+| 39 | [UlricDonovan1564/fintech-knowledge-bot](https://github.com/UlricDonovan1564/fintech-knowledge-bot) | 0 | TypeScript | 2026-10-19 | Typed payment-risk knowledge bot with audit notices and migration guidance |
+| 40 | [jrhahn/ai-trainer](https://github.com/jrhahn/ai-trainer) | 1 | Python | 2026-10-19 | AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini — built  |
+| 41 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-19 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 42 | [abhid1234/time-to-index](https://github.com/abhid1234/time-to-index) | 0 | Python | 2026-10-19 | How long does a newly published fact take to reach a web-search API - and does the API say ABSENT, or confidently serve  |
+| 43 | [AayushiMohan/LLM-Powered-AI_Chatbot](https://github.com/AayushiMohan/LLM-Powered-AI_Chatbot) | 1 | JavaScript | 2026-10-19 | Full-stack conversational AI chatbot powered by Groq's LLaMA 3.3 model, built with React and Node.js |
+| 44 | [austin1406/rag-streamflow-assistant](https://github.com/austin1406/rag-streamflow-assistant) | 0 | Python | 2026-10-19 | Citation-grounded RAG assistant over an LSTM+DACP streamflow uncertainty report |
+| 45 | [api-evangelist/dust-tt](https://github.com/api-evangelist/dust-tt) | 1 | — | 2026-10-19 | Dust — independent third-party profile of a public API surface, by API Evangelist. Dust is a Paris-based enterprise AI p |
+| 46 | [gptme/gptme](https://github.com/gptme/gptme) | 4456 | Python | 2026-10-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 47 | [ryanduguid/au-tax-legislation-corpus](https://github.com/ryanduguid/au-tax-legislation-corpus) | 1 | Python | 2026-10-19 | Code for building a corpus of in-force Commonwealth tax legislation, with source and provenance records. |
+| 48 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 469 | Python | 2026-10-19 | FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready. |
+| 49 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1933 | Python | 2026-10-19 | NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi |
+| 50 | [aksika/abmind](https://github.com/aksika/abmind) | 21 | TypeScript | 2026-10-19 | Persistent memory & RAG engine for AI agents — SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi- |
 <!-- TRACKER_TABLE_END -->
 
 ---
