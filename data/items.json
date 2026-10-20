@@ -1,5 +1,50 @@
 [
   {
+    "description": "Ten reproducible ML/AI case studies \u2014 agentic AI & RAG, demand forecasting, anomaly detection, NLP fine-tuning, churn, V",
+    "id": "amm-ds/portfolio",
+    "language": "Python",
+    "name": "amm-ds/portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:15:30Z",
+    "url": "https://github.com/amm-ds/portfolio"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T15:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Hybrid GraphRAG system combining vector search and a knowledge graph for citation-grounded, multi-hop company research.",
+    "id": "ceylanal/company-intelligence-graphrag",
+    "language": "Python",
+    "name": "ceylanal/company-intelligence-graphrag",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:15:29Z",
+    "url": "https://github.com/ceylanal/company-intelligence-graphrag"
+  },
+  {
+    "description": "A shared AI agent for your team. Everyone trains it together; everyone talks to it privately. Self-hostable, FSL-1.1-ALv",
+    "id": "covan-ai/covan",
+    "language": "TypeScript",
+    "name": "covan-ai/covan",
+    "stars": 25,
+    "updated_at": "2026-10-20T15:15:28Z",
+    "url": "https://github.com/covan-ai/covan"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T15:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
     "id": "IHUI-INF-AI/IHUI-AI",
     "language": "TypeScript",
@@ -122,7 +167,7 @@
     "language": "C#",
     "name": "LiquidSnake0/legacy-lens",
     "stars": 0,
-    "updated_at": "2026-10-20T15:13:18Z",
+    "updated_at": "2026-10-20T15:15:36Z",
     "url": "https://github.com/LiquidSnake0/legacy-lens"
   },
   {
@@ -256,7 +301,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 11523,
+    "stars": 11524,
     "updated_at": "2026-10-20T15:10:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -403,50 +448,5 @@
     "stars": 501,
     "updated_at": "2026-10-20T15:11:02Z",
     "url": "https://github.com/caura-ai/caura"
-  },
-  {
-    "description": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live d",
-    "id": "AleksNeStu/ai-real-estate-assistant",
-    "language": "Python",
-    "name": "AleksNeStu/ai-real-estate-assistant",
-    "stars": 319,
-    "updated_at": "2026-10-20T15:07:31Z",
-    "url": "https://github.com/AleksNeStu/ai-real-estate-assistant"
-  },
-  {
-    "description": "An agentic runtime",
-    "id": "r-uby-dev/llm",
-    "language": "Ruby",
-    "name": "r-uby-dev/llm",
-    "stars": 145,
-    "updated_at": "2026-10-20T15:07:19Z",
-    "url": "https://github.com/r-uby-dev/llm"
-  },
-  {
-    "description": "Intelligent vehicle management app \u2014 maintenance tracking, service reminders, CARFAX integration, and AI-powered manual ",
-    "id": "ry-ops/DriveIQ",
-    "language": "Python",
-    "name": "ry-ops/DriveIQ",
-    "stars": 1,
-    "updated_at": "2026-10-20T15:09:01Z",
-    "url": "https://github.com/ry-ops/DriveIQ"
-  },
-  {
-    "description": "The local context engine for AI. Summarizes every file, rolls folders up into whole-project context, and serves any AI t",
-    "id": "harf-promo/indexa",
-    "language": "Rust",
-    "name": "harf-promo/indexa",
-    "stars": 1,
-    "updated_at": "2026-10-20T15:11:33Z",
-    "url": "https://github.com/harf-promo/indexa"
-  },
-  {
-    "description": "Offline AI research assistant for Windows.",
-    "id": "Bielcx/boar-desktop",
-    "language": "TypeScript",
-    "name": "Bielcx/boar-desktop",
-    "stars": 1,
-    "updated_at": "2026-10-20T15:06:36Z",
-    "url": "https://github.com/Bielcx/boar-desktop"
   }
 ]
