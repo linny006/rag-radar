@@ -1,5 +1,77 @@
 [
   {
+    "description": "Question answering for UK legislation, citing the exact provision behind every claim at the version in force on the date",
+    "id": "TsSerV/chapter-and-verse",
+    "language": "Python",
+    "name": "TsSerV/chapter-and-verse",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:15:48Z",
+    "url": "https://github.com/TsSerV/chapter-and-verse"
+  },
+  {
+    "description": "Persistent memory for AI agents \u2014 MCP server, knowledge graph, hybrid semantic search. Self-hosted & private: your data ",
+    "id": "RuMemory/maxgraph",
+    "language": "Python",
+    "name": "RuMemory/maxgraph",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:15:47Z",
+    "url": "https://github.com/RuMemory/maxgraph"
+  },
+  {
+    "description": "Persistent memory & RAG engine for AI agents \u2014 SQLite + FTS5 + embeddings, multi-stage recall, sleep maintenance, multi-",
+    "id": "aksika/abmind",
+    "language": "TypeScript",
+    "name": "aksika/abmind",
+    "stars": 21,
+    "updated_at": "2026-10-20T10:15:42Z",
+    "url": "https://github.com/aksika/abmind"
+  },
+  {
+    "description": ".NET RAG document processing library that transforms PDF, DOCX, HWP, and more into optimized chunks via a 5-stage pipeli",
+    "id": "iyulab/FileFlux",
+    "language": "C#",
+    "name": "iyulab/FileFlux",
+    "stars": 5,
+    "updated_at": "2026-10-20T10:15:30Z",
+    "url": "https://github.com/iyulab/FileFlux"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Holographic AI assistant - 3D particle core, voice in/out, self-upgrading source. Live: https://aura-live-81185.web.app",
+    "id": "sourabh7300/aura",
+    "language": "HTML",
+    "name": "sourabh7300/aura",
+    "stars": 1,
+    "updated_at": "2026-10-20T10:15:20Z",
+    "url": "https://github.com/sourabh7300/aura"
+  },
+  {
+    "description": "Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect every executio",
+    "id": "heymrun/heym",
+    "language": "Python",
+    "name": "heymrun/heym",
+    "stars": 1228,
+    "updated_at": "2026-10-20T10:15:16Z",
+    "url": "https://github.com/heymrun/heym"
+  },
+  {
     "description": "Agnostic, sovereign local AI tutor for technical books (Hybrid RAG + Agentic Loop + MCP Server + GraphRAG)",
     "id": "villadalmine/rag-tutor",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "Docker-Hunterpedia/Helpdock",
     "stars": 2,
-    "updated_at": "2026-10-20T10:14:52Z",
+    "updated_at": "2026-10-20T10:15:26Z",
     "url": "https://github.com/Docker-Hunterpedia/Helpdock"
   },
   {
@@ -23,7 +95,7 @@
     "language": "JavaScript",
     "name": "Azalytical/ascension-smartwalk",
     "stars": 0,
-    "updated_at": "2026-10-20T10:14:46Z",
+    "updated_at": "2026-10-20T10:15:56Z",
     "url": "https://github.com/Azalytical/ascension-smartwalk"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "qa-test-automation-frameworks/verity-policy-coverage-eval-framework",
     "stars": 1,
-    "updated_at": "2026-10-20T10:15:09Z",
+    "updated_at": "2026-10-20T10:15:41Z",
     "url": "https://github.com/qa-test-automation-frameworks/verity-policy-coverage-eval-framework"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Python",
     "name": "memtomem/memtomem",
     "stars": 18,
-    "updated_at": "2026-10-20T10:12:10Z",
+    "updated_at": "2026-10-20T10:15:41Z",
     "url": "https://github.com/memtomem/memtomem"
   },
   {
@@ -185,7 +257,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 87,
-    "updated_at": "2026-10-20T10:11:36Z",
+    "updated_at": "2026-10-20T10:15:56Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T10:06:21Z",
     "url": "https://github.com/aimanmalib/documind"
-  },
-  {
-    "description": "DSH autonomous-learning plugin (v2): TypeScript engine, 11 native DSH tools, evidence-based verification, optional MCP a",
-    "id": "ILRI7512/dsh-autolearn",
-    "language": "Python",
-    "name": "ILRI7512/dsh-autolearn",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:06:23Z",
-    "url": "https://github.com/ILRI7512/dsh-autolearn"
-  },
-  {
-    "description": "\ud83d\uddb1\ufe0f AI Mouse: ask your Windows screen \u00b7 \ud83d\udee1\ufe0f Hardened to BSI requirements (IT-Grundschutz APP.3.1, TR-02102) \u00b7 Self-hosted ",
-    "id": "dev-core-busy/jarvis",
-    "language": "Python",
-    "name": "dev-core-busy/jarvis",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:05:23Z",
-    "url": "https://github.com/dev-core-busy/jarvis"
-  },
-  {
-    "description": "LLM-powered .NET quality layer for RAG pipelines \u2014 enriches chunks with summaries, keywords, QA pairs, and multi-stage q",
-    "id": "iyulab/FluxImprover",
-    "language": "C#",
-    "name": "iyulab/FluxImprover",
-    "stars": 1,
-    "updated_at": "2026-10-20T10:06:09Z",
-    "url": "https://github.com/iyulab/FluxImprover"
-  },
-  {
-    "description": "Persistent memory for Claude Code, Cursor and Codex over your own markdown notes: MCP server + Graph RAG on one SQLite f",
-    "id": "tonydzi/sqlite-graph-memory",
-    "language": "Python",
-    "name": "tonydzi/sqlite-graph-memory",
-    "stars": 9,
-    "updated_at": "2026-10-20T10:05:18Z",
-    "url": "https://github.com/tonydzi/sqlite-graph-memory"
-  },
-  {
-    "description": "Amharic question answering over Ethiopia's Family Code: OCR of the scanned law, hybrid BM25 + BGE-M3 retrieval, Gemma 3 ",
-    "id": "4brhamy/amharic-legal-rag",
-    "language": "Python",
-    "name": "4brhamy/amharic-legal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:05:09Z",
-    "url": "https://github.com/4brhamy/amharic-legal-rag"
-  },
-  {
-    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents.  \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
-    "id": "1Panel-dev/MaxKB",
-    "language": "Python",
-    "name": "1Panel-dev/MaxKB",
-    "stars": 23001,
-    "updated_at": "2026-10-20T10:04:52Z",
-    "url": "https://github.com/1Panel-dev/MaxKB"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2377,
-    "updated_at": "2026-10-20T10:04:52Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "One crew of LLM agents, four recipes: code review, document Q&A, API scaffolding and content \u2014 on any OpenAI-compatible ",
-    "id": "aimanmalib/crewforge",
-    "language": "Python",
-    "name": "aimanmalib/crewforge",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:04:08Z",
-    "url": "https://github.com/aimanmalib/crewforge"
   }
 ]
