@@ -1,5 +1,41 @@
 [
   {
+    "description": "Private hybrid search over your files, fully offline, 70+ languages. An MCP retrieval backend for AI agents.",
+    "id": "justsearch-app/justsearch",
+    "language": "Java",
+    "name": "justsearch-app/justsearch",
+    "stars": 0,
+    "updated_at": "2026-10-21T23:01:26Z",
+    "url": "https://github.com/justsearch-app/justsearch"
+  },
+  {
+    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
+    "id": "Matlan1/localm",
+    "language": "Python",
+    "name": "Matlan1/localm",
+    "stars": 5,
+    "updated_at": "2026-10-21T23:01:05Z",
+    "url": "https://github.com/Matlan1/localm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T23:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T23:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "iran seda crawler golang",
     "id": "saber13812002/iranseda-crawler-golang-",
     "language": "SRecode Template",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Exalt24/enterprise-rag-knowledge-base",
     "stars": 2,
-    "updated_at": "2026-10-21T22:59:50Z",
+    "updated_at": "2026-10-21T23:00:35Z",
     "url": "https://github.com/Exalt24/enterprise-rag-knowledge-base"
   },
   {
@@ -135,6 +171,15 @@
     "url": "https://github.com/evgeniimatveev/evgeniimatveev.github.io"
   },
   {
+    "description": "Fully offline RAG assistant for technical manuals, running Phi-3.5 locally with Microsoft Foundry Local.",
+    "id": "tunaxdev/Saha-Asistani",
+    "language": "Python",
+    "name": "tunaxdev/Saha-Asistani",
+    "stars": 0,
+    "updated_at": "2026-10-21T22:56:44Z",
+    "url": "https://github.com/tunaxdev/Saha-Asistani"
+  },
+  {
     "description": "An AI analyst you can audit. Drop in messy business files and get what changed, why, and what to do next. Every number c",
     "id": "gfirik/agentic-analytics",
     "language": "TypeScript",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "nicogarrr/GerarAI",
     "stars": 0,
-    "updated_at": "2026-10-21T22:55:57Z",
+    "updated_at": "2026-10-21T23:01:06Z",
     "url": "https://github.com/nicogarrr/GerarAI"
   },
   {
@@ -196,6 +241,15 @@
     "stars": 113,
     "updated_at": "2026-10-21T22:54:24Z",
     "url": "https://github.com/vstorm-co/agenticos"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-21T22:53:21Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "\u4ed9\u5973\u5ea7\u5341\u9636\u6bb5\u81ea\u6f14\u5316\u5f15\u64ce \u00b7 \u51b0\u5c71\u4e09\u7aef\u95ed\u73af\u67b6\u6784 \u00b7 \u96f6 token \u672c\u5730\u63a8\u7406 \u00b7 AI \u5458\u5de5 10827 \u4eba \u00b7 35+ daemon \u81ea\u4e3e\u5faa\u73af \u00b7 RAG 768\u7ef4\u8bed\u4e49\u68c0\u7d22 \u00b7 \u00a714 IRON_RULE \u56db\u5c42\u5f3a\u5236\u62e6\u622a",
@@ -261,15 +315,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-21T22:53:21Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
     "id": "yonatangross/orchestkit",
     "language": "TypeScript",
@@ -277,15 +322,6 @@
     "stars": 298,
     "updated_at": "2026-10-21T22:51:34Z",
     "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
-    "description": "Run local LLMs fully offline - chat, coding agent, image & music generation, knowledge/RAG, voice. Privacy-first, one CL",
-    "id": "Matlan1/localm",
-    "language": "Python",
-    "name": "Matlan1/localm",
-    "stars": 5,
-    "updated_at": "2026-10-21T22:50:38Z",
-    "url": "https://github.com/Matlan1/localm"
   },
   {
     "description": "Open-source, Notion-like AI editor for your local documents and meetings: chat with PDFs, Word, Excel and PowerPoint, wr",
@@ -396,15 +432,6 @@
     "url": "https://github.com/JDeun/SchemaRouter"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T22:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T22:45:23Z",
     "url": "https://github.com/salvaMsanchez/fantasy-copilot"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T22:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u2b50\ufe0f Self-hostable AI support for Discord, GitHub, Slack & Discourse communities. Answers from your knowledge source, chec",
-    "id": "answerLoops/answerLoops",
-    "language": "TypeScript",
-    "name": "answerLoops/answerLoops",
-    "stars": 22,
-    "updated_at": "2026-10-21T22:45:13Z",
-    "url": "https://github.com/answerLoops/answerLoops"
-  },
-  {
-    "description": "Olo Brain. Open, verifiable knowledge base an AI can think with. Grows hourly from trusted open sources (Wikipedia, Inte",
-    "id": "Hashim57/olo-commons",
-    "language": "Python",
-    "name": "Hashim57/olo-commons",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:45:12Z",
-    "url": "https://github.com/Hashim57/olo-commons"
   }
 ]
