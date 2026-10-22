@@ -1,5 +1,59 @@
 [
   {
+    "description": "Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any",
+    "id": "benmaster82/Kwipu",
+    "language": "Python",
+    "name": "benmaster82/Kwipu",
+    "stars": 610,
+    "updated_at": "2026-10-22T20:45:17Z",
+    "url": "https://github.com/benmaster82/Kwipu"
+  },
+  {
+    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
+    "id": "Clairelee1010/macro-attribution-dashboard",
+    "language": "HTML",
+    "name": "Clairelee1010/macro-attribution-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-22T20:44:54Z",
+    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
+  },
+  {
+    "description": "Patient app and clinician dashboard over a FastAPI backend, where LangGraph agents triage incoming chat, pull structured",
+    "id": "sjsu-masters-projects/medi-agent",
+    "language": "Python",
+    "name": "sjsu-masters-projects/medi-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T20:44:44Z",
+    "url": "https://github.com/sjsu-masters-projects/medi-agent"
+  },
+  {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-22T20:44:10Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Sovereign cognitive substrate for AI agents",
+    "id": "Forja-orca/tylluan",
+    "language": "Rust",
+    "name": "Forja-orca/tylluan",
+    "stars": 0,
+    "updated_at": "2026-10-22T20:43:54Z",
+    "url": "https://github.com/Forja-orca/tylluan"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T20:43:52Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Letta \u2014 independent third-party profile of a public API surface, by API Evangelist. Letta (formerly MemGPT) is a statefu",
     "id": "api-evangelist/letta",
     "language": "\u2014",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "jrhahn/ai-trainer",
     "stars": 1,
-    "updated_at": "2026-10-22T20:43:00Z",
+    "updated_at": "2026-10-22T20:44:08Z",
     "url": "https://github.com/jrhahn/ai-trainer"
   },
   {
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26299,
-    "updated_at": "2026-10-22T20:42:48Z",
+    "updated_at": "2026-10-22T20:44:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -63,15 +117,6 @@
     "url": "https://github.com/blueswansconsulting/open-rust-chatbot"
   },
   {
-    "description": "Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any",
-    "id": "benmaster82/Kwipu",
-    "language": "Python",
-    "name": "benmaster82/Kwipu",
-    "stars": 610,
-    "updated_at": "2026-10-22T20:43:34Z",
-    "url": "https://github.com/benmaster82/Kwipu"
-  },
-  {
     "description": "Agentic GraphRAG is an open source framework that connects your documents, agent activity, and decisions in one graph. Y",
     "id": "ontogr/agentic-graphrag",
     "language": "Python",
@@ -79,6 +124,15 @@
     "stars": 26,
     "updated_at": "2026-10-22T20:41:27Z",
     "url": "https://github.com/ontogr/agentic-graphrag"
+  },
+  {
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "id": "open-webui/open-webui",
+    "language": "Python",
+    "name": "open-webui/open-webui",
+    "stars": 156474,
+    "updated_at": "2026-10-22T20:40:56Z",
+    "url": "https://github.com/open-webui/open-webui"
   },
   {
     "description": "The pipe layer of an AI nervous system \u2014 one interface connecting provider neurons to your application, across three inf",
@@ -378,15 +432,6 @@
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T20:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A local-first bench for learning and demonstrating RAG by experiment",
     "id": "nadeem4/rag-playground",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T20:30:04Z",
     "url": "https://github.com/VaishnaviSingh-Analyst/Learning-Agent-System"
-  },
-  {
-    "description": "Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP \u2014 se",
-    "id": "metadist/synaplan",
-    "language": "PHP",
-    "name": "metadist/synaplan",
-    "stars": 218,
-    "updated_at": "2026-10-22T20:29:56Z",
-    "url": "https://github.com/metadist/synaplan"
-  },
-  {
-    "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 fo",
-    "id": "xberg-io/xberg",
-    "language": "Rust",
-    "name": "xberg-io/xberg",
-    "stars": 9440,
-    "updated_at": "2026-10-22T20:29:27Z",
-    "url": "https://github.com/xberg-io/xberg"
-  },
-  {
-    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
-    "id": "langchain-ai/langchain-milvus",
-    "language": "Python",
-    "name": "langchain-ai/langchain-milvus",
-    "stars": 59,
-    "updated_at": "2026-10-22T20:29:06Z",
-    "url": "https://github.com/langchain-ai/langchain-milvus"
-  },
-  {
-    "description": "A self-refining LLM-powered markdown wiki builder for scientific research",
-    "id": "johapark/research-wiki",
-    "language": "Python",
-    "name": "johapark/research-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-22T20:28:46Z",
-    "url": "https://github.com/johapark/research-wiki"
-  },
-  {
-    "description": "Build resilient agents.",
-    "id": "langchain-ai/langgraph",
-    "language": "Python",
-    "name": "langchain-ai/langgraph",
-    "stars": 43726,
-    "updated_at": "2026-10-22T20:28:02Z",
-    "url": "https://github.com/langchain-ai/langgraph"
   }
 ]
