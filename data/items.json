@@ -5,8 +5,35 @@
     "language": "HTML",
     "name": "sourabh7300/aura",
     "stars": 1,
-    "updated_at": "2026-10-22T17:28:58Z",
+    "updated_at": "2026-10-22T17:30:09Z",
     "url": "https://github.com/sourabh7300/aura"
+  },
+  {
+    "description": "Reliable memory and context infrastructure for AI coding agents: source-backed facts, review-gated learning, MCP/SDK/UI,",
+    "id": "777genius/infinity-context",
+    "language": "Python",
+    "name": "777genius/infinity-context",
+    "stars": 7,
+    "updated_at": "2026-10-22T17:30:06Z",
+    "url": "https://github.com/777genius/infinity-context"
+  },
+  {
+    "description": "Voyage AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Voyage AI builds state-of-the-ar",
+    "id": "api-evangelist/voyage-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/voyage-ai",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:30:05Z",
+    "url": "https://github.com/api-evangelist/voyage-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T17:29:10Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted AI chatbot widget for any website. One Rust binary, one script tag, any OpenAI-compatible LLM (Ollama).",
@@ -54,12 +81,21 @@
     "url": "https://github.com/heymrun/heym"
   },
   {
+    "description": "The agent engineering platform.",
+    "id": "langchain-ai/langchain",
+    "language": "Python",
+    "name": "langchain-ai/langchain",
+    "stars": 148278,
+    "updated_at": "2026-10-22T17:27:45Z",
+    "url": "https://github.com/langchain-ai/langchain"
+  },
+  {
     "description": "A Java API for Docling",
     "id": "docling-project/docling-java",
     "language": "Java",
     "name": "docling-project/docling-java",
     "stars": 141,
-    "updated_at": "2026-10-22T17:27:38Z",
+    "updated_at": "2026-10-22T17:30:18Z",
     "url": "https://github.com/docling-project/docling-java"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 32841,
-    "updated_at": "2026-10-22T17:28:59Z",
+    "updated_at": "2026-10-22T17:30:14Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 90,
-    "updated_at": "2026-10-22T17:27:56Z",
+    "updated_at": "2026-10-22T17:30:01Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-22T17:18:19Z",
     "url": "https://github.com/PersonaliAI/chatty"
-  },
-  {
-    "description": "Sepehr Mahmoudian | AI engineer in Berlin. Computational neuroscience, robotics, and auditable machine learning.",
-    "id": "sepahead/sepahead",
-    "language": "JavaScript",
-    "name": "sepahead/sepahead",
-    "stars": 1,
-    "updated_at": "2026-10-22T17:18:18Z",
-    "url": "https://github.com/sepahead/sepahead"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 31,
-    "updated_at": "2026-10-22T17:17:59Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
-    "description": "Automated generation of questions and answers from documents.",
-    "id": "hazemkhaled-94/faq_generator",
-    "language": "Python",
-    "name": "hazemkhaled-94/faq_generator",
-    "stars": 1,
-    "updated_at": "2026-10-22T17:17:48Z",
-    "url": "https://github.com/hazemkhaled-94/faq_generator"
-  },
-  {
-    "description": "Syst\u00e8me multi-agents auditable d'aide \u00e0 la d\u00e9cision sur contrats fournisseurs : LangGraph, verdict d\u00e9terministe, CRAG, r",
-    "id": "sifir-gun/contract-decision-graph",
-    "language": "Python",
-    "name": "sifir-gun/contract-decision-graph",
-    "stars": 0,
-    "updated_at": "2026-10-22T17:17:40Z",
-    "url": "https://github.com/sifir-gun/contract-decision-graph"
   }
 ]
