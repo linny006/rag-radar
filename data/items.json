@@ -1,11 +1,119 @@
 [
   {
+    "description": "Session resilience and shared memory for AI coding agents - journals every turn to local SQLite, curates durable facts, ",
+    "id": "BlackVS/aimem",
+    "language": "Go",
+    "name": "BlackVS/aimem",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:31:33Z",
+    "url": "https://github.com/BlackVS/aimem"
+  },
+  {
+    "description": "",
+    "id": "nugh75/counselorbot-sbs",
+    "language": "Python",
+    "name": "nugh75/counselorbot-sbs",
+    "stars": 1,
+    "updated_at": "2026-10-22T06:31:30Z",
+    "url": "https://github.com/nugh75/counselorbot-sbs"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 31,
+    "updated_at": "2026-10-22T06:31:28Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+    "id": "simstudioai/sim",
+    "language": "TypeScript",
+    "name": "simstudioai/sim",
+    "stars": 29866,
+    "updated_at": "2026-10-22T06:31:12Z",
+    "url": "https://github.com/simstudioai/sim"
+  },
+  {
+    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
+    "id": "Clairelee1010/macro-attribution-dashboard",
+    "language": "HTML",
+    "name": "Clairelee1010/macro-attribution-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:30:55Z",
+    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
+  },
+  {
+    "description": "Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents.",
+    "id": "lpaiu-cs/osk-system",
+    "language": "Python",
+    "name": "lpaiu-cs/osk-system",
+    "stars": 76,
+    "updated_at": "2026-10-22T06:30:54Z",
+    "url": "https://github.com/lpaiu-cs/osk-system"
+  },
+  {
+    "description": "Transform and optimize your markdown documentation for Large Language Models (LLMs) and RAG systems. Generate llms.txt a",
+    "id": "mensfeld/llm-docs-builder",
+    "language": "Ruby",
+    "name": "mensfeld/llm-docs-builder",
+    "stars": 95,
+    "updated_at": "2026-10-22T06:30:40Z",
+    "url": "https://github.com/mensfeld/llm-docs-builder"
+  },
+  {
+    "description": "\u6a21\u5757\u5316 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54 + \u4e09\u5c42\u8bc4\u6d4b\u5e73\u53f0\uff1a\u628a RAG \u62c6\u6210\u300c\u5207\u5206 \u2192 \u68c0\u7d22 \u2192 \u751f\u6210 \u2192 \u8bc4\u6d4b\u300d\u56db\u5c42\u89e3\u8026\uff0c\u6bcf\u5c42\u53ef\u5355\u72ec\u66ff\u6362\u3001\u5355\u72ec\u5ea6\u91cf\u3001\u5355\u72ec\u505a\u5bf9\u6bd4\u5b9e\u9a8c\u3002\u68c0\u7d22\u63d0\u4f9b\u7eaf\u5411\u91cf / \u7eaf BM25 / \u6df7\u5408 RRF \u4e09\u6863\u6392\u540d\u53e3\u5f84\uff0c\u53ef\u9009 Cross-En",
+    "id": "world-breaker/rag-eval-platform",
+    "language": "Python",
+    "name": "world-breaker/rag-eval-platform",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:30:37Z",
+    "url": "https://github.com/world-breaker/rag-eval-platform"
+  },
+  {
+    "description": "Semantic slurper open-api proxy and claude agent with memory. Save tokens. Communicate through it. Your words and action",
+    "id": "chedim/babyseat",
+    "language": "Python",
+    "name": "chedim/babyseat",
+    "stars": 12,
+    "updated_at": "2026-10-22T06:30:32Z",
+    "url": "https://github.com/chedim/babyseat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T06:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T06:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46457,
+    "updated_at": "2026-10-22T06:30:30Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "A highly scalable and pluggable evaluations repository that works with all environments to provide an unified experience",
     "id": "Abhishek-Rnjn/Evals.si",
     "language": "Python",
     "name": "Abhishek-Rnjn/Evals.si",
     "stars": 4,
-    "updated_at": "2026-10-22T06:30:01Z",
+    "updated_at": "2026-10-22T06:30:35Z",
     "url": "https://github.com/Abhishek-Rnjn/Evals.si"
   },
   {
@@ -14,7 +122,7 @@
     "language": "TypeScript",
     "name": "scudong/cloudflare-free-web-pi",
     "stars": 1,
-    "updated_at": "2026-10-22T06:29:55Z",
+    "updated_at": "2026-10-22T06:30:56Z",
     "url": "https://github.com/scudong/cloudflare-free-web-pi"
   },
   {
@@ -88,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T06:28:35Z",
     "url": "https://github.com/udayankar/Personalized-AI-Learning-Assistant"
-  },
-  {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 31,
-    "updated_at": "2026-10-22T06:28:30Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
     "description": "\u6620\u7b54 Yingda \u2014 AI mock-interview platform: resume-driven hybrid interviews, dual-source RAG with per-question tracing, 4-di",
@@ -178,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-10-22T06:27:12Z",
     "url": "https://github.com/JiaY-77/Palimpsest"
-  },
-  {
-    "description": "Source-grounded MCP memory runtime and Obsidian-compatible vault template for LLM agents.",
-    "id": "lpaiu-cs/osk-system",
-    "language": "Python",
-    "name": "lpaiu-cs/osk-system",
-    "stars": 76,
-    "updated_at": "2026-10-22T06:26:51Z",
-    "url": "https://github.com/lpaiu-cs/osk-system"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -275,7 +365,7 @@
     "language": "Go",
     "name": "KPO-Tech/seshat-runtime",
     "stars": 5,
-    "updated_at": "2026-10-22T06:24:44Z",
+    "updated_at": "2026-10-22T06:31:03Z",
     "url": "https://github.com/KPO-Tech/seshat-runtime"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T06:22:11Z",
     "url": "https://github.com/YOLOW92/pagesift"
-  },
-  {
-    "description": "Evidence-backed Requirement-to-Code Impact Analyzer for BA/QA workflows, with traceability, review gates, and audit-styl",
-    "id": "hungthinh1104/BA_Helper",
-    "language": "TypeScript",
-    "name": "hungthinh1104/BA_Helper",
-    "stars": 1,
-    "updated_at": "2026-10-22T06:22:01Z",
-    "url": "https://github.com/hungthinh1104/BA_Helper"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-22T06:25:26Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Private document intelligence for teams: ask questions across your folders and get answers cited to the exact page. Loca",
-    "id": "varun29ankuS/shodhRAG",
-    "language": "Rust",
-    "name": "varun29ankuS/shodhRAG",
-    "stars": 7,
-    "updated_at": "2026-10-22T06:21:46Z",
-    "url": "https://github.com/varun29ankuS/shodhRAG"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T06:21:37Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "NVIDIA AI Blueprint for video search and summarization (VSS) is a GPU-accelerated reference architecture for building vi",
-    "id": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "language": "Python",
-    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "stars": 1939,
-    "updated_at": "2026-10-22T06:21:13Z",
-    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
-  },
-  {
-    "description": "\u95f2\u9c7c\u5168\u6d41\u7a0b\u81ea\u52a8\u5316\u8fd0\u8425\u7cfb\u7edf\uff1a\u4ece\u5546\u673a\u6316\u6398\u3001\u5546\u54c1\u53d1\u5e03\uff0c\u5230 AI \u5ba2\u670d\u3001\u56fa\u5b9a\u5185\u5bb9/\u5361\u5bc6\u81ea\u52a8\u53d1\u8d27\u3001\u8bc4\u4ef7\u4e0e\u552e\u540e\u8ddf\u8fdb\u4e00\u7ad9\u5f0f\u5b8c\u6210\uff1b\u652f\u6301\u591a\u8d26\u53f7\u3001\u591a\u79df\u6237\u3001\u5f02\u5e38\u6062\u590d\u548c Docker \u81ea\u90e8\u7f72\u3002",
-    "id": "Evvvvvvvan/XianYuSmart",
-    "language": "Java",
-    "name": "Evvvvvvvan/XianYuSmart",
-    "stars": 88,
-    "updated_at": "2026-10-22T06:20:35Z",
-    "url": "https://github.com/Evvvvvvvan/XianYuSmart"
-  },
-  {
-    "description": "Framework eksperimen RAG berbahasa Indonesia untuk ketepatan sitasi dan keandalan jawaban (demo sintetis; bukan hasil pe",
-    "id": "ReffkiAndreaPratama/rag-indonesian-reliability",
-    "language": "Python",
-    "name": "ReffkiAndreaPratama/rag-indonesian-reliability",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:20:27Z",
-    "url": "https://github.com/ReffkiAndreaPratama/rag-indonesian-reliability"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-22T06:20:18Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Production-style learning codebase: advanced RAG, guardrails, observability & evals, agentic RAG, MCP and voice agents \u2014",
-    "id": "rohhitrz/sutra",
-    "language": "Python",
-    "name": "rohhitrz/sutra",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:20:06Z",
-    "url": "https://github.com/rohhitrz/sutra"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-22T06:19:26Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   }
 ]
