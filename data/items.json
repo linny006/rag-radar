@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local PDF research agent with tool calling, hybrid retrieval (BM25 + Dense), weighted RRF, BGE reranking, and source tra",
+    "id": "Qianying-Chuugu/evidence_scope",
+    "language": "Python",
+    "name": "Qianying-Chuugu/evidence_scope",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:00:17Z",
+    "url": "https://github.com/Qianying-Chuugu/evidence_scope"
+  },
+  {
+    "description": "MindVault \u2014 AI-Powered Knowledge Management System",
+    "id": "Zugado-Technologies/mindVault",
+    "language": "JavaScript",
+    "name": "Zugado-Technologies/mindVault",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:00:10Z",
+    "url": "https://github.com/Zugado-Technologies/mindVault"
+  },
+  {
+    "description": "RAG-powered personal study assistant: cited tutoring from your own notes, graded quizzes, spaced-repetition flashcards, ",
+    "id": "sachincse/ai-study-companion",
+    "language": "Python",
+    "name": "sachincse/ai-study-companion",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:56Z",
+    "url": "https://github.com/sachincse/ai-study-companion"
+  },
+  {
+    "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
+    "id": "LocketKeyLLC/scaffold-engine",
+    "language": "Python",
+    "name": "LocketKeyLLC/scaffold-engine",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:25Z",
+    "url": "https://github.com/LocketKeyLLC/scaffold-engine"
+  },
+  {
+    "description": "Institutional AI financial terminal bridging SEC Form 10-K analysis and real-time market data with hybrid RRF retrieval,",
+    "id": "aarya-pabha/financial-ai-agent",
+    "language": "Python",
+    "name": "aarya-pabha/financial-ai-agent",
+    "stars": 1,
+    "updated_at": "2026-10-23T02:00:18Z",
+    "url": "https://github.com/aarya-pabha/financial-ai-agent"
+  },
+  {
+    "description": "Knowledge-graph RAG vs vector RAG over the Apache Kafka dev mailing list, with a held-out multi-hop evaluation",
+    "id": "arjunchhabra1/kafka-atlas",
+    "language": "Python",
+    "name": "arjunchhabra1/kafka-atlas",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:03Z",
+    "url": "https://github.com/arjunchhabra1/kafka-atlas"
+  },
+  {
+    "description": "SSAFY 16\uae30 AI \ucf54\uc5b4 \ud504\ub85c\uc81d\ud2b8 - RAG \uae30\ubc18 \ub3c4\uba54\uc778 \uc9c0\uc2dd \uc11c\ube44\uc2a4",
+    "id": "bnbong/VastHorizon",
+    "language": "Python",
+    "name": "bnbong/VastHorizon",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:58:27Z",
+    "url": "https://github.com/bnbong/VastHorizon"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T01:58:15Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI \u306e\u305f\u3081\u306e\u77e5\u8b58\u30d9\u30fc\u30b9\u3002Wikipedia\u30fbOpenStreetMap\u30fbGeoNames \u306e\u516c\u5f0f\u30c0\u30f3\u30d7\u3092 SQLite (FTS5) \u306b\u7d22\u5f15\u3057\u3001MCP \u3068 REST \u3067 AI \u306b\u5f15\u304b\u305b\u308b\u3002AI \u304c\u66f8\u304d\u8db3\u305b\u308b notes \u3068\u3001Chiezo ",
+    "id": "rtcode337/chiezo",
+    "language": "Python",
+    "name": "rtcode337/chiezo",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:58:09Z",
+    "url": "https://github.com/rtcode337/chiezo"
+  },
+  {
     "description": "Agentic research assistant for SEC 10-K filings: hybrid retrieval over filing text + guarded text-to-SQL over XBRL finan",
     "id": "tantn89/filings-copilot",
     "language": "Python",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "open-webui/open-webui",
     "stars": 156502,
-    "updated_at": "2026-10-23T01:58:07Z",
+    "updated_at": "2026-10-23T01:58:17Z",
     "url": "https://github.com/open-webui/open-webui"
   },
   {
@@ -158,7 +239,7 @@
     "language": "JavaScript",
     "name": "rifqifitriady/ZAAFPulse",
     "stars": 1,
-    "updated_at": "2026-10-23T01:56:41Z",
+    "updated_at": "2026-10-23T01:59:24Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
@@ -187,6 +268,15 @@
     "stars": 5161,
     "updated_at": "2026-10-23T01:51:48Z",
     "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
+  },
+  {
+    "description": "Aplica\u00e7\u00e3o RAG com Python, LangChain, ChromaDB e OpenAI para conversar com documentos PDF.",
+    "id": "ramoos05/DocChat",
+    "language": "Python",
+    "name": "ramoos05/DocChat",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:51:41Z",
+    "url": "https://github.com/ramoos05/DocChat"
   },
   {
     "description": "\u9762\u5411\u4e13\u5229\u4ee3\u7406\u4eba\u3001\u4e13\u5229\u5f8b\u5e08\u4e0e\u77e5\u8bc6\u4ea7\u6743\u4ece\u4e1a\u8005\u7684\u684c\u9762\u7aef\u4e13\u5229\u667a\u80fd\u4f53",
@@ -270,6 +360,15 @@
     "url": "https://github.com/starlinghq/starling"
   },
   {
+    "description": "RAG assistant for technical docs: scrape a site with Firecrawl, chat with it and get answers with cited sources. Python,",
+    "id": "MurilloMoya/docstoteles-ai",
+    "language": "Python",
+    "name": "MurilloMoya/docstoteles-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:49:49Z",
+    "url": "https://github.com/MurilloMoya/docstoteles-ai"
+  },
+  {
     "description": "\u9762\u5411\u804c\u4e1a\u9662\u6821\u7684 AI-Native \u77e5\u8bc6\u57fa\u5ea7\uff0cRAG + \u5c42\u7ea7\u77e5\u8bc6\u56fe\u8c31 +ES\u5168\u6587\u7d22\u5f15",
     "id": "MarkDanile/MetaEduBase",
     "language": "Python",
@@ -293,7 +392,7 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19637,
-    "updated_at": "2026-10-23T01:47:59Z",
+    "updated_at": "2026-10-23T01:58:43Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
@@ -324,15 +423,6 @@
     "url": "https://github.com/iyulab/saem"
   },
   {
-    "description": "Local PDF research agent with tool calling, hybrid retrieval (BM25 + Dense), weighted RRF, BGE reranking, and source tra",
-    "id": "Qianying-Chuugu/evidence_scope",
-    "language": "Python",
-    "name": "Qianying-Chuugu/evidence_scope",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:46:06Z",
-    "url": "https://github.com/Qianying-Chuugu/evidence_scope"
-  },
-  {
     "description": "Local-first Python CLI and MCP server for versioned, cited context from web and document sources.",
     "id": "raintree-technology/docpull",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 3888,
     "updated_at": "2026-10-23T01:45:44Z",
     "url": "https://github.com/LazyAGI/LazyLLM"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-23T01:45:37Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 13135,
-    "updated_at": "2026-10-23T01:45:25Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Sovereign, persistent, worldview-aligned AI agent. Runs on your hardware. No cloud. No moral relativism. Pure truth hier",
-    "id": "cluricaun28/Logos",
-    "language": "Python",
-    "name": "cluricaun28/Logos",
-    "stars": 1,
-    "updated_at": "2026-10-23T01:44:48Z",
-    "url": "https://github.com/cluricaun28/Logos"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 92674,
-    "updated_at": "2026-10-23T01:44:35Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Semantic slurper open-api proxy and claude agent with memory. Save tokens. Communicate through it. Your words and action",
-    "id": "chedim/babyseat",
-    "language": "Python",
-    "name": "chedim/babyseat",
-    "stars": 12,
-    "updated_at": "2026-10-23T01:44:33Z",
-    "url": "https://github.com/chedim/babyseat"
-  },
-  {
-    "description": "DocSlurp server, worker, SDKs and CLI \u2014 active source of truth",
-    "id": "DocSlurp/docslurp-oss",
-    "language": "TypeScript",
-    "name": "DocSlurp/docslurp-oss",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:44:18Z",
-    "url": "https://github.com/DocSlurp/docslurp-oss"
-  },
-  {
-    "description": "\u6839\u636e Crash/ANR/OOM \u7b49\u65e5\u5fd7\u6784\u5efa\u8bc1\u636e\u94fe\uff0c\u5b9e\u73b0\u81ea\u52a8\u4fee\u590d\u4ee3\u7801\u7684Agent\u6846\u67b6\uff0c\u5e76\u652f\u6301\u8854\u63a5\u81ea\u52a8\u6d4b\u8bd5\u9a8c\u8bc1\u3001Bug\u7ba1\u7406\u5e73\u53f0 Agent framework that builds evidence chains from Crash/AN",
-    "id": "baidu-maps/stability-analysis-agent",
-    "language": "Python",
-    "name": "baidu-maps/stability-analysis-agent",
-    "stars": 50,
-    "updated_at": "2026-10-23T01:44:16Z",
-    "url": "https://github.com/baidu-maps/stability-analysis-agent"
-  },
-  {
-    "description": "Ask your company\u2019s docs anything. Every answer cited, every source permission-checked.",
-    "id": "codevelvet/citewise",
-    "language": "Ruby",
-    "name": "codevelvet/citewise",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:43:45Z",
-    "url": "https://github.com/codevelvet/citewise"
   }
 ]
