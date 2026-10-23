@@ -1,12 +1,84 @@
 [
   {
+    "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, trans",
+    "id": "agbossjs/agboss",
+    "language": "TypeScript",
+    "name": "agbossjs/agboss",
+    "stars": 1,
+    "updated_at": "2026-10-23T07:15:11Z",
+    "url": "https://github.com/agbossjs/agboss"
+  },
+  {
+    "description": "Markdown\uc73c\ub85c CS \uc9c0\uc2dd\uc744 \uae30\ub85d\ud558\uace0, \uc758\ubbf8 \uac80\uc0c9\uacfc RAG\ub85c \ubcf5\uc2b5\ud558\ub294 \uac1c\uc778 \ud559\uc2b5 \uc11c\ube44\uc2a4",
+    "id": "zz106603/backend-cs-notes",
+    "language": "Java",
+    "name": "zz106603/backend-cs-notes",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:15:08Z",
+    "url": "https://github.com/zz106603/backend-cs-notes"
+  },
+  {
+    "description": "research-agent\u2014 \u6df1\u5ea6\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u89c4\u5212 \u2192 \u591a\u8def\u53d6\u8bc1 \u2192 \u538b\u7f29 \u2192 \u5ba1\u67e5\u56de\u73af \u2192 \u5e26\u5f15\u7528\u62a5\u544a",
+    "id": "winc-0/research-agent",
+    "language": "Python",
+    "name": "winc-0/research-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:14:50Z",
+    "url": "https://github.com/winc-0/research-agent"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 NL2SQL \u667a\u80fd\u95ee\u6570\u7cfb\u7edf\uff1aLangGraph \u7f16\u6392\u4e09\u8def\u53ec\u56de\uff08Qdrant \u5b57\u6bb5\u5411\u91cf / ES \u53d6\u503c / MySQL \u5143\u6570\u636e\uff09\u4e0e SQL \u751f\u6210\u6821\u9a8c\uff0cSSE \u6d41\u5f0f\u8fd4\u56de + Vue3 \u524d\u7aef\uff0c\u5185\u7f6e 56 \u9898\u8bc4\u6d4b\u96c6\u4e0e 6 \u7ec4\u6d88\u878d\u5b9e\u9a8c",
+    "id": "winc-0/logiql",
+    "language": "Python",
+    "name": "winc-0/logiql",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:14:42Z",
+    "url": "https://github.com/winc-0/logiql"
+  },
+  {
+    "description": "AI-optimized stash storage \u2014 dynamic RAG for agents. Store, search, and retrieve docs, code, and data on demand via MCP ",
+    "id": "fo0/clawstash",
+    "language": "TypeScript",
+    "name": "fo0/clawstash",
+    "stars": 1,
+    "updated_at": "2026-10-23T07:14:35Z",
+    "url": "https://github.com/fo0/clawstash"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T07:14:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI Skill Runtime for knowledge-intensive work which makes everything under your control.",
+    "id": "LazyAGI/LazyMind",
+    "language": "Go",
+    "name": "LazyAGI/LazyMind",
+    "stars": 347,
+    "updated_at": "2026-10-23T07:14:29Z",
+    "url": "https://github.com/LazyAGI/LazyMind"
+  },
+  {
     "description": "Evidence-driven industrial agents: bounded orchestration, guarded NL2SQL, scientific tools and reproducible synthetic ex",
     "id": "hfeiuhog/ProcLab",
     "language": "Python",
     "name": "hfeiuhog/ProcLab",
     "stars": 0,
-    "updated_at": "2026-10-23T07:14:21Z",
+    "updated_at": "2026-10-23T07:14:37Z",
     "url": "https://github.com/hfeiuhog/ProcLab"
+  },
+  {
+    "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 13210,
+    "updated_at": "2026-10-23T07:14:15Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-powered document intelligence assistant for uploading, processing, and searching documents. Built with FastAPI, Postg",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T07:14:08Z",
     "url": "https://github.com/swarup-infy/AI-DOC-Assistant"
-  },
-  {
-    "description": "An AI Skill Runtime for knowledge-intensive work which makes everything under your control.",
-    "id": "LazyAGI/LazyMind",
-    "language": "Go",
-    "name": "LazyAGI/LazyMind",
-    "stars": 347,
-    "updated_at": "2026-10-23T07:13:55Z",
-    "url": "https://github.com/LazyAGI/LazyMind"
   },
   {
     "description": "\u793e\u5185\u898f\u5b9a\u30fb\u696d\u52d9\u30de\u30cb\u30e5\u30a2\u30eb\u3092\u767b\u9332\u3059\u308b\u3060\u3051\u3067\u3001\u51fa\u5178\uff08\u6587\u66f8\u540d\u30fb\u8a72\u5f53\u7b87\u6240\uff09\u4ed8\u304d\u3067\u56de\u7b54\u3059\u308b\u793e\u5185Q&A Windows\u30a2\u30d7\u30ea\u3002llama.cpp\u3092\u76f4\u63a5\u5b9f\u884c\u3059\u308b\u81ea\u4f5c\u8efd\u91cf\u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u3067\u5b8c\u5168\u30aa\u30d5\u30e9\u30a4\u30f3\u30fbGPU\u4e0d\u8981\u30fb8GB RAM\u3067\u52d5\u4f5c\u3002\u6839\u62e0\u304c\u306a\u3051\u308c\u3070\u300c\u8a72\u5f53\u306a",
@@ -135,6 +198,15 @@
     "url": "https://github.com/mylgtab/budget-rag"
   },
   {
+    "description": "Production-grade platform for building agentic IM bots - \u751f\u4ea7\u7ea7\u591a\u5e73\u53f0\u667a\u80fd\u673a\u5668\u4eba\u5f00\u53d1\u5e73\u53f0/ Agent\u3001\u77e5\u8bc6\u5e93\u7f16\u6392\u3001\u63d2\u4ef6\u7cfb\u7edf / Bots for Discord / Slack / ",
+    "id": "langbot-app/LangBot",
+    "language": "Python",
+    "name": "langbot-app/LangBot",
+    "stars": 18414,
+    "updated_at": "2026-10-23T07:11:40Z",
+    "url": "https://github.com/langbot-app/LangBot"
+  },
+  {
     "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
     "id": "kifayat-irfan/VectorMind",
     "language": "Python",
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 90,
-    "updated_at": "2026-10-23T07:11:17Z",
+    "updated_at": "2026-10-23T07:14:49Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T07:04:13Z",
     "url": "https://github.com/erendikmenn/rag-benchmark"
-  },
-  {
-    "description": "Rust-native, self-hosted scraping engine: SSRF-guarded fetching, deterministic HTML -> Markdown/text/JSON, and schema-va",
-    "id": "Mullassery/ScrapeOwl",
-    "language": "Rust",
-    "name": "Mullassery/ScrapeOwl",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:04:23Z",
-    "url": "https://github.com/Mullassery/ScrapeOwl"
-  },
-  {
-    "description": "AI Agent Runtime \u63a7\u5236\u53f0 \u00b7 Agent \u7f16\u6392 / Tool Calling / SSE \u6d41\u5f0f\u4e8b\u4ef6 / \u591a\u89c6\u56fe\u72b6\u6001\u6295\u5f71 \u00b7 \u652f\u6301\u63a5\u5165 OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672a\u914d\u7f6e\u65f6 Mock \u79bb\u7ebf\u8fd0\u884c\uff09\u00b7 RAG \u4e3a\u793a\u4f8b\u77e5\u8bc6\u5e93",
-    "id": "novedu/agent-studio",
-    "language": "TypeScript",
-    "name": "novedu/agent-studio",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:03:46Z",
-    "url": "https://github.com/novedu/agent-studio"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2394,
-    "updated_at": "2026-10-23T07:03:38Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa",
-    "id": "infiniflow/ragflow",
-    "language": "Go",
-    "name": "infiniflow/ragflow",
-    "stars": 92699,
-    "updated_at": "2026-10-23T07:14:20Z",
-    "url": "https://github.com/infiniflow/ragflow"
-  },
-  {
-    "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 13209,
-    "updated_at": "2026-10-23T07:14:15Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2035,
-    "updated_at": "2026-10-23T07:06:42Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
-    "id": "zilliztech/memsearch",
-    "language": "Python",
-    "name": "zilliztech/memsearch",
-    "stars": 2778,
-    "updated_at": "2026-10-23T07:02:09Z",
-    "url": "https://github.com/zilliztech/memsearch"
-  },
-  {
-    "description": "\ud83d\udd25 MaxKB is an open-source platform for building enterprise-grade agents.  \u5f3a\u5927\u6613\u7528\u7684\u5f00\u6e90\u4f01\u4e1a\u7ea7\u667a\u80fd\u4f53\u5e73\u53f0\u3002",
-    "id": "1Panel-dev/MaxKB",
-    "language": "Python",
-    "name": "1Panel-dev/MaxKB",
-    "stars": 23011,
-    "updated_at": "2026-10-23T07:01:50Z",
-    "url": "https://github.com/1Panel-dev/MaxKB"
   }
 ]
