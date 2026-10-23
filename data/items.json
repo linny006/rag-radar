@@ -1,5 +1,149 @@
 [
   {
+    "description": "Cognee \u2014 independent third-party profile of a public API surface, by API Evangelist. Cognee is an open-source AI memory ",
+    "id": "api-evangelist/cognee",
+    "language": "\u2014",
+    "name": "api-evangelist/cognee",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:30:11Z",
+    "url": "https://github.com/api-evangelist/cognee"
+  },
+  {
+    "description": "The decision ledger for AI agents \u2014 status-aware claims, byte-budgeted briefs and a status-filtered RAG evidence layer. ",
+    "id": "Anhao1314/ClaimLedger",
+    "language": "Python",
+    "name": "Anhao1314/ClaimLedger",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:30:09Z",
+    "url": "https://github.com/Anhao1314/ClaimLedger"
+  },
+  {
+    "description": "RAG with dockerized VectorDB x local Llama3.2 LLM",
+    "id": "HristiyanIvanovski/viivii",
+    "language": "Python",
+    "name": "HristiyanIvanovski/viivii",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:29:57Z",
+    "url": "https://github.com/HristiyanIvanovski/viivii"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:29:55Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, ",
+    "id": "PersonalClaw/PersonalClaw",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClaw",
+    "stars": 7,
+    "updated_at": "2026-10-23T17:29:11Z",
+    "url": "https://github.com/PersonalClaw/PersonalClaw"
+  },
+  {
+    "description": "Chunkr \u2014 independent third-party profile of a public API surface, by API Evangelist. Chunkr is an open-source document i",
+    "id": "api-evangelist/chunkr-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/chunkr-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:28:31Z",
+    "url": "https://github.com/api-evangelist/chunkr-ai"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:28:28Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Review note connections, prepare guarded Markdown changes, and practise spaced repetition in Obsidian. Optional AI, expl",
+    "id": "zinverno/veynrel",
+    "language": "TypeScript",
+    "name": "zinverno/veynrel",
+    "stars": 29,
+    "updated_at": "2026-10-23T17:28:19Z",
+    "url": "https://github.com/zinverno/veynrel"
+  },
+  {
+    "description": "Discord bot that integrates LLMs with multimodal capabilities including text chat, voice synthesis (TTS), speech recogni",
+    "id": "privacydied/discord-llm-chatbot",
+    "language": "Python",
+    "name": "privacydied/discord-llm-chatbot",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:27:46Z",
+    "url": "https://github.com/privacydied/discord-llm-chatbot"
+  },
+  {
+    "description": "A self-hosted, Linux-native Discord chatbot with a persistent inner life. Runs entirely on a single consumer GPU with no",
+    "id": "Ekco-S64QTN6/Kaiacord",
+    "language": "Python",
+    "name": "Ekco-S64QTN6/Kaiacord",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:27:57Z",
+    "url": "https://github.com/Ekco-S64QTN6/Kaiacord"
+  },
+  {
+    "description": "Web app for authoring vehicle feature catalogs: a trim-by-region feature matrix, rule validation and an approval workflo",
+    "id": "rgonzal92/vehicle-catalog",
+    "language": "Java",
+    "name": "rgonzal92/vehicle-catalog",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:27:25Z",
+    "url": "https://github.com/rgonzal92/vehicle-catalog"
+  },
+  {
+    "description": "Academic workspace for university students: Drive-synced notes vault, grounded AI, planner, GPA, SRS flashcards, and a P",
+    "id": "aryan-dani/Utility",
+    "language": "TypeScript",
+    "name": "aryan-dani/Utility",
+    "stars": 9,
+    "updated_at": "2026-10-23T17:27:17Z",
+    "url": "https://github.com/aryan-dani/Utility"
+  },
+  {
+    "description": "Local code search engine for AI agents: incremental indexer, hybrid retrieval (BM25 + dense embeddings in Qdrant, RSF, p",
+    "id": "jakubstuglik/hybrid-code-rag-mcp",
+    "language": "Python",
+    "name": "jakubstuglik/hybrid-code-rag-mcp",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:27:06Z",
+    "url": "https://github.com/jakubstuglik/hybrid-code-rag-mcp"
+  },
+  {
+    "description": "\u6821\u56ed AI \u52a9\u624b \u00b7 \u4f20\u667a\u676f AI Web \u5f00\u53d1\u6311\u6218\u8d5b\uff5c\u65f6\u95f4\u8868 \u00b7 \u6821\u56ed\u5bfc\u822a \u00b7 AI \u5b66\u4e1a\u89c4\u5212 \u00b7 \u60c5\u7eea\u966a\u4f34 \u00b7 \u5b66\u751f\u624b\u518c\u95ee\u7b54\uff08RAG\uff09",
+    "id": "1280507078/campus-ai",
+    "language": "HTML",
+    "name": "1280507078/campus-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:27:03Z",
+    "url": "https://github.com/1280507078/campus-ai"
+  },
+  {
+    "description": "Production-grade open-source LLM evaluation platform with G-Eval, LLM-as-a-Judge, RAG evaluation, and customizable AI ev",
+    "id": "hardikkaurani/Evalium",
+    "language": "Python",
+    "name": "hardikkaurani/Evalium",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:26:58Z",
+    "url": "https://github.com/hardikkaurani/Evalium"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T17:26:57Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "harsh0728/RAG-LLMs",
     "language": "TypeScript",
@@ -27,6 +171,15 @@
     "url": "https://github.com/letmebesai/filinglens"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102499,
+    "updated_at": "2026-10-23T17:26:15Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "\u5f00\u6e90\u79c1\u57df AI \u8425\u9500 SCRM \u7cfb\u7edf\uff0cMartech \u83b7\u5ba2\u5f15\u6d41\u5229\u5668\uff01\u5168\u6e20\u9053\u805a\u5408\uff08\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u5feb\u624b/\u5fae\u4fe1/WhatsApp/TikTok/Telegram\uff09\u7edf\u4e00\u6536\u4ef6\u7bb1\u4e0e CDP \u5ba2\u6237\u7ba1\u7406\u3002\ud83e\udd16\u6838\u5fc3\u529f\u80fd\uff1a1. ReAct \u81ea\u4e3b AI \u667a\u80fd\u4f53\uff084",
     "id": "xiaofang142/hivemtk",
     "language": "Go",
@@ -41,7 +194,7 @@
     "language": "TypeScript",
     "name": "framerslab/agentos",
     "stars": 684,
-    "updated_at": "2026-10-23T17:26:07Z",
+    "updated_at": "2026-10-23T17:27:52Z",
     "url": "https://github.com/framerslab/agentos"
   },
   {
@@ -79,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T17:25:29Z",
     "url": "https://github.com/Nitesh050/rag-pdf-analyzer"
-  },
-  {
-    "description": "\u6821\u56ed AI \u52a9\u624b \u00b7 \u4f20\u667a\u676f AI Web \u5f00\u53d1\u6311\u6218\u8d5b\uff5c\u65f6\u95f4\u8868 \u00b7 \u6821\u56ed\u5bfc\u822a \u00b7 AI \u5b66\u4e1a\u89c4\u5212 \u00b7 \u60c5\u7eea\u966a\u4f34 \u00b7 \u5b66\u751f\u624b\u518c\u95ee\u7b54\uff08RAG\uff09",
-    "id": "1280507078/campus-ai",
-    "language": "HTML",
-    "name": "1280507078/campus-ai",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:25:18Z",
-    "url": "https://github.com/1280507078/campus-ai"
   },
   {
     "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
@@ -171,24 +315,6 @@
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
   },
   {
-    "description": "Production-grade open-source LLM evaluation platform with G-Eval, LLM-as-a-Judge, RAG evaluation, and customizable AI ev",
-    "id": "hardikkaurani/Evalium",
-    "language": "Python",
-    "name": "hardikkaurani/Evalium",
-    "stars": 2,
-    "updated_at": "2026-10-23T17:23:31Z",
-    "url": "https://github.com/hardikkaurani/Evalium"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102499,
-    "updated_at": "2026-10-23T17:26:15Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "[beta, under development] -- Semantic slurper open-api proxy and claude agent with memory. Save tokens. Communicate thro",
     "id": "chedim/babyseat",
     "language": "Python",
@@ -243,15 +369,6 @@
     "url": "https://github.com/sbsai25/studyvault"
   },
   {
-    "description": "Discord bot that integrates LLMs with multimodal capabilities including text chat, voice synthesis (TTS), speech recogni",
-    "id": "privacydied/discord-llm-chatbot",
-    "language": "Python",
-    "name": "privacydied/discord-llm-chatbot",
-    "stars": 2,
-    "updated_at": "2026-10-23T17:22:06Z",
-    "url": "https://github.com/privacydied/discord-llm-chatbot"
-  },
-  {
     "description": "Evidence-first Legal Intelligence Backend API built with FastAPI, BM25 retrieval, statutory version-awareness, and hallu",
     "id": "SrushtiSurwase-14/legal-intelligence",
     "language": "Python",
@@ -270,6 +387,15 @@
     "url": "https://github.com/farzeen-code/distributed-video-rag-engine"
   },
   {
+    "description": "AI staff assistant for bank branch procedures (RAG: Pinecone + Claude), run end to end as an AI Business Analyst & Adopt",
+    "id": "chomba29/Kamilisha",
+    "language": "HTML",
+    "name": "chomba29/Kamilisha",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:21:29Z",
+    "url": "https://github.com/chomba29/Kamilisha"
+  },
+  {
     "description": "LLM\uc774 \uac8c\uc784 \uc0c1\ud0dc\ub97c \ubc14\uafb8\uc9c0 \ubabb\ud558\uac8c \uc124\uacc4\ud55c AI TRPG \ud50c\ub7ab\ud3fc \u00b7 \uc5d4\uc9c4\uc774 \ud310\uc815\ud558\uace0 LLM\uc740 \uad6c\uc870\ud654\ub41c \uc81c\uc548\uacfc \uc11c\uc220\ub9cc \u00b7 \uc11c\ubc84 4\uac1c(Django\u00b7FastAPI\u00b7NestJS\u00b7Go), RAG, \uc11c\ube44\uc2a4 \uac04 \uc11c\uba85, \uc6d0\uc7a5 \uae30\ubc18",
     "id": "epqlffltm/ai-trpg",
     "language": "Python",
@@ -284,7 +410,7 @@
     "language": "Python",
     "name": "ngh3651/JeonseAI",
     "stars": 0,
-    "updated_at": "2026-10-23T17:25:52Z",
+    "updated_at": "2026-10-23T17:30:17Z",
     "url": "https://github.com/ngh3651/JeonseAI"
   },
   {
@@ -311,7 +437,7 @@
     "language": "Python",
     "name": "tuanductran/soulmap-ai",
     "stars": 3,
-    "updated_at": "2026-10-23T17:26:05Z",
+    "updated_at": "2026-10-23T17:27:41Z",
     "url": "https://github.com/tuanductran/soulmap-ai"
   },
   {
@@ -320,133 +446,7 @@
     "language": "TypeScript",
     "name": "altavelor/attest_deep_research",
     "stars": 1,
-    "updated_at": "2026-10-23T17:20:21Z",
+    "updated_at": "2026-10-23T17:29:10Z",
     "url": "https://github.com/altavelor/attest_deep_research"
-  },
-  {
-    "description": "Local-first MCP memory server for AI agents. Zero dependencies, SQLite on your own disk, 52 MCP tools with Mem0-compatib",
-    "id": "MnemosyneOS/mnemosyne",
-    "language": "Python",
-    "name": "MnemosyneOS/mnemosyne",
-    "stars": 38,
-    "updated_at": "2026-10-23T17:20:08Z",
-    "url": "https://github.com/MnemosyneOS/mnemosyne"
-  },
-  {
-    "description": "DocSlurp server, worker, SDKs and CLI \u2014 active source of truth",
-    "id": "DocSlurp/docslurp-oss",
-    "language": "TypeScript",
-    "name": "DocSlurp/docslurp-oss",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:19:41Z",
-    "url": "https://github.com/DocSlurp/docslurp-oss"
-  },
-  {
-    "description": "Local-first RAG that lets a forest robot explain its path choices from its own records: hybrid BM25 + embedding retrieva",
-    "id": "Vlor999/HCI",
-    "language": "Python",
-    "name": "Vlor999/HCI",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:19:40Z",
-    "url": "https://github.com/Vlor999/HCI"
-  },
-  {
-    "description": "Lossless, local long-term memory for AI assistants: every conversation kept verbatim in SQLite, the relevant past recall",
-    "id": "Cranedon/pocket-recall",
-    "language": "Python",
-    "name": "Cranedon/pocket-recall",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:19:40Z",
-    "url": "https://github.com/Cranedon/pocket-recall"
-  },
-  {
-    "description": "Catalog of silent failures in RAG systems and AI agents, with reproduce, detect and mitigate code",
-    "id": "Faraz6180/rag-agent-failure-catalog",
-    "language": "Python",
-    "name": "Faraz6180/rag-agent-failure-catalog",
-    "stars": 2,
-    "updated_at": "2026-10-23T17:19:07Z",
-    "url": "https://github.com/Faraz6180/rag-agent-failure-catalog"
-  },
-  {
-    "description": "Assistant RAG local en ligne de commande : r\u00e9pond \u00e0 des questions sur des documents PDF et TXT en citant fichier et page",
-    "id": "ColinsNeil/rag-local",
-    "language": "Python",
-    "name": "ColinsNeil/rag-local",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:18:53Z",
-    "url": "https://github.com/ColinsNeil/rag-local"
-  },
-  {
-    "description": "Give your AI your whole life. Keep your private things private. Olympus runs on your Mac or Omarchy computer and works w",
-    "id": "jamiezigelbaum/Olympus",
-    "language": "TypeScript",
-    "name": "jamiezigelbaum/Olympus",
-    "stars": 15,
-    "updated_at": "2026-10-23T17:21:18Z",
-    "url": "https://github.com/jamiezigelbaum/Olympus"
-  },
-  {
-    "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
-    "id": "agentty-org/agentty",
-    "language": "C++",
-    "name": "agentty-org/agentty",
-    "stars": 623,
-    "updated_at": "2026-10-23T17:18:42Z",
-    "url": "https://github.com/agentty-org/agentty"
-  },
-  {
-    "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, ",
-    "id": "PersonalClaw/PersonalClaw",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClaw",
-    "stars": 7,
-    "updated_at": "2026-10-23T17:25:46Z",
-    "url": "https://github.com/PersonalClaw/PersonalClaw"
-  },
-  {
-    "description": "Traceable drug-safety evidence with GitLab Duo-assisted repairs, quality gates and human-controlled releases on Google C",
-    "id": "saimaharana4/PharmaGuard",
-    "language": "Python",
-    "name": "saimaharana4/PharmaGuard",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:17:36Z",
-    "url": "https://github.com/saimaharana4/PharmaGuard"
-  },
-  {
-    "description": "API to read blogs from an Azure Cosmos DB",
-    "id": "P47K0/Pat.Aca.BlogServiceApi",
-    "language": "C#",
-    "name": "P47K0/Pat.Aca.BlogServiceApi",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:16:27Z",
-    "url": "https://github.com/P47K0/Pat.Aca.BlogServiceApi"
-  },
-  {
-    "description": "HUDOC Researcher \u2014 paragraph-level structural and semantic search, citation analytics, and source-first reading for ECtH",
-    "id": "lszoszk/ECHR-Dashboard",
-    "language": "\u2014",
-    "name": "lszoszk/ECHR-Dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:16:21Z",
-    "url": "https://github.com/lszoszk/ECHR-Dashboard"
-  },
-  {
-    "description": "Portfolio agent: hybrid RAG (BM25 + Gemini embeddings, RRF) and Gemini function calling on Cloudflare Workers, with sour",
-    "id": "hardyalsinghdeora/portfolio",
-    "language": "HTML",
-    "name": "hardyalsinghdeora/portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:16:10Z",
-    "url": "https://github.com/hardyalsinghdeora/portfolio"
-  },
-  {
-    "description": "Software Engineer \u00b7 Tech Lead \u00b7 AI Engineering",
-    "id": "yuridomingues/yuridomingues",
-    "language": "\u2014",
-    "name": "yuridomingues/yuridomingues",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:16:04Z",
-    "url": "https://github.com/yuridomingues/yuridomingues"
   }
 ]
