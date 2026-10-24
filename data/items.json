@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "a142269/evidence-first-learning-agent",
     "stars": 0,
-    "updated_at": "2026-10-24T11:59:23Z",
+    "updated_at": "2026-10-24T12:00:11Z",
     "url": "https://github.com/a142269/evidence-first-learning-agent"
+  },
+  {
+    "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros",
+    "id": "pipeshub-ai/pipeshub-ai",
+    "language": "Python",
+    "name": "pipeshub-ai/pipeshub-ai",
+    "stars": 3846,
+    "updated_at": "2026-10-24T11:59:36Z",
+    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:59:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Retrieva backend \u2014 Node/ESM Express + Drizzle/Postgres + LangChain RAG API for DORA TPRM (runs on the ktayl-solution min",
+    "id": "andrelair-platform/retrieva-backend",
+    "language": "TypeScript",
+    "name": "andrelair-platform/retrieva-backend",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:59:50Z",
+    "url": "https://github.com/andrelair-platform/retrieva-backend"
   },
   {
     "description": "Give your AI your whole life. Keep your private things private. Olympus runs on your Mac or Omarchy computer and works w",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "Thanatos9404/llmslim",
     "stars": 21,
-    "updated_at": "2026-10-24T11:58:34Z",
+    "updated_at": "2026-10-24T12:00:07Z",
     "url": "https://github.com/Thanatos9404/llmslim"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:57:48Z",
     "url": "https://github.com/CodesbyFebin/Open-Human-Agents-Stack"
-  },
-  {
-    "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros",
-    "id": "pipeshub-ai/pipeshub-ai",
-    "language": "Python",
-    "name": "pipeshub-ai/pipeshub-ai",
-    "stars": 3846,
-    "updated_at": "2026-10-24T11:57:23Z",
-    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
   },
   {
     "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
@@ -140,7 +158,7 @@
     "language": "C#",
     "name": "Maklith/Kitopia",
     "stars": 26,
-    "updated_at": "2026-10-24T11:56:31Z",
+    "updated_at": "2026-10-24T11:59:46Z",
     "url": "https://github.com/Maklith/Kitopia"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:46:09Z",
     "url": "https://github.com/LocketKeyLLC/scaffold-engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   }
 ]
