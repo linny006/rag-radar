@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open-source customer support platform: ticketing, help center, live chat widget and grounded AI \u2014 one deploy, many brand",
+    "id": "Docker-Hunterpedia/Helpdock",
+    "language": "TypeScript",
+    "name": "Docker-Hunterpedia/Helpdock",
+    "stars": 22,
+    "updated_at": "2026-10-24T18:33:20Z",
+    "url": "https://github.com/Docker-Hunterpedia/Helpdock"
+  },
+  {
+    "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros",
+    "id": "pipeshub-ai/pipeshub-ai",
+    "language": "Python",
+    "name": "pipeshub-ai/pipeshub-ai",
+    "stars": 3846,
+    "updated_at": "2026-10-24T18:33:08Z",
+    "url": "https://github.com/pipeshub-ai/pipeshub-ai"
+  },
+  {
+    "description": "Offline evaluation for RAG pipelines: retrieval metrics, lexical groundedness, and three-way failure attribution.",
+    "id": "hellpuffyt/rag-eval",
+    "language": "Python",
+    "name": "hellpuffyt/rag-eval",
+    "stars": 1,
+    "updated_at": "2026-10-24T18:32:39Z",
+    "url": "https://github.com/hellpuffyt/rag-eval"
+  },
+  {
+    "description": "Self-hostable web fork of Agentero: headless ACP agent host, MCP server and provider-abstracted RAG (WeKnora). AI-genera",
+    "id": "exciton00/Agentero-Web",
+    "language": "TypeScript",
+    "name": "exciton00/Agentero-Web",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:32:32Z",
+    "url": "https://github.com/exciton00/Agentero-Web"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:32:14Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI Agent \u5de5\u4f5c\u7a7a\u95f4\uff0c\u770b\u677f\u3001\u65e5\u5386\u3001\u7b14\u8bb0\u548c\u6587\u4ef6\u90fd\u80fd\u76f4\u63a5\u64cd\u4f5c\uff5c\u98de\u4e66 \u00b7 QQ \u00b7 \u5fae\u4fe1 \u00b7 Telegram | BYOK",
+    "id": "Coffeiz/Gugu-web",
+    "language": "Python",
+    "name": "Coffeiz/Gugu-web",
+    "stars": 5,
+    "updated_at": "2026-10-24T18:31:54Z",
+    "url": "https://github.com/Coffeiz/Gugu-web"
+  },
+  {
+    "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 15241,
+    "updated_at": "2026-10-24T18:31:29Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Secure student planner with encrypted offline clients and a Firebase and Cloud Run RAG copilot using Vertex AI, Gemini, ",
+    "id": "Chanikya5793/GDPProject",
+    "language": "HTML",
+    "name": "Chanikya5793/GDPProject",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:31:19Z",
+    "url": "https://github.com/Chanikya5793/GDPProject"
+  },
+  {
+    "description": "Terminal-emulator portfolio site \u2014 live uptime across 9 apps, real incident postmortems, a RAG-grounded ask widget (Clau",
+    "id": "evgeniimatveev/evgeniimatveev.github.io",
+    "language": "HTML",
+    "name": "evgeniimatveev/evgeniimatveev.github.io",
+    "stars": 1,
+    "updated_at": "2026-10-24T18:31:16Z",
+    "url": "https://github.com/evgeniimatveev/evgeniimatveev.github.io"
+  },
+  {
+    "description": "Turn a web page or document into a searchable PDF with an AI-ready bundle inside.",
+    "id": "kitterman-t/webshot-ai",
+    "language": "Python",
+    "name": "kitterman-t/webshot-ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:31:09Z",
+    "url": "https://github.com/kitterman-t/webshot-ai"
+  },
+  {
+    "description": "",
+    "id": "nugh75/counselorbot-sbs",
+    "language": "Python",
+    "name": "nugh75/counselorbot-sbs",
+    "stars": 1,
+    "updated_at": "2026-10-24T18:30:25Z",
+    "url": "https://github.com/nugh75/counselorbot-sbs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T18:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T18:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG chat agent, ingestion pipeline, and sentiment classifier built in n8n",
     "id": "Philipad1234/n8n-ai-agents",
     "language": "HTML",
@@ -90,20 +207,11 @@
     "url": "https://github.com/ragnor-rs/trend-parser"
   },
   {
-    "description": "Secure student planner with encrypted offline clients and a Firebase and Cloud Run RAG copilot using Vertex AI, Gemini, ",
-    "id": "Chanikya5793/GDPProject",
-    "language": "HTML",
-    "name": "Chanikya5793/GDPProject",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:28:12Z",
-    "url": "https://github.com/Chanikya5793/GDPProject"
-  },
-  {
     "description": "Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP \u2014 se",
     "id": "metadist/synaplan",
     "language": "PHP",
     "name": "metadist/synaplan",
-    "stars": 236,
+    "stars": 247,
     "updated_at": "2026-10-24T18:27:52Z",
     "url": "https://github.com/metadist/synaplan"
   },
@@ -248,7 +356,7 @@
     "language": "Python",
     "name": "Praciller/customer-support-rag-triage-agent",
     "stars": 0,
-    "updated_at": "2026-10-24T18:24:24Z",
+    "updated_at": "2026-10-24T18:31:42Z",
     "url": "https://github.com/Praciller/customer-support-rag-triage-agent"
   },
   {
@@ -268,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T18:23:30Z",
     "url": "https://github.com/OPProductivity/anythingllm-pdf-parser-embedder-assistant"
-  },
-  {
-    "description": "",
-    "id": "nugh75/counselorbot-sbs",
-    "language": "Python",
-    "name": "nugh75/counselorbot-sbs",
-    "stars": 1,
-    "updated_at": "2026-10-24T18:30:16Z",
-    "url": "https://github.com/nugh75/counselorbot-sbs"
   },
   {
     "description": "iOS & watchOS speech-to-text app with AI voice keyboard, on-device RAG, and chat with your notes - powered by Apple Foun",
@@ -324,15 +423,6 @@
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
   },
   {
-    "description": "Open-source customer support platform: ticketing, help center, live chat widget and grounded AI \u2014 one deploy, many brand",
-    "id": "Docker-Hunterpedia/Helpdock",
-    "language": "TypeScript",
-    "name": "Docker-Hunterpedia/Helpdock",
-    "stars": 22,
-    "updated_at": "2026-10-24T18:22:14Z",
-    "url": "https://github.com/Docker-Hunterpedia/Helpdock"
-  },
-  {
     "description": "Web app for group decisions under uncertainty: experts give fuzzy estimates, and the BeCoMe (Best Compromise Mean) metho",
     "id": "caitlon/BeCoMe",
     "language": "Python",
@@ -347,7 +437,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T18:21:04Z",
+    "updated_at": "2026-10-24T18:33:07Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T18:21:19Z",
     "url": "https://github.com/muzakkirhussain011/wardowl"
-  },
-  {
-    "description": "Local-first meeting companion and knowledge hub for Windows, on Gemma 4, EmbeddingGemma 2 and Parakeet via Ollama. Every",
-    "id": "FOSSiNtellect/foresight-wing",
-    "language": "Python",
-    "name": "FOSSiNtellect/foresight-wing",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:20:32Z",
-    "url": "https://github.com/FOSSiNtellect/foresight-wing"
-  },
-  {
-    "description": "Local-first cognitive daemon for automated vault management Markdown. Semantic indexing, auto-tagging, and connection di",
-    "id": "kahz12/Grimore-MD",
-    "language": "Python",
-    "name": "kahz12/Grimore-MD",
-    "stars": 34,
-    "updated_at": "2026-10-24T18:19:56Z",
-    "url": "https://github.com/kahz12/Grimore-MD"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T18:19:50Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Sage.is AI-UI is a feature-rich and user-friendly AI creation platform designed for startups, small teams, and schools. ",
-    "id": "Sage-is/AI-UI",
-    "language": "Python",
-    "name": "Sage-is/AI-UI",
-    "stars": 11,
-    "updated_at": "2026-10-24T18:19:38Z",
-    "url": "https://github.com/Sage-is/AI-UI"
-  },
-  {
-    "description": "\uccad\ub144 \uc9c0\uc6d0 \uc815\ucc45 \ucc57\ubd07 YouthLink - \ubc31\uc5d4\ub4dc (FastAPI, RAG)",
-    "id": "inha-youthlink/YouthLink_Backend",
-    "language": "Python",
-    "name": "inha-youthlink/YouthLink_Backend",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:19:36Z",
-    "url": "https://github.com/inha-youthlink/YouthLink_Backend"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "JavaScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:19:32Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
-    "id": "Clairelee1010/macro-attribution-dashboard",
-    "language": "HTML",
-    "name": "Clairelee1010/macro-attribution-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:19:20Z",
-    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
-  },
-  {
-    "description": "Agentic document research with PydanticAI: typed workflows, scoped tools, cited answers, chart and table extraction, che",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-24T18:19:09Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Multi-user, local-first RAG document assistant on Loom: upload documents, get summaries, and chat with cited answers. Pe",
-    "id": "chhetrisushil/docmind",
-    "language": "TypeScript",
-    "name": "chhetrisushil/docmind",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:19:04Z",
-    "url": "https://github.com/chhetrisushil/docmind"
-  },
-  {
-    "description": "Grounded Agent Platform: multi-tenant retrieval, source citations, policy-controlled developer tools, evaluations, FastA",
-    "id": "FarnazNK/grounded-agent-platform",
-    "language": "Python",
-    "name": "FarnazNK/grounded-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:18:14Z",
-    "url": "https://github.com/FarnazNK/grounded-agent-platform"
   }
 ]
