@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted, cross-device long-term memory for AI agents via MCP \u2014 one vault shared across any MCP client (Claude, Curso",
+    "id": "nousergon/mnemon",
+    "language": "Python",
+    "name": "nousergon/mnemon",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:14:57Z",
+    "url": "https://github.com/nousergon/mnemon"
+  },
+  {
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generati",
+    "id": "rxmna8502/vybe-intelligence-vault",
+    "language": "\u2014",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "stars": 22,
+    "updated_at": "2026-10-24T23:14:29Z",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault"
+  },
+  {
+    "description": "AI troubleshooting assistant for Protein A capture chromatography, grounded on a Neo4j knowledge graph so every answer i",
+    "id": "mukunde/bioprocess-assistant",
+    "language": "Python",
+    "name": "mukunde/bioprocess-assistant",
+    "stars": 1,
+    "updated_at": "2026-10-24T23:14:10Z",
+    "url": "https://github.com/mukunde/bioprocess-assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T23:13:38Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102816,
+    "updated_at": "2026-10-24T23:13:32Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "SOPHIA \u2014 Sovereign Orchestrator Platform for Holistic Intelligence Architecture.",
     "id": "Kisai-DG-SLU/sophia-platform",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "nugh75/counselorbot-sbs",
     "stars": 1,
-    "updated_at": "2026-10-24T23:10:45Z",
+    "updated_at": "2026-10-24T23:13:46Z",
     "url": "https://github.com/nugh75/counselorbot-sbs"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "Victoroide/go-ms-rag",
     "stars": 0,
-    "updated_at": "2026-10-24T23:10:26Z",
+    "updated_at": "2026-10-24T23:13:51Z",
     "url": "https://github.com/Victoroide/go-ms-rag"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "nekoai-lab/tsukineko-grimoire",
     "stars": 4,
-    "updated_at": "2026-10-24T23:09:46Z",
+    "updated_at": "2026-10-24T23:14:12Z",
     "url": "https://github.com/nekoai-lab/tsukineko-grimoire"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T23:06:41Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102815,
-    "updated_at": "2026-10-24T23:13:32Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Open source notes app with local AI. Chat with your Markdown notes, discover related ideas, and sync with Git \u2014 100% pri",
@@ -333,15 +369,6 @@
     "url": "https://github.com/VINAY7033/docu-query-assistant"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T23:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u5b66\u4e60\u9a7e\u9a76\u8231\uff1a\u8bfe\u4ef6+\u8bba\u6587\u672c\u5730\u77e5\u8bc6\u5e93\uff08SQLite FTS5\uff09\u4e0e\u81ea\u52a8\u7ef4\u62a4\u7684\u5b66\u4e60\u8def\u7ebf\uff1bMIT\uff08\u8bed\u6599\u4e0e\u4e2a\u4eba\u6570\u636e\u4e0d\u5165\u5e93\uff09",
     "id": "zhuxuankai/accelerator-learning",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T22:58:38Z",
     "url": "https://github.com/Skyl9/AnkiForge"
-  },
-  {
-    "description": "An AI editor. Every answer shows the page it came from and highlights the quote. Free, open-source desktop app for Mac, ",
-    "id": "IncarnaMind/IncarnaMind",
-    "language": "TypeScript",
-    "name": "IncarnaMind/IncarnaMind",
-    "stars": 844,
-    "updated_at": "2026-10-24T23:11:34Z",
-    "url": "https://github.com/IncarnaMind/IncarnaMind"
-  },
-  {
-    "description": "\ud83e\udd35 AIfred-Intelligence \u2014 self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS",
-    "id": "Peuqui/AIfred-Intelligence",
-    "language": "Python",
-    "name": "Peuqui/AIfred-Intelligence",
-    "stars": 39,
-    "updated_at": "2026-10-24T22:57:04Z",
-    "url": "https://github.com/Peuqui/AIfred-Intelligence"
-  },
-  {
-    "description": "One evaluation harness for two AI assistants: shared case schema, deterministic metrics, an LLM judge checked against hu",
-    "id": "vamsialladev/eval-harness",
-    "language": "Python",
-    "name": "vamsialladev/eval-harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:59:20Z",
-    "url": "https://github.com/vamsialladev/eval-harness"
   }
 ]
