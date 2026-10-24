@@ -1,5 +1,95 @@
 [
   {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCodeDev1000/webfang",
+    "language": "Rust",
+    "name": "XaviCodeDev1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:15:04Z",
+    "url": "https://github.com/XaviCodeDev1000/webfang"
+  },
+  {
+    "description": "Open-source, self-hosted knowledge backend for AI agents \u2014 hybrid search (vector + keyword), MCP server, 5 connectors, D",
+    "id": "Destrayon/Connapse",
+    "language": "C#",
+    "name": "Destrayon/Connapse",
+    "stars": 21,
+    "updated_at": "2026-10-24T21:14:49Z",
+    "url": "https://github.com/Destrayon/Connapse"
+  },
+  {
+    "description": "Multi-user, local-first RAG document assistant on Loom: upload documents, get summaries, and chat with cited answers. Pe",
+    "id": "chhetrisushil/docmind",
+    "language": "TypeScript",
+    "name": "chhetrisushil/docmind",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:14:25Z",
+    "url": "https://github.com/chhetrisushil/docmind"
+  },
+  {
+    "description": "Self-hosted, GDPR-first AI assistant for companies: chat with your SharePoint, file share and Nextcloud documents using ",
+    "id": "fuchs-harry/Self-hosted-Chat-Engine",
+    "language": "TypeScript",
+    "name": "fuchs-harry/Self-hosted-Chat-Engine",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:15:11Z",
+    "url": "https://github.com/fuchs-harry/Self-hosted-Chat-Engine"
+  },
+  {
+    "description": "When a RAG answer is wrong, RAGSeal proves whether the retriever or the generator caused it via counterfactual replay.",
+    "id": "Vidhaath622/MUJ",
+    "language": "TypeScript",
+    "name": "Vidhaath622/MUJ",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:13:33Z",
+    "url": "https://github.com/Vidhaath622/MUJ"
+  },
+  {
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
+    "id": "IHUI-INF-AI/IHUI-AI",
+    "language": "TypeScript",
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "stars": 31,
+    "updated_at": "2026-10-24T21:13:31Z",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
+  },
+  {
+    "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, ",
+    "id": "PersonalClaw/PersonalClaw",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClaw",
+    "stars": 7,
+    "updated_at": "2026-10-24T21:13:16Z",
+    "url": "https://github.com/PersonalClaw/PersonalClaw"
+  },
+  {
+    "description": "Generative AI developer projects in Python using the Gemini API: a CLI assistant, embeddings and similarity experiments,",
+    "id": "abdulwahabchahal/GEN-AI-learning-journey",
+    "language": "Python",
+    "name": "abdulwahabchahal/GEN-AI-learning-journey",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:12:19Z",
+    "url": "https://github.com/abdulwahabchahal/GEN-AI-learning-journey"
+  },
+  {
+    "description": "Meridian AI for learners: multi-agent procurement audit and RAG document Q&A (FastAPI, LangChain, Gemini, Vertex AI, Clo",
+    "id": "mayank953/meridian-ai-learner",
+    "language": "TypeScript",
+    "name": "mayank953/meridian-ai-learner",
+    "stars": 11,
+    "updated_at": "2026-10-24T21:12:02Z",
+    "url": "https://github.com/mayank953/meridian-ai-learner"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:11:14Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-tenant RAG support bot SaaS: upload docs or crawl a site, get an embeddable chat widget that answers with citation",
     "id": "sudeshkar/docbot-rag",
     "language": "Python",
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "caitlon/BeCoMe",
     "stars": 1,
-    "updated_at": "2026-10-24T21:04:54Z",
+    "updated_at": "2026-10-24T21:12:35Z",
     "url": "https://github.com/caitlon/BeCoMe"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/cernodatainc/cernodata"
   },
   {
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta",
-    "id": "IHUI-INF-AI/IHUI-AI",
-    "language": "TypeScript",
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "stars": 31,
-    "updated_at": "2026-10-24T21:04:31Z",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
     "description": "A self-hosted AI assistant platform where trust is measured, not claimed - hybrid retrieval behind a reranker seam, clea",
     "id": "architecture-zero/architecture-zero",
     "language": "Python",
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:04:30Z",
     "url": "https://github.com/architecture-zero/architecture-zero"
-  },
-  {
-    "description": "Meridian AI for learners: multi-agent procurement audit and RAG document Q&A (FastAPI, LangChain, Gemini, Vertex AI, Clo",
-    "id": "mayank953/meridian-ai-learner",
-    "language": "TypeScript",
-    "name": "mayank953/meridian-ai-learner",
-    "stars": 11,
-    "updated_at": "2026-10-24T21:04:20Z",
-    "url": "https://github.com/mayank953/meridian-ai-learner"
   },
   {
     "description": "Self-hosted memory layer for AI coding sessions. Rust core, PostgreSQL + pgvector, 11 source adapters (Claude Code, Code",
@@ -153,7 +225,7 @@
     "url": "https://github.com/GenorTG/finetune-studio"
   },
   {
-    "description": "Hybrid sales chatbot using RAG, LangChain, and deterministic logic.",
+    "description": "Hybrid BI Assistant (Text-to-SQL & Visual Analytics) using LangChain, BigQuery, Docker, and dynamic UI routing.",
     "id": "jlandaa/Sales-AI-Chatbot",
     "language": "Python",
     "name": "jlandaa/Sales-AI-Chatbot",
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-24T21:02:30Z",
+    "updated_at": "2026-10-24T21:14:24Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -238,7 +310,7 @@
     "id": "langchain-ai/langchain",
     "language": "Python",
     "name": "langchain-ai/langchain",
-    "stars": 148381,
+    "stars": 148382,
     "updated_at": "2026-10-24T21:02:13Z",
     "url": "https://github.com/langchain-ai/langchain"
   },
@@ -284,7 +356,7 @@
     "language": "C#",
     "name": "fathomise/MailFathom",
     "stars": 19,
-    "updated_at": "2026-10-24T21:06:44Z",
+    "updated_at": "2026-10-24T21:13:24Z",
     "url": "https://github.com/fathomise/MailFathom"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first AI meeting assistant with speech transcription, structured summaries, action items, grounded Q&A, and visual",
     "id": "muratkareem/steppe-hub",
     "language": "Python",
@@ -322,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T21:00:21Z",
     "url": "https://github.com/muratkareem/steppe-hub"
-  },
-  {
-    "description": "When a RAG answer is wrong, RAGSeal proves whether the retriever or the generator caused it via counterfactual replay.",
-    "id": "Vidhaath622/MUJ",
-    "language": "TypeScript",
-    "name": "Vidhaath622/MUJ",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:00:11Z",
-    "url": "https://github.com/Vidhaath622/MUJ"
   },
   {
     "description": "This RAG uses Local LLM, LanceDB, EmbeddingGemma-2, Decoupling Architecture.  It's pretty smart.  I think \ud83e\udd23",
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "FaultMaven/faultmaven",
     "stars": 4,
-    "updated_at": "2026-10-24T21:04:56Z",
+    "updated_at": "2026-10-24T21:12:42Z",
     "url": "https://github.com/FaultMaven/faultmaven"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T20:56:26Z",
     "url": "https://github.com/aiandcivilization/webtrawl"
-  },
-  {
-    "description": "Agentic RAG for codebases \u2014 ask questions answered by code, git history, issues & PRs. Uses FAISS, sentence-transformers",
-    "id": "rajfirke/repo-time-machine",
-    "language": "Python",
-    "name": "rajfirke/repo-time-machine",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:55:49Z",
-    "url": "https://github.com/rajfirke/repo-time-machine"
-  },
-  {
-    "description": "Self-hosted workspace for public Telegram channels: sync into PostgreSQL, then AI summaries, semantic chat, tagging and ",
-    "id": "onhazrat/tg-workspace",
-    "language": "Python",
-    "name": "onhazrat/tg-workspace",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:55:27Z",
-    "url": "https://github.com/onhazrat/tg-workspace"
-  },
-  {
-    "description": "Open memory & reliability layer for AI agents + independent judging/verification (NACRE judge, caliber-bench meta-benchm",
-    "id": "chunxiaoxx/nautilus-compass",
-    "language": "Python",
-    "name": "chunxiaoxx/nautilus-compass",
-    "stars": 1254,
-    "updated_at": "2026-10-24T20:55:23Z",
-    "url": "https://github.com/chunxiaoxx/nautilus-compass"
-  },
-  {
-    "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, ",
-    "id": "PersonalClaw/PersonalClaw",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClaw",
-    "stars": 7,
-    "updated_at": "2026-10-24T20:55:18Z",
-    "url": "https://github.com/PersonalClaw/PersonalClaw"
-  },
-  {
-    "description": "\u8bc1\u636e\u4f18\u5148\u3001\u4f1a\u81ea\u6211\u8fdb\u5316\u7684\u4f01\u4e1a\u5ba2\u670d Agent \u5e73\u53f0\uff1aRAG\u3001\u5de5\u5177\u8c03\u7528\u3001\u4eba\u5de5\u5ba1\u6279\u3001\u9010\u53e5\u8bc1\u636e\u6821\u9a8c\u3001\u6570\u636e\u98de\u8f6e\u4e0e\u56de\u5f52\u8bc4\u6d4b",
-    "id": "leon1111-wgl/loopdesk",
-    "language": "Python",
-    "name": "leon1111-wgl/loopdesk",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:54:04Z",
-    "url": "https://github.com/leon1111-wgl/loopdesk"
-  },
-  {
-    "description": "Research OS de inversi\u00f3n personal \u2014 Next.js + FastAPI, datos reales, alertas Telegram",
-    "id": "nicogarrr/GerarAI",
-    "language": "Python",
-    "name": "nicogarrr/GerarAI",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:53:17Z",
-    "url": "https://github.com/nicogarrr/GerarAI"
   }
 ]
