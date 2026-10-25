@@ -1,21 +1,57 @@
 [
   {
-    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
-    "id": "tobocop2/lilbee",
-    "language": "Python",
-    "name": "tobocop2/lilbee",
-    "stars": 66,
-    "updated_at": "2026-10-25T01:12:37Z",
-    "url": "https://github.com/tobocop2/lilbee"
+    "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merge",
+    "id": "AI-WorkDeck/aiworkdeck",
+    "language": "Java",
+    "name": "AI-WorkDeck/aiworkdeck",
+    "stars": 163,
+    "updated_at": "2026-10-25T01:14:52Z",
+    "url": "https://github.com/AI-WorkDeck/aiworkdeck"
   },
   {
-    "description": "RAG Experimentation",
-    "id": "skaragianis/oracle",
+    "description": "Nyx \u2014 \u591c\u4e4b\u611f\u77e5\u5c42\u3002Veil Bloom Filter + Mist Phantom \u5bfb\u56de\u5931\u843d\u8bb0\u5fc6\uff0cThalamus \u8def\u7531 + Hypnos \u68a6\u5883\u7684\u7b2c\u4e09\u5b50\u7cfb\u7edf\u3002",
+    "id": "sixgodgit/nyx",
     "language": "Python",
-    "name": "skaragianis/oracle",
+    "name": "sixgodgit/nyx",
+    "stars": 4,
+    "updated_at": "2026-10-25T01:14:51Z",
+    "url": "https://github.com/sixgodgit/nyx"
+  },
+  {
+    "description": "Open-source GraphRAG domain knowledge layer: LLMs continuously distill scattered skill docs into a queryable, evolvable,",
+    "id": "xcosmosbox/Cairn",
+    "language": "Go",
+    "name": "xcosmosbox/Cairn",
+    "stars": 21,
+    "updated_at": "2026-10-25T01:14:32Z",
+    "url": "https://github.com/xcosmosbox/Cairn"
+  },
+  {
+    "description": "Self-hosted semantic memory for AI agents, served over MCP. Persistent sessions, experience scoring, a graveyard for dea",
+    "id": "richarvey/OmniMem",
+    "language": "Rust",
+    "name": "richarvey/OmniMem",
+    "stars": 61,
+    "updated_at": "2026-10-25T01:14:09Z",
+    "url": "https://github.com/richarvey/OmniMem"
+  },
+  {
+    "description": "Vectorless RAG with MCP \u2014 BM25 + temporal KG + link walking. Zero dependencies, zero GPU.",
+    "id": "jmiaie/locus",
+    "language": "Python",
+    "name": "jmiaie/locus",
+    "stars": 1,
+    "updated_at": "2026-10-25T01:13:52Z",
+    "url": "https://github.com/jmiaie/locus"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-25T01:12:48Z",
-    "url": "https://github.com/skaragianis/oracle"
+    "updated_at": "2026-10-25T01:13:51Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
     "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
@@ -23,8 +59,44 @@
     "language": "Rust",
     "name": "cortexkit/aft",
     "stars": 332,
-    "updated_at": "2026-10-25T01:11:18Z",
+    "updated_at": "2026-10-25T01:13:30Z",
     "url": "https://github.com/cortexkit/aft"
+  },
+  {
+    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi",
+    "id": "tobocop2/lilbee",
+    "language": "Python",
+    "name": "tobocop2/lilbee",
+    "stars": 66,
+    "updated_at": "2026-10-25T01:13:19Z",
+    "url": "https://github.com/tobocop2/lilbee"
+  },
+  {
+    "description": "A local emulator for enterprise SaaS APIs \u2014 Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more \u2014 with the rea",
+    "id": "brekkylab/backlot",
+    "language": "Python",
+    "name": "brekkylab/backlot",
+    "stars": 259,
+    "updated_at": "2026-10-25T01:13:14Z",
+    "url": "https://github.com/brekkylab/backlot"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T01:12:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG Experimentation",
+    "id": "skaragianis/oracle",
+    "language": "Python",
+    "name": "skaragianis/oracle",
+    "stars": 0,
+    "updated_at": "2026-10-25T01:13:32Z",
+    "url": "https://github.com/skaragianis/oracle"
   },
   {
     "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "kagura-ai/memory-cloud",
     "stars": 12,
-    "updated_at": "2026-10-25T01:12:14Z",
+    "updated_at": "2026-10-25T01:14:24Z",
     "url": "https://github.com/kagura-ai/memory-cloud"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T01:02:22Z",
     "url": "https://github.com/AnkitParekh007/resume"
-  },
-  {
-    "description": "A local emulator for enterprise SaaS APIs \u2014 Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more \u2014 with the rea",
-    "id": "brekkylab/backlot",
-    "language": "Python",
-    "name": "brekkylab/backlot",
-    "stars": 259,
-    "updated_at": "2026-10-25T01:02:08Z",
-    "url": "https://github.com/brekkylab/backlot"
   },
   {
     "description": "Save YouTube transcripts, podcasts, X posts, Reddit threads and articles to a local knowledge base on Windows. Your AI s",
@@ -250,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T01:00:22Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T01:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An agentic runtime",
@@ -394,59 +448,5 @@
     "stars": 90,
     "updated_at": "2026-10-25T00:52:47Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
-  },
-  {
-    "description": "Offline-first AI memory for coding \u2014 29 MCP tools, temporal knowledge graph, and local vector search. No API keys, no cl",
-    "id": "rergards/mempalace-code",
-    "language": "Python",
-    "name": "rergards/mempalace-code",
-    "stars": 23,
-    "updated_at": "2026-10-25T00:54:51Z",
-    "url": "https://github.com/rergards/mempalace-code"
-  },
-  {
-    "description": "Arabic question answering over Jordanian tax laws with article-level citations: FastAPI, Gemini embeddings, pgvector, re",
-    "id": "Abdullah-AbuHatab/jo-tax-law-rag",
-    "language": "Python",
-    "name": "Abdullah-AbuHatab/jo-tax-law-rag",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:52:11Z",
-    "url": "https://github.com/Abdullah-AbuHatab/jo-tax-law-rag"
-  },
-  {
-    "description": "Persistent, local-first shared memory collective for autonomous AI agents with SQLite WAL and FTS5 search.",
-    "id": "RAMBO-LC/WyredHF2026",
-    "language": "TypeScript",
-    "name": "RAMBO-LC/WyredHF2026",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:52:10Z",
-    "url": "https://github.com/RAMBO-LC/WyredHF2026"
-  },
-  {
-    "description": "Build resilient agents.",
-    "id": "langchain-ai/langgraph",
-    "language": "Python",
-    "name": "langchain-ai/langgraph",
-    "stars": 43839,
-    "updated_at": "2026-10-25T00:50:19Z",
-    "url": "https://github.com/langchain-ai/langgraph"
-  },
-  {
-    "description": "Neo - assistant IA 100 % local : chat multi-agents, generation d'images 4K (FLUX), 3D imprimable, RAG documents, voix fr",
-    "id": "tony2marseille-droid/N-o",
-    "language": "Python",
-    "name": "tony2marseille-droid/N-o",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:49:47Z",
-    "url": "https://github.com/tony2marseille-droid/N-o"
-  },
-  {
-    "description": "Run local AI across all your computers: one OpenAI-compatible API, automatic model placement, nothing leaves your machin",
-    "id": "yeixio/toskar-core",
-    "language": "Go",
-    "name": "yeixio/toskar-core",
-    "stars": 2,
-    "updated_at": "2026-10-25T00:49:12Z",
-    "url": "https://github.com/yeixio/toskar-core"
   }
 ]
