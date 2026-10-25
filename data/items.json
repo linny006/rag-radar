@@ -1,5 +1,32 @@
 [
   {
+    "description": "Privacy-first AI search for Proton Mail: local Bridge sync and SQLite hybrid index, exposed to MCP clients; bring your o",
+    "id": "marshalltech81/protonmail-local-ai",
+    "language": "Python",
+    "name": "marshalltech81/protonmail-local-ai",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:00:12Z",
+    "url": "https://github.com/marshalltech81/protonmail-local-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T14:59:42Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-25T14:59:37Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "Spec-driven development framework \u2014 AI agents that think before they type",
     "id": "Eliyce/paqad-ai",
     "language": "TypeScript",
@@ -378,15 +405,6 @@
     "url": "https://github.com/LocketKeyLLC/scaffold-engine"
   },
   {
-    "description": "Privacy-first AI search for Proton Mail: local Bridge sync and SQLite hybrid index, exposed to MCP clients; bring your o",
-    "id": "marshalltech81/protonmail-local-ai",
-    "language": "Python",
-    "name": "marshalltech81/protonmail-local-ai",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:57:06Z",
-    "url": "https://github.com/marshalltech81/protonmail-local-ai"
-  },
-  {
     "description": "First open-source AI knowledge layer for Togo - 62K+ documents, RAG API, fine-tuned LLM.   Built for developers, startup",
     "id": "omarfarouk228/togolm",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T14:48:10Z",
     "url": "https://github.com/NTidal/nekro_persona"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:47:59Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "NexusVault: an open-source enterprise RAG design prototype. Explore the live demo and help build a tested, permission-aw",
-    "id": "DineshDhanoki/Enterprise-RAG-with-RBAC",
-    "language": "HTML",
-    "name": "DineshDhanoki/Enterprise-RAG-with-RBAC",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:47:55Z",
-    "url": "https://github.com/DineshDhanoki/Enterprise-RAG-with-RBAC"
   }
 ]
