@@ -1,5 +1,122 @@
 [
   {
+    "description": "Research OS de inversi\u00f3n personal \u2014 Next.js + FastAPI, datos reales, alertas Telegram",
+    "id": "nicogarrr/GerarAI",
+    "language": "Python",
+    "name": "nicogarrr/GerarAI",
+    "stars": 1,
+    "updated_at": "2026-10-26T19:45:12Z",
+    "url": "https://github.com/nicogarrr/GerarAI"
+  },
+  {
+    "description": "Chat with your documents, entirely on your machine. Ollama + Qdrant + Postgres + React. Answers with sources, refuses wh",
+    "id": "Sekharendu/LocalCortex",
+    "language": "TypeScript",
+    "name": "Sekharendu/LocalCortex",
+    "stars": 2,
+    "updated_at": "2026-10-26T19:44:50Z",
+    "url": "https://github.com/Sekharendu/LocalCortex"
+  },
+  {
+    "description": "Turn curiosity-driven browsing into a topic-based knowledge compendium - capture pages, cluster them into topics, explor",
+    "id": "skaniti/compendium",
+    "language": "HTML",
+    "name": "skaniti/compendium",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:44:06Z",
+    "url": "https://github.com/skaniti/compendium"
+  },
+  {
+    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "id": "HKUDS/DeepTutor",
+    "language": "Python",
+    "name": "HKUDS/DeepTutor",
+    "stars": 43656,
+    "updated_at": "2026-10-26T19:43:59Z",
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "description": "Open-source, self-hosted knowledge backend for AI agents \u2014 hybrid search (vector + keyword), MCP server, 5 connectors, D",
+    "id": "Destrayon/Connapse",
+    "language": "C#",
+    "name": "Destrayon/Connapse",
+    "stars": 20,
+    "updated_at": "2026-10-26T19:43:54Z",
+    "url": "https://github.com/Destrayon/Connapse"
+  },
+  {
+    "description": "",
+    "id": "hrabanazviking/hrabanazviking",
+    "language": "\u2014",
+    "name": "hrabanazviking/hrabanazviking",
+    "stars": 4,
+    "updated_at": "2026-10-26T19:43:53Z",
+    "url": "https://github.com/hrabanazviking/hrabanazviking"
+  },
+  {
+    "description": "Local AI models for .NET: embeddings, entity extraction, image & video search and chat on ONNX Runtime (CPU/CUDA), via M",
+    "id": "starlinghq/starling",
+    "language": "C#",
+    "name": "starlinghq/starling",
+    "stars": 2,
+    "updated_at": "2026-10-26T19:43:40Z",
+    "url": "https://github.com/starlinghq/starling"
+  },
+  {
+    "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM \u2014 nothing l",
+    "id": "johannes-kaindl/vault-rag",
+    "language": "TypeScript",
+    "name": "johannes-kaindl/vault-rag",
+    "stars": 1,
+    "updated_at": "2026-10-26T19:43:17Z",
+    "url": "https://github.com/johannes-kaindl/vault-rag"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 4859,
+    "updated_at": "2026-10-26T19:43:11Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "End-to-end platform for optimizing Augmented Generation pipelines through systematic hyperparameter grid search and RAGA",
+    "id": "Empreiteiro/yoke-agent",
+    "language": "Python",
+    "name": "Empreiteiro/yoke-agent",
+    "stars": 3,
+    "updated_at": "2026-10-26T19:43:09Z",
+    "url": "https://github.com/Empreiteiro/yoke-agent"
+  },
+  {
+    "description": "RAG-powered tender & grid compliance assistant for Indian DISCOM BESS projects \u2014 indexes JdVVNL, AVVNL, MSEDCL tenders a",
+    "id": "PRATdoppelEK/tender-compliance-rag",
+    "language": "Python",
+    "name": "PRATdoppelEK/tender-compliance-rag",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:42:59Z",
+    "url": "https://github.com/PRATdoppelEK/tender-compliance-rag"
+  },
+  {
+    "description": "Alan Vo | AI, machine learning, AI agents, model evaluation and AI safety.",
+    "id": "ALANDVO/ALANDVO",
+    "language": "\u2014",
+    "name": "ALANDVO/ALANDVO",
+    "stars": 2,
+    "updated_at": "2026-10-26T19:42:58Z",
+    "url": "https://github.com/ALANDVO/ALANDVO"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T19:42:37Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ryan Vo | AI, machine learning, AI agents, model evaluation and AI safety.",
     "id": "A220man/A220man",
     "language": "\u2014",
@@ -59,7 +176,7 @@
     "language": "TypeScript",
     "name": "IncarnaMind/IncarnaMind",
     "stars": 847,
-    "updated_at": "2026-10-26T19:42:22Z",
+    "updated_at": "2026-10-26T19:44:20Z",
     "url": "https://github.com/IncarnaMind/IncarnaMind"
   },
   {
@@ -68,7 +185,7 @@
     "language": "Python",
     "name": "EtanHey/brainlayer",
     "stars": 9,
-    "updated_at": "2026-10-26T19:40:48Z",
+    "updated_at": "2026-10-26T19:44:34Z",
     "url": "https://github.com/EtanHey/brainlayer"
   },
   {
@@ -180,15 +297,6 @@
     "url": "https://github.com/First-AI-Movers/.github"
   },
   {
-    "description": "Research OS de inversi\u00f3n personal \u2014 Next.js + FastAPI, datos reales, alertas Telegram",
-    "id": "nicogarrr/GerarAI",
-    "language": "Python",
-    "name": "nicogarrr/GerarAI",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:38:01Z",
-    "url": "https://github.com/nicogarrr/GerarAI"
-  },
-  {
     "description": "AI-powered adaptive learning platform combining Knowledge Graphs, Local LLMs, and Bayesian skill tracking. Privacy-first",
     "id": "MysterionRise/adaptive-knowledge-graph",
     "language": "Python",
@@ -220,7 +328,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 103367,
+    "stars": 103368,
     "updated_at": "2026-10-26T19:37:30Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -275,7 +383,7 @@
     "language": "Rust",
     "name": "xberg-io/xberg",
     "stars": 9450,
-    "updated_at": "2026-10-26T19:36:19Z",
+    "updated_at": "2026-10-26T19:42:39Z",
     "url": "https://github.com/xberg-io/xberg"
   },
   {
@@ -284,7 +392,7 @@
     "language": "Python",
     "name": "pipeshub-ai/pipeshub-ai",
     "stars": 3850,
-    "updated_at": "2026-10-26T19:38:46Z",
+    "updated_at": "2026-10-26T19:42:44Z",
     "url": "https://github.com/pipeshub-ai/pipeshub-ai"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T19:36:52Z",
     "url": "https://github.com/Stelios-developer/padel-club-management-platform"
-  },
-  {
-    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
-    "id": "Nikit117/kynex-harness",
-    "language": "Python",
-    "name": "Nikit117/kynex-harness",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:34:36Z",
-    "url": "https://github.com/Nikit117/kynex-harness"
-  },
-  {
-    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
-    "id": "ihrimon/ai-engineering-journey",
-    "language": "HTML",
-    "name": "ihrimon/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:34:08Z",
-    "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "Cloudflare/Turnstile bypass and cost benchmark across managed scraping APIs: credit multipliers, render surcharges, and ",
-    "id": "600me/awesome-web-scraping-apis-benchmark",
-    "language": "HTML",
-    "name": "600me/awesome-web-scraping-apis-benchmark",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:34:06Z",
-    "url": "https://github.com/600me/awesome-web-scraping-apis-benchmark"
-  },
-  {
-    "description": "A RAG assistant that answers plain-English questions about an insurance policy PDF, grounded in the document and cited b",
-    "id": "arashshams/Insurance-Policy-RAG",
-    "language": "Python",
-    "name": "arashshams/Insurance-Policy-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:34:01Z",
-    "url": "https://github.com/arashshams/Insurance-Policy-RAG"
-  },
-  {
-    "description": "Modular AI platform for workflow automation, multi-agent orchestration, knowledge management, and human-governed decisio",
-    "id": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "language": "JavaScript",
-    "name": "pulseforgeatmns-ops/pulseforge-leadgen",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:38:10Z",
-    "url": "https://github.com/pulseforgeatmns-ops/pulseforge-leadgen"
-  },
-  {
-    "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
-    "id": "StarlightSearch/EmbedAnything",
-    "language": "Rust",
-    "name": "StarlightSearch/EmbedAnything",
-    "stars": 1319,
-    "updated_at": "2026-10-26T19:34:02Z",
-    "url": "https://github.com/StarlightSearch/EmbedAnything"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "JavaScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:32:57Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
-  },
-  {
-    "description": "Same query, same answer: deterministic RAG for agents. Local-first: one SQLite knowledge store, no LLM call on the retri",
-    "id": "mbachaud/Cymatix-Context",
-    "language": "Python",
-    "name": "mbachaud/Cymatix-Context",
-    "stars": 7,
-    "updated_at": "2026-10-26T19:34:15Z",
-    "url": "https://github.com/mbachaud/Cymatix-Context"
-  },
-  {
-    "description": "Code search that lets AI coding agents find the right files in fewer steps. Use the hosted endpoint or self-host, works ",
-    "id": "takara-ai/miru-code",
-    "language": "TypeScript",
-    "name": "takara-ai/miru-code",
-    "stars": 12,
-    "updated_at": "2026-10-26T19:32:38Z",
-    "url": "https://github.com/takara-ai/miru-code"
-  },
-  {
-    "description": "",
-    "id": "Sayalij1609/MedAgentix_AI",
-    "language": "Python",
-    "name": "Sayalij1609/MedAgentix_AI",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:32:20Z",
-    "url": "https://github.com/Sayalij1609/MedAgentix_AI"
-  },
-  {
-    "description": "Collect unanswered AI agent questions and proposed corrections. Self-hosted feedback routing over REST or MCP, with an i",
-    "id": "OCNAI/kebivo",
-    "language": "Python",
-    "name": "OCNAI/kebivo",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:36:44Z",
-    "url": "https://github.com/OCNAI/kebivo"
-  },
-  {
-    "description": "Local AI models for .NET: embeddings, entity extraction, image & video search and chat on ONNX Runtime (CPU/CUDA), via M",
-    "id": "starlinghq/starling",
-    "language": "C#",
-    "name": "starlinghq/starling",
-    "stars": 2,
-    "updated_at": "2026-10-26T19:32:41Z",
-    "url": "https://github.com/starlinghq/starling"
   }
 ]
