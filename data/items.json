@@ -1,12 +1,12 @@
 [
   {
-    "description": "Scan ELF/PE binaries, identify bundled open-source components, match them against NVD, and have an LLM write Korean CVE ",
-    "id": "acceptha/bin-cve-patch-guide",
-    "language": "Python",
-    "name": "acceptha/bin-cve-patch-guide",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:45:06Z",
-    "url": "https://github.com/acceptha/bin-cve-patch-guide"
+    "description": "Python toolkit for AI apps: RAG evaluation with ragas, a computer-vision boilerplate, adapters for LangChain, OpenCV, RF",
+    "id": "kazuma313/zul_utilities",
+    "language": "Jupyter Notebook",
+    "name": "kazuma313/zul_utilities",
+    "stars": 1,
+    "updated_at": "2026-10-26T06:46:09Z",
+    "url": "https://github.com/kazuma313/zul_utilities"
   },
   {
     "description": "Website and AI renovation assistant for SYD Bioedilizia (Rome). Next.js 16 frontend on Vercel, FastAPI backend on Cloud ",
@@ -14,8 +14,80 @@
     "language": "Python",
     "name": "ionmidori/SYDBioedilizia",
     "stars": 0,
-    "updated_at": "2026-10-26T06:45:03Z",
+    "updated_at": "2026-10-26T06:45:46Z",
     "url": "https://github.com/ionmidori/SYDBioedilizia"
+  },
+  {
+    "description": "Find the root cause of bugs from your own code, docs, PRs and tickets. Evidence-backed investigations with cited sources",
+    "id": "gnsaddy/repolens",
+    "language": "Python",
+    "name": "gnsaddy/repolens",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:45:37Z",
+    "url": "https://github.com/gnsaddy/repolens"
+  },
+  {
+    "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, ",
+    "id": "PersonalClaw/PersonalClaw",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClaw",
+    "stars": 7,
+    "updated_at": "2026-10-26T06:45:35Z",
+    "url": "https://github.com/PersonalClaw/PersonalClaw"
+  },
+  {
+    "description": "ODW Desk - Self-hosted, WhatsApp-first AI customer support agent with full data sovereignty. Production-ready with PII d",
+    "id": "OnDemandWorld/odw-desk",
+    "language": "Python",
+    "name": "OnDemandWorld/odw-desk",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:45:35Z",
+    "url": "https://github.com/OnDemandWorld/odw-desk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Learn RAG and tool-using agents through saved Fashion-MNIST experiments",
+    "id": "hardik17906/ml-experiment-detective",
+    "language": "Python",
+    "name": "hardik17906/ml-experiment-detective",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:45:25Z",
+    "url": "https://github.com/hardik17906/ml-experiment-detective"
+  },
+  {
+    "description": "AI service for StudyLife \u2014 RAG-powered study assistant with agentic actions (LangGraph + FastAPI), source-cited answers ",
+    "id": "lukislp/studylife-ai",
+    "language": "Python",
+    "name": "lukislp/studylife-ai",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:46:25Z",
+    "url": "https://github.com/lukislp/studylife-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Scan ELF/PE binaries, identify bundled open-source components, match them against NVD, and have an LLM write Korean CVE ",
+    "id": "acceptha/bin-cve-patch-guide",
+    "language": "Python",
+    "name": "acceptha/bin-cve-patch-guide",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:45:06Z",
+    "url": "https://github.com/acceptha/bin-cve-patch-guide"
   },
   {
     "description": "An AI Skill Runtime for knowledge-intensive work which makes everything under your control.",
@@ -36,21 +108,12 @@
     "url": "https://github.com/Sudhanshu-Patil/glance-chat"
   },
   {
-    "description": "Find the root cause of bugs from your own code, docs, PRs and tickets. Evidence-backed investigations with cited sources",
-    "id": "gnsaddy/repolens",
-    "language": "Python",
-    "name": "gnsaddy/repolens",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:44:45Z",
-    "url": "https://github.com/gnsaddy/repolens"
-  },
-  {
     "description": "Understand any bill in plain English: paste a link to legislation and get a plain-language explanation cited to the sect",
     "id": "ylove/lawglass",
     "language": "TypeScript",
     "name": "ylove/lawglass",
     "stars": 0,
-    "updated_at": "2026-10-26T06:44:28Z",
+    "updated_at": "2026-10-26T06:46:09Z",
     "url": "https://github.com/ylove/lawglass"
   },
   {
@@ -198,6 +261,15 @@
     "url": "https://github.com/codewithmuh/ai-support-agent"
   },
   {
+    "description": "Local RAG over PDFs: hybrid BM25 + vector search, cross-encoder reranking and page-level citations, with a retrieval eva",
+    "id": "naman-sriv/pdf-chat",
+    "language": "Python",
+    "name": "naman-sriv/pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:46:11Z",
+    "url": "https://github.com/naman-sriv/pdf-chat"
+  },
+  {
     "description": "Atlas BI: an e-commerce NL2SQL analytics copilot with hybrid schema retrieval, SQL guardrails, LangGraph repair, and a r",
     "id": "sun-sh/atlas-bi-nl2sql",
     "language": "Python",
@@ -239,7 +311,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-26T06:42:55Z",
+    "updated_at": "2026-10-26T06:45:34Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Python",
     "name": "HIT-Champion/Signet",
     "stars": 3,
-    "updated_at": "2026-10-26T06:39:53Z",
+    "updated_at": "2026-10-26T06:45:32Z",
     "url": "https://github.com/HIT-Champion/Signet"
   },
   {
@@ -311,7 +383,7 @@
     "language": "TypeScript",
     "name": "Bike4Mind/bike4mind",
     "stars": 93,
-    "updated_at": "2026-10-26T06:41:01Z",
+    "updated_at": "2026-10-26T06:45:18Z",
     "url": "https://github.com/Bike4Mind/bike4mind"
   },
   {
@@ -340,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T06:39:23Z",
     "url": "https://github.com/nicogarrr/GerarAI"
-  },
-  {
-    "description": "Python toolkit for AI apps: RAG evaluation with ragas, a computer-vision boilerplate, adapters for LangChain, OpenCV, RF",
-    "id": "kazuma313/zul_utilities",
-    "language": "Jupyter Notebook",
-    "name": "kazuma313/zul_utilities",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:34:47Z",
-    "url": "https://github.com/kazuma313/zul_utilities"
   },
   {
     "description": "An AI chat agent (harness) with integrated tools, skills and an optional knowledge base. Chat with any OpenAI-compatible",
@@ -385,68 +448,5 @@
     "stars": 31,
     "updated_at": "2026-10-26T06:34:08Z",
     "url": "https://github.com/IHUI-INF-AI/IHUI-AI"
-  },
-  {
-    "description": "Persistent memory for AI coding agents via MCP: a bitemporal knowledge graph of your codebase, served to Claude Code, Cu",
-    "id": "STiFLeR7/memex",
-    "language": "Python",
-    "name": "STiFLeR7/memex",
-    "stars": 12,
-    "updated_at": "2026-10-26T06:33:43Z",
-    "url": "https://github.com/STiFLeR7/memex"
-  },
-  {
-    "description": "Official Python and TypeScript SDKs for Anona Memory  managed memory for AI agents. Record, retrieve and reason over mem",
-    "id": "anonalabs/Anona-Memory-SDK",
-    "language": "Python",
-    "name": "anonalabs/Anona-Memory-SDK",
-    "stars": 4,
-    "updated_at": "2026-10-26T06:33:52Z",
-    "url": "https://github.com/anonalabs/Anona-Memory-SDK"
-  },
-  {
-    "description": "Turns a codebase into something the rest of the company can ask. Plain-language questions, answers in domain terms, flow",
-    "id": "trick77/rongo",
-    "language": "Go",
-    "name": "trick77/rongo",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:33:58Z",
-    "url": "https://github.com/trick77/rongo"
-  },
-  {
-    "description": "The typed, secure data layer for vector databases in Node.js: one API over pgvector, Qdrant, SQLite and memory, with inj",
-    "id": "amanjhacodes55/vectorfort",
-    "language": "TypeScript",
-    "name": "amanjhacodes55/vectorfort",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:32:55Z",
-    "url": "https://github.com/amanjhacodes55/vectorfort"
-  },
-  {
-    "description": "Ablation is an AI-assisted reverse engineering (AIARE) framework",
-    "id": "Ablation-Tool/ablation",
-    "language": "Python",
-    "name": "Ablation-Tool/ablation",
-    "stars": 224,
-    "updated_at": "2026-10-26T06:32:46Z",
-    "url": "https://github.com/Ablation-Tool/ablation"
-  },
-  {
-    "description": "DecisionAtlas is an open-source AI-powered engineering decision memory and governance platform. Turn GitHub issues, PRs,",
-    "id": "luzay-max/DecisionAtlas",
-    "language": "Python",
-    "name": "luzay-max/DecisionAtlas",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:32:45Z",
-    "url": "https://github.com/luzay-max/DecisionAtlas"
-  },
-  {
-    "description": "ODW Desk - Self-hosted, WhatsApp-first AI customer support agent with full data sovereignty. Production-ready with PII d",
-    "id": "OnDemandWorld/odw-desk",
-    "language": "Python",
-    "name": "OnDemandWorld/odw-desk",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:31:42Z",
-    "url": "https://github.com/OnDemandWorld/odw-desk"
   }
 ]
