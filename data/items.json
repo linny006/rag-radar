@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-source desktop assistant for local models. Chat, talk to it, and let it browse the web and work with your files.",
+    "id": "Lucki74/draggy",
+    "language": "TypeScript",
+    "name": "Lucki74/draggy",
+    "stars": 3,
+    "updated_at": "2026-10-27T23:14:55Z",
+    "url": "https://github.com/Lucki74/draggy"
+  },
+  {
+    "description": "\u5de8\u5929agent \u2014 \u5f00\u6e90\u672c\u5730\u4f18\u5148\u7684 AI \u684c\u9762\u5de5\u4f5c\u53f0:39 \u5de5\u5177\u76f4\u8fde\u7ec8\u7aef\u6587\u4ef6\u3001\u514d\u8d39\u6a21\u578b\u96f6\u95e8\u69db\u3001AI \u89d2\u8272(\u8bb0\u5fc6/\u6717\u8bfb/\u753b\u753b)\u3001\u6df1\u5ea6\u8c03\u7814\u3001\u76ee\u6807\u6a21\u5f0f",
+    "id": "deepseekv5/jutian-agent",
+    "language": "TypeScript",
+    "name": "deepseekv5/jutian-agent",
+    "stars": 12,
+    "updated_at": "2026-10-27T23:14:15Z",
+    "url": "https://github.com/deepseekv5/jutian-agent"
+  },
+  {
+    "description": "10-K question answering with citations and a groundedness guardrail, run fully local; evaluated on 53 known-answer quest",
+    "id": "Teymur102/filings-copilot",
+    "language": "Python",
+    "name": "Teymur102/filings-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:14:02Z",
+    "url": "https://github.com/Teymur102/filings-copilot"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:13:37Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
+    "id": "jrhahn/ai-trainer",
+    "language": "Python",
+    "name": "jrhahn/ai-trainer",
+    "stars": 1,
+    "updated_at": "2026-10-27T23:13:40Z",
+    "url": "https://github.com/jrhahn/ai-trainer"
+  },
+  {
+    "description": "AI application built to help healthcare professionals assess hospital readmission risk",
+    "id": "DanHerman212/enterprise_clinical_copilot",
+    "language": "Python",
+    "name": "DanHerman212/enterprise_clinical_copilot",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:12:45Z",
+    "url": "https://github.com/DanHerman212/enterprise_clinical_copilot"
+  },
+  {
+    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
+    "id": "atishay-kasliwal/atriveo-app",
+    "language": "JavaScript",
+    "name": "atishay-kasliwal/atriveo-app",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:12:03Z",
+    "url": "https://github.com/atishay-kasliwal/atriveo-app"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T23:12:02Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
     "id": "XaviCodeDev1000/webfang",
     "language": "Rust",
     "name": "XaviCodeDev1000/webfang",
     "stars": 0,
-    "updated_at": "2026-10-27T23:11:49Z",
+    "updated_at": "2026-10-27T23:13:10Z",
     "url": "https://github.com/XaviCodeDev1000/webfang"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "cronai-labs/okf-vault-kit",
     "stars": 0,
-    "updated_at": "2026-10-27T23:10:25Z",
+    "updated_at": "2026-10-27T23:14:49Z",
     "url": "https://github.com/cronai-labs/okf-vault-kit"
   },
   {
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "IncarnaMind/IncarnaMind",
     "stars": 847,
-    "updated_at": "2026-10-27T23:10:25Z",
+    "updated_at": "2026-10-27T23:14:52Z",
     "url": "https://github.com/IncarnaMind/IncarnaMind"
   },
   {
@@ -162,20 +234,11 @@
     "url": "https://github.com/cidade360/mneme-memory-forge"
   },
   {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:04:12Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67647,
+    "stars": 67648,
     "updated_at": "2026-10-27T23:04:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -252,15 +315,6 @@
     "url": "https://github.com/karthikcsq/personalsite"
   },
   {
-    "description": "AI-powered cycling coach with Strava integration, RAG-based training knowledge, and support for OpenAI & Gemini \u2014 built ",
-    "id": "jrhahn/ai-trainer",
-    "language": "Python",
-    "name": "jrhahn/ai-trainer",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:05:47Z",
-    "url": "https://github.com/jrhahn/ai-trainer"
-  },
-  {
     "description": "Project once, retrieve distillations, create tools: a pre-loading retrieval architecture and tool builder for distributa",
     "id": "chrisgagne/grounded-forge",
     "language": "Python",
@@ -277,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T23:00:25Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T23:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Hybrid Neo4j + pgvector RAG over SEC 10-Ks: closed ontology, citation-validated answers, hop-stratified hybrid vs vector",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-27T22:57:28Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis",
-    "id": "Clairelee1010/macro-attribution-dashboard",
-    "language": "HTML",
-    "name": "Clairelee1010/macro-attribution-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-27T22:57:25Z",
-    "url": "https://github.com/Clairelee1010/macro-attribution-dashboard"
-  },
-  {
-    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "id": "onyx-dot-app/onyx",
-    "language": "Python",
-    "name": "onyx-dot-app/onyx",
-    "stars": 33030,
-    "updated_at": "2026-10-27T23:11:13Z",
-    "url": "https://github.com/onyx-dot-app/onyx"
-  },
-  {
-    "description": "Open-source, self-hosted search and AI chat for your website, grounded in your own data",
-    "id": "alphasolutionsrepo/interakt",
-    "language": "TypeScript",
-    "name": "alphasolutionsrepo/interakt",
-    "stars": 16,
-    "updated_at": "2026-10-27T22:59:00Z",
-    "url": "https://github.com/alphasolutionsrepo/interakt"
-  },
-  {
-    "description": "Answers with the current rule as regulations change, evaluated across 7 layers.",
-    "id": "kurannnnn/rulelens",
-    "language": "Python",
-    "name": "kurannnnn/rulelens",
-    "stars": 0,
-    "updated_at": "2026-10-27T22:56:04Z",
-    "url": "https://github.com/kurannnnn/rulelens"
-  },
-  {
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbo",
-    "id": "cortexkit/aft",
-    "language": "Rust",
-    "name": "cortexkit/aft",
-    "stars": 333,
-    "updated_at": "2026-10-27T23:02:06Z",
-    "url": "https://github.com/cortexkit/aft"
   }
 ]
