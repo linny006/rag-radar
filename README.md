@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 12:30 UTC
+> ⏰ Last updated: 2026-10-28 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [umutcantezgel-cpu/Starpi](https://github.com/umutcantezgel-cpu/Starpi) | 4 | JavaScript | 2026-10-28 | „Local first AI knowledge assistant that shows how far each answer can be trusted: deterministic source check, signed re |
-| 2 | [dollamplot/mmeval_jd215](https://github.com/dollamplot/mmeval_jd215) | 0 | Python | 2026-10-28 | 对内容做归一化与分片比对，找出多模态评测工程师·流水线的数据倾斜上的重复项并按相似度归并 |
-| 3 | [tongong001/injectguard_jd211](https://github.com/tongong001/injectguard_jd211) | 0 | Python | 2026-10-28 | 在同一个输入里两两比对，检测提示注入防护工程师·GPU 故障与作业自愈相关的矛盾表述，把冲突双方原样并排呈现 |
-| 4 | [varun29ankuS/shodhRAG](https://github.com/varun29ankuS/shodhRAG) | 7 | Rust | 2026-10-28 | Private document intelligence for teams: ask questions across your folders and get answers cited to the exact page. Loca |
-| 5 | [da3387745-ship-it/DEV-COMPASS](https://github.com/da3387745-ship-it/DEV-COMPASS) | 0 | Python | 2026-10-28 | **Dev Compass** is a smart AI assistant powered by Retrieval-Augmented Generation (RAG) that helps new engineers get up  |
-| 6 | [weihecrapy/searchrank_jd207](https://github.com/weihecrapy/searchrank_jd207) | 0 | Python | 2026-10-28 | 按给定权重把总额度分配到各项，报告超分配项与利用率 |
-| 7 | [brekkylab/backlot](https://github.com/brekkylab/backlot) | 260 | Python | 2026-10-28 | A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the rea |
-| 8 | [noicework/corpuskit](https://github.com/noicework/corpuskit) | 0 | TypeScript | 2026-10-28 | CorpusKit, the open source research portal for Progress Agentic RAG. Point it at an empty knowledge box and it opens as  |
-| 9 | [mosttome/agentplat_jd203](https://github.com/mosttome/agentplat_jd203) | 0 | Python | 2026-10-28 | 抽取数值做分布分析，用中位数绝对偏差识别Agent 编排平台工程师·灰度发布与版本回滚上的离群点 |
-| 10 | [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | 31 | TypeScript | 2026-10-28 | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 ta |
-| 11 | [neonplay5/kvcache_jd199](https://github.com/neonplay5/kvcache_jd199) | 0 | Python | 2026-10-28 | 按段落统计KV Cache 与显存优化工程师·长工具链的上下文回收相关的长度分布，标出过长、过短与重复表达的部分 |
-| 12 | [amadou-6e/py-docker](https://github.com/amadou-6e/py-docker) | 2 | Python | 2026-10-28 | Docker-DB is a Python library for managing database containers via Docker: supporting fast, scriptable setup of MongoDB, |
-| 13 | [atsushi023/multimodal_jd195](https://github.com/atsushi023/multimodal_jd195) | 0 | Python | 2026-10-28 | 把输入按语义边界切成独立单元，逐单元核对多模态算法研究员·混合检索的权重调节相关的特征并标出命中位置 |
-| 14 | [AaruneshAP/Chatbot_rag](https://github.com/AaruneshAP/Chatbot_rag) | 0 | Python | 2026-10-28 | End-to-end citation-grounded RAG chatbot for ML docs (Pandas, Scikit-Learn, XGBoost) with BM25/Vector hybrid search & ex |
-| 15 | [Zhengjunliang/multilingual-course-assistant](https://github.com/Zhengjunliang/multilingual-course-assistant) | 0 | TypeScript | 2026-10-28 | Ask about a university course or the campus in any language and get an answer in that language, citing the slide or web  |
-| 16 | [bento-b/aiefficiency_jd191](https://github.com/bento-b/aiefficiency_jd191) | 0 | Python | 2026-10-28 | 为每一项打分并与阈值比较，明确标出通过、边界与不通过三档 |
-| 17 | [abhay-yemekar/hirelens](https://github.com/abhay-yemekar/hirelens) | 6 | TypeScript | 2026-10-28 | Open-source, glass-box hiring intelligence. Rank candidates against a job with evidence-linked scores, rubric transparen |
-| 18 | [eberroy/annotate_jd187](https://github.com/eberroy/annotate_jd187) | 0 | Python | 2026-10-28 | 解析时间标记，排列标注平台与数据质量工程师·工具调用的参数错配的发生顺序，标出间隔异常与逆序事件 |
-| 19 | [S2zxx0zxx/FinCo-pilot](https://github.com/S2zxx0zxx/FinCo-pilot) | 10 | Python | 2026-10-28 | ⚡ Open-source, privacy-first personal finance cockpit. Bring accounts, transactions, budgets, goals, assets & reports in |
-| 20 | [bombian/moearch_jd183](https://github.com/bombian/moearch_jd183) | 0 | Python | 2026-10-28 | 通过字符级与结构级特征识别MoE 模型架构师·拒答边界与过度拒答的痕迹，给出密度与命中位置 |
-| 21 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | 7704 | Python | 2026-10-28 | ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into  |
-| 22 | [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) | 641 | Python | 2026-10-28 | Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceD |
-| 23 | [editorjam1/gpuops_jd179](https://github.com/editorjam1/gpuops_jd179) | 0 | Python | 2026-10-28 | 统计各来源片段的贡献量与占比，标出GPU 集群运维工程师·标注一致性与标注者偏差上最主要的来源 |
-| 24 | [fudufosy/autoperceive_jd175](https://github.com/fudufosy/autoperceive_jd175) | 0 | Python | 2026-10-28 | 按结构键把条目聚类，标出自动驾驶感知工程师·MoE 路由的负载不均上的同组项与各组的代表样本 |
-| 25 | [JiaY-77/Palimpsest](https://github.com/JiaY-77/Palimpsest) | 8 | Python | 2026-10-28 | Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval f |
-| 26 | [trinholoy/chipadapt_jd171](https://github.com/trinholoy/chipadapt_jd171) | 0 | Python | 2026-10-28 | 从输入中抽取数值，计算推理芯片适配工程师·梯度累积与有效批量相关的比值与占比，分母为零时明确报错 |
-| 27 | [teng-lin/open-foresight](https://github.com/teng-lin/open-foresight) | 4 | Dart | 2026-10-28 | Offline AI meeting notes and transcription for Linux and macOS. Open-source Google AI Edge Foresight and Granola alterna |
-| 28 | [Silver1V8/VibeCraft](https://github.com/Silver1V8/VibeCraft) | 1 | HTML | 2026-10-28 | IT · In un corpus di norme, il testo che spiega una regola batte quello che la stabilisce. Graph-RAG locale: pesa l'auto |
-| 29 | [belvamoros/deploy_jd167](https://github.com/belvamoros/deploy_jd167) | 0 | Python | 2026-10-28 | 从样本里推断模型部署工程师·KV Cache 复用与前缀共享应有的字段集合，逐字段检查存在性与类型，缺失项单独列出 |
-| 30 | [fnetreal/featplat_jd163](https://github.com/fnetreal/featplat_jd163) | 0 | Python | 2026-10-28 | 用一组明示的正则规则扫描输入，报告特征平台工程师·批处理调度与吞吐折中相关的命中行与片段 |
-| 31 | [chunxiaoxx/nautilus-compass](https://github.com/chunxiaoxx/nautilus-compass) | 1254 | Python | 2026-10-28 | Open memory & reliability layer for AI agents + independent judging/verification (NACRE judge, caliber-bench meta-benchm |
-| 32 | [xukabigoba/nlp_jd159](https://github.com/xukabigoba/nlp_jd159) | 0 | Python | 2026-10-28 | 把候选项映射到类别上，算出NLP 算法工程师·存储 IO 与计算的重叠的覆盖率并列出未覆盖的类别 |
-| 33 | [fangyunok/code-review-eval-harness](https://github.com/fangyunok/code-review-eval-harness) | 0 | Python | 2026-10-28 | 代码评审 Agent 双层评测框架：评测集管线 + Harness/Model 双层对齐打分 + 异步并发 + 可复现 run + 质量门禁，20 个测试通过 \| Industrial-grade eval harness for AI c |
-| 34 | [universitatjaumei/teclab-govgenai](https://github.com/universitatjaumei/teclab-govgenai) | 0 | Python | 2026-10-28 | Plataforma de IA generativa para administración pública: asistentes RAG sobre normativa propia, informes asistidos, cura |
-| 35 | [pradipshri/segmodel_jd155](https://github.com/pradipshri/segmodel_jd155) | 0 | Python | 2026-10-28 | 对内容做归一化与分片比对，找出图像分割研究员·成本与吞吐的帕累托边界上的重复项并按相似度归并 |
-| 36 | [NeutronZero/RationaleVault](https://github.com/NeutronZero/RationaleVault) | 0 | Python | 2026-10-28 | Help AI agents remember, reason, and continue work across sessions through event-sourced cognitive continuity. |
-| 37 | [lpaetsoo/mmeval_jd151](https://github.com/lpaetsoo/mmeval_jd151) | 0 | Python | 2026-10-28 | 在同一个输入里两两比对，检测多模态评测工程师·推理链路的追踪埋点相关的矛盾表述，把冲突双方原样并排呈现 |
-| 38 | [Pranav8307/Document-Intelligence-System](https://github.com/Pranav8307/Document-Intelligence-System) | 1 | Python | 2026-10-28 | RAG-based document Q&A API — FastAPI + FAISS + SentenceTransformers with TTL caching and rate limiting |
-| 39 | [sauceyambr/injectguard_jd147](https://github.com/sauceyambr/injectguard_jd147) | 0 | Python | 2026-10-28 | 按给定权重把总额度分配到各项，报告超分配项与利用率 |
-| 40 | [dappros/ethora](https://github.com/dappros/ethora) | 551 | JavaScript | 2026-10-28 | SDK monorepo for the Ethora chat / messaging platform. (1) Pick an SDK for your frontend stack. (2) Integrate manually o |
-| 41 | [jcaneleir/searchrank_jd143](https://github.com/jcaneleir/searchrank_jd143) | 0 | Python | 2026-10-28 | 抽取数值做分布分析，用中位数绝对偏差识别搜索排序算法工程师·结构化输出的约束解码上的离群点 |
-| 42 | [lilian-van/agentplat_jd139](https://github.com/lilian-van/agentplat_jd139) | 0 | Python | 2026-10-28 | 按段落统计Agent 编排平台工程师·分块策略对召回的影响相关的长度分布，标出过长、过短与重复表达的部分 |
-| 43 | [naillan8/kvcache_jd135](https://github.com/naillan8/kvcache_jd135) | 0 | Python | 2026-10-28 | 把输入按语义边界切成独立单元，逐单元核对KV Cache 与显存优化工程师·智能体的任务终止条件相关的特征并标出命中位置 |
-| 44 | [lion231226/ai-delivery-case-studies](https://github.com/lion231226/ai-delivery-case-studies) | 0 | — | 2026-10-28 | Anonymized AI delivery case studies — RAG, evals, LLM agents, acceptance-gated delivery. |
-| 45 | [yass-zz-de/multimodal_jd131](https://github.com/yass-zz-de/multimodal_jd131) | 0 | Python | 2026-10-28 | 为每一项打分并与阈值比较，明确标出通过、边界与不通过三档 |
-| 46 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26867 | Python | 2026-10-28 | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modula |
-| 47 | [labsai/EDDI](https://github.com/labsai/EDDI) | 387 | Java | 2026-10-28 | Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 19+ LLM providers, MCP/ |
-| 48 | [lauvinglau/aiefficiency_jd127](https://github.com/lauvinglau/aiefficiency_jd127) | 0 | Python | 2026-10-28 | 解析时间标记，排列AI 工程效率工具工程师·奖励模型的过拟合的发生顺序，标出间隔异常与逆序事件 |
-| 49 | [luizgsantos-dev/ic-assistente](https://github.com/luizgsantos-dev/ic-assistente) | 0 | Python | 2026-10-28 | Assistente do Instituto de Computação da UFMT, baseado em RAG |
-| 50 | [jmtmotter1/annotate_jd123](https://github.com/jmtmotter1/annotate_jd123) | 0 | Python | 2026-10-28 | 通过字符级与结构级特征识别标注平台与数据质量工程师·数据去重与污染检测的痕迹，给出密度与命中位置 |
+| 1 | [akung941/kvcache_jd455](https://github.com/akung941/kvcache_jd455) | 0 | Python | 2026-10-28 | 对内容做归一化与分片比对，找出KV Cache 与显存优化工程师·越狱模板的变体识别上的重复项并按相似度归并 |
+| 2 | [LightspeedDMS/code-indexer](https://github.com/LightspeedDMS/code-indexer) | 1 | Python | 2026-10-28 | Self-hosted code intelligence hub. Uses VoyageAI embeddings for semantic searching code. CLI + server modes, MCP for Cla |
+| 3 | [mcj5291/multimodal_jd451](https://github.com/mcj5291/multimodal_jd451) | 0 | Python | 2026-10-28 | 在同一个输入里两两比对，检测多模态算法研究员·奖励模型的过拟合相关的矛盾表述，把冲突双方原样并排呈现 |
+| 4 | [dev-core-busy/jarvis](https://github.com/dev-core-busy/jarvis) | 1 | Python | 2026-10-28 | 🖱️ AI Mouse: ask your Windows screen · 🛡️ Hardened to BSI requirements (IT-Grundschutz APP.3.1, TR-02102) · Self-hosted  |
+| 5 | [michalvysocki/doc](https://github.com/michalvysocki/doc) | 0 | Python | 2026-10-28 | AI-powered research workspace for papers, documentation, and learning. |
+| 6 | [closet29ba/aiefficiency_jd447](https://github.com/closet29ba/aiefficiency_jd447) | 0 | Python | 2026-10-28 | 按给定权重把总额度分配到各项，报告超分配项与利用率 |
+| 7 | [rushguy/annotate_jd443](https://github.com/rushguy/annotate_jd443) | 0 | Python | 2026-10-28 | 抽取数值做分布分析，用中位数绝对偏差识别标注平台与数据质量工程师·算子融合的收益边界上的离群点 |
+| 8 | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18337 | Python | 2026-10-28 | Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analys |
+| 9 | [pavelvelem/moearch_jd439](https://github.com/pavelvelem/moearch_jd439) | 0 | Python | 2026-10-28 | 按段落统计MoE 模型架构师·张量并行切分策略相关的长度分布，标出过长、过短与重复表达的部分 |
+| 10 | [huifer/Lumen](https://github.com/huifer/Lumen) | 0 | Python | 2026-10-28 | Lumen · 本地多模态文件检索 demo（Next.js + FastAPI + LangChain Gemini）：自然语言搜本地图片与文档 |
+| 11 | [danieloza/regulated-ai-agent-platform](https://github.com/danieloza/regulated-ai-agent-platform) | 0 | Python | 2026-10-28 | Regulated AI agent platform for safe RAG, scoped tools, approvals, audit logs, Redis rate limits, Docker, Kubernetes, an |
+| 12 | [umutcantezgel-cpu/Starpi](https://github.com/umutcantezgel-cpu/Starpi) | 4 | JavaScript | 2026-10-28 | „Local first AI knowledge assistant that shows how far each answer can be trusted: deterministic source check, signed re |
+| 13 | [AI-WorkDeck/aiworkdeck](https://github.com/AI-WorkDeck/aiworkdeck) | 167 | JavaScript | 2026-10-28 | Open-source AI workspace shaped by everyday legal practice and colleagues’ feedback, developed with team support. Docume |
+| 14 | [jitinbraw/gpuops_jd435](https://github.com/jitinbraw/gpuops_jd435) | 0 | Python | 2026-10-28 | 把输入按语义边界切成独立单元，逐单元核对GPU 集群运维工程师·量化位宽与精度回退相关的特征并标出命中位置 |
+| 15 | [Akshay-Jhijhautia/Agentic-Profile-Matching](https://github.com/Akshay-Jhijhautia/Agentic-Profile-Matching) | 0 | Python | 2026-10-28 | Explainable resume-screening assistant: ranks resumes against a job description, quotes the evidence behind every score  |
+| 16 | [bgarich/autoperceive_jd431](https://github.com/bgarich/autoperceive_jd431) | 0 | Python | 2026-10-28 | 为每一项打分并与阈值比较，明确标出通过、边界与不通过三档 |
+| 17 | [apara0323/chipadapt_jd427](https://github.com/apara0323/chipadapt_jd427) | 0 | Python | 2026-10-28 | 解析时间标记，排列推理芯片适配工程师·GPU 故障与作业自愈的发生顺序，标出间隔异常与逆序事件 |
+| 18 | [soujink/deploy_jd423](https://github.com/soujink/deploy_jd423) | 0 | Python | 2026-10-28 | 通过字符级与结构级特征识别模型部署工程师·回归集与线上样本的差分的痕迹，给出密度与命中位置 |
+| 19 | [Clairelee1010/macro-attribution-dashboard](https://github.com/Clairelee1010/macro-attribution-dashboard) | 0 | HTML | 2026-10-28 | Real-time Cross-Market Attribution Dashboard: Integrating US Macro, Web3/RWA liquidity, and TW equity spillover analysis |
+| 20 | [zzzz12133/qingzhou-support-agent](https://github.com/zzzz12133/qingzhou-support-agent) | 0 | CSS | 2026-10-28 | 晴舟客服 Agent：Spring Boot + React + Python 多工具客服工作台 |
+| 21 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 6 | HTML | 2026-10-28 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 22 | [yasaswinivardhireddy-png/aegis-rag](https://github.com/yasaswinivardhireddy-png/aegis-rag) | 0 | TypeScript | 2026-10-28 | RAG assistant with layered guardrails against prompt injection, data leakage, and hallucination, evaluated against a typ |
+| 23 | [FishRaposo/evalforge](https://github.com/FishRaposo/evalforge) | 0 | Python | 2026-10-28 | Regression testing for RAG and agentic AI: retrieval and conversational evaluations. |
+| 24 | [felichita/nanace](https://github.com/felichita/nanace) | 3 | Rust | 2026-10-28 | Self-hosted team knowledge base with a desktop app, knowledge graph and semantic search — shared with Claude through MCP |
+| 25 | [FishRaposo/groundtruth](https://github.com/FishRaposo/groundtruth) | 1 | Python | 2026-10-28 | Canonical production RAG platform: hybrid search, citations, refusal logic. |
+| 26 | [ssrjkk/raven](https://github.com/ssrjkk/raven) | 3 | Python | 2026-10-28 | Self-hosted MCP server: 66 tools over stdio and HTTP. Workspace confinement, keyed auth, MIT licensed. |
+| 27 | [alinathans/featplat_jd419](https://github.com/alinathans/featplat_jd419) | 0 | Python | 2026-10-28 | 统计各来源片段的贡献量与占比，标出特征平台工程师·灰度发布与版本回滚上最主要的来源 |
+| 28 | [blausedy/nlp_jd415](https://github.com/blausedy/nlp_jd415) | 0 | Python | 2026-10-28 | 按结构键把条目聚类，标出NLP 算法工程师·长工具链的上下文回收上的同组项与各组的代表样本 |
+| 29 | [Vishnuj-n/studyloop](https://github.com/Vishnuj-n/studyloop) | 2 | Go | 2026-10-28 | Remember what you study 6 months from now. StudyLoop turns PDFs, Markdown notes, and YouTube lectures into an active stu |
+| 30 | [dwilloucat/segmodel_jd411](https://github.com/dwilloucat/segmodel_jd411) | 0 | Python | 2026-10-28 | 从输入中抽取数值，计算图像分割研究员·混合检索的权重调节相关的比值与占比，分母为零时明确报错 |
+| 31 | [aka-flashNight/cfn-rag-backend](https://github.com/aka-flashNight/cfn-rag-backend) | 4 | Python | 2026-10-28 | 闪客快打7重置版 (CFN) 的 RAG 智能对话后端：基于游戏资源做检索增强，支持与 NPC 流式对话、任务发布、好感度、立绘与知识库管理。 |
+| 32 | [AutomatosAI/automatos-ai](https://github.com/AutomatosAI/automatos-ai) | 74 | Python | 2026-10-28 | The open-source AI Operating System — run a workforce of AI agents on your own machine. Any model, 1,000+ tools, a Knowl |
+| 33 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) | 3862 | Python | 2026-10-28 | The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Micros |
+| 34 | [borisbarte/mmeval_jd407](https://github.com/borisbarte/mmeval_jd407) | 0 | Python | 2026-10-28 | 从样本里推断多模态评测工程师·重排模型的候选截断应有的字段集合，逐字段检查存在性与类型，缺失项单独列出 |
+| 35 | [elitea-ng/elitea-platform](https://github.com/elitea-ng/elitea-platform) | 2 | TypeScript | 2026-10-28 | The open platform for building, running and sharing AI agents, pipelines and toolkits. |
+| 36 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 97 | Python | 2026-10-28 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
+| 37 | [edsonsims/enterprise-ai-lab](https://github.com/edsonsims/enterprise-ai-lab) | 0 | Python | 2026-10-28 | Approval-gated RAG: public PDFs and OCR, tenant/role permissions, source citations, Temporal crash recovery and reproduc |
+| 38 | [hovenbatte/injectguard_jd403](https://github.com/hovenbatte/injectguard_jd403) | 0 | Python | 2026-10-28 | 用一组明示的正则规则扫描输入，报告提示注入防护工程师·工具调用的参数错配相关的命中行与片段 |
+| 39 | [claudegera/searchrank_jd399](https://github.com/claudegera/searchrank_jd399) | 0 | Python | 2026-10-28 | 把候选项映射到类别上，算出搜索排序算法工程师·拒答边界与过度拒答的覆盖率并列出未覆盖的类别 |
+| 40 | [fangyunok/code-review-eval-harness](https://github.com/fangyunok/code-review-eval-harness) | 0 | Python | 2026-10-28 | 代码评审 Agent 双层评测框架：评测集管线 + Harness/Model 双层对齐打分 + 异步并发 + 可复现 run + 质量门禁，20 个测试通过 \| Industrial-grade eval harness for AI c |
+| 41 | [Abhishek-Rnjn/Evals.si](https://github.com/Abhishek-Rnjn/Evals.si) | 4 | Python | 2026-10-28 | A highly scalable and pluggable evaluations repository that works with all environments to provide an unified experience |
+| 42 | [tobocop2/lilbee](https://github.com/tobocop2/lilbee) | 66 | Python | 2026-10-28 | The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engi |
+| 43 | [makeupmous/agentplat_jd395](https://github.com/makeupmous/agentplat_jd395) | 0 | Python | 2026-10-28 | 对内容做归一化与分片比对，找出Agent 编排平台工程师·标注一致性与标注者偏差上的重复项并按相似度归并 |
+| 44 | [markhuangai/dense-mem](https://github.com/markhuangai/dense-mem) | 39 | Go | 2026-10-28 | Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall,  |
+| 45 | [leewerkley/kvcache_jd391](https://github.com/leewerkley/kvcache_jd391) | 0 | Python | 2026-10-28 | 在同一个输入里两两比对，检测KV Cache 与显存优化工程师·MoE 路由的负载不均相关的矛盾表述，把冲突双方原样并排呈现 |
+| 46 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-28 |  Cognitive Memory Architecture for Agents |
+| 47 | [dbenedigt/multimodal_jd387](https://github.com/dbenedigt/multimodal_jd387) | 0 | Python | 2026-10-28 | 按给定权重把总额度分配到各项，报告超分配项与利用率 |
+| 48 | [cachly-dev/cachly-mcp](https://github.com/cachly-dev/cachly-mcp) | 2 | TypeScript | 2026-10-28 | Solve it once. From then on, your AI knows. Experience for coding agents over MCP, EU-hosted. 124 MCP tools. |
+| 49 | [giselles-ai/giselle](https://github.com/giselles-ai/giselle) | 557 | TypeScript | 2026-10-28 | Giselle: AI App Builder. Open Source. |
+| 50 | [rutafeol/aiefficiency_jd383](https://github.com/rutafeol/aiefficiency_jd383) | 0 | Python | 2026-10-28 | 抽取数值做分布分析，用中位数绝对偏差识别AI 工程效率工具工程师·KV Cache 复用与前缀共享上的离群点 |
 <!-- TRACKER_TABLE_END -->
 
 ---
