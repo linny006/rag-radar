@@ -1,5 +1,104 @@
 [
   {
+    "description": "RAG assistant for Costa Rican independent developers \u2014 tax & tr\u00e1mite answers cited to official Hacienda/CCSS documents",
+    "id": "rjwrld/tramitico",
+    "language": "TypeScript",
+    "name": "rjwrld/tramitico",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:30:16Z",
+    "url": "https://github.com/rjwrld/tramitico"
+  },
+  {
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
+    "id": "melgarafael/DeskcommCRM",
+    "language": "TypeScript",
+    "name": "melgarafael/DeskcommCRM",
+    "stars": 4912,
+    "updated_at": "2026-10-29T00:30:07Z",
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "description": "Sistema completo de gest\u00e3o de oficina em Spring Boot, evoluindo de mon\u00f3lito para cloud, Kubernetes, Terraform e microsse",
+    "id": "ricartefelipe/archlens-ai",
+    "language": "Java",
+    "name": "ricartefelipe/archlens-ai",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:30:13Z",
+    "url": "https://github.com/ricartefelipe/archlens-ai"
+  },
+  {
+    "description": "Template catalog and SDK for AI subsystems \u2014 agents, RAG, MCP servers, eval harnesses, infrastructure. Part of the nanoh",
+    "id": "nanohype/nanohype",
+    "language": "TypeScript",
+    "name": "nanohype/nanohype",
+    "stars": 2,
+    "updated_at": "2026-10-29T00:29:27Z",
+    "url": "https://github.com/nanohype/nanohype"
+  },
+  {
+    "description": "Multi-tenant Python framework for production AI agents: per-tenant AgentSpec, Postgres RLS, MCP-style plugin tools, 3-la",
+    "id": "devrochy/agent-core",
+    "language": "Python",
+    "name": "devrochy/agent-core",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:29:15Z",
+    "url": "https://github.com/devrochy/agent-core"
+  },
+  {
+    "description": "Modular web scraper with Clean Architecture \u2014 wreq TLS fingerprinting, RAG export, MCP server, TUI, AI semantic cleaning",
+    "id": "XaviCodeDev1000/webfang",
+    "language": "Rust",
+    "name": "XaviCodeDev1000/webfang",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:29:05Z",
+    "url": "https://github.com/XaviCodeDev1000/webfang"
+  },
+  {
+    "description": "\u5f00\u6e90\u79c1\u57df AI \u8425\u9500 SCRM \u7cfb\u7edf\uff0cMartech \u83b7\u5ba2\u5f15\u6d41\u5229\u5668\uff01\u5168\u6e20\u9053\u805a\u5408\uff08\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u5feb\u624b/\u5fae\u4fe1/WhatsApp/TikTok/Telegram\uff09\u7edf\u4e00\u6536\u4ef6\u7bb1\u4e0e CDP \u5ba2\u6237\u7ba1\u7406\u3002\ud83e\udd16\u6838\u5fc3\u529f\u80fd\uff1a1. ReAct \u81ea\u4e3b AI \u667a\u80fd\u4f53\uff084",
+    "id": "xiaofang142/hivemtk",
+    "language": "Go",
+    "name": "xiaofang142/hivemtk",
+    "stars": 145,
+    "updated_at": "2026-10-29T00:27:10Z",
+    "url": "https://github.com/xiaofang142/hivemtk"
+  },
+  {
+    "description": "Text-to-SQL access control: schema selection that gives the LLM only the tables the caller is allowed to read. Row-level",
+    "id": "ashishsinha1602/schemagate",
+    "language": "Python",
+    "name": "ashishsinha1602/schemagate",
+    "stars": 179,
+    "updated_at": "2026-10-29T00:27:52Z",
+    "url": "https://github.com/ashishsinha1602/schemagate"
+  },
+  {
+    "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into ",
+    "id": "Osmantic/ODS",
+    "language": "Python",
+    "name": "Osmantic/ODS",
+    "stars": 7711,
+    "updated_at": "2026-10-29T00:26:58Z",
+    "url": "https://github.com/Osmantic/ODS"
+  },
+  {
+    "description": "AI-powered quantitative investment platform with 7-agent swarm orchestration, fractal debate algorithm, 3-tier LLM routi",
+    "id": "neohsiung/AI-Investment-Advisor",
+    "language": "Python",
+    "name": "neohsiung/AI-Investment-Advisor",
+    "stars": 6,
+    "updated_at": "2026-10-29T00:27:08Z",
+    "url": "https://github.com/neohsiung/AI-Investment-Advisor"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T00:25:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Retrieval-augmented QA over a document corpus, with a measured eval harness: BM25, dense MiniLM embeddings, RRF fusion, ",
     "id": "garasnote/rag-service",
     "language": "Python",
@@ -41,17 +140,17 @@
     "language": "TypeScript",
     "name": "elizaOS/eliza",
     "stars": 19697,
-    "updated_at": "2026-10-29T00:23:23Z",
+    "updated_at": "2026-10-29T00:29:06Z",
     "url": "https://github.com/elizaOS/eliza"
   },
   {
-    "description": "RAG assistant for Costa Rican independent developers \u2014 tax & tr\u00e1mite answers cited to official Hacienda/CCSS documents",
-    "id": "rjwrld/tramitico",
-    "language": "TypeScript",
-    "name": "rjwrld/tramitico",
+    "description": "Cited question answering over 10K arXiv machine-learning abstracts, comparing BM25, dense and hybrid retrieval with Reca",
+    "id": "Aatish-Khune/arxiv-research-qa-rag",
+    "language": "Python",
+    "name": "Aatish-Khune/arxiv-research-qa-rag",
     "stars": 0,
     "updated_at": "2026-10-29T00:23:12Z",
-    "url": "https://github.com/rjwrld/tramitico"
+    "url": "https://github.com/Aatish-Khune/arxiv-research-qa-rag"
   },
   {
     "description": "Local-first memory, autonomous thinking, and self-evolution runtime for long-running AI agents",
@@ -68,7 +167,7 @@
     "language": "JavaScript",
     "name": "Zenglian990/AI_Tutor_Release",
     "stars": 74,
-    "updated_at": "2026-10-29T00:22:45Z",
+    "updated_at": "2026-10-29T00:25:33Z",
     "url": "https://github.com/Zenglian990/AI_Tutor_Release"
   },
   {
@@ -77,7 +176,7 @@
     "language": "Go",
     "name": "ncecere/grounded",
     "stars": 2,
-    "updated_at": "2026-10-29T00:22:39Z",
+    "updated_at": "2026-10-29T00:28:40Z",
     "url": "https://github.com/ncecere/grounded"
   },
   {
@@ -135,15 +234,6 @@
     "url": "https://github.com/S2zxx0zxx/FinCo-pilot"
   },
   {
-    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &",
-    "id": "melgarafael/DeskcommCRM",
-    "language": "TypeScript",
-    "name": "melgarafael/DeskcommCRM",
-    "stars": 4912,
-    "updated_at": "2026-10-29T00:21:15Z",
-    "url": "https://github.com/melgarafael/DeskcommCRM"
-  },
-  {
     "description": "Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasonin",
     "id": "royisme/pikabaka",
     "language": "TypeScript",
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "onyx-dot-app/onyx",
     "stars": 33061,
-    "updated_at": "2026-10-29T00:19:23Z",
+    "updated_at": "2026-10-29T00:29:05Z",
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -270,15 +360,6 @@
     "url": "https://github.com/dbechrakis/steam-reviews-nlp-rag"
   },
   {
-    "description": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into ",
-    "id": "Osmantic/ODS",
-    "language": "Python",
-    "name": "Osmantic/ODS",
-    "stars": 7711,
-    "updated_at": "2026-10-29T00:16:44Z",
-    "url": "https://github.com/Osmantic/ODS"
-  },
-  {
     "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each",
     "id": "LocketKeyLLC/scaffold-engine",
     "language": "Python",
@@ -293,7 +374,7 @@
     "language": "Python",
     "name": "jh3779/recall-casebook",
     "stars": 0,
-    "updated_at": "2026-10-29T00:22:37Z",
+    "updated_at": "2026-10-29T00:29:00Z",
     "url": "https://github.com/jh3779/recall-casebook"
   },
   {
@@ -306,6 +387,15 @@
     "url": "https://github.com/teng-lin/open-foresight"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 104037,
+    "updated_at": "2026-10-29T00:15:46Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "Meta-DGTF-\u9053\u751f\u4e09\u9636\u6a21\u578b\uff1aApp / Engine / Local Model \u81ea\u52a8\u5316\u4ed3\u5e93",
     "id": "liao-wc/Meta-DGTF",
     "language": "Python",
@@ -313,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T00:15:45Z",
     "url": "https://github.com/liao-wc/Meta-DGTF"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T00:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:14:41Z",
     "url": "https://github.com/arttujussikil/echoflow"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-29T00:14:39Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Football player scouting platform: FastAPI + SQLite + StatsBomb open data with a local Qwen2.5 RAG chatbot and AI scout ",
-    "id": "automate-it0/football-players-analisis",
-    "language": "Python",
-    "name": "automate-it0/football-players-analisis",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:14:10Z",
-    "url": "https://github.com/automate-it0/football-players-analisis"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46513,
-    "updated_at": "2026-10-29T00:14:00Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A docs assistant for OLake that cites every answer and says \"I don't know\" when the docs don't cover it. 1st prize at OL",
-    "id": "KunalSiyag/ask-olake",
-    "language": "Python",
-    "name": "KunalSiyag/ask-olake",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:12:59Z",
-    "url": "https://github.com/KunalSiyag/ask-olake"
-  },
-  {
-    "description": "Multilingual student onboarding portal with a RAG assistant that cites official sources.",
-    "id": "nastia-sydorchuk/student-assistant",
-    "language": "Java",
-    "name": "nastia-sydorchuk/student-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:12:34Z",
-    "url": "https://github.com/nastia-sydorchuk/student-assistant"
-  },
-  {
-    "description": "LearnSphere AI is an AI-powered learning platform that generates personalized roadmaps, quizzes, and recommendations. It",
-    "id": "ateebarman/LearnSphere-AI",
-    "language": "JavaScript",
-    "name": "ateebarman/LearnSphere-AI",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:12:19Z",
-    "url": "https://github.com/ateebarman/LearnSphere-AI"
-  },
-  {
-    "description": "Find and remove duplicate documents in paperless-ngx. MinHash/LSH fuzzy matching catches near-duplicates that exact hash",
-    "id": "rknightion/paperless-ngx-dedupe",
-    "language": "TypeScript",
-    "name": "rknightion/paperless-ngx-dedupe",
-    "stars": 25,
-    "updated_at": "2026-10-29T00:16:09Z",
-    "url": "https://github.com/rknightion/paperless-ngx-dedupe"
-  },
-  {
-    "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR f",
-    "id": "inite-ai/inite-brain-service",
-    "language": "TypeScript",
-    "name": "inite-ai/inite-brain-service",
-    "stars": 43,
-    "updated_at": "2026-10-29T00:17:36Z",
-    "url": "https://github.com/inite-ai/inite-brain-service"
-  },
-  {
-    "description": "A full-stack application that automatically captures job applications through a Chrome extension, tracks them in a centr",
-    "id": "atishay-kasliwal/atriveo-app",
-    "language": "JavaScript",
-    "name": "atishay-kasliwal/atriveo-app",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:11:30Z",
-    "url": "https://github.com/atishay-kasliwal/atriveo-app"
   }
 ]
